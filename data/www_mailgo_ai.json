@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://mailgo.ai/",
+  "name": "Mailgo",
+  "title": "AI Powered Cold Email With High Deliverability",
+  "payoff": "High-Deliverability Cold Emails with AI-Powered Lead Discovery",
+  "shortDescription": "<p>Mailgo is designed for businesses looking to enhance their email marketing campaigns through AI-driven lead discovery and improved deliverability. It automatically identifies ideal leads and launches scalable cold email campaigns. An example use case includes companies aiming to increase their demo bookings or sales closures using targeted outreach.</p>",
+  "pros": [
+    "AI-powered lead discovery enhances targeting precision",
+    "Automated campaign management saves time and effort",
+    "High deliverability rates improve email campaign success"
+  ],
+  "cons": [
+    "Limited to email campaigns, not a full marketing suite",
+    "May require technical setup for integration",
+    "Dependent on quality of input data for best results"
+  ],
+  "alternatives": [
+    "Sendinblue [sendinblue.com]",
+    "Mailchimp [mailchimp.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Offers broader marketing tools beyond email"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Well-known for integrations and user-friendliness"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Strong in automation and CRM features"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "AI",
+    "lead generation",
+    "automation",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Email Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mailgo.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mailgo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/www_mailgo_ai.png",
+  "screenshot_640": "/screenshots/www_mailgo_ai_640.png",
+  "screenshot_400": "/screenshots/www_mailgo_ai_400.png",
+  "updatedAt": "2025-05-05T13:21:54.499Z"
+}

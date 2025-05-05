@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://tablextract.io/",
+  "name": "Tablextract",
+  "title": "AI-Powered Table Extraction from PDF, Images & Documents",
+  "payoff": "Extract tables from anything",
+  "shortDescription": "<p>Tablextract instantly extracts tables from PDFs, images, and other files into Excel, CSV, JSON, or directly to the clipboard, saving hours of manual work. Ideal for financial analysts, it supports a variety of documents from scientific papers to handwritten receipts.</p>",
+  "pros": [
+    "Saves time by automating table extraction",
+    "Supports multiple file formats including PDF and images",
+    "Advanced AI preserves structure even in complex documents"
+  ],
+  "cons": [
+    "May struggle with extremely poor quality scans",
+    "Dependent on the quality of the original document's OCR",
+    "Limited to table extraction, not full document conversion"
+  ],
+  "alternatives": [
+    "Tabula [tabula.technology]",
+    "Camelot [camelot-py.readthedocs.io]",
+    "ExtractTable [extracttable.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tabula",
+      "url": "tabula.technology",
+      "reason": "Focuses on PDF table extraction"
+    },
+    {
+      "name": "Camelot",
+      "url": "camelot-py.readthedocs.io",
+      "reason": "Python library for table extraction"
+    },
+    {
+      "name": "ExtractTable",
+      "url": "extracttable.com",
+      "reason": "API for table extraction from images"
+    }
+  ],
+  "tags": [
+    "data extraction",
+    "AI",
+    "PDF processing",
+    "table extraction",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tablextract.io/",
+  "documentationUrl": "https://www.tablextract.io/docs",
+  "githubUrl": "https://github.com/search?q=tablextract&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/www_tablextract_io.png",
+  "screenshot_640": "/screenshots/www_tablextract_io_640.png",
+  "screenshot_400": "/screenshots/www_tablextract_io_400.png",
+  "updatedAt": "2025-05-05T12:50:25.428Z"
+}

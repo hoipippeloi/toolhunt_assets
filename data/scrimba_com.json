@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://scrimba.com/",
+  "name": "Scrimba",
+  "title": "Learn to code with Scrimba",
+  "payoff": "Interactive coding courses online",
+  "shortDescription": "<p>Scrimba offers interactive coding courses that allow users to learn and practice coding directly in the browser. It's designed for beginners and experienced coders alike, providing a hands-on approach to learning web development, JavaScript, and more.</p><p>Example use case: A beginner wanting to start a career in web development can use Scrimba to build a portfolio of real-world projects.</p>",
+  "pros": [
+    "Interactive learning environment",
+    "Wide range of programming courses",
+    "Immediate code execution and feedback"
+  ],
+  "cons": [
+    "Limited to coding courses",
+    "No one-on-one mentoring",
+    "Primarily focused on front-end technologies"
+  ],
+  "alternatives": [
+    "Codecademy [codecademy.com]",
+    "Udemy [udemy.com]",
+    "Coursera [coursera.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Codecademy",
+      "url": "codecademy.com",
+      "reason": "Interactive courses on a broader range of topics"
+    },
+    {
+      "name": "Khan Academy",
+      "url": "khanacademy.org",
+      "reason": "Free courses with a strong academic backing"
+    },
+    {
+      "name": "Treehouse",
+      "url": "teamtreehouse.com",
+      "reason": "Project-based learning and techdegree programs"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Interactive Coding",
+    "Web Development",
+    "Education",
+    "Online Courses"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://scrimba.com/",
+  "documentationUrl": "https://scrimba.com/docs",
+  "githubUrl": "https://github.com/search?q=scrimba&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/scrimba_com.png",
+  "screenshot_640": "/screenshots/scrimba_com_640.png",
+  "screenshot_400": "/screenshots/scrimba_com_400.png",
+  "updatedAt": "2025-05-05T12:49:51.822Z"
+}

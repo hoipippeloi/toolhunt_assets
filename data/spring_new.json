@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://spring.new/",
+  "name": "Spring.new",
+  "title": "Spring.new | Build Apps with AI",
+  "payoff": "Build Custom Apps in Minutes",
+  "shortDescription": "<p>Create tailor-made business applications instantly with AI. Build on top of your favorite tools and data sources, integrating seamlessly with platforms like Slack, GitHub, Google Workspace, and more. Ideal for businesses looking to streamline operations and enhance productivity through custom apps.</p>",
+  "pros": [
+    "Rapid development of custom apps",
+    "Seamless integration with major platforms",
+    "Deployment in various environments"
+  ],
+  "cons": [
+    "May require familiarity with integrated platforms",
+    "Limited information on pricing and plans",
+    "Potential dependency on third-party services"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Zapier [zapier.com]",
+    "Appian [appian.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Focuses on automation with apps"
+    },
+    {
+      "name": "Appian",
+      "url": "appian.com",
+      "reason": "Provides low-code automation solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "app development",
+    "integration",
+    "customization",
+    "deployment"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Visual Builder",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://spring.new/",
+  "documentationUrl": "https://spring.new/docs",
+  "githubUrl": "https://github.com/springdotnew",
+  "twitterUrl": "https://x.com/springnewapp",
+  "screenshot": "/screenshots/spring_new.png",
+  "screenshot_640": "/screenshots/spring_new_640.png",
+  "screenshot_400": "/screenshots/spring_new_400.png",
+  "updatedAt": "2025-05-05T13:10:29.491Z"
+}

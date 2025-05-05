@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://corgea.com/",
+  "name": "Corgea",
+  "title": "Corgea - Home",
+  "payoff": "Ship code, not vulnerabilities",
+  "shortDescription": "<p>Corgea is redefining static application security testing (SAST) by leveraging AI to detect and address vulnerabilities in code. It is designed for modern development teams looking to enhance security without disrupting workflows. An example use case would be a tech company using Corgea to automatically detect and fix security flaws before deployment, ensuring their software remains secure and efficient.</p>",
+  "pros": [
+    "AI-driven detection reduces false positives",
+    "Covers a wide range of vulnerabilities including business logic errors",
+    "Developer-friendly interface and integration"
+  ],
+  "cons": [
+    "May require initial setup and configuration",
+    "Potential learning curve for new users",
+    "Dependence on AI might overlook some context-specific issues"
+  ],
+  "alternatives": [
+    "SonarQube [sonarqube.org]",
+    "Veracode [veracode.com]",
+    "Checkmarx [checkmarx.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SonarQube",
+      "url": "sonarqube.org",
+      "reason": "Open source and customizable"
+    },
+    {
+      "name": "Veracode",
+      "url": "veracode.com",
+      "reason": "Comprehensive enterprise solution"
+    },
+    {
+      "name": "Checkmarx",
+      "url": "checkmarx.com",
+      "reason": "Strong focus on integration"
+    }
+  ],
+  "tags": [
+    "SAST",
+    "security",
+    "AI",
+    "code analysis",
+    "development"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://corgea.com/",
+  "documentationUrl": "https://corgea.com/docs",
+  "githubUrl": "https://github.com/search?q=corgea&type=repositories",
+  "twitterUrl": "https://twitter.com/CorgeaInc",
+  "screenshot": "/screenshots/corgea_com.png",
+  "screenshot_640": "/screenshots/corgea_com_640.png",
+  "screenshot_400": "/screenshots/corgea_com_400.png",
+  "updatedAt": "2025-05-05T12:49:59.193Z"
+}

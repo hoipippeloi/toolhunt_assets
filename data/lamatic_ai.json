@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://lamatic.ai/",
+  "name": "Lamatic.ai",
+  "title": "Build, Connect and Deploy AI Agents on Edge",
+  "payoff": "Build Performant, Reliable AI Agents at Scale",
+  "shortDescription": "<p>Lamatic.ai enables engineering teams to create and deploy AI agents efficiently. It's designed to reduce development time with features like role-based permissions and automated workflows. Ideal for teams looking to integrate AI capabilities rapidly and reliably into their applications, particularly useful in scenarios requiring edge deployment.</p>",
+  "pros": [
+    "Rapid deployment capabilities",
+    "Role-based permissions enhance team productivity",
+    "Real-time data tracing and actionable reports"
+  ],
+  "cons": [
+    "May require technical expertise to fully utilize",
+    "Focused primarily on engineering teams, less so on non-technical users",
+    "Limited information on integration with non-AI systems"
+  ],
+  "alternatives": [
+    "Google AI Platform [cloud.google.com/ai-platform]",
+    "Microsoft Azure AI [azure.microsoft.com/en-us/overview/ai-platform]",
+    "IBM Watson [ibm.com/watson]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google AI Platform",
+      "url": "cloud.google.com/ai-platform",
+      "reason": "Offers comprehensive AI tools and scalability"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "url": "azure.microsoft.com/en-us/overview/ai-platform",
+      "reason": "Integrates with various Azure services"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in natural language processing"
+    }
+  ],
+  "tags": [
+    "AI",
+    "edge computing",
+    "automation",
+    "performance monitoring",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lamatic.ai/",
+  "documentationUrl": "https://lamatic.ai/docs",
+  "githubUrl": "https://github.com/Lamatic",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/lamatic_ai.png",
+  "screenshot_640": "/screenshots/lamatic_ai_640.png",
+  "screenshot_400": "/screenshots/lamatic_ai_400.png",
+  "updatedAt": "2025-05-05T13:46:27.302Z"
+}
