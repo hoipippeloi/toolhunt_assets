@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://buildpad.io/",
   "name": "Buildpad",
-  "title": "Buildpad - Build products that people actually want",
-  "payoff": "Build products that people actually want",
-  "shortDescription": "<p>Buildpad is a platform designed to assist founders in transforming their ideas into successful products. It offers tools and guidance throughout the product development process, making it ideal for startups and entrepreneurs. An example use case is a founder using Buildpad for idea validation and market fit analysis before launching.</p>",
+  "title": "buildpad.io",
+  "payoff": "Build products that people want",
+  "shortDescription": "Buildpad is a platform designed to assist founders in transitioning from an initial idea to a successful product. It serves as a virtual cofounder, guiding users through a structured process to validate and develop their product ideas. For instance, a founder can use Buildpad to validate a startup idea, leveraging tools like the Reddit search feature to gather feedback and refine their concept.",
   "pros": [
-    "Guides through the product development process",
-    "Offers idea validation and market fit analysis",
-    "Accessible to founders at any level of expertise"
+    "Guided product development process",
+    "Features for idea validation",
+    "Supportive community of founders"
   ],
   "cons": [
-    "May not cover all industry-specific needs",
-    "Limited customization options for experienced developers",
-    "Dependent on user input for best results"
+    "Limited customization options",
+    "Potentially overwhelming for new users",
+    "No clear pricing information available"
   ],
   "alternatives": [
     "ProductPlan [productplan.com]",
@@ -23,24 +23,23 @@
     {
       "name": "ProductPlan",
       "url": "productplan.com",
-      "reason": "Offers detailed roadmapping tools"
+      "reason": "Visual product planning and roadmapping"
     },
     {
       "name": "Roadmunk",
       "url": "roadmunk.com",
-      "reason": "Focuses on visual roadmaps"
+      "reason": "Roadmap tool with multiple visualizations"
     },
     {
       "name": "Aha!",
       "url": "aha.io",
-      "reason": "Comprehensive product strategy tool"
+      "reason": "Comprehensive product management suite"
     }
   ],
   "tags": [
     "product management",
     "startup tools",
     "idea validation",
-    "market analysis",
     "founder resources"
   ],
   "apiUsed": false,
@@ -56,5 +55,5 @@
   "screenshot": "/screenshots/buildpad_io.png",
   "screenshot_640": "/screenshots/buildpad_io_640.png",
   "screenshot_400": "/screenshots/buildpad_io_400.png",
-  "updatedAt": "2025-05-05T12:49:55.916Z"
+  "updatedAt": "2025-05-06T10:50:12.933Z"
 }

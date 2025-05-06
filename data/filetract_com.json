@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://filetract.com/",
   "name": "FileTract",
-  "title": "Effortless AI Transaction Insights & Document Management",
-  "payoff": "Effortless AI Transaction Insights",
-  "shortDescription": "<p>FileTract streamlines financial document management using AI to automatically extract, analyze, and organize transactions. Designed for businesses aiming to reduce manual data entry and enhance document organization, it integrates with accounting software for a seamless workflow. Example use case: A small business uses FileTract to automate expense tracking and improve financial reporting.</p>",
+  "title": "filetract.com",
+  "payoff": "AI Transaction Insights & Management",
+  "shortDescription": "FileTract offers AI-driven solutions for managing financial documents and transactions. It automatically extracts, analyzes, and organizes financial data, saving users time and uncovering growth opportunities. Ideal for businesses looking to streamline their financial workflows, FileTract integrates with existing accounting software and provides robust security. Example use case: A company uses FileTract to automate expense tracking and monitor profitability, significantly reducing manual data entry.",
   "pros": [
-    "AI-powered document organization",
-    "Integration with accounting software",
-    "Robust security with end-to-end encryption"
+    "Automates financial document management",
+    "Integrates with major accounting software",
+    "Provides robust security and encryption"
   ],
   "cons": [
     "Limited to financial documents",
-    "Currently supports a few accounting software",
-    "No clear pricing information available"
+    "No mobile app available",
+    "Integration with Xero not yet implemented"
   ],
   "alternatives": [
     "Expensify [expensify.com]",
@@ -23,25 +23,24 @@
     {
       "name": "Expensify",
       "url": "expensify.com",
-      "reason": "Offers expense management with AI features"
+      "reason": "Offers expense management with receipt scanning"
     },
     {
       "name": "Hubdoc",
       "url": "hubdoc.com",
-      "reason": "Automates financial document aggregation"
+      "reason": "Automates financial document collection and management"
     },
     {
       "name": "Receipt Bank",
       "url": "receipt-bank.com",
-      "reason": "Focuses on data extraction from receipts"
+      "reason": "Streamlines data extraction from receipts and invoices"
     }
   ],
   "tags": [
     "AI",
     "document management",
     "financial workflow",
-    "data extraction",
-    "transaction insights"
+    "data extraction"
   ],
   "apiUsed": false,
   "department": "Finance & Accounting",
@@ -56,5 +55,5 @@
   "screenshot": "/screenshots/filetract_com.png",
   "screenshot_640": "/screenshots/filetract_com_640.png",
   "screenshot_400": "/screenshots/filetract_com_400.png",
-  "updatedAt": "2025-05-05T12:49:35.993Z"
+  "updatedAt": "2025-05-06T10:50:30.069Z"
 }
