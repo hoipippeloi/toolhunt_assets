@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://emailit.com/",
+  "name": "Emailit",
+  "title": "emailit.com",
+  "payoff": "Email API for developers",
+  "shortDescription": "Emailit offers a simple API for sending transactional and marketing emails, targeting developers looking for an efficient integration solution. Users can start sending emails within minutes using SMTP or Rest API. This tool is ideal for businesses wanting to manage email campaigns, track analytics, and integrate responses seamlessly. An example use case is a startup needing to manage large-scale email marketing with detailed performance tracking.",
+  "pros": [
+    "Quick integration with SMTP or Rest API",
+    "Pay only for emails sent, maximizing budget",
+    "Detailed analytics and domain management"
+  ],
+  "cons": [
+    "No free tier mentioned",
+    "Limited to email functionalities",
+    "No open source flexibility"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "Mailgun [mailgun.com]",
+    "Postmark [postmarkapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Offers scalable email delivery and marketing tools"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Provides broader marketing automation features"
+    },
+    {
+      "name": "Amazon SES",
+      "url": "aws.amazon.com/ses",
+      "reason": "Cost-effective solution for large volume sending"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "API",
+    "marketing",
+    "transactional emails"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://emailit.com/",
+  "documentationUrl": "https://emailit.com/documentation",
+  "githubUrl": "https://github.com/emailit-sdk",
+  "twitterUrl": "https://twitter.com/emailitcom",
+  "screenshot": "/screenshots/emailit_com.png",
+  "screenshot_640": "/screenshots/emailit_com_640.png",
+  "screenshot_400": "/screenshots/emailit_com_400.png",
+  "updatedAt": "2025-05-06T11:37:45.631Z"
+}

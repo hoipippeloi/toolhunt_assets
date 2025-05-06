@@ -3,21 +3,21 @@
   "name": "FileTract",
   "title": "filetract.com",
   "payoff": "AI Transaction Insights & Management",
-  "shortDescription": "FileTract leverages AI to enhance document management and transaction insights for businesses. It automatically extracts, organizes, and analyzes financial documents, saving time and uncovering growth opportunities. Ideal for companies tired of manual data entry, FileTract integrates with existing accounting software, ensuring a seamless workflow and secure data management.",
+  "shortDescription": "FileTract revolutionizes document management and financial transactions with AI-driven insights. Designed for businesses seeking efficient workflow automation, FileTract offers tools to automatically extract, organize, and analyze financial data. Example use case: A company uses FileTract to automate expense tracking, reducing manual data entry and enhancing document organization, thus saving time and uncovering financial insights.",
   "pros": [
-    "Automates financial document management",
-    "Integrates with major accounting software",
-    "Provides advanced analytics and insights"
+    "Automates financial document organization",
+    "Integrates with existing accounting software",
+    "Provides powerful analytics and insights"
   ],
   "cons": [
     "Limited to financial documents",
-    "No mobile app available",
-    "Xero integration still pending"
+    "No clear pricing information available",
+    "Integration with only select accounting platforms"
   ],
   "alternatives": [
     "Expensify [expensify.com]",
-    "Hubdoc [hubdoc.com]",
-    "Receipt Bank [receipt-bank.com]"
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,14 +26,14 @@
       "reason": "Focuses on expense management"
     },
     {
-      "name": "Hubdoc",
-      "url": "hubdoc.com",
-      "reason": "Automates financial document collection"
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Comprehensive accounting tool"
     },
     {
-      "name": "Receipt Bank",
-      "url": "receipt-bank.com",
-      "reason": "Streamlines data extraction from receipts"
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Popular for small business accounting"
     }
   ],
   "tags": [
@@ -47,7 +47,7 @@
   "function": "Documents",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2023,
+  "releasedYear": 2024,
   "websiteUrl": "https://filetract.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=filetract&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/filetract_com.png",
   "screenshot_640": "/screenshots/filetract_com_640.png",
   "screenshot_400": "/screenshots/filetract_com_400.png",
-  "updatedAt": "2025-05-06T11:06:09.173Z"
+  "updatedAt": "2025-05-06T11:36:00.128Z"
 }

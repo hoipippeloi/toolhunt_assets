@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://matterbeam.com/",
+  "name": "Matterbeam",
+  "title": "matterbeam.com",
+  "payoff": "Unleash data, unleash potential.",
+  "shortDescription": "Matterbeam revolutionizes data management by eliminating traditional data pipelines, thus reducing complexity and enhancing data utilization. It is designed for organizations looking to streamline their data operations. An example use case involves automating data collection, transformation, and delivery, enabling real-time data flow visualization and management.",
+  "pros": [
+    "Automates data collection and transformation",
+    "Real-time data flow visualization",
+    "Flexible data replay and distribution"
+  ],
+  "cons": [
+    "May require initial setup complexity",
+    "Potential dependency on proprietary technology",
+    "Limited information on integration with legacy systems"
+  ],
+  "alternatives": [
+    "Informatica [informatica.com]",
+    "Talend [talend.com]",
+    "Fivetran [fivetran.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Informatica",
+      "url": "informatica.com",
+      "reason": "Comprehensive data integration platform"
+    },
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Flexible open-source ETL tool"
+    },
+    {
+      "name": "Fivetran",
+      "url": "fivetran.com",
+      "reason": "Automated data integration service"
+    }
+  ],
+  "tags": [
+    "data management",
+    "automation",
+    "data visualization",
+    "ETL"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Sync",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://matterbeam.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=matterbeam&type=repositories",
+  "twitterUrl": "https://twitter.com/matterbeamco",
+  "screenshot": "/screenshots/matterbeam_com.png",
+  "screenshot_640": "/screenshots/matterbeam_com_640.png",
+  "screenshot_400": "/screenshots/matterbeam_com_400.png",
+  "updatedAt": "2025-05-06T11:36:29.572Z"
+}

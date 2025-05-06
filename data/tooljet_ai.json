@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tooljet.ai/",
+  "name": "ToolJet",
+  "title": "tooljet.ai",
+  "payoff": "AI-Native Platform for Internal Tools",
+  "shortDescription": "ToolJet is an AI-native platform designed to help enterprises build internal tools efficiently. It leverages AI to interpret natural language inputs, transforming them into functional applications. This platform is ideal for businesses looking to enhance operational efficiency without extensive coding. Example use case includes automating data entry processes, creating custom dashboards, and integrating various data sources seamlessly.",
+  "pros": [
+    "Rapid development with reduced coding",
+    "Scalable and secure applications",
+    "Extensive support and customization options"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Dependent on AI accuracy for initial setups",
+    "Potential limitations in highly specialized areas"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Appsmith [appsmith.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers similar low-code app building features"
+    },
+    {
+      "name": "Appsmith",
+      "url": "appsmith.com",
+      "reason": "Open source and customizable app builder"
+    },
+    {
+      "name": "Microsoft PowerApps",
+      "url": "powerapps.microsoft.com",
+      "reason": "Strong integration with Microsoft services"
+    }
+  ],
+  "tags": [
+    "AI",
+    "low-code",
+    "app development",
+    "enterprise"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Internal Apps",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tooljet.ai/",
+  "documentationUrl": "https://docs.tooljet.ai/",
+  "githubUrl": "https://github.com/ToolJet/ToolJet",
+  "twitterUrl": "https://twitter.com/ToolJet#",
+  "screenshot": "/screenshots/tooljet_ai.png",
+  "screenshot_640": "/screenshots/tooljet_ai_640.png",
+  "screenshot_400": "/screenshots/tooljet_ai_400.png",
+  "updatedAt": "2025-05-06T11:37:19.953Z"
+}

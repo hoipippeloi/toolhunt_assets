@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getoutline.com/",
+  "name": "Outline",
+  "title": "getoutline.com",
+  "payoff": "Team knowledge base & wiki",
+  "shortDescription": "Outline is a team knowledge base designed to organize and streamline access to company documents. It offers real-time collaboration, powerful search capabilities, and integrations with tools like Slack. Ideal for teams seeking to centralize information and improve document management, Outline allows for public and private sharing, ensuring that relevant stakeholders can access necessary documents efficiently.",
+  "pros": [
+    "Real-time collaboration on documents",
+    "Powerful search and AI question answering",
+    "Integrations with Slack and other tools"
+  ],
+  "cons": [
+    "May require training for full feature utilization",
+    "Dependent on internet connectivity",
+    "Potential privacy concerns with public document sharing"
+  ],
+  "alternatives": [
+    "Confluence [atlassian.com/software/confluence]",
+    "Notion [notion.so]",
+    "Slab [slab.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Feature-rich and widely adopted"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible and visually appealing"
+    },
+    {
+      "name": "Slab",
+      "url": "slab.com",
+      "reason": "Focus on team collaboration"
+    }
+  ],
+  "tags": [
+    "knowledge base",
+    "document management",
+    "collaboration",
+    "real-time editing"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Knowledge Base",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://getoutline.com/",
+  "documentationUrl": "https://www.getoutline.com/docs",
+  "githubUrl": "https://github.com/outline",
+  "twitterUrl": "https://twitter.com/getoutline",
+  "screenshot": "/screenshots/getoutline_com.png",
+  "screenshot_640": "/screenshots/getoutline_com_640.png",
+  "screenshot_400": "/screenshots/getoutline_com_400.png",
+  "updatedAt": "2025-05-06T11:38:18.001Z"
+}

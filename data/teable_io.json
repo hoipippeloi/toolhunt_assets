@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://teable.io/",
+  "name": "Teable",
+  "title": "teable.io",
+  "payoff": "AI no-code database, Full-scenario",
+  "shortDescription": "Teable is an AI-driven no-code database platform designed to enhance productivity across various business sizes and sectors. It allows users to transform documents and spreadsheets into powerful applications effortlessly. Teams can collaborate in real-time, automate repetitive tasks, and integrate systems to maximize data utility. An example use case includes enterprises building custom database applications to manage large datasets with real-time analytics and AI enhancements.",
+  "pros": [
+    "Intuitive no-code application building",
+    "Advanced AI integration for automation",
+    "Robust data security with ISO certifications"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Limited customization in free version",
+    "Potentially high cost for enterprise features"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Retool [retool.com]",
+    "Caspio [caspio.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers similar no-code database features"
+    },
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Focuses on building internal tools quickly"
+    },
+    {
+      "name": "Caspio",
+      "url": "caspio.com",
+      "reason": "Provides a platform for creating online databases"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "AI",
+    "database",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://teable.io/",
+  "documentationUrl": "https://help.teable.io/en/deploy/docker",
+  "githubUrl": "https://github.com/teableio/teable",
+  "twitterUrl": "https://x.com/teableio",
+  "screenshot": "/screenshots/teable_io.png",
+  "screenshot_640": "/screenshots/teable_io_640.png",
+  "screenshot_400": "/screenshots/teable_io_400.png",
+  "updatedAt": "2025-05-06T11:36:26.615Z"
+}

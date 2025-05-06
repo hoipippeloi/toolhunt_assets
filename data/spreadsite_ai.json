@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spreadsite.ai/",
+  "name": "Spreadsite",
+  "title": "spreadsite.ai",
+  "payoff": "Instant AI-Powered Dashboard Builder",
+  "shortDescription": "Spreadsite transforms your spreadsheets into interactive dashboards instantly. It is designed for individuals and growing SMBs who seek to visualize their data without coding. Example use case: A sales team can create a dashboard to track monthly revenue, top products, and regional performance, enhancing decision-making and presentation.",
+  "pros": [
+    "No coding required",
+    "Customizable dashboards",
+    "Supports multiple data formats"
+  ],
+  "cons": [
+    "Limited to spreadsheet data",
+    "No clear offline functionality",
+    "May lack advanced analytics features"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Google Data Studio [datastudio.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for advanced visual analytics"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates well with MS products"
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with Google services"
+    }
+  ],
+  "tags": [
+    "dashboard builder",
+    "data visualization",
+    "AI",
+    "no-code"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://spreadsite.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=spreadsite&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/spreadsite_ai.png",
+  "screenshot_640": "/screenshots/spreadsite_ai_640.png",
+  "screenshot_400": "/screenshots/spreadsite_ai_400.png",
+  "updatedAt": "2025-05-06T11:36:12.024Z"
+}
