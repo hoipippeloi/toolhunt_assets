@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tips.io/",
+  "name": "Tips.io",
+  "title": "tips.io",
+  "payoff": "Tailwind HTML websites made easy",
+  "shortDescription": "Tips.io is a web-based editor designed to simplify the creation of websites using Tailwind CSS. It's ideal for developers who appreciate the efficiency of Tailwind and the power of AI. Users can quickly scaffold websites, utilize AI for design choices, and enjoy features like Tailwind class autocomplete and zero setup. Whether you're a Tailwind expert or a newcomer, Tips.io offers tools to enhance productivity and creativity.",
+  "pros": [
+    "Tailwind class autocomplete",
+    "AI-enhanced editing capabilities",
+    "Zero setup required for use"
+  ],
+  "cons": [
+    "Limited to Tailwind CSS",
+    "May not suit non-developers",
+    "Lacks broad plugin ecosystem"
+  ],
+  "alternatives": [
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers visual building with more customizations"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Focuses on design with integrated marketing tools"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "User-friendly with extensive templates and apps"
+    }
+  ],
+  "tags": [
+    "web design",
+    "Tailwind CSS",
+    "AI",
+    "website builder"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tips.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tips%20io&type=repositories",
+  "twitterUrl": "https://x.com/whatnicktweets",
+  "screenshot": "/screenshots/tips_io.png",
+  "screenshot_640": "/screenshots/tips_io_640.png",
+  "screenshot_400": "/screenshots/tips_io_400.png",
+  "updatedAt": "2025-05-06T17:49:48.715Z"
+}
