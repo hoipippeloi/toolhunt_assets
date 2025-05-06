@@ -3,16 +3,16 @@
   "name": "Buildpad",
   "title": "buildpad.io",
   "payoff": "Build products people want",
-  "shortDescription": "Buildpad is a platform designed to assist founders in transitioning from a mere idea to a successful product. Targeting startup founders, Buildpad offers tools for idea validation, product development, and market validation. An example use case involves a founder using Buildpad to validate a business idea, leverage the platform's resources to develop the product, and finally launch to paying customers.",
+  "shortDescription": "Buildpad is a platform designed for founders to transform their ideas into successful products. It serves as a virtual co-founder, guiding users through a structured process to validate and develop their product ideas. For example, a startup founder can use Buildpad to validate a new app idea, ensuring it meets market needs before full-scale development.",
   "pros": [
     "Guided product development process",
-    "Tools for idea validation and market research",
-    "Supports different founder levels"
+    "Idea validation tools",
+    "Supportive community of founders"
   ],
   "cons": [
-    "May not cover all industry specifics",
     "Limited customization options",
-    "Depends on user input for best results"
+    "Potentially steep learning curve",
+    "No clear pricing information available"
   ],
   "alternatives": [
     "ProductPlan [productplan.com]",
@@ -23,31 +23,31 @@
     {
       "name": "ProductPlan",
       "url": "productplan.com",
-      "reason": "Visual product planning and roadmapping"
+      "reason": "Offers detailed roadmap planning tools"
     },
     {
       "name": "Roadmunk",
       "url": "roadmunk.com",
-      "reason": "Roadmapping with feedback integration"
+      "reason": "Focuses on visual roadmaps and feedback"
     },
     {
       "name": "Aha!",
       "url": "aha.io",
-      "reason": "Comprehensive product management suite"
+      "reason": "Comprehensive product strategy platform"
     }
   ],
   "tags": [
     "product management",
     "startup tools",
     "idea validation",
-    "market research"
+    "SaaS"
   ],
   "apiUsed": false,
   "department": "Product Management",
   "function": "Project Tools",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://buildpad.io/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=buildpad&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/buildpad_io.png",
   "screenshot_640": "/screenshots/buildpad_io_640.png",
   "screenshot_400": "/screenshots/buildpad_io_400.png",
-  "updatedAt": "2025-05-06T11:05:55.206Z"
+  "updatedAt": "2025-05-06T11:24:24.772Z"
 }
