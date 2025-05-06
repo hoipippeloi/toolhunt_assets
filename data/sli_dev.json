@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://sli.dev/",
   "name": "Slidev",
-  "title": "Slidev",
+  "title": "sli.dev",
   "payoff": "Presentation Slides for Developers",
-  "shortDescription": "<p>Slidev is designed to help developers create presentation slides with ease. It integrates advanced features tailored for coding and technical demonstrations. Ideal for tech conferences, team meetings, or educational purposes, Slidev allows users to customize their presentations to suit their specific needs, ensuring both functionality and aesthetic appeal.</p>",
+  "shortDescription": "Slidev is a specialized tool designed for developers to create and customize presentation slides efficiently. It integrates advanced features tailored to the coding community, allowing users to embed code snippets and live previews directly into their slides. Ideal for tech conferences, educational workshops, or team meetings, Slidev offers a seamless way to communicate complex technical information visually.",
   "pros": [
     "Tailored for developers",
-    "Customizable presentations",
-    "Built-in advanced features"
+    "Supports embedding code",
+    "Customizable appearance"
   ],
   "cons": [
-    "May require technical knowledge",
-    "Limited to presentation use",
-    "Potential learning curve for non-developers"
+    "Limited to presentation slides",
+    "May require coding knowledge",
+    "Focused on developer community"
   ],
   "alternatives": [
     "Prezi [prezi.com]",
@@ -23,7 +23,7 @@
     {
       "name": "Prezi",
       "url": "prezi.com",
-      "reason": "Offers dynamic, zoomable presentations"
+      "reason": "Offers dynamic, non-linear presentations"
     },
     {
       "name": "Google Slides",
@@ -38,10 +38,9 @@
   ],
   "tags": [
     "presentation",
-    "development",
+    "developers",
     "customizable",
-    "open source",
-    "MIT License"
+    "open source"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -50,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://sli.dev/",
-  "documentationUrl": "https://sli.dev/docs",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/slidevjs/slidev/releases",
   "twitterUrl": "https://twitter.com/slidevjs",
   "screenshot": "/screenshots/sli_dev.png",
   "screenshot_640": "/screenshots/sli_dev_640.png",
   "screenshot_400": "/screenshots/sli_dev_400.png",
-  "updatedAt": "2025-05-05T12:50:39.435Z"
+  "updatedAt": "2025-05-06T10:40:50.418Z"
 }

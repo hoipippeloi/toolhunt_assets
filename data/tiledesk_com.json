@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tiledesk.com/",
+  "name": "Tiledesk",
+  "title": "tiledesk.com",
+  "payoff": "Automate workflows with AI agents",
+  "shortDescription": "Tiledesk enables businesses to automate customer support and internal processes using AI agents. It offers customizable solutions tailored to various industries like e-commerce, healthcare, and telecom. An example use case is automating customer inquiries in e-commerce, enhancing efficiency and customer satisfaction.",
+  "pros": [
+    "Customizable AI solutions",
+    "Supports multiple industries",
+    "No code and fully scalable"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Dependent on quality of training data",
+    "Potential integration complexities"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Intercom [intercom.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Offers robust customer service tools"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Focuses on streamlined user interfaces"
+    },
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Strong in user engagement and messaging"
+    }
+  ],
+  "tags": [
+    "AI",
+    "customer support",
+    "automation",
+    "no code"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://tiledesk.com/",
+  "documentationUrl": "https://tiledesk.com/docs/",
+  "githubUrl": "https://github.com/Tiledesk",
+  "twitterUrl": "https://twitter.com/tiledesk",
+  "screenshot": "/screenshots/tiledesk_com.png",
+  "screenshot_640": "/screenshots/tiledesk_com_640.png",
+  "screenshot_400": "/screenshots/tiledesk_com_400.png",
+  "updatedAt": "2025-05-06T10:40:38.840Z"
+}

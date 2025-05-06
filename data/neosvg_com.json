@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://neosvg.com/",
+  "name": "neoSVG",
+  "title": "neosvg.com",
+  "payoff": "Create SVG from text prompts",
+  "shortDescription": "neoSVG leverages state-of-the-art AI to transform text prompts into scalable vector graphics (SVGs). This tool is ideal for designers and developers needing high-resolution graphics for web, mobile, and print media. Users can generate SVGs quickly using advanced algorithms, making it suitable for UI/UX design, logos, and AR/VR applications.",
+  "pros": [
+    "High-resolution SVG outputs",
+    "Fast generation times",
+    "Supports a wide range of applications"
+  ],
+  "cons": [
+    "Limited to vector outputs",
+    "Requires credits for operations",
+    "May be complex for beginners"
+  ],
+  "alternatives": [
+    "Adobe Illustrator [adobe.com]",
+    "Inkscape [inkscape.org]",
+    "CorelDRAW [coreldraw.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com",
+      "reason": "Industry-standard vector graphic editor"
+    },
+    {
+      "name": "Inkscape",
+      "url": "inkscape.org",
+      "reason": "Open source and free SVG editor"
+    },
+    {
+      "name": "CorelDRAW",
+      "url": "coreldraw.com",
+      "reason": "Powerful graphic design software"
+    }
+  ],
+  "tags": [
+    "AI",
+    "design tools",
+    "SVG generation",
+    "vector graphics"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://neosvg.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=neosvg&type=repositories",
+  "twitterUrl": "https://twitter.com/neosvgofficial",
+  "screenshot": "/screenshots/neosvg_com.png",
+  "screenshot_640": "/screenshots/neosvg_com_640.png",
+  "screenshot_400": "/screenshots/neosvg_com_400.png",
+  "updatedAt": "2025-05-06T10:40:52.807Z"
+}
