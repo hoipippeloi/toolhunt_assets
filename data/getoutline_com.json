@@ -3,16 +3,16 @@
   "name": "Outline",
   "title": "getoutline.com",
   "payoff": "Team knowledge base & wiki",
-  "shortDescription": "Outline is a team knowledge base designed to organize and streamline access to company documents. It offers real-time collaboration, powerful search capabilities, and integrations with tools like Slack. Ideal for teams seeking to centralize information and improve document management, Outline allows for public and private sharing, ensuring that relevant stakeholders can access necessary documents efficiently.",
+  "shortDescription": "Outline is a team knowledge management tool designed to organize and share documents efficiently. It is ideal for teams looking to streamline documentation processes and enhance collaboration. Users can edit with markdown, search documents quickly, and integrate with tools like Slack. An example use case is a tech company managing project documentation, ensuring all team members have instant access to the latest updates.",
   "pros": [
     "Real-time collaboration on documents",
     "Powerful search and AI question answering",
     "Integrations with Slack and other tools"
   ],
   "cons": [
-    "May require training for full feature utilization",
-    "Dependent on internet connectivity",
-    "Potential privacy concerns with public document sharing"
+    "May require initial setup time",
+    "Dependent on third-party integrations",
+    "Potential learning curve for markdown"
   ],
   "alternatives": [
     "Confluence [atlassian.com/software/confluence]",
@@ -23,23 +23,23 @@
     {
       "name": "Confluence",
       "url": "atlassian.com/software/confluence",
-      "reason": "Feature-rich and widely adopted"
+      "reason": "Popular for detailed project documentation"
     },
     {
       "name": "Notion",
       "url": "notion.so",
-      "reason": "Flexible and visually appealing"
+      "reason": "Flexible workspace with embedded tools"
     },
     {
       "name": "Slab",
       "url": "slab.com",
-      "reason": "Focus on team collaboration"
+      "reason": "Focus on team knowledge and wiki"
     }
   ],
   "tags": [
     "knowledge base",
-    "document management",
     "collaboration",
+    "document management",
     "real-time editing"
   ],
   "apiUsed": true,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/getoutline_com.png",
   "screenshot_640": "/screenshots/getoutline_com_640.png",
   "screenshot_400": "/screenshots/getoutline_com_400.png",
-  "updatedAt": "2025-05-06T11:38:18.001Z"
+  "updatedAt": "2025-05-06T11:51:02.680Z"
 }

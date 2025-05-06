@@ -3,14 +3,14 @@
   "name": "neoSVG",
   "title": "neosvg.com",
   "payoff": "Create SVG from text prompts",
-  "shortDescription": "neoSVG leverages state-of-the-art AI to transform text prompts into scalable vector graphics (SVGs). This tool is ideal for designers and developers in web, mobile, and print media who require high-resolution graphics. An example use case is creating unique logos or UI elements quickly and efficiently.",
+  "shortDescription": "neoSVG leverages advanced AI to transform text prompts into high-quality SVGs. Ideal for designers and developers needing scalable vector graphics for web, mobile, or print media. Users can generate vectors quickly, benefiting from infinite zoom capabilities without losing resolution. An example use case is creating unique logos or UI elements efficiently.",
   "pros": [
     "High-resolution SVG outputs",
     "Fast generation times",
-    "Supports a wide range of applications"
+    "Supports various applications (Web, AR/VR, Print)"
   ],
   "cons": [
-    "Limited to SVG outputs only",
+    "Limited to SVG format outputs",
     "Requires credits for operations",
     "May have a learning curve for new users"
   ],
@@ -28,18 +28,18 @@
     {
       "name": "Inkscape",
       "url": "inkscape.org",
-      "reason": "Open source vector graphics editor"
+      "reason": "Open source and free SVG editor"
     },
     {
       "name": "CorelDRAW",
       "url": "coreldraw.com",
-      "reason": "Powerful graphic design software"
+      "reason": "Powerful graphic design tool with SVG support"
     }
   ],
   "tags": [
     "AI",
-    "design tools",
     "SVG generation",
+    "design tools",
     "vector graphics"
   ],
   "apiUsed": false,
@@ -47,7 +47,7 @@
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2023,
   "websiteUrl": "https://neosvg.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=neosvg&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/neosvg_com.png",
   "screenshot_640": "/screenshots/neosvg_com_640.png",
   "screenshot_400": "/screenshots/neosvg_com_400.png",
-  "updatedAt": "2025-05-06T11:35:40.430Z"
+  "updatedAt": "2025-05-06T11:51:10.579Z"
 }

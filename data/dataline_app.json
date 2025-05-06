@@ -3,16 +3,16 @@
   "name": "DataLine",
   "title": "dataline.app",
   "payoff": "Chat with your data",
-  "shortDescription": "DataLine is an AI-driven tool designed for data analysis and visualization through conversational interfaces. It's ideal for non-technical users who need to query data and developers seeking robust text2sql capabilities. Users can directly interact with their databases securely without data leaving their devices, ensuring privacy and ease of use. Example use case: A marketing professional uses DataLine to quickly generate visual reports by asking questions in natural language.",
+  "shortDescription": "DataLine is an AI-driven tool designed for data analysis and visualization, making it easy to interact with data through conversation. It's ideal for non-technical users who need to query data and developers seeking robust text2sql capabilities. Users can directly connect to their databases securely, ensuring data privacy as no data is stored on the cloud. An example use case could be a business analyst quickly generating reports by asking questions directly to the data.",
   "pros": [
-    "Privacy-first with on-device data processing",
-    "Easy to use for non-technical users",
-    "Secure direct database integration"
+    "Privacy-first with local data storage",
+    "Easy querying without technical knowledge",
+    "Open source and customizable"
   ],
   "cons": [
     "Limited to device storage capacity",
-    "May require initial setup for database integration",
-    "No cloud-based features for team collaboration"
+    "May require initial setup on local databases",
+    "Lacks cloud storage capabilities"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -28,23 +28,23 @@
     {
       "name": "Power BI",
       "url": "powerbi.com",
-      "reason": "Strong in business intelligence"
+      "reason": "Comprehensive business intelligence"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Good for big data integration"
+      "reason": "Data integration and visualization"
     }
   ],
   "tags": [
     "AI",
     "data visualization",
-    "privacy",
-    "open source"
+    "open source",
+    "privacy"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
-  "function": "Data Storage",
+  "function": "Analytics",
   "freeTier": false,
   "openSource": true,
   "releasedYear": 2024,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/dataline_app.png",
   "screenshot_640": "/screenshots/dataline_app_640.png",
   "screenshot_400": "/screenshots/dataline_app_400.png",
-  "updatedAt": "2025-05-06T11:37:32.966Z"
+  "updatedAt": "2025-05-06T11:50:31.149Z"
 }

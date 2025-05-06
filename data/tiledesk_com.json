@@ -3,16 +3,16 @@
   "name": "Tiledesk",
   "title": "tiledesk.com",
   "payoff": "Automate workflows with AI agents",
-  "shortDescription": "Tiledesk leverages AI to automate customer support and business workflows, enhancing efficiency and engagement. It is designed for industries like healthcare, e-commerce, and telecom, offering solutions like 24/7 customer support automation and internal process optimization. Example use case: AI agents in healthcare provide instant information on symptoms and booking appointments.",
+  "shortDescription": "Tiledesk leverages AI to automate customer support and business workflows, enhancing efficiency and engagement. It is designed for industries like healthcare, e-commerce, and telecom, offering solutions like 24/7 customer support, automated task handling, and data-driven insights. An example use case is AI agents streamlining customer inquiries in e-commerce.",
   "pros": [
-    "Customizable AI agents for various industries",
-    "No code solution, fully scalable",
-    "Offers a 14-day free trial with no credit card required"
+    "Customizable AI agents",
+    "No code, fully scalable solutions",
+    "Supports multiple industries"
   ],
   "cons": [
-    "May require technical knowledge to set up effectively",
-    "Limited integration options compared to competitors",
-    "Dependent on quality of input data for training AI"
+    "May require initial data training",
+    "Dependent on AI performance",
+    "Potential integration complexities"
   ],
   "alternatives": [
     "Zendesk [zendesk.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Zendesk",
       "url": "zendesk.com",
-      "reason": "Offers broader customer service tools"
+      "reason": "Broad customer service features"
     },
     {
       "name": "Freshdesk",
       "url": "freshdesk.com",
-      "reason": "Focuses on streamlined user experience"
+      "reason": "Integrated customer support suite"
     },
     {
       "name": "Intercom",
       "url": "intercom.com",
-      "reason": "Strong in user engagement and messaging"
+      "reason": "Conversational relationship platform"
     }
   ],
   "tags": [
     "AI",
+    "automation",
     "customer support",
-    "workflow automation",
-    "no code"
+    "workflow automation"
   ],
   "apiUsed": true,
   "department": "Customer Service",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2018,
   "websiteUrl": "https://tiledesk.com/",
-  "documentationUrl": "https://tiledesk.com/docs/",
+  "documentationUrl": "https://tiledesk.com/documentation",
   "githubUrl": "https://github.com/Tiledesk",
   "twitterUrl": "https://twitter.com/tiledesk",
   "screenshot": "/screenshots/tiledesk_com.png",
   "screenshot_640": "/screenshots/tiledesk_com_640.png",
   "screenshot_400": "/screenshots/tiledesk_com_400.png",
-  "updatedAt": "2025-05-06T11:35:37.631Z"
+  "updatedAt": "2025-05-06T11:50:53.595Z"
 }

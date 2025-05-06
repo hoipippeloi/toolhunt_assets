@@ -3,16 +3,16 @@
   "name": "Teable",
   "title": "teable.io",
   "payoff": "AI no-code database, Full-scenario",
-  "shortDescription": "Teable is an AI-driven no-code database platform designed to enhance productivity across various business sizes and sectors. It allows users to transform documents and spreadsheets into powerful applications effortlessly. Teams can collaborate in real-time, automate repetitive tasks, and integrate systems to maximize data utility. An example use case includes enterprises building custom database applications to manage large datasets with real-time analytics and AI enhancements.",
+  "shortDescription": "Teable is an AI-driven no-code database platform designed to empower teams of all sizes to build powerful database applications. It simplifies the creation of custom databases with AI automation, allowing for real-time collaboration and seamless integration across tools. Users can turn documents and spreadsheets into dynamic applications, automate repetitive tasks, and ensure data security with enterprise-grade features. Ideal for businesses needing rapid development and flexible data management solutions.",
   "pros": [
-    "Intuitive no-code application building",
+    "Intuitive no-code database creation",
     "Advanced AI integration for automation",
-    "Robust data security with ISO certifications"
+    "Robust data security and governance"
   ],
   "cons": [
-    "May require initial learning curve",
-    "Limited customization in free version",
-    "Potentially high cost for enterprise features"
+    "May require learning for non-technical users",
+    "Limited customization compared to coded solutions",
+    "Potential high cost for enterprise features"
   ],
   "alternatives": [
     "Airtable [airtable.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Airtable",
       "url": "airtable.com",
-      "reason": "Offers similar no-code database features"
+      "reason": "Flexible no-code platform with strong API"
     },
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Focuses on building internal tools quickly"
+      "reason": "Custom internal tools with minimal coding"
     },
     {
       "name": "Caspio",
       "url": "caspio.com",
-      "reason": "Provides a platform for creating online databases"
+      "reason": "Low-code app development with strong integrations"
     }
   ],
   "tags": [
@@ -45,15 +45,15 @@
   "apiUsed": true,
   "department": "Data & Analytics",
   "function": "Databases",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://teable.io/",
-  "documentationUrl": "https://help.teable.io/en/deploy/docker",
+  "documentationUrl": "https://teable.io/documentation",
   "githubUrl": "https://github.com/teableio/teable",
   "twitterUrl": "https://x.com/teableio",
   "screenshot": "/screenshots/teable_io.png",
   "screenshot_640": "/screenshots/teable_io_640.png",
   "screenshot_400": "/screenshots/teable_io_400.png",
-  "updatedAt": "2025-05-06T11:36:26.615Z"
+  "updatedAt": "2025-05-06T11:51:22.715Z"
 }

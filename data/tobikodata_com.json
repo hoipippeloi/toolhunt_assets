@@ -3,51 +3,51 @@
   "name": "Tobiko",
   "title": "tobikodata.com",
   "payoff": "Data transformation, without the waste",
-  "shortDescription": "Tobiko is a next-generation data transformation tool designed to optimize SQL operations and reduce costs. It serves data engineers and analysts by providing a platform that pre-validates SQL code, tracks changes, and minimizes warehouse processing. An example use case is a company leveraging Tobiko to create isolated development environments, significantly cutting down on data warehouse expenses and speeding up development cycles.",
+  "shortDescription": "Tobiko is a next-generation data transformation and modeling platform designed to optimize SQL workflows and reduce operational costs. It is ideal for data teams looking to debug SQL code efficiently, create cost-effective development environments, and enhance pipeline visibility. An example use case involves a company leveraging Tobiko to streamline their data pipeline updates, ensuring only necessary transformations are run, thus saving time and resources.",
   "pros": [
-    "Pre-validation of SQL code to catch errors early",
-    "Significant reduction in data warehouse costs",
-    "State-aware architecture that tracks changes efficiently"
+    "Efficient SQL code validation",
+    "Cost-effective development environments",
+    "Enhanced visibility and control over data pipelines"
   ],
   "cons": [
-    "Requires full data access for cloud-only setups",
-    "May have a learning curve for new users",
-    "Limited to SQL and data transformation functions"
+    "May require initial learning curve",
+    "Dependent on cloud infrastructure",
+    "Limited to SQL and data transformations"
   ],
   "alternatives": [
     "dbt [getdbt.com]",
     "Airflow [apache.org/projects/airflow]",
-    "Dataform [dataform.co]"
+    "Informatica [informatica.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "dbt",
       "url": "getdbt.com",
-      "reason": "Popular for data transformation"
+      "reason": "Popular for data build tooling"
     },
     {
-      "name": "Airflow",
+      "name": "Apache Airflow",
       "url": "apache.org/projects/airflow",
       "reason": "Workflow automation and scheduling"
     },
     {
-      "name": "Dataform",
-      "url": "dataform.co",
-      "reason": "Integrates SQL directly in data warehouses"
+      "name": "Informatica",
+      "url": "informatica.com",
+      "reason": "Comprehensive data management"
     }
   ],
   "tags": [
     "data transformation",
-    "SQL management",
-    "cloud services",
+    "SQL",
+    "cloud computing",
     "data analytics"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
-  "function": "Databases",
+  "function": "Data Storage",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://tobikodata.com/",
   "documentationUrl": "https://tobikodata.com/docs",
   "githubUrl": "https://github.com/TobikoData",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/tobikodata_com.png",
   "screenshot_640": "/screenshots/tobikodata_com_640.png",
   "screenshot_400": "/screenshots/tobikodata_com_400.png",
-  "updatedAt": "2025-05-06T11:38:03.760Z"
+  "updatedAt": "2025-05-06T11:50:32.282Z"
 }

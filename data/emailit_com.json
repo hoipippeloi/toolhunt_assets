@@ -3,16 +3,16 @@
   "name": "Emailit",
   "title": "emailit.com",
   "payoff": "Email API for developers",
-  "shortDescription": "Emailit offers a simple API for sending transactional and marketing emails, targeting developers looking for an efficient integration solution. Users can start sending emails within minutes using SMTP or Rest API. This tool is ideal for businesses wanting to manage email campaigns, track analytics, and integrate responses seamlessly. An example use case is a startup needing to manage large-scale email marketing with detailed performance tracking.",
+  "shortDescription": "Emailit provides a straightforward API for sending transactional and marketing emails without a subscription. Ideal for developers needing quick integration, it supports SMTP and Rest API for instant setup. Users can manage domains, track emails, and integrate webhooks efficiently. Example use: A startup can integrate Emailit to manage their marketing campaigns effectively, ensuring budget efficiency by paying only for the emails sent.",
   "pros": [
-    "Quick integration with SMTP or Rest API",
-    "Pay only for emails sent, maximizing budget",
-    "Detailed analytics and domain management"
+    "Quick and easy integration",
+    "Pay only for what you use",
+    "Detailed email tracking and analytics"
   ],
   "cons": [
-    "No free tier mentioned",
+    "No free tier available",
     "Limited to email functionalities",
-    "No open source flexibility"
+    "Potentially less known than competitors"
   ],
   "alternatives": [
     "SendGrid [sendgrid.com]",
@@ -26,14 +26,14 @@
       "reason": "Offers scalable email delivery and marketing tools"
     },
     {
-      "name": "Mailchimp",
-      "url": "mailchimp.com",
-      "reason": "Provides broader marketing automation features"
+      "name": "Mailgun",
+      "url": "mailgun.com",
+      "reason": "Focused on developers with strong API offerings"
     },
     {
-      "name": "Amazon SES",
-      "url": "aws.amazon.com/ses",
-      "reason": "Cost-effective solution for large volume sending"
+      "name": "Postmark",
+      "url": "postmarkapp.com",
+      "reason": "High deliverability and transactional email focus"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/emailit_com.png",
   "screenshot_640": "/screenshots/emailit_com_640.png",
   "screenshot_400": "/screenshots/emailit_com_400.png",
-  "updatedAt": "2025-05-06T11:37:45.631Z"
+  "updatedAt": "2025-05-06T11:50:46.244Z"
 }

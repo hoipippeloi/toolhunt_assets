@@ -2,22 +2,22 @@
   "sourceUrl": "https://postman.com/",
   "name": "Postman",
   "title": "postman.com",
-  "payoff": "API Platform for Developers",
-  "shortDescription": "Postman is a comprehensive platform for API development, catering to over 40 million users. It integrates features for designing, testing, and managing APIs, enhancing collaboration across teams. Developers can utilize Postman to streamline workflows, increase API discoverability, and improve onboarding processes. An example use case involves teams using shared workspaces to prototype and document APIs efficiently, ensuring consistent communication and rapid development cycles.",
+  "payoff": "Complete API Platform",
+  "shortDescription": "Postman is a comprehensive platform for API development, catering to over 40 million users. It integrates features for designing, testing, and deploying APIs, making it ideal for developers and companies aiming to enhance their API workflows. Users can collaborate on API development, share collections, and automate documentation, which simplifies the process from design to delivery.",
   "pros": [
-    "Comprehensive API development tools",
-    "Facilitates team collaboration",
+    "Supports full API lifecycle management",
+    "Facilitates team collaboration on API development",
     "Extensive integration with other tools"
   ],
   "cons": [
-    "Steep learning curve for beginners",
-    "Can be resource-intensive",
-    "Complexity in managing large API collections"
+    "Can be complex for beginners",
+    "Potentially high learning curve",
+    "Subscription can be expensive for small teams"
   ],
   "alternatives": [
     "Swagger [swagger.io]",
     "Insomnia [insomnia.rest]",
-    "APIGee [apigee.com]"
+    "SoapUI [soapui.org]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,15 +31,15 @@
       "reason": "Focuses on API debugging"
     },
     {
-      "name": "APIGee",
-      "url": "apigee.com",
-      "reason": "Enterprise scale API management"
+      "name": "SoapUI",
+      "url": "soapui.org",
+      "reason": "Specializes in SOAP and REST API testing"
     }
   ],
   "tags": [
     "API development",
     "team collaboration",
-    "API management"
+    "API testing"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -48,11 +48,11 @@
   "openSource": true,
   "releasedYear": 2014,
   "websiteUrl": "https://postman.com/",
-  "documentationUrl": "https://postman.com/docs",
+  "documentationUrl": "https://postman.com/documentation",
   "githubUrl": "https://github.com/postmanlabs",
   "twitterUrl": "https://twitter.com/getpostman",
   "screenshot": "/screenshots/postman_com.png",
   "screenshot_640": "/screenshots/postman_com_640.png",
   "screenshot_400": "/screenshots/postman_com_400.png",
-  "updatedAt": "2025-05-06T11:37:20.255Z"
+  "updatedAt": "2025-05-06T11:52:36.218Z"
 }

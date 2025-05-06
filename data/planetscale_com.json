@@ -3,43 +3,43 @@
   "name": "PlanetScale",
   "title": "planetscale.com",
   "payoff": "Fastest, most reliable database",
-  "shortDescription": "PlanetScale is a scalable relational database platform designed for businesses of all sizes. Leveraging Vitess, it simplifies achieving a shared-nothing architecture with explicit sharding. Ideal for companies needing high performance and reliability, such as those handling large data volumes like Slack and GitHub. Users can expect superior uptime, security, and cost-effectiveness compared to traditional cloud providers.",
+  "shortDescription": "PlanetScale is a scalable relational database platform designed for businesses of all sizes. Leveraging Vitess, it simplifies achieving a shared-nothing architecture with explicit sharding. Ideal for companies needing high-performance databases, it supports horizontal scaling and offers various deployment options, including cloud-based solutions. Use cases include handling large-scale MySQL databases for high-traffic web applications.",
   "pros": [
     "Horizontal scaling with Vitess",
-    "High performance with NVMe drives",
-    "Superior uptime and reliability"
+    "High reliability and uptime guarantees",
+    "Flexible deployment options including cloud"
   ],
   "cons": [
-    "Complex setup for new users",
-    "Potentially higher costs for small-scale deployments",
-    "Limited to relational database management"
+    "May be complex for small projects",
+    "Potentially higher costs for large scale use",
+    "Limited to relational database models"
   ],
   "alternatives": [
     "Amazon Aurora [aws.amazon.com/rds/aurora]",
     "Google Cloud SQL [cloud.google.com/sql]",
-    "Microsoft Azure SQL Database [azure.microsoft.com/en-us/services/sql-database]"
+    "CockroachDB [cockroachlabs.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Amazon Aurora",
       "url": "aws.amazon.com/rds/aurora",
-      "reason": "AWS managed database service"
+      "reason": "AWS managed database with scalability"
     },
     {
       "name": "Google Cloud SQL",
       "url": "cloud.google.com/sql",
-      "reason": "Fully-managed relational database"
+      "reason": "Fully managed relational database"
     },
     {
-      "name": "Microsoft Azure SQL Database",
-      "url": "azure.microsoft.com/en-us/services/sql-database",
-      "reason": "Scalable cloud database service"
+      "name": "CockroachDB",
+      "url": "cockroachlabs.com",
+      "reason": "Distributed SQL database for cloud apps"
     }
   ],
   "tags": [
-    "database management",
+    "databases",
     "scalability",
-    "cloud services",
+    "cloud platform",
     "data storage"
   ],
   "apiUsed": true,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/planetscale_com.png",
   "screenshot_640": "/screenshots/planetscale_com_640.png",
   "screenshot_400": "/screenshots/planetscale_com_400.png",
-  "updatedAt": "2025-05-06T11:36:59.685Z"
+  "updatedAt": "2025-05-06T11:51:53.517Z"
 }
