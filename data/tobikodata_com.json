@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tobikodata.com/",
+  "name": "Tobiko",
+  "title": "tobikodata.com",
+  "payoff": "Data transformation, without the waste",
+  "shortDescription": "Tobiko is a sophisticated data transformation platform designed for enterprises looking to optimize their data operations. It provides tools for debugging SQL errors, creating isolated development environments, and tracking changes with column-level lineage. An example use case is a company leveraging Tobiko to reduce warehouse costs by only running necessary transformations, thus avoiding unnecessary data processing.",
+  "pros": [
+    "Efficient SQL code validation",
+    "Near-zero data warehouse costs",
+    "Advanced column-level lineage tracking"
+  ],
+  "cons": [
+    "Requires full data access in cloud mode",
+    "Potentially complex setup for less tech-savvy users",
+    "Limited to SQL and related data operations"
+  ],
+  "alternatives": [
+    "dbt [getdbt.com]",
+    "Airflow [apache.org/projects/airflow]",
+    "Matillion [matillion.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "dbt",
+      "url": "getdbt.com",
+      "reason": "Popular for data build tooling"
+    },
+    {
+      "name": "Airflow",
+      "url": "apache.org/projects/airflow",
+      "reason": "Workflow automation and scheduling"
+    },
+    {
+      "name": "Matillion",
+      "url": "matillion.com",
+      "reason": "Data transformation for cloud data warehouses"
+    }
+  ],
+  "tags": [
+    "data transformation",
+    "SQL management",
+    "cloud services",
+    "data analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://tobikodata.com/",
+  "documentationUrl": "https://tobikodata.com/docs",
+  "githubUrl": "https://github.com/TobikoData",
+  "twitterUrl": "https://x.com/tobikodata",
+  "screenshot": "/screenshots/tobikodata_com.png",
+  "screenshot_640": "/screenshots/tobikodata_com_640.png",
+  "screenshot_400": "/screenshots/tobikodata_com_400.png",
+  "updatedAt": "2025-05-06T17:19:37.406Z"
+}

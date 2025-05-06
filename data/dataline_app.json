@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dataline.app/",
+  "name": "DataLine",
+  "title": "dataline.app",
+  "payoff": "Chat with your data",
+  "shortDescription": "DataLine is an AI-driven tool designed for both non-technical users and developers. It allows users to interact with data through conversational queries, generating instant visualizations and SQL queries. Ideal for those who need quick insights without deep technical knowledge, DataLine connects securely to your database without storing data in the cloud, ensuring privacy and security.",
+  "pros": [
+    "Privacy-first with local data storage",
+    "Easy-to-use for non-technical users",
+    "Instant data visualization and text2sql"
+  ],
+  "cons": [
+    "Limited to local device storage",
+    "May lack advanced analytics features",
+    "Dependent on device performance"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Powerful visualization capabilities"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Integration with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Advanced data modeling features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data visualization",
+    "open source",
+    "privacy"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2024,
+  "websiteUrl": "https://dataline.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/RamiAwar/dataline",
+  "twitterUrl": "https://x.com/iamramiawar",
+  "screenshot": "/screenshots/dataline_app.png",
+  "screenshot_640": "/screenshots/dataline_app_640.png",
+  "screenshot_400": "/screenshots/dataline_app_400.png",
+  "updatedAt": "2025-05-06T17:19:25.602Z"
+}

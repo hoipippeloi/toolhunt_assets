@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://filetract.com/",
+  "name": "FileTract",
+  "title": "filetract.com",
+  "payoff": "AI Transaction Insights & Management",
+  "shortDescription": "FileTract leverages AI to provide transaction insights and efficient document management for businesses. It automates data extraction, organizes documents, and integrates with accounting software, making financial workflows effortless. Example use case: A company uses FileTract to automate the sorting of transactions, reducing manual data entry and improving document organization.",
+  "pros": [
+    "Automates transaction sorting and data extraction",
+    "Integrates with existing accounting software",
+    "Provides powerful search and visualization tools"
+  ],
+  "cons": [
+    "Dependent on AI accuracy which may vary",
+    "Currently limited integration with accounting tools",
+    "No clear pricing information available"
+  ],
+  "alternatives": [
+    "Expensify [expensify.com]",
+    "Hubdoc [hubdoc.com]",
+    "Receipt Bank [receipt-bank.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Expensify",
+      "url": "expensify.com",
+      "reason": "Focuses on expense management with receipt scanning"
+    },
+    {
+      "name": "Hubdoc",
+      "url": "hubdoc.com",
+      "reason": "Automates financial document collection and management"
+    },
+    {
+      "name": "Receipt Bank",
+      "url": "receipt-bank.com",
+      "reason": "Streamlines data extraction from receipts and invoices"
+    }
+  ],
+  "tags": [
+    "AI",
+    "document management",
+    "financial workflow",
+    "data extraction"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://filetract.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=filetract&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/filetract_com.png",
+  "screenshot_640": "/screenshots/filetract_com_640.png",
+  "screenshot_400": "/screenshots/filetract_com_400.png",
+  "updatedAt": "2025-05-06T17:19:52.956Z"
+}
