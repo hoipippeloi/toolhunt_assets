@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://postman.com/",
+  "name": "Postman",
+  "title": "postman.com",
+  "payoff": "Leading API Platform",
+  "shortDescription": "Postman is a comprehensive platform for API development, catering to over 40 million users including developers and companies. It streamlines the design, testing, and deployment of APIs, enhancing collaboration across teams. Users can manage API workflows, automate testing, and integrate with various tools, making it ideal for both small projects and enterprise-scale applications.",
+  "pros": [
+    "Comprehensive API development tools",
+    "Supports collaboration and team workflows",
+    "Integrates with many other tools"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Potentially high learning curve",
+    "Subscription can be expensive for small teams"
+  ],
+  "alternatives": [
+    "Swagger [swagger.io]",
+    "APIGEE [apigee.com]",
+    "Insomnia [insomnia.rest]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Swagger",
+      "url": "swagger.io",
+      "reason": "Offers API design and testing tools"
+    },
+    {
+      "name": "APIGEE",
+      "url": "apigee.com",
+      "reason": "Focuses on API management and analytics"
+    },
+    {
+      "name": "Insomnia",
+      "url": "insomnia.rest",
+      "reason": "Simpler interface for API testing"
+    }
+  ],
+  "tags": [
+    "APIs",
+    "Developer productivity",
+    "Collaboration",
+    "Integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "APIs",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://postman.com/",
+  "documentationUrl": "https://postman.com/docs",
+  "githubUrl": "https://github.com/postmanlabs",
+  "twitterUrl": "https://twitter.com/getpostman",
+  "screenshot": "/screenshots/postman_com.png",
+  "screenshot_640": "/screenshots/postman_com_640.png",
+  "screenshot_400": "/screenshots/postman_com_400.png",
+  "updatedAt": "2025-05-06T17:43:41.374Z"
+}

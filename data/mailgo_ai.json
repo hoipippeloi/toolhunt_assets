@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mailgo.ai/",
+  "name": "Mailgo",
+  "title": "mailgo.ai",
+  "payoff": "AI Powered Cold Email",
+  "shortDescription": "Mailgo leverages AI to enhance cold email campaigns with high deliverability rates. It targets businesses looking to scale their outreach efforts efficiently. The AI agent of Mailgo identifies ideal leads and automates email campaigns, making it a vital tool for sales and marketing departments. Users have reported increased demo bookings and higher engagement rates, showcasing its effectiveness in real-world applications.",
+  "pros": [
+    "High deliverability of emails",
+    "AI-powered lead discovery",
+    "Automates complex processes"
+  ],
+  "cons": [
+    "May not integrate with all CRMs",
+    "Limited customization options",
+    "Potential privacy concerns with AI usage"
+  ],
+  "alternatives": [
+    "Sendinblue [sendinblue.com]",
+    "Mailchimp [mailchimp.com]",
+    "Constant Contact [constantcontact.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Offers email marketing with automation"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Popular for diverse marketing tools"
+    },
+    {
+      "name": "Constant Contact",
+      "url": "constantcontact.com",
+      "reason": "Strong in email campaign management"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "lead generation",
+    "AI",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Email Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mailgo.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mailgo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/mailgo_ai.png",
+  "screenshot_640": "/screenshots/mailgo_ai_640.png",
+  "screenshot_400": "/screenshots/mailgo_ai_400.png",
+  "updatedAt": "2025-05-06T17:43:25.104Z"
+}

@@ -3,37 +3,37 @@
   "name": "DataLine",
   "title": "dataline.app",
   "payoff": "Chat with your data",
-  "shortDescription": "DataLine is an AI-driven tool designed for both non-technical users and developers. It allows users to interact with data through conversational queries, generating instant visualizations and SQL queries. Ideal for those who need quick insights without deep technical knowledge, DataLine connects securely to your database without storing data in the cloud, ensuring privacy and security.",
+  "shortDescription": "DataLine is an AI-driven tool designed for data analysis and visualization through conversational interfaces. It's ideal for non-technical users who need to query data without deep technical knowledge, as well as developers seeking efficient text2sql capabilities. Users can directly interact with their databases securely, with all data processing occurring on-device, ensuring privacy and speed. Example use case: A marketing professional uses DataLine to quickly generate a sales performance dashboard by simply asking questions.",
   "pros": [
-    "Privacy-first with local data storage",
-    "Easy-to-use for non-technical users",
-    "Instant data visualization and text2sql"
+    "Privacy-first with on-device data processing",
+    "Easy-to-use conversational interface",
+    "Open source and customizable"
   ],
   "cons": [
-    "Limited to local device storage",
-    "May lack advanced analytics features",
-    "Dependent on device performance"
+    "Limited to device's processing power",
+    "May not support all types of databases",
+    "No cloud-based collaboration features"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
-    "Microsoft Power BI [powerbi.com]",
+    "Power BI [powerbi.com]",
     "Looker [looker.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Powerful visualization capabilities"
+      "reason": "Popular for visual analytics"
     },
     {
-      "name": "Microsoft Power BI",
+      "name": "Power BI",
       "url": "powerbi.com",
-      "reason": "Integration with Microsoft products"
+      "reason": "Integrates well with MS products"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Advanced data modeling features"
+      "reason": "Strong in big data integration"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/dataline_app.png",
   "screenshot_640": "/screenshots/dataline_app_640.png",
   "screenshot_400": "/screenshots/dataline_app_400.png",
-  "updatedAt": "2025-05-06T17:19:25.602Z"
+  "updatedAt": "2025-05-06T17:43:03.891Z"
 }

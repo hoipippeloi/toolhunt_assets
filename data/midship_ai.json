@@ -2,17 +2,17 @@
   "sourceUrl": "https://midship.ai/",
   "name": "Midship",
   "title": "midship.ai",
-  "payoff": "AI-driven audit simplification",
-  "shortDescription": "Midship revolutionizes audit procedures with AI technology, targeting auditors and financial professionals. It automates the sorting, categorization, and testing of audit documents, dramatically reducing manual effort and time. An example use case involves auditors using Midship to automatically generate work papers and evidence for compliance reviews, ensuring accuracy and efficiency during peak audit seasons.",
+  "payoff": "AI-driven audit efficiency",
+  "shortDescription": "Midship revolutionizes audit procedures by leveraging AI to automate document handling and test execution. Designed for auditors, it quickly structures and categorizes uploaded documents, making audit samples ready for review. An example use case involves auditors using Midship to auto-match documents and run compliance tests, significantly reducing manual workload and enhancing accuracy.",
   "pros": [
-    "Automates tedious audit processes",
-    "Ensures compliance and accuracy",
-    "Integrates directly with Excel"
+    "Automates document sorting and categorization",
+    "Integrates AI-powered audit tests for accuracy",
+    "Exports results directly into Excel for easy review"
   ],
   "cons": [
-    "Dependence on AI accuracy",
-    "Potential privacy concerns",
-    "Limited to financial auditing"
+    "Dependence on AI may reduce manual oversight",
+    "Potential compatibility issues with non-Excel users",
+    "Limited customization options for unique audit needs"
   ],
   "alternatives": [
     "AuditBoard [auditboard.com]",
@@ -23,7 +23,7 @@
     {
       "name": "AuditBoard",
       "url": "auditboard.com",
-      "reason": "Comprehensive audit suite with AI features"
+      "reason": "Comprehensive audit suite with cloud storage"
     },
     {
       "name": "TeamMate+",
@@ -33,21 +33,21 @@
     {
       "name": "CaseWare",
       "url": "caseware.com",
-      "reason": "Automates audit and reporting processes"
+      "reason": "Integrates with various data sources"
     }
   ],
   "tags": [
     "AI",
-    "audit",
-    "compliance",
-    "financial software"
+    "audit automation",
+    "document management",
+    "compliance"
   ],
   "apiUsed": false,
   "department": "Finance & Accounting",
   "function": "Documents",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://midship.ai/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=midship&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/midship_ai.png",
   "screenshot_640": "/screenshots/midship_ai_640.png",
   "screenshot_400": "/screenshots/midship_ai_400.png",
-  "updatedAt": "2025-05-06T17:20:17.106Z"
+  "updatedAt": "2025-05-06T17:44:11.163Z"
 }
