@@ -3,16 +3,16 @@
   "name": "Tiledesk",
   "title": "tiledesk.com",
   "payoff": "Automate workflows with AI agents",
-  "shortDescription": "Tiledesk enables businesses to automate customer support and internal processes using AI agents. It offers customizable solutions tailored to various industries like e-commerce, healthcare, and telecom. An example use case is automating customer inquiries in e-commerce, enhancing efficiency and customer satisfaction.",
+  "shortDescription": "Tiledesk leverages AI to automate business workflows and customer support, enhancing operational efficiency and engagement. It's designed for industries like e-commerce, healthcare, and telecom, offering solutions like 24/7 customer support automation and internal process streamlining. An example use case is AI agents that manage customer inquiries autonomously, reducing response times and operational costs.",
   "pros": [
-    "Customizable AI solutions",
-    "Supports multiple industries",
-    "No code and fully scalable"
+    "Customizable AI agents for various industries",
+    "No code required and fully scalable",
+    "Offers a 14-day free trial without credit card"
   ],
   "cons": [
-    "May require initial setup time",
-    "Dependent on quality of training data",
-    "Potential integration complexities"
+    "May require technical knowledge to set up",
+    "Limited to AI and automation functionalities",
+    "Dependent on quality of user's data for training AI"
   ],
   "alternatives": [
     "Zendesk [zendesk.com]",
@@ -23,12 +23,12 @@
     {
       "name": "Zendesk",
       "url": "zendesk.com",
-      "reason": "Offers robust customer service tools"
+      "reason": "Offers broader customer service tools"
     },
     {
       "name": "Freshdesk",
       "url": "freshdesk.com",
-      "reason": "Focuses on streamlined user interfaces"
+      "reason": "Includes gamification features for engagement"
     },
     {
       "name": "Intercom",
@@ -38,9 +38,9 @@
   ],
   "tags": [
     "AI",
-    "customer support",
     "automation",
-    "no code"
+    "customer support",
+    "workflow optimization"
   ],
   "apiUsed": true,
   "department": "Customer Service",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/tiledesk_com.png",
   "screenshot_640": "/screenshots/tiledesk_com_640.png",
   "screenshot_400": "/screenshots/tiledesk_com_400.png",
-  "updatedAt": "2025-05-06T10:40:38.840Z"
+  "updatedAt": "2025-05-06T10:57:48.335Z"
 }
