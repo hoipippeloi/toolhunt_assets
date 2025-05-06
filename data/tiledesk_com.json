@@ -3,16 +3,16 @@
   "name": "Tiledesk",
   "title": "tiledesk.com",
   "payoff": "Automate workflows with AI agents",
-  "shortDescription": "Tiledesk leverages AI to automate business workflows and customer support, enhancing operational efficiency and engagement. It's designed for industries like e-commerce, healthcare, and telecom, offering solutions like 24/7 customer support automation and internal process streamlining. An example use case is AI agents that manage customer inquiries autonomously, reducing response times and operational costs.",
+  "shortDescription": "Tiledesk enables businesses to automate customer support and internal processes using AI agents. It offers solutions tailored to various industries, enhancing efficiency and engagement without requiring coding skills. For example, an e-commerce business can use Tiledesk to automate customer inquiries and product recommendations, significantly reducing response times and operational costs.",
   "pros": [
     "Customizable AI agents for various industries",
-    "No code required and fully scalable",
-    "Offers a 14-day free trial without credit card"
+    "No coding required for setup",
+    "Offers a 14-day free trial"
   ],
   "cons": [
-    "May require technical knowledge to set up",
+    "May require training data for AI agents",
     "Limited to AI and automation functionalities",
-    "Dependent on quality of user's data for training AI"
+    "Dependent on third-party integrations for full functionality"
   ],
   "alternatives": [
     "Zendesk [zendesk.com]",
@@ -23,12 +23,12 @@
     {
       "name": "Zendesk",
       "url": "zendesk.com",
-      "reason": "Offers broader customer service tools"
+      "reason": "Popular customer service software"
     },
     {
       "name": "Freshdesk",
       "url": "freshdesk.com",
-      "reason": "Includes gamification features for engagement"
+      "reason": "Focuses on streamlined user interfaces"
     },
     {
       "name": "Intercom",
@@ -40,7 +40,7 @@
     "AI",
     "automation",
     "customer support",
-    "workflow optimization"
+    "no code"
   ],
   "apiUsed": true,
   "department": "Customer Service",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2018,
   "websiteUrl": "https://tiledesk.com/",
-  "documentationUrl": "https://tiledesk.com/docs/",
+  "documentationUrl": "https://tiledesk.com/documentation",
   "githubUrl": "https://github.com/Tiledesk",
   "twitterUrl": "https://twitter.com/tiledesk",
   "screenshot": "/screenshots/tiledesk_com.png",
   "screenshot_640": "/screenshots/tiledesk_com_640.png",
   "screenshot_400": "/screenshots/tiledesk_com_400.png",
-  "updatedAt": "2025-05-06T10:57:48.335Z"
+  "updatedAt": "2025-05-06T11:05:53.013Z"
 }
