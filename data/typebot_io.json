@@ -3,16 +3,16 @@
   "name": "Typebot",
   "title": "typebot.io",
   "payoff": "Build and deploy chatbots easily",
-  "shortDescription": "Typebot is a no-code platform that allows users to create and integrate chatbots into various platforms like websites and WhatsApp. It is designed for businesses of all sizes to enhance customer engagement through conversational AI. Users can build bots with features like text, images, videos, and various input options, and deploy them across multiple channels. An example use case is automating customer support to handle inquiries and improve response times.",
+  "shortDescription": "Typebot is a no-code platform that allows users to create and deploy chatbots across various platforms like websites and WhatsApp. It's designed for businesses of all sizes to enhance customer interaction through automated conversations. Users can build bots with features like payment inputs, date pickers, and integrate with services like OpenAI and Google Sheets. Ideal for marketing, sales, and support, it helps in lead generation, customer support, and engaging marketing communications.",
   "pros": [
     "Multichannel deployment options",
     "No-code visual chat builder",
-    "Powerful analytics and integration capabilities"
+    "Powerful integration capabilities"
   ],
   "cons": [
     "May require technical knowledge for advanced features",
     "Limited customization without coding",
-    "Dependent on third-party integrations for some features"
+    "Dependent on third-party integrations"
   ],
   "alternatives": [
     "Chatfuel [chatfuel.com]",
@@ -28,22 +28,22 @@
     {
       "name": "ManyChat",
       "url": "manychat.com",
-      "reason": "Focuses on social media bots"
+      "reason": "Focuses on social media integrations"
     },
     {
       "name": "MobileMonkey",
       "url": "mobilemonkey.com",
-      "reason": "Strong in SMS and Facebook bots"
+      "reason": "Strong on SMS and Facebook Messenger"
     }
   ],
   "tags": [
     "chatbots",
     "no-code",
     "customer engagement",
-    "AI"
+    "automation"
   ],
   "apiUsed": true,
-  "department": "Customer Service",
+  "department": "Marketing",
   "function": "Chat & Calls",
   "freeTier": true,
   "openSource": true,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/typebot_io.png",
   "screenshot_640": "/screenshots/typebot_io_640.png",
   "screenshot_400": "/screenshots/typebot_io_400.png",
-  "updatedAt": "2025-05-07T11:49:59.636Z"
+  "updatedAt": "2025-05-07T17:29:27.711Z"
 }
