@@ -3,16 +3,16 @@
   "name": "liftOS",
   "title": "liftos.io",
   "payoff": "Collaborative home for your team",
-  "shortDescription": "liftOS transforms workplaces by integrating AI, aiming to save each employee 12 hours weekly. It's designed for businesses, agencies, and freelancers who seek to enhance productivity by centralizing tasks, documents, and collaboration in one platform. An example use case is a small business owner streamlining project management and reducing the need for multiple tools.",
+  "shortDescription": "liftOS transforms the workplace by integrating AI to streamline operations, saving each employee 12 hours weekly. It's designed for small businesses, freelancers, and agencies seeking efficiency. An example use case is a small business owner using liftOS to manage tasks and documents in one place, reducing the need to switch between applications.",
   "pros": [
-    "Saves significant time each week",
-    "Integrates various tools and data",
-    "Enhances team collaboration with AI"
+    "Saves significant time by reducing context switching",
+    "Integrates with multiple tools including Google Workspace",
+    "Trusted by over 2000 businesses"
   ],
   "cons": [
     "May have a learning curve for new users",
-    "Dependent on AI accuracy and reliability",
-    "Potential privacy concerns with data centralization"
+    "Dependent on continuous AI improvements",
+    "Limited information on customization options"
   ],
   "alternatives": [
     "Notion [notion.so]",
@@ -23,24 +23,24 @@
     {
       "name": "Notion",
       "url": "notion.so",
-      "reason": "Offers flexible workspace options"
+      "reason": "Flexible workspace with integrative features"
     },
     {
-      "name": "Trello",
-      "url": "trello.com",
-      "reason": "Visual project management tool"
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers extensive project and task management"
     },
     {
-      "name": "Slack",
-      "url": "slack.com",
-      "reason": "Enhances team communication"
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Well-known for team collaboration and tracking"
     }
   ],
   "tags": [
     "AI",
     "productivity",
-    "collaboration",
-    "project management"
+    "task management",
+    "collaboration"
   ],
   "apiUsed": false,
   "department": "Operations",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/liftos_io.png",
   "screenshot_640": "/screenshots/liftos_io_640.png",
   "screenshot_400": "/screenshots/liftos_io_400.png",
-  "updatedAt": "2025-05-07T17:06:49.327Z"
+  "updatedAt": "2025-05-07T17:34:47.386Z"
 }
