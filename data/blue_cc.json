@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blue.cc",
+  "name": "Blue",
+  "title": "blue.cc",
+  "payoff": "Manage projects effectively.",
+  "shortDescription": "Blue is a comprehensive tool designed to streamline project management across various industries. It supports managers in organizing and executing projects with ease, from startups to large enterprises. An example use case is a marketing team using Blue to manage their campaign launches, ensuring every task is tracked and aligned with strategic goals.",
+  "pros": [
+    "Simple to use interface",
+    "Flexible pricing models",
+    "Extensive customization options"
+  ],
+  "cons": [
+    "Potential learning curve for new users",
+    "May be costly for small teams",
+    "Limited third-party integrations"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Popular for task management and collaboration."
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Offers extensive spreadsheet-like features."
+    },
+    {
+      "name": "Wrike",
+      "url": "wrike.com",
+      "reason": "Strong in workflow customization and analytics."
+    }
+  ],
+  "tags": [
+    "project management",
+    "task organization",
+    "productivity",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://blue.cc",
+  "documentationUrl": "https://blue.cc/docs",
+  "githubUrl": "https://github.com/search?q=blue&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/blue_cc.png",
+  "screenshot_640": "/screenshots/blue_cc_640.png",
+  "screenshot_400": "/screenshots/blue_cc_400.png",
+  "updatedAt": "2025-05-07T11:50:14.244Z"
+}

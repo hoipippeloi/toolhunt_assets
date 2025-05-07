@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://surfsite.ai/",
+  "name": "Surfsite",
+  "title": "surfsite.ai",
+  "payoff": "Enhance your web experience!",
+  "shortDescription": "Surfsite is a cutting-edge tool designed to optimize web browsing through advanced AI-driven features. It is ideal for users ranging from casual internet surfers to research professionals. An example use case includes enhancing research efficiency by quickly summarizing and analyzing content on web pages.",
+  "pros": [
+    "Advanced AI-driven features",
+    "User-friendly interface",
+    "Efficient content analysis"
+  ],
+  "cons": [
+    "Requires internet connection",
+    "Limited to web content",
+    "Subscription model may be costly"
+  ],
+  "alternatives": [
+    "Webflow [webflow.com]",
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers visual building tools for websites"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Provides easy drag-and-drop website builder"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Known for sleek design templates"
+    }
+  ],
+  "tags": [
+    "web browsing",
+    "AI",
+    "content analysis",
+    "user experience"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://surfsite.ai/",
+  "documentationUrl": "https://surfsite.ai/docs",
+  "githubUrl": "https://github.com/search?q=surfsite&type=repositories",
+  "twitterUrl": "https://x.com/SurfsiteAI",
+  "screenshot": "/screenshots/surfsite_ai.png",
+  "screenshot_640": "/screenshots/surfsite_ai_640.png",
+  "screenshot_400": "/screenshots/surfsite_ai_400.png",
+  "updatedAt": "2025-05-07T11:48:59.898Z"
+}

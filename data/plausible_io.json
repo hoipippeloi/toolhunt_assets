@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://plausible.io",
+  "name": "Plausible Analytics",
+  "title": "plausible.io",
+  "payoff": "Privacy-friendly analytics alternative",
+  "shortDescription": "Plausible Analytics offers a simple, lightweight, and privacy-focused alternative to Google Analytics. It is designed for startups, agencies, and creators who need intuitive web analytics without compromising user privacy. Users can easily import data from Google Analytics, view essential insights on a single dashboard, and manage multiple sites without the need for complex setups.",
+  "pros": [
+    "Lightweight and fast script",
+    "No cookie/GDPR consent required",
+    "Open source and customizable"
+  ],
+  "cons": [
+    "Lesser known than Google Analytics",
+    "May lack some advanced features",
+    "Limited third-party integrations"
+  ],
+  "alternatives": [
+    "Google Analytics [analytics.google.com]",
+    "Matomo [matomo.org]",
+    "Cloudflare Web Analytics [cloudflare.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Analytics",
+      "url": "analytics.google.com",
+      "reason": "Industry standard with advanced features"
+    },
+    {
+      "name": "Matomo",
+      "url": "matomo.org",
+      "reason": "Open source with on-premise option"
+    },
+    {
+      "name": "Fathom Analytics",
+      "url": "usefathom.com",
+      "reason": "Simple, privacy-focused alternative"
+    }
+  ],
+  "tags": [
+    "web analytics",
+    "privacy",
+    "open source",
+    "GDPR compliant"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://plausible.io",
+  "documentationUrl": "https://plausible.io/docs",
+  "githubUrl": "https://github.com/plausible/analytics",
+  "twitterUrl": "https://twitter.com/PlausibleHQ",
+  "screenshot": "/screenshots/plausible_io.png",
+  "screenshot_640": "/screenshots/plausible_io_640.png",
+  "screenshot_400": "/screenshots/plausible_io_400.png",
+  "updatedAt": "2025-05-07T11:49:36.219Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://activepieces.com",
+  "name": "Activepieces",
+  "title": "activepieces.com",
+  "payoff": "AI-first, no-code automation software",
+  "shortDescription": "Activepieces is a versatile automation platform designed for teams of all sizes, from startups to Fortune 50 companies. It enables users to create powerful, AI-driven automations without the need for coding, leveraging an open-source framework. Users can automate tasks, integrate with numerous services, and enhance workflows with AI capabilities. Example use case: Automating data entry and approval processes to increase efficiency and reduce errors.",
+  "pros": [
+    "No-code automation simplifies process creation",
+    "Open-source framework ensures flexibility and customization",
+    "Supports AI-driven automations for advanced tasks"
+  ],
+  "cons": [
+    "May require technical understanding for complex automations",
+    "Open-source nature might pose integration challenges for some enterprises",
+    "Limited information on direct customer support"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "n8n.io [n8n.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Widely used for no-code integrations"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "n8n.io",
+      "url": "n8n.io",
+      "reason": "Open-source and flexible"
+    }
+  ],
+  "tags": [
+    "automation",
+    "AI",
+    "no-code",
+    "open-source"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://activepieces.com",
+  "documentationUrl": "https://activepieces.com/docs",
+  "githubUrl": "https://github.com/activepieces/activepieces",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/activepieces_com.png",
+  "screenshot_640": "/screenshots/activepieces_com_640.png",
+  "screenshot_400": "/screenshots/activepieces_com_400.png",
+  "updatedAt": "2025-05-07T11:48:58.819Z"
+}

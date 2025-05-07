@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://anythingllm.com/",
+  "name": "AnythingLLM",
+  "title": "anythingllm.com",
+  "payoff": "AI application for everyone",
+  "shortDescription": "AnythingLLM is an all-in-one AI desktop application designed to enhance productivity for users across various industries. It allows users to interact with documents, leverage AI agents, and run large language models (LLMs) both locally and offline. Ideal for businesses handling diverse data formats like PDFs, CSVs, and codebases, it simplifies complex setups and integrates seamlessly with enterprise models from leading providers like OpenAI and AWS.",
+  "pros": [
+    "Supports offline and local operation",
+    "No complex setup required",
+    "Integrates with major AI providers"
+  ],
+  "cons": [
+    "Limited to desktop use",
+    "May require technical knowledge for advanced features",
+    "Dependent on local system resources"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Azure AI [azure.microsoft.com]",
+    "AWS AI [aws.amazon.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers advanced AI models"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Wide range of AI tools"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in enterprise AI solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "desktop software",
+    "productivity",
+    "data integration"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://anythingllm.com/",
+  "documentationUrl": "https://docs.anythingllm.com/",
+  "githubUrl": "https://github.com/Mintplex-Labs/anything-llm",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/anythingllm_com.png",
+  "screenshot_640": "/screenshots/anythingllm_com_640.png",
+  "screenshot_400": "/screenshots/anythingllm_com_400.png",
+  "updatedAt": "2025-05-07T11:50:08.411Z"
+}

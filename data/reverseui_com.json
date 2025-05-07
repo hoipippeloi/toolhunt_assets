@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://reverseui.com/",
+  "name": "Reverse UI",
+  "title": "reverseui.com",
+  "payoff": "Premium UI Components for Apps",
+  "shortDescription": "Reverse UI specializes in providing high-quality animated UI components designed for modern web applications. It caters to developers and designers seeking to enhance user interfaces with engaging animations. An example use case could be a tech startup wanting to quickly implement sophisticated UI elements to improve user experience and engagement without extensive custom development.",
+  "pros": [
+    "High-quality animations",
+    "Easy integration",
+    "Enhances user engagement"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May increase page load times",
+    "Requires modern browser support"
+  ],
+  "alternatives": [
+    "Framer [framer.com]",
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Framer",
+      "url": "framer.com",
+      "reason": "Offers interactive design and prototyping"
+    },
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Provides a wide range of React UI components"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Extensive library of design components"
+    }
+  ],
+  "tags": [
+    "UI components",
+    "web development",
+    "animation",
+    "user experience"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://reverseui.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=reverse%20ui&type=repositories",
+  "twitterUrl": "https://x.com/kukaarmedin",
+  "screenshot": "/screenshots/reverseui_com.png",
+  "screenshot_640": "/screenshots/reverseui_com_640.png",
+  "screenshot_400": "/screenshots/reverseui_com_400.png",
+  "updatedAt": "2025-05-07T11:49:57.419Z"
+}

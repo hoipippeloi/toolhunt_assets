@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://typebot.io",
+  "name": "Typebot",
+  "title": "typebot.io",
+  "payoff": "Build and deploy chatbots easily",
+  "shortDescription": "Typebot is a no-code platform that allows users to create and integrate chatbots into various platforms like websites and WhatsApp. It is designed for businesses of all sizes to enhance customer engagement through conversational AI. Users can build bots with features like text, images, videos, and various input options, and deploy them across multiple channels. An example use case is automating customer support to handle inquiries and improve response times.",
+  "pros": [
+    "Multichannel deployment options",
+    "No-code visual chat builder",
+    "Powerful analytics and integration capabilities"
+  ],
+  "cons": [
+    "May require technical knowledge for advanced features",
+    "Limited customization without coding",
+    "Dependent on third-party integrations for some features"
+  ],
+  "alternatives": [
+    "Chatfuel [chatfuel.com]",
+    "ManyChat [manychat.com]",
+    "MobileMonkey [mobilemonkey.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Chatfuel",
+      "url": "chatfuel.com",
+      "reason": "Offers similar no-code bot building"
+    },
+    {
+      "name": "ManyChat",
+      "url": "manychat.com",
+      "reason": "Focuses on social media bots"
+    },
+    {
+      "name": "MobileMonkey",
+      "url": "mobilemonkey.com",
+      "reason": "Strong in SMS and Facebook bots"
+    }
+  ],
+  "tags": [
+    "chatbots",
+    "no-code",
+    "customer engagement",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://typebot.io",
+  "documentationUrl": "https://typebot.io/docs",
+  "githubUrl": "https://github.com/baptisteArno/typebot.io",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/typebot_io.png",
+  "screenshot_640": "/screenshots/typebot_io_640.png",
+  "screenshot_400": "/screenshots/typebot_io_400.png",
+  "updatedAt": "2025-05-07T11:49:59.636Z"
+}

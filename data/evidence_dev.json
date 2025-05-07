@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://evidence.dev",
+  "name": "Evidence",
+  "title": "evidence.dev",
+  "payoff": "Business Intelligence as Code",
+  "shortDescription": "Evidence is an open-source framework designed for building data-driven applications using SQL. It's tailored for data professionals and developers who need to create and deploy interactive, high-performance data products quickly. An example use case involves a small data team using Evidence to develop and maintain dynamic reporting tools for internal stakeholders, enhancing decision-making processes.",
+  "pros": [
+    "Open source and free to start",
+    "Supports rapid deployment and easy maintenance",
+    "Highly interactive user experience"
+  ],
+  "cons": [
+    "Requires familiarity with SQL",
+    "Limited community compared to larger frameworks",
+    "Potential scalability issues for very large datasets"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "PowerBI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Integrates with Google Cloud"
+    },
+    {
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Strong in enterprise BI"
+    }
+  ],
+  "tags": [
+    "business intelligence",
+    "data visualization",
+    "open source",
+    "SQL"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://evidence.dev",
+  "documentationUrl": "https://evidence.dev/docs",
+  "githubUrl": "https://github.com/evidence-dev/evidence",
+  "twitterUrl": "https://twitter.com/evidence_dev",
+  "screenshot": "/screenshots/evidence_dev.png",
+  "screenshot_640": "/screenshots/evidence_dev_640.png",
+  "screenshot_400": "/screenshots/evidence_dev_400.png",
+  "updatedAt": "2025-05-07T11:49:33.933Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://liftos.app",
+  "name": "liftOS",
+  "title": "liftos.app",
+  "payoff": "Optimize your business operations",
+  "shortDescription": "liftOS is a comprehensive tool designed to streamline business operations across various departments. It offers solutions for automating workflows, managing resources, and enhancing productivity. For instance, a small business could use liftOS to automate their inventory management, reducing manual errors and saving time.",
+  "pros": [
+    "Enhances operational efficiency",
+    "Automates repetitive tasks",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high subscription cost",
+    "Limited customizability"
+  ],
+  "alternatives": [
+    "Monday.com [monday.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers more extensive project management features"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on team collaboration and task management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Provides a simpler, card-based task management interface"
+    }
+  ],
+  "tags": [
+    "business operations",
+    "workflow automation",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://liftos.app",
+  "documentationUrl": "https://liftos.app/docs",
+  "githubUrl": "https://github.com/search?q=liftos&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/liftos_app.png",
+  "screenshot_640": "/screenshots/liftos_app_640.png",
+  "screenshot_400": "/screenshots/liftos_app_400.png",
+  "updatedAt": "2025-05-07T11:49:27.287Z"
+}

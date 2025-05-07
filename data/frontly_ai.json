@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://frontly.ai/",
+  "name": "Frontly",
+  "title": "frontly.ai",
+  "payoff": "Build custom apps with no code",
+  "shortDescription": "Frontly allows users to create custom applications using a no-code platform, enhanced by AI capabilities. It is designed for non-technical users such as business analysts, project managers, and entrepreneurs. An example use case is a small business owner creating an internal tool to manage inventory and process orders without needing programming skills.",
+  "pros": [
+    "No coding required",
+    "AI-enhanced features",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited customization compared to coded solutions",
+    "Potential performance issues with complex apps",
+    "Dependence on platform updates and support"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Adalo [adalo.com]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Offers no-code development with a visual editor"
+    },
+    {
+      "name": "Adalo",
+      "url": "adalo.com",
+      "reason": "Focuses on mobile app development without code"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "Provides extensive customization for no-code apps"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "app development",
+    "AI",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://frontly.ai/",
+  "documentationUrl": "https://frontly.ai/docs",
+  "githubUrl": "https://github.com/search?q=frontly&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/frontly_ai.png",
+  "screenshot_640": "/screenshots/frontly_ai_640.png",
+  "screenshot_400": "/screenshots/frontly_ai_400.png",
+  "updatedAt": "2025-05-07T11:50:00.576Z"
+}

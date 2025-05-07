@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://anyquery.dev",
+  "name": "Anyquery",
+  "title": "anyquery.dev",
+  "payoff": "Use SQL for anything",
+  "shortDescription": "Anyquery is a versatile CLI tool designed to run SQL queries across various data sources, including files, APIs, logs, and local apps. It supports major operating systems like GNU/Linux, macOS, and Windows, making it accessible for a wide range of users. Example use case: A developer can use Anyquery to integrate SQL querying capabilities into their applications, allowing for seamless data manipulation and retrieval.",
+  "pros": [
+    "Supports multiple platforms (GNU/Linux, macOS, Windows)",
+    "Integrates with various data sources and tools",
+    "Fast query execution times"
+  ],
+  "cons": [
+    "CLI-based, which might not be user-friendly for all",
+    "Limited to SQL knowledge users",
+    "May require setup and configuration"
+  ],
+  "alternatives": [
+    "Metabase [metabase.com]",
+    "Airtable [airtable.com]",
+    "SQLite [sqlite.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Metabase",
+      "url": "metabase.com",
+      "reason": "Provides user-friendly SQL interface"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database with spreadsheet UI"
+    },
+    {
+      "name": "SQLite",
+      "url": "sqlite.org",
+      "reason": "Lightweight database with SQL support"
+    }
+  ],
+  "tags": [
+    "SQL",
+    "data integration",
+    "CLI tool",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://anyquery.dev",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/julien040/anyquery",
+  "twitterUrl": "https://x.com/JulienC_me",
+  "screenshot": "/screenshots/anyquery_dev.png",
+  "screenshot_640": "/screenshots/anyquery_dev_640.png",
+  "screenshot_400": "/screenshots/anyquery_dev_400.png",
+  "updatedAt": "2025-05-07T11:49:53.936Z"
+}

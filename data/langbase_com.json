@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://langbase.com/",
+  "name": "Langbase",
+  "title": "langbase.com",
+  "payoff": "Build and scale serverless AI agents",
+  "shortDescription": "Langbase provides a platform for developers to create and deploy serverless AI agents efficiently. It is designed to enhance developer experience by allowing integration with over 250 language models through a unified API. Example use cases include building AI chatbots, anonymizers, and AI-driven summarizers for customer support tickets. The platform is trusted by top innovative organizations to accelerate AI product development.",
+  "pros": [
+    "Supports over 250 language models",
+    "Serverless, composable AI agents",
+    "Developer-friendly with powerful tools"
+  ],
+  "cons": [
+    "May require technical expertise",
+    "Potentially high costs at scale",
+    "Limited information on security measures"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Google AI [ai.google]",
+    "Microsoft Azure AI [azure.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and tools provider"
+    },
+    {
+      "name": "Google Cloud AI",
+      "url": "cloud.google.com/ai",
+      "reason": "Comprehensive AI solutions with cloud integration"
+    },
+    {
+      "name": "AWS AI Services",
+      "url": "aws.amazon.com/machine-learning",
+      "reason": "Wide range of AI services and scalability"
+    }
+  ],
+  "tags": [
+    "AI",
+    "serverless",
+    "developer tools",
+    "AI platform"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://langbase.com/",
+  "documentationUrl": "https://langbase.com/docs",
+  "githubUrl": "https://github.com/LangbaseInc/",
+  "twitterUrl": "https://x.com/langbaseinc",
+  "screenshot": "/screenshots/langbase_com.png",
+  "screenshot_640": "/screenshots/langbase_com_640.png",
+  "screenshot_400": "/screenshots/langbase_com_400.png",
+  "updatedAt": "2025-05-07T11:51:10.369Z"
+}

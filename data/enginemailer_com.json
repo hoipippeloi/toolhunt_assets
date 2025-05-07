@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://enginemailer.com",
+  "name": "Enginemailer",
+  "title": "enginemailer.com",
+  "payoff": "Free Email Marketing Software",
+  "shortDescription": "Enginemailer is an email marketing platform designed for freelancers, SMEs, and enterprises. It allows users to manage contacts, create campaigns, and monitor results effectively. Users can start with up to 10,000 free emails monthly, making it ideal for businesses looking to grow their audience without initial investment.",
+  "pros": [
+    "Free tier available with generous limits",
+    "Comprehensive dashboard for campaign tracking",
+    "Integration capabilities with APIs"
+  ],
+  "cons": [
+    "Potentially steep learning curve for new users",
+    "Limited customization in free templates",
+    "May require technical knowledge for advanced features"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "Sendinblue [sendinblue.com]",
+    "Constant Contact [constantcontact.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers more template options and integrations"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Focuses on transactional emails and SMS"
+    },
+    {
+      "name": "Constant Contact",
+      "url": "constantcontact.com",
+      "reason": "Provides extensive training and support"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "campaign management",
+    "lead generation",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://enginemailer.com",
+  "documentationUrl": "https://enginemailer.com/support",
+  "githubUrl": "https://github.com/search?q=enginemailer&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/enginemailer_com.png",
+  "screenshot_640": "/screenshots/enginemailer_com_640.png",
+  "screenshot_400": "/screenshots/enginemailer_com_400.png",
+  "updatedAt": "2025-05-07T11:49:30.908Z"
+}
