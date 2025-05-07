@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stack-auth.com/",
+  "name": "Stack Auth",
+  "title": "stack-auth.com",
+  "payoff": "Do auth in minutes.",
+  "shortDescription": "Stack Auth offers a comprehensive suite of open-source tools for authentication and user management. It's designed to simplify the integration of authentication features into various applications, making it ideal for developers and businesses. Users can manage B2B customers with organizational structures, access third-party OAuth APIs, and utilize beautifully styled components for rapid development. An example use case is a tech startup integrating Stack Auth to manage user authentication and permissions efficiently.",
+  "pros": [
+    "Open-source flexibility",
+    "Wide range of features",
+    "Easy integration with existing apps"
+  ],
+  "cons": [
+    "Potential complexity in setup",
+    "Limited direct support",
+    "Dependence on community contributions"
+  ],
+  "alternatives": [
+    "Auth0 [auth0.com]",
+    "Okta [okta.com]",
+    "Firebase Authentication [firebase.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Auth0",
+      "url": "auth0.com",
+      "reason": "Offers extensive identity solutions"
+    },
+    {
+      "name": "Okta",
+      "url": "okta.com",
+      "reason": "Enterprise-grade identity management"
+    },
+    {
+      "name": "Firebase Authentication",
+      "url": "firebase.google.com",
+      "reason": "Integrates with other Firebase services"
+    }
+  ],
+  "tags": [
+    "authentication",
+    "open source",
+    "user management",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Authentication",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://stack-auth.com/",
+  "documentationUrl": "https://stack-auth.com/docs",
+  "githubUrl": "https://github.com/stack-auth/stack-auth",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/stack_auth_com.png",
+  "screenshot_640": "/screenshots/stack_auth_com_640.png",
+  "screenshot_400": "/screenshots/stack_auth_com_400.png",
+  "updatedAt": "2025-05-07T12:23:39.450Z"
+}

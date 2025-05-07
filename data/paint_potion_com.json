@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://paint-potion.com/",
+  "name": "Paint Potion",
+  "title": "paint-potion.com",
+  "payoff": "Create style-consistent vector illustrations",
+  "shortDescription": "Paint Potion revolutionizes the creation of vector illustrations by integrating AI to match your personal style. Ideal for illustrators and designers, this tool allows users to upload style references and generate consistent illustrations in SVG or PNG formats. An example use case would be a graphic designer needing to quickly produce multiple campaign graphics that maintain a consistent brand aesthetic.",
+  "pros": [
+    "Generates illustrations quickly",
+    "Supports both SVG and PNG formats",
+    "Allows customization with personal style references"
+  ],
+  "cons": [
+    "Limited to vector illustrations",
+    "Requires multiple reference images for best results",
+    "No free tier available"
+  ],
+  "alternatives": [
+    "Adobe Illustrator [adobe.com]",
+    "CorelDRAW [coreldraw.com]",
+    "Inkscape [inkscape.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com",
+      "reason": "Industry standard vector graphic editor"
+    },
+    {
+      "name": "CorelDRAW",
+      "url": "coreldraw.com",
+      "reason": "Powerful graphic design software with vector tools"
+    },
+    {
+      "name": "Inkscape",
+      "url": "inkscape.org",
+      "reason": "Free and open-source vector graphics editor"
+    }
+  ],
+  "tags": [
+    "AI",
+    "design tools",
+    "vector graphics",
+    "illustration"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://paint-potion.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=paint%20potion&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/paint_potion_com.png",
+  "screenshot_640": "/screenshots/paint_potion_com_640.png",
+  "screenshot_400": "/screenshots/paint_potion_com_400.png",
+  "updatedAt": "2025-05-07T12:23:49.272Z"
+}

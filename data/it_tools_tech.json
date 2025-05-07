@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://it-tools.tech/",
+  "name": "IT Tools",
+  "title": "it-tools.tech",
+  "payoff": "Essential tools for developers",
+  "shortDescription": "IT Tools provides a suite of online utilities designed specifically for developers. These tools help in various tasks such as code formatting, debugging, and performance testing. An example use case is a developer quickly formatting JSON data for easier readability and error detection.",
+  "pros": [
+    "Easy to use interface",
+    "Wide range of tools",
+    "No sign-up required"
+  ],
+  "cons": [
+    "Limited advanced features",
+    "No user accounts",
+    "Minimal support options"
+  ],
+  "alternatives": [
+    "Postman [postman.com]",
+    "JIRA Software [atlassian.com/software/jira]",
+    "GitHub [github.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Postman",
+      "url": "postman.com",
+      "reason": "Comprehensive API testing suite"
+    },
+    {
+      "name": "Stack Overflow",
+      "url": "stackoverflow.com",
+      "reason": "Community support for developers"
+    },
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Extensive IDE with developer tools"
+    }
+  ],
+  "tags": [
+    "development",
+    "online tools",
+    "productivity",
+    "software"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://it-tools.tech/",
+  "documentationUrl": "https://it-tools.tech/docs",
+  "githubUrl": "https://github.com/CorentinTh/it-tools/tree/v2024.10.22-7ca5933",
+  "twitterUrl": "https://x.com/ittoolsdottech",
+  "screenshot": "/screenshots/it_tools_tech.png",
+  "screenshot_640": "/screenshots/it_tools_tech_640.png",
+  "screenshot_400": "/screenshots/it_tools_tech_400.png",
+  "updatedAt": "2025-05-07T12:23:09.289Z"
+}

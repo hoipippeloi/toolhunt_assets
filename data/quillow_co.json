@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://quillow.co/",
+  "name": "Quillow",
+  "title": "quillow.co",
+  "payoff": "Build a beautiful microsite easily",
+  "shortDescription": "Quillow revolutionizes the concept of link-in-bio by allowing users to create dynamic, fully customizable microsites. Ideal for influencers, marketers, and content creators, Quillow lets users consolidate their online presence into one polished, professional webpage. Users can integrate their social media, videos, and blogs, enhancing their audience engagement by centralizing their content.",
+  "pros": [
+    "Custom domain integration",
+    "Desktop and mobile optimization",
+    "Integrations with major social platforms"
+  ],
+  "cons": [
+    "Limited design templates",
+    "No advanced analytics features",
+    "Potential privacy concerns with social integrations"
+  ],
+  "alternatives": [
+    "Linktree [linktr.ee]",
+    "Carrd [carrd.co]",
+    "Bio.fm [bio.fm]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Linktree",
+      "url": "linktr.ee",
+      "reason": "Popular for simple link-in-bio pages"
+    },
+    {
+      "name": "Carrd",
+      "url": "carrd.co",
+      "reason": "Offers one-page sites with low cost"
+    },
+    {
+      "name": "Bio.fm",
+      "url": "bio.fm",
+      "reason": "Flexible layouts for content aggregation"
+    }
+  ],
+  "tags": [
+    "Site Builder",
+    "Content Management",
+    "Social Media Integration"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://quillow.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=quillow&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/quillow_co.png",
+  "screenshot_640": "/screenshots/quillow_co_640.png",
+  "screenshot_400": "/screenshots/quillow_co_400.png",
+  "updatedAt": "2025-05-07T12:23:47.985Z"
+}

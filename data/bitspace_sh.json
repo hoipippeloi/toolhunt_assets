@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bitspace.sh/",
+  "name": "Bitspace",
+  "title": "bitspace.sh",
+  "payoff": "Creative computing for everyone",
+  "shortDescription": "Bitspace offers a unique platform designed for creative computing, catering to individuals and professionals alike. It serves as a creative space where users can explore and expand their creative imagination through computing. An example use case could be a graphic designer using Bitspace to create innovative designs or a developer experimenting with new computing techniques.",
+  "pros": [
+    "Encourages creative exploration",
+    "Suitable for individuals and professionals",
+    "Focus on creative computing"
+  ],
+  "cons": [
+    "Limited information on features",
+    "No clear pricing sections",
+    "Lack of detailed user guidance"
+  ],
+  "alternatives": [
+    "Adobe Creative Cloud [adobe.com]",
+    "Canva [canva.com]",
+    "Sketch [sketch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Creative Cloud",
+      "url": "adobe.com",
+      "reason": "Wide range of creative tools and services"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Easy-to-use design platform with templates"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular among UI/UX designers for prototyping"
+    }
+  ],
+  "tags": [
+    "creative computing",
+    "design",
+    "innovation",
+    "exploration"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://bitspace.sh/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=bitspace&type=repositories",
+  "twitterUrl": "https://twitter.com/newfrgmnt",
+  "screenshot": "/screenshots/bitspace_sh.png",
+  "screenshot_640": "/screenshots/bitspace_sh_640.png",
+  "screenshot_400": "/screenshots/bitspace_sh_400.png",
+  "updatedAt": "2025-05-07T12:23:44.792Z"
+}

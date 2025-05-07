@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://depositphotos.com/",
+  "name": "Depositphotos",
+  "title": "depositphotos.com",
+  "payoff": "Royalty-free stock media for projects",
+  "shortDescription": "Depositphotos offers a vast library of over 313 million royalty-free images, videos, vectors, and music, catering to the needs of businesses and creatives alike. Users can explore a wide range of thematic collections to find the perfect visual or audio content for their projects. This tool is ideal for marketing teams, content creators, and corporations seeking high-quality stock media.",
+  "pros": [
+    "Extensive media library",
+    "High-quality stock content",
+    "Trusted by leading companies"
+  ],
+  "cons": [
+    "Can be expensive without subscription",
+    "Limited unique content due to stock nature",
+    "Potential licensing complexities"
+  ],
+  "alternatives": [
+    "Shutterstock [shutterstock.com]",
+    "Adobe Stock [stock.adobe.com]",
+    "Getty Images [gettyimages.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shutterstock",
+      "url": "shutterstock.com",
+      "reason": "Offers similar extensive media library"
+    },
+    {
+      "name": "Adobe Stock",
+      "url": "stock.adobe.com",
+      "reason": "Integrated with Adobe products"
+    },
+    {
+      "name": "Getty Images",
+      "url": "gettyimages.com",
+      "reason": "Known for exclusive, high-quality content"
+    }
+  ],
+  "tags": [
+    "stock media",
+    "content management",
+    "digital assets",
+    "media library"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://depositphotos.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=depositphotos&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/depositphotos_com.png",
+  "screenshot_640": "/screenshots/depositphotos_com_640.png",
+  "screenshot_400": "/screenshots/depositphotos_com_400.png",
+  "updatedAt": "2025-05-07T12:24:00.262Z"
+}
