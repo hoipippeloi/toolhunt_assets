@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://liftos.io",
+  "name": "liftOS",
+  "title": "liftos.io",
+  "payoff": "Collaborative home for your team",
+  "shortDescription": "liftOS transforms workplaces by integrating AI, aiming to save each employee 12 hours weekly. It's designed for businesses, agencies, and freelancers who seek to enhance productivity by centralizing tasks, documents, and collaboration in one platform. An example use case is a small business owner streamlining project management and reducing the need for multiple tools.",
+  "pros": [
+    "Saves significant time each week",
+    "Integrates various tools and data",
+    "Enhances team collaboration with AI"
+  ],
+  "cons": [
+    "May have a learning curve for new users",
+    "Dependent on AI accuracy and reliability",
+    "Potential privacy concerns with data centralization"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Monday.com [monday.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Offers flexible workspace options"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management tool"
+    },
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Enhances team communication"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "collaboration",
+    "project management"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://liftos.io",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=liftos&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/liftos_io.png",
+  "screenshot_640": "/screenshots/liftos_io_640.png",
+  "screenshot_400": "/screenshots/liftos_io_400.png",
+  "updatedAt": "2025-05-07T17:06:49.327Z"
+}
