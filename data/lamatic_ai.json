@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lamatic.ai/",
+  "name": "Lamatic.ai",
+  "title": "lamatic.ai",
+  "payoff": "Deploy AI Agents on Edge Efficiently",
+  "shortDescription": "Lamatic.ai enables engineering teams to build, connect, and deploy AI agents on edge devices efficiently. It offers a suite of tools including Studio, Apps, Templates, and Models to streamline the development process. An example use case is deploying AI-driven applications in manufacturing for real-time quality control.",
+  "pros": [
+    "Rapid deployment capabilities",
+    "Scalable infrastructure",
+    "Robust community and research support"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "Requires technical expertise",
+    "Limited information on pricing"
+  ],
+  "alternatives": [
+    "Google AI Platform [cloud.google.com/ai-platform]",
+    "Microsoft Azure AI [azure.microsoft.com/en-us/services/ai/]",
+    "AWS AI Services [aws.amazon.com/machine-learning/]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google AI Platform",
+      "url": "cloud.google.com/ai-platform",
+      "reason": "Broad AI services and cloud integration"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "url": "azure.microsoft.com/en-us/services/ai/",
+      "reason": "Extensive AI tools and hybrid capabilities"
+    },
+    {
+      "name": "AWS AI Services",
+      "url": "aws.amazon.com/machine-learning/",
+      "reason": "Comprehensive AI services and scalability"
+    }
+  ],
+  "tags": [
+    "AI",
+    "edge computing",
+    "scalability",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lamatic.ai/",
+  "documentationUrl": "https://lamatic.ai/docs",
+  "githubUrl": "https://github.com/Lamatic",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/lamatic_ai.png",
+  "screenshot_640": "/screenshots/lamatic_ai_640.png",
+  "screenshot_400": "/screenshots/lamatic_ai_400.png",
+  "updatedAt": "2025-05-07T00:55:32.169Z"
+}

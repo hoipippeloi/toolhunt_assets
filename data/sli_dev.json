@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sli.dev/",
+  "name": "Slidev",
+  "title": "sli.dev",
+  "payoff": "Presentation Slides for Developers",
+  "shortDescription": "Slidev is a tool designed specifically for developers to create presentation slides easily. It integrates advanced features that cater to the technical content, allowing customization and interactive elements. Ideal for tech conferences, team meetings, or educational purposes, Slidev simplifies the process of conveying complex code-based concepts through visually appealing slides.",
+  "pros": [
+    "Customizable slide designs",
+    "Built-in features for developers",
+    "Open source with MIT License"
+  ],
+  "cons": [
+    "Primarily focused on developers",
+    "May require initial learning curve",
+    "Limited non-developer features"
+  ],
+  "alternatives": [
+    "Prezi [prezi.com]",
+    "Google Slides [slides.google.com]",
+    "Microsoft PowerPoint [microsoft.com/microsoft-365/powerpoint]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Prezi",
+      "url": "prezi.com",
+      "reason": "Focuses on zoomable presentation canvas"
+    },
+    {
+      "name": "Google Slides",
+      "url": "slides.google.com",
+      "reason": "Free, web-based, collaborative features"
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "url": "microsoft.com/microsoft-365/powerpoint",
+      "reason": "Widely used, extensive features"
+    }
+  ],
+  "tags": [
+    "presentation",
+    "development",
+    "open source",
+    "customizable"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://sli.dev/",
+  "documentationUrl": "https://sli.dev/docs",
+  "githubUrl": "https://github.com/slidevjs/slidev/releases",
+  "twitterUrl": "https://twitter.com/slidevjs",
+  "screenshot": "/screenshots/sli_dev.png",
+  "screenshot_640": "/screenshots/sli_dev_640.png",
+  "screenshot_400": "/screenshots/sli_dev_400.png",
+  "updatedAt": "2025-05-07T00:55:21.742Z"
+}

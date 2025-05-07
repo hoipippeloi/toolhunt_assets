@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://humy.ai/",
+  "name": "Humy",
+  "title": "humy.ai",
+  "payoff": "Revolutionize History Education with AI",
+  "shortDescription": "Humy.ai leverages artificial intelligence to transform history and social studies education by engaging students through interactive conversations with AI-powered historical figures. Targeted at teachers and schools, it offers tools for creating dynamic lesson plans and grading assignments. An example use case includes students learning about Ancient Greece directly from AI versions of historical gods, enhancing engagement and understanding.",
+  "pros": [
+    "Interactive AI enhances student engagement",
+    "Easy integration of course materials",
+    "Generates and grades assignments efficiently"
+  ],
+  "cons": [
+    "Requires internet connectivity",
+    "Potential privacy concerns with data handling",
+    "Limited to historical content"
+  ],
+  "alternatives": [
+    "Kahoot! [kahoot.com]",
+    "Quizlet [quizlet.com]",
+    "Edmodo [edmodo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot!",
+      "url": "kahoot.com",
+      "reason": "Interactive learning through games and quizzes"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers diverse study tools and learning games"
+    },
+    {
+      "name": "Edmodo",
+      "url": "edmodo.com",
+      "reason": "Provides a full suite of educational tools"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "AI & ML",
+    "Education Technology",
+    "Student Engagement"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://humy.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=humy&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/humy_ai.png",
+  "screenshot_640": "/screenshots/humy_ai_640.png",
+  "screenshot_400": "/screenshots/humy_ai_400.png",
+  "updatedAt": "2025-05-07T00:57:08.205Z"
+}
