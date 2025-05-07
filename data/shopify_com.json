@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://shopify.com",
+  "name": "Shopify",
+  "title": "shopify.com",
+  "payoff": "Be the next big thing",
+  "shortDescription": "Shopify is a leading e-commerce platform designed to help businesses of all sizes to build, manage, and scale their online stores. From solo sellers to global brands, Shopify provides tools for online and in-person sales, multichannel integration, and enterprise-level solutions. An example use case includes a small business owner using Shopify to set up an online store, integrate with social media for marketing, and manage inventory and orders efficiently.",
+  "pros": [
+    "Comprehensive e-commerce features",
+    "Scalable from small to large businesses",
+    "Strong multichannel sales integration"
+  ],
+  "cons": [
+    "Can be expensive with added apps and features",
+    "Complexity can be overwhelming for beginners",
+    "Limited customization without coding skills"
+  ],
+  "alternatives": [
+    "BigCommerce [bigcommerce.com]",
+    "WooCommerce [woocommerce.com]",
+    "Magento [magento.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "BigCommerce",
+      "url": "bigcommerce.com",
+      "reason": "Offers similar e-commerce features with different pricing"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Provides more customizable templates for beginners"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Focuses on aesthetic design with e-commerce capabilities"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "online store",
+    "multichannel sales",
+    "enterprise solutions"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://shopify.com",
+  "documentationUrl": "https://shopify.dev/docs",
+  "githubUrl": "https://github.com/search?q=shopify&type=repositories",
+  "twitterUrl": "https://twitter.com/shopify",
+  "screenshot": "/screenshots/shopify_com.png",
+  "screenshot_640": "/screenshots/shopify_com_640.png",
+  "screenshot_400": "/screenshots/shopify_com_400.png",
+  "updatedAt": "2025-05-07T18:31:42.667Z"
+}
