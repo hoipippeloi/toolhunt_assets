@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://paradedb.com/",
+  "name": "ParadeDB",
+  "title": "paradedb.com",
+  "payoff": "Zero ETL search and analytics for Postgres",
+  "shortDescription": "ParadeDB transforms Postgres into a powerful search and analytics engine, eliminating the need for Elasticsearch. It is designed for real-time, update-heavy workloads, making it ideal for businesses that require efficient data handling without complex ETL processes. Users can enhance Postgres' search capabilities and integrate with existing infrastructure seamlessly. Example use case includes companies needing to perform fast data analytics on large-scale Postgres databases.",
+  "pros": [
+    "Enhanced search capabilities with BM25 scoring",
+    "Seamless integration with existing infrastructures",
+    "Support for fast analytics and faceting"
+  ],
+  "cons": [
+    "Limited to Postgres databases",
+    "May not support all Elasticsearch features",
+    "Dependent on the underlying performance of Postgres"
+  ],
+  "alternatives": [
+    "Elasticsearch [elastic.co]",
+    "Solr [lucene.apache.org/solr]",
+    "Algolia [algolia.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Popular full-text search engine with analytics"
+    },
+    {
+      "name": "Solr",
+      "url": "lucene.apache.org/solr",
+      "reason": "Flexible, scalable search platform"
+    },
+    {
+      "name": "Algolia",
+      "url": "algolia.com",
+      "reason": "Provides hosted search APIs"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "database",
+    "search engine",
+    "Postgres"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Search",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://paradedb.com/",
+  "documentationUrl": "https://paradedb.com/documentation",
+  "githubUrl": "https://github.com/paradedb/paradedb",
+  "twitterUrl": "https://x.com/paradedb",
+  "screenshot": "/screenshots/paradedb_com.png",
+  "screenshot_640": "/screenshots/paradedb_com_640.png",
+  "screenshot_400": "/screenshots/paradedb_com_400.png",
+  "updatedAt": "2025-05-08T13:34:11.724Z"
+}

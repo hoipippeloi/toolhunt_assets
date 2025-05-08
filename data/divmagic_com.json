@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://divmagic.com/",
+  "name": "DivMagic",
+  "title": "divmagic.com",
+  "payoff": "Copy any website design easily",
+  "shortDescription": "DivMagic enables users to effortlessly extract HTML/CSS code from any element of a website with just one click. It is designed for web developers and designers who wish to speed up their workflow by reusing components from existing websites. For example, a user can copy a navigation bar from a website and convert it into a React component, simplifying the development process.",
+  "pros": [
+    "One-click code copying",
+    "Converts CSS to Tailwind CSS",
+    "Integration with development tools"
+  ],
+  "cons": [
+    "Potential legal and ethical issues",
+    "Dependence on browser compatibility",
+    "Limited to web elements only"
+  ],
+  "alternatives": [
+    "Webflow [webflow.com]",
+    "Pinegrow [pinegrow.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Visual site builder with design export"
+    },
+    {
+      "name": "Pinegrow",
+      "url": "pinegrow.com",
+      "reason": "Offers similar web design tools"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Design interface elements collaboratively"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "design tools",
+    "web development",
+    "CSS conversion"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://divmagic.com/",
+  "documentationUrl": "https://divmagic.com/documentation",
+  "githubUrl": "https://github.com/DivMagicCom/DivMagic",
+  "twitterUrl": "https://twitter.com/Mokkapps/status/1662745590692757504",
+  "screenshot": "/screenshots/divmagic_com.png",
+  "screenshot_640": "/screenshots/divmagic_com_640.png",
+  "screenshot_400": "/screenshots/divmagic_com_400.png",
+  "updatedAt": "2025-05-08T13:34:52.009Z"
+}
