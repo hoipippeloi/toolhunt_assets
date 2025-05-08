@@ -3,16 +3,16 @@
   "name": "Frontly",
   "title": "frontly.ai",
   "payoff": "Build custom apps with no code",
-  "shortDescription": "Frontly allows users to create custom applications using a no-code platform, enhanced by AI capabilities. It is designed for non-technical users such as business analysts, project managers, and entrepreneurs. An example use case is a small business owner creating an internal tool to manage inventory and process orders without needing programming skills.",
+  "shortDescription": "Frontly enables users to create custom applications using AI without any coding expertise. It is designed for entrepreneurs, small businesses, and non-technical users who need to quickly deploy functional apps. Example use case includes a small business owner building a custom CRM system to manage customer interactions without needing to hire a developer.",
   "pros": [
     "No coding required",
-    "AI-enhanced features",
-    "User-friendly interface"
+    "AI-powered features",
+    "Quick app deployment"
   ],
   "cons": [
-    "Limited customization compared to coded solutions",
-    "Potential performance issues with complex apps",
-    "Dependence on platform updates and support"
+    "Limited customization compared to coded apps",
+    "May not handle complex functionalities",
+    "Dependent on platform updates"
   ],
   "alternatives": [
     "Bubble [bubble.io]",
@@ -23,17 +23,17 @@
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "Offers no-code development with a visual editor"
+      "reason": "Offers no-code app building with a visual editor"
     },
     {
       "name": "Adalo",
       "url": "adalo.com",
-      "reason": "Focuses on mobile app development without code"
+      "reason": "Focuses on mobile app development with no code"
     },
     {
       "name": "AppGyver",
       "url": "appgyver.com",
-      "reason": "Provides extensive customization for no-code apps"
+      "reason": "Provides extensive integrations and customization"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/frontly_ai.png",
   "screenshot_640": "/screenshots/frontly_ai_640.png",
   "screenshot_400": "/screenshots/frontly_ai_400.png",
-  "updatedAt": "2025-05-07T11:50:00.576Z"
+  "updatedAt": "2025-05-08T08:26:35.412Z"
 }

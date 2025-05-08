@@ -3,16 +3,16 @@
   "name": "AnythingLLM",
   "title": "anythingllm.com",
   "payoff": "AI application for everyone",
-  "shortDescription": "AnythingLLM is an all-in-one AI desktop application designed to enhance productivity for users across various industries. It allows users to interact with documents, leverage AI agents, and run large language models (LLMs) both locally and offline. Ideal for businesses handling diverse data formats like PDFs, CSVs, and codebases, it simplifies complex setups and integrates seamlessly with enterprise models from leading providers like OpenAI and AWS.",
+  "shortDescription": "AnythingLLM is a versatile AI desktop application designed for a wide range of users, from developers to business professionals. It allows users to interact with documents, leverage AI agents, and run various language models locally or connect to enterprise solutions like OpenAI and AWS. A typical use case might involve a user importing business documents to analyze data or automate tasks without needing complex setups.",
   "pros": [
-    "Supports offline and local operation",
-    "No complex setup required",
-    "Integrates with major AI providers"
+    "Supports both local and cloud AI models",
+    "No setup required for immediate use",
+    "Integrates with major enterprise AI services"
   ],
   "cons": [
-    "Limited to desktop use",
-    "May require technical knowledge for advanced features",
-    "Dependent on local system resources"
+    "Limited information on security measures",
+    "No clear pricing structure provided",
+    "Potential complexity in managing local servers"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
@@ -21,31 +21,31 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI",
+      "name": "OpenAI GPT",
       "url": "openai.com",
       "reason": "Offers advanced AI models"
     },
     {
-      "name": "Google AI",
-      "url": "ai.google",
-      "reason": "Wide range of AI tools"
+      "name": "Microsoft Azure AI",
+      "url": "azure.microsoft.com",
+      "reason": "Provides comprehensive cloud solutions"
     },
     {
-      "name": "IBM Watson",
-      "url": "ibm.com/watson",
-      "reason": "Strong in enterprise AI solutions"
+      "name": "AWS AI Services",
+      "url": "aws.amazon.com",
+      "reason": "Extensive integration options"
     }
   ],
   "tags": [
     "AI",
     "desktop software",
-    "productivity",
-    "data integration"
+    "data integration",
+    "offline functionality"
   ],
   "apiUsed": false,
   "department": "Information Technology",
   "function": "Desktop Software",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://anythingllm.com/",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/anythingllm_com.png",
   "screenshot_640": "/screenshots/anythingllm_com_640.png",
   "screenshot_400": "/screenshots/anythingllm_com_400.png",
-  "updatedAt": "2025-05-07T11:50:08.411Z"
+  "updatedAt": "2025-05-08T08:27:25.448Z"
 }

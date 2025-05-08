@@ -2,45 +2,45 @@
   "sourceUrl": "https://langbase.com/",
   "name": "Langbase",
   "title": "langbase.com",
-  "payoff": "Build and scale serverless AI agents",
-  "shortDescription": "Langbase provides a platform for developers to create and deploy serverless AI agents efficiently. It is designed to enhance developer experience by allowing integration with over 250 language models through a unified API. Example use cases include building AI chatbots, anonymizers, and AI-driven summarizers for customer support tickets. The platform is trusted by top innovative organizations to accelerate AI product development.",
+  "payoff": "Build powerful AI products easily",
+  "shortDescription": "Langbase is a serverless AI developer platform designed to help product companies and developers create powerful AI agents effortlessly. It offers an exceptional developer experience, allowing users to build, deploy, and scale AI agents with memory. An example use case is the creation of an AI chatbot that can handle complex customer interactions without extensive coding.",
   "pros": [
-    "Supports over 250 language models",
-    "Serverless, composable AI agents",
-    "Developer-friendly with powerful tools"
+    "Serverless architecture simplifies operations",
+    "Supports over 250 LLMs with a standard API",
+    "Highly developer-friendly and collaborative"
   ],
   "cons": [
-    "May require technical expertise",
-    "Potentially high costs at scale",
-    "Limited information on security measures"
+    "May require initial learning curve",
+    "Potentially higher costs at scale",
+    "Limited to AI and serverless applications"
   ],
   "alternatives": [
-    "OpenAI [openai.com]",
-    "Google AI [ai.google]",
-    "Microsoft Azure AI [azure.microsoft.com]"
+    "AWS Lambda [aws.amazon.com/lambda]",
+    "Google Cloud Functions [cloud.google.com/functions]",
+    "Azure Functions [azure.microsoft.com/en-us/services/functions]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI",
-      "url": "openai.com",
-      "reason": "Leading AI research and tools provider"
+      "name": "AWS Lambda",
+      "url": "aws.amazon.com/lambda",
+      "reason": "Popular for serverless computing"
     },
     {
-      "name": "Google Cloud AI",
-      "url": "cloud.google.com/ai",
-      "reason": "Comprehensive AI solutions with cloud integration"
+      "name": "Google Cloud Functions",
+      "url": "cloud.google.com/functions",
+      "reason": "Integrates well with Google Cloud"
     },
     {
-      "name": "AWS AI Services",
-      "url": "aws.amazon.com/machine-learning",
-      "reason": "Wide range of AI services and scalability"
+      "name": "Azure Functions",
+      "url": "azure.microsoft.com/en-us/services/functions",
+      "reason": "Great for .NET and Windows integration"
     }
   ],
   "tags": [
     "AI",
     "serverless",
     "developer tools",
-    "AI platform"
+    "scalability"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/langbase_com.png",
   "screenshot_640": "/screenshots/langbase_com_640.png",
   "screenshot_400": "/screenshots/langbase_com_400.png",
-  "updatedAt": "2025-05-07T11:51:10.369Z"
+  "updatedAt": "2025-05-08T08:28:13.517Z"
 }
