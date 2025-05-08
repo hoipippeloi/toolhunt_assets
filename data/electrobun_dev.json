@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://electrobun.dev/",
+  "name": "Electrobun",
+  "title": "electrobun.dev",
+  "payoff": "Ultra fast, tiny desktop apps",
+  "shortDescription": "Electrobun is designed for developers aiming to create cross-platform desktop applications efficiently. It leverages Typescript for both main and webview processes, utilizing bun for execution and zig for native bindings. This integration facilitates a seamless development experience, allowing coders to focus on functionality without worrying about language barriers. Ideal for projects requiring quick deployment and frequent updates, Electrobun ensures security, performance, and minimal bandwidth usage.",
+  "pros": [
+    "Cross-platform compatibility",
+    "Efficient bandwidth usage for updates",
+    "Integrated development environment"
+  ],
+  "cons": [
+    "Limited programming language support",
+    "Potential learning curve for new users",
+    "Dependency on specific technologies like bun and zig"
+  ],
+  "alternatives": [
+    "Electron [electronjs.org]",
+    "NW.js [nwjs.io]",
+    "Tauri [tauri.app]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Electron",
+      "url": "electronjs.org",
+      "reason": "Popular choice for desktop apps"
+    },
+    {
+      "name": "NW.js",
+      "url": "nwjs.io",
+      "reason": "Flexible, web technologies in desktop"
+    },
+    {
+      "name": "Tauri",
+      "url": "tauri.app",
+      "reason": "Secure, lightweight alternative"
+    }
+  ],
+  "tags": [
+    "desktop software",
+    "Typescript",
+    "cross-platform",
+    "development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://electrobun.dev/",
+  "documentationUrl": "https://electrobun.dev/docs",
+  "githubUrl": "https://github.com/blackboardsh/electrobun",
+  "twitterUrl": "https://x.com/BlackboardTech",
+  "screenshot": "/screenshots/electrobun_dev.png",
+  "screenshot_640": "/screenshots/electrobun_dev_640.png",
+  "screenshot_400": "/screenshots/electrobun_dev_400.png",
+  "updatedAt": "2025-05-08T08:33:29.016Z"
+}

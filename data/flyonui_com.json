@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://flyonui.com/",
+  "name": "FlyonUI",
+  "title": "flyonui.com",
+  "payoff": "Free Tailwind CSS Components",
+  "shortDescription": "FlyonUI is a comprehensive library of free Tailwind CSS components designed to simplify web development. It offers a wide range of ready-to-use components and templates, making it ideal for developers looking to speed up their workflow. Example use case includes building responsive and visually appealing web interfaces quickly without starting from scratch.",
+  "pros": [
+    "Wide range of components",
+    "Fully compatible with Tailwind CSS",
+    "Open-source and free forever"
+  ],
+  "cons": [
+    "Limited to Tailwind CSS",
+    "No premium version for advanced features",
+    "May require customization for unique designs"
+  ],
+  "alternatives": [
+    "Tailwind UI [tailwindui.com]",
+    "DaisyUI [daisyui.com]",
+    "Headless UI [headlessui.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tailwind UI",
+      "url": "tailwindui.com",
+      "reason": "Premium components for Tailwind CSS"
+    },
+    {
+      "name": "DaisyUI",
+      "url": "daisyui.com",
+      "reason": "Plugin with themes & components"
+    },
+    {
+      "name": "Headless UI",
+      "url": "headlessui.dev",
+      "reason": "Accessible UI components for React/Vue"
+    }
+  ],
+  "tags": [
+    "web development",
+    "CSS library",
+    "open source",
+    "component library"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://flyonui.com/",
+  "documentationUrl": "https://flyonui.com/docs",
+  "githubUrl": "https://github.com/themeselection/flyonui",
+  "twitterUrl": "https://x.com/flyonui",
+  "screenshot": "/screenshots/flyonui_com.png",
+  "screenshot_640": "/screenshots/flyonui_com_640.png",
+  "screenshot_400": "/screenshots/flyonui_com_400.png",
+  "updatedAt": "2025-05-08T08:33:44.773Z"
+}

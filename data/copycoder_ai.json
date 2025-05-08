@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://copycoder.ai/",
+  "name": "CopyCoder",
+  "title": "copycoder.ai",
+  "payoff": "Build apps faster with AI",
+  "shortDescription": "CopyCoder is designed for the new generation of AI coders. Users can upload images of full applications, UI mockups, or custom designs and receive generated prompts to accelerate app development. Ideal for developers looking to streamline their workflow, CopyCoder simplifies the initial stages of coding by transforming visual inputs into actionable coding prompts.",
+  "pros": [
+    "Accelerates app development",
+    "Supports image uploads for prompt generation",
+    "Tailored for AI coders"
+  ],
+  "cons": [
+    "Limited to image-based input",
+    "May not support all programming languages",
+    "Dependent on the quality of uploaded images"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Visual development environment"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform for web apps"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "Low-code platform for app creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "app development",
+    "image processing",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://copycoder.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=copycoder&type=repositories",
+  "twitterUrl": "https://x.com/CopyCoderAI",
+  "screenshot": "/screenshots/copycoder_ai.png",
+  "screenshot_640": "/screenshots/copycoder_ai_640.png",
+  "screenshot_400": "/screenshots/copycoder_ai_400.png",
+  "updatedAt": "2025-05-08T08:33:40.921Z"
+}

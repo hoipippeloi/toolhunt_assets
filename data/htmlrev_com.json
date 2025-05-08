@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://htmlrev.com/",
+  "name": "HTMLrev",
+  "title": "htmlrev.com",
+  "payoff": "Free HTML templates for all",
+  "shortDescription": "HTMLrev offers a vast collection of over 1500 free HTML website templates suitable for various needs such as blogs, ecommerce sites, and admin dashboards. It caters to developers and designers looking for quick and customizable web solutions. An example use case is a startup needing a landing page without the overhead of designing from scratch.",
+  "pros": [
+    "Wide variety of templates",
+    "No cost to use",
+    "Templates for multiple frameworks"
+  ],
+  "cons": [
+    "Limited customization in free versions",
+    "No dedicated support",
+    "May not be unique designs"
+  ],
+  "alternatives": [
+    "BootstrapMade [bootstrapmade.com]",
+    "ThemeWagon [themewagon.com]",
+    "Colorlib [colorlib.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "BootstrapMade",
+      "url": "bootstrapmade.com",
+      "reason": "Offers similar free and premium templates"
+    },
+    {
+      "name": "ThemeWagon",
+      "url": "themewagon.com",
+      "reason": "Provides a wide range of HTML templates"
+    },
+    {
+      "name": "Colorlib",
+      "url": "colorlib.com",
+      "reason": "Features free and premium HTML templates"
+    }
+  ],
+  "tags": [
+    "web templates",
+    "HTML",
+    "free resources",
+    "web design"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://htmlrev.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/tailwindtoolbox/Landing-Page",
+  "twitterUrl": "https://x.com/webdevluc",
+  "screenshot": "/screenshots/htmlrev_com.png",
+  "screenshot_640": "/screenshots/htmlrev_com_640.png",
+  "screenshot_400": "/screenshots/htmlrev_com_400.png",
+  "updatedAt": "2025-05-08T08:33:16.367Z"
+}
