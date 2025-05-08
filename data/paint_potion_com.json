@@ -2,17 +2,17 @@
   "sourceUrl": "https://paint-potion.com/",
   "name": "Paint Potion",
   "title": "paint-potion.com",
-  "payoff": "Create style-consistent vector illustrations",
-  "shortDescription": "Paint Potion revolutionizes the creation of vector illustrations by integrating AI to match your personal style. Ideal for illustrators and designers, this tool allows users to upload style references and generate consistent illustrations in SVG or PNG formats. An example use case would be a graphic designer needing to quickly produce multiple campaign graphics that maintain a consistent brand aesthetic.",
+  "payoff": "Create style-consistent illustrations",
+  "shortDescription": "Paint Potion is an AI-powered tool designed for illustrators and designers to create vector illustrations that match their unique style. Users can upload reference images to teach the AI their style, type a prompt, and instantly receive four style-consistent illustrations. This tool is ideal for marketing professionals and content creators who need quick, on-brand visuals for digital and print campaigns.",
   "pros": [
-    "Generates illustrations quickly",
+    "Instant generation of style-consistent illustrations",
     "Supports both SVG and PNG formats",
-    "Allows customization with personal style references"
+    "Simple and transparent pricing model"
   ],
   "cons": [
     "Limited to vector illustrations",
-    "Requires multiple reference images for best results",
-    "No free tier available"
+    "No free tier available",
+    "Requires multiple reference images for best results"
   ],
   "alternatives": [
     "Adobe Illustrator [adobe.com]",
@@ -23,27 +23,27 @@
     {
       "name": "Adobe Illustrator",
       "url": "adobe.com",
-      "reason": "Industry standard vector graphic editor"
+      "reason": "Industry standard for vector graphics"
     },
     {
       "name": "CorelDRAW",
       "url": "coreldraw.com",
-      "reason": "Powerful graphic design software with vector tools"
+      "reason": "Powerful graphic design software"
     },
     {
       "name": "Inkscape",
       "url": "inkscape.org",
-      "reason": "Free and open-source vector graphics editor"
+      "reason": "Open source vector graphics editor"
     }
   ],
   "tags": [
     "AI",
     "design tools",
-    "vector graphics",
-    "illustration"
+    "vector illustrations",
+    "digital marketing"
   ],
   "apiUsed": false,
-  "department": "Design",
+  "department": "Creative",
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/paint_potion_com.png",
   "screenshot_640": "/screenshots/paint_potion_com_640.png",
   "screenshot_400": "/screenshots/paint_potion_com_400.png",
-  "updatedAt": "2025-05-07T12:23:49.272Z"
+  "updatedAt": "2025-05-08T09:27:57.980Z"
 }

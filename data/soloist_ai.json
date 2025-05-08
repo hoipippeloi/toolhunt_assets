@@ -3,16 +3,16 @@
   "name": "Solo",
   "title": "soloist.ai",
   "payoff": "Launch your business with a free website",
-  "shortDescription": "Solo is a free AI-powered website creator designed for entrepreneurs and small businesses looking to establish an online presence quickly and efficiently. Users can launch a fully functional website without needing coding skills, making it ideal for startups and personal projects. Example use case: A local bakery uses Solo to create an online catalog and start taking orders online.",
+  "shortDescription": "Solo is an AI-powered website creator designed for entrepreneurs and small businesses looking to establish an online presence quickly and without cost. Users can launch a fully functional website using AI-driven templates and customization tools. Ideal for startups, Solo helps in creating a professional-looking site for showcasing products, services, or portfolios.",
   "pros": [
     "Free to use",
-    "No coding required",
-    "AI-driven design suggestions"
+    "AI-driven design suggestions",
+    "Quick setup and launch"
   ],
   "cons": [
     "Limited customization options",
-    "May not scale well for large businesses",
-    "Dependent on third-party hosting"
+    "May not scale well for larger businesses",
+    "Lacks advanced marketing tools"
   ],
   "alternatives": [
     "Wix [wix.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Wix",
       "url": "wix.com",
-      "reason": "Offers extensive templates and customization"
+      "reason": "Offers extensive design flexibility"
     },
     {
       "name": "Squarespace",
       "url": "squarespace.com",
-      "reason": "High-quality design and full commerce suite"
+      "reason": "High-quality, stylish templates"
     },
     {
       "name": "Weebly",
       "url": "weebly.com",
-      "reason": "Simple drag-and-drop interface with e-commerce"
+      "reason": "Intuitive drag-and-drop interface"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/soloist_ai.png",
   "screenshot_640": "/screenshots/soloist_ai_640.png",
   "screenshot_400": "/screenshots/soloist_ai_400.png",
-  "updatedAt": "2025-05-07T12:23:09.009Z"
+  "updatedAt": "2025-05-08T09:27:06.032Z"
 }
