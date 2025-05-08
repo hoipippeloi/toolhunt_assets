@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://voideditor.com/",
+  "name": "Void",
+  "title": "voideditor.com",
+  "payoff": "The open source AI code editor.",
+  "shortDescription": "Void is an open-source AI-powered code editor designed for developers who want to enhance their coding efficiency and accuracy. It integrates various AI features such as Quick Edit, Chat, and Agent Mode, making it suitable for any software development environment. An example use case would be a developer using Void to quickly refactor code and integrate AI suggestions directly within their IDE.",
+  "pros": [
+    "AI-enhanced coding features",
+    "Integration with VS Code",
+    "Supports any LLM"
+  ],
+  "cons": [
+    "Limited community support",
+    "May require familiarity with VS Code",
+    "Dependent on external LLMs for full functionality"
+  ],
+  "alternatives": [
+    "Atom [atom.io]",
+    "Sublime Text [sublimetext.com]",
+    "Visual Studio Code [code.visualstudio.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and customizable editor."
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast, lightweight, and extendable."
+    },
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Highly extensible and widely used."
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "code editor",
+    "software development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://voideditor.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/voideditor/void#readme",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/voideditor_com.png",
+  "screenshot_640": "/screenshots/voideditor_com_640.png",
+  "screenshot_400": "/screenshots/voideditor_com_400.png",
+  "updatedAt": "2025-05-08T11:22:51.812Z"
+}

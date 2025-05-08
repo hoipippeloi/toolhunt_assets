@@ -3,21 +3,21 @@
   "name": "Electrobun",
   "title": "electrobun.dev",
   "payoff": "Ultra fast, tiny desktop apps",
-  "shortDescription": "Electrobun is designed for developers aiming to create cross-platform desktop applications efficiently. It leverages Typescript for both main and webview processes, utilizing bun for execution and zig for native bindings. This integration facilitates a seamless development experience, allowing coders to focus on functionality without worrying about language barriers. Ideal for projects requiring quick deployment and frequent updates, Electrobun ensures security, performance, and minimal bandwidth usage.",
+  "shortDescription": "Electrobun is designed for developers seeking to build, update, and distribute cross-platform desktop applications efficiently. Utilizing Typescript for both main and webview processes, it simplifies development by removing language barriers and focusing on performance. With Electrobun, you can start coding within minutes and distribute updates that are as small as 4KB, significantly reducing bandwidth costs. Ideal for developers aiming to create lightweight applications with frequent updates.",
   "pros": [
-    "Cross-platform compatibility",
-    "Efficient bandwidth usage for updates",
-    "Integrated development environment"
+    "Unified language for all processes",
+    "Fast and small application updates",
+    "Integrated workflow for quick start"
   ],
   "cons": [
-    "Limited programming language support",
-    "Potential learning curve for new users",
-    "Dependency on specific technologies like bun and zig"
+    "Limited to Typescript developers",
+    "May require familiarity with bun and zig",
+    "Focused only on desktop applications"
   ],
   "alternatives": [
     "Electron [electronjs.org]",
     "NW.js [nwjs.io]",
-    "Tauri [tauri.app]"
+    "Tauri [tauri.studio]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,19 +28,19 @@
     {
       "name": "NW.js",
       "url": "nwjs.io",
-      "reason": "Flexible, web technologies in desktop"
+      "reason": "Similar to Electron with different API"
     },
     {
       "name": "Tauri",
-      "url": "tauri.app",
-      "reason": "Secure, lightweight alternative"
+      "url": "tauri.studio",
+      "reason": "Focus on security and smaller binaries"
     }
   ],
   "tags": [
     "desktop software",
-    "Typescript",
-    "cross-platform",
-    "development"
+    "typescript",
+    "application development",
+    "cross-platform"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/electrobun_dev.png",
   "screenshot_640": "/screenshots/electrobun_dev_640.png",
   "screenshot_400": "/screenshots/electrobun_dev_400.png",
-  "updatedAt": "2025-05-08T08:33:29.016Z"
+  "updatedAt": "2025-05-08T11:21:46.171Z"
 }
