@@ -3,21 +3,21 @@
   "name": "Evidence",
   "title": "evidence.dev",
   "payoff": "Business Intelligence as Code",
-  "shortDescription": "Evidence is an open-source framework designed for building data-driven applications using SQL. It's tailored for data professionals and developers who need to create and deploy interactive, high-performance data products quickly. An example use case involves a small data team using Evidence to develop and maintain dynamic reporting tools for internal stakeholders, enhancing decision-making processes.",
+  "shortDescription": "Evidence is an open-source framework designed for building data-driven applications using SQL. It caters to data professionals and developers, enabling them to create polished data products quickly. An example use case is a company like Lenstra, which uses Evidence to handle all its reporting, showcasing its effectiveness in real-world data management and visualization.",
   "pros": [
     "Open source and free to start",
-    "Supports rapid deployment and easy maintenance",
-    "Highly interactive user experience"
+    "Supports rapid deployment and maintenance",
+    "High-quality documentation and community support"
   ],
   "cons": [
-    "Requires familiarity with SQL",
-    "Limited community compared to larger frameworks",
-    "Potential scalability issues for very large datasets"
+    "May require SQL knowledge",
+    "Limited to data applications",
+    "Dependent on external data sources"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
     "Looker [looker.com]",
-    "PowerBI [powerbi.microsoft.com]"
+    "Power BI [powerbi.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,7 +31,7 @@
       "reason": "Integrates with Google Cloud"
     },
     {
-      "name": "PowerBI",
+      "name": "Power BI",
       "url": "powerbi.microsoft.com",
       "reason": "Strong in enterprise BI"
     }
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/evidence_dev.png",
   "screenshot_640": "/screenshots/evidence_dev_640.png",
   "screenshot_400": "/screenshots/evidence_dev_400.png",
-  "updatedAt": "2025-05-07T11:49:33.933Z"
+  "updatedAt": "2025-05-08T08:53:11.147Z"
 }
