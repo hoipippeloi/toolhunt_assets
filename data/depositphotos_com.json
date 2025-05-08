@@ -3,16 +3,16 @@
   "name": "Depositphotos",
   "title": "depositphotos.com",
   "payoff": "Royalty-free stock media for projects",
-  "shortDescription": "Depositphotos offers a vast library of over 313 million royalty-free images, videos, vectors, and music, catering to the needs of businesses and creatives alike. Users can explore a wide range of thematic collections to find the perfect visual or audio content for their projects. This tool is ideal for marketing teams, content creators, and corporations seeking high-quality stock media.",
+  "shortDescription": "Depositphotos offers a vast library of 313 million royalty-free images, videos, vectors, illustrations, and music. It is designed for businesses and creative professionals who need high-quality visual and audio content for their projects. Users can explore thematic collections and utilize resources for various needs such as advertising, presentations, or web design.",
   "pros": [
     "Extensive media library",
-    "High-quality stock content",
+    "High-quality content",
     "Trusted by leading companies"
   ],
   "cons": [
-    "Can be expensive without subscription",
-    "Limited unique content due to stock nature",
-    "Potential licensing complexities"
+    "Subscription can be expensive",
+    "Limited free content",
+    "Complex licensing terms"
   ],
   "alternatives": [
     "Shutterstock [shutterstock.com]",
@@ -23,29 +23,29 @@
     {
       "name": "Shutterstock",
       "url": "shutterstock.com",
-      "reason": "Offers similar extensive media library"
+      "reason": "Offers a similar extensive media library"
     },
     {
       "name": "Adobe Stock",
       "url": "stock.adobe.com",
-      "reason": "Integrated with Adobe products"
+      "reason": "Integrated with Adobe Creative Cloud"
     },
     {
       "name": "Getty Images",
       "url": "gettyimages.com",
-      "reason": "Known for exclusive, high-quality content"
+      "reason": "Known for exclusive, high-quality images"
     }
   ],
   "tags": [
-    "stock media",
-    "content management",
-    "digital assets",
-    "media library"
+    "stock photos",
+    "royalty-free media",
+    "video library",
+    "music library"
   ],
   "apiUsed": false,
   "department": "Marketing",
   "function": "Content Management",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": false,
   "releasedYear": 2009,
   "websiteUrl": "https://depositphotos.com/",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/depositphotos_com.png",
   "screenshot_640": "/screenshots/depositphotos_com_640.png",
   "screenshot_400": "/screenshots/depositphotos_com_400.png",
-  "updatedAt": "2025-05-07T12:24:00.262Z"
+  "updatedAt": "2025-05-08T10:28:39.885Z"
 }

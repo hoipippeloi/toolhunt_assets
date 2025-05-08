@@ -3,9 +3,9 @@
   "name": "Fliki",
   "title": "fliki.ai",
   "payoff": "Turn text into videos with AI",
-  "shortDescription": "Fliki enables users to transform text into engaging videos using AI-powered voices and video clips. It's designed for content creators, marketers, and businesses looking to enhance their digital presence without the need for extensive video production resources. Users can easily create professional videos for various use cases, such as marketing, training, and customer engagement, by leveraging AI avatars and voiceovers.",
+  "shortDescription": "Fliki is a tool designed to transform text into engaging videos using AI-powered voiceovers and video clips. It caters to businesses of all sizes, educators, and professionals who need quick video content without the hassle of traditional production methods. Users can create professional videos for marketing, training, or educational purposes in just minutes.",
   "pros": [
-    "Easy to use Text to Video editor",
+    "Easy to use with a simple editor",
     "No need for voiceover artists",
     "Supports multiple use cases"
   ],
@@ -28,19 +28,19 @@
     {
       "name": "InVideo",
       "url": "invideo.io",
-      "reason": "Wide range of video templates"
+      "reason": "Wide range of templates and customization"
     },
     {
       "name": "Animoto",
       "url": "animoto.com",
-      "reason": "Strong focus on easy video making"
+      "reason": "Strong focus on easy video editing"
     }
   ],
   "tags": [
     "AI",
-    "video generation",
-    "content creation",
-    "marketing"
+    "video creation",
+    "content generation",
+    "multimedia"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/fliki_ai.png",
   "screenshot_640": "/screenshots/fliki_ai_640.png",
   "screenshot_400": "/screenshots/fliki_ai_400.png",
-  "updatedAt": "2025-05-07T18:25:27.791Z"
+  "updatedAt": "2025-05-08T10:29:02.123Z"
 }
