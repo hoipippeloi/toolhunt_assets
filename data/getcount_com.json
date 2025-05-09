@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getcount.com/",
+  "name": "COUNT",
+  "title": "getcount.com",
+  "payoff": "Accounting software for businesses",
+  "shortDescription": "COUNT is a modern accounting software designed for ambitious businesses aiming to streamline their accounting processes. It integrates client management, project tracking, and secure communication, all in one platform. Ideal for firms looking to automate tasks like invoicing and document storage, COUNT enhances efficiency without the need for additional staff.",
+  "pros": [
+    "Automates repetitive accounting tasks",
+    "Secure client document storage",
+    "One-click data migration and real-time updates"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially overwhelming features for small firms",
+    "Dependency on internet connectivity"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "FreshBooks [freshbooks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used with strong brand recognition"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Offers robust cloud-based features"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Focuses on small businesses and freelancers"
+    }
+  ],
+  "tags": [
+    "accounting",
+    "automation",
+    "software as a service",
+    "data security"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getcount.com/",
+  "documentationUrl": "https://getcount.com/docs",
+  "githubUrl": "https://github.com/search?q=count&type=repositories",
+  "twitterUrl": "https://x.com/getcount",
+  "screenshot": "/screenshots/getcount_com.png",
+  "screenshot_640": "/screenshots/getcount_com_640.png",
+  "screenshot_400": "/screenshots/getcount_com_400.png",
+  "updatedAt": "2025-05-09T02:00:45.653Z"
+}

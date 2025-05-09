@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://midship.ai/",
+  "name": "Midship",
+  "title": "midship.ai",
+  "payoff": "AI-driven audit efficiency",
+  "shortDescription": "Midship streamlines the audit process using AI to automatically sort, categorize, and test audit samples. Designed for auditors, it transforms documents into structured work papers and links test results to evidence for easy review. An example use case is during busy audit seasons, where Midship significantly reduces manual workload by automating sample testing and documentation.",
+  "pros": [
+    "Automates document sorting and categorization",
+    "Links test results to supporting evidence",
+    "Integrates with Excel for enhanced functionality"
+  ],
+  "cons": [
+    "Dependence on digital document formats",
+    "Potential privacy and security concerns",
+    "May not handle very unique or complex audit scenarios"
+  ],
+  "alternatives": [
+    "AuditBoard [auditboard.com]",
+    "TeamMate+ [teammatesolutions.com]",
+    "CaseWare [caseware.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AuditBoard",
+      "url": "auditboard.com",
+      "reason": "Comprehensive audit suite with cloud storage"
+    },
+    {
+      "name": "TeamMate+",
+      "url": "teammatesolutions.com",
+      "reason": "Flexible audit and assurance software"
+    },
+    {
+      "name": "CaseWare",
+      "url": "caseware.com",
+      "reason": "Automates complex audit tasks"
+    }
+  ],
+  "tags": [
+    "AI",
+    "audit",
+    "compliance",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://midship.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=midship&type=repositories",
+  "twitterUrl": "https://x.com/ycombinator/status/1821924399286763521",
+  "screenshot": "/screenshots/midship_ai.png",
+  "screenshot_640": "/screenshots/midship_ai_640.png",
+  "screenshot_400": "/screenshots/midship_ai_400.png",
+  "updatedAt": "2025-05-09T02:00:24.498Z"
+}

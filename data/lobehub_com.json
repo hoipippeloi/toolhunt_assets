@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lobehub.com/",
+  "name": "LobeChat",
+  "title": "lobehub.com",
+  "payoff": "Surpassing ChatGPT with smarter features",
+  "shortDescription": "LobeChat is a personal LLM productivity tool designed to enhance user experience beyond traditional models like ChatGPT. It allows users to build personalized AI assistants for various tasks such as creative ventures, writing, and career tasks. Users can command AI squads to tackle specific challenges, enhancing work efficiency. Ideal for professionals seeking to boost productivity and creativity on the go.",
+  "pros": [
+    "Customizable AI assistants",
+    "Supports multiple devices and modalities",
+    "Community and developer engagement"
+  ],
+  "cons": [
+    "May require technical knowledge for customization",
+    "Potential privacy concerns with data handling",
+    "Dependent on continuous updates for new features"
+  ],
+  "alternatives": [
+    "OpenAI ChatGPT [openai.com]",
+    "Microsoft Azure AI [azure.microsoft.com]",
+    "Google AI [ai.google]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI ChatGPT",
+      "url": "openai.com",
+      "reason": "Popular AI model with wide adoption"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "url": "azure.microsoft.com",
+      "reason": "Comprehensive cloud AI services"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Advanced AI research and tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "personal assistant",
+    "customization"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://lobehub.com/",
+  "documentationUrl": "https://lobehub.com/documentation",
+  "githubUrl": "https://github.com/lobehub/lobe-chat",
+  "twitterUrl": "https://x.com/lobehub",
+  "screenshot": "/screenshots/lobehub_com.png",
+  "screenshot_640": "/screenshots/lobehub_com_640.png",
+  "screenshot_400": "/screenshots/lobehub_com_400.png",
+  "updatedAt": "2025-05-09T02:00:09.017Z"
+}
