@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://oracle.com/erp/",
+  "name": "Oracle ERP",
+  "title": "oracle.com",
+  "payoff": "Complete cloud ERP with AI integration",
+  "shortDescription": "Oracle ERP is a comprehensive cloud-based enterprise resource planning suite designed to automate and streamline business processes across finance, HR, and supply chain management. It integrates advanced AI capabilities to enhance decision-making and operational efficiency. An example use case is a multinational corporation using Oracle ERP to manage financial operations, project management, and compliance across various global branches.",
+  "pros": [
+    "Advanced AI and machine learning integration",
+    "Comprehensive suite covering a wide range of ERP needs",
+    "Continuous updates for competitive advantage"
+  ],
+  "cons": [
+    "Potentially high cost of implementation",
+    "Complexity may require significant training",
+    "Possible over-reliance on vendor for updates"
+  ],
+  "alternatives": [
+    "SAP ERP [sap.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]",
+    "Workday [workday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SAP ERP",
+      "url": "sap.com",
+      "reason": "Broad integration options and industry coverage"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "Flexible, hybrid deployment options"
+    },
+    {
+      "name": "Workday",
+      "url": "workday.com",
+      "reason": "Strong HR and financial management features"
+    }
+  ],
+  "tags": [
+    "ERP",
+    "cloud",
+    "AI",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Enterprise Planning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://oracle.com/erp/",
+  "documentationUrl": "https://docs.oracle.com/en/cloud/saas/applications-common/",
+  "githubUrl": "https://github.com/search?q=oracle%20erp&type=repositories",
+  "twitterUrl": "https://twitter.com/oracle",
+  "screenshot": "/screenshots/oracle_com.png",
+  "screenshot_640": "/screenshots/oracle_com_640.png",
+  "screenshot_400": "/screenshots/oracle_com_400.png",
+  "updatedAt": "2025-05-09T10:56:27.986Z"
+}

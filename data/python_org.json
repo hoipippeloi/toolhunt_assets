@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://python.org/",
+  "name": "Python",
+  "title": "python.org",
+  "payoff": "Integrate systems quickly and effectively",
+  "shortDescription": "Python is a versatile programming language designed for both beginners and experienced programmers. It is ideal for web development, data analysis, artificial intelligence, and more. Python's simple syntax and readability make it perfect for startups and large enterprises alike. An example use case is automating small tasks in data processing to save time and reduce errors.",
+  "pros": [
+    "Easy to learn and use",
+    "Extensive libraries and frameworks",
+    "Supports multiple programming paradigms"
+  ],
+  "cons": [
+    "Slower execution speed",
+    "Not suitable for mobile development",
+    "Runtime errors due to dynamic typing"
+  ],
+  "alternatives": [
+    "Ruby [ruby-lang.org]",
+    "JavaScript [javascript.com]",
+    "Java [java.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Ruby",
+      "url": "ruby-lang.org",
+      "reason": "Similar flexibility and developer-friendly"
+    },
+    {
+      "name": "JavaScript",
+      "url": "javascript.com",
+      "reason": "Widely used for web applications"
+    },
+    {
+      "name": "Java",
+      "url": "java.com",
+      "reason": "Strong in enterprise environments"
+    }
+  ],
+  "tags": [
+    "programming language",
+    "open source",
+    "data analysis",
+    "web development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Programming",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 1991,
+  "websiteUrl": "https://python.org/",
+  "documentationUrl": "https://docs.python.org/3/",
+  "githubUrl": "https://github.com/python/cpython/issues",
+  "twitterUrl": "https://twitter.com/ThePSF",
+  "screenshot": "/screenshots/python_org.png",
+  "screenshot_640": "/screenshots/python_org_640.png",
+  "screenshot_400": "/screenshots/python_org_400.png",
+  "updatedAt": "2025-05-09T10:56:33.873Z"
+}

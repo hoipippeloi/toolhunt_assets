@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://alteryx.com/",
+  "name": "Alteryx",
+  "title": "alteryx.com",
+  "payoff": "Accelerate Data Analytics with AI",
+  "shortDescription": "Alteryx is a powerful AI data analytics platform designed to simplify, automate, and accelerate the data analytics process. It is tailored for business users of all technical levels, enabling them to discover and automate insights quickly. Example use case: Transforming a Databricks Lakehouse into an AI analytics powerhouse.",
+  "pros": [
+    "Drag-and-drop interface simplifies use",
+    "Robust security and governance features",
+    "Supports a wide range of industries"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Requires initial setup and training"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Qlik [qlik.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Visual analytics for interactive dashboards"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates with Microsoft products"
+    },
+    {
+      "name": "Qlik Sense",
+      "url": "qlik.com",
+      "reason": "Flexible, scalable analytics tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analytics",
+    "automation",
+    "business intelligence"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://alteryx.com/",
+  "documentationUrl": "https://help.alteryx.com",
+  "githubUrl": "https://github.com/search?q=alteryx&type=repositories",
+  "twitterUrl": "https://www.alteryx.com/#",
+  "screenshot": "/screenshots/alteryx_com.png",
+  "screenshot_640": "/screenshots/alteryx_com_640.png",
+  "screenshot_400": "/screenshots/alteryx_com_400.png",
+  "updatedAt": "2025-05-09T10:56:29.322Z"
+}
