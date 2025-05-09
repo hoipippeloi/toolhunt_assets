@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lemonsqueezy.com/",
+  "name": "Lemon Squeezy",
+  "title": "lemonsqueezy.com",
+  "payoff": "Simplify software sales globally",
+  "shortDescription": "Lemon Squeezy is an all-in-one platform designed for software companies to manage payments, subscriptions, and global tax compliance effortlessly. It supports multi-currency, fraud prevention, and integrates seamlessly with PayPal. Ideal for developers looking to streamline their sales process and maximize revenue through various payment models and marketing tools.",
+  "pros": [
+    "Comprehensive tax compliance",
+    "Multi-currency and PayPal support",
+    "License key management for software"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high transaction fees",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Paddle [paddle.com]",
+    "FastSpring [fastspring.com]",
+    "Chargebee [chargebee.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Paddle",
+      "url": "paddle.com",
+      "reason": "Offers global tax handling and checkout"
+    },
+    {
+      "name": "FastSpring",
+      "url": "fastspring.com",
+      "reason": "Focuses on digital commerce solutions"
+    },
+    {
+      "name": "Chargebee",
+      "url": "chargebee.com",
+      "reason": "Provides subscription billing services"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "subscriptions",
+    "tax compliance",
+    "payment processing"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://lemonsqueezy.com/",
+  "documentationUrl": "https://lemonsqueezy.com/documentation",
+  "githubUrl": "https://github.com/search?q=lemon%20squeezy&type=repositories",
+  "twitterUrl": "https://twitter.com/lmsqueezy",
+  "screenshot": "/screenshots/lemonsqueezy_com.png",
+  "screenshot_640": "/screenshots/lemonsqueezy_com_640.png",
+  "screenshot_400": "/screenshots/lemonsqueezy_com_400.png",
+  "updatedAt": "2025-05-09T10:39:08.607Z"
+}
