@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mindpal.space/",
+  "name": "MindPal",
+  "title": "mindpal.space",
+  "payoff": "Build Your AI Workforce",
+  "shortDescription": "MindPal enables businesses to automate complex processes using AI agents and multi-agent workflows. It is designed for businesses looking to enhance productivity by automating tasks such as email marketing, business analysis, and content generation. An example use case is automating daily AI news reports generation.",
+  "pros": [
+    "Customizable AI agents",
+    "Integration with multiple AI models",
+    "One-click public publishing of workflows"
+  ],
+  "cons": [
+    "Potential complexity in setup",
+    "Dependence on external AI models",
+    "Possible data privacy concerns"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Make [make.com]",
+    "Integromat [integromat.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Popular for simple automation"
+    },
+    {
+      "name": "Make",
+      "url": "make.com",
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Complex workflows with deep data"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "workflow management",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mindpal.space/",
+  "documentationUrl": "https://mindpal.space/documentation",
+  "githubUrl": "https://github.com/search?q=mindpal&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/mindpal_space.png",
+  "screenshot_640": "/screenshots/mindpal_space_640.png",
+  "screenshot_400": "/screenshots/mindpal_space_400.png",
+  "updatedAt": "2025-05-09T10:29:47.418Z"
+}

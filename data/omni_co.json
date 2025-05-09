@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://omni.co/",
+  "name": "Omni Analytics",
+  "title": "omni.co",
+  "payoff": "Explore data with speed and accuracy",
+  "shortDescription": "Omni Analytics revolutionizes business intelligence by enabling teams to explore data through various interfaces such as SQL, AI, or a point-and-click UI. It's designed for data teams looking to transition from simple request handlers to strategic partners. An example use case is product teams using Omni to quickly build and scale customer-facing data products, significantly reducing development time from months to weeks.",
+  "pros": [
+    "Supports multiple data exploration interfaces",
+    "Robust integration with modern data platforms like Snowflake and dbt",
+    "Enterprise-grade security features"
+  ],
+  "cons": [
+    "May require initial training for non-technical users",
+    "Potential high cost for small businesses",
+    "Dependence on third-party platforms for full functionality"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in business intelligence"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products"
+    }
+  ],
+  "tags": [
+    "business intelligence",
+    "data analytics",
+    "embedded analytics",
+    "data integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://omni.co/",
+  "documentationUrl": "https://omni.co/documentation",
+  "githubUrl": "https://github.com/search?q=omni%20analytics&type=repositories",
+  "twitterUrl": "https://twitter.com/Omni",
+  "screenshot": "/screenshots/omni_co.png",
+  "screenshot_640": "/screenshots/omni_co_640.png",
+  "screenshot_400": "/screenshots/omni_co_400.png",
+  "updatedAt": "2025-05-09T10:28:57.330Z"
+}

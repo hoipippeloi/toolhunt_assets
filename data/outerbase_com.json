@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://outerbase.com/developers/outerbase-studio/",
+  "name": "Outerbase Studio",
+  "title": "outerbase.com",
+  "payoff": "Powerful open-source database GUI",
+  "shortDescription": "Outerbase Studio is a versatile database GUI client supporting multiple database systems like SQLite, MySQL, and Postgres. It allows users to manage databases directly from a desktop app or via command line. Ideal for developers and database administrators, the tool simplifies data manipulation, query organization, and schema editing. Users can benefit from features like a powerful data editor, query notebooks, and structured query saving, making it suitable for both small projects and enterprise-level operations.",
+  "pros": [
+    "Supports multiple database types",
+    "Open-source and customizable",
+    "Advanced query and schema editing features"
+  ],
+  "cons": [
+    "Limited to database management",
+    "May require technical knowledge to use effectively",
+    "Desktop app might not be suitable for all users"
+  ],
+  "alternatives": [
+    "DBeaver [dbeaver.io]",
+    "HeidiSQL [heidisql.com]",
+    "TablePlus [tableplus.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DBeaver",
+      "url": "dbeaver.io",
+      "reason": "Supports many databases, highly customizable"
+    },
+    {
+      "name": "HeidiSQL",
+      "url": "heidisql.com",
+      "reason": "User-friendly for MySQL, MSSQL, PostgreSQL"
+    },
+    {
+      "name": "TablePlus",
+      "url": "tableplus.com",
+      "reason": "Modern GUI, multi-platform support"
+    }
+  ],
+  "tags": [
+    "database management",
+    "open source",
+    "data editing",
+    "SQL"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://outerbase.com/developers/outerbase-studio/",
+  "documentationUrl": "https://docs.outerbase.com/",
+  "githubUrl": "https://github.com/outerbase/studio",
+  "twitterUrl": "https://x.com/outerbase",
+  "screenshot": "/screenshots/outerbase_com.png",
+  "screenshot_640": "/screenshots/outerbase_com_640.png",
+  "screenshot_400": "/screenshots/outerbase_com_400.png",
+  "updatedAt": "2025-05-09T10:28:04.690Z"
+}
