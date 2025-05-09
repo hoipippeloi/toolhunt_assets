@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://klaviyo.com/",
+  "name": "Klaviyo",
+  "title": "klaviyo.com",
+  "payoff": "B2C CRM for Email & SMS",
+  "shortDescription": "Klaviyo is a CRM platform tailored for B2C businesses, integrating email and SMS marketing to enhance customer relationships. It combines marketing, service, and analytics to offer real-time personalization and smarter decision-making. An example use case is an e-commerce store using Klaviyo to segment customers and send targeted promotions, thereby increasing sales and customer loyalty.",
+  "pros": [
+    "Integrated email and SMS marketing",
+    "Advanced segmentation and personalization",
+    "Comprehensive analytics and reporting"
+  ],
+  "cons": [
+    "Potentially high cost for large contact lists",
+    "Complexity can be overwhelming for beginners",
+    "Limited customization options for advanced users"
+  ],
+  "alternatives": [
+    "HubSpot [hubspot.com]",
+    "Salesforce Marketing Cloud [salesforce.com]",
+    "Mailchimp [mailchimp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers broader inbound marketing tools"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Focus on smaller businesses & automation"
+    },
+    {
+      "name": "Omnisend",
+      "url": "omnisend.com",
+      "reason": "Strong in e-commerce integrations"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "Marketing Automation",
+    "Email Marketing",
+    "SMS Marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://klaviyo.com/",
+  "documentationUrl": "https://www.klaviyo.com/documentation",
+  "githubUrl": "https://github.com/search?q=klaviyo&type=repositories",
+  "twitterUrl": "https://twitter.com/klaviyo/",
+  "screenshot": "/screenshots/klaviyo_com.png",
+  "screenshot_640": "/screenshots/klaviyo_com_640.png",
+  "screenshot_400": "/screenshots/klaviyo_com_400.png",
+  "updatedAt": "2025-05-09T11:02:07.190Z"
+}

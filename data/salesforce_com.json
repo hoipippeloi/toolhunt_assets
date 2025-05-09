@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://salesforce.com/",
+  "name": "Salesforce",
+  "title": "salesforce.com",
+  "payoff": "Grow faster and work smarter",
+  "shortDescription": "Salesforce is a comprehensive CRM platform that integrates marketing, sales, commerce, service, and IT teams. It allows businesses of all sizes to manage customer relationships effectively from anywhere, enhancing customer satisfaction and business growth. Example use case: A small business uses Salesforce to streamline its customer service and sales processes, achieving better customer engagement and increased sales.",
+  "pros": [
+    "Unified platform for various business functions",
+    "Scalable solutions for all business sizes",
+    "Extensive free learning resources via Trailhead"
+  ],
+  "cons": [
+    "Can be complex to configure",
+    "Potentially high cost for small businesses",
+    "Overwhelming features for beginners"
+  ],
+  "alternatives": [
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Offers marketing automation integration"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with a broad feature set"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "Deep integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "customer service",
+    "sales management",
+    "marketing automation"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1999,
+  "websiteUrl": "https://salesforce.com/",
+  "documentationUrl": "https://developer.salesforce.com/docs/",
+  "githubUrl": "https://github.com/search?q=salesforce&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/salesforce_com.png",
+  "screenshot_640": "/screenshots/salesforce_com_640.png",
+  "screenshot_400": "/screenshots/salesforce_com_400.png",
+  "updatedAt": "2025-05-09T11:02:02.045Z"
+}

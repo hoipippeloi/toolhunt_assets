@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zendesk.com/",
+  "name": "Zendesk",
+  "title": "zendesk.com",
+  "payoff": "Complete Customer Service Solution",
+  "shortDescription": "Zendesk offers a comprehensive suite of customer service tools designed to enhance customer interactions and streamline support operations. It integrates AI-powered agents with human support to deliver efficient, omnichannel solutions. Ideal for businesses of all sizes, Zendesk helps improve customer satisfaction by resolving issues quickly through advanced routing, automation, and AI capabilities. A typical use case involves a company using Zendesk to manage customer inquiries across multiple channels, ensuring no customer query goes unanswered.",
+  "pros": [
+    "AI-enhanced customer interactions",
+    "Omnichannel support capabilities",
+    "Scalable for any business size"
+  ],
+  "cons": [
+    "Can be complex to fully integrate",
+    "Potentially high cost for small businesses",
+    "May require training for optimal use"
+  ],
+  "alternatives": [
+    "Freshdesk [freshdesk.com]",
+    "Salesforce Service Cloud [salesforce.com]",
+    "Help Scout [helpscout.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Offers similar omnichannel support"
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM with service features"
+    },
+    {
+      "name": "Help Scout",
+      "url": "helpscout.com",
+      "reason": "Focuses on small business support"
+    }
+  ],
+  "tags": [
+    "customer service",
+    "AI",
+    "omnichannel",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2007,
+  "websiteUrl": "https://zendesk.com/",
+  "documentationUrl": "https://developer.zendesk.com/documentation/",
+  "githubUrl": "https://github.com/search?q=zendesk&type=repositories",
+  "twitterUrl": "https://www.twitter.com/zendesk",
+  "screenshot": "/screenshots/zendesk_com.png",
+  "screenshot_640": "/screenshots/zendesk_com_640.png",
+  "screenshot_400": "/screenshots/zendesk_com_400.png",
+  "updatedAt": "2025-05-09T11:02:53.708Z"
+}
