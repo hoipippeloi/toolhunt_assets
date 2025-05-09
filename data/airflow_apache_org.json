@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://airflow.apache.org/",
+  "name": "Apache Airflow",
+  "title": "airflow.apache.org",
+  "payoff": "Orchestrate workflows with ease",
+  "shortDescription": "Apache Airflow is a powerful tool designed for scheduling and automating complex workflows. It allows users to define their pipelines in Python, offering flexibility and dynamic pipeline generation. This makes it ideal for data engineers and scientists who need to manage tasks ranging from data extraction to machine learning model training. Airflow's user-friendly web interface and extensive integration capabilities with major cloud services simplify monitoring and execution of workflows.",
+  "pros": [
+    "Flexible and dynamic pipeline generation",
+    "Extensive integration with major cloud platforms",
+    "User-friendly web interface for workflow management"
+  ],
+  "cons": [
+    "Steep learning curve for new users",
+    "Primarily suited for users with Python knowledge",
+    "Can be resource-intensive for large-scale deployments"
+  ],
+  "alternatives": [
+    "Luigi [luigi.readthedocs.io]",
+    "Prefect [prefect.io]",
+    "Dagster [dagster.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Luigi",
+      "url": "luigi.readthedocs.io",
+      "reason": "Task scheduler with visualization tools"
+    },
+    {
+      "name": "Prefect",
+      "url": "prefect.io",
+      "reason": "Modern workflow orchestration"
+    },
+    {
+      "name": "Dagster",
+      "url": "dagster.io",
+      "reason": "Focus on development, test, production"
+    }
+  ],
+  "tags": [
+    "workflow automation",
+    "data engineering",
+    "open source",
+    "scalability"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://airflow.apache.org/",
+  "documentationUrl": "https://airflow.apache.org/docs/",
+  "githubUrl": "https://github.com/apache/airflow-site/edit/main/landing-pages/site/content/en/_index.html",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/airflow_apache_org.png",
+  "screenshot_640": "/screenshots/airflow_apache_org_640.png",
+  "screenshot_400": "/screenshots/airflow_apache_org_400.png",
+  "updatedAt": "2025-05-09T03:15:09.172Z"
+}

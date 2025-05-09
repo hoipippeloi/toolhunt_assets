@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://huly.io/",
+  "name": "Huly",
+  "title": "huly.io",
+  "payoff": "All-in-one team productivity app",
+  "shortDescription": "Huly is an open-source platform designed to enhance team productivity by integrating the functionalities of tools like Linear, Jira, Slack, and Notion. It is tailored for developers and product teams, facilitating seamless collaboration and efficient management of projects and tasks. An example use case is a software development team using Huly to manage projects, track time, and synchronize work with GitHub, all within a unified workspace.",
+  "pros": [
+    "Integrates multiple tools into one platform",
+    "Open-source with flexible customization",
+    "Real-time collaboration and communication"
+  ],
+  "cons": [
+    "Potential complexity with many integrated features",
+    "Dependence on community for updates and support",
+    "May require initial training for full utilization"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Slack [slack.com]",
+    "Jira [atlassian.com/software/jira]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Popular for task and project management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management with boards"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "teams.microsoft.com",
+      "reason": "Integrated with Office 365 suite"
+    }
+  ],
+  "tags": [
+    "project management",
+    "collaboration",
+    "open source",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://huly.io/",
+  "documentationUrl": "https://huly.io/docs",
+  "githubUrl": "https://github.com/hcengineering/platform",
+  "twitterUrl": "https://x.com/huly_io",
+  "screenshot": "/screenshots/huly_io.png",
+  "screenshot_640": "/screenshots/huly_io_640.png",
+  "screenshot_400": "/screenshots/huly_io_400.png",
+  "updatedAt": "2025-05-09T03:16:09.178Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jsoncrack.com/",
+  "name": "JSON Crack",
+  "title": "jsoncrack.com",
+  "payoff": "Visualize JSON as interactive graphs",
+  "shortDescription": "JSON Crack is an open-source online tool designed to help users visualize and understand complex JSON data through interactive graphs. Users can upload JSON files, input data via URL, or type directly into a text editor. The tool automatically converts data into a visual tree graph, allowing for quick comprehension and easy exploration. It supports multiple formats like YAML, CSV, XML, and TOML, catering to developers, data scientists, and anyone dealing with data. Example use case: A developer can convert JSON to CSV for easier data manipulation and sharing.",
+  "pros": [
+    "Supports multiple data formats",
+    "Real-time data visualization",
+    "No data stored on servers"
+  ],
+  "cons": [
+    "Limited to web-based interface",
+    "No mention of collaboration features",
+    "Dependent on browser performance"
+  ],
+  "alternatives": [
+    "CyberChef [gchq.github.io]",
+    "Quicktype [quicktype.io]",
+    "Altair GraphQL Client [altair.sirmuel.design]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "CyberChef",
+      "url": "gchq.github.io",
+      "reason": "Offers data parsing and decoding"
+    },
+    {
+      "name": "Quicktype",
+      "url": "quicktype.io",
+      "reason": "Generates code from JSON"
+    },
+    {
+      "name": "Altair GraphQL Client",
+      "url": "altair.sirmuel.design",
+      "reason": "Visual tool for GraphQL, not JSON"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "open source",
+    "JSON editing",
+    "data conversion"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://jsoncrack.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/AykutSarac/jsoncrack.com",
+  "twitterUrl": "https://x.com/jsoncrack",
+  "screenshot": "/screenshots/jsoncrack_com.png",
+  "screenshot_640": "/screenshots/jsoncrack_com_640.png",
+  "screenshot_400": "/screenshots/jsoncrack_com_400.png",
+  "updatedAt": "2025-05-09T03:15:09.172Z"
+}

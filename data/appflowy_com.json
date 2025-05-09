@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://appflowy.com/",
+  "name": "AppFlowy",
+  "title": "appflowy.com",
+  "payoff": "Unify projects, wikis, and teams with AI",
+  "shortDescription": "AppFlowy is a versatile tool designed to integrate project management, wikis, and team collaboration, enhanced by AI capabilities. It serves as an all-in-one platform for teams looking to streamline their workflows and improve productivity. An example use case could be a software development team using AppFlowy to manage their project timelines, maintain documentation, and facilitate communication across departments.",
+  "pros": [
+    "Integrates multiple functions into one platform",
+    "AI-enhanced features for better productivity",
+    "User-friendly interface for easy adoption"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Potential over-reliance on AI for task management",
+    "Limited customization options compared to competitors"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Confluence [atlassian.com/software/confluence]",
+    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Offers flexible workspace customization"
+    },
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Strong in team collaboration and integration"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "reason": "Excellent for enterprise-level communication"
+    }
+  ],
+  "tags": [
+    "project management",
+    "collaboration",
+    "AI",
+    "documentation"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://appflowy.com/",
+  "documentationUrl": "https://docs.appflowy.io/",
+  "githubUrl": "https://github.com/AppFlowy-IO/appflowy",
+  "twitterUrl": "https://twitter.com/appflowy",
+  "screenshot": "/screenshots/appflowy_com.png",
+  "screenshot_640": "/screenshots/appflowy_com_640.png",
+  "screenshot_400": "/screenshots/appflowy_com_400.png",
+  "updatedAt": "2025-05-09T03:15:34.530Z"
+}
