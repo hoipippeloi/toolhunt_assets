@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cline.bot/",
+  "name": "Cline",
+  "title": "cline.bot",
+  "payoff": "Amplify developer impact",
+  "shortDescription": "Cline is an AI-powered coding assistant designed to enhance the productivity of engineering teams. It integrates seamlessly with VS Code, offering features that accelerate development processes. Developers can leverage Cline to manage large codebases, automate repetitive tasks, and explore innovative solutions efficiently. Ideal for teams looking to improve coding efficiency and reduce time to market.",
+  "pros": [
+    "Fully collaborative and extensible",
+    "Significantly boosts coding productivity",
+    "Supports entire repositories"
+  ],
+  "cons": [
+    "Requires VS Code installation",
+    "May have a learning curve for new users",
+    "Dependent on continuous updates for new features"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "Atom [atom.io]",
+    "Sublime Text [sublimetext.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Popular IDE with extensible features"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and customizable editor"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and feature-rich code editor"
+    }
+  ],
+  "tags": [
+    "AI",
+    "coding",
+    "open source",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://cline.bot/",
+  "documentationUrl": "https://cline.bot/docs",
+  "githubUrl": "https://github.com/cline/cline",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/cline_bot.png",
+  "screenshot_640": "/screenshots/cline_bot_640.png",
+  "screenshot_400": "/screenshots/cline_bot_400.png",
+  "updatedAt": "2025-05-09T12:27:23.709Z"
+}

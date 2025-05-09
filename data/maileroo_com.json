@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://maileroo.com/",
+  "name": "Maileroo",
+  "title": "maileroo.com",
+  "payoff": "High deliverability email platform",
+  "shortDescription": "Maileroo is an email delivery platform designed for high deliverability, catering to businesses of all sizes. It supports both transactional and marketing emails through SMTP relay and email API. Users can easily create email campaigns, manage contacts, and analyze performance. An example use case is a startup using Maileroo to manage customer engagement and retention through targeted email campaigns.",
+  "pros": [
+    "GDPR-compliant servers in Europe",
+    "Integrated analytics and tracking",
+    "Template and form builders for easy creation"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially higher cost for high volume users",
+    "Dependence on third-party servers for data privacy"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "MailGun [mailgun.com]",
+    "Mandrill [mandrill.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Offers similar email services with advanced features"
+    },
+    {
+      "name": "MailGun",
+      "url": "mailgun.com",
+      "reason": "Focuses on developers with powerful APIs"
+    },
+    {
+      "name": "Mandrill",
+      "url": "mandrill.com",
+      "reason": "Specialized in transactional email delivery"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "SMTP relay",
+    "email API",
+    "email campaigns"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://maileroo.com/",
+  "documentationUrl": "https://maileroo.com/developer-docs",
+  "githubUrl": "https://github.com/search?q=maileroo&type=repositories",
+  "twitterUrl": "https://x.com/maileroodotcom",
+  "screenshot": "/screenshots/maileroo_com.png",
+  "screenshot_640": "/screenshots/maileroo_com_640.png",
+  "screenshot_400": "/screenshots/maileroo_com_400.png",
+  "updatedAt": "2025-05-09T12:27:20.161Z"
+}

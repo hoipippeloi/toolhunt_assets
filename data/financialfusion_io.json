@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://financialfusion.io/",
+  "name": "Financial Fusion",
+  "title": "financialfusion.io",
+  "payoff": "AI-driven financial clarity",
+  "shortDescription": "Financial Fusion leverages AI to provide real-time financial insights and recommendations, simulating the expertise of a CFO. It's designed for growing businesses seeking to enhance their financial management through detailed analyses and visual insights. An example use case is a small business integrating Financial Fusion to streamline their financial reporting and optimize their financial strategies.",
+  "pros": [
+    "Real-time data-driven recommendations",
+    "Seamless integration with major accounting platforms",
+    "Comprehensive financial analysis tools"
+  ],
+  "cons": [
+    "May be complex for small businesses without prior tech experience",
+    "Potential high cost for premium features",
+    "Limited customization options for specific industries"
+  ],
+  "alternatives": [
+    "QuickBooks Online [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "FreshBooks [freshbooks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks Online",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used for diverse accounting needs"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong in cloud-based financial management"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Focuses on invoicing and billing"
+    }
+  ],
+  "tags": [
+    "AI",
+    "financial management",
+    "data analysis",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://financialfusion.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=financial%20fusion&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/financialfusion_io.png",
+  "screenshot_640": "/screenshots/financialfusion_io_640.png",
+  "screenshot_400": "/screenshots/financialfusion_io_400.png",
+  "updatedAt": "2025-05-09T12:28:39.301Z"
+}
