@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://floatui.com/",
+  "name": "Float UI",
+  "title": "floatui.com",
+  "payoff": "Ship fast with Tailwind UI components",
+  "shortDescription": "Float UI provides a comprehensive suite of free and open-source Tailwind CSS UI components and templates designed to help developers build responsive and modern websites quickly. Ideal for developers of all skill levels, Float UI simplifies the web development process by allowing easy integration with popular JavaScript frameworks. Example use case: A startup can use Float UI's templates to rapidly deploy a professional-looking e-commerce site.",
+  "pros": [
+    "Free and open-source",
+    "Supports multiple JS frameworks",
+    "Professionally designed templates"
+  ],
+  "cons": [
+    "Limited customization options",
+    "No dedicated support",
+    "May require familiarity with Tailwind CSS"
+  ],
+  "alternatives": [
+    "Tailwind Starter Kit [creative-tim.com]",
+    "DaisyUI [daisyui.com]",
+    "TUK [tuk.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tailwind Starter Kit",
+      "url": "creative-tim.com",
+      "reason": "Offers Tailwind CSS components"
+    },
+    {
+      "name": "DaisyUI",
+      "url": "daisyui.com",
+      "reason": "Plugin for Tailwind CSS themes"
+    },
+    {
+      "name": "TUK",
+      "url": "tuk.dev",
+      "reason": "Tailwind CSS templates and blocks"
+    }
+  ],
+  "tags": [
+    "web development",
+    "UI components",
+    "open source",
+    "Tailwind CSS"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://floatui.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/MarsX-dev/floatui",
+  "twitterUrl": "https://twitter.com/float_ui?s=09",
+  "screenshot": "/screenshots/floatui_com.png",
+  "screenshot_640": "/screenshots/floatui_com_640.png",
+  "screenshot_400": "/screenshots/floatui_com_400.png",
+  "updatedAt": "2025-05-09T10:24:22.862Z"
+}
