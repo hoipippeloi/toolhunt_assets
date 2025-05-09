@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lamatic.ai/",
+  "name": "Lamatic.ai",
+  "title": "lamatic.ai",
+  "payoff": "Deploy AI Agents on Edge",
+  "shortDescription": "Lamatic.ai enables engineering teams to build, connect, and deploy AI agents efficiently on edge devices. It offers a suite of tools including Studio, Apps, Templates, and Models to streamline development processes. An example use case is deploying AI-driven applications in manufacturing for real-time quality monitoring.",
+  "pros": [
+    "Reduces development back and forth",
+    "Deploys under 60 seconds",
+    "Real-time data-driven decisions"
+  ],
+  "cons": [
+    "May require technical expertise",
+    "Limited information on pricing",
+    "Focused primarily on AI and edge computing"
+  ],
+  "alternatives": [
+    "AWS IoT Greengrass [aws.amazon.com/iot-greengrass]",
+    "Microsoft Azure IoT Edge [azure.microsoft.com/en-us/services/iot-edge]",
+    "Google Cloud IoT [cloud.google.com/iot-core]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS IoT Greengrass",
+      "url": "aws.amazon.com/iot-greengrass",
+      "reason": "Offers extensive IoT solutions"
+    },
+    {
+      "name": "Microsoft Azure IoT Edge",
+      "url": "azure.microsoft.com/en-us/services/iot-edge",
+      "reason": "Integrates with Azure services"
+    },
+    {
+      "name": "Google Cloud IoT",
+      "url": "cloud.google.com/iot-core",
+      "reason": "Strong in data analytics"
+    }
+  ],
+  "tags": [
+    "AI",
+    "edge computing",
+    "development",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lamatic.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/Lamatic",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/lamatic_ai.png",
+  "screenshot_640": "/screenshots/lamatic_ai_640.png",
+  "screenshot_400": "/screenshots/lamatic_ai_400.png",
+  "updatedAt": "2025-05-09T10:35:09.607Z"
+}

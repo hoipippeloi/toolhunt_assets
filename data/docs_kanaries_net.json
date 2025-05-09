@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docs.kanaries.net/graphic-walker",
+  "name": "Graphic Walker",
+  "title": "kanaries.net",
+  "payoff": "Effortless data visualization wizardry",
+  "shortDescription": "Graphic Walker is an open-source data visualization tool designed as a React component for seamless integration into apps. It caters to data enthusiasts looking to explore and visualize data patterns through drag-and-drop functionality. Users can create various chart types, modify data, and save insights locally. An ideal tool for developers and data analysts seeking an agile and embeddable data visualization solution.",
+  "pros": [
+    "Open-source and customizable",
+    "Easy integration as a React component",
+    "Supports various data visualization types"
+  ],
+  "cons": [
+    "May require React knowledge for integration",
+    "Limited to data visualization without advanced BI features",
+    "Dependent on external data sources for functionality"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.microsoft.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for robust data visualization"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Comprehensive BI tool with visualization"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Data exploration with a BI focus"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "open source",
+    "React component",
+    "data analysis"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://docs.kanaries.net/graphic-walker",
+  "documentationUrl": "https://docs.kanaries.net/graphic-walker",
+  "githubUrl": "https://github.com/Kanaries/graphic-walker",
+  "twitterUrl": "https://twitter.com/kanaries_data",
+  "screenshot": "/screenshots/docs_kanaries_net.png",
+  "screenshot_640": "/screenshots/docs_kanaries_net_640.png",
+  "screenshot_400": "/screenshots/docs_kanaries_net_400.png",
+  "updatedAt": "2025-05-09T10:35:07.351Z"
+}

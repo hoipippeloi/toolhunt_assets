@@ -3,7 +3,7 @@
   "name": "Float UI",
   "title": "floatui.com",
   "payoff": "Ship fast with Tailwind UI components",
-  "shortDescription": "Float UI provides a comprehensive suite of free and open-source Tailwind CSS UI components and templates designed to help developers build responsive and modern websites quickly. Ideal for developers of all skill levels, Float UI simplifies the web development process by allowing easy integration with popular JavaScript frameworks. Example use case: A startup can use Float UI's templates to rapidly deploy a professional-looking e-commerce site.",
+  "shortDescription": "Float UI provides a comprehensive suite of free and open-source Tailwind CSS UI components and templates designed to help developers build modern, responsive websites quickly. Whether you're a seasoned developer or a beginner, Float UI simplifies the web development process by offering ready-to-use components that can be easily integrated with popular JavaScript frameworks. Ideal for startups looking to launch their products with professional designs without the overhead of custom development.",
   "pros": [
     "Free and open-source",
     "Supports multiple JS frameworks",
@@ -12,7 +12,7 @@
   "cons": [
     "Limited customization options",
     "No dedicated support",
-    "May require familiarity with Tailwind CSS"
+    "May not suit complex web applications"
   ],
   "alternatives": [
     "Tailwind Starter Kit [creative-tim.com]",
@@ -37,9 +37,9 @@
     }
   ],
   "tags": [
+    "open source",
     "web development",
     "UI components",
-    "open source",
     "Tailwind CSS"
   ],
   "apiUsed": false,
@@ -47,7 +47,7 @@
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://floatui.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/MarsX-dev/floatui",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/floatui_com.png",
   "screenshot_640": "/screenshots/floatui_com_640.png",
   "screenshot_400": "/screenshots/floatui_com_400.png",
-  "updatedAt": "2025-05-09T10:24:22.862Z"
+  "updatedAt": "2025-05-09T10:33:57.709Z"
 }
