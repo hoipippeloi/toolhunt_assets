@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spark.apache.org/",
+  "name": "Apache Spark",
+  "title": "spark.apache.org",
+  "payoff": "Unified large-scale data analytics",
+  "shortDescription": "Apache Spark is a unified analytics engine for large-scale data processing. It offers high-level APIs in Java, Scala, Python, R, and SQL and supports tasks ranging from ETL to machine learning and from batch processing to streaming. An example use case is real-time data processing where Spark's ability to handle big data scales from a single server to thousands of machines.",
+  "pros": [
+    "High performance for batch and streaming data",
+    "Supports multiple languages",
+    "Scalable from a single server to thousands of machines"
+  ],
+  "cons": [
+    "High memory consumption",
+    "Complex setup and management",
+    "Limited built-in tools for machine learning"
+  ],
+  "alternatives": [
+    "Hadoop [hadoop.apache.org]",
+    "Flink [flink.apache.org]",
+    "Databricks [databricks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hadoop",
+      "url": "hadoop.apache.org",
+      "reason": "Offers a different approach to big data"
+    },
+    {
+      "name": "Flink",
+      "url": "flink.apache.org",
+      "reason": "Focuses on stream processing"
+    },
+    {
+      "name": "Databricks",
+      "url": "databricks.com",
+      "reason": "Provides a unified platform"
+    }
+  ],
+  "tags": [
+    "big data",
+    "data analytics",
+    "machine learning",
+    "stream processing"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://spark.apache.org/",
+  "documentationUrl": "https://spark.apache.org/docs/latest/",
+  "githubUrl": "https://github.com/apache/spark",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/spark_apache_org.png",
+  "screenshot_640": "/screenshots/spark_apache_org_640.png",
+  "screenshot_400": "/screenshots/spark_apache_org_400.png",
+  "updatedAt": "2025-05-09T13:15:31.915Z"
+}

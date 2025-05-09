@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://windsurf.com/",
+  "name": "Windsurf",
+  "title": "windsurf.com",
+  "payoff": "Harness AI for smarter coding",
+  "shortDescription": "Windsurf is an AI-powered code editor designed for software engineers and developers. It anticipates coding needs by fixing test failures and resolving issues before they occur, enhancing productivity. Ideal for enterprises, it integrates features like Cascade and Tab for efficient project handling, from coding to deployment, without breaking the workflow.",
+  "pros": [
+    "AI-driven anticipatory coding",
+    "Integrated deployment features",
+    "Enterprise-ready scalability"
+  ],
+  "cons": [
+    "Potential learning curve for new users",
+    "Dependence on AI might limit manual coding control",
+    "Possible integration challenges with existing tools"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "Sublime Text [sublimetext.com]",
+    "Atom [atom.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Extensive plugin ecosystem and customization"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and lightweight editor"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and highly customizable"
+    }
+  ],
+  "tags": [
+    "AI",
+    "code editor",
+    "software development",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://windsurf.com/",
+  "documentationUrl": "https://windsurf.com/docs",
+  "githubUrl": "https://github.com/search?q=windsurf&type=repositories",
+  "twitterUrl": "https://x.com/windsurf_ai",
+  "screenshot": "/screenshots/windsurf_com.png",
+  "screenshot_640": "/screenshots/windsurf_com_640.png",
+  "screenshot_400": "/screenshots/windsurf_com_400.png",
+  "updatedAt": "2025-05-09T13:14:53.239Z"
+}

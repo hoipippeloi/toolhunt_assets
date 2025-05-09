@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cyclops-ui.com/",
+  "name": "Cyclops",
+  "title": "cyclops-ui.com",
+  "payoff": "Simplify Kubernetes management",
+  "shortDescription": "Cyclops is a Kubernetes management tool designed to simplify the deployment and monitoring of applications using a user-friendly interface. It integrates with Helm for streamlined operations, making it accessible for users with varying levels of expertise. An example use case is for developers looking to manage Kubernetes workloads efficiently without deep diving into complex Kubernetes configurations.",
+  "pros": [
+    "Intuitive form-based UI",
+    "Integration with Helm for easy deployment",
+    "Enhanced observability with tools like Prometheus and Grafana"
+  ],
+  "cons": [
+    "May not support all Kubernetes configurations",
+    "Primarily focused on Kubernetes, less versatile for non-Kubernetes environments",
+    "Potential learning curve for users new to Helm"
+  ],
+  "alternatives": [
+    "Rancher [rancher.com]",
+    "OpenShift [openshift.com]",
+    "Google Kubernetes Engine [cloud.google.com/kubernetes-engine]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Rancher",
+      "url": "rancher.com",
+      "reason": "Offers comprehensive Kubernetes management"
+    },
+    {
+      "name": "OpenShift",
+      "url": "openshift.com",
+      "reason": "Provides enterprise-level Kubernetes solutions"
+    },
+    {
+      "name": "Google Kubernetes Engine",
+      "url": "cloud.google.com/kubernetes-engine",
+      "reason": "Cloud-based Kubernetes service with deep integration"
+    }
+  ],
+  "tags": [
+    "Kubernetes management",
+    "Helm integration",
+    "Developer tools",
+    "Container management"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Infrastructure Code",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://cyclops-ui.com/",
+  "documentationUrl": "https://cyclops-ui.com/documentation",
+  "githubUrl": "https://github.com/cyclops-ui/cyclops",
+  "twitterUrl": "https://x.com/CyclopsUI",
+  "screenshot": "/screenshots/cyclops_ui_com.png",
+  "screenshot_640": "/screenshots/cyclops_ui_com_640.png",
+  "screenshot_400": "/screenshots/cyclops_ui_com_400.png",
+  "updatedAt": "2025-05-09T13:14:40.818Z"
+}
