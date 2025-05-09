@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://justbuildthings.com/",
+  "name": "just build things",
+  "title": "justbuildthings.com",
+  "payoff": "Free AI & creative tools",
+  "shortDescription": "just build things offers a suite of AI and creative tools designed to assist in various digital tasks. From generating AI-based text and images to creating music and analyzing data, this platform serves a wide range of users including marketers, developers, and designers. Example use case: A marketer uses the tool to automatically generate blog posts and marketing content, saving time and enhancing productivity.",
+  "pros": [
+    "Wide range of tools",
+    "User-friendly interfaces",
+    "Free access to most features"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May lack advanced features for professionals",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Express [adobe.com/express]",
+    "Descript [descript.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers extensive design templates"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Collaborative interface design tool"
+    },
+    {
+      "name": "Pixlr",
+      "url": "pixlr.com",
+      "reason": "Web-based photo editing suite"
+    }
+  ],
+  "tags": [
+    "AI tools",
+    "creative tools",
+    "productivity",
+    "design"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://justbuildthings.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=just%20build%20things&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/justbuildthings_com.png",
+  "screenshot_640": "/screenshots/justbuildthings_com_640.png",
+  "screenshot_400": "/screenshots/justbuildthings_com_400.png",
+  "updatedAt": "2025-05-09T09:55:33.009Z"
+}

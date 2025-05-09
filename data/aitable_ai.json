@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://aitable.ai/",
+  "name": "AITable",
+  "title": "aitable.ai",
+  "payoff": "Automate data across 6,000+ apps",
+  "shortDescription": "AITable.ai simplifies workflow automation by integrating with over 6,000 apps through platforms like Zapier and Make. It's designed for businesses seeking to enhance CRM and project management through AI-driven data organization and automation. Example use: A company can automate data entry and connect systems to streamline project management tasks.",
+  "pros": [
+    "Integrates with 6,000+ apps for extensive automation",
+    "Customizable AI-driven data organization tools",
+    "Visual database interface enhances user experience"
+  ],
+  "cons": [
+    "Limited AI capabilities in some areas",
+    "May require initial setup time",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Zapier [zapier.com]",
+    "Make [make.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers similar database and automation features"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Extensive app integration for automation"
+    },
+    {
+      "name": "Make",
+      "url": "make.com",
+      "reason": "Visual programming for complex workflows"
+    }
+  ],
+  "tags": [
+    "automation",
+    "AI",
+    "data management",
+    "workflow"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://aitable.ai/",
+  "documentationUrl": "https://aitable.ai/docs",
+  "githubUrl": "https://github.com/apitable/apitable",
+  "twitterUrl": "https://twitter.com/aitable_ai",
+  "screenshot": "/screenshots/aitable_ai.png",
+  "screenshot_640": "/screenshots/aitable_ai_640.png",
+  "screenshot_400": "/screenshots/aitable_ai_400.png",
+  "updatedAt": "2025-05-09T09:56:47.940Z"
+}

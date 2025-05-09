@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://julius.ai/",
+  "name": "Julius AI",
+  "title": "julius.ai",
+  "payoff": "Expert AI-driven data analysis",
+  "shortDescription": "Julius AI combines the functionalities of Excel, Python, and ChatGPT into a single, powerful tool designed to provide expert-level data analysis. Users can upload files to generate graphs, clean, merge, and sort data, and ask complex questions to gain deep insights. Ideal for knowledge workers in various industries, it simplifies data handling and enhances decision-making processes.",
+  "pros": [
+    "Integrates Excel, Python, and ChatGPT",
+    "Generates graphs and charts automatically",
+    "Offers a free starting tier"
+  ],
+  "cons": [
+    "May require data privacy considerations",
+    "Limited to English language support",
+    "Potentially complex for beginners"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Google Data Studio [datastudio.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates with MS products"
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with Google services"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analysis",
+    "visualization",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://julius.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/caesarHQ",
+  "twitterUrl": "https://x.com/JuliusAI_",
+  "screenshot": "/screenshots/julius_ai.png",
+  "screenshot_640": "/screenshots/julius_ai_640.png",
+  "screenshot_400": "/screenshots/julius_ai_400.png",
+  "updatedAt": "2025-05-09T09:55:51.181Z"
+}
