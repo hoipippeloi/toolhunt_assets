@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://aws.amazon.com/",
+  "name": "Amazon Web Services",
+  "title": "aws.amazon.com",
+  "payoff": "Build on the cloud with AWS",
+  "shortDescription": "Amazon Web Services (AWS) offers a comprehensive cloud computing platform that provides a wide range of services including computing power, database storage, and content delivery. It's designed for developers, startups, and enterprises to scale and grow. Example use case: A startup can quickly deploy web applications on AWS to handle sudden traffic spikes without upfront hardware investments.",
+  "pros": [
+    "Extensive global network of data centers",
+    "Wide range of services and tools",
+    "Strong security and compliance capabilities"
+  ],
+  "cons": [
+    "Can be complex to configure",
+    "Cost management can be challenging",
+    "Potential vendor lock-in"
+  ],
+  "alternatives": [
+    "Microsoft Azure [azure.com]",
+    "Google Cloud Platform [cloud.google.com]",
+    "IBM Cloud [ibm.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Azure",
+      "url": "azure.com",
+      "reason": "Similar extensive cloud services"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "url": "cloud.google.com",
+      "reason": "Strong AI and machine learning tools"
+    },
+    {
+      "name": "IBM Cloud",
+      "url": "ibm.com",
+      "reason": "Focus on enterprise hybrid cloud"
+    }
+  ],
+  "tags": [
+    "cloud computing",
+    "data storage",
+    "content delivery",
+    "database management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Cloud Platform",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://aws.amazon.com/",
+  "documentationUrl": "https://docs.aws.amazon.com",
+  "githubUrl": "https://github.com/search?q=amazon%20web%20services&type=repositories",
+  "twitterUrl": "https://twitter.com/awscloud",
+  "screenshot": "/screenshots/aws_amazon_com.png",
+  "screenshot_640": "/screenshots/aws_amazon_com_640.png",
+  "screenshot_400": "/screenshots/aws_amazon_com_400.png",
+  "updatedAt": "2025-05-09T11:17:34.132Z"
+}

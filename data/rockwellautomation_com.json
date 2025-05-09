@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rockwellautomation.com/",
+  "name": "Rockwell Automation",
+  "title": "rockwellautomation.com",
+  "payoff": "Smart Manufacturing Solutions",
+  "shortDescription": "Rockwell Automation provides industrial automation and digital transformation services. It supports manufacturers by integrating hardware, software, and services to enhance resilience, agility, and sustainability. Example use case: A manufacturing company uses Rockwell Automation to streamline operations and increase efficiency through advanced automation technologies.",
+  "pros": [
+    "Comprehensive solutions from hardware to software",
+    "Strong focus on sustainability and resilience",
+    "Extensive partner network for enhanced capabilities"
+  ],
+  "cons": [
+    "May be complex for small businesses",
+    "Potential high cost of implementation",
+    "Dependence on specific vendor technologies"
+  ],
+  "alternatives": [
+    "Siemens [siemens.com]",
+    "Schneider Electric [se.com]",
+    "Honeywell [honeywell.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Siemens Digital Industries",
+      "url": "siemens.com",
+      "reason": "Similar scope in automation and digitalization"
+    },
+    {
+      "name": "Schneider Electric",
+      "url": "se.com",
+      "reason": "Offers automation solutions with energy focus"
+    },
+    {
+      "name": "ABB Robotics",
+      "url": "new.abb.com",
+      "reason": "Strong in robotics and automation for industries"
+    }
+  ],
+  "tags": [
+    "industrial automation",
+    "digital transformation",
+    "manufacturing",
+    "sustainability"
+  ],
+  "apiUsed": false,
+  "department": "Manufacturing",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1903,
+  "websiteUrl": "https://rockwellautomation.com/",
+  "documentationUrl": "https://www.rockwellautomation.com/en-sg/support/documentation/literature-library.html",
+  "githubUrl": "https://github.com/search?q=rockwell%20automation&type=repositories",
+  "twitterUrl": "http://twitter.com/ROKAutomation",
+  "screenshot": "/screenshots/rockwellautomation_com.png",
+  "screenshot_640": "/screenshots/rockwellautomation_com_640.png",
+  "screenshot_400": "/screenshots/rockwellautomation_com_400.png",
+  "updatedAt": "2025-05-09T11:18:04.813Z"
+}
