@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sona.wtf/",
+  "name": "Sona",
+  "title": "sona.wtf",
+  "payoff": "Record and Summarize Meetings with AI",
+  "shortDescription": "Sona is designed to enhance productivity by recording, transcribing, and summarizing conversations. It is ideal for professionals who engage in frequent meetings and require accurate records and insights. Users can operate Sona across multiple devices including Apple Watch, iPhone, and Desktop, ensuring seamless integration into various work environments. An example use case is a team using Sona during meetings to capture discussions and automatically generate summaries and action items.",
+  "pros": [
+    "Supports over 99 languages",
+    "Works across multiple devices",
+    "Operates discreetly without meeting bots"
+  ],
+  "cons": [
+    "Limited to Apple devices and desktop",
+    "No clear pricing information available",
+    "May have privacy concerns with background operation"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Descript [descript.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers live transcription and collaboration."
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Focuses on AI meeting assistance."
+    },
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Provides transcription with editing tools."
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "meeting transcription",
+    "summarization"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sona.wtf/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=sona&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/sona_wtf.png",
+  "screenshot_640": "/screenshots/sona_wtf_640.png",
+  "screenshot_400": "/screenshots/sona_wtf_400.png",
+  "updatedAt": "2025-05-10T02:48:24.581Z"
+}

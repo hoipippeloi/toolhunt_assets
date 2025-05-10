@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://scrapybara.com/",
+  "name": "Scrapybara",
+  "title": "scrapybara.com",
+  "payoff": "Deploy AI with virtual desktops",
+  "shortDescription": "Scrapybara provides virtual desktops tailored for AI agents, enabling seamless integration and execution of computer use models. It's designed for developers and researchers who need to automate tasks or perform deep web scraping at scale. An example use case is CodeCapy, which uses Scrapybara to test code changes and perform UI tests across multiple instances.",
+  "pros": [
+    "Instant desktop instance spin-up",
+    "Real-time monitoring and control",
+    "Scalable and low-latency operations"
+  ],
+  "cons": [
+    "Limited to desktop-based tasks",
+    "Potentially high costs at scale",
+    "Requires technical expertise to deploy"
+  ],
+  "alternatives": [
+    "AWS WorkSpaces [aws.amazon.com/workspaces]",
+    "Azure Virtual Desktop [azure.microsoft.com/en-us/services/virtual-desktop]",
+    "Shadow PC [shadow.tech]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS WorkSpaces",
+      "url": "aws.amazon.com/workspaces",
+      "reason": "Cloud-based virtual desktops with AWS integration"
+    },
+    {
+      "name": "Azure Virtual Desktop",
+      "url": "azure.microsoft.com/en-us/services/virtual-desktop",
+      "reason": "Flexible virtual desktops in Azure cloud"
+    },
+    {
+      "name": "Shadow PC",
+      "url": "shadow.tech",
+      "reason": "High-performance gaming-oriented virtual PCs"
+    }
+  ],
+  "tags": [
+    "virtual desktops",
+    "AI integration",
+    "web scraping",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Remote Control",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://scrapybara.com/",
+  "documentationUrl": "https://scrapybara.com/docs",
+  "githubUrl": "https://github.com/scrapybara/codecapy",
+  "twitterUrl": "https://x.com/scrapybara",
+  "screenshot": "/screenshots/scrapybara_com.png",
+  "screenshot_640": "/screenshots/scrapybara_com_640.png",
+  "screenshot_400": "/screenshots/scrapybara_com_400.png",
+  "updatedAt": "2025-05-10T02:48:50.499Z"
+}

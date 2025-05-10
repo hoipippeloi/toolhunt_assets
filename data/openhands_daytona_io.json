@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://openhands.daytona.io/",
+  "name": "OpenHands",
+  "title": "daytona.io",
+  "payoff": "Experience AI-powered productivity",
+  "shortDescription": "OpenHands, powered by Daytona, offers an AI-driven workspace for developers and teams. It integrates tools like shell, browser, editor, and planner into a single environment, enabling seamless end-to-end work. Ideal for large-scale projects, it supports code refactoring, migration, and troubleshooting while handling multiple tasks simultaneously. This tool is especially useful for enterprises seeking to boost productivity and automate repetitive tasks.",
+  "pros": [
+    "Integrated development environment",
+    "Supports parallel processing for increased productivity",
+    "Natural language collaboration features"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential high cost for enterprise level",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "GitHub Copilot [copilot.github.com]",
+    "GitLab [gitlab.com]",
+    "Microsoft Visual Studio [visualstudio.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer that suggests code"
+    },
+    {
+      "name": "GitLab",
+      "url": "gitlab.com",
+      "reason": "Complete DevOps platform"
+    },
+    {
+      "name": "Microsoft Visual Studio",
+      "url": "visualstudio.microsoft.com",
+      "reason": "Integrated development environment"
+    }
+  ],
+  "tags": [
+    "AI",
+    "middleware",
+    "productivity",
+    "development"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://openhands.daytona.io/",
+  "documentationUrl": "https://openhands.daytona.io/docs",
+  "githubUrl": "https://github.com/daytonaio/daytona",
+  "twitterUrl": "https://twitter.com/daytonaio",
+  "screenshot": "/screenshots/openhands_daytona_io.png",
+  "screenshot_640": "/screenshots/openhands_daytona_io_640.png",
+  "screenshot_400": "/screenshots/openhands_daytona_io_400.png",
+  "updatedAt": "2025-05-10T02:48:23.033Z"
+}
