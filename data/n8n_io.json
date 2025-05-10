@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://n8n.io/",
+  "name": "n8n",
+  "title": "n8n.io",
+  "payoff": "Automate anything with AI and integrations",
+  "shortDescription": "n8n is a workflow automation platform designed for technical teams to integrate AI and over 500 other applications seamlessly. Users can choose between coding or using a drag-and-drop interface for building multi-step AI agents. Example use cases include onboarding employees, enriching security tickets, and generating customer insights.",
+  "pros": [
+    "Flexible AI integration with over 500 apps",
+    "Code and no-code options available",
+    "Highly customizable and extensible"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Potentially overwhelming for non-developers",
+    "On-prem hosting might be complex for some users"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Microsoft Power Automate [powerautomate.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Popular for easy integration with many apps"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation and integration"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Deep integration with Microsoft ecosystem"
+    }
+  ],
+  "tags": [
+    "workflow automation",
+    "AI integration",
+    "no-code",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://n8n.io/",
+  "documentationUrl": "https://docs.n8n.io/",
+  "githubUrl": "https://github.com/n8n-io/n8n",
+  "twitterUrl": "https://x.com/@igordisco",
+  "screenshot": "/screenshots/n8n_io.png",
+  "screenshot_640": "/screenshots/n8n_io_640.png",
+  "screenshot_400": "/screenshots/n8n_io_400.png",
+  "updatedAt": "2025-05-10T05:14:22.557Z"
+}

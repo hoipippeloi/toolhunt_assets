@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://acadle.com/",
+  "name": "Acadle",
+  "title": "acadle.com",
+  "payoff": "Innovative LMS for Modern Learning",
+  "shortDescription": "Acadle is a versatile learning management system designed to enhance the learning experience and foster business growth. It allows users to create courses, conduct live training, and integrate community forums for peer discussions. An ideal tool for companies looking to onboard new employees or provide ongoing training, Acadle supports various content types including videos, PDFs, and SCORM-compliant materials.",
+  "pros": [
+    "Customizable and SCORM-compatible courses",
+    "Integrated community forums for peer learning",
+    "Affordable with robust features"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Limited third-party integrations",
+    "Focused primarily on educational sectors"
+  ],
+  "alternatives": [
+    "Moodle [moodle.org]",
+    "Blackboard [blackboard.com]",
+    "Canvas [instructure.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Moodle",
+      "url": "moodle.org",
+      "reason": "Open-source LMS with strong community"
+    },
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in academic institutions"
+    },
+    {
+      "name": "Canvas",
+      "url": "instructure.com",
+      "reason": "Popular for its clean interface and usability"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "LMS",
+    "Course Creation",
+    "Training"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://acadle.com/",
+  "documentationUrl": "https://acadle.com/documentation",
+  "githubUrl": "https://github.com/search?q=acadle&type=repositories",
+  "twitterUrl": "https://twitter.com/hiacadle",
+  "screenshot": "/screenshots/acadle_com.png",
+  "screenshot_640": "/screenshots/acadle_com_640.png",
+  "screenshot_400": "/screenshots/acadle_com_400.png",
+  "updatedAt": "2025-05-10T05:14:06.409Z"
+}

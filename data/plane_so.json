@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://plane.so/",
+  "name": "Plane",
+  "title": "plane.so",
+  "payoff": "Open source project management",
+  "shortDescription": "Plane is an intuitive, open-source project management software designed for teams of all sizes and industries. It offers flexible work management, allowing teams to customize their workflows, manage knowledge, and track progress without the complexity of traditional project management tools. An example use case is a tech startup using Plane to manage development sprints and track issues efficiently.",
+  "pros": [
+    "Flexible and customizable workflows",
+    "Supports both cloud and on-premise installations",
+    "Simple, intuitive user interface"
+  ],
+  "cons": [
+    "May lack advanced features for large enterprises",
+    "Open-source nature might require internal support",
+    "Limited third-party integrations compared to competitors"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Jira [atlassian.com/software/jira]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Popular for task and project management"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Visual project management with automation"
+    },
+    {
+      "name": "ClickUp",
+      "url": "clickup.com",
+      "reason": "All-in-one suite with customization"
+    }
+  ],
+  "tags": [
+    "project management",
+    "open source",
+    "knowledge management",
+    "work management"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://plane.so/",
+  "documentationUrl": "https://plane.so/docs",
+  "githubUrl": "https://github.com/search?q=plane&type=repositories",
+  "twitterUrl": "https://twitter.com/planepowers",
+  "screenshot": "/screenshots/plane_so.png",
+  "screenshot_640": "/screenshots/plane_so_640.png",
+  "screenshot_400": "/screenshots/plane_so_400.png",
+  "updatedAt": "2025-05-10T05:14:51.052Z"
+}
