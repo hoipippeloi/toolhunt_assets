@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kestra.io/",
+  "name": "Kestra",
+  "title": "kestra.io",
+  "payoff": "Simplify powerful workflow orchestration",
+  "shortDescription": "Kestra is an open-source, declarative orchestration platform designed to streamline complex workflows across various industries. It offers a user-friendly interface with over 600 plugins and 250+ blueprints, making it adaptable for developers and data engineers. Example use cases include ERP transformation, CI/CD acceleration, and large-scale data mesh implementations.",
+  "pros": [
+    "Extensive plugin and blueprint support",
+    "Scalable enterprise solutions",
+    "Open-source with community support"
+  ],
+  "cons": [
+    "Complexity in initial setup",
+    "May require technical expertise",
+    "Limited direct support for non-enterprise users"
+  ],
+  "alternatives": [
+    "Apache Airflow [airflow.apache.org]",
+    "Argo Workflows [argoproj.github.io]",
+    "Prefect [prefect.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apache Airflow",
+      "url": "airflow.apache.org",
+      "reason": "Popular for complex workflows"
+    },
+    {
+      "name": "Argo Workflows",
+      "url": "argoproj.github.io",
+      "reason": "Kubernetes-native workflows"
+    },
+    {
+      "name": "Prefect",
+      "url": "prefect.io",
+      "reason": "Modern interface and cloud-native"
+    }
+  ],
+  "tags": [
+    "orchestration",
+    "workflow automation",
+    "open source",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://kestra.io/",
+  "documentationUrl": "https://docs.kestra.io/",
+  "githubUrl": "https://github.com/kestra-io/kestra",
+  "twitterUrl": "https://twitter.com/kestra_io",
+  "screenshot": "/screenshots/kestra_io.png",
+  "screenshot_640": "/screenshots/kestra_io_640.png",
+  "screenshot_400": "/screenshots/kestra_io_400.png",
+  "updatedAt": "2025-05-10T07:36:02.762Z"
+}

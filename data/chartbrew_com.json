@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chartbrew.com/",
+  "name": "Chartbrew",
+  "title": "chartbrew.com",
+  "payoff": "Client reports for your team",
+  "shortDescription": "Chartbrew offers an intuitive platform for teams to create, manage, and share interactive data reports and dashboards. It's designed for businesses needing real-time insights across various data sources, making it ideal for client reporting and internal analytics. Example use case: A marketing agency utilizes Chartbrew to generate customized performance reports for each client, enhancing transparency and decision-making.",
+  "pros": [
+    "Easy integration with multiple data sources",
+    "Real-time updates and interactive dashboards",
+    "Robust security and access controls"
+  ],
+  "cons": [
+    "Limited to SQL databases and MongoDB",
+    "May require initial setup time",
+    "Dependent on third-party data integrations"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Strong in business intelligence"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Good for big data integration"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "client reporting",
+    "dashboard",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://chartbrew.com/",
+  "documentationUrl": "https://chartbrew.com/documentation",
+  "githubUrl": "https://github.com/chartbrew/chartbrew",
+  "twitterUrl": "https://twitter.com/chartbrew",
+  "screenshot": "/screenshots/chartbrew_com.png",
+  "screenshot_640": "/screenshots/chartbrew_com_640.png",
+  "screenshot_400": "/screenshots/chartbrew_com_400.png",
+  "updatedAt": "2025-05-10T07:36:04.887Z"
+}
