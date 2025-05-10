@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://metabase.com/",
+  "name": "Metabase",
+  "title": "metabase.com",
+  "payoff": "Self-service analytics for your team",
+  "shortDescription": "Metabase is an open-source business intelligence tool that enables teams to perform self-service analytics. It allows users to create interactive dashboards, visualize data, and embed analytics into applications without extensive technical knowledge. Example use case: A marketing team uses Metabase to track campaign performance and gain insights through data visualizations, improving decision-making processes.",
+  "pros": [
+    "User-friendly visual query builder",
+    "Support for numerous data sources",
+    "Robust community and documentation"
+  ],
+  "cons": [
+    "Limited advanced customization for power users",
+    "Performance issues with large datasets",
+    "Dependency on community for some support aspects"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for interactive data viz."
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong embedding capabilities."
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products."
+    }
+  ],
+  "tags": [
+    "business intelligence",
+    "data visualization",
+    "open source",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://metabase.com/",
+  "documentationUrl": "https://www.metabase.com/docs/latest/",
+  "githubUrl": "https://github.com/metabase/metabase",
+  "twitterUrl": "https://x.com/bitraj_/status/1882673594595180586",
+  "screenshot": "/screenshots/metabase_com.png",
+  "screenshot_640": "/screenshots/metabase_com_640.png",
+  "screenshot_400": "/screenshots/metabase_com_400.png",
+  "updatedAt": "2025-05-10T07:13:39.883Z"
+}

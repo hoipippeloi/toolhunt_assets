@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://coblocks.ai/",
+  "name": "coblocks",
+  "title": "coblocks.ai",
+  "payoff": "Build data pipelines with AI",
+  "shortDescription": "coblocks simplifies the creation of data pipelines, catering to both developers and non-technical users. It integrates seamlessly with popular apps and data warehouses, such as Stripe, HubSpot, Postgres, and Snowflake. Users can quickly deploy pipelines, utilize AI-enhanced features like cursor-level autocomplete, and manage team collaboration efficiently. Example use case: A company uses coblocks to automate data ingestion and transformation, enhancing real-time data analysis.",
+  "pros": [
+    "AI-enhanced automation features",
+    "One-click integrations with popular services",
+    "Efficient team collaboration and version control"
+  ],
+  "cons": [
+    "Potential complexity for non-technical users",
+    "Dependence on third-party integrations",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "Airflow [airflow.apache.org]",
+    "Talend [talend.com]",
+    "Apache NiFi [nifi.apache.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airflow",
+      "url": "airflow.apache.org",
+      "reason": "Popular for customizable workflows"
+    },
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Strong in data integration and management"
+    },
+    {
+      "name": "Apache NiFi",
+      "url": "nifi.apache.org",
+      "reason": "Focuses on dataflow automation"
+    }
+  ],
+  "tags": [
+    "data pipelines",
+    "AI",
+    "integration",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://coblocks.ai/",
+  "documentationUrl": "https://coblocks.ai/docs",
+  "githubUrl": "https://github.com/coblocks",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/coblocks_ai.png",
+  "screenshot_640": "/screenshots/coblocks_ai_640.png",
+  "screenshot_400": "/screenshots/coblocks_ai_400.png",
+  "updatedAt": "2025-05-10T07:13:59.464Z"
+}

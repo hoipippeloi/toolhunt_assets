@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sqlmesh.com/",
+  "name": "SQLMesh",
+  "title": "sqlmesh.com",
+  "payoff": "Unlock the power of SQLMesh",
+  "shortDescription": "SQLMesh is a robust tool designed for data transformation and collaboration. It allows users to run dbt projects seamlessly, offering virtual data environments to reduce cloud costs. With features like column-level lineage and automatic data contracts, it enhances understanding and safety in pipeline management. Ideal for teams looking to deploy with confidence using automated CI/CD, SQLMesh is perfect for businesses aiming to optimize their data operations.",
+  "pros": [
+    "Reduces cloud costs with virtual environments",
+    "Enhances pipeline understanding with column-level lineage",
+    "Improves deployment confidence with automated CI/CD"
+  ],
+  "cons": [
+    "May require familiarity with dbt projects",
+    "Potentially complex setup for beginners",
+    "Limited information on direct customer support"
+  ],
+  "alternatives": [
+    "dbt Cloud [getdbt.com]",
+    "Airflow [apache.org]",
+    "Snowflake [snowflake.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "dbt Cloud",
+      "url": "getdbt.com",
+      "reason": "Offers similar dbt integration and tools"
+    },
+    {
+      "name": "Apache Airflow",
+      "url": "apache.org",
+      "reason": "Flexible tool for workflow automation"
+    },
+    {
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Powerful cloud data platform"
+    }
+  ],
+  "tags": [
+    "data transformation",
+    "collaboration",
+    "CI/CD",
+    "data management"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://sqlmesh.com/",
+  "documentationUrl": "https://sqlmesh.com/documentation",
+  "githubUrl": "https://github.com/TobikoData/sqlmesh",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/sqlmesh_com.png",
+  "screenshot_640": "/screenshots/sqlmesh_com_640.png",
+  "screenshot_400": "/screenshots/sqlmesh_com_400.png",
+  "updatedAt": "2025-05-10T07:12:52.121Z"
+}
