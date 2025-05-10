@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://julep.ai/",
+  "name": "Julep AI",
+  "title": "julep.ai",
+  "payoff": "Deploy AI workflows at scale",
+  "shortDescription": "Julep AI enables users to create and deploy serverless AI workflows quickly and efficiently. It is designed for developers and businesses looking to integrate AI into their operations without extensive infrastructure. An example use case is a tech company automating their data processing tasks, reducing development time from months to weeks.",
+  "pros": [
+    "Rapid deployment of AI workflows",
+    "Scalable to millions of tasks",
+    "Supports various AI models and APIs"
+  ],
+  "cons": [
+    "May require technical knowledge to set up",
+    "Dependent on external data sources and APIs",
+    "Limited customization in free tier"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Vercel [vercel.com]",
+    "Retool [retool.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers workflow automation with easy integration"
+    },
+    {
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Focuses on deployment and scaling of web projects"
+    },
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Provides tools for building internal applications quickly"
+    }
+  ],
+  "tags": [
+    "AI",
+    "serverless",
+    "scalability",
+    "workflow automation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://julep.ai/",
+  "documentationUrl": "https://julep.ai/docs",
+  "githubUrl": "https://github.com/julep-ai/julep",
+  "twitterUrl": "https://x.com/julep_ai",
+  "screenshot": "/screenshots/julep_ai.png",
+  "screenshot_640": "/screenshots/julep_ai_640.png",
+  "screenshot_400": "/screenshots/julep_ai_400.png",
+  "updatedAt": "2025-05-10T06:45:11.485Z"
+}

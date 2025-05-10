@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rustdesk.com/",
+  "name": "RustDesk",
+  "title": "rustdesk.com",
+  "payoff": "Secure self-hosted remote desktop",
+  "shortDescription": "RustDesk offers a reliable remote desktop solution that allows users to switch from traditional services like TeamViewer to a self-hosted server environment. It ensures data sovereignty, optimal performance, and enhanced security through on-premise deployment. Ideal for businesses wanting control over their data and customization, RustDesk can be tailored to specific needs, making remote access simple and secure.",
+  "pros": [
+    "Data sovereignty through self-hosting",
+    "Customizable to specific business needs",
+    "Supports multiple operating systems"
+  ],
+  "cons": [
+    "Requires technical knowledge for setup",
+    "Dependent on user's own IT infrastructure",
+    "Limited marketing compared to competitors"
+  ],
+  "alternatives": [
+    "TeamViewer [teamviewer.com]",
+    "AnyDesk [anydesk.com]",
+    "Splashtop [splashtop.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "TeamViewer",
+      "url": "teamviewer.com",
+      "reason": "Widely used with robust features"
+    },
+    {
+      "name": "AnyDesk",
+      "url": "anydesk.com",
+      "reason": "Offers fast and lightweight service"
+    },
+    {
+      "name": "Splashtop",
+      "url": "splashtop.com",
+      "reason": "Focuses on high performance"
+    }
+  ],
+  "tags": [
+    "remote control",
+    "open source",
+    "data security",
+    "self-hosted"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Remote Control",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://rustdesk.com/",
+  "documentationUrl": "https://rustdesk.com/docs",
+  "githubUrl": "https://github.com/rustdesk/rustdesk/wiki/FAQ",
+  "twitterUrl": "https://twitter.com/rustdesk",
+  "screenshot": "/screenshots/rustdesk_com.png",
+  "screenshot_640": "/screenshots/rustdesk_com_640.png",
+  "screenshot_400": "/screenshots/rustdesk_com_400.png",
+  "updatedAt": "2025-05-10T06:45:39.825Z"
+}
