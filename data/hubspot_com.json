@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hubspot.com/",
+  "name": "HubSpot",
+  "title": "hubspot.com",
+  "payoff": "All-in-one business platform",
+  "shortDescription": "HubSpot offers a comprehensive suite of software solutions for marketing, sales, and customer service, all integrated on a single AI-powered platform. It is designed for businesses of all sizes, from startups to large enterprises. Example use case: A small business uses HubSpot's CRM and marketing automation tools to increase leads and improve customer engagement.",
+  "pros": [
+    "Extensive integration options",
+    "AI-powered automation features",
+    "Scalable across business sizes"
+  ],
+  "cons": [
+    "Can be expensive for small businesses",
+    "Complexity may overwhelm new users",
+    "Potential over-reliance on AI for customer interactions"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "Zoho CRM [zoho.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Offers extensive CRM capabilities"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with diverse modules"
+    },
+    {
+      "name": "Freshsales",
+      "url": "freshworks.com/freshsales-crm",
+      "reason": "User-friendly with AI features"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "marketing automation",
+    "customer service",
+    "sales management"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://hubspot.com/",
+  "documentationUrl": "https://developers.hubspot.com/docs/api/overview",
+  "githubUrl": "https://github.com/search?q=hubspot&type=repositories",
+  "twitterUrl": "https://x.com/HubSpot?hubs_content=www.hubspot.com/&hubs_content-cta=hstc_twitter",
+  "screenshot": "/screenshots/hubspot_com.png",
+  "screenshot_640": "/screenshots/hubspot_com_640.png",
+  "screenshot_400": "/screenshots/hubspot_com_400.png",
+  "updatedAt": "2025-05-10T08:43:10.858Z"
+}

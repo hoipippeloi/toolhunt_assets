@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://atlassian.com/software/jira",
+  "name": "Jira",
+  "title": "atlassian.com",
+  "payoff": "Track issues & projects effectively",
+  "shortDescription": "Jira is a versatile project tracking software designed to manage complex projects and everyday tasks alike. It enables teams of all sizes to organize work, create milestones, and map dependencies efficiently. Jira integrates seamlessly with various tools, enhancing collaboration and productivity across departments such as IT, design, and operations. An example use case is using Jira for agile project management, helping teams visualize tasks and progress through boards and backlogs.",
+  "pros": [
+    "Flexible visualization of tasks",
+    "Integrates with many tools",
+    "Scalable for all team sizes"
+  ],
+  "cons": [
+    "Can be complex to set up",
+    "Potentially overwhelming for new users",
+    "High customization may lead to confusion"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers simpler user interface"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Focuses on Kanban-style project mgmt"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Highly customizable workflows"
+    }
+  ],
+  "tags": [
+    "project management",
+    "task tracking",
+    "team collaboration",
+    "agile"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2002,
+  "websiteUrl": "https://atlassian.com/software/jira",
+  "documentationUrl": "https://atlassian.com/software/jira/guides",
+  "githubUrl": "https://github.com/search?q=jira&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/atlassian_com.png",
+  "screenshot_640": "/screenshots/atlassian_com_640.png",
+  "screenshot_400": "/screenshots/atlassian_com_400.png",
+  "updatedAt": "2025-05-10T08:43:57.530Z"
+}
