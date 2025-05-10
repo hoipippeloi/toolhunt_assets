@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docker.com/",
+  "name": "Docker",
+  "title": "docker.com",
+  "payoff": "Develop faster. Run anywhere.",
+  "shortDescription": "Docker simplifies the development and deployment of applications by using containerization technology. It allows developers to package applications with all their dependencies into a standardized unit for software development. Docker is ideal for developers and companies looking to streamline application development and testing across multiple environments. An example use case is a developer using Docker to ensure that their application runs consistently across different computing environments.",
+  "pros": [
+    "Streamlines development and deployment",
+    "Supports multiple programming languages and tools",
+    "Large community and marketplace for sharing"
+  ],
+  "cons": [
+    "Can be complex to set up and manage",
+    "Resource-intensive on host machines",
+    "Potential security vulnerabilities if not properly managed"
+  ],
+  "alternatives": [
+    "Kubernetes [kubernetes.io]",
+    "Podman [podman.io]",
+    "Rancher [rancher.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kubernetes",
+      "url": "kubernetes.io",
+      "reason": "Orchestrates containers at scale"
+    },
+    {
+      "name": "Podman",
+      "url": "podman.io",
+      "reason": "Daemonless container engine"
+    },
+    {
+      "name": "Rancher",
+      "url": "rancher.com",
+      "reason": "Complete container management platform"
+    }
+  ],
+  "tags": [
+    "containerization",
+    "devops",
+    "application development",
+    "cloud integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2013,
+  "websiteUrl": "https://docker.com/",
+  "documentationUrl": "https://docs.docker.com/",
+  "githubUrl": "https://github.com/search?q=docker&type=repositories",
+  "twitterUrl": "http://twitter.com/docker",
+  "screenshot": "/screenshots/docker_com.png",
+  "screenshot_640": "/screenshots/docker_com_640.png",
+  "screenshot_400": "/screenshots/docker_com_400.png",
+  "updatedAt": "2025-05-10T09:13:55.715Z"
+}

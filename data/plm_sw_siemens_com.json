@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://plm.sw.siemens.com/en-US/teamcenter/",
+  "name": "Teamcenter",
+  "title": "plm.sw.siemens.com",
+  "payoff": "Optimize your product lifecycle",
+  "shortDescription": "Teamcenter by Siemens is a comprehensive product lifecycle management (PLM) software designed to help businesses plan, develop, and deliver innovative products efficiently. It connects people across various departments, automating and streamlining lifecycle processes to foster innovative decision-making. Suitable for startups to large enterprises across industries, Teamcenter is used to manage everything from design to manufacturing and service, exemplified by its adoption by companies like Northrop Grumman.",
+  "pros": [
+    "Connects and optimizes processes using digital twins",
+    "Flexible deployment options: on-premises or cloud",
+    "Broad industry adoption ensuring reliability and continuous updates"
+  ],
+  "cons": [
+    "May be complex to implement for smaller teams",
+    "Potentially high cost of ownership",
+    "Requires significant training and adaptation"
+  ],
+  "alternatives": [
+    "PTC Windchill [ptc.com]",
+    "Dassault ENOVIA [3ds.com]",
+    "Autodesk Fusion Lifecycle [autodesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "PTC Windchill",
+      "url": "ptc.com",
+      "reason": "Offers robust PLM features with IoT integration"
+    },
+    {
+      "name": "Dassault ENOVIA",
+      "url": "3ds.com",
+      "reason": "Focuses on collaboration and real-time updates"
+    },
+    {
+      "name": "Autodesk Fusion Lifecycle",
+      "url": "autodesk.com",
+      "reason": "Cloud-based PLM with easier setup for SMBs"
+    }
+  ],
+  "tags": [
+    "PLM",
+    "digital twin",
+    "product management",
+    "manufacturing"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Enterprise Planning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1998,
+  "websiteUrl": "https://plm.sw.siemens.com/en-US/teamcenter/",
+  "documentationUrl": "https://plm.sw.siemens.com/en-US/teamcenter/documentation",
+  "githubUrl": "https://github.com/search?q=teamcenter&type=repositories",
+  "twitterUrl": "https://www.mendix.com/",
+  "screenshot": "/screenshots/plm_sw_siemens_com.png",
+  "screenshot_640": "/screenshots/plm_sw_siemens_com_640.png",
+  "screenshot_400": "/screenshots/plm_sw_siemens_com_400.png",
+  "updatedAt": "2025-05-10T09:15:02.613Z"
+}

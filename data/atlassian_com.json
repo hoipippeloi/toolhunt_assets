@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://atlassian.com/software/jira",
-  "name": "Jira",
+  "sourceUrl": "https://atlassian.com/software/confluence",
+  "name": "Confluence",
   "title": "atlassian.com",
-  "payoff": "Track issues & projects effectively",
-  "shortDescription": "Jira is a versatile project tracking software designed to manage complex projects and everyday tasks alike. It enables teams of all sizes to organize work, create milestones, and map dependencies efficiently. Jira integrates seamlessly with various tools, enhancing collaboration and productivity across departments such as IT, design, and operations. An example use case is using Jira for agile project management, helping teams visualize tasks and progress through boards and backlogs.",
+  "payoff": "Your Remote-Friendly Team Workspace",
+  "shortDescription": "Confluence by Atlassian serves as a dynamic team workspace where users can create, share, and manage knowledge effectively. Designed for various teams, it offers tools like live docs, whiteboards, and databases to streamline collaboration and information sharing. An example use case includes project planning where teams can collaboratively document strategies and maintain a centralized source of truth.",
   "pros": [
-    "Flexible visualization of tasks",
-    "Integrates with many tools",
-    "Scalable for all team sizes"
+    "Realtime collaboration on documents",
+    "Integration with numerous external tools",
+    "Robust AI features to automate tasks"
   ],
   "cons": [
-    "Can be complex to set up",
-    "Potentially overwhelming for new users",
-    "High customization may lead to confusion"
+    "Can be overwhelming for new users",
+    "Potentially expensive for small teams",
+    "Requires internet connectivity for most features"
   ],
   "alternatives": [
-    "Asana [asana.com]",
-    "Trello [trello.com]",
-    "Monday.com [monday.com]"
+    "Notion [notion.so]",
+    "Microsoft SharePoint [sharepoint.com]",
+    "Google Workspace [workspace.google.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Asana",
-      "url": "asana.com",
-      "reason": "Offers simpler user interface"
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with modular components"
     },
     {
-      "name": "Trello",
-      "url": "trello.com",
-      "reason": "Focuses on Kanban-style project mgmt"
+      "name": "Microsoft SharePoint",
+      "url": "sharepoint.com",
+      "reason": "Integrated with Microsoft Office suite"
     },
     {
-      "name": "Monday.com",
-      "url": "monday.com",
-      "reason": "Highly customizable workflows"
+      "name": "Google Workspace",
+      "url": "workspace.google.com",
+      "reason": "Comprehensive suite of collaboration tools"
     }
   ],
   "tags": [
+    "collaboration",
+    "knowledge management",
     "project management",
-    "task tracking",
-    "team collaboration",
-    "agile"
+    "content management"
   ],
   "apiUsed": true,
   "department": "Project Management Office",
-  "function": "Project Tools",
+  "function": "Content Management",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2002,
-  "websiteUrl": "https://atlassian.com/software/jira",
-  "documentationUrl": "https://atlassian.com/software/jira/guides",
-  "githubUrl": "https://github.com/search?q=jira&type=repositories",
+  "releasedYear": 2004,
+  "websiteUrl": "https://atlassian.com/software/confluence",
+  "documentationUrl": "https://support.atlassian.com/confluence-cloud/",
+  "githubUrl": "https://github.com/search?q=confluence&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/atlassian_com.png",
   "screenshot_640": "/screenshots/atlassian_com_640.png",
   "screenshot_400": "/screenshots/atlassian_com_400.png",
-  "updatedAt": "2025-05-10T08:43:57.530Z"
+  "updatedAt": "2025-05-10T09:14:09.041Z"
 }
