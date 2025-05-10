@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://apple.com/final-cut-pro/",
+  "name": "Final Cut Pro",
+  "title": "apple.com/final-cut-pro",
+  "payoff": "Simply intelligent video editing.",
+  "shortDescription": "Final Cut Pro is a professional video editing software designed for Mac users. It leverages the power of Apple silicon to handle complex projects with high frame rates and effects efficiently. Ideal for filmmakers and video editors, it supports advanced features like 360° video, HDR, and multicam editing. Users can create compelling content with tools for color grading, audio editing, and more.",
+  "pros": [
+    "Optimized for Apple silicon for high performance",
+    "Advanced organizing and editing tools",
+    "Supports 360° video and HDR"
+  ],
+  "cons": [
+    "Available only on macOS",
+    "High cost compared to some alternatives",
+    "Steep learning curve for beginners"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "DaVinci Resolve [blackmagicdesign.com]",
+    "Avid Media Composer [avid.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry-standard with broader platform support"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Strong color correction and audio post-production"
+    },
+    {
+      "name": "Avid Media Composer",
+      "url": "avid.com",
+      "reason": "Preferred by many professional film editors"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "multimedia",
+    "Apple software",
+    "professional editing"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://apple.com/final-cut-pro/",
+  "documentationUrl": "https://support.apple.com/final-cut-pro",
+  "githubUrl": "https://github.com/search?q=final%20cut%20pro&type=repositories",
+  "twitterUrl": "https://www.motionvfx.com/",
+  "screenshot": "/screenshots/apple_com.png",
+  "screenshot_640": "/screenshots/apple_com_640.png",
+  "screenshot_400": "/screenshots/apple_com_400.png",
+  "updatedAt": "2025-05-10T10:14:28.059Z"
+}
