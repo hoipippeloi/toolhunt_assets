@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ptc.com/en/products/thingworx",
+  "name": "ThingWorx",
+  "title": "ptc.com",
+  "payoff": "Industrial IoT Software Solutions",
+  "shortDescription": "ThingWorx is an Industrial IoT platform designed to address challenges in manufacturing, service, and engineering sectors. It simplifies the creation of IIoT solutions, enabling companies to scale operations, enhance productivity, and innovate with new business models. Example use case includes optimizing asset performance and improving service reliability across industries.",
+  "pros": [
+    "Reduces technical barriers to IIoT implementation",
+    "Supports a wide range of industrial use cases",
+    "Offers flexible deployment options (cloud, on-premise)"
+  ],
+  "cons": [
+    "May require technical expertise to fully leverage",
+    "Potentially high cost of ownership",
+    "Limited customization in pre-built applications"
+  ],
+  "alternatives": [
+    "AWS IoT [aws.amazon.com/iot]",
+    "Azure IoT [azure.microsoft.com/en-us/overview/iot]",
+    "Google Cloud IoT [cloud.google.com/iot-core]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS IoT",
+      "url": "aws.amazon.com/iot",
+      "reason": "Extensive cloud integration and services"
+    },
+    {
+      "name": "Azure IoT",
+      "url": "azure.microsoft.com/en-us/overview/iot",
+      "reason": "Strong enterprise support and scalability"
+    },
+    {
+      "name": "Google Cloud IoT",
+      "url": "cloud.google.com/iot-core",
+      "reason": "Powerful data processing capabilities"
+    }
+  ],
+  "tags": [
+    "IIoT",
+    "Industrial Automation",
+    "Data Analytics",
+    "Cloud Platform"
+  ],
+  "apiUsed": true,
+  "department": "Manufacturing",
+  "function": "Cloud Platform",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://ptc.com/en/products/thingworx",
+  "documentationUrl": "https://ptc.com/en/products/thingworx/documentation",
+  "githubUrl": "https://github.com/search?q=thingworx&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/ptc_com.png",
+  "screenshot_640": "/screenshots/ptc_com_640.png",
+  "screenshot_400": "/screenshots/ptc_com_400.png",
+  "updatedAt": "2025-05-10T09:38:17.412Z"
+}
