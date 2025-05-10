@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://crisp.chat/",
+  "name": "Crisp",
+  "title": "crisp.chat",
+  "payoff": "Unified Business Messaging Platform",
+  "shortDescription": "Crisp combines multiple communication channels into a single platform, enhancing customer support, sales, and marketing efforts. It integrates live chat, email, and social messaging into a unified inbox powered by AI and automation. This setup allows teams to manage conversations efficiently and deliver personalized customer experiences. Example use case: A retail company uses Crisp to handle customer inquiries and automate responses, reducing response time and increasing customer satisfaction.",
+  "pros": [
+    "Unified communication channels",
+    "AI-driven automations",
+    "Extensive integration options"
+  ],
+  "cons": [
+    "Potential learning curve for new users",
+    "May require customization for specific needs",
+    "Dependence on third-party integrations"
+  ],
+  "alternatives": [
+    "Intercom [intercom.com]",
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Offers personalized communication"
+    },
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Widely used for customer support"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Integrates multiple support channels"
+    }
+  ],
+  "tags": [
+    "customer service",
+    "messaging",
+    "AI",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://crisp.chat/",
+  "documentationUrl": "https://help.crisp.chat/en/",
+  "githubUrl": "https://github.com/crisp-im",
+  "twitterUrl": "https://twitter.com/crisp_im",
+  "screenshot": "/screenshots/crisp_chat.png",
+  "screenshot_640": "/screenshots/crisp_chat_640.png",
+  "screenshot_400": "/screenshots/crisp_chat_400.png",
+  "updatedAt": "2025-05-10T04:16:36.464Z"
+}

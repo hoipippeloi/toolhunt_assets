@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://extracta.ai/",
+  "name": "Extracta",
+  "title": "extracta.ai",
+  "payoff": "Automate document data extraction",
+  "shortDescription": "Extracta.ai simplifies data extraction from documents and images using AI, without the need for training. It's designed for businesses needing to automate the processing of various document types like invoices, resumes, and contracts. An example use case is a company automating data entry from scanned invoices into their accounting system.",
+  "pros": [
+    "No training required",
+    "Supports multiple document formats",
+    "Fully customizable templates"
+  ],
+  "cons": [
+    "Dependence on AI accuracy",
+    "Potential privacy concerns",
+    "Limited offline functionality"
+  ],
+  "alternatives": [
+    "ABBYY FlexiCapture [abbyy.com]",
+    "Docparser [docparser.com]",
+    "Kofax Capture [kofax.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ABBYY FlexiCapture",
+      "url": "abbyy.com",
+      "reason": "Advanced OCR and form processing capabilities."
+    },
+    {
+      "name": "Docparser",
+      "url": "docparser.com",
+      "reason": "Strong parsing options for various document types."
+    },
+    {
+      "name": "Kofax Capture",
+      "url": "kofax.com",
+      "reason": "Integrates with existing systems and processes."
+    }
+  ],
+  "tags": [
+    "data extraction",
+    "AI",
+    "document management",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://extracta.ai/",
+  "documentationUrl": "https://extracta.ai/documentation",
+  "githubUrl": "https://github.com/search?q=extracta&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/extracta_ai.png",
+  "screenshot_640": "/screenshots/extracta_ai_640.png",
+  "screenshot_400": "/screenshots/extracta_ai_400.png",
+  "updatedAt": "2025-05-10T04:17:26.178Z"
+}
