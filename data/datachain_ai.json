@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datachain.ai/",
+  "name": "DataChain",
+  "title": "datachain.ai",
+  "payoff": "AI Data Management at Scale",
+  "shortDescription": "DataChain specializes in managing large-scale unstructured data for various industries, from startups to Fortune 500 companies. It leverages AI to enhance data curation, enrichment, and versioning, making it easier to handle complex data types like videos, PDFs, and audio files. An example use case is a tech company using DataChain to streamline their data processing workflows, ensuring data integrity and accelerating development.",
+  "pros": [
+    "Accelerates development with Python-based tools",
+    "Supports traceability and reproducibility of datasets",
+    "Cloud-agnostic storage and efficient data handling"
+  ],
+  "cons": [
+    "May require Python knowledge for maximum efficiency",
+    "Potentially high learning curve for non-technical users",
+    "Dependence on external storage solutions"
+  ],
+  "alternatives": [
+    "Databricks [databricks.com]",
+    "Talend [talend.com]",
+    "Informatica [informatica.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Databricks",
+      "url": "databricks.com",
+      "reason": "Offers scalable data analytics"
+    },
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Integrates data and applications"
+    },
+    {
+      "name": "Informatica",
+      "url": "informatica.com",
+      "reason": "Focuses on cloud data management"
+    }
+  ],
+  "tags": [
+    "data management",
+    "AI",
+    "data curation",
+    "unstructured data"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://datachain.ai/",
+  "documentationUrl": "https://datachain.ai/docs",
+  "githubUrl": "https://github.com/iterative/datachain",
+  "twitterUrl": "https://twitter.com/DVCorg",
+  "screenshot": "/screenshots/datachain_ai.png",
+  "screenshot_640": "/screenshots/datachain_ai_640.png",
+  "screenshot_400": "/screenshots/datachain_ai_400.png",
+  "updatedAt": "2025-05-10T03:34:49.172Z"
+}

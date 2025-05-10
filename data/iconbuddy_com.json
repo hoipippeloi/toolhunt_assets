@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://iconbuddy.com/",
+  "name": "Iconbuddy",
+  "title": "iconbuddy.com",
+  "payoff": "250K+ free svg icons",
+  "shortDescription": "Iconbuddy offers a vast library of over 250,000 open-source SVG icons that can be searched, edited, and downloaded instantly. It is designed for designers, developers, and content creators who need customizable icons for web and app projects. Users can integrate these icons directly into tools like Figma or VS Code, enhancing their design workflows.",
+  "pros": [
+    "Extensive library of icons",
+    "Fully editable SVG formats",
+    "Integrations with design tools"
+  ],
+  "cons": [
+    "Overwhelming number of choices",
+    "Possible quality variance across icons",
+    "No direct customer support mentioned"
+  ],
+  "alternatives": [
+    "FontAwesome [fontawesome.com]",
+    "Flaticon [flaticon.com]",
+    "Icons8 [icons8.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "FontAwesome",
+      "url": "fontawesome.com",
+      "reason": "Wide variety of icons and kits"
+    },
+    {
+      "name": "Flaticon",
+      "url": "flaticon.com",
+      "reason": "Large database of free icons"
+    },
+    {
+      "name": "Icons8",
+      "url": "icons8.com",
+      "reason": "Icons, photos, and design tools"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "SVG icons",
+    "open source",
+    "icon library"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://iconbuddy.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=iconbuddy&type=repositories",
+  "twitterUrl": "https://twitter.com/iconbuddyapp",
+  "screenshot": "/screenshots/iconbuddy_com.png",
+  "screenshot_640": "/screenshots/iconbuddy_com_640.png",
+  "screenshot_400": "/screenshots/iconbuddy_com_400.png",
+  "updatedAt": "2025-05-10T03:34:31.393Z"
+}
