@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://releasesapp.com/",
+  "name": "Releases",
+  "title": "releasesapp.com",
+  "payoff": "Sleek changelog software",
+  "shortDescription": "Releases is a changelog software designed to help teams announce product updates effectively. It's ideal for companies looking to maintain a transparent record of updates, new features, and bug fixes. Users can easily create and manage release notes within a clean, intuitive interface. An example use case is a software development team using Releases to keep their user base informed about the latest product enhancements and fixes.",
+  "pros": [
+    "One-time payment with no subscription",
+    "Intuitive and customizable user interface",
+    "Supports emojis, screenshots, and detailed notes"
+  ],
+  "cons": [
+    "Limited to changelog functionality",
+    "No free tier available",
+    "Limited customer support options"
+  ],
+  "alternatives": [
+    "Beamer [getbeamer.com]",
+    "Headway [headwayapp.co]",
+    "Noticeable [noticeable.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Beamer",
+      "url": "getbeamer.com",
+      "reason": "Offers similar changelog features"
+    },
+    {
+      "name": "Headway",
+      "url": "headwayapp.co",
+      "reason": "Focuses on user-friendly interfaces"
+    },
+    {
+      "name": "Noticeable",
+      "url": "noticeable.io",
+      "reason": "Integrates with various platforms"
+    }
+  ],
+  "tags": [
+    "changelog",
+    "release notes",
+    "product updates",
+    "software tools"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://releasesapp.com/",
+  "documentationUrl": "https://help.releasesapp.com/faq/how-can-i-contact-you-directly",
+  "githubUrl": "https://github.com/search?q=releases&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/releasesapp_com.png",
+  "screenshot_640": "/screenshots/releasesapp_com_640.png",
+  "screenshot_400": "/screenshots/releasesapp_com_400.png",
+  "updatedAt": "2025-05-10T05:39:59.385Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://crustdata.com/",
+  "name": "Crustdata",
+  "title": "crustdata.com",
+  "payoff": "Real-time B2B data solutions",
+  "shortDescription": "Crustdata provides real-time data on companies and individuals, ideal for businesses looking to enhance their AI capabilities. It allows users to build lists, enrich them with live data, and target accurately. Example use case: A sales team uses Crustdata to keep their CRM updated with the latest information on potential leads, ensuring they never miss an opportunity.",
+  "pros": [
+    "Provides real-time data updates",
+    "Supports AI-driven decision making",
+    "Monthly refreshed bulk data delivery"
+  ],
+  "cons": [
+    "Data may be overwhelming without proper filters",
+    "Monthly refresh might not be sufficient for some users",
+    "High dependency on external data sources"
+  ],
+  "alternatives": [
+    "ZoomInfo [zoominfo.com]",
+    "Clearbit [clearbit.com]",
+    "DiscoverOrg [discoverorg.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ZoomInfo",
+      "url": "zoominfo.com",
+      "reason": "Offers detailed B2B contact data"
+    },
+    {
+      "name": "Clearbit",
+      "url": "clearbit.com",
+      "reason": "Provides real-time data enrichment"
+    },
+    {
+      "name": "DiscoverOrg",
+      "url": "discoverorg.com",
+      "reason": "Focuses on high-quality data for sales"
+    }
+  ],
+  "tags": [
+    "B2B data",
+    "real-time data",
+    "data broker",
+    "API"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Data Sync",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://crustdata.com/",
+  "documentationUrl": "https://crustdata.com/docs",
+  "githubUrl": "https://github.com/search?q=crustdata&type=repositories",
+  "twitterUrl": "https://x.com/crustdata",
+  "screenshot": "/screenshots/crustdata_com.png",
+  "screenshot_640": "/screenshots/crustdata_com_640.png",
+  "screenshot_400": "/screenshots/crustdata_com_400.png",
+  "updatedAt": "2025-05-10T05:41:10.343Z"
+}

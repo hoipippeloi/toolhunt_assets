@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://code.visualstudio.com/",
+  "name": "Visual Studio Code",
+  "title": "code.visualstudio.com",
+  "payoff": "Code Editing. Redefined",
+  "shortDescription": "Visual Studio Code is a powerful and versatile code editor designed for developers of all skill levels. It supports numerous programming languages and integrates AI features to enhance coding efficiency. Users can customize their experience with extensions and access their codebase on various devices. An example use case is a developer using VS Code to write, debug, and deploy applications seamlessly across different platforms.",
+  "pros": [
+    "Integrates with AI for advanced code suggestions",
+    "Highly customizable with extensions",
+    "Supports remote development environments"
+  ],
+  "cons": [
+    "Can be resource-intensive on older machines",
+    "Steep learning curve for advanced features",
+    "Occasional lag with large files or extensions"
+  ],
+  "alternatives": [
+    "Sublime Text [sublimetext.com]",
+    "Atom [atom.io]",
+    "IntelliJ IDEA [jetbrains.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Lightweight and fast editor"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and customizable"
+    },
+    {
+      "name": "IntelliJ IDEA",
+      "url": "jetbrains.com",
+      "reason": "Advanced features for Java"
+    }
+  ],
+  "tags": [
+    "code editor",
+    "AI integration",
+    "extensible",
+    "multi-language support"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://code.visualstudio.com/",
+  "documentationUrl": "https://code.visualstudio.com/docs",
+  "githubUrl": "https://github.com/microsoft/vscode",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/code_visualstudio_com.png",
+  "screenshot_640": "/screenshots/code_visualstudio_com_640.png",
+  "screenshot_400": "/screenshots/code_visualstudio_com_400.png",
+  "updatedAt": "2025-05-10T05:41:05.851Z"
+}
