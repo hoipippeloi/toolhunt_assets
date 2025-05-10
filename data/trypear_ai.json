@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://trypear.ai/",
+  "name": "PearAI",
+  "title": "trypear.ai",
+  "payoff": "Supercharge your project development",
+  "shortDescription": "PearAI integrates leading AI tools into a single code editor, designed to enhance project development from inception to scale. It's ideal for developers seeking to streamline their coding process with AI-powered features like bug fixes, code suggestions, and context-aware assistance. Example use: A developer uses PearAI to quickly adapt to Swift iOS, improving productivity significantly within a month.",
+  "pros": [
+    "Integrates multiple AI tools in one editor",
+    "Contextual understanding of codebase",
+    "Open source and supports various programming languages"
+  ],
+  "cons": [
+    "May be overwhelming for beginners",
+    "Dependent on third-party AI integrations",
+    "Potential privacy concerns with development environment access"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "Sublime Text [sublimetext.com]",
+    "Atom [atom.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Extensive plugin support, highly customizable"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and lightweight with powerful API"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and community-driven development"
+    }
+  ],
+  "tags": [
+    "AI",
+    "code editor",
+    "open source",
+    "software development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://trypear.ai/",
+  "documentationUrl": "https://trypear.ai/documentation",
+  "githubUrl": "https://github.com/trypear/pearai-master",
+  "twitterUrl": "https://x.com/trypearai",
+  "screenshot": "/screenshots/trypear_ai.png",
+  "screenshot_640": "/screenshots/trypear_ai_640.png",
+  "screenshot_400": "/screenshots/trypear_ai_400.png",
+  "updatedAt": "2025-05-10T01:05:55.505Z"
+}

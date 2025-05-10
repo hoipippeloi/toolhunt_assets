@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://marimo.io/",
+  "name": "marimo",
+  "title": "marimo.io",
+  "payoff": "Reactive Python notebooks made easy",
+  "shortDescription": "marimo is an innovative open-source Python notebook designed for modern developers. It integrates seamlessly with Git, supports reactive execution, and allows for the creation of interactive notebooks that can be shared as web apps. Ideal for data scientists and developers, marimo simplifies the process from development to production, making it easier to manage and share complex Python projects.",
+  "pros": [
+    "Git integration for easy version control",
+    "Reactive execution to automate cell updates",
+    "Export options to WebAssembly for web sharing"
+  ],
+  "cons": [
+    "Limited language support, only Python",
+    "Potentially steep learning curve for beginners",
+    "Dependency on Python ecosystem for full functionality"
+  ],
+  "alternatives": [
+    "Jupyter Notebook [jupyter.org]",
+    "Google Colab [colab.research.google.com]",
+    "Observable [observablehq.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jupyter Notebook",
+      "url": "jupyter.org",
+      "reason": "Popular, versatile notebook tool"
+    },
+    {
+      "name": "Google Colab",
+      "url": "colab.research.google.com",
+      "reason": "Cloud-based with free GPU access"
+    },
+    {
+      "name": "Observable",
+      "url": "observablehq.com",
+      "reason": "Interactive data visualization focus"
+    }
+  ],
+  "tags": [
+    "Python",
+    "notebook",
+    "data science",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://marimo.io/",
+  "documentationUrl": "https://marimo.io/docs",
+  "githubUrl": "https://github.com/marimo-team/marimo",
+  "twitterUrl": "https://x.com/antgoldbloom/status/1819413855078175020",
+  "screenshot": "/screenshots/marimo_io.png",
+  "screenshot_640": "/screenshots/marimo_io_640.png",
+  "screenshot_400": "/screenshots/marimo_io_400.png",
+  "updatedAt": "2025-05-10T01:05:39.416Z"
+}
