@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://edu.google.com/",
+  "name": "Google Workspace for Education",
+  "title": "edu.google.com",
+  "payoff": "Empower learning with Google tools",
+  "shortDescription": "Google Workspace for Education offers a comprehensive suite of tools designed to enhance the educational experience. It provides solutions tailored for K-12 and higher education institutions, facilitating collaboration, productivity, and learning innovation. Example use cases include virtual classrooms, collaborative projects, and administrative management.",
+  "pros": [
+    "Comprehensive educational tools",
+    "Scalable and flexible solutions",
+    "FERPA compliant for security"
+  ],
+  "cons": [
+    "Can be complex to fully integrate",
+    "Requires internet connectivity",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Microsoft 365 Education [microsoft.com/education]",
+    "Canvas LMS [instructure.com]",
+    "Blackboard [blackboard.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft 365 Education",
+      "url": "microsoft.com/education",
+      "reason": "Offers similar comprehensive tools"
+    },
+    {
+      "name": "Canvas LMS",
+      "url": "instructure.com",
+      "reason": "Popular in educational institutions"
+    },
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used for online learning"
+    }
+  ],
+  "tags": [
+    "education",
+    "collaboration",
+    "productivity",
+    "cloud platform"
+  ],
+  "apiUsed": true,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://edu.google.com/",
+  "documentationUrl": "https://edu.google.com/workspace-for-education/",
+  "githubUrl": "https://github.com/search?q=google%20workspace%20for%20education&type=repositories",
+  "twitterUrl": "https://twitter.com/googleforedu/",
+  "screenshot": "/screenshots/edu_google_com.png",
+  "screenshot_640": "/screenshots/edu_google_com_640.png",
+  "screenshot_400": "/screenshots/edu_google_com_400.png",
+  "updatedAt": "2025-05-10T10:42:04.159Z"
+}

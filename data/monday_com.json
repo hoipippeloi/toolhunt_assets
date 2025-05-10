@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://monday.com/",
+  "name": "monday.com",
+  "title": "monday.com",
+  "payoff": "Empower work with AI integration",
+  "shortDescription": "monday.com is a versatile work management platform designed to streamline workflows, enhance team visibility, and facilitate smart decision-making through integrated AI. It caters to businesses of all sizes, from startups to enterprises, offering tools for CRM, project management, and more. An example use case is a company using monday.com to manage multiple projects across different departments, improving collaboration and efficiency.",
+  "pros": [
+    "AI-enhanced features for smarter workflows",
+    "Highly customizable and scalable",
+    "Widely trusted with a large user base"
+  ],
+  "cons": [
+    "Can be overwhelming due to its versatility",
+    "Potentially high cost for larger teams",
+    "Steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "ClickUp [clickup.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers similar project management features"
+    },
+    {
+      "name": "Wrike",
+      "url": "wrike.com",
+      "reason": "Focuses on collaborative work management"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Excel-like interface with deep customizability"
+    }
+  ],
+  "tags": [
+    "project management",
+    "CRM",
+    "AI",
+    "workflow automation"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://monday.com/",
+  "documentationUrl": "https://monday.com/developers/v2",
+  "githubUrl": "https://github.com/search?q=monday%20com&type=repositories",
+  "twitterUrl": "https://twitter.com/mondaydotcom",
+  "screenshot": "/screenshots/monday_com.png",
+  "screenshot_640": "/screenshots/monday_com_640.png",
+  "screenshot_400": "/screenshots/monday_com_400.png",
+  "updatedAt": "2025-05-10T10:43:09.718Z"
+}

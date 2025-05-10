@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://instructure.com/canvas",
+  "name": "Canvas LMS",
+  "title": "instructure.com",
+  "payoff": "Simplify Teaching & Learning",
+  "shortDescription": "Canvas LMS is a learning management system designed to streamline educational processes. It serves K-12 and higher education institutions by providing tools to organize coursework, enhance communication, and facilitate online learning environments. An example use case is a school district implementing Canvas to provide a unified platform for both students and teachers to manage their educational content and communication effectively.",
+  "pros": [
+    "Comprehensive educational tools integration",
+    "User-friendly interface for all education levels",
+    "Robust data analytics for educational insights"
+  ],
+  "cons": [
+    "Can be overwhelming due to feature richness",
+    "Potential privacy concerns with extensive data collection",
+    "Dependence on internet connectivity for full functionality"
+  ],
+  "alternatives": [
+    "Blackboard [blackboard.com]",
+    "Moodle [moodle.org]",
+    "Schoology [schoology.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in higher education settings"
+    },
+    {
+      "name": "Moodle",
+      "url": "moodle.org",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "Schoology",
+      "url": "schoology.com",
+      "reason": "Focus on K-12 with strong collaboration tools"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Education Management",
+    "Learning Platform",
+    "Course Management"
+  ],
+  "apiUsed": true,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://instructure.com/canvas",
+  "documentationUrl": "https://community.canvaslms.com/t5/Canvas/ct-p/canvas",
+  "githubUrl": "https://github.com/search?q=canvas%20lms&type=repositories",
+  "twitterUrl": "https://twitter.com/Instructure",
+  "screenshot": "/screenshots/instructure_com.png",
+  "screenshot_640": "/screenshots/instructure_com_640.png",
+  "screenshot_400": "/screenshots/instructure_com_400.png",
+  "updatedAt": "2025-05-10T10:43:07.959Z"
+}
