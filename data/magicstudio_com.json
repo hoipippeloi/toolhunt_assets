@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://magicstudio.com/",
+  "name": "Magic Studio",
+  "title": "magicstudio.com",
+  "payoff": "Create images easily with AI",
+  "shortDescription": "Magic Studio leverages artificial intelligence to enable users to create stunning images for various applications such as product pages, ads, and social media posts. It's designed for users without any design skills, offering tools like background removal, object erasure, and scene transformation. An example use case is a small business owner creating engaging ads quickly without hiring a designer.",
+  "pros": [
+    "No design skills required",
+    "Rapid image creation and editing",
+    "AI-driven tools for ease of use"
+  ],
+  "cons": [
+    "Limited to image editing",
+    "Potential privacy concerns",
+    "May not replace professional design tools"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers extensive design templates"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional-grade design features"
+    },
+    {
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Similar features with video support"
+    }
+  ],
+  "tags": [
+    "AI",
+    "image editing",
+    "design tools",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://magicstudio.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=magic%20studio&type=repositories",
+  "twitterUrl": "https://twitter.com/MagicStudio",
+  "screenshot": "/screenshots/magicstudio_com.png",
+  "screenshot_640": "/screenshots/magicstudio_com_640.png",
+  "screenshot_400": "/screenshots/magicstudio_com_400.png",
+  "updatedAt": "2025-05-10T23:12:54.515Z"
+}
