@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wakapi.dev/",
+  "name": "Wakapi",
+  "title": "wakapi.dev",
+  "payoff": "Track coding time efficiently",
+  "shortDescription": "Wakapi is an open-source tool designed to help developers monitor the time spent on various coding projects across different programming languages. It's ideal for statistics enthusiasts and provides insights into coding habits. Users can benefit from detailed statistics, visual plots, and even public leaderboards to compare progress.",
+  "pros": [
+    "100% free and open-source",
+    "Detailed statistics and visual plots",
+    "Compatible with Wakatime"
+  ],
+  "cons": [
+    "Limited to coding time tracking",
+    "No direct support for non-coding activities",
+    "Self-hosted setup might be complex for some users"
+  ],
+  "alternatives": [
+    "Wakatime [wakatime.com]",
+    "Toggl Track [toggl.com]",
+    "RescueTime [rescuetime.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wakatime",
+      "url": "wakatime.com",
+      "reason": "Offers comprehensive developer metrics"
+    },
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Features time tracking across tasks"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Provides automated time tracking"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "productivity",
+    "open source",
+    "developer tools"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://wakapi.dev/",
+  "documentationUrl": "https://wakapi.dev/docs",
+  "githubUrl": "https://github.com/muety/wakapi#%EF%B8%8F-how-to-use",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/wakapi_dev.png",
+  "screenshot_640": "/screenshots/wakapi_dev_640.png",
+  "screenshot_400": "/screenshots/wakapi_dev_400.png",
+  "updatedAt": "2025-05-10T04:43:48.229Z"
+}

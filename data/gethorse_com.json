@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gethorse.com/",
+  "name": "Horse Browser",
+  "title": "gethorse.com",
+  "payoff": "Organise your internet with Trails®",
+  "shortDescription": "Horse Browser revolutionizes web browsing by eliminating traditional tabs and bookmarks, focusing on productivity and organization. Designed for professionals, it allows users to manage tasks and projects efficiently through a unique feature called Trails®. Users can create Trails® for different projects or clients, seamlessly accessing documents and web pages, which saves time and reduces stress.",
+  "pros": [
+    "Enhances productivity by organizing web pages into Trails®",
+    "Reduces daily stress by eliminating cluttered tabs",
+    "Saves time by streamlining task and project management"
+  ],
+  "cons": [
+    "Lack of traditional browser features like tabs and history",
+    "May have a learning curve for new users",
+    "Limited browser compatibility and extensions"
+  ],
+  "alternatives": [
+    "Vivaldi [vivaldi.com]",
+    "Opera [opera.com]",
+    "Firefox [mozilla.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Vivaldi",
+      "url": "vivaldi.com",
+      "reason": "Offers extensive customization and tab management"
+    },
+    {
+      "name": "Opera",
+      "url": "opera.com",
+      "reason": "Includes integrated tools and a focus on speed"
+    },
+    {
+      "name": "Firefox",
+      "url": "mozilla.org",
+      "reason": "Highly customizable with strong privacy features"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "web browser",
+    "task management",
+    "organization"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Task Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://gethorse.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=horse%20browser&type=repositories",
+  "twitterUrl": "https://x.com/Horse_Browser",
+  "screenshot": "/screenshots/gethorse_com.png",
+  "screenshot_640": "/screenshots/gethorse_com_640.png",
+  "screenshot_400": "/screenshots/gethorse_com_400.png",
+  "updatedAt": "2025-05-10T04:43:28.339Z"
+}
