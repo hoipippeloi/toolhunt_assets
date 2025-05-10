@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sticky.studio/",
+  "name": "Sticky Studio",
+  "title": "sticky.studio",
+  "payoff": "Get unstuck, together",
+  "shortDescription": "Sticky Studio is a collaborative tool designed to enhance team productivity and creativity. It offers features like unlimited boards, invite-only boards, and real-time comments, making it ideal for teams needing a flexible and secure platform for brainstorming and project planning. Example use case: A design team uses Sticky Studio to create and iterate on project concepts, leveraging templates and avatars for a personalized experience.",
+  "pros": [
+    "Unlimited boards for extensive projects",
+    "Real-time collaboration features",
+    "Highly customizable permissions and templates"
+  ],
+  "cons": [
+    "May be overwhelming for small teams",
+    "Lacks integration with other tools",
+    "No clear pricing information available"
+  ],
+  "alternatives": [
+    "Miro [miro.com]",
+    "Trello [trello.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Miro",
+      "url": "miro.com",
+      "reason": "Offers visual collaboration across teams"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for task and project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive task and project tracking"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "project management",
+    "productivity",
+    "teamwork"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://sticky.studio/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=sticky%20studio&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/sticky_studio.png",
+  "screenshot_640": "/screenshots/sticky_studio_640.png",
+  "screenshot_400": "/screenshots/sticky_studio_400.png",
+  "updatedAt": "2025-05-10T06:18:22.364Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://diffusion.studio/",
+  "name": "Diffusion Studio",
+  "title": "diffusion.studio",
+  "payoff": "Next-Gen Video Rendering Engine",
+  "shortDescription": "Diffusion Studio is a cutting-edge video composer and rendering engine designed for generative models across various modalities. It allows users to craft prompts while managing the edits seamlessly. Primarily aimed at developers and content creators in the digital media industry, Diffusion Studio offers a use case where rapid, in-browser video processing is critical, such as real-time content generation in San Francisco, CA.",
+  "pros": [
+    "High-speed WebCodecs renderer",
+    "Seamless integration with AI models",
+    "Optimized for in-browser video processing"
+  ],
+  "cons": [
+    "Limited to video processing",
+    "May require high technical skill",
+    "Focused on a niche market"
+  ],
+  "alternatives": [
+    "Adobe After Effects [adobe.com]",
+    "Blender [blender.org]",
+    "DaVinci Resolve [blackmagicdesign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe After Effects",
+      "url": "adobe.com",
+      "reason": "Industry standard for video effects"
+    },
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Open source and comprehensive 3D creation"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Professional editing and color correction"
+    }
+  ],
+  "tags": [
+    "video rendering",
+    "motion graphics",
+    "AI integration",
+    "in-browser processing"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://diffusion.studio/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/diffusionstudio",
+  "twitterUrl": "https://x.com/diffusionhq",
+  "screenshot": "/screenshots/diffusion_studio.png",
+  "screenshot_640": "/screenshots/diffusion_studio_640.png",
+  "screenshot_400": "/screenshots/diffusion_studio_400.png",
+  "updatedAt": "2025-05-10T06:19:01.581Z"
+}
