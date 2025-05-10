@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fisglobal.com/",
+  "name": "Fidelity Information Services",
+  "title": "fisglobal.com",
+  "payoff": "Harmonizing global financial technology",
+  "shortDescription": "Fidelity Information Services (FIS) specializes in financial technology solutions across the entire money lifecycle. This includes services for money at rest, in motion, and at work, catering to various sectors such as banking, investments, and insurance. An example use case is their digital banking platforms that integrate seamless transaction processing with robust security measures.",
+  "pros": [
+    "Comprehensive financial technology solutions",
+    "Supports a wide range of industries",
+    "Advanced security and compliance features"
+  ],
+  "cons": [
+    "Complex system integration may be required",
+    "Potentially high cost for small businesses",
+    "Can be overwhelming due to extensive features"
+  ],
+  "alternatives": [
+    "Square [squareup.com]",
+    "Intuit QuickBooks [quickbooks.intuit.com]",
+    "SAP [sap.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Stripe",
+      "url": "stripe.com",
+      "reason": "Offers streamlined payment processing"
+    },
+    {
+      "name": "Adyen",
+      "url": "adyen.com",
+      "reason": "Global payment solutions with broad integration"
+    },
+    {
+      "name": "PayPal",
+      "url": "paypal.com",
+      "reason": "Widely used for secure online transactions"
+    }
+  ],
+  "tags": [
+    "fintech",
+    "digital banking",
+    "financial services",
+    "technology solutions"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1968,
+  "websiteUrl": "https://fisglobal.com/",
+  "documentationUrl": "https://fisglobal.com/documentation",
+  "githubUrl": "https://github.com/search?q=fidelity%20information%20services&type=repositories",
+  "twitterUrl": "https://twitter.com/fisglobal",
+  "screenshot": "/screenshots/fisglobal_com.png",
+  "screenshot_640": "/screenshots/fisglobal_com_640.png",
+  "screenshot_400": "/screenshots/fisglobal_com_400.png",
+  "updatedAt": "2025-05-10T08:17:20.094Z"
+}
