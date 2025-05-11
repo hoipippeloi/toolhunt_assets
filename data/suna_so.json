@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://suna.so/",
+  "name": "Kortix Suna",
+  "title": "suna.so",
+  "payoff": "Your AI Employee",
+  "shortDescription": "Suna by Kortix is a versatile AI agent designed to autonomously perform a variety of tasks on behalf of users. It is ideal for individuals and businesses needing automated assistance with data analysis, report generation, and market research. Example use case: Suna can analyze the healthcare market in the UK, identifying key players and generating comprehensive reports.",
+  "pros": [
+    "Fully open source",
+    "Supports complex autonomous tasks",
+    "Customizable to user needs"
+  ],
+  "cons": [
+    "May require technical skill to deploy",
+    "Dependent on external data sources",
+    "Limited by AI's current capabilities"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepMind [deepmind.com]",
+    "Hugging Face [huggingface.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and applications"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Advanced AI research and solutions"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Community-driven AI models"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "data analysis",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://suna.so/",
+  "documentationUrl": "https://suna.so/documentation",
+  "githubUrl": "https://github.com/kortix-ai/suna",
+  "twitterUrl": "https://x.com/kortixai",
+  "screenshot": "/screenshots/suna_so.png",
+  "screenshot_640": "/screenshots/suna_so_640.png",
+  "screenshot_400": "/screenshots/suna_so_400.png",
+  "updatedAt": "2025-05-11T11:41:27.511Z"
+}

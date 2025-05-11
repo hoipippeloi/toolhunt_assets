@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ladybird.org/",
+  "name": "Ladybird",
+  "title": "ladybird.org",
+  "payoff": "A truly independent web browser",
+  "shortDescription": "Ladybird is a new, non-profit backed web browser designed for users who value privacy and open web standards. It is being developed from scratch, ensuring high performance, stability, and security without user monetization tactics like crypto tokens or default search deals. Ideal for developers and users seeking a transparent, community-driven browsing experience.",
+  "pros": [
+    "No user monetization tactics",
+    "Open source and community-driven",
+    "Supports multiple Unix-like systems"
+  ],
+  "cons": [
+    "Still in development, not yet released",
+    "Limited platform support compared to major browsers",
+    "No established user base or proven market performance"
+  ],
+  "alternatives": [
+    "Mozilla Firefox [mozilla.org]",
+    "Google Chrome [google.com/chrome]",
+    "Brave Browser [brave.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mozilla Firefox",
+      "url": "mozilla.org",
+      "reason": "Well-established, open-source browser"
+    },
+    {
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Popular browser with extensive support"
+    },
+    {
+      "name": "Brave Browser",
+      "url": "brave.com",
+      "reason": "Focuses on privacy and ad-blocking"
+    }
+  ],
+  "tags": [
+    "web browser",
+    "open source",
+    "non-profit",
+    "web standards"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2026,
+  "websiteUrl": "https://ladybird.org/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/LadybirdBrowser/ladybird",
+  "twitterUrl": "https://x.com/awesomekling/status/1822236888188498031",
+  "screenshot": "/screenshots/ladybird_org.png",
+  "screenshot_640": "/screenshots/ladybird_org_640.png",
+  "screenshot_400": "/screenshots/ladybird_org_400.png",
+  "updatedAt": "2025-05-11T11:41:04.590Z"
+}
