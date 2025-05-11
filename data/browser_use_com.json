@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://browser-use.com/",
+  "name": "Browser Use",
+  "title": "browser-use.com",
+  "payoff": "AI-powered browser automation",
+  "shortDescription": "Browser Use enables AI to interact with websites that lack APIs by extracting all interactive elements. This tool is designed for developers and businesses looking to automate browser tasks without coding. Users can quickly start with an intuitive UI and have custom agents built to meet specific needs. An example use case is automating data entry on websites for market research.",
+  "pros": [
+    "No installation required",
+    "Custom agent development",
+    "Intuitive user interface"
+  ],
+  "cons": [
+    "Limited to browser tasks",
+    "No clear pricing information",
+    "Dependent on website changes"
+  ],
+  "alternatives": [
+    "Puppeteer [pptr.dev]",
+    "Selenium [selenium.dev]",
+    "UiPath [uipath.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Puppeteer",
+      "url": "pptr.dev",
+      "reason": "Offers low-level browser control"
+    },
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Widely used for browser automation"
+    },
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Robust enterprise automation"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "browser automation",
+    "AI",
+    "no code"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://browser-use.com/",
+  "documentationUrl": "https://docs.browser-use.com/",
+  "githubUrl": "https://github.com/gregpr07/browser-use",
+  "twitterUrl": "https://x.com/gregpr07",
+  "screenshot": "/screenshots/browser_use_com.png",
+  "screenshot_640": "/screenshots/browser_use_com_640.png",
+  "screenshot_400": "/screenshots/browser_use_com_400.png",
+  "updatedAt": "2025-05-11T11:48:25.355Z"
+}

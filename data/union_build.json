@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://union.build/",
+  "name": "Union",
+  "title": "union.build",
+  "payoff": "Next-gen chain abstraction",
+  "shortDescription": "Union is designed to revolutionize the way applications interact across different blockchain environments. It offers a robust protocol for subsecond messaging and application-specific transfers, catering to developers and enterprises looking to enhance interoperability in a decentralized ecosystem. Example use case includes facilitating real-time data exchange between different blockchain platforms without compromising on security or efficiency.",
+  "pros": [
+    "Supports multiple VMs including EVMs and SVMs",
+    "Real-time messaging and data transfers",
+    "Highly interoperable with various execution environments"
+  ],
+  "cons": [
+    "Complex setup for non-technical users",
+    "May require understanding of various blockchain technologies",
+    "Limited information on user support and community"
+  ],
+  "alternatives": [
+    "Cosmos [cosmos.network]",
+    "Polkadot [polkadot.network]",
+    "Chainlink [chain.link]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Cosmos",
+      "url": "cosmos.network",
+      "reason": "Focuses on interoperability between chains"
+    },
+    {
+      "name": "Polkadot",
+      "url": "polkadot.network",
+      "reason": "Enables cross-blockchain transfers"
+    },
+    {
+      "name": "Chainlink",
+      "url": "chain.link",
+      "reason": "Provides real-time data feeds"
+    }
+  ],
+  "tags": [
+    "blockchain",
+    "interoperability",
+    "real-time",
+    "data transfer"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://union.build/",
+  "documentationUrl": "https://union.build/docs",
+  "githubUrl": "https://github.com/unionlabs/union",
+  "twitterUrl": "https://x.com/union_build",
+  "screenshot": "/screenshots/union_build.png",
+  "screenshot_640": "/screenshots/union_build_640.png",
+  "screenshot_400": "/screenshots/union_build_400.png",
+  "updatedAt": "2025-05-11T11:48:18.819Z"
+}
