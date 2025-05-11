@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://integralhq.com/",
+  "name": "Integral",
+  "title": "integralhq.com",
+  "payoff": "Real conversations in online communities",
+  "shortDescription": "Integral is designed to enhance the experience of online community interactions. It focuses on reducing chaos in platforms like Discord and Slack by filtering out low-value notifications. This allows users to engage in meaningful conversations without the overwhelming clutter. Ideal for community builders seeking a more organized and valuable interaction space, Integral could be used to manage a tech community where depth and quality of discussions are prioritized over quantity.",
+  "pros": [
+    "Reduces notification clutter",
+    "Focuses on high-value interactions",
+    "Supports major platforms like iOS and macOS"
+  ],
+  "cons": [
+    "Limited to newer operating systems",
+    "May not support all community platforms",
+    "Potential privacy concerns not addressed"
+  ],
+  "alternatives": [
+    "Discord [discord.com]",
+    "Slack [slack.com]",
+    "Telegram [telegram.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Discord",
+      "url": "discord.com",
+      "reason": "Popular for community chats with robust API"
+    },
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Widely used in professional settings with integrations"
+    },
+    {
+      "name": "Telegram",
+      "url": "telegram.org",
+      "reason": "Strong focus on privacy and speed"
+    }
+  ],
+  "tags": [
+    "community management",
+    "notification filtering",
+    "user engagement"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Messaging",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://integralhq.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=integral&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/integralhq_com.png",
+  "screenshot_640": "/screenshots/integralhq_com_640.png",
+  "screenshot_400": "/screenshots/integralhq_com_400.png",
+  "updatedAt": "2025-05-11T01:12:11.333Z"
+}

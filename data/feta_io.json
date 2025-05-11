@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://feta.io/",
+  "name": "Feta",
+  "title": "feta.io",
+  "payoff": "Efficient meetings for teams",
+  "shortDescription": "Feta streamlines the meeting process for product and engineering teams by integrating tasks and discussions into a single, manageable workflow. It reduces pre-meeting preparation by syncing tasks from tools like GitHub and Jira into a Kanban view, and enhances post-meeting productivity by automatically updating project management tools with new tasks and comments. An example use case is a development team using Feta to organize daily stand-ups, where they can quickly review open tasks and PRs, discuss blockers, and plan their day effectively.",
+  "pros": [
+    "Integrates with major project management tools",
+    "Automates task and meeting note updates",
+    "Provides smart meeting summaries and actionable insights"
+  ],
+  "cons": [
+    "May be overly complex for smaller teams",
+    "Dependent on third-party service integrations",
+    "Potential privacy concerns with extensive data collection"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Monday.com [monday.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers broader project management features"
+    },
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Facilitates team communication and integration"
+    },
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Focused on agile project management"
+    }
+  ],
+  "tags": [
+    "project management",
+    "team collaboration",
+    "meeting efficiency",
+    "task synchronization"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://feta.io/",
+  "documentationUrl": "https://feta.io/docs",
+  "githubUrl": "https://github.com/search?q=feta&type=repositories",
+  "twitterUrl": "https://x.com/feta_io",
+  "screenshot": "/screenshots/feta_io.png",
+  "screenshot_640": "/screenshots/feta_io_640.png",
+  "screenshot_400": "/screenshots/feta_io_400.png",
+  "updatedAt": "2025-05-11T01:11:45.528Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tryeasel.dev/",
+  "name": "Easel",
+  "title": "tryeasel.dev",
+  "payoff": "From Idea to Interface in Seconds",
+  "shortDescription": "Easel transforms your ideas into user interfaces instantly using natural language prompts. It's designed for developers who face delays waiting for design assets and tweaking CSS. An example use case is a developer quickly generating and implementing UI components without waiting for design team inputs.",
+  "pros": [
+    "Rapid UI development from natural language",
+    "No waiting for design assets",
+    "Easy integration into existing projects"
+  ],
+  "cons": [
+    "May not replace detailed design customization",
+    "Dependent on accurate natural language input",
+    "Potential limitations in design complexity"
+  ],
+  "alternatives": [
+    "Figma [figma.com]",
+    "Sketch [sketch.com]",
+    "Adobe XD [adobe.com/products/xd.html]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Popular UI design tool with collaboration features"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Vector-based design tool for UI and UX"
+    },
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com/products/xd.html",
+      "reason": "Comprehensive tool for design and prototyping"
+    }
+  ],
+  "tags": [
+    "UI design",
+    "rapid development",
+    "natural language processing",
+    "integration"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://tryeasel.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=easel&type=repositories",
+  "twitterUrl": "https://x.com/PullifyAI",
+  "screenshot": "/screenshots/tryeasel_dev.png",
+  "screenshot_640": "/screenshots/tryeasel_dev_640.png",
+  "screenshot_400": "/screenshots/tryeasel_dev_400.png",
+  "updatedAt": "2025-05-11T01:11:25.208Z"
+}
