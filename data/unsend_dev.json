@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://unsend.dev/",
+  "name": "Unsend",
+  "title": "unsend.dev",
+  "payoff": "Effortless sending infrastructure",
+  "shortDescription": "Unsend provides a comprehensive solution for developers to send transactional and marketing emails, SMSes, and push notifications. It simplifies integration, allowing developers to set up in minutes and focus on content creation while handling subscriptions. Ideal for businesses looking to engage customers without the hassle of complex setups. Example use case: E-commerce stores sending order confirmations and promotional campaigns.",
+  "pros": [
+    "Easy integration and setup",
+    "Supports multiple communication channels",
+    "Open source flexibility"
+  ],
+  "cons": [
+    "Limited brand recognition",
+    "Potential lack of advanced features",
+    "Dependence on community support"
+  ],
+  "alternatives": [
+    "Sendgrid [sendgrid.com]",
+    "Mailgun [mailgun.com]",
+    "Postmark [postmarkapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sendgrid",
+      "url": "sendgrid.com",
+      "reason": "Widely used for scalable email solutions"
+    },
+    {
+      "name": "Mailgun",
+      "url": "mailgun.com",
+      "reason": "Strong API for developers"
+    },
+    {
+      "name": "Postmark",
+      "url": "postmarkapp.com",
+      "reason": "Focus on transactional emails"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "marketing tools",
+    "open source",
+    "developer tools"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://unsend.dev/",
+  "documentationUrl": "https://docs.unsend.dev/",
+  "githubUrl": "https://github.com/unsend-dev/unsend",
+  "twitterUrl": "https://twitter.com/unsend_dev",
+  "screenshot": "/screenshots/unsend_dev.png",
+  "screenshot_640": "/screenshots/unsend_dev_640.png",
+  "screenshot_400": "/screenshots/unsend_dev_400.png",
+  "updatedAt": "2025-05-11T03:42:54.210Z"
+}
