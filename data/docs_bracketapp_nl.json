@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docs.bracketapp.nl/",
+  "name": "Bracket",
+  "title": "bracketapp.nl",
+  "payoff": "Manage tournaments freely and openly",
+  "shortDescription": "Bracket is a free, open-source tournament management system designed to offer flexibility and ease of use for organizing sports or gaming events. Users can build tournament setups, schedule matches, and track scores, all while presenting live rankings to the public. It's ideal for community organizers, sports leagues, and gaming tournaments looking for a customizable and cost-effective solution.",
+  "pros": [
+    "Open-source and free to use",
+    "Flexible setup for various tournament types",
+    "No vendor lock-in or data collection"
+  ],
+  "cons": [
+    "Limited support compared to paid tools",
+    "May require technical skill to deploy",
+    "Lesser-known compared to mainstream solutions"
+  ],
+  "alternatives": [
+    "Challonge [challonge.com]",
+    "Battlefy [battlefy.com]",
+    "Smash.gg [smash.gg]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Challonge",
+      "url": "challonge.com",
+      "reason": "Offers robust tournament tools with a focus on gaming"
+    },
+    {
+      "name": "Battlefy",
+      "url": "battlefy.com",
+      "reason": "Comprehensive esports management platform"
+    },
+    {
+      "name": "Smash.gg",
+      "url": "smash.gg",
+      "reason": "Popular in competitive gaming communities"
+    }
+  ],
+  "tags": [
+    "tournament management",
+    "open source",
+    "event organization",
+    "sports management"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://docs.bracketapp.nl/",
+  "documentationUrl": "https://docs.bracketapp.nl/",
+  "githubUrl": "https://github.com/evroon/bracket",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/docs_bracketapp_nl.png",
+  "screenshot_640": "/screenshots/docs_bracketapp_nl_640.png",
+  "screenshot_400": "/screenshots/docs_bracketapp_nl_400.png",
+  "updatedAt": "2025-05-11T11:44:32.836Z"
+}

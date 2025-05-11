@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beekeeperstudio.io/",
+  "name": "Beekeeper Studio",
+  "title": "beekeeperstudio.io",
+  "payoff": "Dream SQL Editor & Database Manager",
+  "shortDescription": "Beekeeper Studio is a powerful SQL editor and database management tool designed for developers and database administrators. It supports multiple database types and offers features like SQL auto-completion, table editing, and data export. Users can manage databases efficiently with features such as SSL encryption, SSH tunneling, and query saving. An example use case is a developer managing database schemas and executing queries without switching between different tools.",
+  "pros": [
+    "Intuitive and clean user interface",
+    "Supports offline work and respects privacy",
+    "Open source with a community edition"
+  ],
+  "cons": [
+    "Limited to database management and editing",
+    "May require technical knowledge to fully utilize",
+    "No built-in support for broader data analytics"
+  ],
+  "alternatives": [
+    "DBeaver [dbeaver.io]",
+    "TablePlus [tableplus.com]",
+    "SQLyog [webyog.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DBeaver",
+      "url": "dbeaver.io",
+      "reason": "Extensive database support and customization"
+    },
+    {
+      "name": "TablePlus",
+      "url": "tableplus.com",
+      "reason": "Modern GUI and high performance"
+    },
+    {
+      "name": "SQLyog",
+      "url": "webyog.com",
+      "reason": "Comprehensive tools for MySQL"
+    }
+  ],
+  "tags": [
+    "SQL editor",
+    "database management",
+    "open source",
+    "data export"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://beekeeperstudio.io/",
+  "documentationUrl": "https://docs.beekeeperstudio.io",
+  "githubUrl": "https://github.com/beekeeper-studio/beekeeper-studio/blob/master/code_of_conduct.md",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/beekeeperstudio_io.png",
+  "screenshot_640": "/screenshots/beekeeperstudio_io_640.png",
+  "screenshot_400": "/screenshots/beekeeperstudio_io_400.png",
+  "updatedAt": "2025-05-11T11:45:01.573Z"
+}
