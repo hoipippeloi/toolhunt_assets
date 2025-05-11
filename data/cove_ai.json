@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cove.ai/",
+  "name": "Cove",
+  "title": "cove.ai",
+  "payoff": "AI-driven collaborative workspace",
+  "shortDescription": "Cove is an innovative AI tool designed to enhance collaboration and productivity across various domains such as personal planning, work, education, and more. Unlike traditional chatbots, Cove integrates AI into a shared workspace, allowing users to interact with AI-generated content like text, tables, and apps. Example use case: Creating a personalized itinerary for a trip to Austin.",
+  "pros": [
+    "Creates personalized AI apps on demand",
+    "Supports a wide range of content types",
+    "Facilitates collaborative idea development"
+  ],
+  "cons": [
+    "May require a learning curve",
+    "Dependent on the quality of LLMs",
+    "Potential privacy concerns with shared workspaces"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Airtable [airtable.com]",
+    "Coda [coda.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with integrations"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Database meets spreadsheet functionality"
+    },
+    {
+      "name": "Coda",
+      "url": "coda.io",
+      "reason": "Docs that blend text and apps together"
+    }
+  ],
+  "tags": [
+    "AI",
+    "collaboration",
+    "productivity",
+    "personalization"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2022,
+  "websiteUrl": "https://cove.ai/",
+  "documentationUrl": "https://help.cove.ai/",
+  "githubUrl": "https://github.com/search?q=cove&type=repositories",
+  "twitterUrl": "https://x.com/trycoveai",
+  "screenshot": "/screenshots/cove_ai.png",
+  "screenshot_640": "/screenshots/cove_ai_640.png",
+  "screenshot_400": "/screenshots/cove_ai_400.png",
+  "updatedAt": "2025-05-11T04:45:39.887Z"
+}

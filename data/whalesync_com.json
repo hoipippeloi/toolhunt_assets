@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://whalesync.com/",
+  "name": "Whalesync",
+  "title": "whalesync.com",
+  "payoff": "Sync content from a spreadsheet",
+  "shortDescription": "Whalesync allows users to update their website, CRM, or app directly from a spreadsheet like Airtable, Notion, or Google Sheets. It is designed for businesses of all sizes, enabling seamless two-way synchronization without needing technical skills. For example, marketing teams can create and update pages using just their spreadsheets, seeing changes reflected in real-time across platforms.",
+  "pros": [
+    "Real-time two-way data sync",
+    "No technical skills required",
+    "Integrates with popular tools like Airtable and Notion"
+  ],
+  "cons": [
+    "Dependent on third-party spreadsheet tools",
+    "Potential issues with large data sets",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Airtable [airtable.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers broader automation with many apps"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database and spreadsheet functions"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to app integration"
+    }
+  ],
+  "tags": [
+    "data sync",
+    "content management",
+    "no-code",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Data Sync",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://whalesync.com/",
+  "documentationUrl": "https://whalesync.com/docs",
+  "githubUrl": "https://github.com/search?q=whalesync&type=repositories",
+  "twitterUrl": "https://twitter.com/WhalesyncData",
+  "screenshot": "/screenshots/whalesync_com.png",
+  "screenshot_640": "/screenshots/whalesync_com_640.png",
+  "screenshot_400": "/screenshots/whalesync_com_400.png",
+  "updatedAt": "2025-05-11T04:44:13.687Z"
+}
