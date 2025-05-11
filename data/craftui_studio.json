@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://craftui.studio/",
+  "name": "CraftUI",
+  "title": "craftui.studio",
+  "payoff": "Effortless UI creation",
+  "shortDescription": "CraftUI revolutionizes the way designers and developers create user interfaces. By allowing users to convert sketches and text prompts into fully functional UIs with a single click, CraftUI caters to both seasoned professionals and novices. An example use case is a designer quickly turning a hand-drawn layout into a polished web interface during a client meeting, enhancing productivity and client engagement.",
+  "pros": [
+    "Rapid conversion from sketch to UI",
+    "Supports text and image inputs",
+    "Streamlines the design process"
+  ],
+  "cons": [
+    "May not handle complex designs well",
+    "Limited customization options",
+    "Dependent on initial input quality"
+  ],
+  "alternatives": [
+    "Figma [figma.com]",
+    "Adobe XD [adobe.com/products/xd.html]",
+    "Sketch [sketch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Offers collaborative design features"
+    },
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com/products/xd.html",
+      "reason": "Comprehensive toolset for UI/UX design"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Focused on vector UI design"
+    }
+  ],
+  "tags": [
+    "Design Tools",
+    "UI/UX",
+    "Automation",
+    "Visual Builder"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://craftui.studio/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/imhardikdesai",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/craftui_studio.png",
+  "screenshot_640": "/screenshots/craftui_studio_640.png",
+  "screenshot_400": "/screenshots/craftui_studio_400.png",
+  "updatedAt": "2025-05-11T05:14:20.384Z"
+}
