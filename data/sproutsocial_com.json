@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sproutsocial.com/",
+  "name": "Sprout Social",
+  "title": "sproutsocial.com",
+  "payoff": "Streamline social media management",
+  "shortDescription": "Sprout Social offers comprehensive tools for managing social media across multiple platforms. It helps businesses streamline customer care, content management, and analytics. An example use case is a marketing team using Sprout to schedule posts, analyze engagement data, and collaborate on social strategy, enhancing overall efficiency and impact.",
+  "pros": [
+    "Comprehensive analytics and reporting",
+    "Multi-platform content management",
+    "Influencer and employee advocacy tools"
+  ],
+  "cons": [
+    "Potentially high cost for small businesses",
+    "Complex features may require training",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "HubSpot [hubspot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Offers broad social media management"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Focuses on scheduling and analytics"
+    },
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Integrates social media with CRM"
+    }
+  ],
+  "tags": [
+    "social media management",
+    "analytics",
+    "content delivery",
+    "customer engagement"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://sproutsocial.com/",
+  "documentationUrl": "https://sproutsocial.com/insights/sprout-social-documentation/",
+  "githubUrl": "https://github.com/search?q=sprout%20social&type=repositories",
+  "twitterUrl": "https://x.com/sproutsocial",
+  "screenshot": "/screenshots/sproutsocial_com.png",
+  "screenshot_640": "/screenshots/sproutsocial_com_640.png",
+  "screenshot_400": "/screenshots/sproutsocial_com_400.png",
+  "updatedAt": "2025-05-11T17:52:08.461Z"
+}

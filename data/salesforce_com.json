@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://salesforce.com/",
-  "name": "Salesforce",
+  "sourceUrl": "https://salesforce.com/commerce/",
+  "name": "Salesforce Commerce Cloud",
   "title": "salesforce.com",
-  "payoff": "Grow faster and work smarter",
-  "shortDescription": "Salesforce is a comprehensive CRM platform that integrates marketing, sales, commerce, service, and IT teams. It allows businesses of all sizes to manage customer relationships effectively from anywhere, enhancing customer satisfaction and business growth. Example use case: A small business uses Salesforce to streamline its customer service and sales processes, achieving better customer engagement and increased sales.",
+  "payoff": "Empower commerce with AI",
+  "shortDescription": "Salesforce Commerce Cloud is a comprehensive ecommerce platform designed for businesses looking to manage their B2B, B2C, or D2C operations effectively. It integrates AI to automate sales processes, personalize customer interactions, and optimize operations. Example use case: A retailer uses the platform to manage online sales, personalize marketing, and streamline order management.",
   "pros": [
-    "Unified platform for various business functions",
-    "Scalable solutions for all business sizes",
-    "Extensive free learning resources via Trailhead"
+    "AI-driven personalization",
+    "Unified platform for B2B and B2C",
+    "Comprehensive ecommerce features"
   ],
   "cons": [
-    "Can be complex to configure",
-    "Potentially high cost for small businesses",
-    "Overwhelming features for beginners"
+    "Potentially high cost",
+    "Complexity for smaller businesses",
+    "Requires training for full utilization"
   ],
   "alternatives": [
-    "HubSpot CRM [hubspot.com]",
-    "Zoho CRM [zoho.com]",
-    "Microsoft Dynamics 365 [dynamics.microsoft.com]"
+    "Shopify [shopify.com]",
+    "Magento [magento.com]",
+    "BigCommerce [bigcommerce.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "HubSpot CRM",
-      "url": "hubspot.com",
-      "reason": "Offers marketing automation integration"
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Popular choice with easier setup"
     },
     {
-      "name": "Zoho CRM",
-      "url": "zoho.com",
-      "reason": "Affordable with a broad feature set"
+      "name": "Magento",
+      "url": "magento.com",
+      "reason": "Flexible, open-source platform"
     },
     {
-      "name": "Microsoft Dynamics 365",
-      "url": "dynamics.microsoft.com",
-      "reason": "Deep integration with Microsoft products"
+      "name": "BigCommerce",
+      "url": "bigcommerce.com",
+      "reason": "Strong multi-channel support"
     }
   ],
   "tags": [
-    "CRM",
-    "customer service",
-    "sales management",
-    "marketing automation"
+    "ecommerce",
+    "AI",
+    "CRM integration",
+    "sales automation"
   ],
   "apiUsed": true,
   "department": "Sales",
-  "function": "Customer Relations",
-  "freeTier": true,
+  "function": "E-commerce",
+  "freeTier": false,
   "openSource": false,
   "releasedYear": 1999,
-  "websiteUrl": "https://salesforce.com/",
-  "documentationUrl": "https://developer.salesforce.com/docs/",
-  "githubUrl": "https://github.com/search?q=salesforce&type=repositories",
+  "websiteUrl": "https://salesforce.com/commerce/",
+  "documentationUrl": "https://developer.salesforce.com/docs/commerce",
+  "githubUrl": "https://github.com/search?q=salesforce%20commerce%20cloud&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/salesforce_com.png",
   "screenshot_640": "/screenshots/salesforce_com_640.png",
   "screenshot_400": "/screenshots/salesforce_com_400.png",
-  "updatedAt": "2025-05-09T11:02:02.045Z"
+  "updatedAt": "2025-05-11T17:51:41.344Z"
 }
