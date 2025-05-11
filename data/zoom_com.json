@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zoom.com/",
+  "name": "Zoom",
+  "title": "zoom.com",
+  "payoff": "Connect with AI-first platform",
+  "shortDescription": "Zoom is a comprehensive communication platform that enhances productivity and team effectiveness through features like video meetings, AI companions, and business services. It's designed for businesses of all sizes, enabling seamless collaboration across global teams. Example use case includes virtual meetings, hybrid team collaborations, and customer engagement through advanced communication tools.",
+  "pros": [
+    "Integrates AI features enhancing user experience",
+    "Supports a wide range of industries and functions",
+    "Offers extensive developer tools and APIs"
+  ],
+  "cons": [
+    "Can be complex to navigate for new users",
+    "Potential privacy concerns with video communications",
+    "Dependent on internet quality for performance"
+  ],
+  "alternatives": [
+    "Microsoft Teams [microsoft.com]",
+    "Google Meet [meet.google.com]",
+    "Cisco Webex [webex.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com",
+      "reason": "Offers integrated Office 365 apps"
+    },
+    {
+      "name": "Google Meet",
+      "url": "meet.google.com",
+      "reason": "Seamless integration with Google Workspace"
+    },
+    {
+      "name": "Cisco Webex",
+      "url": "webex.com",
+      "reason": "Strong in enterprise-level security"
+    }
+  ],
+  "tags": [
+    "communication",
+    "collaboration",
+    "video conferencing",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://zoom.com/",
+  "documentationUrl": "https://zoom.com/docs",
+  "githubUrl": "https://github.com/search?q=zoom&type=repositories",
+  "twitterUrl": "https://twitter.com/zoom",
+  "screenshot": "/screenshots/zoom_com.png",
+  "screenshot_640": "/screenshots/zoom_com_640.png",
+  "screenshot_400": "/screenshots/zoom_com_400.png",
+  "updatedAt": "2025-05-11T17:55:11.012Z"
+}

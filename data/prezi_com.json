@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://prezi.com/",
+  "name": "Prezi",
+  "title": "prezi.com",
+  "payoff": "Stunning AI presentations effortlessly",
+  "shortDescription": "Prezi revolutionizes presentation creation with its AI-driven software, designed for various audiences including business, academic, and personal use. Users can start quickly by typing ideas, uploading documents, or importing existing presentations. Prezi's AI assists in writing, designing, and illustrating, ensuring presentations are engaging and visually appealing without relying on templates.",
+  "pros": [
+    "AI-driven presentation creation",
+    "Supports real-time collaboration",
+    "Extensive library of images and media"
+  ],
+  "cons": [
+    "May require learning for new users",
+    "Limited offline functionality",
+    "Potential privacy concerns for sensitive data"
+  ],
+  "alternatives": [
+    "PowerPoint [microsoft.com]",
+    "Google Slides [google.com]",
+    "Canva [canva.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Slides",
+      "url": "google.com",
+      "reason": "Free and integrates with Google Drive"
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "url": "microsoft.com",
+      "reason": "Widely used with extensive features"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers design flexibility and templates"
+    }
+  ],
+  "tags": [
+    "AI",
+    "presentation software",
+    "design tools",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://prezi.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=prezi&type=repositories",
+  "twitterUrl": "https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi",
+  "screenshot": "/screenshots/prezi_com.png",
+  "screenshot_640": "/screenshots/prezi_com_640.png",
+  "screenshot_400": "/screenshots/prezi_com_400.png",
+  "updatedAt": "2025-05-11T17:56:04.093Z"
+}
