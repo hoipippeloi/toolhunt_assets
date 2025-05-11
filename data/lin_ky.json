@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lin.ky/",
+  "name": "Linky",
+  "title": "lin.ky",
+  "payoff": "A delightfully rich link-in-bio.",
+  "shortDescription": "Linky is a versatile link-in-bio tool designed to enhance online presence for individuals and brands. It integrates seamlessly with various platforms, allowing users to display live stats, photos, videos, and more. The drag-and-drop builder makes it easy to create and customize pages that look great on both mobile and desktop. Ideal for influencers, marketers, and content creators, Linky simplifies content aggregation and page management, making it a go-to for engaging audience interaction.",
+  "pros": [
+    "Easy drag-and-drop page builder",
+    "Automatically updates content",
+    "Customizable design for mobile and desktop"
+  ],
+  "cons": [
+    "Limited to link-in-bio functionality",
+    "May require frequent updates",
+    "Dependent on third-party platform integrations"
+  ],
+  "alternatives": [
+    "Linktree [linktr.ee]",
+    "Campsite [campsite.bio]",
+    "ContactInBio [contactin.bio]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Linktree",
+      "url": "linktr.ee",
+      "reason": "Popular link-in-bio tool with similar features."
+    },
+    {
+      "name": "Campsite",
+      "url": "campsite.bio",
+      "reason": "Offers customizable bio link pages."
+    },
+    {
+      "name": "ContactInBio",
+      "url": "contactin.bio",
+      "reason": "Integrates more business tools."
+    }
+  ],
+  "tags": [
+    "link-in-bio",
+    "content management",
+    "page builder",
+    "social media integration"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://lin.ky/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/trylinky/linky",
+  "twitterUrl": "https://x.com/trylinky",
+  "screenshot": "/screenshots/lin_ky.png",
+  "screenshot_640": "/screenshots/lin_ky_640.png",
+  "screenshot_400": "/screenshots/lin_ky_400.png",
+  "updatedAt": "2025-05-11T04:18:20.672Z"
+}

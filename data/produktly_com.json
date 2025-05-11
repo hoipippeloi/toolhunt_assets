@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://produktly.com/",
+  "name": "Produktly",
+  "title": "produktly.com",
+  "payoff": "Empower software with better tools",
+  "shortDescription": "Produktly enhances software usability and adoption through a suite of engagement tools like product tours, checklists, and feedback widgets. It's designed for companies aiming to improve user experience without extensive developer involvement. An example use case is a tech startup using Produktly to streamline new user onboarding and feature adoption, thereby increasing retention and user satisfaction.",
+  "pros": [
+    "Comprehensive onboarding tools",
+    "Supports large and small companies",
+    "Offers actionable user feedback"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Limited customization options",
+    "Potential dependency on continuous updates"
+  ],
+  "alternatives": [
+    "Pendo [pendo.io]",
+    "WalkMe [walkme.com]",
+    "UserGuiding [userguiding.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pendo",
+      "url": "pendo.io",
+      "reason": "Offers in-depth analytics and guidance"
+    },
+    {
+      "name": "WalkMe",
+      "url": "walkme.com",
+      "reason": "Focuses on digital adoption platforms"
+    },
+    {
+      "name": "UserGuiding",
+      "url": "userguiding.com",
+      "reason": "Simple, no-code setup for onboarding"
+    }
+  ],
+  "tags": [
+    "user engagement",
+    "product management",
+    "onboarding",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://produktly.com/",
+  "documentationUrl": "https://produktly.com/docs",
+  "githubUrl": "https://github.com/search?q=produktly&type=repositories",
+  "twitterUrl": "https://twitter.com/produktly_app",
+  "screenshot": "/screenshots/produktly_com.png",
+  "screenshot_640": "/screenshots/produktly_com_640.png",
+  "screenshot_400": "/screenshots/produktly_com_400.png",
+  "updatedAt": "2025-05-11T04:18:53.409Z"
+}
