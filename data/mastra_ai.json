@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mastra.ai/",
+  "name": "Mastra",
+  "title": "mastra.ai",
+  "payoff": "Prototype AI with JavaScript",
+  "shortDescription": "Mastra is a TypeScript-based framework designed to streamline the development of AI features using a modern JavaScript stack. It is particularly suited for developers looking to quickly prototype and deploy AI agents. An example use case could be building intelligent agents that manage customer interactions on e-commerce platforms, enhancing both efficiency and customer experience.",
+  "pros": [
+    "Easy to use SDK",
+    "Modern JavaScript integration",
+    "Supports persistent memory in threads"
+  ],
+  "cons": [
+    "Limited to TypeScript",
+    "May require JavaScript knowledge",
+    "Focused primarily on AI agents"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "TensorFlow.js [tensorflow.org]",
+    "Microsoft Bot Framework [dev.botframework.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers comprehensive AI models"
+    },
+    {
+      "name": "TensorFlow.js",
+      "url": "tensorflow.org",
+      "reason": "Client-side ML in JavaScript"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "url": "dev.botframework.com",
+      "reason": "Builds versatile AI bots"
+    }
+  ],
+  "tags": [
+    "AI",
+    "TypeScript",
+    "JavaScript",
+    "SDK"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mastra.ai/",
+  "documentationUrl": "https://mastra.ai/docs",
+  "githubUrl": "https://github.com/mastra-ai/mastra",
+  "twitterUrl": "https://x.com/RichardsonDx/status/1894228136486687145",
+  "screenshot": "/screenshots/mastra_ai.png",
+  "screenshot_640": "/screenshots/mastra_ai_640.png",
+  "screenshot_400": "/screenshots/mastra_ai_400.png",
+  "updatedAt": "2025-05-11T02:58:57.812Z"
+}
