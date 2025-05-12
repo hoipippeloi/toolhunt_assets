@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docusign.com/",
+  "name": "Docusign",
+  "title": "docusign.com",
+  "payoff": "Manage agreements with AI efficiency",
+  "shortDescription": "Docusign revolutionizes agreement management by integrating electronic signatures with intelligent tools. It's designed for businesses of all sizes, enabling them to streamline processes from contract creation to execution. Example use case: A company uses Docusign to automate the employee onboarding process, ensuring all contracts are signed and stored efficiently.",
+  "pros": [
+    "Streamlines agreement processes",
+    "Supports electronic signatures globally",
+    "Offers robust AI-powered tools"
+  ],
+  "cons": [
+    "Can be complex to integrate",
+    "Pricing may be prohibitive for small businesses",
+    "Limited customization in lower-tier plans"
+  ],
+  "alternatives": [
+    "Adobe Sign [adobe.com]",
+    "HelloSign [hellosign.com]",
+    "PandaDoc [pandadoc.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Sign",
+      "url": "adobe.com",
+      "reason": "Offers similar e-signature solutions"
+    },
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Simple interface and integration"
+    },
+    {
+      "name": "PandaDoc",
+      "url": "pandadoc.com",
+      "reason": "Focus on sales and marketing docs"
+    }
+  ],
+  "tags": [
+    "E-Signatures",
+    "Document Management",
+    "AI",
+    "Compliance"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "E-Signatures",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2003,
+  "websiteUrl": "https://docusign.com/",
+  "documentationUrl": "https://developers.docusign.com/docs/",
+  "githubUrl": "https://github.com/search?q=docusign&type=repositories",
+  "twitterUrl": "https://twitter.com/DocuSign",
+  "screenshot": "/screenshots/docusign_com.png",
+  "screenshot_640": "/screenshots/docusign_com_640.png",
+  "screenshot_400": "/screenshots/docusign_com_400.png",
+  "updatedAt": "2025-05-12T13:11:50.804Z"
+}

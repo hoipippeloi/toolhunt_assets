@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://netdocuments.com/",
+  "name": "NetDocuments",
+  "title": "netdocuments.com",
+  "payoff": "Intelligent document management",
+  "shortDescription": "NetDocuments offers a cloud-based document and email management system designed primarily for legal firms and departments. It facilitates secure document handling, collaboration, and automation using AI. Legal professionals can manage documents, integrate with Microsoft Teams, and utilize AI for workflow automation, enhancing productivity and compliance.",
+  "pros": [
+    "Advanced AI features for automation",
+    "Strong integration with Microsoft products",
+    "Highly secure and compliant for legal use"
+  ],
+  "cons": [
+    "Primarily focused on legal industry",
+    "Potential complexity in initial setup",
+    "May be costly for smaller firms"
+  ],
+  "alternatives": [
+    "Clio [clio.com]",
+    "iManage [imanage.com]",
+    "Thomson Reuters Legal [legal.thomsonreuters.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Clio",
+      "url": "clio.com",
+      "reason": "Popular in legal tech for management"
+    },
+    {
+      "name": "iManage",
+      "url": "imanage.com",
+      "reason": "Strong document handling features"
+    },
+    {
+      "name": "Thomson Reuters Legal",
+      "url": "legal.thomsonreuters.com",
+      "reason": "Comprehensive legal solutions"
+    }
+  ],
+  "tags": [
+    "document management",
+    "legal technology",
+    "AI automation",
+    "cloud storage"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1999,
+  "websiteUrl": "https://netdocuments.com/",
+  "documentationUrl": "https://support.netdocuments.com",
+  "githubUrl": "https://github.com/search?q=netdocuments&type=repositories",
+  "twitterUrl": "https://twitter.com/netdocuments/",
+  "screenshot": "/screenshots/netdocuments_com.png",
+  "screenshot_640": "/screenshots/netdocuments_com_640.png",
+  "screenshot_400": "/screenshots/netdocuments_com_400.png",
+  "updatedAt": "2025-05-12T13:12:28.792Z"
+}

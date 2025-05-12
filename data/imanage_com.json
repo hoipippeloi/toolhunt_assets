@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://imanage.com/",
+  "name": "iManage",
+  "title": "imanage.com",
+  "payoff": "Making Knowledge Work",
+  "shortDescription": "iManage is a comprehensive knowledge work platform designed to enhance document and email management, security, and compliance across various industries. It integrates AI to streamline processes and improve productivity. For example, law firms use iManage to manage case documents securely and efficiently, ensuring compliance and reducing risk.",
+  "pros": [
+    "Integrates AI for advanced data management",
+    "Robust security and compliance features",
+    "Supports a wide range of industries"
+  ],
+  "cons": [
+    "May be complex to implement",
+    "Potentially high cost for small firms",
+    "Requires training for optimal use"
+  ],
+  "alternatives": [
+    "NetDocuments [netdocuments.com]",
+    "M-Files [m-files.com]",
+    "DocuWare [docuware.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NetDocuments",
+      "url": "netdocuments.com",
+      "reason": "Cloud-based document management"
+    },
+    {
+      "name": "M-Files",
+      "url": "m-files.com",
+      "reason": "AI-driven document control"
+    },
+    {
+      "name": "DocuWare",
+      "url": "docuware.com",
+      "reason": "Automates workflows and management"
+    }
+  ],
+  "tags": [
+    "document management",
+    "email management",
+    "AI",
+    "compliance"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1998,
+  "websiteUrl": "https://imanage.com/",
+  "documentationUrl": "https://imanage.com/support/documentation/",
+  "githubUrl": "https://github.com/search?q=imanage&type=repositories",
+  "twitterUrl": "https://twitter.com/imanageinc",
+  "screenshot": "/screenshots/imanage_com.png",
+  "screenshot_640": "/screenshots/imanage_com_640.png",
+  "screenshot_400": "/screenshots/imanage_com_400.png",
+  "updatedAt": "2025-05-12T13:10:18.279Z"
+}
