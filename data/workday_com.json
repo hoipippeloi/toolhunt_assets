@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workday.com/",
+  "name": "Workday",
+  "title": "workday.com",
+  "payoff": "AI platform for business management",
+  "shortDescription": "Workday offers a comprehensive suite of enterprise software solutions, integrating financial management, human capital management, and operational planning. Designed for a wide range of industries, Workday provides tools to manage finance, HR, and planning needs in one platform. Example use case: A multinational corporation uses Workday to streamline HR processes and enhance financial operations across global offices.",
+  "pros": [
+    "Integrates various business functions",
+    "Advanced AI capabilities",
+    "Industry-specific solutions"
+  ],
+  "cons": [
+    "Can be complex to implement",
+    "High cost for small businesses",
+    "Requires training for optimal use"
+  ],
+  "alternatives": [
+    "SAP SuccessFactors [successfactors.com]",
+    "Oracle Cloud HCM [oracle.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SAP SuccessFactors",
+      "url": "successfactors.com",
+      "reason": "Comprehensive HR suite with global reach"
+    },
+    {
+      "name": "Oracle Cloud HCM",
+      "url": "oracle.com",
+      "reason": "Extensive integration options and analytics"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "Flexible and adaptable enterprise solution"
+    }
+  ],
+  "tags": [
+    "Enterprise Resource Planning",
+    "Human Capital Management",
+    "Financial Planning",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Human Resources",
+  "function": "Enterprise Planning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2005,
+  "websiteUrl": "https://workday.com/",
+  "documentationUrl": "https://workday.com/en-us/documentation.html",
+  "githubUrl": "https://github.com/search?q=workday&type=repositories",
+  "twitterUrl": "https://x.com/workday",
+  "screenshot": "/screenshots/workday_com.png",
+  "screenshot_640": "/screenshots/workday_com_640.png",
+  "screenshot_400": "/screenshots/workday_com_400.png",
+  "updatedAt": "2025-05-12T08:10:46.156Z"
+}

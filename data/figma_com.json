@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://figma.com/",
+  "name": "Figma",
+  "title": "figma.com",
+  "payoff": "Collaborative Interface Design Tool",
+  "shortDescription": "Figma is a versatile interface design tool that enables users to create, prototype, and collaborate on digital projects in real-time. It's designed for designers, developers, and project teams to streamline the design process and enhance productivity. Example use cases include web design, app development, and creating interactive presentations.",
+  "pros": [
+    "Real-time collaboration across teams",
+    "Integrated prototyping and design tools",
+    "Extensive third-party integrations"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Requires internet connection for full functionality",
+    "Limited offline capabilities"
+  ],
+  "alternatives": [
+    "Adobe XD [adobe.com]",
+    "Sketch [sketch.com]",
+    "InVision [invisionapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers similar design and prototyping tools"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Focus on vector UI design with a Mac focus"
+    },
+    {
+      "name": "InVision",
+      "url": "invisionapp.com",
+      "reason": "Strong in prototyping and collaboration features"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "prototyping",
+    "collaboration",
+    "interface design"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://figma.com/",
+  "documentationUrl": "https://help.figma.com/",
+  "githubUrl": "https://github.com/search?q=figma&type=repositories",
+  "twitterUrl": "https://x.com/figma",
+  "screenshot": "/screenshots/figma_com.png",
+  "screenshot_640": "/screenshots/figma_com_640.png",
+  "screenshot_400": "/screenshots/figma_com_400.png",
+  "updatedAt": "2025-05-12T08:11:12.771Z"
+}
