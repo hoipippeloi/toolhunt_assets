@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://amadeus.com/en",
+  "name": "Amadeus",
+  "title": "amadeus.com",
+  "payoff": "It’s how travel works.",
+  "shortDescription": "Amadeus is a comprehensive travel technology platform that facilitates smarter, smoother, and faster travel operations. It serves various segments of the travel industry including airlines, airports, and corporate travel. For example, airlines utilize Amadeus to optimize passenger service through advanced reservation systems.",
+  "pros": [
+    "Wide range of solutions for different travel sectors",
+    "Partnerships with major industry players like Microsoft",
+    "Focus on sustainability and efficiency in travel"
+  ],
+  "cons": [
+    "Complexity of features can be overwhelming",
+    "Potential high cost for comprehensive services",
+    "Dependence on travel industry stability"
+  ],
+  "alternatives": [
+    "Sabre [sabre.com]",
+    "Travelport [travelport.com]",
+    "KAYAK [kayak.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sabre",
+      "url": "sabre.com",
+      "reason": "Offers similar travel tech solutions."
+    },
+    {
+      "name": "Travelport",
+      "url": "travelport.com",
+      "reason": "Another global travel commerce platform."
+    },
+    {
+      "name": "KAYAK",
+      "url": "kayak.com",
+      "reason": "Focuses on travel search and booking."
+    }
+  ],
+  "tags": [
+    "travel technology",
+    "booking systems",
+    "corporate travel",
+    "airline solutions"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1987,
+  "websiteUrl": "https://amadeus.com/en",
+  "documentationUrl": "https://amadeus.com/en/support",
+  "githubUrl": "https://github.com/search?q=amadeus&type=repositories",
+  "twitterUrl": "https://www.vision-box.com/",
+  "screenshot": "/screenshots/amadeus_com.png",
+  "screenshot_640": "/screenshots/amadeus_com_640.png",
+  "screenshot_400": "/screenshots/amadeus_com_400.png",
+  "updatedAt": "2025-05-12T04:50:20.470Z"
+}

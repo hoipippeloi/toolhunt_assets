@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://oracle.com/erp/",
-  "name": "Oracle ERP",
+  "sourceUrl": "https://oracle.com/hospitality/",
+  "name": "Oracle Hospitality",
   "title": "oracle.com",
-  "payoff": "Complete cloud ERP with AI integration",
-  "shortDescription": "Oracle ERP is a comprehensive cloud-based enterprise resource planning suite designed to automate and streamline business processes across finance, HR, and supply chain management. It integrates advanced AI capabilities to enhance decision-making and operational efficiency. An example use case is a multinational corporation using Oracle ERP to manage financial operations, project management, and compliance across various global branches.",
+  "payoff": "Efficient operations from lobby to back office",
+  "shortDescription": "Oracle Hospitality provides integrated technology solutions for the hospitality industry, focusing on efficient operations across various sectors including hotels, cruises, and restaurants. It offers tools like property management systems, POS, and loyalty programs to enhance guest experiences and streamline operations. An example use case is a hotel using Oracle's OPERA Cloud to manage reservations and guest services seamlessly.",
   "pros": [
-    "Advanced AI and machine learning integration",
-    "Comprehensive suite covering a wide range of ERP needs",
-    "Continuous updates for competitive advantage"
+    "Integrated solutions across hospitality sectors",
+    "Cloud-based systems for scalability",
+    "Enhanced guest experience through technology"
   ],
   "cons": [
     "Potentially high cost of implementation",
-    "Complexity may require significant training",
-    "Possible over-reliance on vendor for updates"
+    "Complexity in integration with existing systems",
+    "Possible steep learning curve for new users"
   ],
   "alternatives": [
-    "SAP ERP [sap.com]",
-    "Microsoft Dynamics 365 [dynamics.microsoft.com]",
-    "Workday [workday.com]"
+    "Amadeus Hospitality [amadeus-hospitality.com]",
+    "Sabre Hospitality Solutions [sabrehospitality.com]",
+    "Cloudbeds [cloudbeds.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "SAP ERP",
-      "url": "sap.com",
-      "reason": "Broad integration options and industry coverage"
+      "name": "Amadeus Hospitality",
+      "url": "amadeus-hospitality.com",
+      "reason": "Wide range of hospitality solutions"
     },
     {
-      "name": "Microsoft Dynamics 365",
-      "url": "dynamics.microsoft.com",
-      "reason": "Flexible, hybrid deployment options"
+      "name": "Sabre Hospitality Solutions",
+      "url": "sabrehospitality.com",
+      "reason": "Strong in hotel and travel technology"
     },
     {
-      "name": "Workday",
-      "url": "workday.com",
-      "reason": "Strong HR and financial management features"
+      "name": "Cloudbeds",
+      "url": "cloudbeds.com",
+      "reason": "Simplified property management software"
     }
   ],
   "tags": [
-    "ERP",
-    "cloud",
-    "AI",
-    "analytics"
+    "hospitality management",
+    "property management",
+    "POS",
+    "customer loyalty"
   ],
   "apiUsed": true,
-  "department": "Finance & Accounting",
+  "department": "Operations",
   "function": "Enterprise Planning",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2012,
-  "websiteUrl": "https://oracle.com/erp/",
-  "documentationUrl": "https://docs.oracle.com/en/cloud/saas/applications-common/",
-  "githubUrl": "https://github.com/search?q=oracle%20erp&type=repositories",
+  "releasedYear": 2016,
+  "websiteUrl": "https://oracle.com/hospitality/",
+  "documentationUrl": "https://www.oracle.com/hospitality/documentation/",
+  "githubUrl": "https://github.com/search?q=oracle%20hospitality&type=repositories",
   "twitterUrl": "https://twitter.com/oracle",
   "screenshot": "/screenshots/oracle_com.png",
   "screenshot_640": "/screenshots/oracle_com_640.png",
   "screenshot_400": "/screenshots/oracle_com_400.png",
-  "updatedAt": "2025-05-09T10:56:27.986Z"
+  "updatedAt": "2025-05-12T04:50:20.211Z"
 }
