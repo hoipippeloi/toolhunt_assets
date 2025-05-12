@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://revolut.com/",
+  "name": "Revolut",
+  "title": "revolut.com",
+  "payoff": "All-in-one finance app",
+  "shortDescription": "Revolut is a versatile finance app designed to simplify money management, investment, and international transactions. It caters to a wide range of users, from everyday spenders to global travelers. Users can manage their salaries, invest in stocks and commodities, and enjoy benefits across different subscription plans. An example use case is a traveler using Revolut to manage expenses and investments while abroad, benefiting from real-time currency exchange and travel insurance.",
+  "pros": [
+    "Comprehensive financial management tools",
+    "Supports multiple currencies and international use",
+    "Variety of subscription plans with added benefits"
+  ],
+  "cons": [
+    "Complex fee structure for various services",
+    "Investment options come with capital risk",
+    "Not all services are regulated by financial authorities"
+  ],
+  "alternatives": [
+    "N26 [n26.com]",
+    "Monzo [monzo.com]",
+    "Wise [wise.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "N26",
+      "url": "n26.com",
+      "reason": "Offers a similar digital banking experience"
+    },
+    {
+      "name": "Monzo",
+      "url": "monzo.com",
+      "reason": "Focuses on budgeting and UK banking"
+    },
+    {
+      "name": "Wise",
+      "url": "wise.com",
+      "reason": "Specializes in international money transfers"
+    }
+  ],
+  "tags": [
+    "personal finance",
+    "investment",
+    "multi-currency",
+    "mobile banking"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Personal Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://revolut.com/",
+  "documentationUrl": "https://help.revolut.com/help/wealth/stocks/trading-stocks/trading-fees/what-fees-will-i-be-charged-for-my-trading/",
+  "githubUrl": "https://github.com/search?q=revolut&type=repositories",
+  "twitterUrl": "https://twitter.com/RevolutApp",
+  "screenshot": "/screenshots/revolut_com.png",
+  "screenshot_640": "/screenshots/revolut_com_640.png",
+  "screenshot_400": "/screenshots/revolut_com_400.png",
+  "updatedAt": "2025-05-12T07:15:55.932Z"
+}
