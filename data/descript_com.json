@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://descript.com/",
+  "name": "Descript",
+  "title": "descript.com",
+  "payoff": "Edit Videos & Podcasts Like a Doc",
+  "shortDescription": "Descript is a powerful tool designed for editing videos and podcasts with ease, mimicking the simplicity of document editing. It's ideal for content creators, marketers, and educators who require efficient multimedia editing capabilities. Users can leverage AI features for tasks like automatic transcription, video clipping, and voice cloning, streamlining the production process for various projects such as marketing videos, educational content, and professional podcasts.",
+  "pros": [
+    "Intuitive editing interface",
+    "Advanced AI features",
+    "High-quality transcription and captioning"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Dependent on internet connection for cloud-based features",
+    "Potential privacy concerns with AI voice cloning"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "Audacity [audacityteam.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry standard for video editing"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Preferred by Mac users for video editing"
+    },
+    {
+      "name": "Audacity",
+      "url": "audacityteam.org",
+      "reason": "Open source and widely used for audio editing"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "podcast editing",
+    "AI",
+    "multimedia"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://descript.com/",
+  "documentationUrl": "https://docs.descript.com",
+  "githubUrl": "https://github.com/search?q=descript&type=repositories",
+  "twitterUrl": "https://twitter.com/descriptapp/",
+  "screenshot": "/screenshots/descript_com.png",
+  "screenshot_640": "/screenshots/descript_com_640.png",
+  "screenshot_400": "/screenshots/descript_com_400.png",
+  "updatedAt": "2025-05-12T14:31:12.260Z"
+}

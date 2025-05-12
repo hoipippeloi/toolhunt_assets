@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://heygen.com/",
+  "name": "HeyGen",
+  "title": "heygen.com",
+  "payoff": "Turn text to video in minutes",
+  "shortDescription": "HeyGen is an AI-powered video generator that allows users to create unlimited videos without needing a camera. It's designed for marketers, creators, and businesses looking to enhance their digital content. Users can clone themselves, use stock avatars, or generate new ones with AI, making it ideal for creating engaging and personalized video content quickly. Example use case: A marketing team uses HeyGen to create a series of promotional videos in multiple languages, featuring AI-generated avatars that resemble their team.",
+  "pros": [
+    "Unlimited AI video creation",
+    "No camera needed",
+    "Multilingual video translation"
+  ],
+  "cons": [
+    "Dependence on AI accuracy",
+    "Potential privacy concerns with avatar cloning",
+    "Limited editing capabilities"
+  ],
+  "alternatives": [
+    "Synthesia [synthesia.io]",
+    "Descript [descript.com]",
+    "Lumen5 [lumen5.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Synthesia",
+      "url": "synthesia.io",
+      "reason": "Offers customizable AI avatars"
+    },
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Includes video editing and AI tools"
+    },
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Focuses on automated video creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "content creation",
+    "multilingual"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://heygen.com/",
+  "documentationUrl": "https://help.heygen.com/en/?sid=no_sid",
+  "githubUrl": "https://github.com/search?q=heygen&type=repositories",
+  "twitterUrl": "https://x.com/heygen_official?mx=2",
+  "screenshot": "/screenshots/heygen_com.png",
+  "screenshot_640": "/screenshots/heygen_com_640.png",
+  "screenshot_400": "/screenshots/heygen_com_400.png",
+  "updatedAt": "2025-05-12T14:30:25.646Z"
+}

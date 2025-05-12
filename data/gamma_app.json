@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gamma.app/",
+  "name": "Gamma",
+  "title": "gamma.app",
+  "payoff": "Instant presentations and more with AI",
+  "shortDescription": "Gamma serves as an AI design partner, simplifying the creation of presentations, websites, social media posts, and more. It's designed for professionals who value efficiency, allowing them to focus on core tasks while Gamma handles the design. For example, a marketer can quickly generate branded slides for a presentation or launch a business site without coding.",
+  "pros": [
+    "Fast and efficient content creation",
+    "No coding required for websites",
+    "Supports multiple export formats"
+  ],
+  "cons": [
+    "May lack advanced customization",
+    "Dependent on AI accuracy",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Visme [visme.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers extensive design features"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Focus on storytelling and branding"
+    },
+    {
+      "name": "Visme",
+      "url": "visme.co",
+      "reason": "Rich in analytics and data visuals"
+    }
+  ],
+  "tags": [
+    "AI",
+    "design tools",
+    "content creation",
+    "presentation software"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://gamma.app/",
+  "documentationUrl": "https://help.gamma.app/",
+  "githubUrl": "https://github.com/search?q=gamma&type=repositories",
+  "twitterUrl": "https://x.com/meetgamma",
+  "screenshot": "/screenshots/gamma_app.png",
+  "screenshot_640": "/screenshots/gamma_app_640.png",
+  "screenshot_400": "/screenshots/gamma_app_400.png",
+  "updatedAt": "2025-05-12T14:28:40.330Z"
+}
