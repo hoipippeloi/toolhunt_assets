@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://union.build/",
+  "name": "Union",
+  "title": "union.build",
+  "payoff": "Next-gen chain abstraction",
+  "shortDescription": "Union is pioneering the future of blockchain technology with its advanced protocol for subsecond messaging and application-specific intents. It is designed for developers and enterprises looking to integrate various execution environments like EVMs, SVMs, and altVMs seamlessly. An example use case would be a fintech company utilizing Union to ensure real-time, secure transactions across different blockchain platforms.",
+  "pros": [
+    "Supports multiple VMs",
+    "Real-time processing capabilities",
+    "High interoperability"
+  ],
+  "cons": [
+    "Complex for beginners",
+    "Limited user community",
+    "Potential scalability issues"
+  ],
+  "alternatives": [
+    "Ethereum [ethereum.org]",
+    "Polkadot [polkadot.network]",
+    "Cosmos [cosmos.network]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Ethereum",
+      "url": "ethereum.org",
+      "reason": "Widely used blockchain platform"
+    },
+    {
+      "name": "Polkadot",
+      "url": "polkadot.network",
+      "reason": "Enables cross-blockchain transfers"
+    },
+    {
+      "name": "Cosmos",
+      "url": "cosmos.network",
+      "reason": "Focus on interoperability"
+    }
+  ],
+  "tags": [
+    "blockchain",
+    "interoperability",
+    "real-time",
+    "protocol"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://union.build/",
+  "documentationUrl": "https://union.build/docs",
+  "githubUrl": "https://github.com/unionlabs/union",
+  "twitterUrl": "https://x.com/union_build",
+  "screenshot": "/screenshots/union_build.png",
+  "screenshot_640": "/screenshots/union_build_640.png",
+  "screenshot_400": "/screenshots/union_build_400.png",
+  "updatedAt": "2025-05-12T10:18:28.937Z"
+}

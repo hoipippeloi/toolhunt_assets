@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beekeeperstudio.io/",
+  "name": "Beekeeper Studio",
+  "title": "beekeeperstudio.io",
+  "payoff": "Dream SQL Editor & Database Manager",
+  "shortDescription": "Beekeeper Studio is a versatile SQL editor and database management tool designed for developers and database administrators. It supports multiple database types and offers features like SQL auto-completion, table editing, and data export. Users can manage databases efficiently with features such as SSL encryption, SSH tunneling, and the ability to open multiple tabs for various tasks. An example use case is a developer managing and querying databases without switching between different tools, enhancing productivity and data security.",
+  "pros": [
+    "Supports multiple database types",
+    "Intuitive user interface",
+    "Advanced SQL editing features"
+  ],
+  "cons": [
+    "Limited customizability",
+    "No built-in data visualization tools",
+    "Potential learning curve for beginners"
+  ],
+  "alternatives": [
+    "DBeaver [dbeaver.io]",
+    "TablePlus [tableplus.com]",
+    "DataGrip [jetbrains.com/datagrip]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DBeaver",
+      "url": "dbeaver.io",
+      "reason": "Offers extensive database support"
+    },
+    {
+      "name": "TablePlus",
+      "url": "tableplus.com",
+      "reason": "Modern GUI and high customizability"
+    },
+    {
+      "name": "DataGrip",
+      "url": "jetbrains.com/datagrip",
+      "reason": "Integrated with other JetBrains tools"
+    }
+  ],
+  "tags": [
+    "SQL editor",
+    "database management",
+    "open source",
+    "data security"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://beekeeperstudio.io/",
+  "documentationUrl": "https://docs.beekeeperstudio.io",
+  "githubUrl": "https://github.com/beekeeper-studio/beekeeper-studio/blob/master/code_of_conduct.md",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/beekeeperstudio_io.png",
+  "screenshot_640": "/screenshots/beekeeperstudio_io_640.png",
+  "screenshot_400": "/screenshots/beekeeperstudio_io_400.png",
+  "updatedAt": "2025-05-12T10:17:09.475Z"
+}

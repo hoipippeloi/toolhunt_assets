@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://heroiclabs.com/",
+  "name": "Heroic Labs",
+  "title": "heroiclabs.com",
+  "payoff": "Scale your game with Heroic Cloud",
+  "shortDescription": "Heroic Labs provides a robust game development stack and managed cloud services tailored for game developers. It features Nakama, an open-source server for social and online games, and Satori, a toolkit for building meta game features. Ideal for developers aiming to enhance multiplayer and social interactions in games, Heroic Labs has been instrumental in the success of games like Star Wars: Hunters and Magic Brick Wars.",
+  "pros": [
+    "Comprehensive game development stack",
+    "Managed cloud services for scalability",
+    "Open-source with extensive documentation"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Primarily focused on gaming",
+    "Limited customization in managed solutions"
+  ],
+  "alternatives": [
+    "PlayFab [playfab.com]",
+    "GameSparks [gamesparks.com]",
+    "Photon Engine [photonengine.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "PlayFab",
+      "url": "playfab.com",
+      "reason": "Offers backend services for games"
+    },
+    {
+      "name": "GameSparks",
+      "url": "gamesparks.com",
+      "reason": "Provides cloud-based game services"
+    },
+    {
+      "name": "Photon Engine",
+      "url": "photonengine.com",
+      "reason": "Real-time multiplayer game server"
+    }
+  ],
+  "tags": [
+    "game development",
+    "cloud services",
+    "open source",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://heroiclabs.com/",
+  "documentationUrl": "https://heroiclabs.com/docs",
+  "githubUrl": "https://github.com/heroiclabs/",
+  "twitterUrl": "https://twitter.com/heroicdev",
+  "screenshot": "/screenshots/heroiclabs_com.png",
+  "screenshot_640": "/screenshots/heroiclabs_com_640.png",
+  "screenshot_400": "/screenshots/heroiclabs_com_400.png",
+  "updatedAt": "2025-05-12T10:17:45.002Z"
+}
