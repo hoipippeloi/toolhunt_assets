@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://suna.so/",
+  "name": "Kortix Suna",
+  "title": "suna.so",
+  "payoff": "Your AI Employee",
+  "shortDescription": "Suna by Kortix is a versatile AI agent designed to perform a variety of tasks on behalf of users. It's ideal for businesses and individuals seeking to automate complex tasks such as market analysis, data scraping, and report generation. An example use case includes generating detailed market research reports autonomously.",
+  "pros": [
+    "Fully open source",
+    "Supports complex autonomous tasks",
+    "Customizable to user needs"
+  ],
+  "cons": [
+    "May require technical skill to deploy",
+    "Limited to tasks it's programmed for",
+    "Dependent on external data sources"
+  ],
+  "alternatives": [
+    "OpenAI GPT [openai.com]",
+    "DeepMind AI [deepmind.com]",
+    "IBM Watson [ibm.com/watson]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI GPT",
+      "url": "openai.com",
+      "reason": "Advanced language models for diverse tasks"
+    },
+    {
+      "name": "DeepMind AI",
+      "url": "deepmind.com",
+      "reason": "Leading in AI research and complex problem solving"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in enterprise AI solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "open source",
+    "data analysis"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://suna.so/",
+  "documentationUrl": "https://suna.so/documentation",
+  "githubUrl": "https://github.com/kortix-ai/suna",
+  "twitterUrl": "https://x.com/kortixai",
+  "screenshot": "/screenshots/suna_so.png",
+  "screenshot_640": "/screenshots/suna_so_640.png",
+  "screenshot_400": "/screenshots/suna_so_400.png",
+  "updatedAt": "2025-05-12T09:37:17.962Z"
+}
