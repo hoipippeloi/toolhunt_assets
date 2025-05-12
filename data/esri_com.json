@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://esri.com/en-us/arcgis",
+  "name": "ArcGIS",
+  "title": "esri.com",
+  "payoff": "GIS Software for Business & Government",
+  "shortDescription": "ArcGIS is a comprehensive geospatial platform designed for professionals and organizations across various industries. It integrates and connects data through geography, offering capabilities for creating, managing, analyzing, mapping, and sharing all types of data. Users include government bodies, large corporations, and cities, utilizing ArcGIS for asset management, resource allocation, and spatial analysis.",
+  "pros": [
+    "Comprehensive geospatial analysis tools",
+    "Widely used by governments and large corporations",
+    "Supports real-time data and decision-making"
+  ],
+  "cons": [
+    "Can be complex for new users",
+    "Potentially high cost for small organizations",
+    "Requires technical expertise to fully leverage"
+  ],
+  "alternatives": [
+    "QGIS [qgis.org]",
+    "Mapbox [mapbox.com]",
+    "Google Earth Pro [google.com/earth/versions/#earth-pro]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QGIS",
+      "url": "qgis.org",
+      "reason": "Open source and free GIS platform"
+    },
+    {
+      "name": "MapInfo Pro",
+      "url": "precisely.com/product/mapinfo-pro",
+      "reason": "Another professional GIS tool with analytics"
+    },
+    {
+      "name": "Google Maps API",
+      "url": "developers.google.com/maps",
+      "reason": "Widely used for embedding maps in apps"
+    }
+  ],
+  "tags": [
+    "GIS",
+    "mapping",
+    "data analysis",
+    "geospatial"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1999,
+  "websiteUrl": "https://esri.com/en-us/arcgis",
+  "documentationUrl": "https://www.esri.com/en-us/arcgis/documentation",
+  "githubUrl": "https://github.com/search?q=arcgis&type=repositories",
+  "twitterUrl": "https://x.com/Esri",
+  "screenshot": "/screenshots/esri_com.png",
+  "screenshot_640": "/screenshots/esri_com_640.png",
+  "screenshot_400": "/screenshots/esri_com_400.png",
+  "updatedAt": "2025-05-12T07:40:58.381Z"
+}

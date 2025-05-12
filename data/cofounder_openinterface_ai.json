@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cofounder.openinterface.ai/",
+  "name": "Cofounder",
+  "title": "cofounder.openinterface.ai",
+  "payoff": "Early alpha release of complex apps",
+  "shortDescription": "Cofounder by OpenInterface is a tool designed to empower developers and innovators by simplifying the creation of complex applications. It is currently in early alpha release, inviting users to sign up for an alpha API key. Ideal for those experimenting with new app ideas, it provides an open-source platform to build, test, and deploy applications efficiently.",
+  "pros": [
+    "Open-source platform",
+    "Early access to alpha release",
+    "API access for developers"
+  ],
+  "cons": [
+    "Still in alpha, potentially unstable",
+    "Limited documentation",
+    "No clear pricing yet"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform for web apps"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "No-code app platform for professionals"
+    }
+  ],
+  "tags": [
+    "open source",
+    "alpha release",
+    "API",
+    "app development"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://cofounder.openinterface.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/raidendotai/cofounder",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/cofounder_openinterface_ai.png",
+  "screenshot_640": "/screenshots/cofounder_openinterface_ai_640.png",
+  "screenshot_400": "/screenshots/cofounder_openinterface_ai_400.png",
+  "updatedAt": "2025-05-12T07:38:24.262Z"
+}
