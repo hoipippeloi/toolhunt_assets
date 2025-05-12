@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lumalabs.ai/",
+  "name": "Luma AI",
+  "title": "lumalabs.ai",
+  "payoff": "AI Video Generation with Ray2",
+  "shortDescription": "Luma AI specializes in multimodal AI video generation, leveraging models like Ray2 and Dream Machine. It targets creatives in media, marketing, and advertising, enabling them to generate videos with precise control and high-quality visuals. Example use: A marketing team uses Ray2 to create engaging promotional videos with seamless transitions and realistic details.",
+  "pros": [
+    "High-quality video outputs",
+    "Efficient multimodal data training",
+    "Intuitive controls for video creation"
+  ],
+  "cons": [
+    "May require high computational power",
+    "Complex for non-technical users",
+    "Limited to video and image inputs"
+  ],
+  "alternatives": [
+    "Adobe Creative Cloud [adobe.com]",
+    "Canva [canva.com]",
+    "Magisto [magisto.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com/products/premiere.html",
+      "reason": "Industry-standard video editing software"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com/final-cut-pro",
+      "reason": "High-performance video editing for Mac"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com/products/davinciresolve",
+      "reason": "Advanced color correction and editing"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "multimodal intelligence",
+    "creative tools"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lumalabs.ai/",
+  "documentationUrl": "https://lumalabs.ai/docs",
+  "githubUrl": "https://github.com/search?q=luma%20ai&type=repositories",
+  "twitterUrl": "https://x.com/LumaLabsAI",
+  "screenshot": "/screenshots/lumalabs_ai.png",
+  "screenshot_640": "/screenshots/lumalabs_ai_640.png",
+  "screenshot_400": "/screenshots/lumalabs_ai_400.png",
+  "updatedAt": "2025-05-12T08:47:46.449Z"
+}

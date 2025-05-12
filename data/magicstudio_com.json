@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://magicstudio.com/",
+  "name": "Magic Studio",
+  "title": "magicstudio.com",
+  "payoff": "Create beautiful images with AI",
+  "shortDescription": "Magic Studio leverages artificial intelligence to enable users to create stunning images effortlessly. It's designed for marketers, content creators, and anyone needing quick, professional visuals without prior design skills. Users can remove unwanted elements, change backgrounds, and generate images from text descriptions, making it ideal for creating ads, social media posts, and product pages.",
+  "pros": [
+    "No design skills required",
+    "AI-powered features for easy editing",
+    "Rapid creation and transformation of images"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potential privacy concerns with data handling",
+    "May not support all image formats"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers extensive design templates"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional tools for design"
+    },
+    {
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Similar features with video support"
+    }
+  ],
+  "tags": [
+    "AI",
+    "image editing",
+    "design tools",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://magicstudio.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=magic%20studio&type=repositories",
+  "twitterUrl": "https://twitter.com/MagicStudio",
+  "screenshot": "/screenshots/magicstudio_com.png",
+  "screenshot_640": "/screenshots/magicstudio_com_640.png",
+  "screenshot_400": "/screenshots/magicstudio_com_400.png",
+  "updatedAt": "2025-05-12T08:48:17.586Z"
+}
