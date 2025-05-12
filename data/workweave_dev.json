@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workweave.dev/",
+  "name": "Weave",
+  "title": "workweave.dev",
+  "payoff": "X-ray vision for engineering teams",
+  "shortDescription": "Weave leverages advanced LLMs and domain-specific machine learning to provide deep insights into engineering workflows. It's designed for individuals, teams, and enterprises aiming to optimize their engineering processes. Users can track real-time output, compare against industry benchmarks, and uncover project bottlenecks. An example use case is an enterprise using Weave to enhance team productivity and process efficiency.",
+  "pros": [
+    "Advanced analytics on engineering work",
+    "Supports individual to enterprise-level needs",
+    "Strong focus on data security and compliance"
+  ],
+  "cons": [
+    "May be complex to integrate for smaller teams",
+    "Focuses only on engineering teams, not versatile",
+    "Potential privacy concerns with deep data analysis"
+  ],
+  "alternatives": [
+    "Jira [atlassian.com]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira",
+      "url": "atlassian.com",
+      "reason": "Widely used for project and issue tracking"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Simple, visual tool for task management"
+    },
+    {
+      "name": "GitLab",
+      "url": "gitlab.com",
+      "reason": "Integrates code management with tracking"
+    }
+  ],
+  "tags": [
+    "AI & ML",
+    "Analytics",
+    "Project Management",
+    "Data Security"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://workweave.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=weave&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/workweave_dev.png",
+  "screenshot_640": "/screenshots/workweave_dev_640.png",
+  "screenshot_400": "/screenshots/workweave_dev_400.png",
+  "updatedAt": "2025-05-12T07:33:21.502Z"
+}

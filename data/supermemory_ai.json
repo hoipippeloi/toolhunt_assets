@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://supermemory.ai/",
+  "name": "Supermemory",
+  "title": "supermemory.ai",
+  "payoff": "Universal memory API for AI",
+  "shortDescription": "Supermemory provides a robust API for enhancing memory and retrieval capabilities in AI applications. It is designed for developers aiming to integrate advanced memory functions without starting from scratch. An example use case involves personalizing large language models (LLMs) for individual users, ensuring high performance and interoperability with various LLM providers.",
+  "pros": [
+    "Model-agnostic APIs support any LLM provider.",
+    "Sub-400ms latency ensures high performance at scale.",
+    "No lock-in with providers, enhancing flexibility."
+  ],
+  "cons": [
+    "May require technical expertise to integrate effectively.",
+    "Potential higher costs for enterprise-scale use.",
+    "Limited information on security and compliance standards."
+  ],
+  "alternatives": [
+    "Elasticsearch [elastic.co]",
+    "Algolia [algolia.com]",
+    "Apache Solr [lucene.apache.org/solr]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Flexible, open-source search engine."
+    },
+    {
+      "name": "Algolia",
+      "url": "algolia.com",
+      "reason": "Provides fast, scalable search APIs."
+    },
+    {
+      "name": "Apache Solr",
+      "url": "lucene.apache.org/solr",
+      "reason": "Open-source platform for search."
+    }
+  ],
+  "tags": [
+    "API",
+    "AI",
+    "memory management",
+    "developer tools"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://supermemory.ai/",
+  "documentationUrl": "https://docs.supermemory.ai/changelog/overview",
+  "githubUrl": "https://github.com/search?q=supermemory&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/supermemory_ai.png",
+  "screenshot_640": "/screenshots/supermemory_ai_640.png",
+  "screenshot_400": "/screenshots/supermemory_ai_400.png",
+  "updatedAt": "2025-05-12T07:34:30.104Z"
+}
