@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dashworks.ai/",
+  "name": "Dashworks",
+  "title": "dashworks.ai",
+  "payoff": "AI Assistant for Workplace Questions",
+  "shortDescription": "Dashworks is an AI-powered tool designed to streamline workplace efficiency by providing instant answers to internal questions. It integrates with various workplace apps, allowing teams to access a unified knowledge base. This tool is particularly beneficial for sales, customer support, and engineering teams. For example, sales reps can quickly find answers to customer queries, reducing response times and potentially shortening sales cycles.",
+  "pros": [
+    "Automates 87% of internal questions",
+    "Real-time data access with zero sync delay",
+    "High customer satisfaction with 96% CSAT reported"
+  ],
+  "cons": [
+    "Requires integration with existing systems",
+    "Dependent on quality of existing data",
+    "Potential privacy concerns with extensive data access"
+  ],
+  "alternatives": [
+    "Confluence [atlassian.com/confluence]",
+    "Slab [slab.com]",
+    "Notion [notion.so]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/confluence",
+      "reason": "Strong collaboration features"
+    },
+    {
+      "name": "Slab",
+      "url": "slab.com",
+      "reason": "Focus on team wiki and knowledge"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Versatile workspace tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "knowledge base",
+    "enterprise search",
+    "workplace efficiency"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Search",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://dashworks.ai/",
+  "documentationUrl": "https://dashworks.ai/docs",
+  "githubUrl": "https://github.com/search?q=dashworks&type=repositories",
+  "twitterUrl": "https://twitter.com/DashworksAI",
+  "screenshot": "/screenshots/dashworks_ai.png",
+  "screenshot_640": "/screenshots/dashworks_ai_640.png",
+  "screenshot_400": "/screenshots/dashworks_ai_400.png",
+  "updatedAt": "2025-05-12T09:17:51.358Z"
+}

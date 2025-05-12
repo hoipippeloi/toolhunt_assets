@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://redash.io/",
+  "name": "Redash",
+  "title": "redash.io",
+  "payoff": "Make sense of your data",
+  "shortDescription": "Redash is a comprehensive data analysis tool designed for teams and individuals who need to derive insights from their data. It supports SQL, NoSQL, Big Data, and API data sources, allowing users to query multiple databases to answer complex questions. Users can enjoy a powerful SQL editor, create visualizations, and share dashboards. Ideal for data analysts and companies aiming for informed decision-making.",
+  "pros": [
+    "Supports multiple data sources",
+    "Collaborative cloud-based service",
+    "Open source with community support"
+  ],
+  "cons": [
+    "May require SQL knowledge",
+    "Limited custom visualizations",
+    "Dependent on community for updates"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Metabase [metabase.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Powerful visualizations and BI capabilities"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Big data analytics with robust integration"
+    },
+    {
+      "name": "Metabase",
+      "url": "metabase.com",
+      "reason": "Open source and easy to set up"
+    }
+  ],
+  "tags": [
+    "data analysis",
+    "SQL editor",
+    "open source",
+    "visualization"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://redash.io/",
+  "documentationUrl": "https://redash.io/help",
+  "githubUrl": "https://github.com/getredash/redash/discussions",
+  "twitterUrl": "https://twitter.com/getredash",
+  "screenshot": "/screenshots/redash_io.png",
+  "screenshot_640": "/screenshots/redash_io_640.png",
+  "screenshot_400": "/screenshots/redash_io_400.png",
+  "updatedAt": "2025-05-12T09:18:39.706Z"
+}

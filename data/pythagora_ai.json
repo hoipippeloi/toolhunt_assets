@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pythagora.ai/",
+  "name": "Pythagora",
+  "title": "pythagora.ai",
+  "payoff": "Turn ideas into launched projects",
+  "shortDescription": "Pythagora acts as your coding partner, simplifying the process of turning ideas into fully functional software projects. It integrates directly within development environments like VS Code, offering tools for backend and frontend development without heavy coding. Ideal for developers and teams looking to streamline app creation, Pythagora supports React and Node.js, with Python coming soon. Example use case: A team uses Pythagora to quickly build and deploy a project management tool.",
+  "pros": [
+    "No heavy coding required",
+    "Supports React and Node.js",
+    "Integrates with VS Code"
+  ],
+  "cons": [
+    "Limited language support",
+    "No clear offline functionality",
+    "Python support not yet available"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code web app builder"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Builds responsive websites visually"
+    }
+  ],
+  "tags": [
+    "AI",
+    "development",
+    "project management",
+    "software creation"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://pythagora.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/Pythagora-io/pythagora-lab",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/pythagora_ai.png",
+  "screenshot_640": "/screenshots/pythagora_ai_640.png",
+  "screenshot_400": "/screenshots/pythagora_ai_400.png",
+  "updatedAt": "2025-05-12T09:17:09.627Z"
+}
