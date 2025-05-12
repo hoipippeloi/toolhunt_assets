@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://splunk.com/",
+  "name": "Splunk",
+  "title": "splunk.com",
+  "payoff": "Enterprise Resilience with AI",
+  "shortDescription": "Splunk provides a platform for security and observability, enhancing enterprise resilience through AI-driven insights. It is designed for IT, security, and DevOps teams to secure and optimize their operations. Example use case includes automating threat detection and response, improving system performance, and ensuring compliance across digital ecosystems.",
+  "pros": [
+    "AI-driven analytics for real-time insights",
+    "Comprehensive security and observability",
+    "Scalable across complex IT environments"
+  ],
+  "cons": [
+    "Can be complex to configure",
+    "High cost for small businesses",
+    "Steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Datadog [datadoghq.com]",
+    "New Relic [newrelic.com]",
+    "Elastic [elastic.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Datadog",
+      "url": "datadoghq.com",
+      "reason": "Similar IT monitoring with stronger cloud focus"
+    },
+    {
+      "name": "New Relic",
+      "url": "newrelic.com",
+      "reason": "Offers detailed app performance insights"
+    },
+    {
+      "name": "Elastic",
+      "url": "elastic.co",
+      "reason": "Focuses on search and data visualization"
+    }
+  ],
+  "tags": [
+    "security",
+    "observability",
+    "AI",
+    "data analytics"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2003,
+  "websiteUrl": "https://splunk.com/",
+  "documentationUrl": "https://docs.splunk.com/Documentation",
+  "githubUrl": "https://github.com/search?q=splunk&type=repositories",
+  "twitterUrl": "https://twitter.com/splunk",
+  "screenshot": "/screenshots/splunk_com.png",
+  "screenshot_640": "/screenshots/splunk_com_640.png",
+  "screenshot_400": "/screenshots/splunk_com_400.png",
+  "updatedAt": "2025-05-12T13:58:48.091Z"
+}

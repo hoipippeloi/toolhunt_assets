@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://canva.com/",
+  "name": "Canva",
+  "title": "canva.com",
+  "payoff": "Visual Suite for Everyone",
+  "shortDescription": "Canva is a comprehensive design tool that simplifies the creation of visual content. It caters to individuals, businesses, and educational institutions, enabling users to create everything from presentations and videos to print materials. With its user-friendly interface and extensive template library, Canva supports collaborative projects and integrates AI technology to enhance design processes.",
+  "pros": [
+    "Extensive template library",
+    "User-friendly interface",
+    "Robust collaboration features"
+  ],
+  "cons": [
+    "Limited customization in free version",
+    "Can be slow with complex designs",
+    "Dependent on internet connection"
+  ],
+  "alternatives": [
+    "Adobe Creative Cloud [adobe.com]",
+    "PicMonkey [picmonkey.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Creative Cloud",
+      "url": "adobe.com",
+      "reason": "Offers extensive creative tools"
+    },
+    {
+      "name": "PicMonkey",
+      "url": "picmonkey.com",
+      "reason": "Focuses on easy photo editing"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Strong in collaborative UI design"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "visual content",
+    "collaboration",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://canva.com/",
+  "documentationUrl": "https://www.canva.com/help/",
+  "githubUrl": "https://github.com/search?q=canva&type=repositories",
+  "twitterUrl": "https://twitter.com/canva",
+  "screenshot": "/screenshots/canva_com.png",
+  "screenshot_640": "/screenshots/canva_com_640.png",
+  "screenshot_400": "/screenshots/canva_com_400.png",
+  "updatedAt": "2025-05-12T14:00:27.203Z"
+}
