@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://splunk.com/",
+  "name": "Splunk",
+  "title": "splunk.com",
+  "payoff": "Enterprise Resilience with AI",
+  "shortDescription": "Splunk provides a platform for security and observability, integrating AI to enhance enterprise resilience. It serves IT and security teams by offering tools for threat detection, automation, and operational visibility. Example use case: A financial institution uses Splunk to monitor real-time threats and automate responses, reducing downtime and enhancing security.",
+  "pros": [
+    "Advanced AI integration for automation",
+    "Comprehensive security and observability",
+    "Scalable across large enterprises"
+  ],
+  "cons": [
+    "Can be complex to configure",
+    "Potentially high cost for full features",
+    "Requires technical expertise to maximize use"
+  ],
+  "alternatives": [
+    "Datadog [datadoghq.com]",
+    "New Relic [newrelic.com]",
+    "Elastic [elastic.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Datadog",
+      "url": "datadoghq.com",
+      "reason": "Comprehensive monitoring across cloud apps"
+    },
+    {
+      "name": "New Relic",
+      "url": "newrelic.com",
+      "reason": "Offers detailed performance analytics"
+    },
+    {
+      "name": "Elastic",
+      "url": "elastic.co",
+      "reason": "Focuses on search and data visualization"
+    }
+  ],
+  "tags": [
+    "security",
+    "observability",
+    "AI",
+    "data management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2003,
+  "websiteUrl": "https://splunk.com/",
+  "documentationUrl": "https://docs.splunk.com/Documentation",
+  "githubUrl": "https://github.com/search?q=splunk&type=repositories",
+  "twitterUrl": "https://twitter.com/splunk",
+  "screenshot": "/screenshots/splunk_com.png",
+  "screenshot_640": "/screenshots/splunk_com_640.png",
+  "screenshot_400": "/screenshots/splunk_com_400.png",
+  "updatedAt": "2025-05-12T04:46:56.103Z"
+}
