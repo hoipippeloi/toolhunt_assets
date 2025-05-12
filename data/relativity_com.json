@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://relativity.com/",
+  "name": "Relativity",
+  "title": "relativity.com",
+  "payoff": "Organize data, discover truth, act on it.",
+  "shortDescription": "Relativity provides eDiscovery and legal search software solutions, helping organizations manage sensitive data securely. It's designed for legal professionals to handle data challenges efficiently with AI-driven tools like e-discovery, contracts, and breach response. An example use case is a law firm using Relativity to streamline document review and case strategy development.",
+  "pros": [
+    "Advanced AI integration",
+    "Comprehensive legal solution suite",
+    "Strong customer support and partner ecosystem"
+  ],
+  "cons": [
+    "Potentially high cost",
+    "Complexity may overwhelm new users",
+    "Limited customization in some areas"
+  ],
+  "alternatives": [
+    "Logikcull [logikcull.com]",
+    "Everlaw [everlaw.com]",
+    "Casepoint [casepoint.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Logikcull",
+      "url": "logikcull.com",
+      "reason": "Simpler interface, good for smaller firms"
+    },
+    {
+      "name": "Everlaw",
+      "url": "everlaw.com",
+      "reason": "Strong visualization and collaboration tools"
+    },
+    {
+      "name": "Casepoint",
+      "url": "casepoint.com",
+      "reason": "Scalable cloud-based solution, AI features"
+    }
+  ],
+  "tags": [
+    "eDiscovery",
+    "legal tech",
+    "data management",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2001,
+  "websiteUrl": "https://relativity.com/",
+  "documentationUrl": "https://help.relativity.com",
+  "githubUrl": "https://github.com/search?q=relativity&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/relativity_com.png",
+  "screenshot_640": "/screenshots/relativity_com_640.png",
+  "screenshot_400": "/screenshots/relativity_com_400.png",
+  "updatedAt": "2025-05-12T12:30:48.813Z"
+}

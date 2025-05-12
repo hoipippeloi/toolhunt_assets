@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://asana.com/",
+  "name": "Asana",
+  "title": "asana.com",
+  "payoff": "Coordinate work with AI",
+  "shortDescription": "Asana is a project management tool designed to help teams organize, track, and manage their work. It's suitable for a variety of industries including enterprise and food/hospitality. Users can plan campaigns, automate workflows, and coordinate launches efficiently. An example use case is a marketing team using Asana to plan and track a product launch, ensuring all tasks are completed on schedule.",
+  "pros": [
+    "Integrates with over 300 tools",
+    "AI features to automate tasks",
+    "Scalable across company sizes"
+  ],
+  "cons": [
+    "Can be overwhelming for new users",
+    "Potentially expensive for small teams",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Trello [trello.com]",
+    "Monday.com [monday.com]",
+    "ClickUp [clickup.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual task management with boards"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Highly customizable management tool"
+    },
+    {
+      "name": "ClickUp",
+      "url": "clickup.com",
+      "reason": "Offers more features per plan"
+    }
+  ],
+  "tags": [
+    "project management",
+    "task automation",
+    "team collaboration",
+    "AI integration"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://asana.com/",
+  "documentationUrl": "https://asana.com/guide",
+  "githubUrl": "https://github.com/search?q=asana&type=repositories",
+  "twitterUrl": "https://x.com/intent/follow?screen_name=asana",
+  "screenshot": "/screenshots/asana_com.png",
+  "screenshot_640": "/screenshots/asana_com_640.png",
+  "screenshot_400": "/screenshots/asana_com_400.png",
+  "updatedAt": "2025-05-12T12:30:00.423Z"
+}
