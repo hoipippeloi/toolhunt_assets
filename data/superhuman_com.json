@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://superhuman.com/ai",
+  "name": "Superhuman",
+  "title": "superhuman.com",
+  "payoff": "AI-powered email for high performance",
+  "shortDescription": "Superhuman enhances email management with AI, targeting high-performing teams to streamline their communication. Features like Auto Labels and Instant Reply help users organize their inbox and respond quickly. For instance, marketing emails can be automatically archived, while important client emails are prioritized, ensuring nothing crucial is missed.",
+  "pros": [
+    "Automatically organizes and prioritizes emails",
+    "AI-generated responses to save time",
+    "Customizable labels and reminders"
+  ],
+  "cons": [
+    "Potential privacy concerns with AI",
+    "Dependence on AI accuracy for tasks",
+    "May not integrate with all email platforms"
+  ],
+  "alternatives": [
+    "Gmail [gmail.com]",
+    "Microsoft Outlook [outlook.com]",
+    "ProtonMail [protonmail.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Gmail",
+      "url": "gmail.com",
+      "reason": "Offers extensive email management"
+    },
+    {
+      "name": "Outlook",
+      "url": "outlook.com",
+      "reason": "Integrated with Microsoft Office"
+    },
+    {
+      "name": "ProtonMail",
+      "url": "protonmail.com",
+      "reason": "Focuses on security and privacy"
+    }
+  ],
+  "tags": [
+    "AI",
+    "email management",
+    "productivity",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://superhuman.com/ai",
+  "documentationUrl": "https://help.superhuman.com/",
+  "githubUrl": "https://github.com/search?q=superhuman&type=repositories",
+  "twitterUrl": "https://twitter.com/superhuman",
+  "screenshot": "/screenshots/superhuman_com.png",
+  "screenshot_640": "/screenshots/superhuman_com_640.png",
+  "screenshot_400": "/screenshots/superhuman_com_400.png",
+  "updatedAt": "2025-05-12T15:45:02.666Z"
+}

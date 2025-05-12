@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://openwebui.com/",
+  "name": "Open WebUI",
+  "title": "openwebui.com",
+  "payoff": "Enhance Your Web Interface Easily",
+  "shortDescription": "Open WebUI is a tool designed to help developers and designers create and manage web user interfaces more efficiently. It offers a range of features such as drag-and-drop interface builders, pre-designed templates, and extensive customization options. Ideal for small to medium businesses looking to streamline their web development process, an example use case could be a retail business using Open WebUI to quickly design an attractive and functional e-commerce site.",
+  "pros": [
+    "User-friendly interface",
+    "Extensive customization options",
+    "Pre-designed templates available"
+  ],
+  "cons": [
+    "May require basic coding knowledge",
+    "Limited third-party integrations",
+    "Higher learning curve for advanced features"
+  ],
+  "alternatives": [
+    "Webflow [webflow.com]",
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers visual building with hosting service."
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform with strong integration features."
+    },
+    {
+      "name": "Elementor",
+      "url": "elementor.com",
+      "reason": "WordPress plugin with extensive design options."
+    }
+  ],
+  "tags": [
+    "web development",
+    "UI design",
+    "interface builder",
+    "template design"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://openwebui.com/",
+  "documentationUrl": "https://openwebui.com/docs",
+  "githubUrl": "https://github.com/open-webui/open-webui",
+  "twitterUrl": "https://x.com/openwebui?lang=en",
+  "screenshot": "/screenshots/openwebui_com.png",
+  "screenshot_640": "/screenshots/openwebui_com_640.png",
+  "screenshot_400": "/screenshots/openwebui_com_400.png",
+  "updatedAt": "2025-05-12T15:43:21.490Z"
+}
