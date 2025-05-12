@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://articulate.com/360/",
+  "name": "Articulate 360",
+  "title": "articulate.com",
+  "payoff": "Create better workplace training",
+  "shortDescription": "Articulate 360 is a comprehensive e-learning platform designed to facilitate workplace training. It enables users to author, collaborate on, and distribute engaging learning content with ease. Ideal for HR departments, it supports various training needs such as onboarding, compliance, and technical skills development. An example use case is creating interactive compliance training modules that are easily distributed across global teams.",
+  "pros": [
+    "Comprehensive course creation tools",
+    "Supports collaboration and feedback",
+    "AI-enhanced productivity features"
+  ],
+  "cons": [
+    "May be complex for new users",
+    "Subscription-based pricing could be expensive",
+    "Limited customization in some tools"
+  ],
+  "alternatives": [
+    "Adobe Captivate [adobe.com]",
+    "TalentLMS [talentlms.com]",
+    "iSpring Suite [ispringsolutions.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Captivate",
+      "url": "adobe.com",
+      "reason": "Offers advanced interactive features"
+    },
+    {
+      "name": "TalentLMS",
+      "url": "talentlms.com",
+      "reason": "Flexible and scalable LMS"
+    },
+    {
+      "name": "iSpring Suite",
+      "url": "ispringsolutions.com",
+      "reason": "Strong PowerPoint integration"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "course creation",
+    "training",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://articulate.com/360/",
+  "documentationUrl": "https://articulate.com/support/",
+  "githubUrl": "https://github.com/search?q=articulate%20360&type=repositories",
+  "twitterUrl": "https://twitter.com/Articulate",
+  "screenshot": "/screenshots/articulate_com.png",
+  "screenshot_640": "/screenshots/articulate_com_640.png",
+  "screenshot_400": "/screenshots/articulate_com_400.png",
+  "updatedAt": "2025-05-12T11:38:06.659Z"
+}

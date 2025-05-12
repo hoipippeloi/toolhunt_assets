@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://miro.com/",
+  "name": "Miro",
+  "title": "miro.com",
+  "payoff": "Innovate and collaborate faster",
+  "shortDescription": "Miro is a collaborative online whiteboard platform designed to empower teams to work more effectively. With its limitless canvas, teams from various departments such as IT, design, and project management can brainstorm, plan, and execute their ideas seamlessly. Example use case includes strategic planning, roadmapping, and running design workshops remotely.",
+  "pros": [
+    "Limitless interactive canvas",
+    "Integration with major tools like Microsoft and Google",
+    "Extensive security and governance controls"
+  ],
+  "cons": [
+    "Can be overwhelming for new users",
+    "Potential privacy concerns with extensive data sharing",
+    "May require a strong internet connection for optimal performance"
+  ],
+  "alternatives": [
+    "Lucidchart [lucidchart.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lucidchart",
+      "url": "lucidchart.com",
+      "reason": "Offers diagramming with real-time collaboration"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task and project management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for visual project management using boards"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "project management",
+    "design tools",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Project Management",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://miro.com/",
+  "documentationUrl": "https://help.miro.com/hc",
+  "githubUrl": "https://github.com/search?q=miro&type=repositories",
+  "twitterUrl": "https://twitter.com/mirohq",
+  "screenshot": "/screenshots/miro_com.png",
+  "screenshot_640": "/screenshots/miro_com_640.png",
+  "screenshot_400": "/screenshots/miro_com_400.png",
+  "updatedAt": "2025-05-12T11:39:26.917Z"
+}
