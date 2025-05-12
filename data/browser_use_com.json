@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://browser-use.com/",
+  "name": "Browser Use",
+  "title": "browser-use.com",
+  "payoff": "AI-driven browser automation",
+  "shortDescription": "Browser Use simplifies web interactions for AI agents by automating browser tasks. It extracts all interactive elements from websites, making them accessible even if they lack an API. This tool is ideal for developers and businesses looking to integrate AI with web functionalities without coding. An example use case includes automating data entry or testing web applications.",
+  "pros": [
+    "No installation required",
+    "Custom AI agent development",
+    "Intuitive user interface"
+  ],
+  "cons": [
+    "Limited to browser-based tasks",
+    "No clear pricing structure provided",
+    "May require technical knowledge for complex tasks"
+  ],
+  "alternatives": [
+    "Selenium [selenium.dev]",
+    "Puppeteer [pptr.dev]",
+    "UiPath [uipath.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Open-source tool for browser automation"
+    },
+    {
+      "name": "Puppeteer",
+      "url": "pptr.dev",
+      "reason": "Node library for controlling Chrome"
+    },
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Robotic process automation platform"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "browser automation",
+    "AI",
+    "no code"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://browser-use.com/",
+  "documentationUrl": "https://docs.browser-use.com/",
+  "githubUrl": "https://github.com/gregpr07/browser-use",
+  "twitterUrl": "https://x.com/gregpr07",
+  "screenshot": "/screenshots/browser_use_com.png",
+  "screenshot_640": "/screenshots/browser_use_com_640.png",
+  "screenshot_400": "/screenshots/browser_use_com_400.png",
+  "updatedAt": "2025-05-12T10:45:41.660Z"
+}

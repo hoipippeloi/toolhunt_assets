@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dify.ai/",
+  "name": "Dify.AI",
+  "title": "dify.ai",
+  "payoff": "Innovate with Generative AI",
+  "shortDescription": "Dify.AI serves as an innovation engine for creating generative AI applications. It is designed for developers and businesses looking to integrate AI into their products. An example use case is a company using Dify.AI to enhance their customer service with AI-driven chatbots, improving response times and accuracy.",
+  "pros": [
+    "Enhances product capabilities with AI",
+    "Supports a wide range of AI applications",
+    "Designed for easy integration into existing systems"
+  ],
+  "cons": [
+    "May require technical expertise to implement",
+    "Dependent on the quality of data provided",
+    "Potential high costs for extensive usage"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "IBM Watson [ibm.com/watson]",
+    "Google AI [ai.google]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leader in generative AI models"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in enterprise AI solutions"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Wide range of AI tools and APIs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "generative AI",
+    "innovation",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://dify.ai/",
+  "documentationUrl": "https://dify.ai/docs",
+  "githubUrl": "https://github.com/langgenius/dify",
+  "twitterUrl": "https://twitter.com/dify_ai",
+  "screenshot": "/screenshots/dify_ai.png",
+  "screenshot_640": "/screenshots/dify_ai_640.png",
+  "screenshot_400": "/screenshots/dify_ai_400.png",
+  "updatedAt": "2025-05-12T10:46:15.679Z"
+}

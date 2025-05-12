@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ragflow.io/",
+  "name": "RAGFlow",
+  "title": "ragflow.io",
+  "payoff": "Unleash your full potential",
+  "shortDescription": "RAGFlow is a Retrieval-Augmented Generation engine designed to enhance productivity and innovation across various sectors. Ideal for developers and researchers, it integrates seamlessly into existing workflows to augment data retrieval and generation processes. Example use case: a software development team uses RAGFlow to automate code generation, significantly reducing manual coding time and errors.",
+  "pros": [
+    "Enhances productivity",
+    "Seamless integration",
+    "Automates code generation"
+  ],
+  "cons": [
+    "Limited user community",
+    "Early development stage",
+    "Lack of extensive documentation"
+  ],
+  "alternatives": [
+    "OpenAI GPT [openai.com]",
+    "DeepAI [deepai.org]",
+    "Hugging Face [huggingface.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI GPT",
+      "url": "openai.com",
+      "reason": "Offers advanced AI text generation"
+    },
+    {
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "Provides diverse AI APIs"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Community-driven AI models"
+    }
+  ],
+  "tags": [
+    "AI",
+    "machine learning",
+    "data retrieval",
+    "generation engine"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://ragflow.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/infiniflow/ragflow",
+  "twitterUrl": "https://twitter.com/infiniflowai",
+  "screenshot": "/screenshots/ragflow_io.png",
+  "screenshot_640": "/screenshots/ragflow_io_640.png",
+  "screenshot_400": "/screenshots/ragflow_io_400.png",
+  "updatedAt": "2025-05-12T10:46:39.194Z"
+}
