@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://limitless.ai/",
+  "name": "Limitless",
+  "title": "limitless.ai",
+  "payoff": "Never forget anything again",
+  "shortDescription": "Limitless is a wearable AI tool designed to preserve and recall personal conversations and insights. It caters to individuals who value memory enhancement and efficient personal data management. Users can wear the Pendant to capture discussions during meetings, personal reflections, and spontaneous ideas. An example use case includes a professional using Limitless to record key points during client meetings and retrieving them later through an intuitive app.",
+  "pros": [
+    "Enhances memory recall",
+    "Intuitive user interface",
+    "Permission-based data protection"
+  ],
+  "cons": [
+    "Dependence on physical device",
+    "Privacy concerns",
+    "Potential data overload"
+  ],
+  "alternatives": [
+    "Google Glass [google.com/glass]",
+    "Neuralink [neuralink.com]",
+    "Apple Watch [apple.com/watch]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Glass",
+      "url": "google.com/glass",
+      "reason": "Offers AR with real-time data overlay"
+    },
+    {
+      "name": "Neuralink",
+      "url": "neuralink.com",
+      "reason": "Brain-machine interface technology"
+    },
+    {
+      "name": "Apple Watch",
+      "url": "apple.com/watch",
+      "reason": "Wearable with extensive app ecosystem"
+    }
+  ],
+  "tags": [
+    "AI",
+    "wearable technology",
+    "personal assistant"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://limitless.ai/",
+  "documentationUrl": "https://help.limitless.ai/",
+  "githubUrl": "https://github.com/search?q=limitless&type=repositories",
+  "twitterUrl": "https://twitter.com/limitlessai",
+  "screenshot": "/screenshots/limitless_ai.png",
+  "screenshot_640": "/screenshots/limitless_ai_640.png",
+  "screenshot_400": "/screenshots/limitless_ai_400.png",
+  "updatedAt": "2025-05-12T08:23:57.525Z"
+}

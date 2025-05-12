@@ -3,16 +3,16 @@
   "name": "GitHub",
   "title": "github.com",
   "payoff": "Collaborative platform for software development",
-  "shortDescription": "GitHub is a platform that enables developers to build, ship, and maintain their software projects collaboratively. It supports both private and open-source projects and is widely used by individuals, startups, and enterprises. Users can manage their projects, track issues, and collaborate through pull requests and code reviews. An example use case is a software team using GitHub to host and review code, manage projects, and document issues all in one place.",
+  "shortDescription": "GitHub is a development platform where millions of developers and companies build, ship, and maintain their software. It offers tools like GitHub Copilot for AI-powered code suggestions, advanced security features to manage vulnerabilities, and Actions for workflow automation. GitHub is ideal for teams of any size, from startups to large enterprises, facilitating collaboration and increasing efficiency across various industries.",
   "pros": [
-    "Integrated project management tools",
-    "Extensive community and marketplace",
-    "Advanced code review and collaboration features"
+    "Integrated development environment",
+    "Extensive integration with third-party tools",
+    "Strong community and support"
   ],
   "cons": [
-    "Can be complex for beginners",
-    "Limited control over server-side operations",
-    "High dependency on internet connectivity"
+    "Complexity can be overwhelming for beginners",
+    "Can be expensive for larger teams",
+    "Dependent on external internet connectivity"
   ],
   "alternatives": [
     "GitLab [gitlab.com]",
@@ -23,24 +23,24 @@
     {
       "name": "GitLab",
       "url": "gitlab.com",
-      "reason": "Offers integrated CI/CD tools"
+      "reason": "Offers integrated CI/CD features"
     },
     {
       "name": "Bitbucket",
       "url": "bitbucket.org",
-      "reason": "Tight integration with Atlassian products"
+      "reason": "Good for small teams, integrates with Jira"
     },
     {
       "name": "SourceForge",
       "url": "sourceforge.net",
-      "reason": "Focus on open-source project hosting"
+      "reason": "Focuses on open source projects"
     }
   ],
   "tags": [
     "version control",
     "collaboration",
     "code management",
-    "open source"
+    "software development"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/github_com.png",
   "screenshot_640": "/screenshots/github_com_640.png",
   "screenshot_400": "/screenshots/github_com_400.png",
-  "updatedAt": "2025-05-12T08:10:06.797Z"
+  "updatedAt": "2025-05-10T08:42:50.719Z"
 }

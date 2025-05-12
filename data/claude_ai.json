@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://claude.ai/login?returnTo=%2F%3F#features",
+  "name": "Claude",
+  "title": "claude.ai",
+  "payoff": "AI assistant for better work",
+  "shortDescription": "Claude is an AI-powered tool designed to enhance productivity and creativity in the workplace. It assists users in drafting documents, coding, and generating data visualizations, making it ideal for professionals across various industries. An example use case includes automating routine tasks and generating reports.",
+  "pros": [
+    "Enhances productivity with AI",
+    "Supports a wide range of tasks",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "May require technical setup",
+    "Dependent on data quality",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepMind [deepmind.com]",
+    "IBM Watson [ibm.com/watson]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GPT-3",
+      "url": "openai.com",
+      "reason": "Advanced language model"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Broad AI services"
+    },
+    {
+      "name": "Azure AI",
+      "url": "azure.microsoft.com/en-us/services/cognitive-services/",
+      "reason": "Integrated with cloud"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "automation",
+    "data analysis"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://claude.ai/login?returnTo=%2F%3F#features",
+  "documentationUrl": "https://claude.ai/docs",
+  "githubUrl": "https://github.com/search?q=claude&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/claude_ai.png",
+  "screenshot_640": "/screenshots/claude_ai_640.png",
+  "screenshot_400": "/screenshots/claude_ai_400.png",
+  "updatedAt": "2025-05-12T08:23:09.980Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://synthesia.io/",
+  "name": "Synthesia",
+  "title": "synthesia.io",
+  "payoff": "Create AI Videos in Minutes",
+  "shortDescription": "Synthesia is an AI-powered video generation tool designed to help professionals in training, marketing, and sales create engaging videos quickly and efficiently. Users can turn text into videos, generate voiceovers in multiple languages, and integrate AI avatars to make content as diverse as their audience. An example use case includes creating multilingual training videos for global teams without the need for extensive video production resources.",
+  "pros": [
+    "Supports 140+ languages for global reach",
+    "Rapid video creation from text",
+    "Diverse AI avatars for personalized content"
+  ],
+  "cons": [
+    "Dependence on AI might limit creative control",
+    "Potential privacy concerns with AI-generated content",
+    "Requires internet connection for all functionalities"
+  ],
+  "alternatives": [
+    "Lumen5 [lumen5.com]",
+    "Animoto [animoto.com]",
+    "Biteable [biteable.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Offers similar AI video creation tools"
+    },
+    {
+      "name": "Animoto",
+      "url": "animoto.com",
+      "reason": "Easy-to-use video maker with templates"
+    },
+    {
+      "name": "Biteable",
+      "url": "biteable.com",
+      "reason": "Focus on quick, professional video content"
+    }
+  ],
+  "tags": [
+    "AI video generation",
+    "content creation",
+    "multilingual",
+    "video marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://synthesia.io/",
+  "documentationUrl": "https://docs.synthesia.io/",
+  "githubUrl": "https://github.com/search?q=synthesia&type=repositories",
+  "twitterUrl": "https://twitter.com/synthesiaio?lang=en",
+  "screenshot": "/screenshots/synthesia_io.png",
+  "screenshot_640": "/screenshots/synthesia_io_640.png",
+  "screenshot_400": "/screenshots/synthesia_io_400.png",
+  "updatedAt": "2025-05-12T08:25:38.950Z"
+}
