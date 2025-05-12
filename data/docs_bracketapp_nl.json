@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docs.bracketapp.nl/",
+  "name": "Bracket",
+  "title": "docs.bracketapp.nl",
+  "payoff": "Free open-source tournament management",
+  "shortDescription": "Bracket is a tool designed for managing sports tournaments efficiently. It allows users to create tournament setups, add teams, schedule matches, and display live rankings. Ideal for sports league administrators and event organizers, Bracket provides a user-friendly interface with drag-and-drop functionality for rescheduling. An example use case could be a local soccer league using Bracket to manage their seasonal tournament, ensuring smooth operation and real-time updates to participants and spectators.",
+  "pros": [
+    "Open-source and free to use",
+    "Flexible setup with multiple tournament formats",
+    "Live public display of schedules and rankings"
+  ],
+  "cons": [
+    "Limited to sports and tournament management",
+    "Potential lack of support typical of free tools",
+    "May require technical skill to deploy and customize"
+  ],
+  "alternatives": [
+    "Challonge [challonge.com]",
+    "Tournament Manager [tournamentsoftware.com]",
+    "Konkuri [konkuri.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Challonge",
+      "url": "challonge.com",
+      "reason": "Offers similar tournament management features"
+    },
+    {
+      "name": "Tournament Manager",
+      "url": "tournamentsoftware.com",
+      "reason": "Professional tool with broader sport support"
+    },
+    {
+      "name": "Konkuri",
+      "url": "konkuri.com",
+      "reason": "Web-based tool with social sharing features"
+    }
+  ],
+  "tags": [
+    "tournament management",
+    "open source",
+    "event organization",
+    "sports management"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://docs.bracketapp.nl/",
+  "documentationUrl": "https://docs.bracketapp.nl",
+  "githubUrl": "https://github.com/evroon/bracket",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/docs_bracketapp_nl.png",
+  "screenshot_640": "/screenshots/docs_bracketapp_nl_640.png",
+  "screenshot_400": "/screenshots/docs_bracketapp_nl_400.png",
+  "updatedAt": "2025-05-12T09:43:44.249Z"
+}

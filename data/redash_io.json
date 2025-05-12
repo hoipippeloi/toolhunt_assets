@@ -3,7 +3,7 @@
   "name": "Redash",
   "title": "redash.io",
   "payoff": "Make sense of your data",
-  "shortDescription": "Redash is a comprehensive data analysis tool designed for teams and individuals who need to derive insights from their data. It supports SQL, NoSQL, Big Data, and API data sources, allowing users to query multiple databases to answer complex questions. Users can enjoy a powerful SQL editor, create visualizations, and share dashboards. Ideal for data analysts and companies aiming for informed decision-making.",
+  "shortDescription": "Redash is a tool designed for data teams to query, visualize, and share data. It supports SQL, NoSQL, Big Data, and API data sources, allowing users to integrate data from various sources to answer complex questions. Users can enjoy the power of a SQL client with the collaborative benefits of a cloud-based service. Example use case: A data analyst uses Redash to create interactive dashboards that aggregate sales data across different regions for strategic planning.",
   "pros": [
     "Supports multiple data sources",
     "Collaborative cloud-based service",
@@ -23,12 +23,12 @@
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Powerful visualizations and BI capabilities"
+      "reason": "Rich visualizations and enterprise support"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Big data analytics with robust integration"
+      "reason": "Advanced BI with strong integration features"
     },
     {
       "name": "Metabase",
@@ -37,17 +37,17 @@
     }
   ],
   "tags": [
-    "data analysis",
-    "SQL editor",
+    "data visualization",
     "open source",
-    "visualization"
+    "SQL",
+    "dashboards"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
-  "function": "Analytics",
+  "function": "Data Storage",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2015,
+  "releasedYear": 2013,
   "websiteUrl": "https://redash.io/",
   "documentationUrl": "https://redash.io/help",
   "githubUrl": "https://github.com/getredash/redash/discussions",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/redash_io.png",
   "screenshot_640": "/screenshots/redash_io_640.png",
   "screenshot_400": "/screenshots/redash_io_400.png",
-  "updatedAt": "2025-05-12T09:18:39.706Z"
+  "updatedAt": "2025-05-12T09:42:45.717Z"
 }

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://crewai.com/",
+  "name": "CrewAI",
+  "title": "crewai.com",
+  "payoff": "Transform operations with AI",
+  "shortDescription": "CrewAI offers a multi-agent platform designed to enhance business operations across various sectors. It integrates AI-driven solutions for predictive marketing, financial reporting, and strategic planning. Ideal for large enterprises, it helps in optimizing performance metrics and automating HR tasks. An example use case is using CrewAI to improve supply chain efficiency in a Fortune 500 company.",
+  "pros": [
+    "Wide range of AI applications",
+    "Supports large-scale enterprise needs",
+    "Focus on automation and efficiency"
+  ],
+  "cons": [
+    "Potentially complex integration",
+    "May require significant training",
+    "High dependency on data quality"
+  ],
+  "alternatives": [
+    "Google Cloud AI [cloud.google.com]",
+    "IBM Watson [ibm.com/watson]",
+    "Microsoft Azure AI [azure.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Cloud AI",
+      "url": "cloud.google.com",
+      "reason": "Broad AI services and cloud integration"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in cognitive computing AI"
+    },
+    {
+      "name": "Microsoft Azure AI",
+      "url": "azure.microsoft.com",
+      "reason": "Extensive AI tools and hybrid capabilities"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "multi-agent systems",
+    "enterprise solutions"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://crewai.com/",
+  "documentationUrl": "https://crewai.com/docs",
+  "githubUrl": "https://github.com/crewaiinc/crewai",
+  "twitterUrl": "https://x.com/crewaiinc",
+  "screenshot": "/screenshots/crewai_com.png",
+  "screenshot_640": "/screenshots/crewai_com_640.png",
+  "screenshot_400": "/screenshots/crewai_com_400.png",
+  "updatedAt": "2025-05-12T09:43:17.400Z"
+}
