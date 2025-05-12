@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zoom.com/",
+  "name": "Zoom",
+  "title": "zoom.com",
+  "payoff": "Connect with AI-driven solutions",
+  "shortDescription": "Zoom is a comprehensive communication platform designed to enhance productivity and connectivity across various industries. It integrates AI-driven tools like AI Companion to streamline workflows and improve team collaboration. Ideal for businesses, educational institutions, and healthcare organizations, Zoom enables real-time communication and collaboration globally. For example, a multinational company can use Zoom for daily team meetings, virtual training sessions, and client presentations, ensuring seamless interaction regardless of geographical boundaries.",
+  "pros": [
+    "Integrates AI for enhanced productivity",
+    "Supports a wide range of industries",
+    "Global connectivity and collaboration"
+  ],
+  "cons": [
+    "Dependent on internet quality",
+    "Potential privacy concerns",
+    "Can be complex to configure"
+  ],
+  "alternatives": [
+    "Microsoft Teams [microsoft.com]",
+    "Google Meet [meet.google.com]",
+    "Cisco Webex [webex.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com",
+      "reason": "Offers integration with Office 365"
+    },
+    {
+      "name": "Google Meet",
+      "url": "meet.google.com",
+      "reason": "Seamless integration with Google services"
+    },
+    {
+      "name": "Cisco Webex",
+      "url": "webex.com",
+      "reason": "Strong in enterprise-level features"
+    }
+  ],
+  "tags": [
+    "communication",
+    "collaboration",
+    "video conferencing",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://zoom.com/",
+  "documentationUrl": "https://zoom.com/docs",
+  "githubUrl": "https://github.com/search?q=zoom&type=repositories",
+  "twitterUrl": "https://twitter.com/zoom",
+  "screenshot": "/screenshots/zoom_com.png",
+  "screenshot_640": "/screenshots/zoom_com_640.png",
+  "screenshot_400": "/screenshots/zoom_com_400.png",
+  "updatedAt": "2025-05-12T11:15:12.713Z"
+}

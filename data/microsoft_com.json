@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://microsoft.com/en-us/power-platform/products/power-bi/",
+  "name": "Power BI",
+  "title": "microsoft.com",
+  "payoff": "Visualize data with ease",
+  "shortDescription": "Power BI is a business intelligence platform that enables users to connect, visualize, and analyze data with greater efficiency and understanding. It serves a broad audience, from data scientists to sales teams, allowing them to create rich, interactive reports and dashboards. Example use case: A company uses Power BI to pull sales data from various sources into a single dashboard to track performance trends and make data-driven decisions.",
+  "pros": [
+    "Integrates seamlessly with Microsoft products",
+    "Robust data connectivity and visualization options",
+    "Scalable from small teams to enterprise"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Higher cost for premium features",
+    "Dependent on the Microsoft ecosystem"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Qlik Sense [qlik.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for its visualizations"
+    },
+    {
+      "name": "Qlik Sense",
+      "url": "qlik.com",
+      "reason": "Flexible, associative data model"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in embedding analytics"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "business intelligence",
+    "analytics",
+    "reporting"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://microsoft.com/en-us/power-platform/products/power-bi/",
+  "documentationUrl": "https://docs.microsoft.com/en-us/power-bi/",
+  "githubUrl": "https://github.com/search?q=power%20bi&type=repositories",
+  "twitterUrl": "https://www.xbox.com/",
+  "screenshot": "/screenshots/microsoft_com.png",
+  "screenshot_640": "/screenshots/microsoft_com_640.png",
+  "screenshot_400": "/screenshots/microsoft_com_400.png",
+  "updatedAt": "2025-05-12T11:13:14.978Z"
+}
