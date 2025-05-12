@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spacetimedb.com/",
+  "name": "SpacetimeDB",
+  "title": "spacetimedb.com",
+  "payoff": "Build multiplayer apps easily",
+  "shortDescription": "SpacetimeDB combines a relational database with server capabilities, allowing direct client connections for executing logic. This eliminates the need for middleware like Docker or Kubernetes. It's ideal for developers building multiplayer games or apps requiring real-time data interaction. For example, the MMORPG BitCraft runs entirely on SpacetimeDB, handling complex game logic and player data efficiently.",
+  "pros": [
+    "Eliminates need for separate servers",
+    "Supports real-time data interactions",
+    "Scales automatically handling complex logic"
+  ],
+  "cons": [
+    "Limited to SQL-style queries",
+    "May have a learning curve for new users",
+    "Dependent on provider for uptime and scalability"
+  ],
+  "alternatives": [
+    "Firebase [firebase.google.com]",
+    "CockroachDB [cockroachlabs.com]",
+    "Realm [realm.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Firebase",
+      "url": "firebase.google.com",
+      "reason": "Offers real-time database and backend services"
+    },
+    {
+      "name": "CockroachDB",
+      "url": "cockroachlabs.com",
+      "reason": "Scalable SQL database with strong consistency"
+    },
+    {
+      "name": "Realm",
+      "url": "realm.io",
+      "reason": "Focuses on mobile databases with real-time sync"
+    }
+  ],
+  "tags": [
+    "database",
+    "serverless",
+    "multiplayer",
+    "real-time"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://spacetimedb.com/",
+  "documentationUrl": "https://spacetimedb.com/docs",
+  "githubUrl": "https://github.com/ClockworkLabs/SpacetimeDB",
+  "twitterUrl": "https://twitter.com/spacetime_db",
+  "screenshot": "/screenshots/spacetimedb_com.png",
+  "screenshot_640": "/screenshots/spacetimedb_com_640.png",
+  "screenshot_400": "/screenshots/spacetimedb_com_400.png",
+  "updatedAt": "2025-05-12T15:18:08.377Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ollama.com/",
+  "name": "Ollama",
+  "title": "ollama.com",
+  "payoff": "Run large language models easily.",
+  "shortDescription": "Ollama is a versatile software tool designed to facilitate the deployment and management of large language models across various operating systems including macOS, Linux, and Windows. It is tailored for developers, researchers, and businesses looking to integrate AI capabilities into their operations. An example use case is a tech company using Ollama to enhance their customer service with AI-driven chatbots.",
+  "pros": [
+    "Supports multiple operating systems",
+    "Easy integration with existing systems",
+    "Community support through platforms like GitHub and Discord"
+  ],
+  "cons": [
+    "Limited to large language models",
+    "May require technical knowledge to set up",
+    "No clear pricing information available"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Hugging Face [huggingface.co]",
+    "DeepAI [deepai.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers comprehensive AI models."
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Focus on community and open-source."
+    },
+    {
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "Provides diverse AI APIs."
+    }
+  ],
+  "tags": [
+    "AI",
+    "large language models",
+    "software",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ollama.com/",
+  "documentationUrl": "https://ollama.com/docs",
+  "githubUrl": "https://github.com/ollama/ollama",
+  "twitterUrl": "https://twitter.com/ollama",
+  "screenshot": "/screenshots/ollama_com.png",
+  "screenshot_640": "/screenshots/ollama_com_640.png",
+  "screenshot_400": "/screenshots/ollama_com_400.png",
+  "updatedAt": "2025-05-12T15:18:56.237Z"
+}
