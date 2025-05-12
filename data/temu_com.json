@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://temu.com/",
+  "name": "Temu",
+  "title": "temu.com",
+  "payoff": "Shop Like a Billionaire",
+  "shortDescription": "Temu is an online marketplace that offers a wide range of products at competitive prices. It caters to consumers looking for deals and discounts on various items. An example use case is a shopper looking for affordable fashion and electronics, leveraging Temu's extensive catalog and shipping options to find the best deals.",
+  "pros": [
+    "Wide range of products",
+    "Competitive pricing",
+    "Affiliate and influencer programs"
+  ],
+  "cons": [
+    "Limited brand recognition",
+    "Potential for shipping delays",
+    "Unclear return policies"
+  ],
+  "alternatives": [
+    "Amazon [amazon.com]",
+    "eBay [ebay.com]",
+    "AliExpress [aliexpress.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Amazon",
+      "url": "amazon.com",
+      "reason": "Broader product range and global reach"
+    },
+    {
+      "name": "eBay",
+      "url": "ebay.com",
+      "reason": "Auction-based buying options"
+    },
+    {
+      "name": "AliExpress",
+      "url": "aliexpress.com",
+      "reason": "Direct from manufacturer prices"
+    }
+  ],
+  "tags": [
+    "E-commerce",
+    "Online Marketplace",
+    "Shopping",
+    "Discounts"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2022,
+  "websiteUrl": "https://temu.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=temu&type=repositories",
+  "twitterUrl": "https://www.twitter.com/@shoptemu",
+  "screenshot": "/screenshots/temu_com.png",
+  "screenshot_640": "/screenshots/temu_com_640.png",
+  "screenshot_400": "/screenshots/temu_com_400.png",
+  "updatedAt": "2025-05-12T14:46:05.288Z"
+}

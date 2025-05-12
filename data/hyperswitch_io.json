@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hyperswitch.io/",
+  "name": "Juspay Hyperswitch",
+  "title": "hyperswitch.io",
+  "payoff": "Simplify your payment workflows",
+  "shortDescription": "Juspay Hyperswitch is an open-source payment orchestrator designed for businesses seeking enterprise-grade payment solutions. It offers features like intelligent routing, reconciliation engines, and revenue recovery. Ideal for businesses aiming to enhance their payment systems with resilience, scalability, and low latency.",
+  "pros": [
+    "Modular architecture allows customization",
+    "Enterprise-grade and globally compliant",
+    "Supports alternative payment methods"
+  ],
+  "cons": [
+    "Open source requires internal management",
+    "May require technical expertise to deploy",
+    "Limited marketing compared to proprietary tools"
+  ],
+  "alternatives": [
+    "Stripe [stripe.com]",
+    "Adyen [adyen.com]",
+    "PayPal [paypal.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Stripe",
+      "url": "stripe.com",
+      "reason": "Widely used with robust API support"
+    },
+    {
+      "name": "Braintree",
+      "url": "braintreepayments.com",
+      "reason": "Offers extensive payment features"
+    },
+    {
+      "name": "Checkout.com",
+      "url": "checkout.com",
+      "reason": "Focus on global payment processing"
+    }
+  ],
+  "tags": [
+    "payment orchestration",
+    "open source",
+    "enterprise solution",
+    "financial technology"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "E-commerce",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hyperswitch.io/",
+  "documentationUrl": "https://hyperswitch.io/docs",
+  "githubUrl": "https://github.com/juspay/hyperswitch/discussions",
+  "twitterUrl": "https://twitter.com/juspay",
+  "screenshot": "/screenshots/hyperswitch_io.png",
+  "screenshot_640": "/screenshots/hyperswitch_io_640.png",
+  "screenshot_400": "/screenshots/hyperswitch_io_400.png",
+  "updatedAt": "2025-05-12T14:47:43.010Z"
+}
