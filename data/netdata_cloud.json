@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://netdata.cloud/",
+  "name": "Netdata",
+  "title": "netdata.cloud",
+  "payoff": "Real-time infrastructure monitoring",
+  "shortDescription": "Netdata offers real-time monitoring and troubleshooting for IT infrastructure and applications. It simplifies IT operations by providing high-fidelity data, real-time visualizations, and reliable alerts without requiring extensive configuration. An example use case is monitoring performance during application migrations to identify bottlenecks.",
+  "pros": [
+    "Zero configuration setup",
+    "Real-time updates and alerts",
+    "Supports extensive integrations"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Primarily focused on IT and DevOps",
+    "Limited historical data analysis"
+  ],
+  "alternatives": [
+    "Datadog [datadoghq.com]",
+    "Grafana [grafana.com]",
+    "Prometheus [prometheus.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Datadog",
+      "url": "datadoghq.com",
+      "reason": "Comprehensive cloud monitoring"
+    },
+    {
+      "name": "Grafana",
+      "url": "grafana.com",
+      "reason": "Flexible visualization and analytics"
+    },
+    {
+      "name": "Prometheus",
+      "url": "prometheus.io",
+      "reason": "Open-source monitoring with strong community"
+    }
+  ],
+  "tags": [
+    "real-time monitoring",
+    "IT operations",
+    "open source",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "System Monitor",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://netdata.cloud/",
+  "documentationUrl": "https://learn.netdata.cloud/docs/agent/quickstart",
+  "githubUrl": "https://github.com/netdata/netdata/issues",
+  "twitterUrl": "https://twitter.com/netdatahq",
+  "screenshot": "/screenshots/netdata_cloud.png",
+  "screenshot_640": "/screenshots/netdata_cloud_640.png",
+  "screenshot_400": "/screenshots/netdata_cloud_400.png",
+  "updatedAt": "2025-05-13T02:57:33.642Z"
+}

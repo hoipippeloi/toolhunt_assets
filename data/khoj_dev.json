@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://khoj.dev/",
+  "name": "Khoj AI",
+  "title": "khoj.dev",
+  "payoff": "Simplify complex document interactions",
+  "shortDescription": "Khoj AI is designed to empower users to interact with documents more effectively using AI-driven tools. It serves as a research copilot, allowing users to ask questions, understand content, and generate new material seamlessly. Ideal for researchers and professionals who need to manage large volumes of information, Khoj AI can be customized to specific needs, making it adaptable for various industries such as healthcare, education, and more.",
+  "pros": [
+    "Customizable to user needs",
+    "Accessible from anywhere",
+    "Supports various AI models"
+  ],
+  "cons": [
+    "May require initial setup and tuning",
+    "Pricing information is not detailed",
+    "Limited information on security measures"
+  ],
+  "alternatives": [
+    "OpenAI GPT [openai.com]",
+    "IBM Watson [ibm.com]",
+    "Google AI [ai.google]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI GPT",
+      "url": "openai.com",
+      "reason": "Broad AI capabilities with strong language models"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com",
+      "reason": "Enterprise-focused AI with deep learning"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Advanced AI research and tools from Google"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Document Management",
+    "Research",
+    "Customization"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://khoj.dev/",
+  "documentationUrl": "https://khoj.dev/docs",
+  "githubUrl": "https://github.com/khoj-ai/khoj/releases",
+  "twitterUrl": "https://twitter.com/khoj_ai",
+  "screenshot": "/screenshots/khoj_dev.png",
+  "screenshot_640": "/screenshots/khoj_dev_640.png",
+  "screenshot_400": "/screenshots/khoj_dev_400.png",
+  "updatedAt": "2025-05-13T02:58:05.114Z"
+}
