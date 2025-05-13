@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rowboatlabs.com/",
+  "name": "Rowboat",
+  "title": "rowboatlabs.com",
+  "payoff": "IDE for multi-agent systems",
+  "shortDescription": "Rowboat is a specialized Integrated Development Environment (IDE) designed for developing and managing multi-agent systems. It caters primarily to developers and researchers working in fields like robotics, AI, and distributed computing. An example use case involves a team creating a coordinated drone surveillance system, where Rowboat provides tools for coding, testing, and deployment.",
+  "pros": [
+    "Tailored for multi-agent systems",
+    "Supports complex distributed projects",
+    "Integrated testing and deployment tools"
+  ],
+  "cons": [
+    "Steep learning curve",
+    "Limited community support",
+    "Focused only on multi-agent systems"
+  ],
+  "alternatives": [
+    "Eclipse [eclipse.org]",
+    "Visual Studio [visualstudio.com]",
+    "IntelliJ IDEA [jetbrains.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Eclipse",
+      "url": "eclipse.org",
+      "reason": "Widely used IDE with extensive plugins"
+    },
+    {
+      "name": "Visual Studio",
+      "url": "visualstudio.com",
+      "reason": "Comprehensive development features"
+    },
+    {
+      "name": "IntelliJ IDEA",
+      "url": "jetbrains.com",
+      "reason": "Strong support for various programming languages"
+    }
+  ],
+  "tags": [
+    "IDE",
+    "multi-agent systems",
+    "development",
+    "robotics"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://rowboatlabs.com/",
+  "documentationUrl": "https://docs.rowboatlabs.com/",
+  "githubUrl": "https://github.com/rowboatlabs/rowboat",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/rowboatlabs_com.png",
+  "screenshot_640": "/screenshots/rowboatlabs_com_640.png",
+  "screenshot_400": "/screenshots/rowboatlabs_com_400.png",
+  "updatedAt": "2025-05-13T04:22:33.444Z"
+}
