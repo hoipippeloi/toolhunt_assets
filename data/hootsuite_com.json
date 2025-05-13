@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hootsuite.com/",
+  "name": "Hootsuite",
+  "title": "hootsuite.com",
+  "payoff": "Manage social media with ease.",
+  "shortDescription": "Hootsuite is a comprehensive social media management platform designed for businesses and individuals to streamline their social media activities. It offers features like scheduling posts, analyzing social media metrics, and engaging with audiences across multiple networks. An example use case is a marketing team using Hootsuite to schedule content, monitor engagement, and generate reports to improve their strategies.",
+  "pros": [
+    "Comprehensive dashboard for all social media tasks",
+    "Advanced analytics and reporting features",
+    "Extensive integration options with other tools"
+  ],
+  "cons": [
+    "Can be overwhelming for beginners",
+    "Higher pricing tiers may be expensive for small businesses",
+    "Some features require a learning curve"
+  ],
+  "alternatives": [
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]",
+    "Later [later.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Simpler interface, also focuses on scheduling"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "More advanced analytics and CRM features"
+    },
+    {
+      "name": "Later",
+      "url": "later.com",
+      "reason": "Visual content focus, great for Instagram"
+    }
+  ],
+  "tags": [
+    "social media management",
+    "content scheduling",
+    "analytics",
+    "engagement tools"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://hootsuite.com/",
+  "documentationUrl": "https://help.hootsuite.com/hc",
+  "githubUrl": "https://github.com/search?q=hootsuite&type=repositories",
+  "twitterUrl": "https://twitter.com/hootsuite",
+  "screenshot": "/screenshots/hootsuite_com.png",
+  "screenshot_640": "/screenshots/hootsuite_com_640.png",
+  "screenshot_400": "/screenshots/hootsuite_com_400.png",
+  "updatedAt": "2025-05-13T13:10:13.231Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://perplexity.ai/",
+  "name": "Perplexity",
+  "title": "perplexity.ai",
+  "payoff": "Explore AI with ease",
+  "shortDescription": "Perplexity is an advanced AI tool designed to simplify complex data analysis and decision-making processes. It is ideal for researchers, data scientists, and businesses looking to leverage AI for gaining insights from large datasets. Example use case includes predictive analytics for market trends.",
+  "pros": [
+    "Intuitive user interface",
+    "Robust AI capabilities",
+    "Scalable for large datasets"
+  ],
+  "cons": [
+    "Requires technical knowledge",
+    "Potentially high cost",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepMind [deepmind.com]",
+    "IBM Watson [ibm.com/watson]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and applications"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Enterprise AI solutions across industries"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Cutting-edge AI and deep learning research"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analysis",
+    "predictive analytics",
+    "machine learning"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://perplexity.ai/",
+  "documentationUrl": "https://perplexity.ai/docs",
+  "githubUrl": "https://github.com/search?q=perplexity&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/perplexity_ai.png",
+  "screenshot_640": "/screenshots/perplexity_ai_640.png",
+  "screenshot_400": "/screenshots/perplexity_ai_400.png",
+  "updatedAt": "2025-05-13T13:11:22.845Z"
+}
