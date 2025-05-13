@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nocodb.com/",
+  "name": "NocoDB",
+  "title": "nocodb.com",
+  "payoff": "Build databases as spreadsheets",
+  "shortDescription": "NocoDB is a versatile no-code platform that allows users to create and manage databases with the simplicity of a spreadsheet interface. It supports integration with external databases like Postgres/MySQL and offers various views like Kanban, Form, and Gallery. Key use cases include data management for various organizational departments without needing extensive technical knowledge.",
+  "pros": [
+    "Easy integration with external databases",
+    "No-code spreadsheet-like interface",
+    "Supports large data volumes without performance lag"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Limited customization compared to full coding solutions",
+    "Dependent on community for updates and features"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Google Sheets [sheets.google.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers similar no-code database features with rich templates."
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Provides spreadsheet-like interface with more project tools."
+    },
+    {
+      "name": "Zoho Creator",
+      "url": "zohocreator.com",
+      "reason": "Enables building apps with a drag-and-drop interface."
+    }
+  ],
+  "tags": [
+    "no-code",
+    "database management",
+    "spreadsheet interface",
+    "data integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://nocodb.com/",
+  "documentationUrl": "https://docs.nocodb.com",
+  "githubUrl": "https://github.com/nocodb/nocodb",
+  "twitterUrl": "https://twitter.com/nocodb?lang=en",
+  "screenshot": "/screenshots/nocodb_com.png",
+  "screenshot_640": "/screenshots/nocodb_com_640.png",
+  "screenshot_400": "/screenshots/nocodb_com_400.png",
+  "updatedAt": "2025-05-13T03:40:18.478Z"
+}

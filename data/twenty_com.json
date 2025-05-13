@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://twenty.com/",
+  "name": "Twenty",
+  "title": "twenty.com",
+  "payoff": "Manage customer relationships effectively",
+  "shortDescription": "Twenty is a modern, powerful CRM platform designed for fast-growing companies. It allows businesses to manage their customer relationships efficiently with customizable workflows and extensive data fields. Ideal for companies looking to maintain control over their customer data, Twenty offers a flexible solution adaptable to unique business needs.",
+  "pros": [
+    "Highly customizable",
+    "Open-source flexibility",
+    "Backed by Y Combinator"
+  ],
+  "cons": [
+    "May require technical setup",
+    "Less support compared to paid CRMs",
+    "Dependent on community contributions"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Industry leader with extensive features"
+    },
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Offers free CRM with marketing tools"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Good for small to medium businesses"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "open source",
+    "customer management",
+    "data management"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://twenty.com/",
+  "documentationUrl": "https://twenty.com/docs",
+  "githubUrl": "https://github.com/twentyhq/twenty",
+  "twitterUrl": "https://twitter.com/twentycrm",
+  "screenshot": "/screenshots/twenty_com.png",
+  "screenshot_640": "/screenshots/twenty_com_640.png",
+  "screenshot_400": "/screenshots/twenty_com_400.png",
+  "updatedAt": "2025-05-13T03:40:46.985Z"
+}
