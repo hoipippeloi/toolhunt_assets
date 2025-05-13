@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://linear.app/",
+  "name": "Linear",
+  "title": "linear.app",
+  "payoff": "Plan and build products effectively",
+  "shortDescription": "Linear is a tool designed for modern software development teams to streamline their project management processes. It helps in planning, tracking, and managing software development tasks efficiently. Users can set product directions, track issues, and collaborate across teams. An example use case is a software development team using Linear to manage their product roadmap and handle bug tracking to improve product quality and speed up release cycles.",
+  "pros": [
+    "Streamlined project management",
+    "Integrated issue tracking",
+    "Real-time data analytics"
+  ],
+  "cons": [
+    "Potentially complex for beginners",
+    "Limited customization options",
+    "Higher learning curve than some alternatives"
+  ],
+  "alternatives": [
+    "Jira [atlassian.com/software/jira]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Widely used for complex project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task visualization and simplicity"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Flexible with strong visualization features"
+    }
+  ],
+  "tags": [
+    "project management",
+    "issue tracking",
+    "product development",
+    "software development"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://linear.app/",
+  "documentationUrl": "https://linear.app/docs",
+  "githubUrl": "https://github.com/linear",
+  "twitterUrl": "https://x.com/linear",
+  "screenshot": "/screenshots/linear_app.png",
+  "screenshot_640": "/screenshots/linear_app_640.png",
+  "screenshot_400": "/screenshots/linear_app_400.png",
+  "updatedAt": "2025-05-13T05:44:50.825Z"
+}

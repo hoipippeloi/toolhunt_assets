@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://adept.ai/",
+  "name": "Adept",
+  "title": "adept.ai",
+  "payoff": "AI that powers the workforce",
+  "shortDescription": "Adept leverages AI to enhance enterprise operations by automating complex workflows. It specializes in web understanding, localization, and planning, making it ideal for businesses seeking to automate tasks like information extraction from documents and updating systems. Example use case: Adept can process license applications, ensuring compliance and efficiency.",
+  "pros": [
+    "Automates complex workflows efficiently",
+    "Supports a wide range of enterprise functions",
+    "Highly accurate and reliable in task execution"
+  ],
+  "cons": [
+    "May require initial setup and training",
+    "Dependent on proprietary technology",
+    "Limited transparency in AI decision-making"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Robust automation platform with visual tools"
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Offers cloud-native RPA solutions"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Focuses on intelligent automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "enterprise software",
+    "workflow automation"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://adept.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=adept&type=repositories",
+  "twitterUrl": "https://twitter.com/adeptailabs",
+  "screenshot": "/screenshots/adept_ai.png",
+  "screenshot_640": "/screenshots/adept_ai_640.png",
+  "screenshot_400": "/screenshots/adept_ai_400.png",
+  "updatedAt": "2025-05-13T05:43:28.093Z"
+}
