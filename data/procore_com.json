@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://procore.com/en-gb",
+  "name": "Procore",
+  "title": "procore.com",
+  "payoff": "Future of construction management",
+  "shortDescription": "Procore offers a comprehensive construction management platform that connects project stakeholders and streamlines project phases from preconstruction to close-out. Designed for construction professionals, Procore helps manage project financials, quality, safety, and field productivity in real-time. An example use case includes large-scale contractors managing multiple projects simultaneously, ensuring timely and within-budget delivery.",
+  "pros": [
+    "Streamlines project lifecycle management",
+    "Enhances real-time communication and collaboration",
+    "Provides insights with construction intelligence"
+  ],
+  "cons": [
+    "Potentially high cost for small firms",
+    "Complex features may require training",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Autodesk Construction Cloud [construction.autodesk.com]",
+    "Bentley Systems [bentley.com]",
+    "PlanGrid [plangrid.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Autodesk Construction Cloud",
+      "url": "construction.autodesk.com",
+      "reason": "Offers a similar comprehensive suite"
+    },
+    {
+      "name": "PlanGrid",
+      "url": "plangrid.com",
+      "reason": "Focuses on field productivity"
+    },
+    {
+      "name": "Bentley Systems",
+      "url": "bentley.com",
+      "reason": "Strong in infrastructure projects"
+    }
+  ],
+  "tags": [
+    "construction management",
+    "project management",
+    "financial management",
+    "safety management"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2003,
+  "websiteUrl": "https://procore.com/en-gb",
+  "documentationUrl": "https://support.procore.com",
+  "githubUrl": "https://github.com/search?q=procore&type=repositories",
+  "twitterUrl": "https://www.twitter.com/procoretech",
+  "screenshot": "/screenshots/procore_com.png",
+  "screenshot_640": "/screenshots/procore_com_640.png",
+  "screenshot_400": "/screenshots/procore_com_400.png",
+  "updatedAt": "2025-05-13T05:16:56.687Z"
+}
