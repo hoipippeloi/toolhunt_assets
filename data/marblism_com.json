@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://marblism.com/",
+  "name": "Marblism",
+  "title": "marblism.com",
+  "payoff": "AI Employees Who Work for You",
+  "shortDescription": "Marblism leverages artificial intelligence to provide virtual employees for various business functions. These AI employees handle tasks like email management, customer support, content creation, and lead generation. Ideal for businesses looking to reduce hiring costs and improve efficiency, Marblism's AI can simulate real employee activities, helping to save time and enhance productivity.",
+  "pros": [
+    "Reduces staffing costs",
+    "Improves operational efficiency",
+    "Offers scalable AI solutions"
+  ],
+  "cons": [
+    "Potential dependency on AI",
+    "Privacy concerns with AI handling sensitive data",
+    "Limited to predefined tasks"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "IBM Watson [ibm.com/watson]",
+    "Google AI [ai.google]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers comprehensive AI tools"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Advanced AI with industry focus"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Wide range of AI solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "virtual employees",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://marblism.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=marblism&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/marblism_com.png",
+  "screenshot_640": "/screenshots/marblism_com_640.png",
+  "screenshot_400": "/screenshots/marblism_com_400.png",
+  "updatedAt": "2025-05-13T06:49:52.876Z"
+}

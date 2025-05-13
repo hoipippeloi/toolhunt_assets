@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://youtube.com/",
+  "name": "YouTube",
+  "title": "youtube.com",
+  "payoff": "Share and watch videos worldwide",
+  "shortDescription": "YouTube is a global video-sharing platform where users can upload, view, and share videos. It serves a wide range of users, from individuals showcasing their talents to businesses promoting their products. An example use case is a small business using YouTube to run targeted ad campaigns to boost visibility and engage with a broader audience.",
+  "pros": [
+    "Vast audience reach",
+    "Variety of content",
+    "Monetization options"
+  ],
+  "cons": [
+    "Competitive content landscape",
+    "Variable ad revenue",
+    "Content moderation challenges"
+  ],
+  "alternatives": [
+    "Vimeo [vimeo.com]",
+    "Dailymotion [dailymotion.com]",
+    "Twitch [twitch.tv]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Vimeo",
+      "url": "vimeo.com",
+      "reason": "Focus on high-quality, professional videos"
+    },
+    {
+      "name": "Twitch",
+      "url": "twitch.tv",
+      "reason": "Live streaming with interactive features"
+    },
+    {
+      "name": "Dailymotion",
+      "url": "dailymotion.com",
+      "reason": "European market focus, less restrictive"
+    }
+  ],
+  "tags": [
+    "video sharing",
+    "content streaming",
+    "social media",
+    "monetization"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2005,
+  "websiteUrl": "https://youtube.com/",
+  "documentationUrl": "https://developers.google.com/youtube",
+  "githubUrl": "https://github.com/search?q=youtube&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/youtube_com.png",
+  "screenshot_640": "/screenshots/youtube_com_640.png",
+  "screenshot_400": "/screenshots/youtube_com_400.png",
+  "updatedAt": "2025-05-13T06:49:20.602Z"
+}
