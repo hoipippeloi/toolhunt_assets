@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://whatsapp.com/",
+  "name": "WhatsApp",
+  "title": "whatsapp.com",
+  "payoff": "Free Private Messaging and Calling",
+  "shortDescription": "WhatsApp offers secure, reliable messaging and calling for free*, available globally. It allows users to communicate privately with end-to-end encryption, ensuring that only the communicating users can access messages. Ideal for personal use, staying in touch with family and friends, or managing business communications through WhatsApp Business. From individual chats to group conversations and video calls, WhatsApp facilitates easy and private communication across borders.",
+  "pros": [
+    "End-to-end encryption for privacy",
+    "Free global messaging and calling",
+    "Supports multimedia and group chats"
+  ],
+  "cons": [
+    "Data charges may apply",
+    "Dependent on internet connectivity",
+    "Potential privacy concerns from parent company"
+  ],
+  "alternatives": [
+    "Telegram [telegram.org]",
+    "Signal [signal.org]",
+    "Viber [viber.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Telegram",
+      "url": "telegram.org",
+      "reason": "Offers similar messaging and security features"
+    },
+    {
+      "name": "Signal",
+      "url": "signal.org",
+      "reason": "Focuses on privacy and open-source"
+    },
+    {
+      "name": "Viber",
+      "url": "viber.com",
+      "reason": "Provides messaging and call services"
+    }
+  ],
+  "tags": [
+    "messaging",
+    "communication",
+    "privacy",
+    "video calls"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://whatsapp.com/",
+  "documentationUrl": "https://www.whatsapp.com/faq/",
+  "githubUrl": "https://github.com/search?q=whatsapp&type=repositories",
+  "twitterUrl": "https://x.com/whatsapp",
+  "screenshot": "/screenshots/whatsapp_com.png",
+  "screenshot_640": "/screenshots/whatsapp_com_640.png",
+  "screenshot_400": "/screenshots/whatsapp_com_400.png",
+  "updatedAt": "2025-05-13T06:24:05.755Z"
+}
