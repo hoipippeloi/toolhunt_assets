@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://socialrails.com/",
+  "name": "SocialRails",
+  "title": "socialrails.com",
+  "payoff": "Upgrade your social media workflow",
+  "shortDescription": "SocialRails is a powerful tool designed to streamline social media management and content creation for businesses. It allows users to schedule posts, automate TikToks, and generate engaging short-form content across multiple platforms. Ideal for marketers, the tool supports up to 25 workspaces and provides insights for optimal posting times, making it easy to manage a week's content in one session.",
+  "pros": [
+    "Automates and schedules posts efficiently",
+    "Supports multiple workspaces and platforms",
+    "Offers AI-driven content optimization"
+  ],
+  "cons": [
+    "Limited to 9 social platforms",
+    "No open source version available",
+    "Higher costs for multiple platforms"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Offers comprehensive social media management"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Focuses on simplicity and usability"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Provides advanced analytics features"
+    }
+  ],
+  "tags": [
+    "social media",
+    "content automation",
+    "scheduling",
+    "marketing tools"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://socialrails.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=socialrails&type=repositories",
+  "twitterUrl": "https://x.com/socialrails",
+  "screenshot": "/screenshots/socialrails_com.png",
+  "screenshot_640": "/screenshots/socialrails_com_640.png",
+  "screenshot_400": "/screenshots/socialrails_com_400.png",
+  "updatedAt": "2025-05-13T04:45:44.579Z"
+}

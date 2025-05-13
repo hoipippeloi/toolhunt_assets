@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gravitydata.co/",
+  "name": "Gravity Data",
+  "title": "gravitydata.co",
+  "payoff": "Scalable ETL for the modern data stack",
+  "shortDescription": "Gravity Data offers a robust ETL platform designed to simplify data integration across various sources and destinations. It's tailored for businesses needing efficient data replication without extensive coding. Users can quickly set up connections, benefit from pre-built connectors, and manage data flows with real-time monitoring. An example use case is a financial institution automating data transfer between internal databases and cloud-based analytics tools.",
+  "pros": [
+    "Easy to use with pre-built connectors",
+    "Real-time monitoring and alerts",
+    "Flexible and scalable pricing"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on third-party integrations",
+    "May not support all data sources"
+  ],
+  "alternatives": [
+    "Fivetran [fivetran.com]",
+    "Stitch Data [stitchdata.com]",
+    "Talend [talend.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Fivetran",
+      "url": "fivetran.com",
+      "reason": "Offers similar ETL services with more connectors"
+    },
+    {
+      "name": "Stitch Data",
+      "url": "stitchdata.com",
+      "reason": "Focuses on simpler, smaller scale integrations"
+    },
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Provides broad data management solutions"
+    }
+  ],
+  "tags": [
+    "ETL",
+    "data integration",
+    "data replication",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Sync",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://gravitydata.co/",
+  "documentationUrl": "https://gravitydata.co/docs",
+  "githubUrl": "https://github.com/search?q=gravity%20data&type=repositories",
+  "twitterUrl": "https://twitter.com/DataWith5x",
+  "screenshot": "/screenshots/gravitydata_co.png",
+  "screenshot_640": "/screenshots/gravitydata_co_640.png",
+  "screenshot_400": "/screenshots/gravitydata_co_400.png",
+  "updatedAt": "2025-05-13T04:44:58.431Z"
+}
