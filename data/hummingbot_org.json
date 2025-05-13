@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hummingbot.org/",
+  "name": "Hummingbot",
+  "title": "hummingbot.org",
+  "payoff": "Framework for crypto market makers",
+  "shortDescription": "Hummingbot is an open-source framework designed for crypto market makers and liquidity miners. It supports crafting sophisticated strategies such as market making, arbitrage, and more using its modular strategy framework. Ideal for both individual algo traders and institutions, users can easily integrate with exchanges, backtest strategies, and deploy multiple bots. An example use case is using Hummingbot to manage and automate trading across multiple crypto exchanges.",
+  "pros": [
+    "Open source and highly customizable",
+    "Supports multiple exchanges and strategies",
+    "Community-driven with regular updates"
+  ],
+  "cons": [
+    "Requires technical knowledge to set up",
+    "Potentially high resource usage",
+    "Limited support for non-crypto markets"
+  ],
+  "alternatives": [
+    "3Commas [3commas.io]",
+    "Cryptohopper [cryptohopper.com]",
+    "Coinrule [coinrule.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "3Commas",
+      "url": "3commas.io",
+      "reason": "Offers automated trading bots"
+    },
+    {
+      "name": "Cryptohopper",
+      "url": "cryptohopper.com",
+      "reason": "Cloud-based trading bot platform"
+    },
+    {
+      "name": "Coinrule",
+      "url": "coinrule.io",
+      "reason": "User-friendly automated trading"
+    }
+  ],
+  "tags": [
+    "crypto trading",
+    "market making",
+    "open source",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://hummingbot.org/",
+  "documentationUrl": "https://docs.hummingbot.io/",
+  "githubUrl": "https://github.com/hummingbot/hummingbot",
+  "twitterUrl": "https://twitter.com/_hummingbot",
+  "screenshot": "/screenshots/hummingbot_org.png",
+  "screenshot_640": "/screenshots/hummingbot_org_640.png",
+  "screenshot_400": "/screenshots/hummingbot_org_400.png",
+  "updatedAt": "2025-05-13T01:08:24.468Z"
+}

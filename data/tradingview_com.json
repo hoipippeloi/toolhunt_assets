@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tradingview.com/",
+  "name": "TradingView",
+  "title": "tradingview.com",
+  "payoff": "Track All Markets",
+  "shortDescription": "TradingView is a comprehensive platform for traders and investors to analyze financial markets. It offers tools for charting, screening, and trading across various asset classes including stocks, forex, and cryptocurrencies. Users can collaborate, share strategies, and access a wealth of market data and insights. Example use case: A trader uses TradingView to analyze cryptocurrency trends and execute trades directly through the platform.",
+  "pros": [
+    "Extensive charting capabilities",
+    "Supports social sharing of trading ideas",
+    "Direct trading through integrated brokers"
+  ],
+  "cons": [
+    "Can be overwhelming for beginners",
+    "Premium features require subscription",
+    "Limited customer support options"
+  ],
+  "alternatives": [
+    "MetaTrader [metatrader4.com]",
+    "Bloomberg Terminal [bloomberg.com/professional]",
+    "Yahoo Finance [finance.yahoo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MetaTrader",
+      "url": "metatrader4.com",
+      "reason": "Popular for forex and CFD trading"
+    },
+    {
+      "name": "Thinkorswim",
+      "url": "tdameritrade.com/tools-and-platforms/thinkorswim",
+      "reason": "Advanced tools for U.S. markets"
+    },
+    {
+      "name": "eToro",
+      "url": "etoro.com",
+      "reason": "Social trading platform features"
+    }
+  ],
+  "tags": [
+    "financial markets",
+    "trading platform",
+    "investment tools",
+    "market analysis"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://tradingview.com/",
+  "documentationUrl": "https://www.tradingview.com/support/",
+  "githubUrl": "https://github.com/search?q=tradingview&type=repositories",
+  "twitterUrl": "https://x.com/tradingview/",
+  "screenshot": "/screenshots/tradingview_com.png",
+  "screenshot_640": "/screenshots/tradingview_com_640.png",
+  "screenshot_400": "/screenshots/tradingview_com_400.png",
+  "updatedAt": "2025-05-13T01:09:11.525Z"
+}

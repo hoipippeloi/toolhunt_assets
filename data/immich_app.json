@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://immich.app/",
+  "name": "Immich",
+  "title": "immich.app",
+  "payoff": "Self-hosted photo management",
+  "shortDescription": "Immich is a self-hosted solution designed for photo and video management. It allows users to back up, organize, and manage their media on their own servers. This tool is ideal for individuals concerned about privacy who still require efficient access to their media files. Users can easily browse, search, and organize their photos and videos, making it a suitable choice for personal media storage without relying on third-party cloud services.",
+  "pros": [
+    "Complete control over data",
+    "Privacy-focused",
+    "Ease of media organization"
+  ],
+  "cons": [
+    "Requires server setup",
+    "Limited user support",
+    "Dependency on personal infrastructure"
+  ],
+  "alternatives": [
+    "Nextcloud Photos [nextcloud.com]",
+    "PhotoPrism [photoprism.org]",
+    "Piwigo [piwigo.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Nextcloud Photos",
+      "url": "nextcloud.com",
+      "reason": "Offers similar self-hosted photo storage"
+    },
+    {
+      "name": "PhotoPrism",
+      "url": "photoprism.org",
+      "reason": "AI-powered photo management system"
+    },
+    {
+      "name": "Piwigo",
+      "url": "piwigo.org",
+      "reason": "Established open-source photo gallery"
+    }
+  ],
+  "tags": [
+    "self-hosted",
+    "photo management",
+    "privacy",
+    "video management"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://immich.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/immich-app/immich",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/immich_app.png",
+  "screenshot_640": "/screenshots/immich_app_640.png",
+  "screenshot_400": "/screenshots/immich_app_400.png",
+  "updatedAt": "2025-05-13T01:07:59.955Z"
+}
