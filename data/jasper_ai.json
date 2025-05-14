@@ -2,16 +2,16 @@
   "sourceUrl": "https://jasper.ai/",
   "name": "Jasper",
   "title": "jasper.ai",
-  "payoff": "AI for impactful marketing",
-  "shortDescription": "Jasper is an AI platform tailored for marketing professionals, enhancing marketing impact and ROI. It integrates AI into every marketing workflow, allowing marketers to leverage advanced tools for content creation, campaign management, and brand control. Example use case: A marketer uses Jasper to automate email sequences and personalize content, significantly reducing time-to-market and improving engagement.",
+  "payoff": "AI built for marketing impact",
+  "shortDescription": "Jasper is a generative AI platform designed specifically for marketers. It integrates AI into marketing workflows, enhancing brand control and accelerating marketing ROI. Example use case: A company uses Jasper to automate content creation for targeted marketing campaigns, ensuring brand consistency and engaging customers effectively.",
   "pros": [
-    "Integrates AI across all marketing workflows",
-    "Enterprise-grade security and brand control",
-    "Comprehensive toolkit for various marketing needs"
+    "Integrates with existing martech stacks",
+    "Advanced brand control features",
+    "Comprehensive AI-powered marketing tools"
   ],
   "cons": [
-    "May require a learning curve for new users",
-    "Potentially high cost for small businesses",
+    "May require learning curve for new users",
+    "Potentially high cost for enterprise use",
     "Dependence on AI could limit creative control"
   ],
   "alternatives": [
@@ -23,12 +23,12 @@
     {
       "name": "HubSpot",
       "url": "hubspot.com",
-      "reason": "Offers broader CRM and marketing tools"
+      "reason": "Offers broader CRM functionalities"
     },
     {
       "name": "Marketo",
       "url": "marketo.com",
-      "reason": "Focuses on automation and analytics"
+      "reason": "Focused on marketing automation"
     },
     {
       "name": "Hootsuite",
@@ -47,13 +47,13 @@
   "function": "Marketing Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2016,
+  "releasedYear": 2021,
   "websiteUrl": "https://jasper.ai/",
-  "documentationUrl": "https://help.jasper.ai/hc/en-us",
+  "documentationUrl": "https://docs.jasper.ai",
   "githubUrl": "https://github.com/search?q=jasper&type=repositories",
   "twitterUrl": "https://twitter.com/heyjasperai",
   "screenshot": "/screenshots/jasper_ai.png",
   "screenshot_640": "/screenshots/jasper_ai_640.png",
   "screenshot_400": "/screenshots/jasper_ai_400.png",
-  "updatedAt": "2025-05-14T04:46:24.265Z"
+  "updatedAt": "2025-05-14T12:28:44.049Z"
 }
