@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://grafana.com/",
+  "name": "Grafana",
+  "title": "grafana.com",
+  "payoff": "Composable observability platform",
+  "shortDescription": "Grafana is a comprehensive observability platform that allows users to monitor, visualize, and understand their metrics, logs, and traces. It is designed for developers, DevOps teams, and security professionals. Users can create custom dashboards to track real-time data across applications and infrastructure. An example use case is monitoring the performance of a cloud-based service, identifying bottlenecks, and improving system reliability.",
+  "pros": [
+    "Extensive visualization capabilities",
+    "Supports multiple data sources",
+    "Highly customizable and extensible"
+  ],
+  "cons": [
+    "Steep learning curve for new users",
+    "Can be resource-intensive",
+    "Complex setup for advanced configurations"
+  ],
+  "alternatives": [
+    "Prometheus [prometheus.io]",
+    "Datadog [datadoghq.com]",
+    "New Relic [newrelic.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Prometheus",
+      "url": "prometheus.io",
+      "reason": "Open-source monitoring, focuses on metrics"
+    },
+    {
+      "name": "Datadog",
+      "url": "datadoghq.com",
+      "reason": "Comprehensive cloud monitoring"
+    },
+    {
+      "name": "New Relic",
+      "url": "newrelic.com",
+      "reason": "Full-stack observability with APM"
+    }
+  ],
+  "tags": [
+    "observability",
+    "monitoring",
+    "visualization",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "System Monitor",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://grafana.com/",
+  "documentationUrl": "https://grafana.com/docs/",
+  "githubUrl": "https://github.com/grafana/",
+  "twitterUrl": "https://twitter.com/grafana",
+  "screenshot": "/screenshots/grafana_com.png",
+  "screenshot_640": "/screenshots/grafana_com_640.png",
+  "screenshot_400": "/screenshots/grafana_com_400.png",
+  "updatedAt": "2025-05-14T02:55:00.420Z"
+}

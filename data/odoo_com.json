@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://odoo.com/",
+  "name": "Odoo",
+  "title": "odoo.com",
+  "payoff": "All your business on one platform",
+  "shortDescription": "Odoo is a comprehensive suite of business applications covering all company needs from CRM to eCommerce, accounting, and beyond. It's designed for businesses of all sizes, offering tools for seamless integration and improved productivity. An example use case is a small business leveraging Odoo's CRM and eCommerce apps to manage customer relationships and online sales efficiently.",
+  "pros": [
+    "Comprehensive suite of integrated apps",
+    "Open source with a large developer community",
+    "Affordable flat-rate pricing"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "May require technical skills for customization",
+    "Enterprise version can be costly for startups"
+  ],
+  "alternatives": [
+    "SAP Business One [sap.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]",
+    "NetSuite [netsuite.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SAP Business One",
+      "url": "sap.com",
+      "reason": "Comprehensive ERP for larger enterprises"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "Flexible ERP with deep integration"
+    },
+    {
+      "name": "NetSuite",
+      "url": "netsuite.com",
+      "reason": "Cloud-based ERP for fast-growing businesses"
+    }
+  ],
+  "tags": [
+    "ERP",
+    "CRM",
+    "open source",
+    "business management"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Enterprise Planning",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2005,
+  "websiteUrl": "https://odoo.com/",
+  "documentationUrl": "https://www.odoo.com/documentation",
+  "githubUrl": "https://github.com/odoo",
+  "twitterUrl": "https://twitter.com/Odoo",
+  "screenshot": "/screenshots/odoo_com.png",
+  "screenshot_640": "/screenshots/odoo_com_640.png",
+  "screenshot_400": "/screenshots/odoo_com_400.png",
+  "updatedAt": "2025-05-14T02:55:49.855Z"
+}
