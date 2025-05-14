@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://teachfloor.com/",
+  "name": "Teachfloor",
+  "title": "teachfloor.com",
+  "payoff": "Leading social learning platform",
+  "shortDescription": "Teachfloor is a social learning platform designed to enhance online academies by fostering engagement and collaboration among students. It allows educators to create, manage, and deliver interactive courses with features like live classes, peer reviews, and automated content embedding. Ideal for educators aiming to build vibrant learning communities, it supports both synchronous and asynchronous learning environments.",
+  "pros": [
+    "Customizable white-label platform",
+    "Integration with Zoom for live classes",
+    "Automated course management features"
+  ],
+  "cons": [
+    "May require familiarity with third-party integrations",
+    "Potential complexity in initial setup",
+    "Dependent on external platforms like Zoom"
+  ],
+  "alternatives": [
+    "Moodle [moodle.org]",
+    "Blackboard [blackboard.com]",
+    "Canvas [instructure.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Moodle",
+      "url": "moodle.org",
+      "reason": "Open-source platform with customization"
+    },
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in academic institutions"
+    },
+    {
+      "name": "Canvas",
+      "url": "instructure.com",
+      "reason": "Flexible and scalable for institutions"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "course management",
+    "social learning",
+    "online education"
+  ],
+  "apiUsed": true,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://teachfloor.com/",
+  "documentationUrl": "https://teachfloor.com/docs",
+  "githubUrl": "https://github.com/search?q=teachfloor&type=repositories",
+  "twitterUrl": "https://twitter.com/teachfloor",
+  "screenshot": "/screenshots/teachfloor_com.png",
+  "screenshot_640": "/screenshots/teachfloor_com_640.png",
+  "screenshot_400": "/screenshots/teachfloor_com_400.png",
+  "updatedAt": "2025-05-14T05:43:04.719Z"
+}

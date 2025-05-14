@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://learn.xyz/",
+  "name": "Learn.xyz",
+  "title": "learn.xyz",
+  "payoff": "Training so fun, they'll forget",
+  "shortDescription": "Learn.xyz transforms traditional, often tedious documentation into engaging, gamified learning experiences. Designed for busy learners, this tool quickly converts policies, handbooks, and PDFs into digestible micro-lessons. Ideal for teams looking to enhance their training processes, an example use case could be a company aiming to improve compliance training efficiency and engagement.",
+  "pros": [
+    "Gamified learning enhances engagement",
+    "Supports various content types like PDFs and handbooks",
+    "Offers detailed analytics on user engagement"
+  ],
+  "cons": [
+    "May require regular content updates",
+    "Potentially high setup costs",
+    "Limited to digital formats"
+  ],
+  "alternatives": [
+    "TalentLMS [talentlms.com]",
+    "Coursera for Business [coursera.org/business]",
+    "Udemy Business [business.udemy.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Skillsoft",
+      "url": "skillsoft.com",
+      "reason": "Wide range of professional courses"
+    },
+    {
+      "name": "Pluralsight",
+      "url": "pluralsight.com",
+      "reason": "Tech-focused learning paths"
+    },
+    {
+      "name": "LinkedIn Learning",
+      "url": "linkedin.com/learning",
+      "reason": "Integrates with professional network"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Content Management",
+    "Gamification",
+    "Training"
+  ],
+  "apiUsed": true,
+  "department": "Human Resources",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://learn.xyz/",
+  "documentationUrl": "https://learn.xyz/docs",
+  "githubUrl": "https://github.com/search?q=learn%20xyz&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/learn_xyz.png",
+  "screenshot_640": "/screenshots/learn_xyz_640.png",
+  "screenshot_400": "/screenshots/learn_xyz_400.png",
+  "updatedAt": "2025-05-14T05:42:41.050Z"
+}

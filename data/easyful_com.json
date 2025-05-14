@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://easyful.com/",
+  "name": "Easyful",
+  "title": "easyful.com",
+  "payoff": "Sell digital products with no fees",
+  "shortDescription": "Easyful allows users to sell digital products directly without incurring delivery fees, leveraging Stripe's payment processing capabilities. Ideal for creators and small businesses looking to minimize overhead while selling online. Users can manage their sales, products, and customer interactions directly from their Stripe dashboard, enhancing ease of use and efficiency.",
+  "pros": [
+    "Zero delivery fees",
+    "Direct integration with Stripe",
+    "No coding required for setup"
+  ],
+  "cons": [
+    "Limited to Stripe users",
+    "May lack advanced customization",
+    "Dependent on third-party platform stability"
+  ],
+  "alternatives": [
+    "Gumroad [gumroad.com]",
+    "LemonSqueezy [lemonsqueezy.com]",
+    "Paddle [paddle.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Gumroad",
+      "url": "gumroad.com",
+      "reason": "Offers similar digital sales tools"
+    },
+    {
+      "name": "LemonSqueezy",
+      "url": "lemonsqueezy.com",
+      "reason": "Modern alternative with more features"
+    },
+    {
+      "name": "Paddle",
+      "url": "paddle.com",
+      "reason": "Combines payment processing with analytics"
+    }
+  ],
+  "tags": [
+    "E-commerce",
+    "Digital Sales",
+    "Stripe Integration",
+    "No-code"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://easyful.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=easyful&type=repositories",
+  "twitterUrl": "https://twitter.com/easyfulHQ",
+  "screenshot": "/screenshots/easyful_com.png",
+  "screenshot_640": "/screenshots/easyful_com_640.png",
+  "screenshot_400": "/screenshots/easyful_com_400.png",
+  "updatedAt": "2025-05-14T05:43:37.264Z"
+}
