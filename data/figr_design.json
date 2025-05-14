@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://figr.design/",
+  "name": "Figr",
+  "title": "figr.design",
+  "payoff": "AI-Driven UI Design & Workflow",
+  "shortDescription": "Figr is an AI-driven tool designed to enhance UI design and workflow processes. It caters to designers and developers seeking efficient ways to create and optimize user interfaces. An example use case is designing a finance dashboard for an educational platform, where Figr can automate layout adjustments and suggest design improvements based on AI analysis.",
+  "pros": [
+    "AI-driven design suggestions",
+    "Streamlined workflow for UI design",
+    "Supports multiple design file formats"
+  ],
+  "cons": [
+    "May require learning for new users",
+    "Limited customization in automated suggestions",
+    "Potential dependency on AI accuracy"
+  ],
+  "alternatives": [
+    "Adobe XD [adobe.com]",
+    "Sketch [sketch.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers comprehensive design & prototyping"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular for vector UI design and prototyping"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Collaborative interface design tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "UI Design",
+    "Workflow Automation",
+    "Design Tools"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://figr.design/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=figr&type=repositories",
+  "twitterUrl": "https://x.com/FigrDesign",
+  "screenshot": "/screenshots/figr_design.png",
+  "screenshot_640": "/screenshots/figr_design_640.png",
+  "screenshot_400": "/screenshots/figr_design_400.png",
+  "updatedAt": "2025-05-14T06:20:59.648Z"
+}
