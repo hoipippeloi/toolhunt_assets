@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getwren.ai/",
+  "name": "Wren AI",
+  "title": "getwren.ai",
+  "payoff": "Smarter Decisions with AI",
+  "shortDescription": "Wren AI leverages artificial intelligence to provide instant insights and smarter decision-making capabilities for enterprise data management. It is designed for data and business teams, enabling them to interact with databases through a conversational interface. Users can generate reports, dashboards, and visualizations without needing to write complex SQL queries. An example use case is a marketing team using Wren AI to quickly gather and visualize customer data trends to adjust their strategies.",
+  "pros": [
+    "Real-time data interaction",
+    "AI-driven data cleansing and enrichment",
+    "Extensive library of pre-built metrics"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "Dependence on AI accuracy",
+    "May require training for non-technical users"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Integrates well with Google Cloud"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Strong in data integration"
+    }
+  ],
+  "tags": [
+    "AI",
+    "business intelligence",
+    "data visualization",
+    "enterprise"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getwren.ai/",
+  "documentationUrl": "https://getwren.ai/docs",
+  "githubUrl": "https://github.com/Canner/wren-engine",
+  "twitterUrl": "https://x.com/getwrenai",
+  "screenshot": "/screenshots/getwren_ai.png",
+  "screenshot_640": "/screenshots/getwren_ai_640.png",
+  "screenshot_400": "/screenshots/getwren_ai_400.png",
+  "updatedAt": "2025-05-14T03:40:02.592Z"
+}

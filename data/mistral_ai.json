@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mistral.ai/",
+  "name": "Mistral AI",
+  "title": "mistral.ai",
+  "payoff": "Frontier AI in Your Hands",
+  "shortDescription": "Mistral AI provides a platform for building, customizing, and deploying AI applications tailored to specific needs. It offers enterprise-grade tooling and privacy-first deployment options, allowing users to maintain control over their data. Users can train, fine-tune, and deploy AI models on-premises or in the cloud. Example use case: A tech company uses Mistral AI to develop a multilingual customer service agent that adapts and delivers real-time solutions.",
+  "pros": [
+    "Customizable AI solutions",
+    "Privacy-first deployment",
+    "Enterprise-grade tooling"
+  ],
+  "cons": [
+    "Complex setup for beginners",
+    "Potential high costs for enterprise features",
+    "Requires technical expertise to maximize potential"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "IBM Watson [ibm.com/watson]",
+    "Google AI [ai.google]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Broad AI tools and APIs"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in enterprise AI solutions"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Advanced AI research and tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "machine learning",
+    "data privacy",
+    "enterprise"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mistral.ai/",
+  "documentationUrl": "https://docs.mistral.ai",
+  "githubUrl": "https://github.com/search?q=mistral%20ai&type=repositories",
+  "twitterUrl": "https://x.com/mistralai",
+  "screenshot": "/screenshots/mistral_ai.png",
+  "screenshot_640": "/screenshots/mistral_ai_640.png",
+  "screenshot_400": "/screenshots/mistral_ai_400.png",
+  "updatedAt": "2025-05-14T03:39:02.023Z"
+}

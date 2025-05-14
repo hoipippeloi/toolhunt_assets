@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bsky.app/",
+  "name": "Bluesky",
+  "title": "bsky.app",
+  "payoff": "Explore the new digital sky",
+  "shortDescription": "Bluesky is a cutting-edge platform designed to revolutionize how individuals and businesses interact with cloud-based services. It offers a range of solutions from data storage to efficient collaboration tools, making it ideal for startups and enterprises alike. An example use case is a small business utilizing Bluesky to streamline their operations and enhance team collaboration remotely.",
+  "pros": [
+    "Enhanced collaboration features",
+    "Scalable cloud-based solutions",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potential data privacy concerns",
+    "Dependence on internet connectivity"
+  ],
+  "alternatives": [
+    "Google Cloud Platform [cloud.google.com]",
+    "Microsoft Azure [azure.microsoft.com]",
+    "AWS [aws.amazon.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Cloud Platform",
+      "url": "cloud.google.com",
+      "reason": "Offers extensive cloud services"
+    },
+    {
+      "name": "Microsoft Azure",
+      "url": "azure.microsoft.com",
+      "reason": "Wide range of integrated cloud tools"
+    },
+    {
+      "name": "AWS",
+      "url": "aws.amazon.com",
+      "reason": "Leader in cloud computing services"
+    }
+  ],
+  "tags": [
+    "cloud services",
+    "collaboration",
+    "data storage",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Cloud Platform",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://bsky.app/",
+  "documentationUrl": "https://bsky.app/docs",
+  "githubUrl": "https://github.com/search?q=bluesky&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/bsky_app.png",
+  "screenshot_640": "/screenshots/bsky_app_640.png",
+  "screenshot_400": "/screenshots/bsky_app_400.png",
+  "updatedAt": "2025-05-14T03:39:39.568Z"
+}
