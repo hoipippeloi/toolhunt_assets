@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blissbox.life/",
+  "name": "BlissBox",
+  "title": "blissbox.life",
+  "payoff": "Capture and treasure memories",
+  "shortDescription": "BlissBox is a digital platform designed to capture and preserve memories from various events such as weddings, team buildings, and family reunions. Users can create a 'memory box' where guests can leave messages and photos. This tool is ideal for event organizers, families, or anyone looking to create a lasting digital keepsake of special occasions.",
+  "pros": [
+    "Easy to use and accessible",
+    "Supports instant photo uploads in messages",
+    "Messages can be sealed and opened later"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on internet access",
+    "No offline capabilities"
+  ],
+  "alternatives": [
+    "Kudoboard [kudoboard.com]",
+    "Tribute [tribute.co]",
+    "Gather [gather.town]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kudoboard",
+      "url": "kudoboard.com",
+      "reason": "Offers similar digital memory features"
+    },
+    {
+      "name": "Tribute",
+      "url": "tribute.co",
+      "reason": "Focuses on video testimonials"
+    },
+    {
+      "name": "Gather",
+      "url": "gather.town",
+      "reason": "Adds virtual spaces to memory sharing"
+    }
+  ],
+  "tags": [
+    "digital memory box",
+    "event management",
+    "guestbook",
+    "memory preservation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://blissbox.life/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=blissbox&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/blissbox_life.png",
+  "screenshot_640": "/screenshots/blissbox_life_640.png",
+  "screenshot_400": "/screenshots/blissbox_life_400.png",
+  "updatedAt": "2025-05-14T01:07:12.003Z"
+}
