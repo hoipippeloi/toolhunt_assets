@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://notion.com/product/calendar",
+  "name": "Notion Calendar",
+  "title": "notion.com",
+  "payoff": "Manage time and work together",
+  "shortDescription": "Notion Calendar is a versatile scheduling tool integrated within the Notion workspace. It simplifies time management by allowing users to see their schedules, manage projects, and connect with team members across different time zones. Ideal for individuals and teams, it supports direct meeting creation and updates project timelines effectively. An example use case is a project manager coordinating tasks and meetings across global teams.",
+  "pros": [
+    "Fully integrated with Notion workspace",
+    "Supports multiple time zones and languages",
+    "Direct integration with major calendar and conferencing tools"
+  ],
+  "cons": [
+    "Dependent on Notion platform",
+    "Limited customization options",
+    "Potential privacy concerns with workspace integration"
+  ],
+  "alternatives": [
+    "Google Calendar [calendar.google.com]",
+    "Microsoft Outlook [outlook.com]",
+    "Apple Calendar [apple.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Calendar",
+      "url": "calendar.google.com",
+      "reason": "Widely used with robust features"
+    },
+    {
+      "name": "Microsoft Outlook",
+      "url": "outlook.com",
+      "reason": "Integrated email and calendar solution"
+    },
+    {
+      "name": "Apple Calendar",
+      "url": "apple.com",
+      "reason": "Seamless integration with Apple devices"
+    }
+  ],
+  "tags": [
+    "calendar",
+    "time management",
+    "scheduling",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Calendar",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://notion.com/product/calendar",
+  "documentationUrl": "https://www.notion.so/help/calendar",
+  "githubUrl": "https://github.com/search?q=notion%20calendar&type=repositories",
+  "twitterUrl": "https://twitter.com/NotionHQ",
+  "screenshot": "/screenshots/notion_com.png",
+  "screenshot_640": "/screenshots/notion_com_640.png",
+  "screenshot_400": "/screenshots/notion_com_400.png",
+  "updatedAt": "2025-05-14T04:19:21.220Z"
+}
