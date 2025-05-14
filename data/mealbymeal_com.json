@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mealbymeal.com/",
+  "name": "MealByMeal",
+  "title": "mealbymeal.com",
+  "payoff": "Calorie Tracking over Text Message",
+  "shortDescription": "MealByMeal simplifies calorie tracking by allowing users to log meals via text messages. It targets individuals looking to manage their weight without the hassle of traditional calorie counting apps. Users simply text what they eat, and the system automatically logs it, supporting healthier eating habits and weight management. Example use case: A user wants to maintain a diet but finds apps like MyFitnessPal cumbersome. They switch to MealByMeal for easier tracking.",
+  "pros": [
+    "Quick and easy meal logging via text",
+    "Automatic conversion of units and food tracking at restaurants",
+    "Supports multiple languages for broader accessibility"
+  ],
+  "cons": [
+    "Limited to text-based input which might not be as detailed",
+    "Only supports texting from the US without additional fees",
+    "Lower accuracy in non-English languages"
+  ],
+  "alternatives": [
+    "MyFitnessPal [myfitnesspal.com]",
+    "Lose It! [loseit.com]",
+    "Cronometer [cronometer.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Popular for detailed diet tracking"
+    },
+    {
+      "name": "Lose It!",
+      "url": "loseit.com",
+      "reason": "Focuses on calorie budgeting"
+    },
+    {
+      "name": "Cronometer",
+      "url": "cronometer.com",
+      "reason": "Tracks nutrition and biometrics"
+    }
+  ],
+  "tags": [
+    "health",
+    "nutrition tracking",
+    "weight management",
+    "mobile app"
+  ],
+  "apiUsed": false,
+  "department": "Health & Wellness",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mealbymeal.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mealbymeal&type=repositories",
+  "twitterUrl": "https://twitter.com/mealbymeal",
+  "screenshot": "/screenshots/mealbymeal_com.png",
+  "screenshot_640": "/screenshots/mealbymeal_com_640.png",
+  "screenshot_400": "/screenshots/mealbymeal_com_400.png",
+  "updatedAt": "2025-05-14T05:16:12.308Z"
+}

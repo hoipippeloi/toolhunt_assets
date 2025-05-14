@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getcartwheel.com/",
+  "name": "Cartwheel",
+  "title": "getcartwheel.com",
+  "payoff": "Animate simply by typing.",
+  "shortDescription": "Cartwheel is a text-to-animation platform designed to simplify the creation of animations for various digital projects. Users can animate characters for videos, games, apps, advertisements, and even AR or VR projects just by typing. This tool is particularly useful for developers, designers, and content creators who need quick and customizable animations. An example use case could be a game developer creating character animations without needing complex animation software.",
+  "pros": [
+    "Easy text-to-animation conversion",
+    "Editable animations for fine-tuning",
+    "Supports multiple project types"
+  ],
+  "cons": [
+    "May lack advanced customization",
+    "Potentially limited animation styles",
+    "Dependent on text input quality"
+  ],
+  "alternatives": [
+    "Adobe Animate [adobe.com]",
+    "Blender [blender.org]",
+    "Unity [unity.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Animate",
+      "url": "adobe.com",
+      "reason": "Industry standard for complex animations."
+    },
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Open source and highly versatile."
+    },
+    {
+      "name": "Unity",
+      "url": "unity.com",
+      "reason": "Great for game development animations."
+    }
+  ],
+  "tags": [
+    "animation",
+    "text-to-animation",
+    "video production",
+    "AR/VR"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getcartwheel.com/",
+  "documentationUrl": "https://docs.getcartwheel.com/",
+  "githubUrl": "https://github.com/search?q=cartwheel&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/getcartwheel_com.png",
+  "screenshot_640": "/screenshots/getcartwheel_com_640.png",
+  "screenshot_400": "/screenshots/getcartwheel_com_400.png",
+  "updatedAt": "2025-05-14T05:15:49.901Z"
+}
