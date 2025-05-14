@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://primevideo.com/",
+  "name": "Prime Video",
+  "title": "primevideo.com",
+  "payoff": "Exclusive shows and movies anytime",
+  "shortDescription": "Prime Video offers a vast library of movies and TV shows available for streaming. It caters to a diverse audience with options to watch on various devices, making it ideal for entertainment seekers. Users can enjoy exclusive Amazon Originals and popular films on the go. An example use case is a family using Prime Video to enjoy a movie night at home.",
+  "pros": [
+    "Exclusive Amazon Originals",
+    "Supports offline downloads",
+    "Available on multiple devices"
+  ],
+  "cons": [
+    "Requires Amazon Prime membership",
+    "Limited availability in some regions",
+    "Potential additional charges for premium content"
+  ],
+  "alternatives": [
+    "Netflix [netflix.com]",
+    "Hulu [hulu.com]",
+    "Disney+ [disneyplus.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Netflix",
+      "url": "netflix.com",
+      "reason": "Wide range of movies and series"
+    },
+    {
+      "name": "Hulu",
+      "url": "hulu.com",
+      "reason": "Offers current TV shows and movies"
+    },
+    {
+      "name": "Disney+",
+      "url": "disneyplus.com",
+      "reason": "Family-friendly and exclusive Disney content"
+    }
+  ],
+  "tags": [
+    "streaming service",
+    "video on demand",
+    "entertainment",
+    "digital content"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://primevideo.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=prime%20video&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/primevideo_com.png",
+  "screenshot_640": "/screenshots/primevideo_com_640.png",
+  "screenshot_400": "/screenshots/primevideo_com_400.png",
+  "updatedAt": "2025-05-14T04:46:46.425Z"
+}

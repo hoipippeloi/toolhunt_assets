@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zapier.com/",
+  "name": "Zapier",
+  "title": "zapier.com",
+  "payoff": "Automate AI Workflows, Agents, and Apps",
+  "shortDescription": "Zapier is a powerful automation platform that connects over 7,000 apps to help streamline workflows without the need for coding. It's designed for everyone from Fortune 500 companies to first-time founders. An example use case is automating data transfer between CRM systems and marketing tools to enhance sales processes.",
+  "pros": [
+    "No-code automation across 7,000+ apps",
+    "Rapid deployment of automations",
+    "Highly customizable workflows"
+  ],
+  "cons": [
+    "Can be expensive for high-volume users",
+    "Steep learning curve for complex workflows",
+    "Limited control over third-party app updates"
+  ],
+  "alternatives": [
+    "Integromat [integromat.com]",
+    "Automate.io [automate.io]",
+    "Microsoft Power Automate [powerautomate.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focus on marketing and sales apps"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Deep integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "automation",
+    "no-code",
+    "AI",
+    "workflow management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://zapier.com/",
+  "documentationUrl": "https://zapier.com/help",
+  "githubUrl": "https://github.com/search?q=zapier&type=repositories",
+  "twitterUrl": "https://x.com/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!/zapier",
+  "screenshot": "/screenshots/zapier_com.png",
+  "screenshot_640": "/screenshots/zapier_com_640.png",
+  "screenshot_400": "/screenshots/zapier_com_400.png",
+  "updatedAt": "2025-05-14T04:45:37.382Z"
+}

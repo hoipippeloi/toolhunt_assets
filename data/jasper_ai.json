@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jasper.ai/",
+  "name": "Jasper",
+  "title": "jasper.ai",
+  "payoff": "AI for impactful marketing",
+  "shortDescription": "Jasper is an AI platform tailored for marketing professionals, enhancing marketing impact and ROI. It integrates AI into every marketing workflow, allowing marketers to leverage advanced tools for content creation, campaign management, and brand control. Example use case: A marketer uses Jasper to automate email sequences and personalize content, significantly reducing time-to-market and improving engagement.",
+  "pros": [
+    "Integrates AI across all marketing workflows",
+    "Enterprise-grade security and brand control",
+    "Comprehensive toolkit for various marketing needs"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Potentially high cost for small businesses",
+    "Dependence on AI could limit creative control"
+  ],
+  "alternatives": [
+    "HubSpot [hubspot.com]",
+    "Marketo [marketo.com]",
+    "Hootsuite [hootsuite.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers broader CRM and marketing tools"
+    },
+    {
+      "name": "Marketo",
+      "url": "marketo.com",
+      "reason": "Focuses on automation and analytics"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Strong in social media management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "marketing",
+    "content creation",
+    "brand management"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://jasper.ai/",
+  "documentationUrl": "https://help.jasper.ai/hc/en-us",
+  "githubUrl": "https://github.com/search?q=jasper&type=repositories",
+  "twitterUrl": "https://twitter.com/heyjasperai",
+  "screenshot": "/screenshots/jasper_ai.png",
+  "screenshot_640": "/screenshots/jasper_ai_640.png",
+  "screenshot_400": "/screenshots/jasper_ai_400.png",
+  "updatedAt": "2025-05-14T04:46:24.265Z"
+}
