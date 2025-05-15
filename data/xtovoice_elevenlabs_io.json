@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://xtovoice.elevenlabs.io/",
+  "name": "X to Voice",
+  "title": "xtovoice.elevenlabs.io",
+  "payoff": "Unique voice from your profile",
+  "shortDescription": "X to Voice by ElevenLabs allows users to analyze their profiles to generate unique voices using advanced voice design technology. Ideal for creators, marketers, and developers, this tool provides a seamless way to create distinct voices for various applications. For example, a content creator can use this tool to generate different narrative voices for their audiobooks or podcasts.",
+  "pros": [
+    "Custom voice generation",
+    "Easy to use interface",
+    "High-quality voice output"
+  ],
+  "cons": [
+    "Limited language options",
+    "Potentially high cost",
+    "Requires technical know-how"
+  ],
+  "alternatives": [
+    "Descript [descript.com]",
+    "Murf.ai [murf.ai]",
+    "Voicery [voicery.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Offers editing and voice synthesis"
+    },
+    {
+      "name": "Murf.ai",
+      "url": "murf.ai",
+      "reason": "Focuses on realistic voiceovers"
+    },
+    {
+      "name": "Voicery",
+      "url": "voicery.com",
+      "reason": "Specializes in custom voice generation"
+    }
+  ],
+  "tags": [
+    "voice synthesis",
+    "AI",
+    "audio content",
+    "profile analysis"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://xtovoice.elevenlabs.io/",
+  "documentationUrl": "https://xtovoice.elevenlabs.io/docs",
+  "githubUrl": "https://github.com/elevenlabs/elevenlabs-examples/tree/main/examples/text-to-voice/x-to-voice",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/xtovoice_elevenlabs_io.png",
+  "screenshot_640": "/screenshots/xtovoice_elevenlabs_io_640.png",
+  "screenshot_400": "/screenshots/xtovoice_elevenlabs_io_400.png",
+  "updatedAt": "2025-05-15T04:20:35.541Z"
+}

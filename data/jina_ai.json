@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jina.ai/",
+  "name": "Jina AI",
+  "title": "jina.ai",
+  "payoff": "Supercharge Your Search Foundation",
+  "shortDescription": "Jina AI is a powerful search platform designed to enhance search capabilities across various applications. It is ideal for developers and businesses looking to integrate advanced search functionalities into their systems. An example use case includes integrating Jina AI into an e-commerce platform to improve product search results and recommendations.",
+  "pros": [
+    "Advanced AI-driven search capabilities",
+    "Scalable for enterprise-level solutions",
+    "Flexible integration options"
+  ],
+  "cons": [
+    "Requires technical expertise to implement",
+    "Potentially high cost for large scale deployments",
+    "Limited support for non-technical users"
+  ],
+  "alternatives": [
+    "Elasticsearch [elastic.co]",
+    "Algolia [algolia.com]",
+    "Apache Solr [lucene.apache.org/solr/]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Popular for scalable search solutions"
+    },
+    {
+      "name": "Algolia",
+      "url": "algolia.com",
+      "reason": "Provides hosted search APIs"
+    },
+    {
+      "name": "Apache Solr",
+      "url": "lucene.apache.org/solr",
+      "reason": "Open source and highly flexible"
+    }
+  ],
+  "tags": [
+    "AI",
+    "search engine",
+    "machine learning",
+    "data processing"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Search",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://jina.ai/",
+  "documentationUrl": "https://docs.jina.ai",
+  "githubUrl": "https://github.com/jina-ai/reader/issues",
+  "twitterUrl": "https://x.com/jinaAI_",
+  "screenshot": "/screenshots/jina_ai.png",
+  "screenshot_640": "/screenshots/jina_ai_640.png",
+  "screenshot_400": "/screenshots/jina_ai_400.png",
+  "updatedAt": "2025-05-15T04:19:48.488Z"
+}

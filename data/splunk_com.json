@@ -3,49 +3,49 @@
   "name": "Splunk",
   "title": "splunk.com",
   "payoff": "Enterprise Resilience with AI",
-  "shortDescription": "Splunk provides a platform for security and observability, enhancing enterprise resilience through AI-driven insights. It is designed for IT, security, and DevOps teams to secure and optimize their operations. Example use case includes automating threat detection and response, improving system performance, and ensuring compliance across digital ecosystems.",
+  "shortDescription": "Splunk provides a platform for security and observability, integrating AI to enhance enterprise resilience. It is designed for IT and security teams, enabling them to manage complex digital ecosystems efficiently. An example use case is its ability to detect and respond to security threats rapidly, ensuring minimal downtime and enhanced operational performance.",
   "pros": [
-    "AI-driven analytics for real-time insights",
-    "Comprehensive security and observability",
-    "Scalable across complex IT environments"
+    "Advanced AI integration for threat detection",
+    "Comprehensive observability across systems",
+    "Scalable and flexible for large enterprises"
   ],
   "cons": [
-    "Can be complex to configure",
-    "High cost for small businesses",
-    "Steep learning curve for new users"
+    "Can be complex to set up and manage",
+    "Potentially high cost for smaller organizations",
+    "Requires technical expertise to maximize benefits"
   ],
   "alternatives": [
-    "Datadog [datadoghq.com]",
+    "Datadog [datadog.com]",
     "New Relic [newrelic.com]",
     "Elastic [elastic.co]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Datadog",
-      "url": "datadoghq.com",
-      "reason": "Similar IT monitoring with stronger cloud focus"
+      "url": "datadog.com",
+      "reason": "Offers extensive monitoring and security features"
     },
     {
       "name": "New Relic",
       "url": "newrelic.com",
-      "reason": "Offers detailed app performance insights"
+      "reason": "Focuses on real-time observability and analytics"
     },
     {
       "name": "Elastic",
       "url": "elastic.co",
-      "reason": "Focuses on search and data visualization"
+      "reason": "Known for searchable data and visualizations"
     }
   ],
   "tags": [
     "security",
     "observability",
     "AI",
-    "data analytics"
+    "enterprise"
   ],
   "apiUsed": true,
   "department": "Information Technology",
   "function": "Security",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
   "releasedYear": 2003,
   "websiteUrl": "https://splunk.com/",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/splunk_com.png",
   "screenshot_640": "/screenshots/splunk_com_640.png",
   "screenshot_400": "/screenshots/splunk_com_400.png",
-  "updatedAt": "2025-05-12T13:58:48.091Z"
+  "updatedAt": "2025-05-15T04:21:39.931Z"
 }
