@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sink.cool/",
+  "name": "Sink",
+  "title": "sink.cool",
+  "payoff": "Secure Link Shortener with Analytics",
+  "shortDescription": "Sink is a cloud-based link shortener that offers a simple, speedy, and secure way to manage and analyze your URLs. It compresses URLs to their minimal length, provides detailed analytics, and supports personalized slugs and case sensitivity. Ideal for marketers and content creators who need to track engagement and optimize their links. An example use case is a marketing team tracking the performance of different campaign URLs to understand user engagement and optimize future campaigns.",
+  "pros": [
+    "100% run on Cloudflare for enhanced security",
+    "Supports personalized slugs and case sensitivity",
+    "Provides detailed link analytics"
+  ],
+  "cons": [
+    "Limited customization options",
+    "No clear integration capabilities",
+    "May not support very high traffic volumes"
+  ],
+  "alternatives": [
+    "Bitly [bitly.com]",
+    "TinyURL [tinyurl.com]",
+    "Rebrandly [rebrandly.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bitly",
+      "url": "bitly.com",
+      "reason": "Popular choice with extensive features"
+    },
+    {
+      "name": "TinyURL",
+      "url": "tinyurl.com",
+      "reason": "Simple and widely used for quick shortening"
+    },
+    {
+      "name": "Rebrandly",
+      "url": "rebrandly.com",
+      "reason": "Offers branding options for links"
+    }
+  ],
+  "tags": [
+    "link shortener",
+    "analytics",
+    "cloud-based",
+    "URL management"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Link Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sink.cool/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/ccbikai/sink",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/sink_cool.png",
+  "screenshot_640": "/screenshots/sink_cool_640.png",
+  "screenshot_400": "/screenshots/sink_cool_400.png",
+  "updatedAt": "2025-05-15T02:54:29.119Z"
+}

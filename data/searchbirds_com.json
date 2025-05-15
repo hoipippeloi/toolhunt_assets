@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://searchbirds.com/",
+  "name": "Searchbirds",
+  "title": "searchbirds.com",
+  "payoff": "Optimize your search experience",
+  "shortDescription": "Searchbirds is a cutting-edge search tool designed to enhance the efficiency and accuracy of online searches. It is tailored for researchers, marketers, and data analysts who require precise search capabilities. An example use case includes academic researchers using Searchbirds to filter and retrieve specific publications from vast databases.",
+  "pros": [
+    "Advanced filtering options",
+    "High-speed search results",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited language support",
+    "Subscription can be expensive",
+    "Requires initial setup time"
+  ],
+  "alternatives": [
+    "Google Search [google.com]",
+    "Bing [bing.com]",
+    "DuckDuckGo [duckduckgo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Search",
+      "url": "google.com",
+      "reason": "Widely used with extensive index"
+    },
+    {
+      "name": "Bing",
+      "url": "bing.com",
+      "reason": "Integrated with Microsoft products"
+    },
+    {
+      "name": "DuckDuckGo",
+      "url": "duckduckgo.com",
+      "reason": "Focuses on user privacy and anonymity"
+    }
+  ],
+  "tags": [
+    "search engine",
+    "data retrieval",
+    "online research"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Search",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://searchbirds.com/",
+  "documentationUrl": "https://searchbirds.com/docs",
+  "githubUrl": "https://github.com/search?q=searchbirds&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/searchbirds_com.png",
+  "screenshot_640": "/screenshots/searchbirds_com_640.png",
+  "screenshot_400": "/screenshots/searchbirds_com_400.png",
+  "updatedAt": "2025-05-15T02:55:00.829Z"
+}

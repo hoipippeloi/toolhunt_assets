@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://craftar.io/",
+  "name": "Craftar",
+  "title": "craftar.io",
+  "payoff": "Craft Automations Visually With No-Code",
+  "shortDescription": "Craftar is a visual programming tool designed to simplify workflow automation without requiring coding skills. Users can connect blocks to automate tasks, leveraging a drag-and-drop interface that supports scalable deployments. Ideal for businesses looking to enhance efficiency, Craftar allows for easy creation of custom APIs and integration of pre-built automations. Example use case: A small business can streamline order processing by automating data entry and verification steps.",
+  "pros": [
+    "No-code visual programming interface",
+    "Scalable with pay-as-you-go pricing",
+    "Modular automations that can be reused as APIs"
+  ],
+  "cons": [
+    "May not suit complex coding needs",
+    "Limited control compared to full coding",
+    "Dependent on the platform for updates and features"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Microsoft Power Automate [powerautomate.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Wide range of integrations and triggers"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach with deeper logic control"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Strong enterprise integration and AI features"
+    }
+  ],
+  "tags": [
+    "automation",
+    "no-code",
+    "workflow",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://craftar.io/",
+  "documentationUrl": "https://craftar.io/docs",
+  "githubUrl": "https://github.com/search?q=craftar&type=repositories",
+  "twitterUrl": "https://twitter.com/Craftario",
+  "screenshot": "/screenshots/craftar_io.png",
+  "screenshot_640": "/screenshots/craftar_io_640.png",
+  "screenshot_400": "/screenshots/craftar_io_400.png",
+  "updatedAt": "2025-05-15T02:53:58.712Z"
+}
