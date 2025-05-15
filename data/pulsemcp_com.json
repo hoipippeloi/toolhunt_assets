@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pulsemcp.com/",
+  "name": "PulseMCP",
+  "title": "pulsemcp.com",
+  "payoff": "Stay current with MCP updates",
+  "shortDescription": "PulseMCP serves as a central hub for all things related to the Model Context Protocol (MCP), targeting developers and IT professionals. It provides updates, resources, and news about MCP servers and clients. An example use case is attending the MCP conference to network with ecosystem leaders and gain insights into the latest developments.",
+  "pros": [
+    "Regular updates on MCP developments",
+    "Access to MCP resources and tools",
+    "Networking opportunities at MCP events"
+  ],
+  "cons": [
+    "Limited space at events",
+    "Focus only on MCP related content",
+    "Requires email confirmation for updates"
+  ],
+  "alternatives": [
+    "Protocol Labs [protocol.ai]",
+    "OpenAI [openai.com]",
+    "Mozilla Developer Network [developer.mozilla.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Protocol Labs",
+      "url": "protocol.ai",
+      "reason": "Focuses on decentralized web protocols"
+    },
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leader in AI research and applications"
+    },
+    {
+      "name": "Mozilla Developer Network",
+      "url": "developer.mozilla.org",
+      "reason": "Comprehensive web technology docs"
+    }
+  ],
+  "tags": [
+    "MCP",
+    "IT conferences",
+    "developer resources",
+    "protocol updates"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://pulsemcp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/modelcontextprotocol",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/pulsemcp_com.png",
+  "screenshot_640": "/screenshots/pulsemcp_com_640.png",
+  "screenshot_400": "/screenshots/pulsemcp_com_400.png",
+  "updatedAt": "2025-05-15T06:22:04.231Z"
+}

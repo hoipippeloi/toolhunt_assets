@@ -3,16 +3,16 @@
   "name": "AdRoll",
   "title": "adroll.com",
   "payoff": "Optimize your digital ad campaigns",
-  "shortDescription": "AdRoll is a programmatic advertising platform designed for brands and agencies to optimize their digital marketing efforts. It integrates with major ecommerce platforms and advertising channels to run full-funnel ad campaigns. Users can manage, measure, and optimize their campaigns from a single platform, making it ideal for driving conversions and reaching target audiences effectively.",
+  "shortDescription": "AdRoll is a programmatic advertising platform designed to help brands and agencies create, manage, and optimize digital advertising campaigns. It supports a variety of channels including display, video, and social ads. Users can leverage first-party data to target the right audience and automate campaigns across multiple platforms. Example use case: An e-commerce store uses AdRoll to re-engage visitors who abandoned their shopping carts, increasing conversions.",
   "pros": [
-    "Integrates with major ecommerce platforms",
-    "Offers full-funnel marketing automation",
-    "Provides detailed analytics and attribution"
+    "Supports full-funnel marketing campaigns",
+    "Integrates with major e-commerce platforms",
+    "Offers retargeting and audience targeting features"
   ],
   "cons": [
-    "May be complex for beginners",
+    "May require a learning curve for new users",
     "Potentially high cost for small businesses",
-    "Limited customization in certain areas"
+    "Limited customization options for advanced users"
   ],
   "alternatives": [
     "Criteo [criteo.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Criteo",
       "url": "criteo.com",
-      "reason": "Strong in dynamic retargeting ads"
+      "reason": "Offers similar retargeting and ad solutions"
     },
     {
       "name": "Google Ads",
       "url": "ads.google.com",
-      "reason": "Broad reach and advanced tools"
+      "reason": "Widespread reach and advanced targeting"
     },
     {
       "name": "Facebook Ads",
       "url": "facebook.com/business/ads",
-      "reason": "Excellent for social media targeting"
+      "reason": "Strong social media advertising capabilities"
     }
   ],
   "tags": [
     "advertising",
     "marketing automation",
-    "analytics",
-    "programmatic ads"
+    "programmatic ads",
+    "retargeting"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/adroll_com.png",
   "screenshot_640": "/screenshots/adroll_com_640.png",
   "screenshot_400": "/screenshots/adroll_com_400.png",
-  "updatedAt": "2025-05-15T05:15:52.292Z"
+  "updatedAt": "2025-05-15T06:21:37.007Z"
 }
