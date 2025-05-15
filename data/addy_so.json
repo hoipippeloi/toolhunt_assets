@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://addy.so/",
+  "name": "Addy AI",
+  "title": "addy.so",
+  "payoff": "Close loans faster, increase profits",
+  "shortDescription": "Addy AI revolutionizes the mortgage lending process by automating manual tasks with AI technology. Designed for mortgage lenders and banks, it helps close loans more rapidly and boosts profitability. An example use case includes instant loan assessments and data extraction, improving operational efficiency.",
+  "pros": [
+    "Speeds up mortgage loan processing",
+    "Integrates with existing CRM systems",
+    "AI-driven insights and eligibility suggestions"
+  ],
+  "cons": [
+    "Dependent on digital infrastructure quality",
+    "Potential privacy and data security concerns",
+    "May require training for optimal use"
+  ],
+  "alternatives": [
+    "Ellie Mae [elliemae.com]",
+    "LoanPro [loanpro.io]",
+    "Blend [blend.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Ellie Mae",
+      "url": "elliemae.com",
+      "reason": "Comprehensive mortgage solutions"
+    },
+    {
+      "name": "LoanPro",
+      "url": "loanpro.io",
+      "reason": "Flexible, API-driven loan servicing"
+    },
+    {
+      "name": "Blend",
+      "url": "blend.com",
+      "reason": "Integrates with banks for lending"
+    }
+  ],
+  "tags": [
+    "AI",
+    "mortgage lending",
+    "automation",
+    "financial services"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://addy.so/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=addy%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/addyai_",
+  "screenshot": "/screenshots/addy_so.png",
+  "screenshot_640": "/screenshots/addy_so_640.png",
+  "screenshot_400": "/screenshots/addy_so_400.png",
+  "updatedAt": "2025-05-15T05:42:53.889Z"
+}
