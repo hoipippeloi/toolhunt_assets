@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://manus.im/",
+  "name": "Manus",
+  "title": "manus.im",
+  "payoff": "Interactive Space Exploration Hub",
+  "shortDescription": "Manus is a dynamic platform designed for space enthusiasts. It offers an immersive experience of the solar system and the history of human space exploration. Users can navigate through various sections like the solar system, space stations, and the US-Soviet space race. An example use case is educational institutions using Manus to provide students with interactive learning tools about space.",
+  "pros": [
+    "Highly interactive and engaging",
+    "Educational and informative",
+    "Visually immersive with modern design"
+  ],
+  "cons": [
+    "Requires modern browser capabilities",
+    "Potentially high data usage",
+    "Complex navigation for less tech-savvy users"
+  ],
+  "alternatives": [
+    "SpaceX [spacex.com]",
+    "NASA [nasa.gov]",
+    "European Space Agency [esa.int]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Khan Academy",
+      "url": "khanacademy.org",
+      "reason": "Offers extensive educational content"
+    },
+    {
+      "name": "Coursera",
+      "url": "coursera.org",
+      "reason": "Provides online courses from universities"
+    },
+    {
+      "name": "Stellarium",
+      "url": "stellarium.org",
+      "reason": "Planetarium software for star viewing"
+    }
+  ],
+  "tags": [
+    "education",
+    "space exploration",
+    "interactive",
+    "web platform"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://manus.im/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=manus&type=repositories",
+  "twitterUrl": "https://x.com/ManusAI_HQ",
+  "screenshot": "/screenshots/manus_im.png",
+  "screenshot_640": "/screenshots/manus_im_640.png",
+  "screenshot_400": "/screenshots/manus_im_400.png",
+  "updatedAt": "2025-05-15T03:41:16.049Z"
+}

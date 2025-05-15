@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://woocommerce.com/",
+  "name": "WooCommerce",
+  "title": "woocommerce.com",
+  "payoff": "Customizable ecommerce platform",
+  "shortDescription": "WooCommerce is a flexible ecommerce platform built on WordPress, allowing users to create unique online stores. It's designed for small to large-sized online merchants using WordPress. The platform lets users sell physical and digital goods, manage inventory and shipping, take secure payments, and sort taxes automatically. It integrates seamlessly with WordPress, making it a go-to choice for existing WordPress users looking to expand into ecommerce.",
+  "pros": [
+    "Highly customizable and flexible",
+    "Strong integration with WordPress",
+    "Large community and extensive plugins"
+  ],
+  "cons": [
+    "Requires WordPress knowledge",
+    "Can be resource-intensive",
+    "Add-ons often needed for more functionality"
+  ],
+  "alternatives": [
+    "Shopify [shopify.com]",
+    "BigCommerce [bigcommerce.com]",
+    "Magento [magento.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Hosted platform, easier setup"
+    },
+    {
+      "name": "Magento",
+      "url": "magento.com",
+      "reason": "Enterprise-level, highly scalable"
+    },
+    {
+      "name": "PrestaShop",
+      "url": "prestashop.com",
+      "reason": "Open source, rich features"
+    }
+  ],
+  "tags": [
+    "ecommerce",
+    "WordPress",
+    "online store",
+    "web development"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2011,
+  "websiteUrl": "https://woocommerce.com/",
+  "documentationUrl": "https://woocommerce.com/documentation/",
+  "githubUrl": "https://github.com/search?q=woocommerce&type=repositories",
+  "twitterUrl": "https://www.x.com/woocommerce",
+  "screenshot": "/screenshots/woocommerce_com.png",
+  "screenshot_640": "/screenshots/woocommerce_com_640.png",
+  "screenshot_400": "/screenshots/woocommerce_com_400.png",
+  "updatedAt": "2025-05-15T03:40:42.177Z"
+}
