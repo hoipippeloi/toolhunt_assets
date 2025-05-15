@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://adroll.com/",
+  "name": "AdRoll",
+  "title": "adroll.com",
+  "payoff": "Optimize your digital ad campaigns",
+  "shortDescription": "AdRoll is a programmatic advertising platform designed for brands and agencies to optimize their digital marketing efforts. It integrates with major ecommerce platforms and advertising channels to run full-funnel ad campaigns. Users can manage, measure, and optimize their campaigns from a single platform, making it ideal for driving conversions and reaching target audiences effectively.",
+  "pros": [
+    "Integrates with major ecommerce platforms",
+    "Offers full-funnel marketing automation",
+    "Provides detailed analytics and attribution"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "Criteo [criteo.com]",
+    "Google Ads [ads.google.com]",
+    "Facebook Ads [facebook.com/business/ads]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Criteo",
+      "url": "criteo.com",
+      "reason": "Strong in dynamic retargeting ads"
+    },
+    {
+      "name": "Google Ads",
+      "url": "ads.google.com",
+      "reason": "Broad reach and advanced tools"
+    },
+    {
+      "name": "Facebook Ads",
+      "url": "facebook.com/business/ads",
+      "reason": "Excellent for social media targeting"
+    }
+  ],
+  "tags": [
+    "advertising",
+    "marketing automation",
+    "analytics",
+    "programmatic ads"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2007,
+  "websiteUrl": "https://adroll.com/",
+  "documentationUrl": "https://help.adroll.com",
+  "githubUrl": "https://github.com/search?q=adroll&type=repositories",
+  "twitterUrl": "https://twitter.com/AdRoll",
+  "screenshot": "/screenshots/adroll_com.png",
+  "screenshot_640": "/screenshots/adroll_com_640.png",
+  "screenshot_400": "/screenshots/adroll_com_400.png",
+  "updatedAt": "2025-05-15T05:15:52.292Z"
+}

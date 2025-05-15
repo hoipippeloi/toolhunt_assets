@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nas.io/",
+  "name": "Nas.io",
+  "title": "nas.io",
+  "payoff": "Make a living online easily",
+  "shortDescription": "Nas.io is designed to simplify the process of starting and managing an online business using AI-driven tools. It caters to entrepreneurs looking to launch digital products, build communities, and generate revenue quickly. An example use case is a solo entrepreneur using Nas.io to ideate, create, and market a digital course within minutes.",
+  "pros": [
+    "AI-driven product templates",
+    "Quick setup and launch",
+    "Support for building online communities"
+  ],
+  "cons": [
+    "May lack advanced customization",
+    "Potentially limited to digital products",
+    "Dependent on AI effectiveness"
+  ],
+  "alternatives": [
+    "Shopify [shopify.com]",
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "E-commerce platform for online stores"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Offers extensive design customization"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Known for aesthetic templates"
+    }
+  ],
+  "tags": [
+    "AI",
+    "entrepreneurship",
+    "digital products",
+    "online business"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://nas.io/",
+  "documentationUrl": "https://help.nas.io/en/",
+  "githubUrl": "https://github.com/search?q=nas%20io&type=repositories",
+  "twitterUrl": "https://twitter.com/Nascommunities",
+  "screenshot": "/screenshots/nas_io.png",
+  "screenshot_640": "/screenshots/nas_io_640.png",
+  "screenshot_400": "/screenshots/nas_io_400.png",
+  "updatedAt": "2025-05-15T05:17:01.557Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://playwright.dev/",
+  "name": "Playwright",
+  "title": "playwright.dev",
+  "payoff": "Reliable end-to-end testing for web apps",
+  "shortDescription": "Playwright is a robust tool designed for end-to-end testing across multiple browsers and platforms including Chromium, Firefox, and WebKit. It supports various programming languages such as JavaScript, Python, and .NET, making it versatile for developers. An example use case is automating testing scenarios that span multiple user profiles and browsers to ensure consistent behavior across different environments.",
+  "pros": [
+    "Supports all modern browsers",
+    "Automates testing across multiple platforms",
+    "Reduces flaky tests with auto-wait features"
+  ],
+  "cons": [
+    "Requires coding knowledge",
+    "Potentially steep learning curve",
+    "Limited to web application testing"
+  ],
+  "alternatives": [
+    "Selenium [selenium.dev]",
+    "Cypress [cypress.io]",
+    "TestCafe [devexpress.github.io/testcafe]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Widely used for browser automation"
+    },
+    {
+      "name": "Cypress",
+      "url": "cypress.io",
+      "reason": "Offers real-time reloads and testing"
+    },
+    {
+      "name": "TestCafe",
+      "url": "devexpress.github.io/testcafe",
+      "reason": "No WebDriver required for testing"
+    }
+  ],
+  "tags": [
+    "end-to-end testing",
+    "automation",
+    "cross-browser",
+    "development"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Testing",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://playwright.dev/",
+  "documentationUrl": "https://playwright.dev/docs/intro",
+  "githubUrl": "https://github.com/microsoft/playwright",
+  "twitterUrl": "https://twitter.com/playwrightweb",
+  "screenshot": "/screenshots/playwright_dev.png",
+  "screenshot_640": "/screenshots/playwright_dev_640.png",
+  "screenshot_400": "/screenshots/playwright_dev_400.png",
+  "updatedAt": "2025-05-15T05:16:15.839Z"
+}
