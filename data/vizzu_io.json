@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vizzu.io/",
+  "name": "Vizzu",
+  "title": "vizzu.io",
+  "payoff": "Animated data visualization and storytelling",
+  "shortDescription": "Vizzu offers AI-powered visual data analysis and storytelling, tailored for business professionals. Users can upload data to easily identify trends and insights without complex tools. The platform allows seamless transitions between data exploration and presentation, enhancing clarity and engagement. An example use case involves a marketer using Vizzu to craft animated data stories, aiding in explaining complex data relationships during presentations.",
+  "pros": [
+    "Seamless transition between data exploration and presentation",
+    "Automatic creation of animated data stories",
+    "Facilitates interactive discussions during presentations"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Dependent on data quality and structure",
+    "Limited offline capabilities"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]",
+    "Google Data Studio [datastudio.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for interactive data viz."
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates with MS products"
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with Google services"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "data storytelling",
+    "AI",
+    "business intelligence"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://vizzu.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=vizzu&type=repositories",
+  "twitterUrl": "https://twitter.com/vizzuhq?lang=en",
+  "screenshot": "/screenshots/vizzu_io.png",
+  "screenshot_640": "/screenshots/vizzu_io_640.png",
+  "screenshot_400": "/screenshots/vizzu_io_400.png",
+  "updatedAt": "2025-05-15T01:05:29.549Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mindsdb.com/",
+  "name": "MindsDB",
+  "title": "mindsdb.com",
+  "payoff": "Enterprise Data Platform for AI",
+  "shortDescription": "MindsDB is designed to help enterprises harness the power of AI through their data platforms. It connects, unifies, and responds to data inputs, making it ideal for businesses looking to integrate AI into their operations. An example use case is a company using MindsDB to predict customer behavior by analyzing transaction data, thereby enhancing decision-making and strategic planning.",
+  "pros": [
+    "Integrates with multiple data sources",
+    "Facilitates AI-driven predictions",
+    "Supports step-by-step AI implementation guides"
+  ],
+  "cons": [
+    "Complex setup for beginners",
+    "Potential privacy concerns with data handling",
+    "Dependence on user's technical expertise"
+  ],
+  "alternatives": [
+    "DataRobot [datarobot.com]",
+    "H2O.ai [h2o.ai]",
+    "RapidMiner [rapidminer.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DataRobot",
+      "url": "datarobot.com",
+      "reason": "Offers automated machine learning"
+    },
+    {
+      "name": "H2O.ai",
+      "url": "h2o.ai",
+      "reason": "Provides open-source AI tools"
+    },
+    {
+      "name": "RapidMiner",
+      "url": "rapidminer.com",
+      "reason": "Features a robust analytics platform"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analytics",
+    "enterprise software",
+    "machine learning"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://mindsdb.com/",
+  "documentationUrl": "https://docs.mindsdb.com/",
+  "githubUrl": "https://github.com/mindsdb/mindsdb",
+  "twitterUrl": "https://twitter.com/MindsDB",
+  "screenshot": "/screenshots/mindsdb_com.png",
+  "screenshot_640": "/screenshots/mindsdb_com_640.png",
+  "screenshot_400": "/screenshots/mindsdb_com_400.png",
+  "updatedAt": "2025-05-15T01:07:55.527Z"
+}

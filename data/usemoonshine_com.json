@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usemoonshine.com/",
+  "name": "Moonshine",
+  "title": "usemoonshine.com",
+  "payoff": "Video Intelligence Simplified",
+  "shortDescription": "Moonshine is a cutting-edge video intelligence tool designed for developers and businesses seeking to integrate advanced video analysis capabilities into their applications. With just three lines of code, users can access powerful APIs that enable real-time video processing and analysis. Example use case includes enhancing security systems with automated surveillance and behavior detection.",
+  "pros": [
+    "Easy integration with minimal code",
+    "Real-time video processing",
+    "Scalable for enterprise use"
+  ],
+  "cons": [
+    "Limited to video-related features",
+    "May require technical knowledge to implement",
+    "Potential privacy concerns with video data"
+  ],
+  "alternatives": [
+    "Clarifai [clarifai.com]",
+    "DeepVision [deepvision.ai]",
+    "Google Cloud Video AI [cloud.google.com/video-intelligence]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Clarifai",
+      "url": "clarifai.com",
+      "reason": "Offers broad AI video analysis"
+    },
+    {
+      "name": "DeepVision",
+      "url": "deepvision.ai",
+      "reason": "Focuses on real-time video AI"
+    },
+    {
+      "name": "Google Cloud Video AI",
+      "url": "cloud.google.com/video-intelligence",
+      "reason": "Powerful cloud-based video AI"
+    }
+  ],
+  "tags": [
+    "video intelligence",
+    "API",
+    "real-time processing",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://usemoonshine.com/",
+  "documentationUrl": "https://usemoonshine.com/docs",
+  "githubUrl": "https://github.com/search?q=moonshine&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/usemoonshine_com.png",
+  "screenshot_640": "/screenshots/usemoonshine_com_640.png",
+  "screenshot_400": "/screenshots/usemoonshine_com_400.png",
+  "updatedAt": "2025-05-15T01:07:11.725Z"
+}
