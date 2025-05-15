@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getresponse.com/",
+  "name": "GetResponse",
+  "title": "getresponse.com",
+  "payoff": "All-in-one marketing platform",
+  "shortDescription": "GetResponse is a comprehensive marketing software designed for businesses looking to engage customers through email marketing, automation, and online campaigns. It offers tools from email marketing to landing pages and webinars, catering to entrepreneurs and marketers. An example use case is a small business using GetResponse to manage email campaigns, automate marketing processes, and track engagement through analytics.",
+  "pros": [
+    "Wide range of marketing tools",
+    "Integration with 100+ platforms",
+    "Affordable pricing tiers"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Limited customization options",
+    "Potentially overwhelming feature set for small projects"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "HubSpot [hubspot.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers broader template options"
+    },
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Provides more CRM features"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Stronger in automation features"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "marketing automation",
+    "SaaS",
+    "digital marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1998,
+  "websiteUrl": "https://getresponse.com/",
+  "documentationUrl": "https://getresponse.com/api-docs",
+  "githubUrl": "https://github.com/search?q=getresponse&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/getresponse_com.png",
+  "screenshot_640": "/screenshots/getresponse_com_640.png",
+  "screenshot_400": "/screenshots/getresponse_com_400.png",
+  "updatedAt": "2025-05-15T11:13:17.808Z"
+}
