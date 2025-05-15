@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gilion.com/",
+  "name": "Gilion",
+  "title": "gilion.com",
+  "payoff": "Optimize and finance your growth",
+  "shortDescription": "Gilion offers non-dilutive financing solutions tailored for startups and growth-focused companies. It provides a platform to understand, optimize, and finance business growth, making it ideal for founders seeking to expand without sacrificing equity. Example use case: A tech startup uses Gilion to secure funding while retaining full ownership, leveraging analytics to strategically drive their business forward.",
+  "pros": [
+    "Non-dilutive financing preserves equity",
+    "Integrated analytics for growth optimization",
+    "Founder-friendly terms"
+  ],
+  "cons": [
+    "May require stringent financial tracking",
+    "Limited to certain types of businesses",
+    "Potential dependency on platform for funding"
+  ],
+  "alternatives": [
+    "Clearco [clear.co]",
+    "Pipe [pipe.com]",
+    "Capchase [capchase.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Clearco",
+      "url": "clear.co",
+      "reason": "Offers revenue-based financing"
+    },
+    {
+      "name": "Pipe",
+      "url": "pipe.com",
+      "reason": "Turns revenues into tradeable assets"
+    },
+    {
+      "name": "Capchase",
+      "url": "capchase.com",
+      "reason": "Provides growth capital for SaaS"
+    }
+  ],
+  "tags": [
+    "startup financing",
+    "growth analytics",
+    "non-dilutive funding",
+    "financial services"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://gilion.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=gilion&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/gilion_com.png",
+  "screenshot_640": "/screenshots/gilion_com_640.png",
+  "screenshot_400": "/screenshots/gilion_com_400.png",
+  "updatedAt": "2025-05-15T04:44:59.231Z"
+}

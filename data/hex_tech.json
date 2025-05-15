@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hex.tech/",
+  "name": "Hex",
+  "title": "hex.tech",
+  "payoff": "Bring everyone together with data",
+  "shortDescription": "Hex is a collaborative, AI-powered workspace designed for data teams. It integrates various data workflows into a single platform, supporting SQL, Python, and R. Users can perform everything from simple queries to creating interactive data apps. An example use case includes ClickUp using Hex to enhance customer retention through data science.",
+  "pros": [
+    "Supports multiple programming languages",
+    "AI-powered features for enhanced data analysis",
+    "Strong collaboration tools within a single workspace"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Dependent on integrations for full functionality",
+    "Potential high cost for enterprise use"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Microsoft Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual data analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive BI capabilities"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates well with Microsoft products"
+    }
+  ],
+  "tags": [
+    "data analysis",
+    "collaboration",
+    "AI",
+    "visualization"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://hex.tech/",
+  "documentationUrl": "https://docs.hex.tech",
+  "githubUrl": "https://github.com/search?q=hex&type=repositories",
+  "twitterUrl": "https://twitter.com/_hex_tech",
+  "screenshot": "/screenshots/hex_tech.png",
+  "screenshot_640": "/screenshots/hex_tech_640.png",
+  "screenshot_400": "/screenshots/hex_tech_400.png",
+  "updatedAt": "2025-05-15T04:46:37.477Z"
+}

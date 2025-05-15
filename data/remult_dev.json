@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://remult.dev/",
+  "name": "Remult",
+  "title": "remult.dev",
+  "payoff": "Type-safe CRUD & Realtime",
+  "shortDescription": "Remult is a full-stack development tool that simplifies building and managing applications by providing out-of-the-box solutions for CRUD operations, real-time updates, and authorization. It's designed for developers looking to reduce boilerplate code and enhance productivity. An example use case is a developer integrating Remult to streamline operations in a CRM system, achieving significant code reduction and efficiency.",
+  "pros": [
+    "Reduces boilerplate code significantly",
+    "Supports real-time data updates",
+    "Flexible with REST and GraphQL integrations"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Limited to JavaScript/TypeScript environments",
+    "Dependent on community for advanced issues"
+  ],
+  "alternatives": [
+    "Prisma [prisma.io]",
+    "Hasura [hasura.io]",
+    "PostgREST [postgrest.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Prisma",
+      "url": "prisma.io",
+      "reason": "ORM with more extensive DB support"
+    },
+    {
+      "name": "Hasura",
+      "url": "hasura.io",
+      "reason": "Offers instant GraphQL APIs"
+    },
+    {
+      "name": "PostgREST",
+      "url": "postgrest.org",
+      "reason": "REST API from any Postgres DB"
+    }
+  ],
+  "tags": [
+    "full-stack development",
+    "CRUD operations",
+    "real-time updates",
+    "type-safe"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://remult.dev/",
+  "documentationUrl": "https://remult.dev/docs",
+  "githubUrl": "https://github.com/remult/remult",
+  "twitterUrl": "https://twitter.com/RemultJs",
+  "screenshot": "/screenshots/remult_dev.png",
+  "screenshot_640": "/screenshots/remult_dev_640.png",
+  "screenshot_400": "/screenshots/remult_dev_400.png",
+  "updatedAt": "2025-05-15T04:47:00.094Z"
+}
