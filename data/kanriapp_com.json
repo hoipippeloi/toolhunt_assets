@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kanriapp.com/",
+  "name": "Kanri",
+  "title": "kanriapp.com",
+  "payoff": "Offline Kanban Board App",
+  "shortDescription": "Kanri is a modern, minimalist Kanban board app designed for offline use. It supports Windows, Mac, and Linux, providing a simple alternative to online tools like Trello. Ideal for individuals or teams looking to manage tasks without internet dependency, Kanri allows users to organize tasks visually with customizable boards, columns, and cards. It's perfect for those seeking privacy, ease of use, and efficient task management.",
+  "pros": [
+    "Works offline ensuring constant accessibility",
+    "Customizable themes and rich text support",
+    "No setup required, easy to start"
+  ],
+  "cons": [
+    "Limited to desktop platforms",
+    "No mobile or web version",
+    "Lacks collaboration features of online tools"
+  ],
+  "alternatives": [
+    "Trello [trello.com]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular online Kanban tool with collaboration"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive task and project management"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Flexible tool with extensive integrations"
+    }
+  ],
+  "tags": [
+    "Kanban",
+    "Productivity",
+    "Task Management",
+    "Offline"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://kanriapp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/trobonox/kanri",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/kanriapp_com.png",
+  "screenshot_640": "/screenshots/kanriapp_com_640.png",
+  "screenshot_400": "/screenshots/kanriapp_com_400.png",
+  "updatedAt": "2025-05-16T04:20:15.428Z"
+}

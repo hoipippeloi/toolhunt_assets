@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://equals.com/",
+  "name": "Equals",
+  "title": "equals.com",
+  "payoff": "GTM Analytics in a Connected Spreadsheet",
+  "shortDescription": "Equals offers a connected spreadsheet designed to integrate and analyze data from platforms like Stripe, Salesforce, and HubSpot. It is tailored for RevOps, Founders, and Finance teams, providing real-time insights into sales, revenue, and business metrics. An example use case is a finance team using Equals to generate board-ready sales and ARR reports efficiently.",
+  "pros": [
+    "Real-time revenue insights",
+    "Integrates with major platforms like Stripe and Salesforce",
+    "Specific solutions for different roles (RevOps, Founders, Finance)"
+  ],
+  "cons": [
+    "May require familiarity with spreadsheet management",
+    "Dependent on external data sources for functionality",
+    "Potentially limited customization options"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Microsoft Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Powerful visualization and business intelligence tool"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive data exploration capabilities"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates well with other Microsoft services"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "data integration",
+    "SaaS",
+    "spreadsheet"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://equals.com/",
+  "documentationUrl": "https://docs.equals.com/",
+  "githubUrl": "https://github.com/search?q=equals&type=repositories",
+  "twitterUrl": "http://twitter.com/heyequals",
+  "screenshot": "/screenshots/equals_com.png",
+  "screenshot_640": "/screenshots/equals_com_640.png",
+  "screenshot_400": "/screenshots/equals_com_400.png",
+  "updatedAt": "2025-05-16T04:19:55.567Z"
+}

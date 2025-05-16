@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spotify.com/",
+  "name": "Spotify",
+  "title": "spotify.com",
+  "payoff": "Music for everyone",
+  "shortDescription": "Spotify is a digital music streaming service that offers access to millions of songs, podcasts, and videos from artists all over the world. It is designed for music lovers and content creators who seek a vast library of audio content. Users can explore new music, create playlists, and enjoy personalized recommendations. An example use case is a user discovering new artists through the platform's curated playlists and radio stations.",
+  "pros": [
+    "Extensive music and podcast library",
+    "Personalized music recommendations",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Occasional ads in the free version",
+    "Limited offline playback on free tier",
+    "High data usage without offline mode"
+  ],
+  "alternatives": [
+    "Apple Music [apple.com/music]",
+    "Amazon Music [music.amazon.com]",
+    "Deezer [deezer.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apple Music",
+      "url": "apple.com/music",
+      "reason": "Offers exclusive content and integration with iOS."
+    },
+    {
+      "name": "Amazon Music",
+      "url": "music.amazon.com",
+      "reason": "Includes features for Amazon Echo users."
+    },
+    {
+      "name": "Deezer",
+      "url": "deezer.com",
+      "reason": "Available in more countries than Spotify."
+    }
+  ],
+  "tags": [
+    "music streaming",
+    "podcasts",
+    "media player",
+    "entertainment"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "Media Player",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://spotify.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=spotify&type=repositories",
+  "twitterUrl": "https://twitter.com/spotify",
+  "screenshot": "/screenshots/spotify_com.png",
+  "screenshot_640": "/screenshots/spotify_com_640.png",
+  "screenshot_400": "/screenshots/spotify_com_400.png",
+  "updatedAt": "2025-05-16T04:19:30.973Z"
+}
