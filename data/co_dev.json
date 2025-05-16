@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://co.dev/",
+  "name": "Codev",
+  "title": "co.dev",
+  "payoff": "Build Full-Stack Apps Fast",
+  "shortDescription": "Codev is a platform designed to help developers quickly create full-stack web applications. It supports deployment to custom domains and offers a variety of templates like SaaS, restaurant, and news styles. Users can choose from leading AI models for enhanced functionality. Ideal for developers looking to streamline app development and deployment.",
+  "pros": [
+    "Rapid full-stack app development",
+    "Supports multiple AI models",
+    "Easy deployment to custom domains"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on third-party AI models",
+    "May not support all programming languages"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code development with visual tools"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Combines design, animation, and hosting"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "Free no-code app builder for developers"
+    }
+  ],
+  "tags": [
+    "AI",
+    "web development",
+    "app builder",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://co.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=codev&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/co_dev.png",
+  "screenshot_640": "/screenshots/co_dev_640.png",
+  "screenshot_400": "/screenshots/co_dev_400.png",
+  "updatedAt": "2025-05-16T01:09:28.149Z"
+}

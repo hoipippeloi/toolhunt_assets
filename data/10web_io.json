@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://10web.io/",
+  "name": "10Web",
+  "title": "10web.io",
+  "payoff": "Grow Your Business Online",
+  "shortDescription": "10Web is an AI-powered platform designed to simplify the process of building, hosting, and managing websites. It is ideal for small businesses and entrepreneurs looking to launch online without technical complexities. Users can quickly create customizable and scalable WordPress sites using AI tools. An example use case is a small business owner creating an online store with integrated AI-driven tools for seamless management.",
+  "pros": [
+    "AI-driven website and ecommerce builder",
+    "Managed WordPress hosting solutions",
+    "No technical skills required for setup"
+  ],
+  "cons": [
+    "Limited to WordPress platforms",
+    "May not suit very large enterprises",
+    "Pricing can be unclear without direct inquiry"
+  ],
+  "alternatives": [
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]",
+    "Shopify [shopify.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Offers more design flexibility"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Strong focus on design aesthetics"
+    },
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Best for ecommerce features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "website builder",
+    "WordPress",
+    "managed hosting"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://10web.io/",
+  "documentationUrl": "https://10web.io/documentation/",
+  "githubUrl": "https://github.com/search?q=10web&type=repositories",
+  "twitterUrl": "https://twitter.com/10Web_io",
+  "screenshot": "/screenshots/10web_io.png",
+  "screenshot_640": "/screenshots/10web_io_640.png",
+  "screenshot_400": "/screenshots/10web_io_400.png",
+  "updatedAt": "2025-05-16T01:08:15.272Z"
+}

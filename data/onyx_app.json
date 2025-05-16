@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://onyx.app/",
+  "name": "Onyx AI",
+  "title": "onyx.app",
+  "payoff": "Enterprise Search & AI Assistant",
+  "shortDescription": "Onyx AI is an open source enterprise search and AI assistant designed to connect seamlessly with your company's documents, apps, and people. It is built to help teams in engineering, support, sales, and product management to find information quickly and efficiently. An example use case is a sales team using Onyx AI to instantly access client data and past interactions from various integrated apps during live calls.",
+  "pros": [
+    "Real-time syncing with documents",
+    "Open source flexibility",
+    "Extensive app integrations"
+  ],
+  "cons": [
+    "Dependent on third-party app integrations",
+    "May require technical setup",
+    "Limited by open-source community contributions"
+  ],
+  "alternatives": [
+    "Elasticsearch [elastic.co]",
+    "Algolia [algolia.com]",
+    "Apache Solr [lucene.apache.org/solr]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Popular for scalable search solutions"
+    },
+    {
+      "name": "Algolia",
+      "url": "algolia.com",
+      "reason": "Provides hosted search APIs"
+    },
+    {
+      "name": "Apache Solr",
+      "url": "lucene.apache.org/solr",
+      "reason": "Robust, open-source search platform"
+    }
+  ],
+  "tags": [
+    "enterprise search",
+    "AI assistant",
+    "open source",
+    "real-time syncing"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Search",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://onyx.app/",
+  "documentationUrl": "https://docs.onyx.app/introduction",
+  "githubUrl": "https://github.com/onyx-dot-app/onyx",
+  "twitterUrl": "https://x.com/onyx_dot_app",
+  "screenshot": "/screenshots/onyx_app.png",
+  "screenshot_640": "/screenshots/onyx_app_640.png",
+  "screenshot_400": "/screenshots/onyx_app_400.png",
+  "updatedAt": "2025-05-16T01:08:56.867Z"
+}
