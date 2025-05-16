@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stability.ai/",
+  "name": "Stability AI",
+  "title": "stability.ai",
+  "payoff": "Empowering creativity with AI",
+  "shortDescription": "Stability AI offers advanced AI-driven tools for generating high-quality images, videos, audio, and 3D models. Designed for creative professionals and businesses, it enables seamless integration into existing workflows. A notable use case is Mercado Libre using Stable Diffusion for scalable product advertisements.",
+  "pros": [
+    "High-quality media generation",
+    "Flexible deployment options",
+    "Supports a variety of media types"
+  ],
+  "cons": [
+    "Requires technical knowledge for setup",
+    "Potential high computational costs",
+    "Limited by the quality of input data"
+  ],
+  "alternatives": [
+    "DeepAI [deepai.org]",
+    "RunwayML [runwayml.com]",
+    "Artbreeder [artbreeder.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "Offers diverse AI tools"
+    },
+    {
+      "name": "RunwayML",
+      "url": "runwayml.com",
+      "reason": "Creative AI for artists"
+    },
+    {
+      "name": "Artbreeder",
+      "url": "artbreeder.com",
+      "reason": "AI-driven art creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "media generation",
+    "creative tools",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://stability.ai/",
+  "documentationUrl": "https://stability.ai/docs",
+  "githubUrl": "https://github.com/search?q=stability%20ai&type=repositories",
+  "twitterUrl": "https://x.com/StabilityAI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "screenshot": "/screenshots/stability_ai.png",
+  "screenshot_640": "/screenshots/stability_ai_640.png",
+  "screenshot_400": "/screenshots/stability_ai_400.png",
+  "updatedAt": "2025-05-16T05:16:36.358Z"
+}
