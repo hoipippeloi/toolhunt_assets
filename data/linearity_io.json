@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://linearity.io/",
+  "name": "Linearity",
+  "title": "linearity.io",
+  "payoff": "Create Stunning Designs & Animations",
+  "shortDescription": "Linearity offers a suite of design tools tailored for Apple devices, focusing on illustrators, designers, and creative professionals. The software features a modern interface that syncs across all Apple devices, enhancing productivity and creativity on the go. Key features include Auto Trace for vectorizing images and AI-powered editing tools, providing complete creative control. Ideal for creating marketing materials, branding, and digital content with customizable templates.",
+  "pros": [
+    "Intuitive interface designed for Apple devices",
+    "Advanced features like Auto Trace and AI editing",
+    "Syncs across all Apple devices for seamless workflow"
+  ],
+  "cons": [
+    "Limited to Apple devices only",
+    "May have a learning curve for new users",
+    "Potential high cost for premium features"
+  ],
+  "alternatives": [
+    "Adobe Illustrator [adobe.com]",
+    "Affinity Designer [affinity.serif.com]",
+    "Canva [canva.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com",
+      "reason": "Industry-standard vector graphic software"
+    },
+    {
+      "name": "Affinity Designer",
+      "url": "affinity.serif.com",
+      "reason": "Cost-effective alternative with similar features"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Simpler interface and broader template selection"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "vector graphics",
+    "animation",
+    "Apple integration"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://linearity.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=linearity&type=repositories",
+  "twitterUrl": "https://twitter.com/linearityhq?utm_source=twitter&utm_medium=website&utm_campaign=website-footer",
+  "screenshot": "/screenshots/linearity_io.png",
+  "screenshot_640": "/screenshots/linearity_io_640.png",
+  "screenshot_400": "/screenshots/linearity_io_400.png",
+  "updatedAt": "2025-05-16T04:47:01.535Z"
+}

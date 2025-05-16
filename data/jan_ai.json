@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jan.ai/",
+  "name": "Jan",
+  "title": "jan.ai",
+  "payoff": "Runs 100% offline, fully open source",
+  "shortDescription": "Jan is an open-source alternative to ChatGPT that operates entirely offline, ensuring privacy and security for users. It's designed for developers and tech enthusiasts who need a powerful AI without relying on cloud services. Users can download and run advanced models like Llama3 or Gemma directly on their devices, or connect to cloud models when necessary. This flexibility makes Jan ideal for those looking to integrate AI into their systems while maintaining control over their data.",
+  "pros": [
+    "100% offline functionality",
+    "Highly customizable with extensions",
+    "Supports both local and cloud AI models"
+  ],
+  "cons": [
+    "Still under development",
+    "May require technical knowledge to set up",
+    "Limited user feedback due to newness"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Hugging Face [huggingface.co]",
+    "DeepMind [deepmind.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI with cloud-based models"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Community-driven AI model hub"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Advanced AI research and applications"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "offline",
+    "customizable"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://jan.ai/",
+  "documentationUrl": "https://jan.ai/documentation",
+  "githubUrl": "https://github.com/menloresearch/jan",
+  "twitterUrl": "https://twitter.com/jandotai",
+  "screenshot": "/screenshots/jan_ai.png",
+  "screenshot_640": "/screenshots/jan_ai_640.png",
+  "screenshot_400": "/screenshots/jan_ai_400.png",
+  "updatedAt": "2025-05-16T04:46:20.725Z"
+}
