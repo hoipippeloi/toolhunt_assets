@@ -3,16 +3,16 @@
   "name": "Spotify",
   "title": "spotify.com",
   "payoff": "Music for everyone",
-  "shortDescription": "Spotify is a digital music streaming service that offers access to millions of songs, podcasts, and videos from artists all over the world. It is designed for music lovers and content creators who seek a vast library of audio content. Users can explore new music, create playlists, and enjoy personalized recommendations. An example use case is a user discovering new artists through the platform's curated playlists and radio stations.",
+  "shortDescription": "Spotify is a digital music service that gives you access to millions of songs and podcasts. It's designed for music lovers and podcast enthusiasts who want to explore a vast library of audio content. Users can create playlists, discover new music, or enjoy curated lists. For example, a user might use Spotify to find the perfect playlist for a workout or to explore new podcasts on topics of interest.",
   "pros": [
     "Extensive music and podcast library",
-    "Personalized music recommendations",
-    "User-friendly interface"
+    "User-friendly interface",
+    "Personalized music recommendations"
   ],
   "cons": [
     "Occasional ads in the free version",
-    "Limited offline playback on free tier",
-    "High data usage without offline mode"
+    "Limited offline playback for free users",
+    "Requires internet connection for streaming"
   ],
   "alternatives": [
     "Apple Music [apple.com/music]",
@@ -23,24 +23,23 @@
     {
       "name": "Apple Music",
       "url": "apple.com/music",
-      "reason": "Offers exclusive content and integration with iOS."
+      "reason": "Offers exclusive content and spatial audio"
     },
     {
-      "name": "Amazon Music",
-      "url": "music.amazon.com",
-      "reason": "Includes features for Amazon Echo users."
+      "name": "Tidal",
+      "url": "tidal.com",
+      "reason": "High-fidelity sound and music videos"
     },
     {
-      "name": "Deezer",
-      "url": "deezer.com",
-      "reason": "Available in more countries than Spotify."
+      "name": "YouTube Music",
+      "url": "music.youtube.com",
+      "reason": "Integrates well with video content"
     }
   ],
   "tags": [
     "music streaming",
     "podcasts",
-    "media player",
-    "entertainment"
+    "media player"
   ],
   "apiUsed": true,
   "department": "Content",
@@ -49,11 +48,11 @@
   "openSource": false,
   "releasedYear": 2008,
   "websiteUrl": "https://spotify.com/",
-  "documentationUrl": null,
+  "documentationUrl": "https://developer.spotify.com/documentation/web-api/",
   "githubUrl": "https://github.com/search?q=spotify&type=repositories",
   "twitterUrl": "https://twitter.com/spotify",
   "screenshot": "/screenshots/spotify_com.png",
   "screenshot_640": "/screenshots/spotify_com_640.png",
   "screenshot_400": "/screenshots/spotify_com_400.png",
-  "updatedAt": "2025-05-16T04:19:30.973Z"
+  "updatedAt": "2025-05-16T08:07:26.767Z"
 }
