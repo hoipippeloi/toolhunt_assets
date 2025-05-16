@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://insmind.com/",
+  "name": "insMind",
+  "title": "insmind.com",
+  "payoff": "Instant AI photo editing",
+  "shortDescription": "insMind offers a suite of AI-powered photo editing tools designed to enhance image quality and presentation. It caters to photographers, marketers, and content creators seeking quick and efficient image transformations. Users can remove backgrounds, resize images, and apply various AI-enhanced effects to create studio-quality visuals in seconds.",
+  "pros": [
+    "AI-enhanced image editing features",
+    "User-friendly interface for quick edits",
+    "Free features available"
+  ],
+  "cons": [
+    "Limited advanced editing tools",
+    "Possible privacy concerns with image data",
+    "No offline functionality"
+  ],
+  "alternatives": [
+    "Adobe Photoshop [adobe.com]",
+    "Canva [canva.com]",
+    "Pixlr [pixlr.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Photoshop",
+      "url": "adobe.com",
+      "reason": "Industry standard for photo editing"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Simpler interface and templates"
+    },
+    {
+      "name": "Pixlr",
+      "url": "pixlr.com",
+      "reason": "Web-based, accessible editing"
+    }
+  ],
+  "tags": [
+    "AI photo editing",
+    "image processing",
+    "digital marketing",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://insmind.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=insmind&type=repositories",
+  "twitterUrl": "https://twitter.com/insmind_com",
+  "screenshot": "/screenshots/insmind_com.png",
+  "screenshot_640": "/screenshots/insmind_com_640.png",
+  "screenshot_400": "/screenshots/insmind_com_400.png",
+  "updatedAt": "2025-05-16T03:41:30.062Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mintlify.com/",
+  "name": "Mintlify",
+  "title": "mintlify.com",
+  "payoff": "Effortless, AI-native documentation",
+  "shortDescription": "Mintlify is a cutting-edge documentation platform designed for developers and modern teams. It leverages AI to create, edit, and enhance documentation effortlessly with features like drag-and-drop editing, API playgrounds, and automatic translations. Ideal for startups and enterprises aiming to improve user engagement and knowledge sharing.",
+  "pros": [
+    "AI-driven documentation enhancements",
+    "Customizable access controls and integrations",
+    "Multi-language support for global reach"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Potentially high cost for premium features",
+    "Limited offline capabilities"
+  ],
+  "alternatives": [
+    "ReadMe [readme.com]",
+    "Confluence [atlassian.com/software/confluence]",
+    "Docusaurus [docusaurus.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ReadMe",
+      "url": "readme.com",
+      "reason": "Offers interactive API docs"
+    },
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Widely used for team collaboration"
+    },
+    {
+      "name": "Docusaurus",
+      "url": "docusaurus.io",
+      "reason": "Open source and customizable"
+    }
+  ],
+  "tags": [
+    "documentation",
+    "AI",
+    "collaboration",
+    "customization"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mintlify.com/",
+  "documentationUrl": "https://mintlify.com/docs",
+  "githubUrl": "https://github.com/mintlify/themes",
+  "twitterUrl": "https://x.com/mintlify",
+  "screenshot": "/screenshots/mintlify_com.png",
+  "screenshot_640": "/screenshots/mintlify_com_640.png",
+  "screenshot_400": "/screenshots/mintlify_com_400.png",
+  "updatedAt": "2025-05-16T03:42:04.326Z"
+}
