@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pgmooncake.com/",
+  "name": "pg_mooncake",
+  "title": "pgmooncake.com",
+  "payoff": "1000x Faster Analytics in Postgres",
+  "shortDescription": "pg_mooncake enhances Postgres databases by integrating a columnstore feature, significantly boosting analytics speeds by up to 1000 times. This tool is ideal for data analysts and businesses that rely heavily on data processing and require rapid analytical capabilities. An example use case could be a financial firm analyzing large volumes of transactional data to identify market trends in real-time.",
+  "pros": [
+    "Significantly faster data analytics",
+    "Seamless integration with Postgres",
+    "Enhances performance without altering existing DB infrastructure"
+  ],
+  "cons": [
+    "May require specific technical skills to implement",
+    "Potential compatibility issues with some Postgres extensions",
+    "Limited information on scalability and maintenance"
+  ],
+  "alternatives": [
+    "TimescaleDB [timescale.com]",
+    "Apache Druid [druid.apache.org]",
+    "ClickHouse [clickhouse.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "TimescaleDB",
+      "url": "timescale.com",
+      "reason": "Offers scalable time-series DB"
+    },
+    {
+      "name": "Apache Druid",
+      "url": "druid.apache.org",
+      "reason": "Focuses on real-time analytics"
+    },
+    {
+      "name": "ClickHouse",
+      "url": "clickhouse.com",
+      "reason": "Optimized for column-oriented DB"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "database",
+    "Postgres",
+    "performance enhancement"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2024,
+  "websiteUrl": "https://pgmooncake.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/Mooncake-Labs/pg_mooncake",
+  "twitterUrl": "https://x.com/mooncakelabs",
+  "screenshot": "/screenshots/pgmooncake_com.png",
+  "screenshot_640": "/screenshots/pgmooncake_com_640.png",
+  "screenshot_400": "/screenshots/pgmooncake_com_400.png",
+  "updatedAt": "2025-05-16T02:58:08.387Z"
+}

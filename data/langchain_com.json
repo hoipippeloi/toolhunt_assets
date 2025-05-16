@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://langchain.com/",
+  "name": "LangChain",
+  "title": "langchain.com",
+  "payoff": "Unlock powerful AI in production",
+  "shortDescription": "LangChain offers a suite of tools designed to build, deploy, and manage AI-driven agents. It is tailored for developers and companies looking to integrate sophisticated AI capabilities into their applications. Users can build agents with less code using templates, manage agent orchestration, and integrate with various models and databases. An example use case is deploying AI co-pilots in customer service to handle inquiries with minimal human intervention.",
+  "pros": [
+    "Integrates with latest models and databases",
+    "Built-in persistence for conversational history",
+    "Tools for debugging and performance evaluation"
+  ],
+  "cons": [
+    "May require technical expertise to fully utilize",
+    "Potentially high learning curve for new users",
+    "Dependence on third-party platforms for some features"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Rasa [rasa.com]",
+    "Dialogflow [dialogflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and tools provider"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source conversational AI framework"
+    },
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Google's platform for building chatbots"
+    }
+  ],
+  "tags": [
+    "AI",
+    "agent development",
+    "software tools",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://langchain.com/",
+  "documentationUrl": "https://langchain.com/docs",
+  "githubUrl": "https://github.com/langchain-ai",
+  "twitterUrl": "https://twitter.com/LangChainAI",
+  "screenshot": "/screenshots/langchain_com.png",
+  "screenshot_640": "/screenshots/langchain_com_640.png",
+  "screenshot_400": "/screenshots/langchain_com_400.png",
+  "updatedAt": "2025-05-16T02:57:14.441Z"
+}

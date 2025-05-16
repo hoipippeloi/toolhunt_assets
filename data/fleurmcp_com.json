@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fleurmcp.com/",
+  "name": "Fleur MCP",
+  "title": "fleurmcp.com",
+  "payoff": "Install apps directly in Claude",
+  "shortDescription": "Fleur MCP serves as a dedicated app store for the Claude Desktop app, allowing users to seamlessly integrate various applications without leaving their desktop environment. It is designed for users who utilize Claude for daily operations, enhancing productivity by centralizing app management. A typical use case involves a user downloading and integrating productivity tools directly through Fleur MCP to streamline their workflow.",
+  "pros": [
+    "Seamless integration with Claude",
+    "Centralized app management",
+    "Designed specifically for Claude users"
+  ],
+  "cons": [
+    "Limited to Claude Desktop app users",
+    "May have fewer apps compared to larger app stores",
+    "Requires macOS"
+  ],
+  "alternatives": [
+    "Setapp [setapp.com]",
+    "Microsoft Store [microsoft.com]",
+    "Mac App Store [apple.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Setapp",
+      "url": "setapp.com",
+      "reason": "Offers a wide range of Mac apps"
+    },
+    {
+      "name": "Microsoft Store",
+      "url": "microsoft.com",
+      "reason": "Wide variety of apps for Windows"
+    },
+    {
+      "name": "Mac App Store",
+      "url": "apple.com",
+      "reason": "Official app store for macOS"
+    }
+  ],
+  "tags": [
+    "app store",
+    "desktop software",
+    "integration",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://fleurmcp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/fleuristes/fleur",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/fleurmcp_com.png",
+  "screenshot_640": "/screenshots/fleurmcp_com_640.png",
+  "screenshot_400": "/screenshots/fleurmcp_com_400.png",
+  "updatedAt": "2025-05-16T02:57:44.301Z"
+}
