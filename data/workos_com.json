@@ -2,17 +2,17 @@
   "sourceUrl": "https://workos.com/",
   "name": "WorkOS",
   "title": "workos.com",
-  "payoff": "Enterprise Ready with a few lines of code",
-  "shortDescription": "WorkOS provides a robust platform for developers to integrate enterprise-level features such as single sign-on and directory sync into their applications quickly and efficiently. It is designed for developers looking to cater to enterprise customers without the lengthy development times typically associated. An example use case would be a SaaS provider looking to offer enhanced security features to attract larger corporate clients.",
+  "payoff": "Your app, Enterprise Ready.",
+  "shortDescription": "WorkOS is a powerful solution designed to help developers make their applications enterprise-ready with minimal effort. It offers features like single sign-on, directory sync, and multi-factor authentication, enabling integration with various enterprise services. Ideal for developers aiming to cater to large businesses, WorkOS simplifies the integration of complex enterprise features, allowing for quicker adaptation to the demanding corporate IT environment.",
   "pros": [
-    "Quick integration of enterprise features",
+    "Quick integration with enterprise features",
     "Supports a wide range of identity providers",
     "Developer-friendly APIs and SDKs"
   ],
   "cons": [
     "May be overkill for smaller applications",
-    "Potential complexity in managing multiple integrations",
-    "Cost could be prohibitive for startups"
+    "Potentially complex pricing structure",
+    "Limited customization options for certain features"
   ],
   "alternatives": [
     "Auth0 [auth0.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Auth0",
       "url": "auth0.com",
-      "reason": "Offers comprehensive identity management"
+      "reason": "Offers extensive identity management"
     },
     {
       "name": "Okta",
       "url": "okta.com",
-      "reason": "Widely used for enterprise identity solutions"
+      "reason": "Widely used for enterprise security"
     },
     {
       "name": "OneLogin",
       "url": "onelogin.com",
-      "reason": "Provides similar SSO and MFA features"
+      "reason": "Focuses on unified access management"
     }
   ],
   "tags": [
-    "authentication",
-    "enterprise integration",
-    "SaaS",
-    "security"
+    "Authentication",
+    "Enterprise Integration",
+    "Developer Tools",
+    "SSO"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/workos_com.png",
   "screenshot_640": "/screenshots/workos_com_640.png",
   "screenshot_400": "/screenshots/workos_com_400.png",
-  "updatedAt": "2025-05-17T01:07:14.968Z"
+  "updatedAt": "2025-05-17T09:09:07.991Z"
 }

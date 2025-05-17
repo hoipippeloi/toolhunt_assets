@@ -3,37 +3,37 @@
   "name": "Alice",
   "title": "alice.tech",
   "payoff": "Study smart. Own your exams.",
-  "shortDescription": "Alice is an AI-powered study tool designed to enhance the learning process for students. It transforms uploaded materials into tailored notes and exercises, helping users identify knowledge gaps and prepare effectively for exams. Ideal for students, Alice offers a practical way to convert overwhelming course material into manageable study sessions.",
+  "shortDescription": "Alice is an AI-powered study tool designed to enhance learning efficiency for students. It converts uploaded study materials into tailored notes, summaries, and interactive exercises. Ideal for students who want to test their knowledge through quizzes and receive instant feedback. For example, a student can upload lecture slides and receive customized practice questions.",
   "pros": [
-    "Personalized learning experience",
-    "Supports multiple languages",
-    "Offers a free usage tier"
+    "Tailored educational content",
+    "Interactive learning tools",
+    "Supports multiple languages"
   ],
   "cons": [
-    "Limited features in the free plan",
+    "Limited free plan usage",
     "Dependent on quality of uploaded content",
-    "No offline functionality"
+    "Potential privacy concerns with data handling"
   ],
   "alternatives": [
     "Quizlet [quizlet.com]",
-    "Kahoot! [kahoot.com]",
-    "Chegg [chegg.com]"
+    "Khan Academy [khanacademy.org]",
+    "Coursera [coursera.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Quizlet",
       "url": "quizlet.com",
-      "reason": "Offers diverse study modes and flashcards."
+      "reason": "Offers study sets and learning modes"
     },
     {
-      "name": "Kahoot!",
-      "url": "kahoot.com",
-      "reason": "Interactive quizzes for learning and assessment."
+      "name": "Khan Academy",
+      "url": "khanacademy.org",
+      "reason": "Provides comprehensive courses"
     },
     {
-      "name": "Chegg",
-      "url": "chegg.com",
-      "reason": "Comprehensive educational support services."
+      "name": "Coursera",
+      "url": "coursera.org",
+      "reason": "Offers professional courses"
     }
   ],
   "tags": [
@@ -47,7 +47,7 @@
   "function": "E-Learning",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://alice.tech/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=alice&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/alice_tech.png",
   "screenshot_640": "/screenshots/alice_tech_640.png",
   "screenshot_400": "/screenshots/alice_tech_400.png",
-  "updatedAt": "2025-05-17T03:37:04.510Z"
+  "updatedAt": "2025-05-17T09:10:45.316Z"
 }
