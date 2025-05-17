@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mern.ai/",
+  "name": "MERN.AI",
+  "title": "mern.ai",
+  "payoff": "Effortless AI Driven Development",
+  "shortDescription": "MERN.AI simplifies full stack development by combining AI with pre-built templates, enabling rapid creation of web applications. It's designed for both developers and non-developers, allowing quick transformation of ideas into MVPs. Example use case includes developing a dating app like Tinder in just one hour using the MERN.AI IDE.",
+  "pros": [
+    "Rapid development with AI and templates",
+    "Affordable pricing for MVP development",
+    "Offers professional development services"
+  ],
+  "cons": [
+    "Limited to Node JS projects",
+    "May not suit highly customized needs",
+    "Dependent on the MERN stack"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Visual programming for apps"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code web app builder"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Design and launch websites"
+    }
+  ],
+  "tags": [
+    "full stack development",
+    "AI",
+    "templates",
+    "MVP"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://mern.ai/",
+  "documentationUrl": "https://docs.magicjs.dev/",
+  "githubUrl": "https://github.com/search?q=mern%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/mern_ai",
+  "screenshot": "/screenshots/mern_ai.png",
+  "screenshot_640": "/screenshots/mern_ai_640.png",
+  "screenshot_400": "/screenshots/mern_ai_400.png",
+  "updatedAt": "2025-05-17T01:07:40.842Z"
+}

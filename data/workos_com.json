@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workos.com/",
+  "name": "WorkOS",
+  "title": "workos.com",
+  "payoff": "Enterprise Ready with a few lines of code",
+  "shortDescription": "WorkOS provides a robust platform for developers to integrate enterprise-level features such as single sign-on and directory sync into their applications quickly and efficiently. It is designed for developers looking to cater to enterprise customers without the lengthy development times typically associated. An example use case would be a SaaS provider looking to offer enhanced security features to attract larger corporate clients.",
+  "pros": [
+    "Quick integration of enterprise features",
+    "Supports a wide range of identity providers",
+    "Developer-friendly APIs and SDKs"
+  ],
+  "cons": [
+    "May be overkill for smaller applications",
+    "Potential complexity in managing multiple integrations",
+    "Cost could be prohibitive for startups"
+  ],
+  "alternatives": [
+    "Auth0 [auth0.com]",
+    "Okta [okta.com]",
+    "OneLogin [onelogin.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Auth0",
+      "url": "auth0.com",
+      "reason": "Offers comprehensive identity management"
+    },
+    {
+      "name": "Okta",
+      "url": "okta.com",
+      "reason": "Widely used for enterprise identity solutions"
+    },
+    {
+      "name": "OneLogin",
+      "url": "onelogin.com",
+      "reason": "Provides similar SSO and MFA features"
+    }
+  ],
+  "tags": [
+    "authentication",
+    "enterprise integration",
+    "SaaS",
+    "security"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Authentication",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://workos.com/",
+  "documentationUrl": "https://workos.com/docs",
+  "githubUrl": "https://github.com/workos",
+  "twitterUrl": "https://twitter.com/workos",
+  "screenshot": "/screenshots/workos_com.png",
+  "screenshot_640": "/screenshots/workos_com_640.png",
+  "screenshot_400": "/screenshots/workos_com_400.png",
+  "updatedAt": "2025-05-17T01:07:14.968Z"
+}

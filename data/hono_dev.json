@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hono.dev/",
+  "name": "Hono",
+  "title": "hono.dev",
+  "payoff": "Ultrafast & Lightweight Web Framework",
+  "shortDescription": "Hono is a web framework designed for developers who need a fast, lightweight solution for building web applications. It supports multiple JavaScript runtimes, ensuring compatibility across platforms like Cloudflare, Fastly, Deno, and AWS. With built-in middleware and first-class TypeScript support, Hono simplifies the development process, making it ideal for projects requiring high performance and clean APIs. An example use case could be developing a serverless application that runs efficiently on various cloud environments.",
+  "pros": [
+    "Supports multiple JavaScript runtimes",
+    "Built-in and third-party middleware support",
+    "First-class TypeScript support"
+  ],
+  "cons": [
+    "Limited community compared to larger frameworks",
+    "May require familiarity with Web Standards APIs",
+    "Lesser known, which might affect third-party integrations"
+  ],
+  "alternatives": [
+    "Express.js [expressjs.com]",
+    "Next.js [nextjs.org]",
+    "NestJS [nestjs.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Express.js",
+      "url": "expressjs.com",
+      "reason": "Popular Node.js web framework"
+    },
+    {
+      "name": "Next.js",
+      "url": "nextjs.org",
+      "reason": "SSR and static site generation"
+    },
+    {
+      "name": "NestJS",
+      "url": "nestjs.com",
+      "reason": "Extensive backend framework"
+    }
+  ],
+  "tags": [
+    "web framework",
+    "TypeScript",
+    "serverless",
+    "multi-runtime"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2022,
+  "websiteUrl": "https://hono.dev/",
+  "documentationUrl": "https://hono.dev/docs",
+  "githubUrl": "https://github.com/orgs/honojs/discussions",
+  "twitterUrl": "https://x.com/honojs",
+  "screenshot": "/screenshots/hono_dev.png",
+  "screenshot_640": "/screenshots/hono_dev_640.png",
+  "screenshot_400": "/screenshots/hono_dev_400.png",
+  "updatedAt": "2025-05-17T01:06:31.134Z"
+}
