@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://screenlink.io/",
+  "name": "ScreenLink",
+  "title": "screenlink.io",
+  "payoff": "Open Source Loom Alternative",
+  "shortDescription": "ScreenLink is an open-source tool designed for creating and sharing screen recordings with ease. It integrates camera and microphone feeds, making it ideal for tutorials, demos, and team collaboration. Users can start with a free version and upgrade as needed. Example use case: A software developer uses ScreenLink to record a coding tutorial for their team.",
+  "pros": [
+    "Supports up to 4K recording at 60 FPS",
+    "Open-source and customizable",
+    "Free tier available"
+  ],
+  "cons": [
+    "Limited to 15 videos in free version",
+    "Maximum 10 minutes per recording",
+    "Supports only one team member on free tier"
+  ],
+  "alternatives": [
+    "Loom [loom.com]",
+    "OBS Studio [obsproject.com]",
+    "Camtasia [techsmith.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Loom",
+      "url": "loom.com",
+      "reason": "Popular for easy video recording"
+    },
+    {
+      "name": "OBS Studio",
+      "url": "obsproject.com",
+      "reason": "Free and open-source for professionals"
+    },
+    {
+      "name": "Camtasia",
+      "url": "techsmith.com",
+      "reason": "Comprehensive editing features"
+    }
+  ],
+  "tags": [
+    "screen capture",
+    "open source",
+    "video recording",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Screen Capture",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://screenlink.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/mangledbottles/screenlink-desktop",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/screenlink_io.png",
+  "screenshot_640": "/screenshots/screenlink_io_640.png",
+  "screenshot_400": "/screenshots/screenlink_io_400.png",
+  "updatedAt": "2025-05-17T04:44:47.048Z"
+}

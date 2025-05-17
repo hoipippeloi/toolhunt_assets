@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dscopilot.ai/",
+  "name": "Dropshipping Copilot",
+  "title": "dscopilot.ai",
+  "payoff": "Maximize Profits with AI",
+  "shortDescription": "Dropshipping Copilot leverages artificial intelligence to help entrepreneurs and businesses maximize their dropshipping profits. It simplifies product discovery, enabling users to find top-selling products in real-time. Ideal for small to medium-sized e-commerce businesses, the tool can drastically reduce the time and money spent on testing different products, providing a streamlined path to profitability.",
+  "pros": [
+    "AI-driven product recommendations",
+    "Real-time market analysis",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited to dropshipping businesses",
+    "Potential data accuracy issues",
+    "Dependence on external market conditions"
+  ],
+  "alternatives": [
+    "Oberlo [oberlo.com]",
+    "Spocket [spocket.co]",
+    "SaleHoo [salehoo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Oberlo",
+      "url": "oberlo.com",
+      "reason": "Offers integration with Shopify"
+    },
+    {
+      "name": "Spocket",
+      "url": "spocket.co",
+      "reason": "Focuses on US/EU products"
+    },
+    {
+      "name": "SaleHoo",
+      "url": "salehoo.com",
+      "reason": "Extensive supplier directory"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "AI",
+    "dropshipping",
+    "product discovery"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://dscopilot.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=dropshipping%20copilot&type=repositories",
+  "twitterUrl": "https://twitter.com/dscopilot_ai",
+  "screenshot": "/screenshots/dscopilot_ai.png",
+  "screenshot_640": "/screenshots/dscopilot_ai_640.png",
+  "screenshot_400": "/screenshots/dscopilot_ai_400.png",
+  "updatedAt": "2025-05-17T04:43:12.210Z"
+}
