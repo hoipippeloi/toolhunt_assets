@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://alice.tech/",
+  "name": "Alice",
+  "title": "alice.tech",
+  "payoff": "Study smart. Own your exams.",
+  "shortDescription": "Alice is an AI-powered study tool designed to enhance the learning process for students. It transforms uploaded materials into tailored notes and exercises, helping users identify knowledge gaps and prepare effectively for exams. Ideal for students, Alice offers a practical way to convert overwhelming course material into manageable study sessions.",
+  "pros": [
+    "Personalized learning experience",
+    "Supports multiple languages",
+    "Offers a free usage tier"
+  ],
+  "cons": [
+    "Limited features in the free plan",
+    "Dependent on quality of uploaded content",
+    "No offline functionality"
+  ],
+  "alternatives": [
+    "Quizlet [quizlet.com]",
+    "Kahoot! [kahoot.com]",
+    "Chegg [chegg.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers diverse study modes and flashcards."
+    },
+    {
+      "name": "Kahoot!",
+      "url": "kahoot.com",
+      "reason": "Interactive quizzes for learning and assessment."
+    },
+    {
+      "name": "Chegg",
+      "url": "chegg.com",
+      "reason": "Comprehensive educational support services."
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "AI",
+    "Study Tool",
+    "Education"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://alice.tech/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=alice&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/alice_tech.png",
+  "screenshot_640": "/screenshots/alice_tech_640.png",
+  "screenshot_400": "/screenshots/alice_tech_400.png",
+  "updatedAt": "2025-05-17T03:37:04.510Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://flowith.io/",
+  "name": "flowith",
+  "title": "flowith.io",
+  "payoff": "AI Creation Workspace with Knowledge",
+  "shortDescription": "flowith 2.0 is an AI-powered workspace designed to enhance creative processes through deep knowledge integration. It's ideal for researchers, developers, and creative professionals. Users can leverage AI to analyze industry trends, plan detailed travel itineraries, or create interactive educational content.",
+  "pros": [
+    "Integrates AI for enhanced creativity",
+    "Supports a wide range of use cases",
+    "User-friendly interface for various professional needs"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Limited customization options",
+    "Potentially high subscription cost"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Airtable [airtable.com]",
+    "Coda [coda.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Offers robust note-taking and organization"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management with flexible boards"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive project and task management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "knowledge management",
+    "workspace"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Knowledge Base",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://flowith.io/",
+  "documentationUrl": "https://flowith.io/documentation",
+  "githubUrl": "https://github.com/search?q=flowith&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/flowith_io.png",
+  "screenshot_640": "/screenshots/flowith_io_640.png",
+  "screenshot_400": "/screenshots/flowith_io_400.png",
+  "updatedAt": "2025-05-17T03:36:00.060Z"
+}

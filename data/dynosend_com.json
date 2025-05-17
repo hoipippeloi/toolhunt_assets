@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dynosend.com/",
+  "name": "Dynosend",
+  "title": "dynosend.com",
+  "payoff": "Engage customers with automation",
+  "shortDescription": "Dynosend is a customer engagement platform that leverages marketing automation, email marketing, and a customer data platform (CDP) to help businesses create personalized, data-driven customer journeys. Ideal for marketers aiming to enhance customer interaction from day one, it offers tools like an easy-to-use journey builder, API integration, and transactional email capabilities. Example use case: E-commerce stores can automate email campaigns based on customer behavior to increase sales.",
+  "pros": [
+    "Comprehensive marketing automation",
+    "Robust API for integration",
+    "Personalized customer journeys"
+  ],
+  "cons": [
+    "Potentially steep learning curve",
+    "May require technical expertise",
+    "Limited information on pricing"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "HubSpot [hubspot.com]",
+    "Sendinblue [sendinblue.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Offers similar email marketing tools"
+    },
+    {
+      "name": "Klaviyo",
+      "url": "klaviyo.com",
+      "reason": "Focused on e-commerce marketing"
+    },
+    {
+      "name": "Autopilot",
+      "url": "autopilothq.com",
+      "reason": "Visual marketing automation focus"
+    }
+  ],
+  "tags": [
+    "marketing automation",
+    "email marketing",
+    "customer engagement",
+    "CDP"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://dynosend.com/",
+  "documentationUrl": "https://dynosend.com/api-documentation",
+  "githubUrl": "https://github.com/search?q=dynosend&type=repositories",
+  "twitterUrl": "https://x.com/dynosend",
+  "screenshot": "/screenshots/dynosend_com.png",
+  "screenshot_640": "/screenshots/dynosend_com_640.png",
+  "screenshot_400": "/screenshots/dynosend_com_400.png",
+  "updatedAt": "2025-05-17T03:37:32.297Z"
+}
