@@ -2,17 +2,17 @@
   "sourceUrl": "https://myfitnesspal.com/",
   "name": "MyFitnessPal",
   "title": "myfitnesspal.com",
-  "payoff": "Track calories & reach fitness goals",
-  "shortDescription": "MyFitnessPal is a comprehensive health and fitness tool designed for individuals aiming to monitor their dietary habits and exercise routines. It allows users to track their caloric intake, macros, and more using features like barcode scanning and voice logging. Ideal for anyone from beginners to fitness enthusiasts, the app helps in setting and achieving health-related goals through personalized insights and tracking.",
+  "payoff": "Track calories & reach health goals",
+  "shortDescription": "MyFitnessPal is a comprehensive health and fitness tracking tool designed for individuals aiming to monitor their dietary intake and exercise routines. Users can log their food consumption using a barcode scanner or voice log, track calories, macros, and more. It's particularly useful for those looking to lose weight, maintain a healthy lifestyle, or achieve specific nutritional goals. An example use case is someone trying to lose weight by keeping a daily log of their meals and exercise.",
   "pros": [
-    "Extensive food database for calorie tracking",
-    "User-friendly interface with supportive community",
-    "Integrates with other fitness apps and devices"
+    "Extensive food database",
+    "User-friendly interface",
+    "Integration with fitness devices"
   ],
   "cons": [
     "Premium features require subscription",
-    "Can be time-consuming to log daily meals",
-    "Limited personalized meal planning"
+    "Ads in the free version",
+    "Limited offline functionality"
   ],
   "alternatives": [
     "Lose It! [loseit.com]",
@@ -33,14 +33,14 @@
     {
       "name": "FatSecret",
       "url": "fatsecret.com",
-      "reason": "Community-driven features"
+      "reason": "Community-based support features"
     }
   ],
   "tags": [
     "health tracking",
-    "fitness app",
     "nutrition",
-    "calorie counter"
+    "fitness",
+    "calorie counting"
   ],
   "apiUsed": false,
   "department": "Health & Wellness",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/myfitnesspal_com.png",
   "screenshot_640": "/screenshots/myfitnesspal_com_640.png",
   "screenshot_400": "/screenshots/myfitnesspal_com_400.png",
-  "updatedAt": "2025-05-17T04:17:52.166Z"
+  "updatedAt": "2025-05-17T10:42:00.411Z"
 }

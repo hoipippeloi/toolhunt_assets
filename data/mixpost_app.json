@@ -2,17 +2,17 @@
   "sourceUrl": "https://mixpost.app/",
   "name": "Mixpost",
   "title": "mixpost.app",
-  "payoff": "Manage social media efficiently",
-  "shortDescription": "Mixpost is a self-hosted, open-source tool designed for managing social media content across various platforms. It allows users to create, schedule, publish, and manage posts from a single interface. Ideal for marketers and businesses looking to enhance their social media presence without recurring costs. For example, a small business can use Mixpost to schedule weekly posts across all major social platforms, improving engagement without needing multiple tools.",
+  "payoff": "Manage all social media in one place",
+  "shortDescription": "Mixpost is a self-hosted, open-source social media management tool designed for businesses and individuals looking to streamline their social media activities. Users can create, schedule, and publish content across multiple platforms such as Facebook, Instagram, and YouTube without any subscription fees. This tool is ideal for marketers seeking to enhance their social media presence efficiently.",
   "pros": [
     "No monthly subscription fees",
     "Supports multiple social platforms",
-    "Multilingual and RTL support"
+    "Open-source and customizable"
   ],
   "cons": [
-    "Self-hosting may require technical skills",
-    "Limited customer support compared to SaaS",
-    "Potential scalability issues"
+    "Requires self-hosting",
+    "May need technical setup",
+    "Limited customer support"
   ],
   "alternatives": [
     "Hootsuite [hootsuite.com]",
@@ -21,26 +21,26 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Hootsuite",
-      "url": "hootsuite.com",
-      "reason": "Offers extensive platform support"
-    },
-    {
       "name": "Buffer",
       "url": "buffer.com",
-      "reason": "Simple UI and good analytics tools"
+      "reason": "Offers streamlined posting and analytics"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Comprehensive tool with team features"
     },
     {
       "name": "Sprout Social",
       "url": "sproutsocial.com",
-      "reason": "Advanced features for larger teams"
+      "reason": "Advanced analytics and engagement tools"
     }
   ],
   "tags": [
     "social media",
-    "content management",
     "open source",
-    "self-hosted"
+    "content management",
+    "marketing tools"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/mixpost_app.png",
   "screenshot_640": "/screenshots/mixpost_app_640.png",
   "screenshot_400": "/screenshots/mixpost_app_400.png",
-  "updatedAt": "2025-05-17T04:18:37.332Z"
+  "updatedAt": "2025-05-17T10:42:48.883Z"
 }
