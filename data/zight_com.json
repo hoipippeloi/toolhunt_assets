@@ -2,12 +2,12 @@
   "sourceUrl": "https://zight.com/",
   "name": "Zight",
   "title": "zight.com",
-  "payoff": "AI-powered visual communication tools",
-  "shortDescription": "Zight is a versatile screen recording and screenshot tool designed to enhance productivity for individuals and teams. With features like AI-powered video transcription and editing, users can create tutorials, demos, or share feedback efficiently. Ideal for educators, developers, and corporate teams, Zight helps in managing digital content seamlessly, storing everything in the cloud.",
+  "payoff": "AI-powered visual communication",
+  "shortDescription": "Zight is a versatile screen recording and management tool designed to enhance productivity for individuals and teams. It allows users to easily capture screens, create videos, and manage files with AI-driven features. Ideal for educators, developers, and corporate teams, Zight simplifies creating tutorials, demos, and collaborative projects. All content is instantly stored in the cloud, facilitating easy access and organization.",
   "pros": [
-    "AI-powered features for automatic transcription",
-    "Cloud storage for easy file management",
-    "Intuitive editing tools for videos and screenshots"
+    "AI-driven features for automatic transcription",
+    "Cloud-based storage for easy file management",
+    "Intuitive video and screenshot editing tools"
   ],
   "cons": [
     "May require a learning curve for new users",
@@ -16,7 +16,7 @@
   ],
   "alternatives": [
     "Loom [loom.com]",
-    "Screencastify [screencastify.com]",
+    "Screencast-O-Matic [screencast-o-matic.com]",
     "Camtasia [techsmith.com/camtasia.html]"
   ],
   "aiSuggestedAlternatives": [
@@ -26,21 +26,21 @@
       "reason": "Offers video messaging for work"
     },
     {
-      "name": "Screencast-O-Matic",
-      "url": "screencast-o-matic.com",
-      "reason": "Affordable with rich editing tools"
+      "name": "OBS Studio",
+      "url": "obsproject.com",
+      "reason": "Free and open-source software"
     },
     {
-      "name": "Camtasia",
-      "url": "techsmith.com/camtasia.html",
-      "reason": "Comprehensive video editing suite"
+      "name": "Snagit",
+      "url": "techsmith.com/snagit.html",
+      "reason": "Powerful screen capture tool"
     }
   ],
   "tags": [
     "screen capture",
     "video editing",
-    "productivity",
-    "AI"
+    "AI",
+    "cloud storage"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/zight_com.png",
   "screenshot_640": "/screenshots/zight_com_640.png",
   "screenshot_400": "/screenshots/zight_com_400.png",
-  "updatedAt": "2025-05-17T05:13:57.351Z"
+  "updatedAt": "2025-05-17T09:49:30.705Z"
 }
