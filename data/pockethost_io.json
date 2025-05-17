@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pockethost.io/",
+  "name": "PocketHost",
+  "title": "pockethost.io",
+  "payoff": "Simple PocketBase Hosting",
+  "shortDescription": "PocketHost simplifies backend configuration, allowing developers to focus on building features for web apps. It offers a quick setup with no server provisioning or Docker configuration, providing a BaaS solution with features like database management, SSL, authentication, and cloud functions. Ideal for developers looking to launch apps quickly without managing infrastructure.",
+  "pros": [
+    "Quick setup with no server provisioning",
+    "Integrated features like database, SSL, and authentication",
+    "Supports custom cloud functions and transactional emails"
+  ],
+  "cons": [
+    "Limited to SQLite, which may not scale as well as other databases",
+    "May not offer the flexibility of fully customizable backend solutions",
+    "Dependent on the continued service and support of PocketHost"
+  ],
+  "alternatives": [
+    "Firebase [firebase.google.com]",
+    "Heroku [heroku.com]",
+    "Back4App [back4app.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Firebase",
+      "url": "firebase.google.com",
+      "reason": "Offers comprehensive backend services with scalability."
+    },
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Provides flexible cloud hosting and backend services."
+    },
+    {
+      "name": "Back4App",
+      "url": "back4app.com",
+      "reason": "Alternative BaaS with more database options."
+    }
+  ],
+  "tags": [
+    "BaaS",
+    "web development",
+    "backend services",
+    "cloud hosting"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://pockethost.io/",
+  "documentationUrl": "https://pockethost.io/docs",
+  "githubUrl": "https://github.com/pockethost/pockethost",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/pockethost_io.png",
+  "screenshot_640": "/screenshots/pockethost_io_640.png",
+  "screenshot_400": "/screenshots/pockethost_io_400.png",
+  "updatedAt": "2025-05-17T04:17:20.205Z"
+}

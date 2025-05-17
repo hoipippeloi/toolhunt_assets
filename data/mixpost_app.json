@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mixpost.app/",
+  "name": "Mixpost",
+  "title": "mixpost.app",
+  "payoff": "Manage social media efficiently",
+  "shortDescription": "Mixpost is a self-hosted, open-source tool designed for managing social media content across various platforms. It allows users to create, schedule, publish, and manage posts from a single interface. Ideal for marketers and businesses looking to enhance their social media presence without recurring costs. For example, a small business can use Mixpost to schedule weekly posts across all major social platforms, improving engagement without needing multiple tools.",
+  "pros": [
+    "No monthly subscription fees",
+    "Supports multiple social platforms",
+    "Multilingual and RTL support"
+  ],
+  "cons": [
+    "Self-hosting may require technical skills",
+    "Limited customer support compared to SaaS",
+    "Potential scalability issues"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Offers extensive platform support"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Simple UI and good analytics tools"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Advanced features for larger teams"
+    }
+  ],
+  "tags": [
+    "social media",
+    "content management",
+    "open source",
+    "self-hosted"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mixpost.app/",
+  "documentationUrl": "https://docs.mixpost.app/",
+  "githubUrl": "https://github.com/inovector/mixpost",
+  "twitterUrl": "https://twitter.com/getmixpost",
+  "screenshot": "/screenshots/mixpost_app.png",
+  "screenshot_640": "/screenshots/mixpost_app_640.png",
+  "screenshot_400": "/screenshots/mixpost_app_400.png",
+  "updatedAt": "2025-05-17T04:18:37.332Z"
+}

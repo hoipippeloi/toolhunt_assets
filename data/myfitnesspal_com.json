@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://myfitnesspal.com/",
+  "name": "MyFitnessPal",
+  "title": "myfitnesspal.com",
+  "payoff": "Track calories & reach fitness goals",
+  "shortDescription": "MyFitnessPal is a comprehensive health and fitness tool designed for individuals aiming to monitor their dietary habits and exercise routines. It allows users to track their caloric intake, macros, and more using features like barcode scanning and voice logging. Ideal for anyone from beginners to fitness enthusiasts, the app helps in setting and achieving health-related goals through personalized insights and tracking.",
+  "pros": [
+    "Extensive food database for calorie tracking",
+    "User-friendly interface with supportive community",
+    "Integrates with other fitness apps and devices"
+  ],
+  "cons": [
+    "Premium features require subscription",
+    "Can be time-consuming to log daily meals",
+    "Limited personalized meal planning"
+  ],
+  "alternatives": [
+    "Lose It! [loseit.com]",
+    "Cronometer [cronometer.com]",
+    "FatSecret [fatsecret.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lose It!",
+      "url": "loseit.com",
+      "reason": "Focuses on weight loss tracking"
+    },
+    {
+      "name": "Cronometer",
+      "url": "cronometer.com",
+      "reason": "Detailed nutrient tracking"
+    },
+    {
+      "name": "FatSecret",
+      "url": "fatsecret.com",
+      "reason": "Community-driven features"
+    }
+  ],
+  "tags": [
+    "health tracking",
+    "fitness app",
+    "nutrition",
+    "calorie counter"
+  ],
+  "apiUsed": false,
+  "department": "Health & Wellness",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2005,
+  "websiteUrl": "https://myfitnesspal.com/",
+  "documentationUrl": "https://docs.google.com/forms/d/e/1FAIpQLScJQpTcDqgVlAauEiheEj1med-cQgkkYttBMlfs9DOnV5LkMA/viewform",
+  "githubUrl": "https://github.com/search?q=myfitnesspal&type=repositories",
+  "twitterUrl": "https://twitter.com/MyFitnessPal",
+  "screenshot": "/screenshots/myfitnesspal_com.png",
+  "screenshot_640": "/screenshots/myfitnesspal_com_640.png",
+  "screenshot_400": "/screenshots/myfitnesspal_com_400.png",
+  "updatedAt": "2025-05-17T04:17:52.166Z"
+}
