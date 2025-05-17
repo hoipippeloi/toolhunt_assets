@@ -3,16 +3,16 @@
   "name": "PocketHost",
   "title": "pockethost.io",
   "payoff": "Simple PocketBase Hosting",
-  "shortDescription": "PocketHost simplifies backend configuration, allowing developers to focus on building features for web apps. It offers a quick setup with no server provisioning or Docker configuration, providing a BaaS solution with features like database management, SSL, authentication, and cloud functions. Ideal for developers looking to launch apps quickly without managing infrastructure.",
+  "shortDescription": "PocketHost simplifies backend configuration, allowing developers to focus on building features for web apps. It offers a complete backend solution with database, SSL, authentication, and cloud functions. Ideal for developers looking to quickly deploy apps without server management. An example use case is a startup developing a mobile app needing fast and reliable backend services without the overhead of server setup.",
   "pros": [
-    "Quick setup with no server provisioning",
-    "Integrated features like database, SSL, and authentication",
-    "Supports custom cloud functions and transactional emails"
+    "Integrated SQLite for performance",
+    "Out-of-the-box authentication and email services",
+    "Easy export for in-house project transition"
   ],
   "cons": [
-    "Limited to SQLite, which may not scale as well as other databases",
-    "May not offer the flexibility of fully customizable backend solutions",
-    "Dependent on the continued service and support of PocketHost"
+    "Limited to SQLite, may not scale like SQL databases",
+    "No clear pricing sections provided",
+    "Limited customization options for advanced users"
   ],
   "alternatives": [
     "Firebase [firebase.google.com]",
@@ -23,29 +23,29 @@
     {
       "name": "Firebase",
       "url": "firebase.google.com",
-      "reason": "Offers comprehensive backend services with scalability."
+      "reason": "Offers broader cloud services and scalability"
     },
     {
       "name": "Heroku",
       "url": "heroku.com",
-      "reason": "Provides flexible cloud hosting and backend services."
+      "reason": "Provides flexible, scalable app hosting"
     },
     {
       "name": "Back4App",
       "url": "back4app.com",
-      "reason": "Alternative BaaS with more database options."
+      "reason": "Parse-based backend with more customization"
     }
   ],
   "tags": [
-    "BaaS",
-    "web development",
     "backend services",
-    "cloud hosting"
+    "cloud platform",
+    "database management",
+    "authentication"
   ],
   "apiUsed": true,
   "department": "Development",
   "function": "Backend Services",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://pockethost.io/",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/pockethost_io.png",
   "screenshot_640": "/screenshots/pockethost_io_640.png",
   "screenshot_400": "/screenshots/pockethost_io_400.png",
-  "updatedAt": "2025-05-17T04:17:20.205Z"
+  "updatedAt": "2025-05-17T10:16:26.448Z"
 }
