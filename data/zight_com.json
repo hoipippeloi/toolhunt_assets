@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zight.com/",
+  "name": "Zight",
+  "title": "zight.com",
+  "payoff": "AI-powered visual communication tools",
+  "shortDescription": "Zight is a versatile screen recording and screenshot tool designed to enhance productivity for individuals and teams. With features like AI-powered video transcription and editing, users can create tutorials, demos, or share feedback efficiently. Ideal for educators, developers, and corporate teams, Zight helps in managing digital content seamlessly, storing everything in the cloud.",
+  "pros": [
+    "AI-powered features for automatic transcription",
+    "Cloud storage for easy file management",
+    "Intuitive editing tools for videos and screenshots"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Potential privacy concerns with cloud storage",
+    "Limited customization options for advanced users"
+  ],
+  "alternatives": [
+    "Loom [loom.com]",
+    "Screencastify [screencastify.com]",
+    "Camtasia [techsmith.com/camtasia.html]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Loom",
+      "url": "loom.com",
+      "reason": "Offers video messaging for work"
+    },
+    {
+      "name": "Screencast-O-Matic",
+      "url": "screencast-o-matic.com",
+      "reason": "Affordable with rich editing tools"
+    },
+    {
+      "name": "Camtasia",
+      "url": "techsmith.com/camtasia.html",
+      "reason": "Comprehensive video editing suite"
+    }
+  ],
+  "tags": [
+    "screen capture",
+    "video editing",
+    "productivity",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Screen Capture",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://zight.com/",
+  "documentationUrl": "https://zight.com/docs",
+  "githubUrl": "https://github.com/search?q=zight&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/zight_com.png",
+  "screenshot_640": "/screenshots/zight_com_640.png",
+  "screenshot_400": "/screenshots/zight_com_400.png",
+  "updatedAt": "2025-05-17T05:13:57.351Z"
+}
