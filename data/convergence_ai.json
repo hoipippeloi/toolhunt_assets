@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://convergence.ai/",
+  "name": "Convergence",
+  "title": "convergence.ai",
+  "payoff": "Enhance browsing with tailored AI",
+  "shortDescription": "Convergence.ai offers a sophisticated AI-driven platform designed to enhance user experiences through personalized content and advertising. It's tailored for businesses looking to leverage data for targeted marketing and customer engagement. An example use case involves e-commerce sites using Convergence to analyze customer behavior and deliver personalized shopping experiences.",
+  "pros": [
+    "Advanced AI capabilities for personalization",
+    "Granular consent preferences for users",
+    "Supports a wide range of cookies for functionality"
+  ],
+  "cons": [
+    "Complex cookie management may overwhelm users",
+    "Requires explicit consent which may reduce data collection",
+    "Potential privacy concerns from extensive data tracking"
+  ],
+  "alternatives": [
+    "Google Analytics [analytics.google.com]",
+    "Adobe Experience Cloud [adobe.com]",
+    "Salesforce Marketing Cloud [salesforce.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Analytics",
+      "url": "analytics.google.com",
+      "reason": "Comprehensive web analytics service"
+    },
+    {
+      "name": "Adobe Experience Cloud",
+      "url": "adobe.com",
+      "reason": "Integrated online marketing solutions"
+    },
+    {
+      "name": "Salesforce Marketing Cloud",
+      "url": "salesforce.com",
+      "reason": "CRM and marketing automation tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data privacy",
+    "personalization",
+    "advertising"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://convergence.ai/",
+  "documentationUrl": "https://help.adspirit.de/privacy.php",
+  "githubUrl": "https://github.com/search?q=convergence&type=repositories",
+  "twitterUrl": "https://www.beeswax.com/privacy/",
+  "screenshot": "/screenshots/convergence_ai.png",
+  "screenshot_640": "/screenshots/convergence_ai_640.png",
+  "screenshot_400": "/screenshots/convergence_ai_400.png",
+  "updatedAt": "2025-05-18T04:00:03.267Z"
+}

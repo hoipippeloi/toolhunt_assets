@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://peerlist.io/",
+  "name": "Peerlist",
+  "title": "peerlist.io",
+  "payoff": "Network for builders to show & tell!",
+  "shortDescription": "Peerlist is a professional networking platform designed for creators and builders to showcase their work, find job opportunities, and connect with like-minded professionals. Users can display their projects, verify their credentials, and even host their profiles on custom domains, making it an ideal alternative to traditional portfolios.",
+  "pros": [
+    "Showcase work across various platforms",
+    "Verification of workplace and education",
+    "Custom domain hosting for profiles"
+  ],
+  "cons": [
+    "Limited to professional networking",
+    "May not replace traditional job boards",
+    "Profile customization could be complex"
+  ],
+  "alternatives": [
+    "LinkedIn [linkedin.com]",
+    "Behance [behance.net]",
+    "Dribbble [dribbble.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "LinkedIn",
+      "url": "linkedin.com",
+      "reason": "Wider professional network with job listings"
+    },
+    {
+      "name": "Behance",
+      "url": "behance.net",
+      "reason": "Focused on creative portfolios and networking"
+    },
+    {
+      "name": "Dribbble",
+      "url": "dribbble.com",
+      "reason": "Platform for designers to showcase creative work"
+    }
+  ],
+  "tags": [
+    "professional networking",
+    "portfolio showcase",
+    "job search",
+    "project launch"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://peerlist.io/",
+  "documentationUrl": "https://help.peerlist.io/",
+  "githubUrl": "https://github.com/search?q=peerlist&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/peerlist_io.png",
+  "screenshot_640": "/screenshots/peerlist_io_640.png",
+  "screenshot_400": "/screenshots/peerlist_io_400.png",
+  "updatedAt": "2025-05-18T04:00:33.481Z"
+}

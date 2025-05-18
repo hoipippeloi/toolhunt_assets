@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mermaid.js.org/",
+  "name": "Mermaid",
+  "title": "mermaid.js.org",
+  "payoff": "Easy diagramming and charting tool",
+  "shortDescription": "Mermaid is a JavaScript-based tool designed to simplify the creation of diagrams and charts through Markdown-inspired text definitions. It is ideal for developers and teams who need to dynamically generate visual representations of data or workflows. An example use case is using Mermaid's Live Editor to quickly draft and share flowcharts during software development meetings.",
+  "pros": [
+    "Markdown-inspired syntax simplifies diagramming",
+    "Integrates with many applications",
+    "Won 2019 JavaScript Open Source Award"
+  ],
+  "cons": [
+    "Requires knowledge of Markdown",
+    "Primarily for developers, not general users",
+    "Limited customization options compared to specialized tools"
+  ],
+  "alternatives": [
+    "Graphviz [graphviz.org]",
+    "Draw.io [draw.io]",
+    "Lucidchart [lucidchart.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Graphviz",
+      "url": "graphviz.org",
+      "reason": "Offers robust graph visualization"
+    },
+    {
+      "name": "Draw.io",
+      "url": "draw.io",
+      "reason": "User-friendly interface for diagrams"
+    },
+    {
+      "name": "Lucidchart",
+      "url": "lucidchart.com",
+      "reason": "Professional diagrams with collaboration"
+    }
+  ],
+  "tags": [
+    "diagramming",
+    "charting",
+    "JavaScript",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://mermaid.js.org/",
+  "documentationUrl": "https://mermaid-js.github.io/mermaid/#/",
+  "githubUrl": "https://github.com/mermaid-js/mermaid/releases",
+  "twitterUrl": "https://twitter.com/knutsveidqvist",
+  "screenshot": "/screenshots/mermaid_js_org.png",
+  "screenshot_640": "/screenshots/mermaid_js_org_640.png",
+  "screenshot_400": "/screenshots/mermaid_js_org_400.png",
+  "updatedAt": "2025-05-18T04:01:02.310Z"
+}
