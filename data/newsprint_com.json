@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://newsprint.com/",
+  "name": "Newsprint",
+  "title": "newsprint.com",
+  "payoff": "Personalized daily news briefs",
+  "shortDescription": "Newsprint offers AI-powered executive briefings tailored to your company's needs. It aggregates news from over 100,000 publications, providing insights into competitors, industry trends, and media reach. Ideal for executives and PR teams, Newsprint helps stay informed without the hassle of multiple sources, enhancing decision-making and visibility.",
+  "pros": [
+    "Customizable content and format",
+    "Real-time updates and crisis alerts",
+    "Extensive coverage across 100k+ publications"
+  ],
+  "cons": [
+    "May have information overload",
+    "Dependent on AI accuracy",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Feedly [feedly.com]",
+    "Meltwater [meltwater.com]",
+    "Cision [cision.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Feedly",
+      "url": "feedly.com",
+      "reason": "Offers news aggregation with AI insights."
+    },
+    {
+      "name": "Meltwater",
+      "url": "meltwater.com",
+      "reason": "Provides media monitoring and analytics."
+    },
+    {
+      "name": "Cision",
+      "url": "cision.com",
+      "reason": "Focuses on PR and media relations."
+    }
+  ],
+  "tags": [
+    "AI",
+    "news aggregation",
+    "executive briefing",
+    "media monitoring"
+  ],
+  "apiUsed": false,
+  "department": "Executive Leadership",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://newsprint.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=newsprint&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/newsprint_com.png",
+  "screenshot_640": "/screenshots/newsprint_com_640.png",
+  "screenshot_400": "/screenshots/newsprint_com_400.png",
+  "updatedAt": "2025-05-18T04:50:10.599Z"
+}
