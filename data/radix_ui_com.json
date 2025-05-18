@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://radix-ui.com/",
+  "name": "Radix UI",
+  "title": "radix-ui.com",
+  "payoff": "Optimized library for fast development",
+  "shortDescription": "Radix UI is an open-source component library designed to streamline the development process. It is tailored for developers looking to build accessible, maintainable applications quickly without the hassle of configuration. Example use case: A developer can use Radix UI to rapidly prototype and iterate on a new user interface for an accessibility-focused project, ensuring compliance and ease of use.",
+  "pros": [
+    "No configuration required",
+    "Optimized for accessibility",
+    "Open source and free to use"
+  ],
+  "cons": [
+    "Limited to UI components",
+    "May lack advanced features",
+    "Dependent on community contributions"
+  ],
+  "alternatives": [
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]",
+    "Bootstrap [getbootstrap.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Offers a comprehensive UI kit"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Rich in features and enterprise-focused"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "Widely used, flexible grid system"
+    }
+  ],
+  "tags": [
+    "UI components",
+    "open source",
+    "accessibility",
+    "web development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://radix-ui.com/",
+  "documentationUrl": "https://radix-ui.com/docs",
+  "githubUrl": "https://github.com/radix-ui/themes",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/radix_ui_com.png",
+  "screenshot_640": "/screenshots/radix_ui_com_640.png",
+  "screenshot_400": "/screenshots/radix_ui_com_400.png",
+  "updatedAt": "2025-05-18T04:24:45.876Z"
+}

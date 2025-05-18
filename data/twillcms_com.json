@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://twillcms.com/",
+  "name": "Twill",
+  "title": "twillcms.com",
+  "payoff": "Flexible CMS for Laravel",
+  "shortDescription": "Twill is an open-source CMS toolkit designed for Laravel, making it ideal for developers and content managers. It offers an intuitive interface for creating and managing digital content with ease. Users can enjoy features like a visual editor, responsive previewing, and a hi-res media library. An example use case is a digital agency using Twill to streamline content management across multiple client websites, ensuring design consistency and efficient workflows.",
+  "pros": [
+    "Intuitive content management",
+    "Flexible design controls",
+    "Robust features for developers"
+  ],
+  "cons": [
+    "Limited to Laravel framework",
+    "May require developer skills",
+    "Potentially steep learning curve for non-developers"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Drupal [drupal.org]",
+    "Joomla [joomla.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Widely used, highly customizable CMS"
+    },
+    {
+      "name": "Drupal",
+      "url": "drupal.org",
+      "reason": "Strong in security and scalability"
+    },
+    {
+      "name": "Joomla",
+      "url": "joomla.org",
+      "reason": "Good for social networking sites"
+    }
+  ],
+  "tags": [
+    "CMS",
+    "open source",
+    "Laravel",
+    "content management"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://twillcms.com/",
+  "documentationUrl": "https://twill.io/docs/",
+  "githubUrl": "https://github.com/area17/twill",
+  "twitterUrl": "https://twitter.com/twillcms",
+  "screenshot": "/screenshots/twillcms_com.png",
+  "screenshot_640": "/screenshots/twillcms_com_640.png",
+  "screenshot_400": "/screenshots/twillcms_com_400.png",
+  "updatedAt": "2025-05-18T04:27:15.122Z"
+}
