@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://preswald.com/",
+  "name": "Preswald",
+  "title": "preswald.com",
+  "payoff": "Build interactive data apps",
+  "shortDescription": "Preswald transforms Python scripts into interactive data applications, dashboards, and tools efficiently. Ideal for developers and data analysts, it allows local development with seamless deployment and sharing capabilities. An example use case includes creating a dashboard for visualizing sales trends and forecasting inventory in real-time.",
+  "pros": [
+    "Fast deployment of data apps",
+    "No credit card required for starting",
+    "Real-time data tracking and forecasting"
+  ],
+  "cons": [
+    "Limited to Python scripts",
+    "No clear pricing information available",
+    "May require coding knowledge"
+  ],
+  "alternatives": [
+    "Streamlit [streamlit.io]",
+    "Dash by Plotly [plotly.com]",
+    "Shiny by RStudio [rstudio.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Streamlit",
+      "url": "streamlit.io",
+      "reason": "Allows easy creation of data apps"
+    },
+    {
+      "name": "Dash",
+      "url": "plotly.com",
+      "reason": "Flexible for complex visualizations"
+    },
+    {
+      "name": "Shiny",
+      "url": "rstudio.com",
+      "reason": "Great for R users and statisticians"
+    }
+  ],
+  "tags": [
+    "data apps",
+    "dashboard",
+    "Python",
+    "deployment"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Internal Apps",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://preswald.com/",
+  "documentationUrl": "https://docs.preswald.com/",
+  "githubUrl": "https://github.com/StructuredLabs/preswald",
+  "twitterUrl": "https://x.com/StructuredLabs",
+  "screenshot": "/screenshots/preswald_com.png",
+  "screenshot_640": "/screenshots/preswald_com_640.png",
+  "screenshot_400": "/screenshots/preswald_com_400.png",
+  "updatedAt": "2025-05-18T03:02:11.382Z"
+}

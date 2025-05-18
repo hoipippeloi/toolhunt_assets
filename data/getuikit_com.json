@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getuikit.com/",
+  "name": "UIkit",
+  "title": "getuikit.com",
+  "payoff": "Develop powerful web interfaces fast",
+  "shortDescription": "UIkit is a modular front-end framework designed for web developers to create fast and responsive web interfaces. It offers a comprehensive collection of HTML, CSS, and JS components which are lightweight and easy to use. This tool is ideal for developers looking to streamline their web development process, particularly in creating dynamic and visually appealing user interfaces. Example use case: A developer uses UIkit to build a responsive e-commerce website quickly.",
+  "pros": [
+    "Lightweight and modular design",
+    "Extensive components and documentation",
+    "Supports custom icons and animations"
+  ],
+  "cons": [
+    "Requires familiarity with front-end development",
+    "Limited built-in templates compared to competitors",
+    "May not suit very large scale applications"
+  ],
+  "alternatives": [
+    "Bootstrap [getbootstrap.com]",
+    "Foundation [foundation.zurb.com]",
+    "Bulma [bulma.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "More themes and larger community"
+    },
+    {
+      "name": "Foundation",
+      "url": "foundation.zurb.com",
+      "reason": "Flexibility with enterprise focus"
+    },
+    {
+      "name": "Bulma",
+      "url": "bulma.io",
+      "reason": "Modern CSS framework with flexbox"
+    }
+  ],
+  "tags": [
+    "front-end framework",
+    "web development",
+    "UI components",
+    "responsive design"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2013,
+  "websiteUrl": "https://getuikit.com/",
+  "documentationUrl": "https://getuikit.com/docs/introduction",
+  "githubUrl": "https://github.com/uikit/uikit",
+  "twitterUrl": "https://twitter.com/getuikit",
+  "screenshot": "/screenshots/getuikit_com.png",
+  "screenshot_640": "/screenshots/getuikit_com_640.png",
+  "screenshot_400": "/screenshots/getuikit_com_400.png",
+  "updatedAt": "2025-05-18T03:02:40.489Z"
+}
