@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://topicflow.com/",
+  "name": "Topicflow",
+  "title": "topicflow.com",
+  "payoff": "Reimagined Performance Management",
+  "shortDescription": "Topicflow revolutionizes performance management by integrating advanced AI to assist managers in driving team performance. Designed for managers and team leaders, it provides tools to analyze productivity, set goals, and track progress effectively. An example use case is a manager using Topicflow to set quarterly objectives and receive AI-driven insights to improve team output.",
+  "pros": [
+    "AI-driven insights enhance decision making",
+    "Intuitive user interface for easy adoption",
+    "Robust analytics for performance tracking"
+  ],
+  "cons": [
+    "Potentially high learning curve for new users",
+    "May require integration with existing systems",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Lattice [lattice.com]",
+    "Betterworks [betterworks.com]",
+    "15Five [15five.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lattice",
+      "url": "lattice.com",
+      "reason": "Similar focus on performance management"
+    },
+    {
+      "name": "Betterworks",
+      "url": "betterworks.com",
+      "reason": "Offers continuous performance tracking"
+    },
+    {
+      "name": "15Five",
+      "url": "15five.com",
+      "reason": "Focuses on feedback and employee growth"
+    }
+  ],
+  "tags": [
+    "AI",
+    "performance management",
+    "analytics",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Human Resources",
+  "function": "Performance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://topicflow.com/",
+  "documentationUrl": "https://topicflow.com/docs",
+  "githubUrl": "https://github.com/search?q=topicflow&type=repositories",
+  "twitterUrl": "https://www.twitter.com/topicflowapp",
+  "screenshot": "/screenshots/topicflow_com.png",
+  "screenshot_640": "/screenshots/topicflow_com_640.png",
+  "screenshot_400": "/screenshots/topicflow_com_400.png",
+  "updatedAt": "2025-05-18T05:14:33.440Z"
+}
