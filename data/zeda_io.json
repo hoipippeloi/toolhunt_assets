@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://zeda.io/",
+  "name": "Zeda.io",
+  "title": "zeda.io",
+  "payoff": "AI-driven Product Management",
+  "shortDescription": "Zeda.io is a cutting-edge AI Product Management Software that leverages Voice of Customer (VoC) data to enhance product discovery and development. It is designed for product teams looking to harness massive customer feedback to build products that truly align with market demands. An example use case involves integrating Zeda.io to automatically aggregate and analyze feedback from various sources, enabling teams to prioritize features based on real customer needs.",
+  "pros": [
+    "Automates feedback aggregation",
+    "Generates AI-driven insights",
+    "Integrates with multiple data sources"
+  ],
+  "cons": [
+    "May require technical setup",
+    "Potentially overwhelming data volume",
+    "Dependent on quality of input data"
+  ],
+  "alternatives": [
+    "Productboard [productboard.com]",
+    "Aha! [aha.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Focuses on product planning and roadmapping"
+    },
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Comprehensive product strategy tool"
+    },
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Popular in agile project management"
+    }
+  ],
+  "tags": [
+    "product management",
+    "AI",
+    "customer feedback",
+    "data analytics"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://zeda.io/",
+  "documentationUrl": "https://docs.zeda.io",
+  "githubUrl": "https://github.com/search?q=zeda%20io&type=repositories",
+  "twitterUrl": "https://twitter.com/zedaio",
+  "screenshot": "/screenshots/zeda_io.png",
+  "screenshot_640": "/screenshots/zeda_io_640.png",
+  "screenshot_400": "/screenshots/zeda_io_400.png",
+  "updatedAt": "2025-05-18T01:13:59.577Z"
+}

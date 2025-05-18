@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://winamp.com/player",
+  "name": "Winamp Player",
+  "title": "winamp.com",
+  "payoff": "Craft your personalized listening experience",
+  "shortDescription": "Winamp Player is a versatile media player that allows users to manage and play their locally stored audio content. It supports various playback modes including by artist, album, playlist, and folder. Users can customize their listening journey by configuring the player settings and designing custom skins. This tool is ideal for music enthusiasts and creators who want to personalize their music experience and express their creativity through unique visuals.",
+  "pros": [
+    "Customizable listening experience",
+    "Supports various audio file types",
+    "Ability to design custom skins"
+  ],
+  "cons": [
+    "Limited to locally stored content",
+    "No clear integration with streaming services",
+    "May require technical skill to fully customize"
+  ],
+  "alternatives": [
+    "VLC Media Player [videolan.org]",
+    "Foobar2000 [foobar2000.org]",
+    "MusicBee [getmusicbee.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "VLC Media Player",
+      "url": "videolan.org",
+      "reason": "Supports more file types and streaming"
+    },
+    {
+      "name": "Foobar2000",
+      "url": "foobar2000.org",
+      "reason": "Highly customizable and lightweight"
+    },
+    {
+      "name": "MusicBee",
+      "url": "getmusicbee.com",
+      "reason": "Great for managing large music libraries"
+    }
+  ],
+  "tags": [
+    "media player",
+    "audio management",
+    "customization",
+    "music"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1997,
+  "websiteUrl": "https://winamp.com/player",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=winamp%20player&type=repositories",
+  "twitterUrl": "https://twitter.com/winamp",
+  "screenshot": "/screenshots/winamp_com.png",
+  "screenshot_640": "/screenshots/winamp_com_640.png",
+  "screenshot_400": "/screenshots/winamp_com_400.png",
+  "updatedAt": "2025-05-18T01:12:34.463Z"
+}
