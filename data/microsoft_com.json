@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://microsoft.com/en-us/power-platform/products/power-bi/",
-  "name": "Power BI",
+  "sourceUrl": "https://microsoft.com/en/microsoft-teams/group-chat-software",
+  "name": "Microsoft Teams",
   "title": "microsoft.com",
-  "payoff": "Visualize data with ease",
-  "shortDescription": "Power BI is a business intelligence platform that enables users to connect, visualize, and analyze data with greater efficiency and understanding. It serves a broad audience, from data scientists to sales teams, allowing them to create rich, interactive reports and dashboards. Example use case: A company uses Power BI to pull sales data from various sources into a single dashboard to track performance trends and make data-driven decisions.",
+  "payoff": "Collaborate anywhere with ease.",
+  "shortDescription": "Microsoft Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage, and application integration. It is designed to help businesses of all sizes, educational institutions, and individuals to enhance collaboration and communication. Teams allows users to set up meetings, collaborate on projects in real-time, and maintain easy communication across distributed teams.",
   "pros": [
-    "Integrates seamlessly with Microsoft products",
-    "Robust data connectivity and visualization options",
-    "Scalable from small teams to enterprise"
+    "Integrated with Microsoft 365 suite",
+    "High scalability for large organizations",
+    "Robust security features"
   ],
   "cons": [
-    "Can be complex for beginners",
-    "Higher cost for premium features",
-    "Dependent on the Microsoft ecosystem"
+    "Can be complex to configure",
+    "Potential for high subscription costs",
+    "Occasional performance issues with large meetings"
   ],
   "alternatives": [
-    "Tableau [tableau.com]",
-    "Qlik Sense [qlik.com]",
-    "Looker [looker.com]"
+    "Slack [slack.com]",
+    "Zoom [zoom.us]",
+    "Google Workspace [workspace.google.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Tableau",
-      "url": "tableau.com",
-      "reason": "Popular for its visualizations"
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Popular for chat and integrations."
     },
     {
-      "name": "Qlik Sense",
-      "url": "qlik.com",
-      "reason": "Flexible, associative data model"
+      "name": "Zoom",
+      "url": "zoom.us",
+      "reason": "Strong in video conferencing."
     },
     {
-      "name": "Looker",
-      "url": "looker.com",
-      "reason": "Strong in embedding analytics"
+      "name": "Google Workspace",
+      "url": "workspace.google.com",
+      "reason": "Comprehensive office suite."
     }
   ],
   "tags": [
-    "data visualization",
-    "business intelligence",
-    "analytics",
-    "reporting"
+    "collaboration",
+    "communication",
+    "video conferencing",
+    "file sharing"
   ],
   "apiUsed": true,
-  "department": "Data & Analytics",
-  "function": "Analytics",
+  "department": "Information Technology",
+  "function": "Chat & Calls",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2013,
-  "websiteUrl": "https://microsoft.com/en-us/power-platform/products/power-bi/",
-  "documentationUrl": "https://docs.microsoft.com/en-us/power-bi/",
-  "githubUrl": "https://github.com/search?q=power%20bi&type=repositories",
+  "releasedYear": 2017,
+  "websiteUrl": "https://microsoft.com/en/microsoft-teams/group-chat-software",
+  "documentationUrl": "https://docs.microsoft.com/en-us/microsoftteams/",
+  "githubUrl": "https://github.com/search?q=microsoft%20teams&type=repositories",
   "twitterUrl": "https://www.xbox.com/",
   "screenshot": "/screenshots/microsoft_com.png",
   "screenshot_640": "/screenshots/microsoft_com_640.png",
   "screenshot_400": "/screenshots/microsoft_com_400.png",
-  "updatedAt": "2025-05-12T11:13:14.978Z"
+  "updatedAt": "2025-05-19T04:02:12.076Z"
 }

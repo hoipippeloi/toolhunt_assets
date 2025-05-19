@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://extend.ai/",
+  "name": "extend",
+  "title": "extend.ai",
+  "payoff": "Reimagined document processing with LLMs",
+  "shortDescription": "Extend leverages large language models (LLMs) to transform document processing. It's designed for technical teams facing complex document challenges. Users can quickly convert documents into high-quality data with over 95% accuracy, bypassing traditional OCR limitations. Ideal for handling intricate documents like tables and handwritten notes, Extend is a game-changer for industries reliant on accurate document digitization.",
+  "pros": [
+    "High accuracy over 95%",
+    "Rapid implementation and iteration",
+    "Built-in tooling for non-technical users"
+  ],
+  "cons": [
+    "May require initial setup and training",
+    "Potentially high cost for premium features",
+    "Focused primarily on complex documents, not simple ones"
+  ],
+  "alternatives": [
+    "ABBYY FlexiCapture [abbyy.com]",
+    "Kofax Capture [kofax.com]",
+    "Docparser [docparser.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ABBYY FlexiCapture",
+      "url": "abbyy.com",
+      "reason": "Offers advanced OCR and form processing"
+    },
+    {
+      "name": "Kofax Capture",
+      "url": "kofax.com",
+      "reason": "Robust document capture and automation"
+    },
+    {
+      "name": "Docparser",
+      "url": "docparser.com",
+      "reason": "Simple setup for document parsing"
+    }
+  ],
+  "tags": [
+    "document processing",
+    "AI",
+    "data extraction",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://extend.ai/",
+  "documentationUrl": "https://extend.ai/docs",
+  "githubUrl": "https://github.com/search?q=extend&type=repositories",
+  "twitterUrl": "https://x.com/ExtendHQ",
+  "screenshot": "/screenshots/extend_ai.png",
+  "screenshot_640": "/screenshots/extend_ai_640.png",
+  "screenshot_400": "/screenshots/extend_ai_400.png",
+  "updatedAt": "2025-05-19T04:00:53.288Z"
+}

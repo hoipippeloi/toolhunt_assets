@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://drop.space/",
+  "name": "DROP",
+  "title": "drop.space",
+  "payoff": "Share Large Files Up to 10GB",
+  "shortDescription": "DROP is a simple file sharing platform designed to facilitate the transfer of large files, up to 10GB, between users. It is ideal for professionals and businesses needing to share large documents, videos, or datasets quickly and securely. An example use case is a video production company sharing raw footage with remote editors.",
+  "pros": [
+    "Supports files up to 10GB",
+    "Simple user interface",
+    "High-speed file transfer"
+  ],
+  "cons": [
+    "Limited to 10GB file size",
+    "No version control",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "WeTransfer [wetransfer.com]",
+    "Google Drive [drive.google.com]",
+    "Dropbox [dropbox.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WeTransfer",
+      "url": "wetransfer.com",
+      "reason": "Offers similar large file sharing capabilities."
+    },
+    {
+      "name": "Google Drive",
+      "url": "drive.google.com",
+      "reason": "Provides integrated office tools and sharing."
+    },
+    {
+      "name": "Dropbox",
+      "url": "dropbox.com",
+      "reason": "Widely used for file storage and sharing."
+    }
+  ],
+  "tags": [
+    "file sharing",
+    "data storage",
+    "cloud platform"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "File Storage",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://drop.space/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=drop&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/drop_space.png",
+  "screenshot_640": "/screenshots/drop_space_640.png",
+  "screenshot_400": "/screenshots/drop_space_400.png",
+  "updatedAt": "2025-05-19T04:01:31.639Z"
+}
