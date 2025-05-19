@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zed.dev/",
+  "name": "Zed",
+  "title": "zed.dev",
+  "payoff": "The editor for what's next",
+  "shortDescription": "Zed is a next-generation code editor designed for high-performance collaboration between humans and AI. It supports macOS, Linux, and will soon be available for Windows. Zed is built for developers who require efficient, collaborative tools that integrate seamlessly with AI technologies. An example use case is a software development team using Zed to enhance code quality and speed up project completion by leveraging AI-assisted coding and real-time collaboration features.",
+  "pros": [
+    "High-performance AI integration",
+    "Supports real-time collaboration",
+    "Written in Rust for efficiency"
+  ],
+  "cons": [
+    "Not yet available for Windows",
+    "May have a learning curve for new users",
+    "Limited information on privacy and security"
+  ],
+  "alternatives": [
+    "Sublime Text [sublimetext.com]",
+    "Visual Studio Code [code.visualstudio.com]",
+    "Atom [atom.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Extensive plugin ecosystem"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Customizable and open source"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and lightweight editor"
+    }
+  ],
+  "tags": [
+    "code editor",
+    "AI integration",
+    "collaboration",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://zed.dev/",
+  "documentationUrl": "https://zed.dev/docs",
+  "githubUrl": "https://github.com/zed-industries/zed",
+  "twitterUrl": "https://twitter.com/zeddotdev",
+  "screenshot": "/screenshots/zed_dev.png",
+  "screenshot_640": "/screenshots/zed_dev_640.png",
+  "screenshot_400": "/screenshots/zed_dev_400.png",
+  "updatedAt": "2025-05-19T03:03:46.005Z"
+}

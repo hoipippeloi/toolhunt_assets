@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://voidanalytics.com/",
+  "name": "Void Analytics",
+  "title": "voidanalytics.com",
+  "payoff": "Privacy-focused website analytics",
+  "shortDescription": "Void Analytics offers a privacy-centric, cookie-free alternative to traditional web analytics like Google Analytics. It complies with GDPR, CCPA, and PECR, making it ideal for businesses prioritizing user privacy. Users can integrate it effortlessly with existing CMS or frameworks, track user interactions, and analyze traffic without infringing on user privacy.",
+  "pros": [
+    "Complies with major privacy regulations",
+    "Easy integration with existing tools",
+    "No personal data collection"
+  ],
+  "cons": [
+    "Limited third-party integrations",
+    "May lack some advanced analytics features",
+    "Dependent on JavaScript for tracking"
+  ],
+  "alternatives": [
+    "Matomo [matomo.org]",
+    "Fathom Analytics [usefathom.com]",
+    "Plausible Analytics [plausible.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Matomo",
+      "url": "matomo.org",
+      "reason": "Offers full data ownership and privacy"
+    },
+    {
+      "name": "Fathom Analytics",
+      "url": "usefathom.com",
+      "reason": "Simple, privacy-focused analytics tool"
+    },
+    {
+      "name": "Plausible Analytics",
+      "url": "plausible.io",
+      "reason": "Lightweight and open-source analytics"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "privacy",
+    "GDPR compliance",
+    "web tracking"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://voidanalytics.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=void%20analytics&type=repositories",
+  "twitterUrl": "https://x.com/",
+  "screenshot": "/screenshots/voidanalytics_com.png",
+  "screenshot_640": "/screenshots/voidanalytics_com_640.png",
+  "screenshot_400": "/screenshots/voidanalytics_com_400.png",
+  "updatedAt": "2025-05-19T03:02:58.899Z"
+}
