@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workwithdata.com/",
+  "name": "Work With Data",
+  "title": "workwithdata.com",
+  "payoff": "Making data accessible to all",
+  "shortDescription": "Work With Data simplifies the process of analyzing, visualizing, and extracting data from various open sources. It integrates these sources into a single ontology enhanced with AI, making it ideal for researchers, data analysts, and businesses. Users can track their projects, explore entities, and stay updated with the latest news across multiple sectors. Example use case: A market analyst uses the tool to monitor and report on emerging trends in the business sector.",
+  "pros": [
+    "Unified data ontology",
+    "AI-enhanced data analysis",
+    "Regular updates across multiple sectors"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially overwhelming for beginners",
+    "No clear pricing information available"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Google Data Studio [datastudio.google.com]",
+    "Microsoft Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Robust visualization capabilities"
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with Google Ads"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Comprehensive enterprise features"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "AI",
+    "data analysis",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Sync",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://workwithdata.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/Work-with-Data-Ltd",
+  "twitterUrl": "https://x.com/workwithdata",
+  "screenshot": "/screenshots/workwithdata_com.png",
+  "screenshot_640": "/screenshots/workwithdata_com_640.png",
+  "screenshot_400": "/screenshots/workwithdata_com_400.png",
+  "updatedAt": "2025-05-19T05:16:24.140Z"
+}
