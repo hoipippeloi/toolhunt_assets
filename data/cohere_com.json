@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cohere.com/",
+  "name": "Cohere",
+  "title": "cohere.com",
+  "payoff": "Secure AI for Enterprise",
+  "shortDescription": "Cohere provides state-of-the-art AI solutions tailored for complex industries. It offers scalable language models and advanced retrieval tools, making it ideal for enterprises seeking to enhance data security and operational efficiency. Example use case: A healthcare provider utilizes Cohere's AI to manage and analyze large datasets securely, improving patient outcomes.",
+  "pros": [
+    "Advanced multilingual models",
+    "High-performance AI tools",
+    "Strong focus on security and privacy"
+  ],
+  "cons": [
+    "Potentially high cost",
+    "Complexity in integration",
+    "Limited information on free tier availability"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Google AI [ai.google]",
+    "IBM Watson [ibm.com/watson]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers advanced AI models"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Wide range of AI tools"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong in enterprise AI solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "machine learning",
+    "data security",
+    "enterprise solutions"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://cohere.com/",
+  "documentationUrl": "https://docs.cohere.com",
+  "githubUrl": "https://github.com/search?q=cohere&type=repositories",
+  "twitterUrl": "https://x.com/cohere",
+  "screenshot": "/screenshots/cohere_com.png",
+  "screenshot_640": "/screenshots/cohere_com_640.png",
+  "screenshot_400": "/screenshots/cohere_com_400.png",
+  "updatedAt": "2025-05-19T04:32:58.968Z"
+}

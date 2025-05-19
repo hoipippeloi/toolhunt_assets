@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://everlaw.com/",
+  "name": "Everlaw",
+  "title": "everlaw.com",
+  "payoff": "Simplify complex legal work",
+  "shortDescription": "Everlaw is a cloud-native ediscovery platform designed for legal professionals. It supports law firms, corporations, and government agencies in managing complex legal challenges. Users can leverage powerful analytics, machine learning, and AI to streamline litigation and investigations, reducing document review volumes by 74% with Early Case Assessment.",
+  "pros": [
+    "AI-powered analytics for quick insights",
+    "User-friendly interface enhances productivity",
+    "Rapid release cycles for continuous improvement"
+  ],
+  "cons": [
+    "Potentially high cost for small firms",
+    "Complex features may require training",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Relativity [relativity.com]",
+    "Logikcull [logikcull.com]",
+    "Casepoint [casepoint.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Relativity",
+      "url": "relativity.com",
+      "reason": "Widely used in complex litigation"
+    },
+    {
+      "name": "Logikcull",
+      "url": "logikcull.com",
+      "reason": "Focus on simplicity and speed"
+    },
+    {
+      "name": "Casepoint",
+      "url": "casepoint.com",
+      "reason": "Strong AI and analytics features"
+    }
+  ],
+  "tags": [
+    "ediscovery",
+    "legal technology",
+    "cloud software",
+    "machine learning"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Cloud Platform",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://everlaw.com/",
+  "documentationUrl": "https://everlaw.com/help",
+  "githubUrl": "https://github.com/search?q=everlaw&type=repositories",
+  "twitterUrl": "https://www.twitter.com/everlaw",
+  "screenshot": "/screenshots/everlaw_com.png",
+  "screenshot_640": "/screenshots/everlaw_com_640.png",
+  "screenshot_400": "/screenshots/everlaw_com_400.png",
+  "updatedAt": "2025-05-19T04:32:09.344Z"
+}
