@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://undraw.co/illustrations",
+  "name": "unDraw",
+  "title": "undraw.co",
+  "payoff": "Free customizable illustrations",
+  "shortDescription": "unDraw offers a vast collection of open-source illustrations that can be customized to match any brand's color scheme. It is designed for designers, developers, and content creators who need high-quality visuals without the hassle of licensing or fees. Users can easily browse, customize, and download illustrations for use in web projects, presentations, or marketing materials.",
+  "pros": [
+    "Customizable color schemes",
+    "High-quality, open-source illustrations",
+    "No licensing or fees required"
+  ],
+  "cons": [
+    "Limited to illustrations only",
+    "No API for automated integration",
+    "May not cover all thematic needs"
+  ],
+  "alternatives": [
+    "Freepik [freepik.com]",
+    "Flaticon [flaticon.com]",
+    "Pixabay [pixabay.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Freepik",
+      "url": "freepik.com",
+      "reason": "Offers a wider range of graphics"
+    },
+    {
+      "name": "Flaticon",
+      "url": "flaticon.com",
+      "reason": "Focus on icons, extensive library"
+    },
+    {
+      "name": "Pixabay",
+      "url": "pixabay.com",
+      "reason": "Free images and illustrations"
+    }
+  ],
+  "tags": [
+    "illustrations",
+    "design tools",
+    "open source",
+    "customizable"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://undraw.co/illustrations",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=undraw&type=repositories",
+  "twitterUrl": "https://twitter.com/unDraw_co",
+  "screenshot": "/screenshots/undraw_co.png",
+  "screenshot_640": "/screenshots/undraw_co_640.png",
+  "screenshot_400": "/screenshots/undraw_co_400.png",
+  "updatedAt": "2025-05-19T01:12:40.064Z"
+}

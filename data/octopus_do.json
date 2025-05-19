@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://octopus.do/",
+  "name": "Octopus.do",
+  "title": "octopus.do",
+  "payoff": "Fast, easy website planning",
+  "shortDescription": "Octopus.do is a visual sitemap tool designed for both beginners and professionals in web development. It facilitates the planning and structuring of website content, allowing users to collaborate, create wireframes, and integrate with services like Figma. Users can also analyze SEO and export their plans to various formats, making it ideal for those looking to streamline their website development process.",
+  "pros": [
+    "Visual sitemap integration",
+    "Collaboration features",
+    "Exports to multiple formats"
+  ],
+  "cons": [
+    "May be complex for absolute beginners",
+    "Limited customization options",
+    "Potential learning curve for advanced features"
+  ],
+  "alternatives": [
+    "MindMeister [mindmeister.com]",
+    "Lucidchart [lucidchart.com]",
+    "Dyno Mapper [dynomapper.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MindMeister",
+      "url": "mindmeister.com",
+      "reason": "Focuses on mind mapping for planning"
+    },
+    {
+      "name": "Lucidchart",
+      "url": "lucidchart.com",
+      "reason": "Offers detailed diagramming tools"
+    },
+    {
+      "name": "Dyno Mapper",
+      "url": "dynomapper.com",
+      "reason": "Visual sitemap and content audit tool"
+    }
+  ],
+  "tags": [
+    "site builder",
+    "content management",
+    "website planning",
+    "sitemap tool"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://octopus.do/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=octopus%20do&type=repositories",
+  "twitterUrl": "https://twitter.com/octopusdoHQ",
+  "screenshot": "/screenshots/octopus_do.png",
+  "screenshot_640": "/screenshots/octopus_do_640.png",
+  "screenshot_400": "/screenshots/octopus_do_400.png",
+  "updatedAt": "2025-05-19T01:11:13.238Z"
+}

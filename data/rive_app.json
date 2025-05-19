@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rive.app/",
+  "name": "Rive",
+  "title": "rive.app",
+  "payoff": "Design, build, and ship UIs",
+  "shortDescription": "Rive is a comprehensive tool designed for the creation and implementation of user interfaces across various platforms. It integrates a unique editor, a stateful graphics format, and a high-performance runtime and renderer. This ensures that designs made in Rive translate seamlessly into real-world applications, making it ideal for developers and designers in gaming, apps, and web development.",
+  "pros": [
+    "End-to-end design to deployment pipeline",
+    "Multi-platform support with open-source runtimes",
+    "High-performance real-time vector graphics"
+  ],
+  "cons": [
+    "May require learning new tools and workflows",
+    "Potentially limited third-party integrations",
+    "Focused primarily on vector graphics"
+  ],
+  "alternatives": [
+    "Adobe XD [adobe.com]",
+    "Sketch [sketch.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers comprehensive UI/UX tools"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular for vector design and prototyping"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Collaborative interface design tool"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "vector graphics",
+    "UI/UX",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://rive.app/",
+  "documentationUrl": "https://docs.rive.app/",
+  "githubUrl": "https://github.com/rive-app",
+  "twitterUrl": "https://x.com/jstn/status/1909301244642181463",
+  "screenshot": "/screenshots/rive_app.png",
+  "screenshot_640": "/screenshots/rive_app_640.png",
+  "screenshot_400": "/screenshots/rive_app_400.png",
+  "updatedAt": "2025-05-19T01:12:13.796Z"
+}
