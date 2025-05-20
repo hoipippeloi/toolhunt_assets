@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://supernormal.com/",
+  "name": "Supernormal",
+  "title": "supernormal.com",
+  "payoff": "AI-Powered meetings",
+  "shortDescription": "Supernormal enhances meeting productivity by automating note-taking and generating actionable insights. It integrates seamlessly with platforms like Google Meet, Zoom, and Microsoft Teams, catering to professionals who require efficient meeting management. Example use case: A project team uses Supernormal to capture discussion points and action items during their weekly meetings, ensuring nothing is missed and everyone stays aligned.",
+  "pros": [
+    "Automates note-taking and insights generation",
+    "Supports multiple meeting platforms",
+    "Offers enterprise-grade security"
+  ],
+  "cons": [
+    "Dependent on third-party platform compatibility",
+    "May not capture nuances of conversation accurately",
+    "Potential privacy concerns with automated note-taking"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Chorus.ai [chorus.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers real-time transcription and sharing."
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Focuses on AI meeting assistance."
+    },
+    {
+      "name": "Chorus.ai",
+      "url": "chorus.ai",
+      "reason": "Analyzes sales calls for insights."
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "meeting management",
+    "note-taking"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://supernormal.com/",
+  "documentationUrl": "https://help.supernormal.com/en/",
+  "githubUrl": "https://github.com/search?q=supernormal&type=repositories",
+  "twitterUrl": "https://twitter.com/supernormalapp",
+  "screenshot": "/screenshots/supernormal_com.png",
+  "screenshot_640": "/screenshots/supernormal_com_640.png",
+  "screenshot_400": "/screenshots/supernormal_com_400.png",
+  "updatedAt": "2025-05-20T03:41:42.249Z"
+}

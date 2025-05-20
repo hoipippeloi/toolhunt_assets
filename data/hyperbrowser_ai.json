@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hyperbrowser.ai/",
+  "name": "Hyperbrowser",
+  "title": "hyperbrowser.ai",
+  "payoff": "Cloud Browsers for AI Agents",
+  "shortDescription": "Hyperbrowser enhances AI agents by providing high-speed cloud browsers that connect seamlessly to the entire web. This tool is ideal for developers and businesses needing to automate web interactions such as scraping, testing, and form filling. An example use case includes automating data extraction and analysis at scale, integrating AI for complex interactions, and managing multiple browser sessions efficiently.",
+  "pros": [
+    "Supports massively concurrent browser sessions",
+    "Offers stealth mode to bypass bot detection",
+    "Guarantees 99.9% uptime for reliability"
+  ],
+  "cons": [
+    "May be complex to integrate for beginners",
+    "Cost could be prohibitive for small-scale users",
+    "Limited customization options for less technical users"
+  ],
+  "alternatives": [
+    "BrowserStack [browserstack.com]",
+    "Selenium [selenium.dev]",
+    "Scrapy [scrapy.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "BrowserStack",
+      "url": "browserstack.com",
+      "reason": "Offers live web testing on different devices"
+    },
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Open source tool for web automation"
+    },
+    {
+      "name": "Scrapy",
+      "url": "scrapy.org",
+      "reason": "Focused on web crawling and data extraction"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "cloud browsers",
+    "automation",
+    "AI integration"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Web Scraping",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hyperbrowser.ai/",
+  "documentationUrl": "https://hyperbrowser.ai/docs",
+  "githubUrl": "https://github.com/hyperbrowserai",
+  "twitterUrl": "https://x.com/hyperbrowser",
+  "screenshot": "/screenshots/hyperbrowser_ai.png",
+  "screenshot_640": "/screenshots/hyperbrowser_ai_640.png",
+  "screenshot_400": "/screenshots/hyperbrowser_ai_400.png",
+  "updatedAt": "2025-05-20T03:41:12.342Z"
+}
