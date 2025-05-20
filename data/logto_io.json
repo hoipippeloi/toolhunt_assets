@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://logto.io/",
+  "name": "Logto",
+  "title": "logto.io",
+  "payoff": "Modern auth infrastructure for developers",
+  "shortDescription": "Logto simplifies authentication for developers by integrating multi-tenancy, enterprise SSO, and RBAC into SaaS or AI apps. It supports OIDC and OAuth 2.1, catering to a range of frameworks and offering a clean management API. Ideal for developers tired of rebuilding auth systems, Logto provides a scalable, secure solution without the usual complexities.",
+  "pros": [
+    "Supports 20+ frameworks and clean Management API",
+    "Offers multi-tenancy and enterprise SSO",
+    "Free tier up to 50K MAUs"
+  ],
+  "cons": [
+    "May require technical knowledge to integrate",
+    "Limited customization options for less common use cases",
+    "Dependent on third-party services for some features"
+  ],
+  "alternatives": [
+    "Auth0 [auth0.com]",
+    "Okta [okta.com]",
+    "OneLogin [onelogin.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Auth0",
+      "url": "auth0.com",
+      "reason": "Offers extensive identity solutions"
+    },
+    {
+      "name": "Okta",
+      "url": "okta.com",
+      "reason": "Widely used for enterprise SSO"
+    },
+    {
+      "name": "OneLogin",
+      "url": "onelogin.com",
+      "reason": "Provides comprehensive access management"
+    }
+  ],
+  "tags": [
+    "authentication",
+    "security",
+    "SSO",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Authentication",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://logto.io/",
+  "documentationUrl": "https://docs.logto.io/",
+  "githubUrl": "https://github.com/logto-io/logto",
+  "twitterUrl": "https://twitter.com/logto_io",
+  "screenshot": "/screenshots/logto_io.png",
+  "screenshot_640": "/screenshots/logto_io_640.png",
+  "screenshot_400": "/screenshots/logto_io_400.png",
+  "updatedAt": "2025-05-20T04:18:55.296Z"
+}

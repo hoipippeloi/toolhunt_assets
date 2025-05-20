@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kumo.ai/",
+  "name": "Kumo",
+  "title": "kumo.ai",
+  "payoff": "AI models for relational data",
+  "shortDescription": "Kumo leverages AI to enhance relational data handling, ideal for businesses with complex data structures. By eliminating the need for feature engineering, Kumo allows companies to deploy AI models quickly, enhancing predictions and embeddings directly from relational databases. An example use case is improving lead scoring models which significantly increase conversion rates.",
+  "pros": [
+    "No feature engineering required",
+    "Fast model deployment (20x faster than traditional methods)",
+    "High accuracy in predictions and embeddings"
+  ],
+  "cons": [
+    "Dependence on relational data structures",
+    "Potential complexity in initial integration",
+    "Limited information on customization options"
+  ],
+  "alternatives": [
+    "TensorFlow [tensorflow.org]",
+    "PyTorch [pytorch.org]",
+    "H2O.ai [h2o.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "TensorFlow",
+      "url": "tensorflow.org",
+      "reason": "Popular for building custom AI models"
+    },
+    {
+      "name": "PyTorch",
+      "url": "pytorch.org",
+      "reason": "Flexible and powerful for AI research"
+    },
+    {
+      "name": "H2O.ai",
+      "url": "h2o.ai",
+      "reason": "Automates ML workflows and scalable"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Data Analytics",
+    "Predictive Modeling"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://kumo.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=kumo&type=repositories",
+  "twitterUrl": "https://x.com/Kumo_ai_team",
+  "screenshot": "/screenshots/kumo_ai.png",
+  "screenshot_640": "/screenshots/kumo_ai_640.png",
+  "screenshot_400": "/screenshots/kumo_ai_400.png",
+  "updatedAt": "2025-05-20T04:18:35.484Z"
+}
