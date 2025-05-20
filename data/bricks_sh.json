@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bricks.sh/",
+  "name": "Bricks AI",
+  "title": "bricks.sh",
+  "payoff": "Admin panel generated, not built",
+  "shortDescription": "Bricks AI revolutionizes the creation of admin panels by automating the process through AI. It transforms APIs into fully-configured, self-updating admin panels in seconds. Ideal for tech teams tired of manual setup, it serves CTOs and developers looking to save time and enhance productivity. An example use case is a tech company needing to quickly provide business teams with robust internal tools without diverting engineering resources.",
+  "pros": [
+    "Automatically updates with API changes",
+    "No coding required for setup",
+    "Fast and easy to deploy"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on API quality and structure",
+    "May not support all API types"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "AdminBro [adminbro.com]",
+    "Forest Admin [forestadmin.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers more customization options"
+    },
+    {
+      "name": "AdminBro",
+      "url": "adminbro.com",
+      "reason": "Open source with extensible features"
+    },
+    {
+      "name": "Forest Admin",
+      "url": "forestadmin.com",
+      "reason": "Integrates with multiple databases"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "admin panel",
+    "no-code"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Admin Panel",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://bricks.sh/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=bricks%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/bricks_sh.png",
+  "screenshot_640": "/screenshots/bricks_sh_640.png",
+  "screenshot_400": "/screenshots/bricks_sh_400.png",
+  "updatedAt": "2025-05-20T01:09:02.693Z"
+}
