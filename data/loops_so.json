@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://loops.so/",
+  "name": "Loops",
+  "title": "loops.so",
+  "payoff": "Email platform for SaaS",
+  "shortDescription": "Loops is an email platform designed specifically for modern software companies. It integrates seamlessly with existing tech stacks, allowing businesses to manage product, marketing, and transactional emails all through one simple interface. Ideal for designers and developers, Loops helps craft personalized, branded email communications at scale, enhancing customer journeys without compromising on deliverability.",
+  "pros": [
+    "Simple integration with existing tech stacks",
+    "Supports personalization and branding",
+    "Designed specifically for SaaS companies"
+  ],
+  "cons": [
+    "Limited to email functionalities",
+    "May not suit non-SaaS businesses",
+    "No clear advanced analytics features"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "Mailchimp [mailchimp.com]",
+    "Postmark [postmarkapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Robust API and scalability options"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Wide range of marketing tools"
+    },
+    {
+      "name": "Postmark",
+      "url": "postmarkapp.com",
+      "reason": "Focus on transactional emails"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "SaaS",
+    "customer engagement",
+    "marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://loops.so/",
+  "documentationUrl": "https://loops.so/docs",
+  "githubUrl": "https://github.com/search?q=loops&type=repositories",
+  "twitterUrl": "https://twitter.com/loops",
+  "screenshot": "/screenshots/loops_so.png",
+  "screenshot_640": "/screenshots/loops_so_640.png",
+  "screenshot_400": "/screenshots/loops_so_400.png",
+  "updatedAt": "2025-05-20T05:15:23.425Z"
+}
