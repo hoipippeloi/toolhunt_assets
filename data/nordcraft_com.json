@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nordcraft.com/",
+  "name": "Nordcraft",
+  "title": "nordcraft.com",
+  "payoff": "Craft AAA web apps that delight",
+  "shortDescription": "Nordcraft is a Web Development Engine designed to enhance collaboration between designers and developers, creating immersive web experiences. It's built on open-source principles, appealing to those who seek beyond the default. An example use case is building interactive web applications with high visual quality, similar to game development platforms.",
+  "pros": [
+    "Enhances designer-developer collaboration",
+    "Open-source and customizable",
+    "High-quality visual tools for web apps"
+  ],
+  "cons": [
+    "May require steep learning curve",
+    "Potentially limited third-party integrations",
+    "Focused mainly on visual web applications"
+  ],
+  "alternatives": [
+    "React [reactjs.org]",
+    "Vue.js [vuejs.org]",
+    "Svelte [svelte.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "React",
+      "url": "reactjs.org",
+      "reason": "Popular JS library for UI building"
+    },
+    {
+      "name": "Vue.js",
+      "url": "vuejs.org",
+      "reason": "Progressive JS framework for UIs"
+    },
+    {
+      "name": "Svelte",
+      "url": "svelte.dev",
+      "reason": "Innovative approach to build web apps"
+    }
+  ],
+  "tags": [
+    "web development",
+    "open source",
+    "visual tools",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://nordcraft.com/",
+  "documentationUrl": "https://docs.nordcraft.com/",
+  "githubUrl": "https://github.com/nordcraftengine/nordcraft",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/nordcraft_com.png",
+  "screenshot_640": "/screenshots/nordcraft_com_640.png",
+  "screenshot_400": "/screenshots/nordcraft_com_400.png",
+  "updatedAt": "2025-05-20T02:57:43.898Z"
+}

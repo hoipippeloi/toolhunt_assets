@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ghost.org/",
+  "name": "Ghost",
+  "title": "ghost.org",
+  "payoff": "Best open source blog platform",
+  "shortDescription": "Ghost is a powerful blogging and newsletter platform designed for creators, publishers, and businesses. It provides tools for site design, audience growth, and business operations. Creators like YouTubers and bloggers can easily publish content, while businesses can leverage Ghost for content marketing. An example use case is a local news outlet using Ghost to manage their digital presence and subscriber base.",
+  "pros": [
+    "Open source with a strong community",
+    "Extensive integrations and customization",
+    "Dedicated support and documentation"
+  ],
+  "cons": [
+    "May require technical skills for setup",
+    "Limited design templates compared to competitors",
+    "Potentially higher learning curve for non-developers"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Medium [medium.com]",
+    "Substack [substack.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Flexible CMS with extensive plugins"
+    },
+    {
+      "name": "Medium",
+      "url": "medium.com",
+      "reason": "Simple, user-friendly blogging platform"
+    },
+    {
+      "name": "Substack",
+      "url": "substack.com",
+      "reason": "Focuses on newsletters with monetization"
+    }
+  ],
+  "tags": [
+    "content management",
+    "blogging",
+    "open source",
+    "newsletter"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2013,
+  "websiteUrl": "https://ghost.org/",
+  "documentationUrl": "https://ghost.org/docs/",
+  "githubUrl": "https://github.com/TryGhost/Ghost",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/ghost_org.png",
+  "screenshot_640": "/screenshots/ghost_org_640.png",
+  "screenshot_400": "/screenshots/ghost_org_400.png",
+  "updatedAt": "2025-05-20T02:59:17.463Z"
+}

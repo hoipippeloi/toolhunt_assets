@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://basedash.com/",
+  "name": "Basedash",
+  "title": "basedash.com",
+  "payoff": "AI-native Business Intelligence",
+  "shortDescription": "Basedash is an AI-native business intelligence platform that allows users to connect directly to their databases or warehouses. Users can quickly build dashboards and query data using simple chat commands. It's ideal for teams in analytics, sales, marketing, and operations who need to generate insights without deep technical knowledge of database schemas.",
+  "pros": [
+    "AI-powered querying simplifies data interaction",
+    "Direct connection to databases and warehouses",
+    "No need for deep technical knowledge"
+  ],
+  "cons": [
+    "Dependent on database connectivity",
+    "May not support all types of databases",
+    "Limited customizability of AI responses"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in big data integration"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Microsoft integration and scaling"
+    }
+  ],
+  "tags": [
+    "Business Intelligence",
+    "AI",
+    "Data Visualization",
+    "Dashboards"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://basedash.com/",
+  "documentationUrl": "https://basedash.com/docs",
+  "githubUrl": "https://github.com/search?q=basedash&type=repositories",
+  "twitterUrl": "https://x.com/Basedash",
+  "screenshot": "/screenshots/basedash_com.png",
+  "screenshot_640": "/screenshots/basedash_com_640.png",
+  "screenshot_400": "/screenshots/basedash_com_400.png",
+  "updatedAt": "2025-05-20T02:58:51.367Z"
+}
