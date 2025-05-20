@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dataplane.app/",
+  "name": "Dataplane",
+  "title": "dataplane.app",
+  "payoff": "Automate financial tasks efficiently",
+  "shortDescription": "Dataplane is a platform designed to automate repetitive tasks for finance teams, enhancing productivity by focusing on strategic analysis and financial planning. It integrates seamlessly with existing financial systems, allowing for rapid prototyping and deployment of data-driven finance applications. Example use case includes automating data entry and report generation, freeing up time for value-added activities.",
+  "pros": [
+    "Reduces time spent on manual tasks",
+    "Integrates easily with existing systems",
+    "Supports rapid prototyping and testing"
+  ],
+  "cons": [
+    "May require initial setup and training",
+    "Dependent on the quality of existing data",
+    "Potential high cost for full features"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Leading RPA tool with extensive features"
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Comprehensive automation suite for enterprises"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Strong in enterprise-grade RPA solutions"
+    }
+  ],
+  "tags": [
+    "automation",
+    "fintech",
+    "RPA",
+    "low-code"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://dataplane.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/dataplane-app/dataplane/tree/main",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/dataplane_app.png",
+  "screenshot_640": "/screenshots/dataplane_app_640.png",
+  "screenshot_400": "/screenshots/dataplane_app_400.png",
+  "updatedAt": "2025-05-20T04:45:04.048Z"
+}

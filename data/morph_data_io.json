@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://morph-data.io/",
+  "name": "Morph",
+  "title": "morph-data.io",
+  "payoff": "AI-powered Data Apps with Code",
+  "shortDescription": "Morph is a platform designed to facilitate the rapid development of internal AI applications. It integrates a Python framework and hosting solution with features like built-in authentication, data connectors, CI/CD, and RBAC. Users can connect to databases like BigQuery or Snowflake, utilize OpenAI APIs, and deploy ML models. An example use case is a data team building secure, performant apps to process and visualize business data, sharing outputs easily via URLs.",
+  "pros": [
+    "Built-in advanced security features",
+    "Integration with major databases and OpenAI API",
+    "Easy sharing and collaboration via URLs"
+  ],
+  "cons": [
+    "Limited to Python and React for development",
+    "May require technical expertise to fully utilize",
+    "No clear pricing information available"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Streamlit [streamlit.io]",
+    "Dash by Plotly [plotly.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for rapid app development"
+    },
+    {
+      "name": "Streamlit",
+      "url": "streamlit.io",
+      "reason": "Focuses on creating ML and data apps quickly"
+    },
+    {
+      "name": "Dash by Plotly",
+      "url": "plotly.com",
+      "reason": "Good for building analytical web applications"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data apps",
+    "Python",
+    "security"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Internal Apps",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2024,
+  "websiteUrl": "https://morph-data.io/",
+  "documentationUrl": "https://morph-data.io/docs",
+  "githubUrl": "https://github.com/morph-data/morph",
+  "twitterUrl": "https://twitter.com/morphdbHQ",
+  "screenshot": "/screenshots/morph_data_io.png",
+  "screenshot_640": "/screenshots/morph_data_io_640.png",
+  "screenshot_400": "/screenshots/morph_data_io_400.png",
+  "updatedAt": "2025-05-20T04:44:36.967Z"
+}
