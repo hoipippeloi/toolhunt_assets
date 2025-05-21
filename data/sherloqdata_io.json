@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sherloqdata.io/",
+  "name": "Sherloq",
+  "title": "sherloqdata.io",
+  "payoff": "AI for your SQL",
+  "shortDescription": "Sherloq is designed to enhance SQL database management through AI. It targets developers and data analysts by simplifying query writing and management. The tool integrates as a plugin, directly importing SQL queries from various sources, making it easy to build an AI-ready SQL repository. An example use case is a developer struggling with complex SQL queries; Sherloq can assist by generating context-aware SQL, fixing syntax, and optimizing queries.",
+  "pros": [
+    "Simplifies complex SQL query management",
+    "No integration needed, works as a plugin",
+    "Generates context-aware SQL adjustments"
+  ],
+  "cons": [
+    "Limited to SQL databases",
+    "May not support all SQL editors",
+    "Dependent on the quality of existing queries"
+  ],
+  "alternatives": [
+    "DataGrip [jetbrains.com]",
+    "SQL Server Management Studio [microsoft.com]",
+    "HeidiSQL [heidisql.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DataGrip",
+      "url": "jetbrains.com",
+      "reason": "Rich SQL editor and database manager"
+    },
+    {
+      "name": "SQL Server Management Studio",
+      "url": "microsoft.com",
+      "reason": "Comprehensive tool for managing SQL Server"
+    },
+    {
+      "name": "HeidiSQL",
+      "url": "heidisql.com",
+      "reason": "Free and open source SQL management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "SQL",
+    "database management",
+    "plugin"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sherloqdata.io/",
+  "documentationUrl": "https://docs.sherloqdata.io/allintegrations",
+  "githubUrl": "https://github.com/search?q=sherloq&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/sherloqdata_io.png",
+  "screenshot_640": "/screenshots/sherloqdata_io_640.png",
+  "screenshot_400": "/screenshots/sherloqdata_io_400.png",
+  "updatedAt": "2025-05-21T01:10:20.182Z"
+}

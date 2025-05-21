@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mrscraper.com/",
+  "name": "MrScraper",
+  "title": "mrscraper.com",
+  "payoff": "Effortless AI-powered data scraping",
+  "shortDescription": "MrScraper leverages AI to provide an efficient web scraping service, ideal for businesses needing competitor analysis and market research. Users simply provide a URL and a prompt, and MrScraper's AI handles the complex data extraction, supported by features like auto-rotating proxies to avoid detection. This tool is perfect for marketers, data analysts, and businesses looking to gain insights from web data without the technical overhead.",
+  "pros": [
+    "AI-powered scraping for ease of use",
+    "Auto-rotating residential proxies to avoid bans",
+    "Customizable scraping options for tailored data extraction"
+  ],
+  "cons": [
+    "May be cost-prohibitive for small businesses",
+    "Dependence on AI might limit manual control",
+    "Potential legal issues with web scraping"
+  ],
+  "alternatives": [
+    "Octoparse [octoparse.com]",
+    "ParseHub [parsehub.com]",
+    "Scrapy [scrapy.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "Visual interface for non-coders"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Supports complex data extraction"
+    },
+    {
+      "name": "Scrapy",
+      "url": "scrapy.org",
+      "reason": "Open-source and highly customizable"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "AI",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mrscraper.com/",
+  "documentationUrl": "https://mrscraper.com/api-documentation",
+  "githubUrl": "https://github.com/search?q=mrscraper&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/mrscraper_com.png",
+  "screenshot_640": "/screenshots/mrscraper_com_640.png",
+  "screenshot_400": "/screenshots/mrscraper_com_400.png",
+  "updatedAt": "2025-05-21T01:09:46.726Z"
+}

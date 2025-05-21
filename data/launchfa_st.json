@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://launchfa.st/",
+  "name": "LaunchFast",
+  "title": "launchfa.st",
+  "payoff": "Launch SaaS projects faster",
+  "shortDescription": "LaunchFast offers production-ready SaaS starter kits tailored for Astro, Next.js, and SvelteKit. Designed for developers and startups, it simplifies building SaaS applications by integrating essential features like SEO, authentication, and payments. Ideal for those looking to quickly deploy a scalable SaaS solution without reinventing the wheel.",
+  "pros": [
+    "Comprehensive feature integration",
+    "Supports multiple databases and storage solutions",
+    "Rapid deployment capabilities"
+  ],
+  "cons": [
+    "Limited to specific frameworks",
+    "May be overly complex for simple projects",
+    "Pricing could be prohibitive for hobbyists"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "AppGyver [appgyver.com]",
+    "Retool [retool.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform for rapid app development"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "Visual development for full-stack apps"
+    },
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Build internal tools quickly"
+    }
+  ],
+  "tags": [
+    "SaaS",
+    "starter kits",
+    "software development",
+    "product management"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://launchfa.st/",
+  "documentationUrl": "https://www.launchfa.st/documentation",
+  "githubUrl": "https://github.com/rishi-raj-jain",
+  "twitterUrl": "https://x.com/fuma_nama",
+  "screenshot": "/screenshots/launchfa_st.png",
+  "screenshot_640": "/screenshots/launchfa_st_640.png",
+  "screenshot_400": "/screenshots/launchfa_st_400.png",
+  "updatedAt": "2025-05-21T01:10:37.288Z"
+}
