@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://instagram.com/",
+  "name": "Instagram",
+  "title": "instagram.com",
+  "payoff": "Connect visually with the world",
+  "shortDescription": "Instagram is a social media platform that allows users to share photos and videos, connect with friends, and explore content from around the world. It's designed for individuals who enjoy visual storytelling and businesses looking to engage with a visually-oriented audience. A common use case is a brand using Instagram to run targeted ad campaigns to increase their visibility and engage with potential customers.",
+  "pros": [
+    "High user engagement",
+    "Strong visual appeal",
+    "Effective platform for brand promotion"
+  ],
+  "cons": [
+    "Limited to visual content",
+    "High competition among users",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Snapchat [snapchat.com]",
+    "TikTok [tiktok.com]",
+    "Pinterest [pinterest.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Snapchat",
+      "url": "snapchat.com",
+      "reason": "Focuses on ephemeral, real-time content sharing"
+    },
+    {
+      "name": "TikTok",
+      "url": "tiktok.com",
+      "reason": "Short-form video content with high engagement"
+    },
+    {
+      "name": "Pinterest",
+      "url": "pinterest.com",
+      "reason": "Visual discovery and collection tool"
+    }
+  ],
+  "tags": [
+    "social media",
+    "photo sharing",
+    "video sharing",
+    "content discovery"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://instagram.com/",
+  "documentationUrl": "https://help.instagram.com/",
+  "githubUrl": "https://github.com/search?q=instagram&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/instagram_com.png",
+  "screenshot_640": "/screenshots/instagram_com_640.png",
+  "screenshot_400": "/screenshots/instagram_com_400.png",
+  "updatedAt": "2025-05-21T03:40:30.526Z"
+}

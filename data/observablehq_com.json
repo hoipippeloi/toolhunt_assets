@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://observablehq.com/framework/",
+  "name": "Observable Framework",
+  "title": "observablehq.com",
+  "payoff": "Build dashboards with code.",
+  "shortDescription": "Observable Framework is an open-source static site generator designed for creating data-driven applications such as dashboards and reports. It supports various programming languages like Markdown, JavaScript, SQL, Python, and R. Users can develop locally with a preview server and automate builds and deployments via a command-line interface. The tool is ideal for developers looking to integrate interactive data visualizations and manage projects using version control and CI/CD pipelines.",
+  "pros": [
+    "Supports multiple programming languages",
+    "Includes a variety of data visualization libraries",
+    "Highly customizable and open-source"
+  ],
+  "cons": [
+    "Requires coding knowledge",
+    "May have a steep learning curve for non-developers",
+    "Limited built-in collaboration features"
+  ],
+  "alternatives": [
+    "Jupyter Notebook [jupyter.org]",
+    "Grafana [grafana.com]",
+    "Tableau [tableau.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jupyter Notebook",
+      "url": "jupyter.org",
+      "reason": "Supports interactive data science and scientific computing."
+    },
+    {
+      "name": "Grafana",
+      "url": "grafana.com",
+      "reason": "Focuses on time series analytics and monitoring."
+    },
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Powerful business intelligence and visualization tool."
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "static site generator",
+    "open source",
+    "dashboard"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://observablehq.com/framework/",
+  "documentationUrl": "https://observablehq.com/framework",
+  "githubUrl": "https://github.com/observablehq/framework/tree/main/examples",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/observablehq_com.png",
+  "screenshot_640": "/screenshots/observablehq_com_640.png",
+  "screenshot_400": "/screenshots/observablehq_com_400.png",
+  "updatedAt": "2025-05-21T03:40:09.640Z"
+}

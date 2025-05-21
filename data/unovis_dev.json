@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://unovis.dev/",
+  "name": "Unovis",
+  "title": "unovis.dev",
+  "payoff": "Modular data visualization framework",
+  "shortDescription": "Unovis is a versatile data visualization framework designed for developers using popular web technologies. It supports frameworks like React, Angular, Svelte, Vue, Solid, and can also be used with vanilla JavaScript or TypeScript. This tool is ideal for developers looking to integrate customizable, responsive data visualization components into their applications. An example use case could be a web developer creating an interactive dashboard for real-time data analysis.",
+  "pros": [
+    "Framework independent",
+    "Customizable via CSS variables",
+    "Optimized with modular imports"
+  ],
+  "cons": [
+    "Requires familiarity with modern JS frameworks",
+    "May have a learning curve for beginners",
+    "Limited community compared to larger frameworks"
+  ],
+  "alternatives": [
+    "D3.js [d3js.org]",
+    "Chart.js [chartjs.org]",
+    "Highcharts [highcharts.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "D3.js",
+      "url": "d3js.org",
+      "reason": "Highly customizable, widely used"
+    },
+    {
+      "name": "Chart.js",
+      "url": "chartjs.org",
+      "reason": "Simple, for basic charts"
+    },
+    {
+      "name": "Highcharts",
+      "url": "highcharts.com",
+      "reason": "Commercial use, rich features"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "web development",
+    "framework",
+    "typescript"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://unovis.dev/",
+  "documentationUrl": "https://unovis.dev/docs",
+  "githubUrl": "https://github.com/f5/unovis",
+  "twitterUrl": "https://www.nginx.com/",
+  "screenshot": "/screenshots/unovis_dev.png",
+  "screenshot_640": "/screenshots/unovis_dev_640.png",
+  "screenshot_400": "/screenshots/unovis_dev_400.png",
+  "updatedAt": "2025-05-21T03:39:50.013Z"
+}
