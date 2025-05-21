@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://algora.io/",
+  "name": "Algora",
+  "title": "algora.io",
+  "payoff": "Hire top open source engineers",
+  "shortDescription": "Algora is an innovative open source tech recruiting platform that leverages detailed GitHub OSS contribution data to streamline the hiring process. It's designed for companies looking to hire skilled engineers quickly and cost-effectively. Users can highlight applicant contributions, automatically screen and rank candidates, and even conduct paid trial projects to assess fit. Algora is ideal for tech startups and companies needing flexible, skilled engineering talent.",
+  "pros": [
+    "Uses GitHub data for precise matching",
+    "Offers paid trials to assess candidate fit",
+    "0% placement fees with efficient process"
+  ],
+  "cons": [
+    "Limited to developers active on GitHub",
+    "May not suit non-technical roles",
+    "Dependent on the quality of GitHub data"
+  ],
+  "alternatives": [
+    "Hired [hired.com]",
+    "Toptal [toptal.com]",
+    "Upwork [upwork.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hired",
+      "url": "hired.com",
+      "reason": "Focused on tech roles with vetting process"
+    },
+    {
+      "name": "Toptal",
+      "url": "toptal.com",
+      "reason": "Access to top freelancers and developers"
+    },
+    {
+      "name": "Upwork",
+      "url": "upwork.com",
+      "reason": "Large freelance marketplace with diverse skills"
+    }
+  ],
+  "tags": [
+    "tech recruiting",
+    "open source",
+    "hiring platform",
+    "GitHub integration"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://algora.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/algora-io/algora",
+  "twitterUrl": "https://x.com/algoraio",
+  "screenshot": "/screenshots/algora_io.png",
+  "screenshot_640": "/screenshots/algora_io_640.png",
+  "screenshot_400": "/screenshots/algora_io_400.png",
+  "updatedAt": "2025-05-21T02:56:33.354Z"
+}

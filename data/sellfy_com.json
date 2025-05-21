@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sellfy.com/",
+  "name": "Sellfy",
+  "title": "sellfy.com",
+  "payoff": "Sell products online effortlessly",
+  "shortDescription": "Sellfy is an all-in-one platform designed for creators and online businesses looking to sell digital products, merchandise, and more without the complexity of traditional e-commerce solutions. With features like store customization, email marketing, and an affiliate program, Sellfy simplifies the setup and management of online stores. Creators can start selling within minutes and benefit from powerful marketing tools to boost their sales.",
+  "pros": [
+    "Easy store setup and management",
+    "Integrated marketing and upselling tools",
+    "No initial fees with a free 14-day trial"
+  ],
+  "cons": [
+    "Limited customization options compared to larger platforms",
+    "May not scale well for very large businesses",
+    "Lacks some advanced analytics features"
+  ],
+  "alternatives": [
+    "Shopify [shopify.com]",
+    "BigCommerce [bigcommerce.com]",
+    "Gumroad [gumroad.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Offers extensive store customization"
+    },
+    {
+      "name": "WooCommerce",
+      "url": "woocommerce.com",
+      "reason": "Flexible, open-source platform"
+    },
+    {
+      "name": "BigCommerce",
+      "url": "bigcommerce.com",
+      "reason": "Scales well for large businesses"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "digital sales",
+    "marketing tools",
+    "store customization"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://sellfy.com/",
+  "documentationUrl": "https://docs.sellfy.com/#contact",
+  "githubUrl": "https://github.com/search?q=sellfy&type=repositories",
+  "twitterUrl": "https://twitter.com/Sellfy",
+  "screenshot": "/screenshots/sellfy_com.png",
+  "screenshot_640": "/screenshots/sellfy_com_640.png",
+  "screenshot_400": "/screenshots/sellfy_com_400.png",
+  "updatedAt": "2025-05-21T02:57:27.291Z"
+}

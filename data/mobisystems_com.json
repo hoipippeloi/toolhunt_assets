@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mobisystems.com/en-sg/mobioffice",
+  "name": "MobiOffice",
+  "title": "mobisystems.com",
+  "payoff": "Free AI Tools in Office Suite",
+  "shortDescription": "MobiOffice is an office suite designed to enhance productivity across various devices. It's ideal for small businesses and individual users looking to create documents, analyze data, and design presentations without a steep learning curve. An example use case is a small business utilizing MobiSheets for budgeting and expense tracking, leveraging the suite's AI assistant to improve document accuracy and presentation quality.",
+  "pros": [
+    "Free AI writing assistant included",
+    "Compatibility with multiple file formats",
+    "User-friendly interface with no learning curve"
+  ],
+  "cons": [
+    "Limited advanced features in the free version",
+    "Potential privacy concerns despite robust security claims",
+    "May not integrate with all enterprise-level software"
+  ],
+  "alternatives": [
+    "Microsoft Office [microsoft.com]",
+    "Google Workspace [workspace.google.com]",
+    "LibreOffice [libreoffice.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Office",
+      "url": "microsoft.com",
+      "reason": "Comprehensive suite with advanced features"
+    },
+    {
+      "name": "Google Workspace",
+      "url": "workspace.google.com",
+      "reason": "Cloud-based collaboration and productivity tools"
+    },
+    {
+      "name": "LibreOffice",
+      "url": "libreoffice.org",
+      "reason": "Open source and widely adopted alternative"
+    }
+  ],
+  "tags": [
+    "office suite",
+    "productivity",
+    "AI assistant",
+    "document management"
+  ],
+  "apiUsed": false,
+  "department": "General",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mobisystems.com/en-sg/mobioffice",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mobioffice&type=repositories",
+  "twitterUrl": "https://x.com/MobiSystems",
+  "screenshot": "/screenshots/mobisystems_com.png",
+  "screenshot_640": "/screenshots/mobisystems_com_640.png",
+  "screenshot_400": "/screenshots/mobisystems_com_400.png",
+  "updatedAt": "2025-05-21T02:56:57.481Z"
+}
