@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://foudroyer.com/",
+  "name": "Foudroyer",
+  "title": "foudroyer.com",
+  "payoff": "Index pages on search engines fast",
+  "shortDescription": "Foudroyer is a powerful indexing tool designed for individuals and businesses aiming to enhance their website visibility across multiple search engines like Google, Bing, Yandex, and Naver. It allows users to quickly plug in their website, index an unlimited number of pages, and track their performance. Ideal for SEO professionals and marketing teams, Foudroyer simplifies the process of achieving high search engine rankings and analyzing traffic and keyword positions.",
+  "pros": [
+    "Quick and easy setup",
+    "Unlimited page indexing",
+    "Multi-engine compatibility"
+  ],
+  "cons": [
+    "No free tier mentioned",
+    "Limited information on advanced features",
+    "Potential dependency on tool updates"
+  ],
+  "alternatives": [
+    "Ahrefs [ahrefs.com]",
+    "SEMrush [semrush.com]",
+    "Moz Pro [moz.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Comprehensive SEO toolset"
+    },
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Broad digital marketing tools"
+    },
+    {
+      "name": "Moz Pro",
+      "url": "moz.com",
+      "reason": "Well-established SEO focus"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "web indexing",
+    "digital marketing",
+    "search engine optimization"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://foudroyer.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=foudroyer&type=repositories",
+  "twitterUrl": "https://twitter.com/KM_Marques",
+  "screenshot": "/screenshots/foudroyer_com.png",
+  "screenshot_640": "/screenshots/foudroyer_com_640.png",
+  "screenshot_400": "/screenshots/foudroyer_com_400.png",
+  "updatedAt": "2025-05-21T04:45:51.359Z"
+}

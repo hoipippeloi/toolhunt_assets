@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://starlight.astro.build/",
+  "name": "Starlight",
+  "title": "starlight.astro.build",
+  "payoff": "Build docs sites with Astro easily",
+  "shortDescription": "Starlight is a documentation site builder powered by Astro, designed to enhance the way developers create and manage their documentation. It supports various markup languages like Markdown, Markdoc, and MDX, and integrates seamlessly with TypeScript for type-safety. Users can extend Starlight with their preferred UI components from frameworks like React, Vue, and more. It's ideal for developers looking to streamline documentation processes without compromising on design or functionality.",
+  "pros": [
+    "Supports multiple markup languages",
+    "Framework-agnostic with extensive integrations",
+    "Built-in frontmatter validation and type-safety"
+  ],
+  "cons": [
+    "May require familiarity with Astro",
+    "Limited by the extensibility of the underlying framework",
+    "Potential learning curve for non-technical users"
+  ],
+  "alternatives": [
+    "Docusaurus [docusaurus.io]",
+    "ReadTheDocs [readthedocs.io]",
+    "MkDocs [mkdocs.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Docusaurus",
+      "url": "docusaurus.io",
+      "reason": "Offers similar site building with React"
+    },
+    {
+      "name": "ReadTheDocs",
+      "url": "readthedocs.io",
+      "reason": "Strong focus on technical documentation"
+    },
+    {
+      "name": "MkDocs",
+      "url": "mkdocs.org",
+      "reason": "Markdown-centric, simple and lightweight"
+    }
+  ],
+  "tags": [
+    "documentation",
+    "site builder",
+    "Astro",
+    "markdown"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://starlight.astro.build/",
+  "documentationUrl": "https://starlight.astro.build/docs",
+  "githubUrl": "https://github.com/withastro/starlight",
+  "twitterUrl": "https://twitter.com/astrodotbuild/status/1724934718745915558",
+  "screenshot": "/screenshots/starlight_astro_build.png",
+  "screenshot_640": "/screenshots/starlight_astro_build_640.png",
+  "screenshot_400": "/screenshots/starlight_astro_build_400.png",
+  "updatedAt": "2025-05-21T04:44:59.090Z"
+}
