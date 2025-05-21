@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://resend.com/",
+  "name": "Resend",
+  "title": "resend.com",
+  "payoff": "Email for developers",
+  "shortDescription": "Resend offers a robust platform for developers to manage and send emails efficiently. It caters to both transactional and marketing needs, allowing integration with various programming languages through SDKs. Example use case includes a startup using Resend to handle all customer communication, ensuring high deliverability and tracking interactions seamlessly.",
+  "pros": [
+    "High deliverability and reduced spam",
+    "Real-time notifications and analytics",
+    "Easy integration with SDKs and React"
+  ],
+  "cons": [
+    "May require technical knowledge to setup",
+    "Potentially higher cost for premium features",
+    "Limited customization options compared to competitors"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "Mailgun [mailgun.com]",
+    "Mandrill [mandrill.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Widely used with strong integration options"
+    },
+    {
+      "name": "Mailgun",
+      "url": "mailgun.com",
+      "reason": "Focuses on transactional email delivery"
+    },
+    {
+      "name": "Mandrill",
+      "url": "mandrill.com",
+      "reason": "Good for Mailchimp users, transactional focus"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "developer tools",
+    "API",
+    "marketing automation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://resend.com/",
+  "documentationUrl": "https://resend.com/docs",
+  "githubUrl": "https://github.com/resend/resend-node-example",
+  "twitterUrl": "https://x.com/resend",
+  "screenshot": "/screenshots/resend_com.png",
+  "screenshot_640": "/screenshots/resend_com_640.png",
+  "screenshot_400": "/screenshots/resend_com_400.png",
+  "updatedAt": "2025-05-21T05:15:25.523Z"
+}
