@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://telegram.org/",
+  "name": "Telegram Messenger",
+  "title": "telegram.org",
+  "payoff": "A new era of messaging",
+  "shortDescription": "Telegram is a messaging app focused on speed and security, making it a top choice for personal and professional communication. Users can send messages, photos, videos, and files of any type, and create large groups or channels for broadcasting to unlimited audiences. An example use case is a company using Telegram for internal team communications and file sharing.",
+  "pros": [
+    "Highly secure with end-to-end encryption",
+    "Supports large groups and channels",
+    "Fast message delivery even on weak connections"
+  ],
+  "cons": [
+    "Potential privacy concerns",
+    "Can be overwhelming due to feature richness",
+    "Requires phone number for signup"
+  ],
+  "alternatives": [
+    "WhatsApp [whatsapp.com]",
+    "Signal [signal.org]",
+    "Viber [viber.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WhatsApp",
+      "url": "whatsapp.com",
+      "reason": "Widely used for personal and business chats."
+    },
+    {
+      "name": "Signal",
+      "url": "signal.org",
+      "reason": "Focuses on privacy and security."
+    },
+    {
+      "name": "Discord",
+      "url": "discord.com",
+      "reason": "Popular for community and group chats."
+    }
+  ],
+  "tags": [
+    "messaging",
+    "communication",
+    "secure",
+    "multi-platform"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://telegram.org/",
+  "documentationUrl": "https://core.telegram.org/bots/api",
+  "githubUrl": "https://github.com/search?q=telegram%20messenger&type=repositories",
+  "twitterUrl": "https://twitter.com/telegram",
+  "screenshot": "/screenshots/telegram_org.png",
+  "screenshot_640": "/screenshots/telegram_org_640.png",
+  "screenshot_400": "/screenshots/telegram_org_400.png",
+  "updatedAt": "2025-05-21T04:19:07.476Z"
+}

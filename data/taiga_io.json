@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://taiga.io/",
+  "name": "Taiga",
+  "title": "taiga.io",
+  "payoff": "Agile project management made easy",
+  "shortDescription": "Taiga is a free and open-source project management tool designed for agile teams. It supports cross-functional team collaboration with an intuitive user interface that simplifies planning and team interactions. An example use case is software development teams using Taiga to manage their sprints, track progress with burn down charts, and adapt their workflows between Scrum and Kanban as needed.",
+  "pros": [
+    "Intuitive user interface",
+    "Customizable to various agile workflows",
+    "Supports both Scrum and Kanban"
+  ],
+  "cons": [
+    "Limited integration options",
+    "May lack advanced reporting features",
+    "Open-source support can vary"
+  ],
+  "alternatives": [
+    "Jira [atlassian.com/software/jira]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "More features and integrations available"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task visualization and management"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Highly customizable and user-friendly"
+    }
+  ],
+  "tags": [
+    "project management",
+    "agile",
+    "open source",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://taiga.io/",
+  "documentationUrl": "https://docs.taiga.io/",
+  "githubUrl": "https://github.com/taigaio/taiga-front/issues",
+  "twitterUrl": "https://twitter.com/taigaio",
+  "screenshot": "/screenshots/taiga_io.png",
+  "screenshot_640": "/screenshots/taiga_io_640.png",
+  "screenshot_400": "/screenshots/taiga_io_400.png",
+  "updatedAt": "2025-05-21T04:19:53.508Z"
+}
