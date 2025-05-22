@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wavelength.zone/",
+  "name": "Wavelength",
+  "title": "wavelength.zone",
+  "payoff": "A mind-reading party game",
+  "shortDescription": "Wavelength is a party game that challenges players to sync up their thinking. Participants guess where a clue fits on a spectrum, such as 'hot or cold' or 'soft or hard'. It's designed for group entertainment, making it ideal for social gatherings or game nights. Originally a tabletop game, it features a physical component that enhances the gaming experience.",
+  "pros": [
+    "Enhances social interactions",
+    "Quick setup and easy to play",
+    "Physical component adds to the fun"
+  ],
+  "cons": [
+    "Requires multiple players",
+    "Limited replay value",
+    "Physical game may not be portable"
+  ],
+  "alternatives": [
+    "Codenames [czechgames.com]",
+    "Exploding Kittens [explodingkittens.com]",
+    "Cards Against Humanity [cardsagainsthumanity.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Codenames",
+      "url": "czechgames.com",
+      "reason": "Popular word-based party game"
+    },
+    {
+      "name": "Exploding Kittens",
+      "url": "explodingkittens.com",
+      "reason": "Fast-paced card game with unique theme"
+    },
+    {
+      "name": "Cards Against Humanity",
+      "url": "cardsagainsthumanity.com",
+      "reason": "Card game for humorous and mature content"
+    }
+  ],
+  "tags": [
+    "party game",
+    "board game",
+    "social gaming",
+    "entertainment"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://wavelength.zone/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=wavelength&type=repositories",
+  "twitterUrl": "https://twitter.com/cmyk_games",
+  "screenshot": "/screenshots/wavelength_zone.png",
+  "screenshot_640": "/screenshots/wavelength_zone_640.png",
+  "screenshot_400": "/screenshots/wavelength_zone_400.png",
+  "updatedAt": "2025-05-22T03:41:10.847Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://moodle.org/",
+  "name": "Moodle",
+  "title": "moodle.org",
+  "payoff": "Empowering educators worldwide",
+  "shortDescription": "Moodle is a versatile learning management system (LMS) designed to provide educators, administrators, and learners with a robust, secure, and integrated system to create personalized learning environments. It supports a range of plugins and tools that enhance the learning experience. Moodle is used globally by universities, schools, and companies to deliver course content and monitor student engagement.",
+  "pros": [
+    "Highly customizable and flexible",
+    "Strong global community support",
+    "Extensive range of plugins and resources"
+  ],
+  "cons": [
+    "Requires technical skills to setup and manage",
+    "Can be resource-intensive for large installations",
+    "User interface is not the most modern"
+  ],
+  "alternatives": [
+    "Blackboard [blackboard.com]",
+    "Canvas [instructure.com]",
+    "Schoology [schoology.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in higher education"
+    },
+    {
+      "name": "Canvas",
+      "url": "instructure.com",
+      "reason": "Modern interface and cloud-based"
+    },
+    {
+      "name": "Schoology",
+      "url": "schoology.com",
+      "reason": "Strong K-12 focus with collaboration tools"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "education",
+    "open source",
+    "learning management"
+  ],
+  "apiUsed": true,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2002,
+  "websiteUrl": "https://moodle.org/",
+  "documentationUrl": "https://docs.moodle.org",
+  "githubUrl": "https://github.com/search?q=moodle&type=repositories",
+  "twitterUrl": "https://twitter.com/moodle",
+  "screenshot": "/screenshots/moodle_org.png",
+  "screenshot_640": "/screenshots/moodle_org_640.png",
+  "screenshot_400": "/screenshots/moodle_org_400.png",
+  "updatedAt": "2025-05-22T03:41:27.439Z"
+}

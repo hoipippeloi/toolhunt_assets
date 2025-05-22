@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://twoshot.app/",
+  "name": "TwoShot",
+  "title": "twoshot.app",
+  "payoff": "Inspiration for music producers",
+  "shortDescription": "TwoShot is an AI-powered tool designed for music producers to transform creative ideas into tangible sounds. Users can instruct TwoShot to generate specific music loops or samples, such as 'fast drum & bass jungle-style drum loop' or 'layered flutes inspired by nature'. The platform offers a vast library of over 200,000 samples, ranging from old-school chops to hyper-pop melodies. It's ideal for both amateur and professional producers looking to expedite their creative process.",
+  "pros": [
+    "Extensive sample library with 200,000+ sounds",
+    "AI-powered tools for custom sound creation",
+    "Automated music licensing system"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Dependent on internet connectivity",
+    "Potential limitations in AI-generated sound authenticity"
+  ],
+  "alternatives": [
+    "Splice [splice.com]",
+    "Loopmasters [loopmasters.com]",
+    "Native Instruments [native-instruments.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Splice",
+      "url": "splice.com",
+      "reason": "Offers a vast library of samples and loops"
+    },
+    {
+      "name": "Loopcloud",
+      "url": "loopcloud.com",
+      "reason": "Cloud-based music sample and loop library"
+    },
+    {
+      "name": "LANDR",
+      "url": "landr.com",
+      "reason": "Provides AI mastering and digital distribution"
+    }
+  ],
+  "tags": [
+    "AI",
+    "music production",
+    "sample library",
+    "sound design"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://twoshot.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=twoshot&type=repositories",
+  "twitterUrl": "https://twitter.com/twoshotapp",
+  "screenshot": "/screenshots/twoshot_app.png",
+  "screenshot_640": "/screenshots/twoshot_app_640.png",
+  "screenshot_400": "/screenshots/twoshot_app_400.png",
+  "updatedAt": "2025-05-22T03:40:43.091Z"
+}
