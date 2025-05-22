@@ -3,16 +3,16 @@
   "name": "Lightdash",
   "title": "lightdash.com",
   "payoff": "Self-serve BI to 10x your data team",
-  "shortDescription": "Lightdash transforms your dbt projects into a comprehensive BI platform, aimed at enhancing data team productivity. It integrates software engineering best practices like CI/CD and developer previews into data analytics. Users can define metrics, explore data without SQL, and share insights seamlessly. An AI analyst feature assists in self-serving data needs, making it ideal for teams looking to democratize data access and insights.",
+  "shortDescription": "Lightdash transforms your dbt projects into a comprehensive BI platform, enabling analysts to define key metrics and promote self-service data access. It integrates software engineering best practices, including CI/CD and a powerful CLI, to enhance your dbt and BI workflows. Users can explore data without SQL, share insights, and utilize AI analysts to answer data queries, making it ideal for teams seeking to improve data literacy and decision-making.",
   "pros": [
-    "Unlimited users and roles, no license worries",
-    "Integrates with existing tools and workflows",
-    "AI-powered analytics for easy self-service"
+    "Unlimited users and roles without license worries",
+    "Intuitive UI that requires no SQL knowledge",
+    "Integration with popular tools and platforms"
   ],
   "cons": [
-    "May require familiarity with dbt",
-    "Potentially steep learning curve for non-developers",
-    "Dependent on the robustness of dbt projects"
+    "Dependent on dbt projects for functionality",
+    "May require initial setup and learning curve",
+    "Potential for complexity in large-scale deployments"
   ],
   "alternatives": [
     "Looker [looker.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Advanced BI with strong visualization"
+      "reason": "Offers extensive BI and big data analytics."
     },
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Widely used for interactive data viz"
+      "reason": "Popular for visual analytics and BI."
     },
     {
       "name": "Power BI",
       "url": "powerbi.microsoft.com",
-      "reason": "Integration with Microsoft products"
+      "reason": "Integrates well with Microsoft products."
     }
   ],
   "tags": [
     "BI",
     "data analytics",
     "self-service",
-    "AI"
+    "open source"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://lightdash.com/",
-  "documentationUrl": "https://docs.lightdash.com",
+  "documentationUrl": "https://docs.lightdash.com/",
   "githubUrl": "https://github.com/lightdash/lightdash",
   "twitterUrl": "https://x.com/lightdash_devs",
   "screenshot": "/screenshots/lightdash_com.png",
   "screenshot_640": "/screenshots/lightdash_com_640.png",
   "screenshot_400": "/screenshots/lightdash_com_400.png",
-  "updatedAt": "2025-05-22T01:08:11.208Z"
+  "updatedAt": "2025-05-22T07:14:56.581Z"
 }

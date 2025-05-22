@@ -3,16 +3,16 @@
   "name": "VistaCreate",
   "title": "create.vista.com",
   "payoff": "Free Graphic Design Software",
-  "shortDescription": "VistaCreate offers a robust platform for creating visual content across various formats including social media, web, and print. Designed for marketers, small businesses, and creatives, it provides tools like an AI Image Generator and a vast library of templates and stock photos. Users can easily design, schedule, and post content, or send it for print with doorstep delivery.",
+  "shortDescription": "VistaCreate is a versatile graphic design tool designed for businesses and individuals to create stunning visuals effortlessly. It offers a vast library of over 200,000 templates for social media, web, and print formats. Users can generate unique content daily, from Instagram posts to business cards, using an intuitive interface. Ideal for marketers looking to enhance their brand's visual appeal without extensive design skills.",
   "pros": [
-    "200,000+ free templates",
-    "Integrated AI tools for design",
-    "Easy social media scheduling and posting"
+    "Extensive template library",
+    "AI-powered design features",
+    "Integration with social media and print"
   ],
   "cons": [
-    "Pro features require subscription",
     "Limited customization in free tier",
-    "High dependency on templates"
+    "Can be overwhelming due to feature richness",
+    "Pro version required for advanced features"
   ],
   "alternatives": [
     "Canva [canva.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Canva",
       "url": "canva.com",
-      "reason": "Wide range of design tools and templates"
+      "reason": "Offers a similar range of design tools"
     },
     {
       "name": "Adobe Spark",
       "url": "adobe.com/products/spark.html",
-      "reason": "Professional design suite with branding"
+      "reason": "Focuses on web and mobile design"
     },
     {
-      "name": "PicMonkey",
-      "url": "picmonkey.com",
-      "reason": "Strong in photo editing and graphic design"
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Similar features with a different interface"
     }
   ],
   "tags": [
     "graphic design",
     "content creation",
-    "SaaS",
-    "template-based"
+    "template-driven",
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2017,
   "websiteUrl": "https://create.vista.com/",
-  "documentationUrl": null,
+  "documentationUrl": "https://create.vista.com/documentation",
   "githubUrl": "https://github.com/search?q=vistacreate&type=repositories",
   "twitterUrl": "https://twitter.com/vistacreate",
   "screenshot": "/screenshots/create_vista_com.png",
   "screenshot_640": "/screenshots/create_vista_com_640.png",
   "screenshot_400": "/screenshots/create_vista_com_400.png",
-  "updatedAt": "2025-05-22T02:56:13.242Z"
+  "updatedAt": "2025-05-22T07:15:21.252Z"
 }
