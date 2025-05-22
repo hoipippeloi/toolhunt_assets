@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://muz.li/",
+  "name": "Muzli",
+  "title": "muz.li",
+  "payoff": "Design inspiration instantly",
+  "shortDescription": "Muzli is a browser extension that provides instant access to the latest design stories and inspiration tailored for designers, product managers, and developers. It curates content from various design, tech, and news publications, offering a seamless way to stay updated and inspired. Ideal for creative professionals looking to keep abreast of industry trends and showcase their projects.",
+  "pros": [
+    "Curates high-quality design content",
+    "Integrates seamlessly as a browser extension",
+    "Helps users stay informed about industry trends"
+  ],
+  "cons": [
+    "Limited to browser extension use",
+    "May not cover all design niches",
+    "Dependent on external content sources"
+  ],
+  "alternatives": [
+    "Dribbble [dribbble.com]",
+    "Behance [behance.net]",
+    "Pinterest [pinterest.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dribbble",
+      "url": "dribbble.com",
+      "reason": "Platform for showcasing creative work"
+    },
+    {
+      "name": "Behance",
+      "url": "behance.net",
+      "reason": "Creative portfolio platform by Adobe"
+    },
+    {
+      "name": "Pinterest",
+      "url": "pinterest.com",
+      "reason": "Visual discovery and collection tool"
+    }
+  ],
+  "tags": [
+    "design inspiration",
+    "browser extension",
+    "creative professionals",
+    "content curation"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://muz.li/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=muzli&type=repositories",
+  "twitterUrl": "https://twitter.com/usemuzli",
+  "screenshot": "/screenshots/muz_li.png",
+  "screenshot_640": "/screenshots/muz_li_640.png",
+  "screenshot_400": "/screenshots/muz_li_400.png",
+  "updatedAt": "2025-05-22T01:07:45.422Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lightdash.com/",
+  "name": "Lightdash",
+  "title": "lightdash.com",
+  "payoff": "Self-serve BI to 10x your data team",
+  "shortDescription": "Lightdash transforms your dbt projects into a comprehensive BI platform, aimed at enhancing data team productivity. It integrates software engineering best practices like CI/CD and developer previews into data analytics. Users can define metrics, explore data without SQL, and share insights seamlessly. An AI analyst feature assists in self-serving data needs, making it ideal for teams looking to democratize data access and insights.",
+  "pros": [
+    "Unlimited users and roles, no license worries",
+    "Integrates with existing tools and workflows",
+    "AI-powered analytics for easy self-service"
+  ],
+  "cons": [
+    "May require familiarity with dbt",
+    "Potentially steep learning curve for non-developers",
+    "Dependent on the robustness of dbt projects"
+  ],
+  "alternatives": [
+    "Looker [looker.com]",
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Advanced BI with strong visualization"
+    },
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Widely used for interactive data viz"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "BI",
+    "data analytics",
+    "self-service",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lightdash.com/",
+  "documentationUrl": "https://docs.lightdash.com",
+  "githubUrl": "https://github.com/lightdash/lightdash",
+  "twitterUrl": "https://x.com/lightdash_devs",
+  "screenshot": "/screenshots/lightdash_com.png",
+  "screenshot_640": "/screenshots/lightdash_com_640.png",
+  "screenshot_400": "/screenshots/lightdash_com_400.png",
+  "updatedAt": "2025-05-22T01:08:11.208Z"
+}
