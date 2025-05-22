@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://devblogs.microsoft.com/commandline/edit-is-now-open-source/",
+  "name": "Edit",
+  "title": "devblogs.microsoft.com",
+  "payoff": "Open source CLI text editor",
+  "shortDescription": "Edit is a new command-line text editor designed for Windows 11, providing a lightweight and modeless editing experience. Users can directly edit files in the command line without switching contexts, ideal for developers and IT professionals. Example use: Open and edit multiple files in a command line environment with simple keybindings.",
+  "pros": [
+    "Lightweight and less than 250kB",
+    "Supports multiple files and keybindings",
+    "Includes mouse mode and word wrap features"
+  ],
+  "cons": [
+    "Still in early development stage",
+    "Limited advanced text editing features",
+    "Primarily designed for Windows 11"
+  ],
+  "alternatives": [
+    "Vim [vim.org]",
+    "Nano [nano-editor.org]",
+    "Emacs [gnu.org/software/emacs]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Vim",
+      "url": "vim.org",
+      "reason": "Highly configurable text editor"
+    },
+    {
+      "name": "Nano",
+      "url": "nano-editor.org",
+      "reason": "Easy to use, lightweight editor"
+    },
+    {
+      "name": "Emacs",
+      "url": "gnu.org/software/emacs",
+      "reason": "Extensible, customizable editor"
+    }
+  ],
+  "tags": [
+    "CLI editor",
+    "open source",
+    "Windows software",
+    "text editor"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://devblogs.microsoft.com/commandline/edit-is-now-open-source/",
+  "documentationUrl": "https://github.com/Microsoft/Edit",
+  "githubUrl": "https://github.com/microsoft/edit?tab=readme-ov-file#build-instructions",
+  "twitterUrl": "https://twitter.com/intent/tweet?url=https://devblogs.microsoft.com/commandline/edit-is-now-open-source/&text=Edit%20is%20now%20open%20source",
+  "screenshot": "/screenshots/devblogs_microsoft_com.png",
+  "screenshot_640": "/screenshots/devblogs_microsoft_com_640.png",
+  "screenshot_400": "/screenshots/devblogs_microsoft_com_400.png",
+  "updatedAt": "2025-05-22T05:16:42.037Z"
+}
