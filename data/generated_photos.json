@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://generated.photos/",
+  "name": "Generated Photos",
+  "title": "generated.photos",
+  "payoff": "Unique, worry-free model photos",
+  "shortDescription": "Generated Photos leverages AI to create unique, realistic human images for various applications. Ideal for designers, marketers, and researchers, it offers tools like Face Generator and Human Generator to produce diverse faces and full-body images. Use cases include training data for AI, marketing materials, and academic research, providing a scalable solution for projects requiring large volumes of images.",
+  "pros": [
+    "High-quality AI-generated images",
+    "Scalable solutions for large projects",
+    "Diverse applications across industries"
+  ],
+  "cons": [
+    "Potential ethical concerns with AI-generated faces",
+    "Limited to human images only",
+    "Dependence on AI technology for outputs"
+  ],
+  "alternatives": [
+    "This Person Does Not Exist [thispersondoesnotexist.com]",
+    "Deep Dream Generator [deepdreamgenerator.com]",
+    "Rosebud AI [rosebud.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "This Person Does Not Exist",
+      "url": "thispersondoesnotexist.com",
+      "reason": "Generates endless AI faces"
+    },
+    {
+      "name": "Deep Dream Generator",
+      "url": "deepdreamgenerator.com",
+      "reason": "AI for artistic image transformation"
+    },
+    {
+      "name": "Rosebud AI",
+      "url": "rosebud.ai",
+      "reason": "Creates diverse AI-generated models"
+    }
+  ],
+  "tags": [
+    "AI",
+    "image generation",
+    "marketing",
+    "design"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://generated.photos/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=generated%20photos&type=repositories",
+  "twitterUrl": "https://x.com/generated_media",
+  "screenshot": "/screenshots/generated_photos.png",
+  "screenshot_640": "/screenshots/generated_photos_640.png",
+  "screenshot_400": "/screenshots/generated_photos_400.png",
+  "updatedAt": "2025-05-22T04:45:48.654Z"
+}

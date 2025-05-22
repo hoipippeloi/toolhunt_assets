@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://goatsign.io/",
+  "name": "GoatSign",
+  "title": "goatsign.io",
+  "payoff": "Makes Signing Goated!",
+  "shortDescription": "GoatSign simplifies the document signing process for busy professionals by offering a seamless, secure, and legally binding solution. Users can easily manage document signing with features like profile verification, two-factor authentication, and SSL encryption. Ideal for businesses needing efficient collaboration and validation of documents.",
+  "pros": [
+    "Legally binding signatures",
+    "Robust security features",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited customization options",
+    "No clear pricing information",
+    "Potentially limited integrations"
+  ],
+  "alternatives": [
+    "DocuSign [docusign.com]",
+    "HelloSign [hellosign.com]",
+    "Adobe Sign [adobe.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DocuSign",
+      "url": "docusign.com",
+      "reason": "Widely used for e-signatures, offers robust features."
+    },
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Simpler interface and competitive pricing."
+    },
+    {
+      "name": "Adobe Sign",
+      "url": "adobe.com",
+      "reason": "Integrated with Adobe's extensive product suite."
+    }
+  ],
+  "tags": [
+    "E-Signatures",
+    "Document Management",
+    "Security",
+    "Legal Compliance"
+  ],
+  "apiUsed": false,
+  "department": "Legal & Compliance",
+  "function": "E-Signatures",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://goatsign.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=goatsign&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/goatsign_io.png",
+  "screenshot_640": "/screenshots/goatsign_io_640.png",
+  "screenshot_400": "/screenshots/goatsign_io_400.png",
+  "updatedAt": "2025-05-22T04:46:55.189Z"
+}
