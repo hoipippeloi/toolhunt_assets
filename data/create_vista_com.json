@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://create.vista.com/",
+  "name": "VistaCreate",
+  "title": "create.vista.com",
+  "payoff": "Free Graphic Design Software",
+  "shortDescription": "VistaCreate offers a robust platform for creating visual content across various formats including social media, web, and print. Designed for marketers, small businesses, and creatives, it provides tools like an AI Image Generator and a vast library of templates and stock photos. Users can easily design, schedule, and post content, or send it for print with doorstep delivery.",
+  "pros": [
+    "200,000+ free templates",
+    "Integrated AI tools for design",
+    "Easy social media scheduling and posting"
+  ],
+  "cons": [
+    "Pro features require subscription",
+    "Limited customization in free tier",
+    "High dependency on templates"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Wide range of design tools and templates"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional design suite with branding"
+    },
+    {
+      "name": "PicMonkey",
+      "url": "picmonkey.com",
+      "reason": "Strong in photo editing and graphic design"
+    }
+  ],
+  "tags": [
+    "graphic design",
+    "content creation",
+    "SaaS",
+    "template-based"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://create.vista.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=vistacreate&type=repositories",
+  "twitterUrl": "https://twitter.com/vistacreate",
+  "screenshot": "/screenshots/create_vista_com.png",
+  "screenshot_640": "/screenshots/create_vista_com_640.png",
+  "screenshot_400": "/screenshots/create_vista_com_400.png",
+  "updatedAt": "2025-05-22T02:56:13.242Z"
+}

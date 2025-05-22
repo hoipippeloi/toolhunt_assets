@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://trychroma.com/",
+  "name": "Chroma",
+  "title": "trychroma.com",
+  "payoff": "Serverless architecture for cloud solutions",
+  "shortDescription": "Chroma Cloud leverages an open-source, distributed, and serverless architecture to provide cloud services. It's designed for developers and businesses seeking scalable cloud solutions. An example use case is a tech startup using Chroma Cloud to manage their app's backend efficiently without managing servers.",
+  "pros": [
+    "Open-source framework",
+    "Scalable serverless architecture",
+    "Private preview for production"
+  ],
+  "cons": [
+    "Currently in private preview",
+    "Limited public information",
+    "No clear pricing available"
+  ],
+  "alternatives": [
+    "AWS Lambda [aws.amazon.com/lambda]",
+    "Google Cloud Functions [cloud.google.com/functions]",
+    "Azure Functions [azure.microsoft.com/en-us/services/functions]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS Lambda",
+      "url": "aws.amazon.com/lambda",
+      "reason": "AWS Lambda offers flexible serverless computing."
+    },
+    {
+      "name": "Google Cloud Functions",
+      "url": "cloud.google.com/functions",
+      "reason": "Easy integration with other Google services."
+    },
+    {
+      "name": "Azure Functions",
+      "url": "azure.microsoft.com/en-us/services/functions",
+      "reason": "Great for integrating with other Azure services."
+    }
+  ],
+  "tags": [
+    "cloud services",
+    "open source",
+    "serverless",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Cloud Platform",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://trychroma.com/",
+  "documentationUrl": "https://docs.trychroma.com/",
+  "githubUrl": "https://github.com/chroma-core/chroma",
+  "twitterUrl": "https://x.com/trychroma",
+  "screenshot": "/screenshots/trychroma_com.png",
+  "screenshot_640": "/screenshots/trychroma_com_640.png",
+  "screenshot_400": "/screenshots/trychroma_com_400.png",
+  "updatedAt": "2025-05-22T02:56:28.432Z"
+}
