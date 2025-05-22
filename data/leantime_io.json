@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://leantime.io/",
+  "name": "Leantime",
+  "title": "leantime.io",
+  "payoff": "Project management made easy",
+  "shortDescription": "Leantime is designed for non-project managers, particularly catering to individuals with ADHD, Dyslexia, and Autism. It integrates personal organization with project management, allowing users to plan, track, and execute projects effectively. Example use case: A small business owner uses Leantime to keep track of customer feedback and manage project timelines without prior project management knowledge.",
+  "pros": [
+    "Open source and customizable",
+    "Supports neurodivergent individuals",
+    "Strong community and partner backing"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Limited advanced PM features for large teams",
+    "Dependent on community for updates"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Jira [atlassian.com/software/jira]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers visual project management tools"
+    },
+    {
+      "name": "Basecamp",
+      "url": "basecamp.com",
+      "reason": "Simple, user-friendly interface"
+    },
+    {
+      "name": "ClickUp",
+      "url": "clickup.com",
+      "reason": "Flexible and feature-rich for PM"
+    }
+  ],
+  "tags": [
+    "project management",
+    "open source",
+    "neurodivergence",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://leantime.io/",
+  "documentationUrl": "https://leantime.io/docs",
+  "githubUrl": "https://github.com/Leantime/leantime/issues",
+  "twitterUrl": "https://x.com/intheleantime",
+  "screenshot": "/screenshots/leantime_io.png",
+  "screenshot_640": "/screenshots/leantime_io_640.png",
+  "screenshot_400": "/screenshots/leantime_io_400.png",
+  "updatedAt": "2025-05-22T04:20:50.154Z"
+}

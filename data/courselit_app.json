@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://courselit.app/",
+  "name": "CourseLit",
+  "title": "courselit.app",
+  "payoff": "Open-source alternative to major platforms",
+  "shortDescription": "CourseLit is an open-source platform designed to simplify the creation and management of online courses and digital products. Targeted at educators and creators, it allows users to build courses enriched with multimedia and sell digital products like ebooks directly from their own websites. An integrated blog and SEO tools are included to enhance user engagement and visibility.",
+  "pros": [
+    "Open-source and customizable",
+    "Integrated marketing and SEO tools",
+    "All-in-one platform for courses and digital sales"
+  ],
+  "cons": [
+    "May require technical skills for setup",
+    "Limited third-party integrations",
+    "Support might be less comprehensive than paid alternatives"
+  ],
+  "alternatives": [
+    "Thinkific [thinkific.com]",
+    "Teachable [teachable.com]",
+    "Podia [podia.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Thinkific",
+      "url": "thinkific.com",
+      "reason": "Popular for customizable course creation"
+    },
+    {
+      "name": "Teachable",
+      "url": "teachable.com",
+      "reason": "Focuses on ease of use and user engagement"
+    },
+    {
+      "name": "Podia",
+      "url": "podia.com",
+      "reason": "Offers integrated digital storefronts"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "content management",
+    "digital sales",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://courselit.app/",
+  "documentationUrl": "https://docs.courselit.app/",
+  "githubUrl": "https://github.com/codelitdev/courselit",
+  "twitterUrl": "https://twitter.com/courselit",
+  "screenshot": "/screenshots/courselit_app.png",
+  "screenshot_640": "/screenshots/courselit_app_640.png",
+  "screenshot_400": "/screenshots/courselit_app_400.png",
+  "updatedAt": "2025-05-22T04:20:29.455Z"
+}

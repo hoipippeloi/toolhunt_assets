@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tome.app/",
+  "name": "Tome",
+  "title": "tome.app",
+  "payoff": "AI assistant for sales",
+  "shortDescription": "Tome is an AI-powered tool designed to enhance sales strategies by leveraging CRM data and sales playbooks. It helps sales teams identify key accounts, decision-makers, and strategic initiatives, making it easier to craft personalized outreach. Ideal for sales professionals aiming to penetrate large accounts effectively, Tome provides timely briefings and actionable insights to improve meeting preparations and client interactions.",
+  "pros": [
+    "Customized sales insights",
+    "Integration with CRM systems",
+    "Strategic account identification"
+  ],
+  "cons": [
+    "May require extensive data input",
+    "Dependent on quality of CRM data",
+    "Potentially high learning curve"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot Sales [hubspot.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM with AI features"
+    },
+    {
+      "name": "HubSpot Sales",
+      "url": "hubspot.com",
+      "reason": "Integrates sales, marketing, and CRM"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with extensive features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Sales",
+    "CRM",
+    "Data Analysis"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tome.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tome&type=repositories",
+  "twitterUrl": "https://twitter.com/magicaltome",
+  "screenshot": "/screenshots/tome_app.png",
+  "screenshot_640": "/screenshots/tome_app_640.png",
+  "screenshot_400": "/screenshots/tome_app_400.png",
+  "updatedAt": "2025-05-22T04:20:03.804Z"
+}
