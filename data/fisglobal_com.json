@@ -3,44 +3,44 @@
   "name": "Fidelity Information Services",
   "title": "fisglobal.com",
   "payoff": "Harmonizing global financial technology",
-  "shortDescription": "Fidelity Information Services (FIS) specializes in financial technology solutions across the entire money lifecycle. This includes services for money at rest, in motion, and at work, catering to various sectors such as banking, investments, and insurance. An example use case is their digital banking platforms that integrate seamless transaction processing with robust security measures.",
+  "shortDescription": "Fidelity Information Services (FIS) specializes in financial technology solutions spanning the entire money lifecycle. This includes services for banking, investments, and insurance sectors. FIS integrates technology to streamline operations from digital banking to asset finance, enhancing user experience and operational efficiency. An example use case is modernizing core banking systems to improve customer interactions and financial management.",
   "pros": [
     "Comprehensive financial technology solutions",
-    "Supports a wide range of industries",
-    "Advanced security and compliance features"
+    "Supports a wide range of financial sectors",
+    "Enhances operational efficiency and user experience"
   ],
   "cons": [
     "Complex system integration may be required",
-    "Potentially high cost for small businesses",
-    "Can be overwhelming due to extensive features"
+    "Potentially high cost for comprehensive services",
+    "May have a steep learning curve for new users"
   ],
   "alternatives": [
-    "Square [squareup.com]",
     "Intuit QuickBooks [quickbooks.intuit.com]",
-    "SAP [sap.com]"
+    "SAP Financial Services [sap.com]",
+    "Oracle Financial Services [oracle.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Stripe",
-      "url": "stripe.com",
-      "reason": "Offers streamlined payment processing"
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Offers cloud-based accounting software"
     },
     {
       "name": "Adyen",
       "url": "adyen.com",
-      "reason": "Global payment solutions with broad integration"
+      "reason": "Provides comprehensive payment solutions"
     },
     {
-      "name": "PayPal",
-      "url": "paypal.com",
-      "reason": "Widely used for secure online transactions"
+      "name": "Stripe",
+      "url": "stripe.com",
+      "reason": "Streamlines online payment systems"
     }
   ],
   "tags": [
-    "fintech",
+    "financial technology",
     "digital banking",
-    "financial services",
-    "technology solutions"
+    "asset management",
+    "money lifecycle"
   ],
   "apiUsed": true,
   "department": "Finance & Accounting",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/fisglobal_com.png",
   "screenshot_640": "/screenshots/fisglobal_com_640.png",
   "screenshot_400": "/screenshots/fisglobal_com_400.png",
-  "updatedAt": "2025-05-10T08:17:20.094Z"
+  "updatedAt": "2025-05-23T20:17:02.496Z"
 }

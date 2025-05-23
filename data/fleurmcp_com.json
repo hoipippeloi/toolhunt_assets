@@ -2,17 +2,17 @@
   "sourceUrl": "https://fleurmcp.com/",
   "name": "Fleur MCP",
   "title": "fleurmcp.com",
-  "payoff": "Install apps directly in Claude",
-  "shortDescription": "Fleur MCP serves as a dedicated app store for the Claude Desktop app, allowing users to seamlessly integrate various applications without leaving their desktop environment. It is designed for users who utilize Claude for daily operations, enhancing productivity by centralizing app management. A typical use case involves a user downloading and integrating productivity tools directly through Fleur MCP to streamline their workflow.",
+  "payoff": "Install apps directly within Claude",
+  "shortDescription": "Fleur MCP serves as a dedicated app store for the Claude Desktop app, allowing users to seamlessly integrate various software tools without leaving their workspace. It is designed primarily for users who rely on Claude for their daily operations, offering a streamlined method to enhance functionality. An example use case includes a developer integrating project management tools directly into Claude to manage tasks more efficiently.",
   "pros": [
     "Seamless integration with Claude",
-    "Centralized app management",
-    "Designed specifically for Claude users"
+    "Easy installation of multiple apps",
+    "Enhances Claude's functionality"
   ],
   "cons": [
-    "Limited to Claude Desktop app users",
-    "May have fewer apps compared to larger app stores",
-    "Requires macOS"
+    "Limited to Claude users",
+    "May have a limited app selection",
+    "Dependent on the Claude Desktop app"
   ],
   "alternatives": [
     "Setapp [setapp.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Setapp",
       "url": "setapp.com",
-      "reason": "Offers a wide range of Mac apps"
+      "reason": "Wide range of Mac apps for a flat fee"
     },
     {
       "name": "Microsoft Store",
       "url": "microsoft.com",
-      "reason": "Wide variety of apps for Windows"
+      "reason": "Extensive app selection for Windows users"
     },
     {
       "name": "Mac App Store",
       "url": "apple.com",
-      "reason": "Official app store for macOS"
+      "reason": "Official app store for macOS apps"
     }
   ],
   "tags": [
@@ -45,7 +45,7 @@
   "apiUsed": false,
   "department": "Information Technology",
   "function": "Desktop Software",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://fleurmcp.com/",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/fleurmcp_com.png",
   "screenshot_640": "/screenshots/fleurmcp_com_640.png",
   "screenshot_400": "/screenshots/fleurmcp_com_400.png",
-  "updatedAt": "2025-05-16T02:57:44.301Z"
+  "updatedAt": "2025-05-23T20:17:26.486Z"
 }
