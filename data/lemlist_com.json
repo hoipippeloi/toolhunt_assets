@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lemlist.com/",
+  "name": "lemlist",
+  "title": "lemlist.com",
+  "payoff": "Automate multichannel outreach",
+  "shortDescription": "lemlist is a sales engagement platform designed to automate outreach across email, LinkedIn, and calls. It targets sales teams, helping them find and engage qualified leads with personalized, spam-free messages. An example use case includes sales teams using lemlist to streamline their outreach processes, ensuring high deliverability and effective follow-ups, all from one platform.",
+  "pros": [
+    "Integrates with major CRMs like HubSpot and Salesforce",
+    "Includes lemwarm for email deliverability enhancement",
+    "Supports multichannel outreach (email, LinkedIn, calls)"
+  ],
+  "cons": [
+    "May be complex for small businesses or solopreneurs",
+    "Potential learning curve for new users",
+    "Dependent on external platforms like LinkedIn"
+  ],
+  "alternatives": [
+    "Outreach [outreach.io]",
+    "Salesloft [salesloft.com]",
+    "Yesware [yesware.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Outreach",
+      "url": "outreach.io",
+      "reason": "Offers robust sales engagement tools"
+    },
+    {
+      "name": "Salesloft",
+      "url": "salesloft.com",
+      "reason": "Focuses on sales engagement and productivity"
+    },
+    {
+      "name": "Yesware",
+      "url": "yesware.com",
+      "reason": "Provides email tracking and analytics"
+    }
+  ],
+  "tags": [
+    "sales engagement",
+    "lead generation",
+    "email marketing",
+    "CRM integration"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://lemlist.com/",
+  "documentationUrl": "https://help.lemlist.com/en/",
+  "githubUrl": "https://github.com/search?q=lemlist&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/lemlist_com.png",
+  "screenshot_640": "/screenshots/lemlist_com_640.png",
+  "screenshot_400": "/screenshots/lemlist_com_400.png",
+  "updatedAt": "2025-05-23T08:47:05.972Z"
+}
