@@ -3,37 +3,37 @@
   "name": "Bracket",
   "title": "docs.bracketapp.nl",
   "payoff": "Free open-source tournament management",
-  "shortDescription": "Bracket is a tool designed for managing sports tournaments efficiently. It allows users to create tournament setups, add teams, schedule matches, and display live rankings. Ideal for sports league administrators and event organizers, Bracket provides a user-friendly interface with drag-and-drop functionality for rescheduling. An example use case could be a local soccer league using Bracket to manage their seasonal tournament, ensuring smooth operation and real-time updates to participants and spectators.",
+  "shortDescription": "Bracket is a tournament management system designed to help organizers set up and manage their events with ease. It supports various tournament formats like swiss, single elimination, and round-robin. Users can schedule matches, update scores, and display rankings live. Ideal for sports leagues, e-sports events, or any competitive event organizers looking for a flexible, cost-effective solution. With its open-source nature, Bracket ensures no vendor lock-in and full control over data.",
   "pros": [
     "Open-source and free to use",
-    "Flexible setup with multiple tournament formats",
-    "Live public display of schedules and rankings"
+    "Supports multiple tournament formats",
+    "Live score tracking and public rankings"
   ],
   "cons": [
-    "Limited to sports and tournament management",
-    "Potential lack of support typical of free tools",
-    "May require technical skill to deploy and customize"
+    "Limited user support",
+    "May require technical knowledge to deploy",
+    "Lesser-known compared to commercial products"
   ],
   "alternatives": [
     "Challonge [challonge.com]",
-    "Tournament Manager [tournamentsoftware.com]",
-    "Konkuri [konkuri.com]"
+    "Battlefy [battlefy.com]",
+    "Smash.gg [smash.gg]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Challonge",
       "url": "challonge.com",
-      "reason": "Offers similar tournament management features"
+      "reason": "Offers similar tournament tools with a focus on ease of use."
     },
     {
-      "name": "Tournament Manager",
-      "url": "tournamentsoftware.com",
-      "reason": "Professional tool with broader sport support"
+      "name": "Battlefy",
+      "url": "battlefy.com",
+      "reason": "Focuses on e-sports with robust integration options."
     },
     {
-      "name": "Konkuri",
-      "url": "konkuri.com",
-      "reason": "Web-based tool with social sharing features"
+      "name": "Smash.gg",
+      "url": "smash.gg",
+      "reason": "Popular in gaming communities with extensive features."
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Project Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://docs.bracketapp.nl/",
-  "documentationUrl": "https://docs.bracketapp.nl",
+  "documentationUrl": "https://docs.bracketapp.nl/",
   "githubUrl": "https://github.com/evroon/bracket",
   "twitterUrl": null,
   "screenshot": "/screenshots/docs_bracketapp_nl.png",
   "screenshot_640": "/screenshots/docs_bracketapp_nl_640.png",
   "screenshot_400": "/screenshots/docs_bracketapp_nl_400.png",
-  "updatedAt": "2025-05-12T09:43:44.249Z"
+  "updatedAt": "2025-05-23T16:18:44.359Z"
 }

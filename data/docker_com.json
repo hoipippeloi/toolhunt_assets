@@ -3,16 +3,16 @@
   "name": "Docker",
   "title": "docker.com",
   "payoff": "Develop faster. Run anywhere.",
-  "shortDescription": "Docker simplifies the development and deployment of applications by using containerization technology. It allows developers to package applications with all their dependencies into a standardized unit for software development. Docker is ideal for developers and companies looking to streamline application development and testing across multiple environments. An example use case is a developer using Docker to ensure that their application runs consistently across different computing environments.",
+  "shortDescription": "Docker enables accelerated container application development by integrating seamlessly with development tools like VS Code and GitHub. It is designed for developers and organizations to build, share, and run applications consistently across different environments. Example use case: A developer uses Docker to containerize an application, ensuring it runs smoothly both locally and on cloud platforms like AWS ECS.",
   "pros": [
-    "Streamlines development and deployment",
-    "Supports multiple programming languages and tools",
-    "Large community and marketplace for sharing"
+    "Seamless integration with development tools",
+    "Consistent application performance across environments",
+    "Large registry of trusted container images"
   ],
   "cons": [
-    "Can be complex to set up and manage",
-    "Resource-intensive on host machines",
-    "Potential security vulnerabilities if not properly managed"
+    "Learning curve for new users",
+    "Resource-intensive on local machines",
+    "Potential compatibility issues with non-Linux OS"
   ],
   "alternatives": [
     "Kubernetes [kubernetes.io]",
@@ -39,12 +39,12 @@
   "tags": [
     "containerization",
     "devops",
-    "application development",
-    "cloud integration"
+    "cloud computing",
+    "application development"
   ],
   "apiUsed": true,
   "department": "Development",
-  "function": "Development",
+  "function": "Cloud Platform",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2013,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/docker_com.png",
   "screenshot_640": "/screenshots/docker_com_640.png",
   "screenshot_400": "/screenshots/docker_com_400.png",
-  "updatedAt": "2025-05-10T09:13:55.715Z"
+  "updatedAt": "2025-05-23T16:18:15.643Z"
 }
