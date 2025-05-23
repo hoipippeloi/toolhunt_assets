@@ -2,52 +2,52 @@
   "sourceUrl": "https://funshowtech.com/",
   "name": "Funshow",
   "title": "funshowtech.com",
-  "payoff": "Editable QR codes with tracking",
-  "shortDescription": "Funshow allows users to generate dynamic QR codes that can be edited and tracked. Ideal for businesses and marketers, it supports various QR code types such as URL, WhatsApp, Twitter, and Text. Users can customize their QR codes with logos, colors, and shapes, and download them in multiple formats. An example use case is a restaurant updating its menu URL in the QR code without needing to reprint the physical codes.",
+  "payoff": "Trackable Dynamic QR Codes",
+  "shortDescription": "Funshow allows users to create and manage dynamic QR codes with ease. Ideal for businesses and marketers, the tool enables the generation of QR codes that can be edited and tracked. Users can customize their QR codes by adding logos, changing colors, and selecting different shapes. An example use case is a retail store using QR codes for promotions that can be updated with new offers without needing to replace the QR codes physically.",
   "pros": [
-    "Editable content without reprinting",
-    "Tracking of QR code scans",
-    "Customizable designs and formats"
+    "Editable and trackable QR codes",
+    "Customizable design options",
+    "Supports multiple QR code types"
   ],
   "cons": [
-    "Requires active subscription for features",
+    "Requires active subscription for full features",
     "Limited to QR code functionalities",
-    "May not support all QR code types"
+    "No API for developer integration mentioned"
   ],
   "alternatives": [
     "QR Code Generator [qrcode-generator.com]",
-    "Beaconstac [beaconstac.com]",
-    "Flowcode [flowcode.com]"
+    "Scanova [scanova.io]",
+    "Beaconstac [beaconstac.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "QR Code Generator",
       "url": "qrcode-generator.com",
-      "reason": "Offers extensive QR code types"
+      "reason": "Offers similar QR code creation tools"
+    },
+    {
+      "name": "Scanova",
+      "url": "scanova.io",
+      "reason": "Provides advanced QR code design options"
     },
     {
       "name": "Beaconstac",
       "url": "beaconstac.com",
-      "reason": "Provides QR codes with marketing focus"
-    },
-    {
-      "name": "Flowcode",
-      "url": "flowcode.com",
-      "reason": "High customization and analytics"
+      "reason": "Includes QR codes with broader marketing tools"
     }
   ],
   "tags": [
     "QR codes",
-    "tracking",
-    "marketing",
-    "customization"
+    "Marketing",
+    "Tracking",
+    "Customization"
   ],
   "apiUsed": false,
   "department": "Marketing",
   "function": "User Engagement",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2018,
+  "releasedYear": 2020,
   "websiteUrl": "https://funshowtech.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=funshow&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/funshowtech_com.png",
   "screenshot_640": "/screenshots/funshowtech_com_640.png",
   "screenshot_400": "/screenshots/funshowtech_com_400.png",
-  "updatedAt": "2025-05-11T04:43:49.000Z"
+  "updatedAt": "2025-05-23T21:38:34.425Z"
 }

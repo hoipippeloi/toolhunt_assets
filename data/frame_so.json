@@ -3,16 +3,16 @@
   "name": "Frame",
   "title": "frame.so",
   "payoff": "Intelligent Workspace for Companies",
-  "shortDescription": "Frame revolutionizes how businesses operate by integrating AI-powered tools and native apps into a single platform. It's designed for companies looking to enhance productivity through AI employees that require no training and are real-time aware of company data. An example use case is a business leveraging Frame to streamline operations, manage documents, and interact with AI employees across various apps like Slack and Google Meet.",
+  "shortDescription": "Frame revolutionizes how businesses operate by integrating AI-powered tools and employees into a single platform. Designed for companies looking to enhance productivity and streamline operations, Frame offers a suite of native apps and AI capabilities. Users can deploy AI experts instantly, manage data in real-time, and integrate over 50 work apps seamlessly. An example use case includes using AI employees to automate tasks within documents and manage business operations end-to-end.",
   "pros": [
-    "AI employees enhance productivity and data management",
-    "Unified platform integrates all work apps",
-    "Real-time data interaction and management"
+    "AI-powered tools enhance productivity",
+    "Seamless integration of multiple work apps",
+    "Real-time data management and AI assistance"
   ],
   "cons": [
     "Dependence on AI might limit manual control",
     "Potential privacy concerns with AI handling sensitive data",
-    "Integration complexity with numerous existing apps"
+    "Integration complexities with existing IT infrastructure"
   ],
   "alternatives": [
     "Monday.com [monday.com]",
@@ -21,39 +21,39 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Monday.com",
-      "url": "monday.com",
-      "reason": "Offers customizable workflows and collaboration"
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Offers flexible workspace integration"
     },
     {
-      "name": "Asana",
-      "url": "asana.com",
-      "reason": "Focuses on task and project management"
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for project and task management"
     },
     {
-      "name": "Slack",
-      "url": "slack.com",
-      "reason": "Popular for communication and integration"
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines databases with project management"
     }
   ],
   "tags": [
     "AI",
     "productivity",
     "workspace",
-    "collaboration"
+    "integration"
   ],
   "apiUsed": true,
   "department": "Operations",
-  "function": "AI & ML",
+  "function": "Project Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://frame.so/",
-  "documentationUrl": "https://docs.frame.so",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=frame&type=repositories",
   "twitterUrl": "https://twitter.com/joinframeso",
   "screenshot": "/screenshots/frame_so.png",
   "screenshot_640": "/screenshots/frame_so_640.png",
   "screenshot_400": "/screenshots/frame_so_400.png",
-  "updatedAt": "2025-05-19T05:15:41.756Z"
+  "updatedAt": "2025-05-23T21:37:55.491Z"
 }

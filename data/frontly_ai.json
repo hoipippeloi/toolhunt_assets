@@ -3,43 +3,43 @@
   "name": "Frontly",
   "title": "frontly.ai",
   "payoff": "Build custom apps with no code",
-  "shortDescription": "Frontly enables users to create custom applications using AI without any coding expertise. It is designed for entrepreneurs, small businesses, and non-technical users who need to quickly deploy functional apps. Example use case includes a small business owner building a custom CRM system to manage customer interactions without needing to hire a developer.",
+  "shortDescription": "Frontly enables users to create custom applications using AI without any coding knowledge. It's designed for entrepreneurs, small businesses, and non-technical users who need to quickly deploy functional apps. An example use case is a small business owner creating a custom CRM system to manage customer interactions and data without hiring a developer.",
   "pros": [
     "No coding required",
     "AI-powered features",
     "Quick app deployment"
   ],
   "cons": [
-    "Limited customization compared to coded apps",
-    "May not handle complex functionalities",
-    "Dependent on platform updates"
+    "Limited customization",
+    "Dependent on platform updates",
+    "Potential scalability issues"
   ],
   "alternatives": [
     "Bubble [bubble.io]",
     "Adalo [adalo.com]",
-    "AppGyver [appgyver.com]"
+    "Retool [retool.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "Offers no-code app building with a visual editor"
+      "reason": "Visual app building with more integrations"
     },
     {
       "name": "Adalo",
       "url": "adalo.com",
-      "reason": "Focuses on mobile app development with no code"
+      "reason": "Focuses on mobile app development"
     },
     {
-      "name": "AppGyver",
-      "url": "appgyver.com",
-      "reason": "Provides extensive integrations and customization"
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Targets developers for internal tools"
     }
   ],
   "tags": [
     "no-code",
-    "app development",
     "AI",
+    "app development",
     "SaaS"
   ],
   "apiUsed": false,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/frontly_ai.png",
   "screenshot_640": "/screenshots/frontly_ai_640.png",
   "screenshot_400": "/screenshots/frontly_ai_400.png",
-  "updatedAt": "2025-05-08T08:26:35.412Z"
+  "updatedAt": "2025-05-23T21:38:13.987Z"
 }
