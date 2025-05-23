@@ -3,16 +3,16 @@
   "name": "flowith",
   "title": "flowith.io",
   "payoff": "AI Creation Workspace with Knowledge",
-  "shortDescription": "flowith 2.0 is an AI-powered workspace designed to enhance creative processes through deep knowledge integration. It's ideal for researchers, developers, and creative professionals. Users can leverage AI to analyze industry trends, plan detailed travel itineraries, or create interactive educational content.",
+  "shortDescription": "flowith 2.0 is an AI-driven workspace designed to enhance productivity by integrating technology and knowledge. It's tailored for professionals and teams seeking to streamline their workflow using AI tools. Users can manage tasks seamlessly with features like DeepSeek V3, ensuring operations continue even during device sleep. Ideal for those in tech and creative fields looking to merge efficiency with innovation.",
   "pros": [
-    "Integrates AI for enhanced creativity",
-    "Supports a wide range of use cases",
-    "User-friendly interface for various professional needs"
+    "Integrates AI with daily tasks",
+    "Operates even on sleep mode",
+    "Offers extended membership benefits"
   ],
   "cons": [
-    "May require a learning curve for new users",
-    "Limited customization options",
-    "Potentially high subscription cost"
+    "Limited information on pricing",
+    "No clear API availability",
+    "Focused mainly on tech and creative industries"
   ],
   "alternatives": [
     "Notion [notion.so]",
@@ -21,39 +21,39 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Evernote",
-      "url": "evernote.com",
-      "reason": "Offers robust note-taking and organization"
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with integrated AI"
     },
     {
-      "name": "Trello",
-      "url": "trello.com",
-      "reason": "Visual project management with flexible boards"
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines databases with a visual interface"
     },
     {
-      "name": "Asana",
-      "url": "asana.com",
-      "reason": "Comprehensive project and task management"
+      "name": "Coda",
+      "url": "coda.io",
+      "reason": "Doc-based software with building blocks"
     }
   ],
   "tags": [
     "AI",
     "productivity",
-    "knowledge management",
-    "workspace"
+    "task management",
+    "knowledge integration"
   ],
-  "apiUsed": true,
-  "department": "Research & Development",
-  "function": "Knowledge Base",
-  "freeTier": false,
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Task Tools",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2023,
+  "releasedYear": 2022,
   "websiteUrl": "https://flowith.io/",
-  "documentationUrl": "https://flowith.io/documentation",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=flowith&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/flowith_io.png",
   "screenshot_640": "/screenshots/flowith_io_640.png",
   "screenshot_400": "/screenshots/flowith_io_400.png",
-  "updatedAt": "2025-05-17T03:36:00.060Z"
+  "updatedAt": "2025-05-23T20:41:27.972Z"
 }

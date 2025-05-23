@@ -3,15 +3,15 @@
   "name": "Fliki",
   "title": "fliki.ai",
   "payoff": "Turn text into videos with AI",
-  "shortDescription": "Fliki is a tool designed to transform text into engaging videos using AI-powered voiceovers and video clips. It caters to businesses of all sizes, educators, and professionals who need quick video content without the hassle of traditional production methods. Users can create professional videos for marketing, training, or educational purposes in just minutes.",
+  "shortDescription": "Fliki is a powerful AI-driven tool designed to transform text into engaging videos. It features an easy-to-use editor, lifelike AI voiceovers, and dynamic video clips. Ideal for marketers and businesses of all sizes, Fliki simplifies content creation, allowing users to produce professional videos quickly. Example use case: Marketing teams can create promotional videos without the need for extensive video production resources.",
   "pros": [
-    "Easy to use with a simple editor",
-    "No need for voiceover artists",
-    "Supports multiple use cases"
+    "Easy to use text-to-video editor",
+    "Lifelike AI voiceovers enhance engagement",
+    "Rapid video creation saves time"
   ],
   "cons": [
     "Dependent on AI quality",
-    "Limited customization options",
+    "May lack advanced customization",
     "Potential privacy concerns with AI usage"
   ],
   "alternatives": [
@@ -28,19 +28,19 @@
     {
       "name": "InVideo",
       "url": "invideo.io",
-      "reason": "Wide range of templates and customization"
+      "reason": "Feature-rich, customizable video editor"
     },
     {
       "name": "Animoto",
       "url": "animoto.com",
-      "reason": "Strong focus on easy video editing"
+      "reason": "User-friendly video maker with templates"
     }
   ],
   "tags": [
     "AI",
     "video creation",
     "content generation",
-    "multimedia"
+    "marketing"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/fliki_ai.png",
   "screenshot_640": "/screenshots/fliki_ai_640.png",
   "screenshot_400": "/screenshots/fliki_ai_400.png",
-  "updatedAt": "2025-05-08T10:29:02.123Z"
+  "updatedAt": "2025-05-23T20:40:45.001Z"
 }

@@ -2,44 +2,44 @@
   "sourceUrl": "https://floatui.com/",
   "name": "Float UI",
   "title": "floatui.com",
-  "payoff": "Ship fast with Tailwind UI components",
-  "shortDescription": "Float UI provides a comprehensive suite of free and open-source Tailwind CSS UI components and templates designed to help developers build modern, responsive websites quickly. Whether you're a seasoned developer or a beginner, Float UI simplifies the web development process by offering ready-to-use components that can be easily integrated with popular JavaScript frameworks. Ideal for startups looking to launch their products with professional designs without the overhead of custom development.",
+  "payoff": "Ship fast with Tailwind CSS UI",
+  "shortDescription": "Float UI provides a suite of free and open-source Tailwind CSS UI components and templates designed to help developers build responsive and modern websites quickly. Whether you're a seasoned developer or a beginner, Float UI simplifies the web development process by offering ready-to-use components that can be easily integrated with various JavaScript frameworks. Ideal for startups looking to launch fast without compromising on design.",
   "pros": [
     "Free and open-source",
-    "Supports multiple JS frameworks",
-    "Professionally designed templates"
+    "Responsive and modern design",
+    "Supports multiple JS frameworks"
   ],
   "cons": [
     "Limited customization options",
     "No dedicated support",
-    "May not suit complex web applications"
+    "May not cover all use cases"
   ],
   "alternatives": [
-    "Tailwind Starter Kit [creative-tim.com]",
-    "DaisyUI [daisyui.com]",
-    "TUK [tuk.dev]"
+    "Tailwind UI [tailwindui.com]",
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Tailwind Starter Kit",
-      "url": "creative-tim.com",
-      "reason": "Offers Tailwind CSS components"
+      "name": "Tailwind UI",
+      "url": "tailwindui.com",
+      "reason": "Premium Tailwind CSS components"
     },
     {
-      "name": "DaisyUI",
-      "url": "daisyui.com",
-      "reason": "Plugin for Tailwind CSS themes"
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Comprehensive React UI framework"
     },
     {
-      "name": "TUK",
-      "url": "tuk.dev",
-      "reason": "Tailwind CSS templates and blocks"
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Large scale design language"
     }
   ],
   "tags": [
-    "open source",
-    "web development",
     "UI components",
+    "web development",
+    "open source",
     "Tailwind CSS"
   ],
   "apiUsed": false,
@@ -47,7 +47,7 @@
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://floatui.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/MarsX-dev/floatui",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/floatui_com.png",
   "screenshot_640": "/screenshots/floatui_com_640.png",
   "screenshot_400": "/screenshots/floatui_com_400.png",
-  "updatedAt": "2025-05-09T10:33:57.709Z"
+  "updatedAt": "2025-05-23T20:41:15.673Z"
 }
