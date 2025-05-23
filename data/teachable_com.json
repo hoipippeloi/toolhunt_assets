@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://teachable.com/",
+  "name": "Teachable",
+  "title": "teachable.com",
+  "payoff": "Create and Sell Anything",
+  "shortDescription": "Teachable allows creators to share their knowledge through various digital products like online courses, coaching, and digital downloads. It's designed for educators, coaches, and entrepreneurs who want to monetize their expertise. Users can start with basic features and upgrade as their business grows, making it ideal for both new and expanding businesses.",
+  "pros": [
+    "No-code platform for easy setup",
+    "Supports multiple types of digital products",
+    "Scalable with business growth"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on platform's pricing changes",
+    "May require marketing knowledge to drive sales"
+  ],
+  "alternatives": [
+    "Kajabi [kajabi.com]",
+    "Podia [podia.com]",
+    "Thinkific [thinkific.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kajabi",
+      "url": "kajabi.com",
+      "reason": "Offers similar course creation tools"
+    },
+    {
+      "name": "Podia",
+      "url": "podia.com",
+      "reason": "Focuses on digital downloads and memberships"
+    },
+    {
+      "name": "Thinkific",
+      "url": "thinkific.com",
+      "reason": "Provides extensive course building features"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Digital Products",
+    "No-code",
+    "Online Courses"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://teachable.com/",
+  "documentationUrl": "https://teachable.com/documentation",
+  "githubUrl": "https://github.com/search?q=teachable&type=repositories",
+  "twitterUrl": "https://twitter.com/teachable/",
+  "screenshot": "/screenshots/teachable_com.png",
+  "screenshot_640": "/screenshots/teachable_com_640.png",
+  "screenshot_400": "/screenshots/teachable_com_400.png",
+  "updatedAt": "2025-05-23T06:49:44.973Z"
+}

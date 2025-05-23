@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kahoot.com/",
+  "name": "Kahoot",
+  "title": "kahoot.com",
+  "payoff": "Make learning awesome!",
+  "shortDescription": "Kahoot! is a game-based learning platform designed to make education engaging and interactive. It is suitable for educational institutions, businesses, and personal use. Users can create quizzes, discussions, and surveys that promote user interaction and learning. For example, teachers can use Kahoot! to conduct fun quizzes in class to reinforce learning, while companies can use it for training sessions to enhance employee engagement.",
+  "pros": [
+    "Interactive and engaging learning experiences",
+    "Easy to create and share educational games",
+    "Supports a wide range of use cases from education to business"
+  ],
+  "cons": [
+    "Dependent on internet connectivity",
+    "May not suit all learning styles",
+    "Limited to quiz-based formats"
+  ],
+  "alternatives": [
+    "Quizlet [quizlet.com]",
+    "Edmodo [edmodo.com]",
+    "Blackboard [blackboard.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers flashcards and study games"
+    },
+    {
+      "name": "Edmodo",
+      "url": "edmodo.com",
+      "reason": "Provides tools for classroom management"
+    },
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in higher education"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Gamification",
+    "Interactive Learning",
+    "Educational Technology"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://kahoot.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=kahoot&type=repositories",
+  "twitterUrl": "https://x.com/kahoot",
+  "screenshot": "/screenshots/kahoot_com.png",
+  "screenshot_640": "/screenshots/kahoot_com_640.png",
+  "screenshot_400": "/screenshots/kahoot_com_400.png",
+  "updatedAt": "2025-05-23T06:50:06.968Z"
+}
