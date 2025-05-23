@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getpublii.com/",
+  "name": "Publii",
+  "title": "getpublii.com",
+  "payoff": "Fast, Secure Static CMS",
+  "shortDescription": "Publii is an open-source static CMS designed for creating fast, secure, and GDPR & CCPA-compliant websites. It's ideal for users ranging from bloggers to developers who seek an intuitive platform for web development. With features like one-click synchronization and a variety of beautifully-designed themes, Publii simplifies the process of building privacy-focused, SEO-optimized websites without the need for extensive technical knowledge.",
+  "pros": [
+    "Open-source and free to use",
+    "Intuitive user interface",
+    "Strong focus on privacy and security"
+  ],
+  "cons": [
+    "Limited to static sites",
+    "May require technical knowledge for customization",
+    "Less dynamic than traditional CMS platforms"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Jekyll [jekyllrb.com]",
+    "Hugo [gohugo.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Popular CMS with extensive plugins"
+    },
+    {
+      "name": "Jekyll",
+      "url": "jekyllrb.com",
+      "reason": "Static site generator for developers"
+    },
+    {
+      "name": "Hugo",
+      "url": "gohugo.io",
+      "reason": "Fast and flexible static site generator"
+    }
+  ],
+  "tags": [
+    "static CMS",
+    "web development",
+    "open source",
+    "GDPR compliant"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://getpublii.com/",
+  "documentationUrl": "https://getpublii.com/docs/",
+  "githubUrl": "https://github.com/GetPublii/Publii/discussions",
+  "twitterUrl": "https://twitter.com/getpublii",
+  "screenshot": "/screenshots/getpublii_com.png",
+  "screenshot_640": "/screenshots/getpublii_com_640.png",
+  "screenshot_400": "/screenshots/getpublii_com_400.png",
+  "updatedAt": "2025-05-23T07:39:13.560Z"
+}

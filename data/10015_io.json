@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://10015.io/",
+  "name": "10015 Tools",
+  "title": "10015.io",
+  "payoff": "All Online Tools in One Box",
+  "shortDescription": "10015.io serves as a comprehensive digital toolbox, offering a wide range of online tools for various purposes. It eliminates the need for multiple bookmarks by consolidating essential tools into a single platform. Whether you're a developer, designer, or marketer, you can find tools related to productivity, social media, and more. An example use case is a developer using the coding tools to quickly test code snippets without installing software.",
+  "pros": [
+    "Wide variety of tools in one place",
+    "Simple and clear UI/UX design",
+    "Free to use with no registration required"
+  ],
+  "cons": [
+    "May lack advanced features for specific tools",
+    "Dependent on internet connectivity",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "IFTTT [ifttt.com]",
+    "Airtable [airtable.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers automation across apps"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Connects devices and apps"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines databases with templates"
+    }
+  ],
+  "tags": [
+    "all-in-one toolbox",
+    "productivity tools",
+    "online tools",
+    "digital products"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://10015.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=10015%20tools&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/10015_io.png",
+  "screenshot_640": "/screenshots/10015_io_640.png",
+  "screenshot_400": "/screenshots/10015_io_400.png",
+  "updatedAt": "2025-05-23T07:38:29.147Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wapikit.com/",
+  "name": "WapiKit",
+  "title": "wapikit.com",
+  "payoff": "Boost Sales & Engagement with AI",
+  "shortDescription": "WapiKit leverages AI to enhance WhatsApp marketing, sales, and customer support. It automates interactions, ensuring immediate, human-like responses 24x7. Ideal for businesses aiming to improve engagement and revenue through WhatsApp, it allows for smart campaign management and proactive customer segmentation. An example use case is automating responses for common customer inquiries and providing personalized product recommendations.",
+  "pros": [
+    "Automates WhatsApp marketing and sales",
+    "Provides AI-driven customer support",
+    "Enhances engagement with smart auto replies"
+  ],
+  "cons": [
+    "Limited to WhatsApp platform",
+    "Potential privacy concerns with customer data",
+    "Dependence on AI accuracy and limitations"
+  ],
+  "alternatives": [
+    "ManyChat [manychat.com]",
+    "MobileMonkey [mobilemonkey.com]",
+    "Chatfuel [chatfuel.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ManyChat",
+      "url": "manychat.com",
+      "reason": "Offers broader social media integration"
+    },
+    {
+      "name": "MobileMonkey",
+      "url": "mobilemonkey.com",
+      "reason": "Focuses on omnichannel messaging"
+    },
+    {
+      "name": "Chatfuel",
+      "url": "chatfuel.com",
+      "reason": "Strong in chatbot building for Facebook"
+    }
+  ],
+  "tags": [
+    "AI",
+    "WhatsApp Automation",
+    "Customer Engagement",
+    "Marketing Tools"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://wapikit.com/",
+  "documentationUrl": "https://wapikit.com/docs",
+  "githubUrl": "https://github.com/wapikit",
+  "twitterUrl": "https://x.com/wapikit",
+  "screenshot": "/screenshots/wapikit_com.png",
+  "screenshot_640": "/screenshots/wapikit_com_640.png",
+  "screenshot_400": "/screenshots/wapikit_com_400.png",
+  "updatedAt": "2025-05-23T07:38:52.112Z"
+}
