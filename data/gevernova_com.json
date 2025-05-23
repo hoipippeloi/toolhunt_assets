@@ -1,46 +1,46 @@
 {
   "sourceUrl": "https://gevernova.com/software/",
-  "name": "GE Vernova Electrification Software",
+  "name": "GE Vernova",
   "title": "gevernova.com",
   "payoff": "Accelerate Energy Transition",
-  "shortDescription": "GE Vernova's Electrification Software facilitates the energy transition by offering a comprehensive suite of tools designed to help customers electrify and decarbonize. Utilizing AI, the software provides real-time insights and manages the complexities of various energy sources to achieve net zero. Ideal for utility companies and industrial sectors aiming to optimize energy management and reduce emissions.",
+  "shortDescription": "GE Vernova's Electrification Software aids in the energy transition by offering a suite of tools designed to help customers electrify and decarbonize. Utilizing AI, the software provides real-time insights and manages various energy sources towards achieving net zero. Ideal for utility companies and industries aiming for sustainable energy management.",
   "pros": [
     "AI-driven insights for real-time decision making",
-    "Supports a wide range of industries",
-    "High adoption rate among Fortune 500 utilities"
+    "Wide adoption with 75% of Fortune 500 utilities",
+    "Comprehensive suite covering multiple industries"
   ],
   "cons": [
-    "Complex integration for new users",
-    "Potentially high cost of implementation",
-    "Requires technical expertise to maximize benefits"
+    "Complex integration with existing systems",
+    "Potential high cost of deployment",
+    "Requires specialized training"
   ],
   "alternatives": [
-    "Siemens Energy Management [siemens.com]",
+    "Siemens Digital Industries Software [siemens.com/software]",
     "Schneider Electric Software [se.com]",
-    "ABB Energy Industries [new.abb.com]"
+    "ABB Ability [new.abb.com/digital]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Siemens Energy Management",
-      "url": "siemens.com",
-      "reason": "Comprehensive energy solutions provider"
+      "name": "Siemens Digital Industries Software",
+      "url": "siemens.com/software",
+      "reason": "Broad industrial focus with advanced AI"
     },
     {
       "name": "Schneider Electric Software",
       "url": "se.com",
-      "reason": "Global specialist in energy management"
+      "reason": "Comprehensive utilities management suite"
     },
     {
-      "name": "ABB Energy Industries",
-      "url": "new.abb.com",
-      "reason": "Leader in electrical products and services"
+      "name": "ABB Ability",
+      "url": "new.abb.com/digital",
+      "reason": "Strong in automation and digitalization"
     }
   ],
   "tags": [
     "energy management",
     "AI",
     "decarbonization",
-    "software"
+    "electrification"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2020,
   "websiteUrl": "https://gevernova.com/software/",
-  "documentationUrl": "https://gevernova.com/documentation",
-  "githubUrl": "https://github.com/search?q=ge%20vernova%20electrification%20software&type=repositories",
+  "documentationUrl": "https://gevernova.com/software/documentation",
+  "githubUrl": "https://github.com/search?q=ge%20vernova&type=repositories",
   "twitterUrl": "https://www.x.com/gevernova",
   "screenshot": "/screenshots/gevernova_com.png",
   "screenshot_640": "/screenshots/gevernova_com_640.png",
   "screenshot_400": "/screenshots/gevernova_com_400.png",
-  "updatedAt": "2025-05-12T07:39:17.830Z"
+  "updatedAt": "2025-05-23T23:39:53.080Z"
 }

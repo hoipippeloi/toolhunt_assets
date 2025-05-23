@@ -2,17 +2,17 @@
   "sourceUrl": "https://jigsawstack.com/",
   "name": "JigsawStack",
   "title": "jigsawstack.com",
-  "payoff": "AI infra for your tech stack",
-  "shortDescription": "JigsawStack provides AI infrastructure solutions tailored for technology stacks. It offers custom small models with high accuracy and scalable infrastructure, ideal for developers and AI engineers. An example use case is integrating AI capabilities like speech to text or web scraping into existing platforms quickly, enhancing productivity and functionality.",
+  "payoff": "AI models for your tech stack",
+  "shortDescription": "JigsawStack provides custom small AI models tailored for specific tech stack needs, powered by scalable infrastructure. It is designed for developers and tech companies looking to enhance their applications with AI capabilities. Example use case: A tech company integrates JigsawStack's vOCR for real-time voice to text conversion to improve accessibility in their app.",
   "pros": [
-    "Highly specialized AI models",
-    "Rapid integration capabilities",
-    "Supports a wide range of AI services"
+    "Integrate in seconds on any platform",
+    "Community of AI Engineers",
+    "Custom small models for specialized use cases"
   ],
   "cons": [
-    "Still in beta, may have bugs",
     "Limited information on pricing",
-    "Alpha features may be unstable"
+    "Beta stage may imply instability",
+    "Limited user reviews available"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
@@ -23,12 +23,12 @@
     {
       "name": "OpenAI",
       "url": "openai.com",
-      "reason": "Broad AI tools and APIs"
+      "reason": "Broad range of AI tools and APIs"
     },
     {
       "name": "Hugging Face",
       "url": "huggingface.co",
-      "reason": "Focus on democratizing AI models"
+      "reason": "Community-driven AI model hub"
     },
     {
       "name": "IBM Watson",
@@ -38,16 +38,16 @@
   ],
   "tags": [
     "AI",
-    "web scraping",
-    "speech to text",
-    "infrastructure"
+    "machine learning",
+    "tech stack",
+    "integration"
   ],
   "apiUsed": true,
   "department": "Information Technology",
   "function": "AI & ML",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://jigsawstack.com/",
   "documentationUrl": "https://jigsawstack.com/docs",
   "githubUrl": "https://github.com/JigsawStack",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/jigsawstack_com.png",
   "screenshot_640": "/screenshots/jigsawstack_com_640.png",
   "screenshot_400": "/screenshots/jigsawstack_com_400.png",
-  "updatedAt": "2025-05-09T10:24:57.583Z"
+  "updatedAt": "2025-05-23T23:39:29.291Z"
 }
