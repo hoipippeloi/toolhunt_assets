@@ -3,48 +3,48 @@
   "name": "Horse Browser",
   "title": "gethorse.com",
   "payoff": "Organise your internet with Trails®",
-  "shortDescription": "Horse Browser revolutionizes web browsing by eliminating traditional tabs and bookmarks, focusing on productivity and organization. Designed for professionals, it allows users to manage tasks and projects efficiently through a unique feature called Trails®. Users can create Trails® for different projects or clients, seamlessly accessing documents and web pages, which saves time and reduces stress.",
+  "shortDescription": "Horse Browser revolutionizes how professionals manage their online activities by eliminating traditional tabs and bookmarks. It introduces 'Trails®', a unique way to organize web pages into nested groups that reflect the user's workflow. Ideal for individuals who need to manage multiple projects or research topics, Horse Browser helps save time and reduce stress by keeping all resources neatly organized and easily accessible.",
   "pros": [
-    "Enhances productivity by organizing web pages into Trails®",
-    "Reduces daily stress by eliminating cluttered tabs",
-    "Saves time by streamlining task and project management"
+    "Reduces clutter and enhances focus",
+    "Saves time by organizing web resources efficiently",
+    "Simple, intuitive interface with Trails®"
   ],
   "cons": [
-    "Lack of traditional browser features like tabs and history",
-    "May have a learning curve for new users",
-    "Limited browser compatibility and extensions"
+    "Lack of traditional bookmarks may disorient some users",
+    "Possible learning curve for new users",
+    "Dependence on a single browser for organization"
   ],
   "alternatives": [
-    "Vivaldi [vivaldi.com]",
-    "Opera [opera.com]",
-    "Firefox [mozilla.org]"
+    "Mozilla Firefox [mozilla.org]",
+    "Google Chrome [google.com]",
+    "Microsoft Edge [microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Vivaldi",
-      "url": "vivaldi.com",
-      "reason": "Offers extensive customization and tab management"
-    },
-    {
-      "name": "Opera",
-      "url": "opera.com",
-      "reason": "Includes integrated tools and a focus on speed"
-    },
-    {
-      "name": "Firefox",
+      "name": "Mozilla Firefox",
       "url": "mozilla.org",
-      "reason": "Highly customizable with strong privacy features"
+      "reason": "Offers extensive customization and privacy"
+    },
+    {
+      "name": "Google Chrome",
+      "url": "google.com",
+      "reason": "Widely used with extensive extension support"
+    },
+    {
+      "name": "Microsoft Edge",
+      "url": "microsoft.com",
+      "reason": "Integrated with Windows and offers vertical tabs"
     }
   ],
   "tags": [
-    "productivity",
+    "productivity tools",
     "web browser",
     "task management",
-    "organization"
+    "content organization"
   ],
   "apiUsed": false,
   "department": "Information Technology",
-  "function": "Task Tools",
+  "function": "Desktop Software",
   "freeTier": false,
   "openSource": false,
   "releasedYear": 2023,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/gethorse_com.png",
   "screenshot_640": "/screenshots/gethorse_com_640.png",
   "screenshot_400": "/screenshots/gethorse_com_400.png",
-  "updatedAt": "2025-05-10T04:43:28.339Z"
+  "updatedAt": "2025-05-23T22:42:12.583Z"
 }

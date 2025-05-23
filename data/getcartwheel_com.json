@@ -2,52 +2,52 @@
   "sourceUrl": "https://getcartwheel.com/",
   "name": "Cartwheel",
   "title": "getcartwheel.com",
-  "payoff": "Animate simply by typing",
-  "shortDescription": "Cartwheel is a text-to-animation platform designed to simplify the creation of animations for various digital projects. Users can animate characters for videos, games, apps, advertisements, and social or virtual reality projects just by typing. This tool is ideal for developers, designers, and content creators who need quick and customizable animations. An example use case could be a game developer creating character animations without needing complex animation software.",
+  "payoff": "Animate characters easily on any device",
+  "shortDescription": "Cartwheel offers a revolutionary approach to animating characters for various media such as videos, games, and social media. Users can smoothly combine motions for complex performances with just a few clicks. It allows the creation of characters from descriptions or art, and supports uploading of 3D character files for animation. Ideal for animators and content creators, Cartwheel can be used directly from a mobile browser, enhancing flexibility and accessibility.",
   "pros": [
-    "Easy text-to-animation conversion",
-    "Editable animations for customization",
-    "Supports a wide range of digital projects"
+    "Easy combination and blending of motions",
+    "Supports both creation and upload of characters",
+    "Accessible on mobile devices"
   ],
   "cons": [
-    "May require learning for best results",
-    "Limited to the styles and characters provided",
-    "Potential dependency on platform updates"
+    "Limited to character animation",
+    "No desktop app, only browser-based",
+    "Potential privacy concerns with uploads"
   ],
   "alternatives": [
     "Adobe Character Animator [adobe.com]",
-    "Toonly [toonly.com]",
-    "Animaker [animaker.com]"
+    "Blender [blender.org]",
+    "Mixamo [mixamo.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Adobe Character Animator",
       "url": "adobe.com",
-      "reason": "Offers live motion capture & animation"
+      "reason": "Offers live animation capabilities"
     },
     {
-      "name": "Toonly",
-      "url": "toonly.com",
-      "reason": "Simple drag-and-drop animation tool"
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Free, open-source 3D creation suite"
     },
     {
-      "name": "Animaker",
-      "url": "animaker.com",
-      "reason": "Offers DIY video animation with assets"
+      "name": "Mixamo",
+      "url": "mixamo.com",
+      "reason": "Automates character animation processes"
     }
   ],
   "tags": [
     "animation",
-    "text-to-animation",
-    "video production",
-    "virtual reality"
+    "3D modeling",
+    "character design",
+    "mobile accessibility"
   ],
   "apiUsed": false,
   "department": "Creative",
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2022,
   "websiteUrl": "https://getcartwheel.com/",
   "documentationUrl": "https://docs.getcartwheel.com/",
   "githubUrl": "https://github.com/search?q=cartwheel&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/getcartwheel_com.png",
   "screenshot_640": "/screenshots/getcartwheel_com_640.png",
   "screenshot_400": "/screenshots/getcartwheel_com_400.png",
-  "updatedAt": "2025-05-14T06:49:45.442Z"
+  "updatedAt": "2025-05-23T22:41:24.323Z"
 }
