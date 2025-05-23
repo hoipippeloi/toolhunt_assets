@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://raster.app/",
+  "name": "Raster",
+  "title": "raster.app",
+  "payoff": "Photo manager for modern teams",
+  "shortDescription": "Raster is a digital asset manager tailored for modern teams focused on photography management. It streamlines the process of organizing, editing, and hosting photos, enhancing team performance with its fast DAM capabilities. Ideal for marketing, design, and engineering teams, Raster transforms a typical 25-minute photo management task into a swift 30-second operation, eliminating the need for traditional folder-based storage with its AI-driven tagging system.",
+  "pros": [
+    "AI-driven organization enhances efficiency",
+    "High-speed performance with in-house CDN",
+    "Supports live collaboration and editing"
+  ],
+  "cons": [
+    "May be overly complex for small teams",
+    "Potential high cost for full features",
+    "Limited to photo management, not general assets"
+  ],
+  "alternatives": [
+    "Adobe Experience Manager [adobe.com]",
+    "Bynder [bynder.com]",
+    "Canto [canto.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Experience Manager",
+      "url": "adobe.com",
+      "reason": "Comprehensive DAM with broader features"
+    },
+    {
+      "name": "Bynder",
+      "url": "bynder.com",
+      "reason": "Focus on brand and media asset management"
+    },
+    {
+      "name": "Canto",
+      "url": "canto.com",
+      "reason": "Simplified DAM for various media types"
+    }
+  ],
+  "tags": [
+    "digital asset management",
+    "photo management",
+    "AI",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://raster.app/",
+  "documentationUrl": "https://raster.app/docs",
+  "githubUrl": "https://github.com/search?q=raster&type=repositories",
+  "twitterUrl": "https://www.birchbox.com/",
+  "screenshot": "/screenshots/raster_app.png",
+  "screenshot_640": "/screenshots/raster_app_640.png",
+  "screenshot_400": "/screenshots/raster_app_400.png",
+  "updatedAt": "2025-05-23T06:20:49.876Z"
+}

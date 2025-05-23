@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tips.io/",
+  "name": "Tips.io",
+  "title": "tips.io",
+  "payoff": "Easiest Tailwind HTML websites",
+  "shortDescription": "Tips.io is a website builder designed specifically for Tailwind CSS and AI enthusiasts. It integrates features like AI models, smart editing, and HTML super picking to facilitate easy and rapid website development. Whether you're a Tailwind expert or a newcomer, Tips.io offers tools like zero-setup configurations and customizable animations to enhance site interactivity. Ideal for creating marketing sites, landing pages, or microsites quickly.",
+  "pros": [
+    "Tailwind CSS focused with smart editor",
+    "Integrates multiple AI models for site customization",
+    "Offers free Tailwind themes and reusable components"
+  ],
+  "cons": [
+    "Limited to Tailwind CSS, not versatile for other frameworks",
+    "May require familiarity with Tailwind for optimal use",
+    "Lacks broader community support compared to larger platforms"
+  ],
+  "alternatives": [
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Offers extensive design flexibility"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Strong focus on aesthetic design"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Advanced web design and animations"
+    }
+  ],
+  "tags": [
+    "website builder",
+    "Tailwind CSS",
+    "AI integration",
+    "visual editor"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tips.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tips%20io&type=repositories",
+  "twitterUrl": "https://x.com/whatnicktweets",
+  "screenshot": "/screenshots/tips_io.png",
+  "screenshot_640": "/screenshots/tips_io_640.png",
+  "screenshot_400": "/screenshots/tips_io_400.png",
+  "updatedAt": "2025-05-23T06:21:23.591Z"
+}
