@@ -1,59 +1,59 @@
 {
   "sourceUrl": "https://dify.ai/",
-  "name": "Dify.AI",
+  "name": "Dify",
   "title": "dify.ai",
-  "payoff": "Innovate with Generative AI",
-  "shortDescription": "Dify.AI serves as an innovation engine for creating generative AI applications. It is designed for developers and businesses looking to integrate AI into their products. An example use case is a company using Dify.AI to enhance their customer service with AI-driven chatbots, improving response times and accuracy.",
+  "payoff": "Build AI Agents Easily",
+  "shortDescription": "Dify is a platform designed to help developers and enterprises build and deploy AI agents seamlessly. It integrates with large language models and offers tools for creating robust AI applications. Ideal for startups and enterprises looking to leverage AI for enhanced operations, Dify provides a user-friendly interface to bring AI concepts to life. Example use case: A startup could use Dify to develop an AI customer service agent.",
   "pros": [
-    "Enhances product capabilities with AI",
-    "Supports a wide range of AI applications",
-    "Designed for easy integration into existing systems"
+    "Integrates with global language models",
+    "Production-ready from day one",
+    "Supports both startups and enterprises"
   ],
   "cons": [
-    "May require technical expertise to implement",
-    "Dependent on the quality of data provided",
-    "Potential high costs for extensive usage"
+    "May require technical expertise",
+    "Potentially high cost for premium features",
+    "Limited information on specific AI models"
   ],
   "alternatives": [
-    "OpenAI [openai.com]",
-    "IBM Watson [ibm.com/watson]",
-    "Google AI [ai.google]"
+    "Dialogflow [dialogflow.com]",
+    "Microsoft Bot Framework [botframework.com]",
+    "Rasa [rasa.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI",
-      "url": "openai.com",
-      "reason": "Leader in generative AI models"
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers extensive NLP capabilities"
     },
     {
-      "name": "IBM Watson",
-      "url": "ibm.com/watson",
-      "reason": "Strong in enterprise AI solutions"
+      "name": "Microsoft Bot Framework",
+      "url": "botframework.com",
+      "reason": "Wide integration with Microsoft products"
     },
     {
-      "name": "Google AI",
-      "url": "ai.google",
-      "reason": "Wide range of AI tools and APIs"
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source with strong community"
     }
   ],
   "tags": [
     "AI",
-    "generative AI",
-    "innovation",
-    "integration"
+    "agent builder",
+    "language models",
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Research & Development",
   "function": "AI & ML",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://dify.ai/",
   "documentationUrl": "https://dify.ai/docs",
-  "githubUrl": "https://github.com/langgenius/dify",
-  "twitterUrl": "https://twitter.com/dify_ai",
+  "githubUrl": "https://github.com/langgenius/dify/",
+  "twitterUrl": "https://x.com/mikito_x",
   "screenshot": "/screenshots/dify_ai.png",
   "screenshot_640": "/screenshots/dify_ai_640.png",
   "screenshot_400": "/screenshots/dify_ai_400.png",
-  "updatedAt": "2025-05-12T10:46:15.679Z"
+  "updatedAt": "2025-05-23T15:41:28.525Z"
 }
