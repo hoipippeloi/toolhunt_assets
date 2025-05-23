@@ -3,16 +3,16 @@
   "name": "DROP",
   "title": "drop.space",
   "payoff": "Share Large Files Up to 10GB",
-  "shortDescription": "DROP is a simple file sharing platform designed to facilitate the transfer of large files, up to 10GB, between users. It is ideal for professionals and businesses needing to share large documents, videos, or datasets quickly and securely. An example use case is a video production company sharing raw footage with remote editors.",
+  "shortDescription": "DROP is a simple file sharing platform designed for individuals and businesses needing to send large files up to 10GB quickly and securely. Ideal for graphic designers, video editors, and other professionals who regularly share large media files, DROP simplifies the process without the need for complex setups. Users can drag and drop files onto the platform and share them via a link, making it accessible even to those with minimal technical knowledge.",
   "pros": [
     "Supports files up to 10GB",
-    "Simple user interface",
-    "High-speed file transfer"
+    "Simple drag-and-drop interface",
+    "No account required for basic use"
   ],
   "cons": [
-    "Limited to 10GB file size",
-    "No version control",
-    "Potential privacy concerns"
+    "Limited to file sharing",
+    "No advanced security features",
+    "No version control"
   ],
   "alternatives": [
     "WeTransfer [wetransfer.com]",
@@ -33,13 +33,13 @@
     {
       "name": "Dropbox",
       "url": "dropbox.com",
-      "reason": "Widely used for file storage and sharing."
+      "reason": "Well-known for file storage and sharing."
     }
   ],
   "tags": [
     "file sharing",
     "data storage",
-    "cloud platform"
+    "SaaS"
   ],
   "apiUsed": false,
   "department": "Information Technology",
@@ -54,5 +54,5 @@
   "screenshot": "/screenshots/drop_space.png",
   "screenshot_640": "/screenshots/drop_space_640.png",
   "screenshot_400": "/screenshots/drop_space_400.png",
-  "updatedAt": "2025-05-19T04:01:31.639Z"
+  "updatedAt": "2025-05-23T16:46:38.844Z"
 }
