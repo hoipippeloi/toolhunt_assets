@@ -3,16 +3,16 @@
   "name": "Generated Photos",
   "title": "generated.photos",
   "payoff": "Unique, worry-free model photos",
-  "shortDescription": "Generated Photos leverages AI to create unique, realistic human images for various applications. Ideal for designers, marketers, and researchers, it offers tools like Face Generator and Human Generator to produce diverse faces and full-body images. Use cases include training data for AI, marketing materials, and academic research, providing a scalable solution for projects requiring large volumes of images.",
+  "shortDescription": "Generated Photos leverages AI to create unique, photo-realistic faces and full-body human images. Ideal for industries like advertising, design, and research, it allows users to generate images that do not exist in real life. An example use case is generating diverse human images for training machine learning models without privacy concerns.",
   "pros": [
     "High-quality AI-generated images",
-    "Scalable solutions for large projects",
-    "Diverse applications across industries"
+    "Diverse and large dataset of faces and humans",
+    "API integration for scalability"
   ],
   "cons": [
-    "Potential ethical concerns with AI-generated faces",
-    "Limited to human images only",
-    "Dependence on AI technology for outputs"
+    "Lack of real human authenticity",
+    "Potential ethical concerns",
+    "Dependent on AI technology advancements"
   ],
   "alternatives": [
     "This Person Does Not Exist [thispersondoesnotexist.com]",
@@ -23,23 +23,23 @@
     {
       "name": "This Person Does Not Exist",
       "url": "thispersondoesnotexist.com",
-      "reason": "Generates endless AI faces"
+      "reason": "Generates endless fake human faces"
     },
     {
       "name": "Deep Dream Generator",
       "url": "deepdreamgenerator.com",
-      "reason": "AI for artistic image transformation"
+      "reason": "AI tool for creating dream-like images"
     },
     {
       "name": "Rosebud AI",
       "url": "rosebud.ai",
-      "reason": "Creates diverse AI-generated models"
+      "reason": "Offers AI-generated videos and images"
     }
   ],
   "tags": [
     "AI",
+    "machine learning",
     "image generation",
-    "marketing",
     "design"
   ],
   "apiUsed": true,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/generated_photos.png",
   "screenshot_640": "/screenshots/generated_photos_640.png",
   "screenshot_400": "/screenshots/generated_photos_400.png",
-  "updatedAt": "2025-05-22T04:45:48.654Z"
+  "updatedAt": "2025-05-23T22:16:04.514Z"
 }

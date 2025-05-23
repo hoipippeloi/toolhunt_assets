@@ -3,57 +3,57 @@
   "name": "Gadget",
   "title": "gadget.dev",
   "payoff": "Faster full-stack app development",
-  "shortDescription": "Gadget simplifies the development of full-stack web applications by providing a suite of integrated tools that handle backend, frontend, and database management. It is designed for developers aiming to increase productivity and reduce time-to-market. Example use case: A developer can use Gadget to quickly build and deploy an e-commerce application, integrating custom APIs and managing data with ease.",
+  "shortDescription": "Gadget is a platform designed to streamline the development of full-stack web applications. It integrates backend, frontend, and database solutions into a single, cohesive tool. Developers can build and deploy apps quickly with features like serverless API actions and auto-generated UI components. An example use case is creating a multi-tenant SaaS app that scales efficiently without managing infrastructure.",
   "pros": [
-    "Rapid development with no SQL or schema migrations",
-    "Built-in support for serverless API and real-time updates",
-    "Fully hosted with automatic scaling and maintenance"
+    "Rapid development and deployment",
+    "No need for manual backend configuration",
+    "Built-in scalability features"
   ],
   "cons": [
-    "Limited customization compared to traditional stacks",
-    "Dependence on a single provider for all components",
-    "Potential for higher costs at scale"
+    "Limited customization options",
+    "Dependence on a single platform",
+    "Potential performance issues for complex applications"
   ],
   "alternatives": [
-    "Firebase [firebase.google.com]",
-    "Heroku [heroku.com]",
-    "AWS Amplify [aws.amazon.com/amplify]"
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Firebase",
-      "url": "firebase.google.com",
-      "reason": "Offers real-time databases and backend services"
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
     },
     {
-      "name": "Heroku",
-      "url": "heroku.com",
-      "reason": "Easy to use platform for deploying web apps"
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code app development platform"
     },
     {
-      "name": "AWS Amplify",
-      "url": "aws.amazon.com/amplify",
-      "reason": "Comprehensive suite for app development"
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Focuses on responsive web design"
     }
   ],
   "tags": [
     "full-stack development",
-    "web apps",
-    "serverless",
-    "database management"
+    "SaaS",
+    "app development",
+    "serverless"
   ],
   "apiUsed": true,
   "department": "Development",
   "function": "Backend Services",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://gadget.dev/",
-  "documentationUrl": "https://docs.gadget.dev/",
+  "documentationUrl": "https://gadget.dev/docs",
   "githubUrl": "https://github.com/gadget-inc",
   "twitterUrl": "https://x.com/gadget_dev",
   "screenshot": "/screenshots/gadget_dev.png",
   "screenshot_640": "/screenshots/gadget_dev_640.png",
   "screenshot_400": "/screenshots/gadget_dev_400.png",
-  "updatedAt": "2025-05-09T10:24:55.054Z"
+  "updatedAt": "2025-05-23T22:14:23.355Z"
 }
