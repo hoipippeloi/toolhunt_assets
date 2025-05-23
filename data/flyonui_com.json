@@ -3,16 +3,16 @@
   "name": "FlyonUI",
   "title": "flyonui.com",
   "payoff": "Free Tailwind CSS Components",
-  "shortDescription": "FlyonUI is a comprehensive library of free Tailwind CSS components designed to simplify web development. It offers a wide range of ready-to-use components and templates, making it ideal for developers looking to speed up their workflow. Example use case includes building responsive and visually appealing web interfaces quickly without starting from scratch.",
+  "shortDescription": "FlyonUI offers a comprehensive library of free, customizable Tailwind CSS components and blocks designed to simplify web development. Targeted at developers and designers, it provides tools to create responsive and aesthetically pleasing interfaces quickly. Example use case includes rapidly deploying a prototype for user testing without compromising on design quality.",
   "pros": [
-    "Wide range of components",
-    "Fully compatible with Tailwind CSS",
-    "Open-source and free forever"
+    "Wide range of components and blocks",
+    "Fully customizable and open-source",
+    "Includes templates and design systems"
   ],
   "cons": [
     "Limited to Tailwind CSS",
-    "No premium version for advanced features",
-    "May require customization for unique designs"
+    "No direct customer support",
+    "May require Tailwind CSS knowledge"
   ],
   "alternatives": [
     "Tailwind UI [tailwindui.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Tailwind UI",
       "url": "tailwindui.com",
-      "reason": "Premium components for Tailwind CSS"
+      "reason": "Offers advanced UI components"
     },
     {
       "name": "DaisyUI",
       "url": "daisyui.com",
-      "reason": "Plugin with themes & components"
+      "reason": "Provides themed components"
     },
     {
       "name": "Headless UI",
       "url": "headlessui.dev",
-      "reason": "Accessible UI components for React/Vue"
+      "reason": "Focuses on accessibility"
     }
   ],
   "tags": [
     "web development",
     "CSS library",
     "open source",
-    "component library"
+    "UI components"
   ],
   "apiUsed": false,
-  "department": "Development",
+  "department": "Design",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://flyonui.com/",
-  "documentationUrl": "https://flyonui.com/docs",
-  "githubUrl": "https://github.com/themeselection/flyonui",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/orgs/themeselection/projects/38/views/2",
   "twitterUrl": "https://x.com/flyonui",
   "screenshot": "/screenshots/flyonui_com.png",
   "screenshot_640": "/screenshots/flyonui_com_640.png",
   "screenshot_400": "/screenshots/flyonui_com_400.png",
-  "updatedAt": "2025-05-08T08:33:44.773Z"
+  "updatedAt": "2025-05-23T21:12:22.041Z"
 }

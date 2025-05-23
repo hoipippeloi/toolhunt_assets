@@ -3,16 +3,16 @@
   "name": "Foudroyer",
   "title": "foudroyer.com",
   "payoff": "Index pages on search engines fast",
-  "shortDescription": "Foudroyer is a powerful indexing tool designed for individuals and businesses aiming to enhance their website visibility across multiple search engines like Google, Bing, Yandex, and Naver. It allows users to quickly plug in their website, index an unlimited number of pages, and track their performance. Ideal for SEO professionals and marketing teams, Foudroyer simplifies the process of achieving high search engine rankings and analyzing traffic and keyword positions.",
+  "shortDescription": "Foudroyer is a powerful indexing tool designed for a wide range of users, from newbies to enterprises. It enables the indexing of an unlimited number of pages across major search engines like Google, Bing, Yandex, and Naver in just seconds. Users can also track keyword positions and analyze traffic to optimize their web presence.",
   "pros": [
     "Quick and easy setup",
     "Unlimited page indexing",
-    "Multi-engine compatibility"
+    "Supports multiple search engines"
   ],
   "cons": [
-    "No free tier mentioned",
-    "Limited information on advanced features",
-    "Potential dependency on tool updates"
+    "No clear pricing information",
+    "Limited customization options",
+    "No mention of support or customer service"
   ],
   "alternatives": [
     "Ahrefs [ahrefs.com]",
@@ -33,21 +33,21 @@
     {
       "name": "Moz Pro",
       "url": "moz.com",
-      "reason": "Well-established SEO focus"
+      "reason": "SEO-focused features"
     }
   ],
   "tags": [
     "SEO",
     "web indexing",
-    "digital marketing",
-    "search engine optimization"
+    "traffic analysis",
+    "keyword tracking"
   ],
   "apiUsed": false,
   "department": "Marketing",
   "function": "Site Analytics",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2023,
   "websiteUrl": "https://foudroyer.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=foudroyer&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/foudroyer_com.png",
   "screenshot_640": "/screenshots/foudroyer_com_640.png",
   "screenshot_400": "/screenshots/foudroyer_com_400.png",
-  "updatedAt": "2025-05-21T04:45:51.359Z"
+  "updatedAt": "2025-05-23T21:13:03.051Z"
 }
