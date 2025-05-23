@@ -3,16 +3,16 @@
   "name": "DuckDB",
   "title": "duckdb.org",
   "payoff": "Fast in-process SQL OLAP DBMS",
-  "shortDescription": "DuckDB is an embedded SQL database designed for OLAP (analytical processing) tasks. It is ideal for developers needing to manage and analyze large datasets within applications without external dependencies. DuckDB supports various platforms including Linux, macOS, and Windows, and integrates with major programming languages. Example use case: A developer integrates DuckDB to perform real-time data analysis within a financial analytics application.",
+  "shortDescription": "DuckDB is an embedded SQL database designed for OLAP (analytical processing) tasks. It integrates directly into host applications and supports a variety of platforms including Linux, macOS, and Windows. DuckDB excels in environments where high-speed data analysis and minimal setup are crucial. For example, developers can use DuckDB to quickly integrate a database into their applications without worrying about complex dependencies.",
   "pros": [
     "Zero external dependencies",
     "Supports multiple platforms and languages",
-    "Open-source under MIT License"
+    "High-speed analytical queries"
   ],
   "cons": [
-    "May not suit OLTP requirements",
-    "Limited community compared to larger DBMS",
-    "Potential performance limitations in very large-scale deployments"
+    "Limited awareness and adoption",
+    "May not suit large-scale distributed systems",
+    "Focused primarily on analytical rather than transactional workloads"
   ],
   "alternatives": [
     "SQLite [sqlite.org]",
@@ -23,24 +23,24 @@
     {
       "name": "SQLite",
       "url": "sqlite.org",
-      "reason": "Lightweight, file-based DBMS"
+      "reason": "Lightweight, zero-config SQL database"
     },
     {
       "name": "PostgreSQL",
       "url": "postgresql.org",
-      "reason": "Robust, feature-rich SQL database"
+      "reason": "Powerful, open source object-relational DBMS"
     },
     {
       "name": "Apache Drill",
       "url": "drill.apache.org",
-      "reason": "Schema-free SQL query engine"
+      "reason": "Schema-free SQL query engine for Hadoop"
     }
   ],
   "tags": [
     "database",
     "SQL",
-    "open source",
-    "data analytics"
+    "analytics",
+    "open source"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2019,
   "websiteUrl": "https://duckdb.org/",
-  "documentationUrl": "https://duckdb.org/docs",
+  "documentationUrl": "https://duckdb.org/docs/",
   "githubUrl": "https://github.com/duckdb/duckdb",
   "twitterUrl": "https://twitter.com/duckdb",
   "screenshot": "/screenshots/duckdb_org.png",
   "screenshot_640": "/screenshots/duckdb_org_640.png",
   "screenshot_400": "/screenshots/duckdb_org_400.png",
-  "updatedAt": "2025-05-11T03:42:30.449Z"
+  "updatedAt": "2025-05-23T17:14:15.948Z"
 }

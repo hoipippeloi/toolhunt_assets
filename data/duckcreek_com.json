@@ -3,37 +3,37 @@
   "name": "Duck Creek",
   "title": "duckcreek.com",
   "payoff": "Reimagine The Future of Insurance",
-  "shortDescription": "Duck Creek provides a suite of low-code SaaS core systems designed specifically for P&C/general insurance. It enables insurers to deliver protection faster and smarter, enhancing customer experiences and speeding up market reach. Insurers can quickly adapt to changing needs with reusable product modules and expand their distribution channels effectively.",
+  "shortDescription": "Duck Creek provides a suite of low-code SaaS core systems designed specifically for P&C/general insurance. It enables insurers to deliver protection faster and smarter, enhancing customer experiences through personalized services. Insurers can quickly adapt to market changes using Duck Creek's reusable product modules, thereby accelerating product development and distribution.",
   "pros": [
-    "Low-code platform for faster deployment",
+    "Low-code configurability speeds up deployment",
     "Tailor-made for P&C/general insurance",
-    "Supports rapid adaptation to market changes"
+    "Supports rapid development and deployment of new products"
   ],
   "cons": [
-    "Primarily focused on P&C insurance",
+    "Primarily focused on P&C insurance, not all types",
     "May require initial training for optimal use",
-    "Potential limitations in customization for unique needs"
+    "Potential high cost for full suite and services"
   ],
   "alternatives": [
     "Guidewire [guidewire.com]",
-    "Applied Systems [appliedsystems.com]",
-    "Insurity [insurity.com]"
+    "Insurity [insurity.com]",
+    "Majesco [majesco.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Guidewire",
       "url": "guidewire.com",
-      "reason": "Comprehensive P&C insurance platform"
-    },
-    {
-      "name": "Applied Systems",
-      "url": "appliedsystems.com",
-      "reason": "Broader insurance management features"
+      "reason": "Comprehensive insurance suite with analytics"
     },
     {
       "name": "Insurity",
       "url": "insurity.com",
-      "reason": "Flexible insurance solutions with analytics"
+      "reason": "Offers cloud solutions and data analytics"
+    },
+    {
+      "name": "Majesco",
+      "url": "majesco.com",
+      "reason": "Focus on innovation and digital insurance"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/duckcreek_com.png",
   "screenshot_640": "/screenshots/duckcreek_com_640.png",
   "screenshot_400": "/screenshots/duckcreek_com_400.png",
-  "updatedAt": "2025-05-12T13:59:38.282Z"
+  "updatedAt": "2025-05-23T17:13:53.208Z"
 }

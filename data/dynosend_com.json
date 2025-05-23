@@ -2,38 +2,38 @@
   "sourceUrl": "https://dynosend.com/",
   "name": "Dynosend",
   "title": "dynosend.com",
-  "payoff": "Engage customers with smart automation",
-  "shortDescription": "Dynosend is a customer engagement platform that leverages marketing automation, email marketing, and a customer data platform (CDP) to help businesses engage their customers effectively. It allows users to create personalized, data-driven journeys via email and SMS, making it ideal for marketers looking to improve customer retention and conversion rates. An example use case would be an e-commerce store using Dynosend to automate transactional emails and promotional campaigns based on customer behavior and preferences.",
+  "payoff": "Engage customers via email and SMS",
+  "shortDescription": "Dynosend is a customer engagement platform that focuses on email marketing and customer data platforms (CDP). It enables businesses to create personalized, data-driven journeys for their customers, enhancing engagement from the first interaction. Users can automate marketing processes, manage customer data, and send transactional emails quickly. Ideal for businesses looking to scale their customer engagement efforts efficiently.",
   "pros": [
-    "Comprehensive marketing automation",
-    "Integrated customer data platform",
+    "Advanced automation capabilities",
+    "Integrated customer data management",
     "Robust API for custom integrations"
   ],
   "cons": [
-    "May be complex for beginners",
+    "May require technical knowledge for setup",
     "Potentially high cost for small businesses",
-    "Limited integrations with lesser-known tools"
+    "Limited customization in free tier"
   ],
   "alternatives": [
     "Mailchimp [mailchimp.com]",
     "HubSpot [hubspot.com]",
-    "ActiveCampaign [activecampaign.com]"
+    "Sendinblue [sendinblue.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Sendinblue",
-      "url": "sendinblue.com",
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
       "reason": "Offers similar email marketing tools"
     },
     {
       "name": "Klaviyo",
       "url": "klaviyo.com",
-      "reason": "Focuses on e-commerce marketing automation"
+      "reason": "Focuses on e-commerce marketing"
     },
     {
-      "name": "Omnisend",
-      "url": "omnisend.com",
-      "reason": "Specializes in SMS and email marketing"
+      "name": "Autopilot",
+      "url": "autopilothq.com",
+      "reason": "Visual marketing automation focus"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/dynosend_com.png",
   "screenshot_640": "/screenshots/dynosend_com_640.png",
   "screenshot_400": "/screenshots/dynosend_com_400.png",
-  "updatedAt": "2025-05-17T10:16:00.910Z"
+  "updatedAt": "2025-05-23T17:14:43.675Z"
 }
