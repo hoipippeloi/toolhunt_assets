@@ -3,47 +3,47 @@
   "name": "Backlight",
   "title": "backlight.dev",
   "payoff": "Build Design Systems Efficiently",
-  "shortDescription": "Backlight is a tool designed for front-end teams to create and manage design systems efficiently. It caters to developers and is also loved by designers due to its integration with tools like Figma. Users can start with provided examples or from scratch, facilitating quick setup and collaboration. An example use case is a team using Backlight to rapidly develop a design system, enabling consistent UI across products without manual updates.",
+  "shortDescription": "Backlight is a comprehensive tool designed for front-end teams to create and manage design systems efficiently. It simplifies the development process by offering features like visual pull-request reviews and automatic design generation from code. This tool is ideal for developers and is also loved by designers due to its Figma plugin, which allows for seamless integration between design and code. An example use case is a tech company looking to streamline their UI/UX development process.",
   "pros": [
-    "Rapid design system development",
     "Visual pull-request reviews for faster validation",
-    "Integration with Figma for automatic UI generation"
+    "Automatic generation of designs from code",
+    "Collaborative features for team contribution"
   ],
   "cons": [
-    "Primarily code-centric, might intimidate non-technical users",
-    "Dependence on specific integrations like Figma",
-    "Potential learning curve for adopting new workflows"
+    "Primarily code-centric, less intuitive for non-developers",
+    "Potential learning curve for new users",
+    "Dependence on Figma for design features"
   ],
   "alternatives": [
     "Storybook [storybook.js.org]",
     "Zeroheight [zeroheight.com]",
-    "InVision DSM [invisionapp.com]"
+    "Framer [framer.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Storybook",
       "url": "storybook.js.org",
-      "reason": "Popular tool for building UI components"
+      "reason": "Popular for building UI components"
+    },
+    {
+      "name": "InVision DSM",
+      "url": "invisionapp.com/design-system-manager",
+      "reason": "Integrates design & code systems"
     },
     {
       "name": "Figma",
       "url": "figma.com",
-      "reason": "Comprehensive design and prototyping tool"
-    },
-    {
-      "name": "Adobe XD",
-      "url": "adobe.com/products/xd.html",
-      "reason": "Versatile tool for UI/UX design"
+      "reason": "Strong design tool with plugins"
     }
   ],
   "tags": [
     "design systems",
     "front-end development",
     "collaboration",
-    "UI design"
+    "UI/UX"
   ],
   "apiUsed": false,
-  "department": "Design",
+  "department": "Development",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://backlight.dev/docs",
   "githubUrl": "https://github.com/search?q=backlight&type=repositories",
   "twitterUrl": "https://twitter.com/backlight_dev",
-  "screenshot": "/screenshots/backlight_dev.png",
-  "screenshot_640": "/screenshots/backlight_dev_640.png",
-  "screenshot_400": "/screenshots/backlight_dev_400.png",
-  "updatedAt": "2025-05-18T03:01:41.240Z"
+  "screenshot": "https://share.appsfor.us/screenshots/backlight_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/backlight_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/backlight_dev_400.png",
+  "updatedAt": "2025-05-23T12:28:27.064Z"
 }
