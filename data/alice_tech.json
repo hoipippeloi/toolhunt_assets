@@ -3,16 +3,16 @@
   "name": "Alice",
   "title": "alice.tech",
   "payoff": "Study smart. Own your exams.",
-  "shortDescription": "Alice is an AI-powered study tool designed to enhance learning by converting uploaded materials into tailored notes and exercises. It's ideal for students who want to optimize their study time by focusing on areas that need improvement. For example, a student can upload lecture slides, and Alice will generate practice questions and summaries to help reinforce learning.",
+  "shortDescription": "Alice is an AI-powered study tool designed to help students optimize their learning process. By transforming uploaded materials into tailored notes and exercises, Alice identifies study gaps and enhances exam preparation. Ideal for students who need efficient, personalized study aids, Alice acts like a smart, supportive friend who prepares you for academic success.",
   "pros": [
-    "Personalized learning experience",
+    "Personalized study materials",
     "Supports multiple languages",
-    "Offers a free tier with limited usage"
+    "Instant feedback on exercises"
   ],
   "cons": [
-    "Limited to educational content",
-    "Dependent on quality of uploaded materials",
-    "May not cover all academic subjects"
+    "Limited free plan usage",
+    "Dependent on quality of uploaded content",
+    "No offline functionality"
   ],
   "alternatives": [
     "Quizlet [quizlet.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Quizlet",
       "url": "quizlet.com",
-      "reason": "Offers diverse study modes and flashcards."
+      "reason": "Offers study sets and interactive tools"
     },
     {
       "name": "Khan Academy",
       "url": "khanacademy.org",
-      "reason": "Provides comprehensive educational videos."
+      "reason": "Provides comprehensive educational resources"
     },
     {
       "name": "Coursera",
       "url": "coursera.org",
-      "reason": "Offers courses from universities worldwide."
+      "reason": "Wide range of courses and professional certificates"
     }
   ],
   "tags": [
-    "AI",
     "E-Learning",
+    "AI",
     "Study Tool",
-    "Academic Assistance"
+    "Academic Support"
   ],
   "apiUsed": false,
   "department": "Research & Development",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=alice&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/alice_tech.png",
-  "screenshot_640": "/screenshots/alice_tech_640.png",
-  "screenshot_400": "/screenshots/alice_tech_400.png",
-  "updatedAt": "2025-05-17T10:15:30.702Z"
+  "screenshot": "/screenshots/alice_tech.webp",
+  "screenshot_640": "/screenshots/alice_tech_640.webp",
+  "screenshot_400": "/screenshots/alice_tech_400.webp",
+  "updatedAt": "2025-05-23T11:40:21.550Z"
 }

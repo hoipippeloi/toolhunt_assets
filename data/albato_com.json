@@ -2,16 +2,16 @@
   "sourceUrl": "https://albato.com/",
   "name": "Albato",
   "title": "albato.com",
-  "payoff": "Automate with no-code platform",
-  "shortDescription": "Albato offers a no-code platform that enables users to automate workflows by integrating various applications. It's designed for individuals and businesses looking to streamline their processes without extensive technical knowledge. An example use case is automating data transfer between CRM and marketing tools to enhance lead management.",
+  "payoff": "Automate with no-code",
+  "shortDescription": "Albato offers a no-code platform that enables users to automate workflows by integrating various applications. It's designed for businesses and individuals looking to streamline their processes without extensive coding knowledge. Users can connect apps, set triggers, and automate actions within minutes. An example use case is automating data transfer between CRM and marketing tools.",
   "pros": [
     "Intuitive no-code interface",
     "Extensive library of app integrations",
-    "24/7 customer support"
+    "24/7 support and free plan available"
   ],
   "cons": [
     "Limited customization for advanced users",
-    "Dependent on third-party app updates",
+    "Dependent on third-party app compatibility",
     "Potential privacy concerns with data handling"
   ],
   "alternatives": [
@@ -23,7 +23,7 @@
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Popular for easy integrations"
+      "reason": "Popular for diverse app integrations"
     },
     {
       "name": "Integromat",
@@ -33,7 +33,7 @@
     {
       "name": "Automate.io",
       "url": "automate.io",
-      "reason": "Focus on business workflows"
+      "reason": "Focus on business process automation"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2020,
   "websiteUrl": "https://albato.com/",
-  "documentationUrl": "https://help.albato.com/en/",
+  "documentationUrl": "https://albato.com/docs",
   "githubUrl": "https://github.com/search?q=albato&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/albato_com.png",
-  "screenshot_640": "/screenshots/albato_com_640.png",
-  "screenshot_400": "/screenshots/albato_com_400.png",
-  "updatedAt": "2025-05-11T04:18:27.802Z"
+  "screenshot": "/screenshots/albato_com.webp",
+  "screenshot_640": "/screenshots/albato_com_640.webp",
+  "screenshot_400": "/screenshots/albato_com_400.webp",
+  "updatedAt": "2025-05-23T11:37:41.443Z"
 }

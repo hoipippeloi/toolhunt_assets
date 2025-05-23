@@ -3,16 +3,16 @@
   "name": "Algora",
   "title": "algora.io",
   "payoff": "Hire top open source engineers",
-  "shortDescription": "Algora is an innovative open source tech recruiting platform that leverages detailed GitHub OSS contribution data to streamline the hiring process. It's designed for companies looking to hire skilled engineers quickly and cost-effectively. Users can highlight applicant contributions, automatically screen and rank candidates, and even conduct paid trial projects to assess fit. Algora is ideal for tech startups and companies needing flexible, skilled engineering talent.",
+  "shortDescription": "Algora is an innovative tech recruiting platform that leverages GitHub's OSS contribution data to streamline the hiring process of engineers. It's designed for companies looking to hire skilled developers quickly and cost-effectively. Users can assess candidates through paid trials and manage global payments efficiently. An example use case is a tech startup using Algora to find and hire a developer who has proven their skills through open source contributions.",
   "pros": [
-    "Uses GitHub data for precise matching",
-    "Offers paid trials to assess candidate fit",
-    "0% placement fees with efficient process"
+    "Efficient screening and ranking of applicants",
+    "0% placement fees with outcome-based payment",
+    "Access to a large pool of top developers"
   ],
   "cons": [
-    "Limited to developers active on GitHub",
+    "Dependent on GitHub contributions, which may not reflect all skills",
     "May not suit non-technical roles",
-    "Dependent on the quality of GitHub data"
+    "Limited to developers familiar with open source"
   ],
   "alternatives": [
     "Hired [hired.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Hired",
       "url": "hired.com",
-      "reason": "Focused on tech roles with vetting process"
+      "reason": "Focused on tech and business roles"
     },
     {
       "name": "Toptal",
       "url": "toptal.com",
-      "reason": "Access to top freelancers and developers"
+      "reason": "Highly selective freelance network"
     },
     {
       "name": "Upwork",
       "url": "upwork.com",
-      "reason": "Large freelance marketplace with diverse skills"
+      "reason": "Wide range of freelancing skills"
     }
   ],
   "tags": [
-    "tech recruiting",
+    "recruiting",
     "open source",
-    "hiring platform",
-    "GitHub integration"
+    "tech hiring",
+    "GitHub"
   ],
   "apiUsed": false,
   "department": "Human Resources",
   "function": "Customer Relations",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2023,
+  "releasedYear": 2020,
   "websiteUrl": "https://algora.io/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/algora-io/algora",
   "twitterUrl": "https://x.com/algoraio",
-  "screenshot": "/screenshots/algora_io.png",
-  "screenshot_640": "/screenshots/algora_io_640.png",
-  "screenshot_400": "/screenshots/algora_io_400.png",
-  "updatedAt": "2025-05-21T02:56:33.354Z"
+  "screenshot": "/screenshots/algora_io.webp",
+  "screenshot_640": "/screenshots/algora_io_640.webp",
+  "screenshot_400": "/screenshots/algora_io_400.webp",
+  "updatedAt": "2025-05-23T11:38:54.131Z"
 }
