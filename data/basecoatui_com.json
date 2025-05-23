@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://basecoatui.com/",
+  "name": "Basecoat",
+  "title": "basecoatui.com",
+  "payoff": "All the UI magic, none of the React",
+  "shortDescription": "Basecoat is a versatile components library designed using Tailwind CSS, compatible across various web stacks. It is ideal for developers seeking to implement UI components without specific framework dependencies. An example use case is a developer quickly integrating a UI element like a button or form into their project without worrying about the underlying technology stack.",
+  "pros": [
+    "Framework agnostic",
+    "Built with Tailwind CSS",
+    "Easy integration"
+  ],
+  "cons": [
+    "Limited to UI components",
+    "No built-in JavaScript functionality",
+    "May require CSS customization"
+  ],
+  "alternatives": [
+    "Tailwind UI [tailwindui.com]",
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tailwind UI",
+      "url": "tailwindui.com",
+      "reason": "Offers UI components with Tailwind CSS"
+    },
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Provides robust React components"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Extensive component library for React"
+    }
+  ],
+  "tags": [
+    "UI components",
+    "web development",
+    "CSS",
+    "frontend"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://basecoatui.com/",
+  "documentationUrl": "https://basecoatui.com/documentation",
+  "githubUrl": "https://github.com/hunvreus/basecoat",
+  "twitterUrl": "https://x.com/hunvreus",
+  "screenshot": "/screenshots/basecoatui_com.png",
+  "screenshot_640": "/screenshots/basecoatui_com_640.png",
+  "screenshot_400": "/screenshots/basecoatui_com_400.png",
+  "updatedAt": "2025-05-23T08:20:07.718Z"
+}

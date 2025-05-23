@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://electric-sql.com/",
+  "name": "ElectricSQL",
+  "title": "electric-sql.com",
+  "payoff": "Sync makes apps awesome",
+  "shortDescription": "ElectricSQL is a Postgres sync engine designed to simplify data synchronization across applications. It supports any Postgres, any data model, and any web framework, making it versatile for developers. Example use cases include building real-time dashboards, syncing data for AI agents, and enhancing app collaboration. It's particularly beneficial for projects requiring high-throughput data delivery to millions of users.",
+  "pros": [
+    "Supports any Postgres and data model",
+    "Scales to millions of users efficiently",
+    "Fully open source with flexible integration"
+  ],
+  "cons": [
+    "Requires familiarity with Postgres",
+    "Potential complexity in initial setup",
+    "Limited to HTTP and JSON for interactions"
+  ],
+  "alternatives": [
+    "Firebase [firebase.google.com]",
+    "Supabase [supabase.com]",
+    "Trigger.dev [trigger.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Firebase",
+      "url": "firebase.google.com",
+      "reason": "Offers real-time database syncing"
+    },
+    {
+      "name": "Supabase",
+      "url": "supabase.com",
+      "reason": "Open source Firebase alternative"
+    },
+    {
+      "name": "Realm",
+      "url": "realm.io",
+      "reason": "Focuses on mobile database sync"
+    }
+  ],
+  "tags": [
+    "data synchronization",
+    "open source",
+    "scalability",
+    "Postgres"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Data Sync",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2022,
+  "websiteUrl": "https://electric-sql.com/",
+  "documentationUrl": "https://electric-sql.com/docs",
+  "githubUrl": "https://github.com/electric-sql/electric",
+  "twitterUrl": "https://x.com/ElectricSQL",
+  "screenshot": "/screenshots/electric_sql_com.png",
+  "screenshot_640": "/screenshots/electric_sql_com_640.png",
+  "screenshot_400": "/screenshots/electric_sql_com_400.png",
+  "updatedAt": "2025-05-23T08:19:49.581Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://storylane.io/",
+  "name": "Storylane",
+  "title": "storylane.io",
+  "payoff": "Close deals faster with demos",
+  "shortDescription": "Storylane offers an interactive demo automation platform designed to enhance sales and marketing efforts. It allows users to create immersive, personalized product demos without coding. Key features include AI-generated content, HTML editor for screen customization, and integration with sales tools. Ideal for marketing and sales teams aiming to streamline their demo processes and improve engagement.",
+  "pros": [
+    "No-code demo creation",
+    "AI-generated content and personalization",
+    "Seamless integration with CRM systems"
+  ],
+  "cons": [
+    "Dependent on digital product interface",
+    "May require training to optimize use",
+    "Potential privacy concerns with data tracking"
+  ],
+  "alternatives": [
+    "DemoStack [demostack.com]",
+    "Walnut.io [walnut.io]",
+    "Consensus [goconsensus.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DemoStack",
+      "url": "demostack.com",
+      "reason": "Offers customizable demo environments"
+    },
+    {
+      "name": "Walnut.io",
+      "url": "walnut.io",
+      "reason": "Focuses on personalization and analytics"
+    },
+    {
+      "name": "Consensus",
+      "url": "goconsensus.com",
+      "reason": "Automates interactive video demos"
+    }
+  ],
+  "tags": [
+    "demo automation",
+    "sales enablement",
+    "marketing tools",
+    "product demos"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://storylane.io/",
+  "documentationUrl": "https://storylane.io/docs",
+  "githubUrl": "https://github.com/search?q=storylane&type=repositories",
+  "twitterUrl": "https://twitter.com/storylaneio",
+  "screenshot": "/screenshots/storylane_io.png",
+  "screenshot_640": "/screenshots/storylane_io_640.png",
+  "screenshot_400": "/screenshots/storylane_io_400.png",
+  "updatedAt": "2025-05-23T08:20:45.105Z"
+}
