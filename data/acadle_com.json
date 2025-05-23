@@ -3,16 +3,16 @@
   "name": "Acadle",
   "title": "acadle.com",
   "payoff": "Innovative LMS for Modern Learning",
-  "shortDescription": "Acadle is a versatile learning management system designed to enhance the learning experience and foster business growth. It allows users to create courses, conduct live training, and integrate community forums for peer discussions. An ideal tool for companies looking to onboard new employees or provide ongoing training, Acadle supports various content types including videos, PDFs, and SCORM-compliant materials.",
+  "shortDescription": "Acadle offers a comprehensive learning management system designed to enhance the educational experience and facilitate business growth. It is ideal for companies looking to train employees or educate customers, featuring customizable course creation, live training sessions, and an integrated community forum. Users can seamlessly onboard with tools like SCORM compatibility and integrate with various applications for a cohesive learning environment.",
   "pros": [
     "Customizable and SCORM-compatible courses",
-    "Integrated community forums for peer learning",
-    "Affordable with robust features"
+    "Integrated community forum for peer discussions",
+    "Versatile integration capabilities"
   ],
   "cons": [
-    "May require initial setup time",
-    "Limited third-party integrations",
-    "Focused primarily on educational sectors"
+    "Potential complexity in initial setup",
+    "May require training to utilize all features",
+    "Dependence on third-party integrations"
   ],
   "alternatives": [
     "Moodle [moodle.org]",
@@ -26,34 +26,34 @@
       "reason": "Open-source LMS with strong community"
     },
     {
-      "name": "Blackboard",
-      "url": "blackboard.com",
-      "reason": "Widely used in academic institutions"
+      "name": "TalentLMS",
+      "url": "talentlms.com",
+      "reason": "Flexible LMS with gamification"
     },
     {
-      "name": "Canvas",
-      "url": "instructure.com",
-      "reason": "Popular for its clean interface and usability"
+      "name": "Teachable",
+      "url": "teachable.com",
+      "reason": "User-friendly for course creators"
     }
   ],
   "tags": [
-    "E-Learning",
     "LMS",
-    "Course Creation",
-    "Training"
+    "e-learning",
+    "course management",
+    "training software"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Human Resources",
   "function": "E-Learning",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2018,
+  "releasedYear": 2017,
   "websiteUrl": "https://acadle.com/",
-  "documentationUrl": "https://acadle.com/documentation",
+  "documentationUrl": "https://acadle.com/docs",
   "githubUrl": "https://github.com/search?q=acadle&type=repositories",
   "twitterUrl": "https://twitter.com/hiacadle",
-  "screenshot": "/screenshots/acadle_com.png",
-  "screenshot_640": "/screenshots/acadle_com_640.png",
-  "screenshot_400": "/screenshots/acadle_com_400.png",
-  "updatedAt": "2025-05-10T05:14:06.409Z"
+  "screenshot": "/screenshots/acadle_com.webp",
+  "screenshot_640": "/screenshots/acadle_com_640.webp",
+  "screenshot_400": "/screenshots/acadle_com_400.webp",
+  "updatedAt": "2025-05-23T11:13:00.779Z"
 }
