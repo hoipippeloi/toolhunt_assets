@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://project44.com/",
+  "name": "project44",
+  "title": "project44.com",
+  "payoff": "Optimize logistics workflow end-to-end",
+  "shortDescription": "project44 offers a comprehensive supply chain visibility platform that enhances logistics operations from pre-transit to final mile delivery. It's designed for shippers, 3PLs, and freight forwarders, providing tools for rating, tendering, and managing inventory across all modes of transportation globally. An example use case includes optimizing shipment routes using AI-driven insights to reduce costs and improve delivery times.",
+  "pros": [
+    "Comprehensive multimodal coverage",
+    "Advanced AI and analytics capabilities",
+    "Highly scalable and integrative platform"
+  ],
+  "cons": [
+    "Potentially complex for new users",
+    "High dependency on external data integrations",
+    "May be cost-prohibitive for smaller businesses"
+  ],
+  "alternatives": [
+    "FourKites [fourkites.com]",
+    "Freightview [freightview.com]",
+    "Shipwell [shipwell.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "FourKites",
+      "url": "fourkites.com",
+      "reason": "Similar end-to-end visibility solutions"
+    },
+    {
+      "name": "Freightview",
+      "url": "freightview.com",
+      "reason": "Simpler interface, good for smaller scale"
+    },
+    {
+      "name": "Shipwell",
+      "url": "shipwell.com",
+      "reason": "Integrates logistics with AI efficiently"
+    }
+  ],
+  "tags": [
+    "supply chain",
+    "logistics",
+    "AI",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://project44.com/",
+  "documentationUrl": "https://project44.com/documentation",
+  "githubUrl": "https://github.com/search?q=project44&type=repositories",
+  "twitterUrl": "https://twitter.com/freightpipes",
+  "screenshot": "/screenshots/project44_com.png",
+  "screenshot_640": "/screenshots/project44_com_640.png",
+  "screenshot_400": "/screenshots/project44_com_400.png",
+  "updatedAt": "2025-05-23T07:14:58.592Z"
+}

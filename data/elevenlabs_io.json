@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://elevenlabs.io/dubbing-studio",
+  "name": "ElevenLabs Dubbing Studio",
+  "title": "elevenlabs.io",
+  "payoff": "AI-driven video translation and dubbing",
+  "shortDescription": "ElevenLabs Dubbing Studio utilizes advanced AI to translate and dub audio and video content, preserving the original voice and emotional tone. It supports 29 languages, making it ideal for creators and businesses aiming to reach a global audience. Users can upload videos from various platforms, edit translations, and customize audio settings for precise synchronization.",
+  "pros": [
+    "Preserves original voice and style across languages",
+    "Supports a wide range of video platforms",
+    "Advanced editing and customization options"
+  ],
+  "cons": [
+    "May require technical knowledge for advanced features",
+    "Potential privacy concerns with voice cloning",
+    "Dependent on AI accuracy which can vary"
+  ],
+  "alternatives": [
+    "Descript [descript.com]",
+    "Papercup [papercup.com]",
+    "Voicery [voicery.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Offers video editing and AI dubbing"
+    },
+    {
+      "name": "Papercup",
+      "url": "papercup.com",
+      "reason": "Translates videos using AI voices"
+    },
+    {
+      "name": "Voicery",
+      "url": "voicery.com",
+      "reason": "Specializes in synthetic voice generation"
+    }
+  ],
+  "tags": [
+    "AI dubbing",
+    "video translation",
+    "voice cloning",
+    "content localization"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "Translation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://elevenlabs.io/dubbing-studio",
+  "documentationUrl": "https://elevenlabs.io/docs",
+  "githubUrl": "https://github.com/elevenlabs",
+  "twitterUrl": "https://x.com/intent/user?screen_name=elevenlabsio",
+  "screenshot": "/screenshots/elevenlabs_io.png",
+  "screenshot_640": "/screenshots/elevenlabs_io_640.png",
+  "screenshot_400": "/screenshots/elevenlabs_io_400.png",
+  "updatedAt": "2025-05-23T07:15:26.521Z"
+}

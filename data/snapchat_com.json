@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://snapchat.com/",
+  "name": "Snapchat",
+  "title": "snapchat.com",
+  "payoff": "较少社交媒体。更多 Snapchat。",
+  "shortDescription": "Snapchat is a multimedia messaging app that allows users to share moments with friends and family through ephemeral photos and videos. It's designed for a younger audience looking for quick, fun ways to communicate. Users can enhance their interactions with a variety of Lenses and Filters, making each snap unique. An example use case is sharing a quick video update with personalized filters to a group of friends.",
+  "pros": [
+    "Fun and engaging user interface",
+    "Wide variety of filters and lenses",
+    "Strong focus on privacy with ephemeral messages"
+  ],
+  "cons": [
+    "Primarily appeals to a younger demographic",
+    "Limited functionality for professional communication",
+    "Potential for misuse with privacy features"
+  ],
+  "alternatives": [
+    "Instagram [instagram.com]",
+    "TikTok [tiktok.com]",
+    "Facebook [facebook.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Instagram",
+      "url": "instagram.com",
+      "reason": "Offers stories and filters like Snapchat."
+    },
+    {
+      "name": "TikTok",
+      "url": "tiktok.com",
+      "reason": "Short video format appeals to similar users."
+    },
+    {
+      "name": "Facebook",
+      "url": "facebook.com",
+      "reason": "Broader social network with similar features."
+    }
+  ],
+  "tags": [
+    "social media",
+    "messaging",
+    "multimedia",
+    "privacy"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://snapchat.com/",
+  "documentationUrl": "https://snapchat.com",
+  "githubUrl": "https://github.com/search?q=snapchat&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "/screenshots/snapchat_com.png",
+  "screenshot_640": "/screenshots/snapchat_com_640.png",
+  "screenshot_400": "/screenshots/snapchat_com_400.png",
+  "updatedAt": "2025-05-23T07:15:49.795Z"
+}
