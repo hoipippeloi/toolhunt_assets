@@ -3,21 +3,20 @@
   "name": "Easyful",
   "title": "easyful.com",
   "payoff": "Sell digital products with no fees",
-  "shortDescription": "Easyful allows users to sell digital products directly without incurring delivery fees, leveraging Stripe's payment processing capabilities. Ideal for creators and small businesses looking to minimize overhead while selling online. Users can manage their sales, products, and customer interactions directly from their Stripe dashboard, enhancing ease of use and efficiency.",
+  "shortDescription": "Easyful simplifies the process of selling digital products by integrating directly with Stripe, allowing users to manage sales without additional fees. It is designed for entrepreneurs and small businesses looking to sell digital goods like ebooks, software, and more. Users can add products, set prices, and manage orders directly from their Stripe dashboard, making it an efficient tool for those looking to streamline their digital sales process.",
   "pros": [
-    "Zero delivery fees",
-    "Direct integration with Stripe",
-    "No coding required for setup"
+    "No additional fees with Stripe integration",
+    "Direct management from Stripe dashboard",
+    "Supports multiple currencies and digital wallets"
   ],
   "cons": [
     "Limited to Stripe users",
-    "May lack advanced customization",
-    "Dependent on third-party platform stability"
+    "No advanced customization options",
+    "Dependent on Stripe's stability and features"
   ],
   "alternatives": [
     "Gumroad [gumroad.com]",
-    "LemonSqueezy [lemonsqueezy.com]",
-    "Paddle [paddle.com]"
+    "LemonSqueezy [lemonsqueezy.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,26 +27,26 @@
     {
       "name": "LemonSqueezy",
       "url": "lemonsqueezy.com",
-      "reason": "Modern alternative with more features"
+      "reason": "Similar focus on digital goods sales"
     },
     {
-      "name": "Paddle",
-      "url": "paddle.com",
-      "reason": "Combines payment processing with analytics"
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Broader e-commerce features"
     }
   ],
   "tags": [
     "E-commerce",
-    "Digital Sales",
-    "Stripe Integration",
-    "No-code"
+    "Digital sales",
+    "Stripe integration",
+    "Payment processing"
   ],
   "apiUsed": false,
   "department": "Sales",
   "function": "E-commerce",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://easyful.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=easyful&type=repositories",
@@ -55,5 +54,5 @@
   "screenshot": "/screenshots/easyful_com.png",
   "screenshot_640": "/screenshots/easyful_com_640.png",
   "screenshot_400": "/screenshots/easyful_com_400.png",
-  "updatedAt": "2025-05-14T05:43:37.264Z"
+  "updatedAt": "2025-05-23T17:40:22.253Z"
 }

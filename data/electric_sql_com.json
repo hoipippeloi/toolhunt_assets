@@ -3,16 +3,16 @@
   "name": "ElectricSQL",
   "title": "electric-sql.com",
   "payoff": "Sync makes apps awesome",
-  "shortDescription": "ElectricSQL is a Postgres sync engine designed to simplify data synchronization across applications. It supports any Postgres, any data model, and any web framework, making it versatile for developers. Example use cases include building real-time dashboards, syncing data for AI agents, and enhancing app collaboration. It's particularly beneficial for projects requiring high-throughput data delivery to millions of users.",
+  "shortDescription": "ElectricSQL is a Postgres sync engine designed to handle the complexities of data synchronization, including partial replication and fan-out. It is ideal for developers looking to build fast, collaborative, and real-time applications without managing sync infrastructure. Example use cases include real-time dashboards, collaborative apps like Figma, and AI-driven platforms.",
   "pros": [
-    "Supports any Postgres and data model",
-    "Scales to millions of users efficiently",
-    "Fully open source with flexible integration"
+    "Scales to millions of users",
+    "Fully open source",
+    "Works with any Postgres setup"
   ],
   "cons": [
     "Requires familiarity with Postgres",
-    "Potential complexity in initial setup",
-    "Limited to HTTP and JSON for interactions"
+    "Limited to HTTP and JSON interfaces",
+    "May require technical setup for scaling"
   ],
   "alternatives": [
     "Firebase [firebase.google.com]",
@@ -23,12 +23,12 @@
     {
       "name": "Firebase",
       "url": "firebase.google.com",
-      "reason": "Offers real-time database syncing"
+      "reason": "Offers broader backend services"
     },
     {
       "name": "Supabase",
       "url": "supabase.com",
-      "reason": "Open source Firebase alternative"
+      "reason": "Similar to ElectricSQL with added features"
     },
     {
       "name": "Realm",
@@ -37,17 +37,17 @@
     }
   ],
   "tags": [
-    "data synchronization",
+    "data sync",
     "open source",
-    "scalability",
-    "Postgres"
+    "database",
+    "real-time"
   ],
   "apiUsed": true,
   "department": "Development",
   "function": "Data Sync",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2022,
+  "releasedYear": 2021,
   "websiteUrl": "https://electric-sql.com/",
   "documentationUrl": "https://electric-sql.com/docs",
   "githubUrl": "https://github.com/electric-sql/electric",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/electric_sql_com.png",
   "screenshot_640": "/screenshots/electric_sql_com_640.png",
   "screenshot_400": "/screenshots/electric_sql_com_400.png",
-  "updatedAt": "2025-05-23T08:19:49.581Z"
+  "updatedAt": "2025-05-23T17:41:15.394Z"
 }
