@@ -3,11 +3,11 @@
   "name": "Everlaw",
   "title": "everlaw.com",
   "payoff": "Simplify complex legal work",
-  "shortDescription": "Everlaw is a cloud-native ediscovery platform designed for legal professionals. It supports law firms, corporations, and government agencies in managing complex legal challenges. Users can leverage powerful analytics, machine learning, and AI to streamline litigation and investigations, reducing document review volumes by 74% with Early Case Assessment.",
+  "shortDescription": "Everlaw is a cloud-native ediscovery software designed for legal professionals. It aids law firms, corporations, and government agencies in managing complex legal challenges efficiently. Users can leverage powerful analytics, machine learning tools, and advanced technology for litigation, investigations, and trial preparation.",
   "pros": [
     "AI-powered analytics for quick insights",
     "User-friendly interface enhances productivity",
-    "Rapid release cycles for continuous improvement"
+    "Rapid release cycles with thoughtful design"
   ],
   "cons": [
     "Potentially high cost for small firms",
@@ -23,28 +23,28 @@
     {
       "name": "Relativity",
       "url": "relativity.com",
-      "reason": "Widely used in complex litigation"
+      "reason": "Comprehensive ediscovery tool"
     },
     {
       "name": "Logikcull",
       "url": "logikcull.com",
-      "reason": "Focus on simplicity and speed"
+      "reason": "Simple, cloud-based ediscovery"
     },
     {
       "name": "Casepoint",
       "url": "casepoint.com",
-      "reason": "Strong AI and analytics features"
+      "reason": "Scalable legal discovery solution"
     }
   ],
   "tags": [
     "ediscovery",
     "legal technology",
     "cloud software",
-    "machine learning"
+    "AI"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Legal & Compliance",
-  "function": "Cloud Platform",
+  "function": "Content Management",
   "freeTier": false,
   "openSource": false,
   "releasedYear": 2010,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/everlaw_com.png",
   "screenshot_640": "/screenshots/everlaw_com_640.png",
   "screenshot_400": "/screenshots/everlaw_com_400.png",
-  "updatedAt": "2025-05-19T04:32:09.344Z"
+  "updatedAt": "2025-05-23T19:12:16.326Z"
 }

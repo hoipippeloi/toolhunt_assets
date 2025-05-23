@@ -3,16 +3,16 @@
   "name": "extend",
   "title": "extend.ai",
   "payoff": "Reimagined document processing with LLMs",
-  "shortDescription": "Extend leverages large language models (LLMs) to transform document processing. It's designed for technical teams facing complex document challenges. Users can quickly convert documents into high-quality data with over 95% accuracy, bypassing traditional OCR limitations. Ideal for handling intricate documents like tables and handwritten notes, Extend is a game-changer for industries reliant on accurate document digitization.",
+  "shortDescription": "Extend is designed to transform document processing using large language models (LLMs), offering state-of-the-art accuracy and reliability. It is ideal for technical teams facing complex document challenges. By leveraging Extend, companies can quickly turn varied document types, including those with tables, signatures, and images, into high-quality data. This tool is particularly useful in scenarios where traditional OCR fails, such as processing degraded scans or intricate layouts.",
   "pros": [
-    "High accuracy over 95%",
+    "High accuracy and reliability",
     "Rapid implementation and iteration",
     "Built-in tooling for non-technical users"
   ],
   "cons": [
-    "May require initial setup and training",
-    "Potentially high cost for premium features",
-    "Focused primarily on complex documents, not simple ones"
+    "Potentially high cost",
+    "Requires technical setup",
+    "Limited to document processing"
   ],
   "alternatives": [
     "ABBYY FlexiCapture [abbyy.com]",
@@ -23,7 +23,7 @@
     {
       "name": "ABBYY FlexiCapture",
       "url": "abbyy.com",
-      "reason": "Offers advanced OCR and form processing"
+      "reason": "Advanced OCR and form processing capabilities"
     },
     {
       "name": "Kofax Capture",
@@ -33,7 +33,7 @@
     {
       "name": "Docparser",
       "url": "docparser.com",
-      "reason": "Simple setup for document parsing"
+      "reason": "Streamlined document data extraction"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/extend_ai.png",
   "screenshot_640": "/screenshots/extend_ai_640.png",
   "screenshot_400": "/screenshots/extend_ai_400.png",
-  "updatedAt": "2025-05-19T04:00:53.288Z"
+  "updatedAt": "2025-05-23T19:13:16.215Z"
 }

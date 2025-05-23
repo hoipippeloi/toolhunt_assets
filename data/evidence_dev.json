@@ -3,21 +3,21 @@
   "name": "Evidence",
   "title": "evidence.dev",
   "payoff": "Business Intelligence as Code",
-  "shortDescription": "Evidence is an open-source framework designed for building data-driven applications using SQL. It caters to data professionals and developers, enabling them to create polished data products quickly. An example use case is a company like Lenstra, which uses Evidence to handle all its reporting, showcasing its effectiveness in real-world data management and visualization.",
+  "shortDescription": "Evidence is an open-source framework designed for building data-driven applications using SQL. It targets data professionals and developers, allowing them to create polished data products efficiently. An example use case is a company using Evidence to rapidly develop and deploy interactive data apps that integrate seamlessly with their existing data stack.",
   "pros": [
-    "Open source and free to start",
-    "Supports rapid deployment and maintenance",
-    "High-quality documentation and community support"
+    "Open-source and MIT licensed",
+    "Integrates with existing data stacks",
+    "Supports rapid development and deployment"
   ],
   "cons": [
     "May require SQL knowledge",
-    "Limited to data applications",
-    "Dependent on external data sources"
+    "Limited community compared to larger frameworks",
+    "Potentially steep learning curve for non-developers"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
     "Looker [looker.com]",
-    "Power BI [powerbi.microsoft.com]"
+    "Power BI [powerbi.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,17 +28,17 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Integrates with Google Cloud"
+      "reason": "Offers extensive BI capabilities"
     },
     {
       "name": "Power BI",
-      "url": "powerbi.microsoft.com",
-      "reason": "Strong in enterprise BI"
+      "url": "powerbi.com",
+      "reason": "Integrates well with Microsoft products"
     }
   ],
   "tags": [
+    "data analytics",
     "business intelligence",
-    "data visualization",
     "open source",
     "SQL"
   ],
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/evidence_dev.png",
   "screenshot_640": "/screenshots/evidence_dev_640.png",
   "screenshot_400": "/screenshots/evidence_dev_400.png",
-  "updatedAt": "2025-05-08T08:53:11.147Z"
+  "updatedAt": "2025-05-23T19:12:44.041Z"
 }
