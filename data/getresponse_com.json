@@ -2,17 +2,17 @@
   "sourceUrl": "https://getresponse.com/",
   "name": "GetResponse",
   "title": "getresponse.com",
-  "payoff": "All-in-one marketing platform",
-  "shortDescription": "GetResponse is a comprehensive marketing software designed for businesses looking to engage customers through email marketing, automation, and online campaigns. It offers tools from email marketing to landing pages and webinars, catering to entrepreneurs and marketers. An example use case is a small business using GetResponse to manage email campaigns, automate marketing processes, and track engagement through analytics.",
+  "payoff": "All-in-one marketing automation",
+  "shortDescription": "GetResponse is a comprehensive marketing platform designed for businesses looking to streamline their email marketing, automation, and landing page creation. It offers tools for creating engaging emails, automating marketing tasks, and building landing pages that convert. Ideal for small to medium-sized businesses, GetResponse helps users increase their audience engagement and sales with minimal effort. Example use case: A small e-commerce store uses GetResponse to manage their email campaigns and automate follow-up emails to customers.",
   "pros": [
-    "Wide range of marketing tools",
-    "Integration with 100+ platforms",
-    "Affordable pricing tiers"
+    "Integrated marketing tools in one platform",
+    "High deliverability rates across countries",
+    "Extensive support and learning resources"
   ],
   "cons": [
-    "Can be complex for beginners",
-    "Limited customization options",
-    "Potentially overwhelming feature set for small projects"
+    "Can be pricey for advanced features",
+    "Limited customization in certain templates",
+    "Complex features may require a learning curve"
   ],
   "alternatives": [
     "Mailchimp [mailchimp.com]",
@@ -28,19 +28,19 @@
     {
       "name": "HubSpot",
       "url": "hubspot.com",
-      "reason": "Provides more CRM features"
+      "reason": "Provides additional CRM features"
     },
     {
       "name": "ActiveCampaign",
       "url": "activecampaign.com",
-      "reason": "Stronger in automation features"
+      "reason": "Stronger in automation customization"
     }
   ],
   "tags": [
     "email marketing",
     "marketing automation",
-    "SaaS",
-    "digital marketing"
+    "landing pages",
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 1998,
   "websiteUrl": "https://getresponse.com/",
-  "documentationUrl": "https://getresponse.com/api-docs",
+  "documentationUrl": "https://getresponse.com/documentation",
   "githubUrl": "https://github.com/search?q=getresponse&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/getresponse_com.png",
   "screenshot_640": "/screenshots/getresponse_com_640.png",
   "screenshot_400": "/screenshots/getresponse_com_400.png",
-  "updatedAt": "2025-05-15T11:13:17.808Z"
+  "updatedAt": "2025-05-23T23:15:06.998Z"
 }
