@@ -2,12 +2,12 @@
   "sourceUrl": "https://dataplane.app/",
   "name": "Dataplane",
   "title": "dataplane.app",
-  "payoff": "Automate financial tasks efficiently",
-  "shortDescription": "Dataplane is a platform designed to automate repetitive tasks for finance teams, enhancing productivity by focusing on strategic analysis and financial planning. It integrates seamlessly with existing financial systems, allowing for rapid prototyping and deployment of data-driven finance applications. Example use case includes automating data entry and report generation, freeing up time for value-added activities.",
+  "payoff": "Automate Finance with Ease",
+  "shortDescription": "Dataplane is a robust automation platform tailored for finance teams, focusing on reducing manual tasks like data entry and spreadsheet management. By leveraging RPA and low-code solutions, it allows finance professionals to concentrate on strategic analysis and financial planning. An example use case is automating accounts payable processes to save time and reduce errors.",
   "pros": [
-    "Reduces time spent on manual tasks",
-    "Integrates easily with existing systems",
-    "Supports rapid prototyping and testing"
+    "Significant time savings on routine tasks",
+    "Easy integration with existing financial systems",
+    "Low-code platform enhances flexibility"
   ],
   "cons": [
     "May require initial setup and training",
@@ -28,17 +28,17 @@
     {
       "name": "Automation Anywhere",
       "url": "automationanywhere.com",
-      "reason": "Comprehensive automation suite for enterprises"
+      "reason": "Comprehensive automation for enterprise"
     },
     {
       "name": "Blue Prism",
       "url": "blueprism.com",
-      "reason": "Strong in enterprise-grade RPA solutions"
+      "reason": "Pioneer in RPA with strong compliance"
     }
   ],
   "tags": [
     "automation",
-    "fintech",
+    "finance",
     "RPA",
     "low-code"
   ],
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://dataplane.app/",
-  "documentationUrl": null,
+  "documentationUrl": "https://dataplane.app/docs",
   "githubUrl": "https://github.com/dataplane-app/dataplane/tree/main",
   "twitterUrl": null,
   "screenshot": "/screenshots/dataplane_app.png",
   "screenshot_640": "/screenshots/dataplane_app_640.png",
   "screenshot_400": "/screenshots/dataplane_app_400.png",
-  "updatedAt": "2025-05-20T04:45:04.048Z"
+  "updatedAt": "2025-05-23T14:46:16.526Z"
 }
