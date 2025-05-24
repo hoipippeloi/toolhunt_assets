@@ -2,17 +2,17 @@
   "sourceUrl": "https://hummingbot.org/",
   "name": "Hummingbot",
   "title": "hummingbot.org",
-  "payoff": "Framework for crypto market makers",
-  "shortDescription": "Hummingbot is an open-source framework designed for crypto market makers and liquidity miners. It supports crafting sophisticated strategies such as market making, arbitrage, and more using its modular strategy framework. Ideal for both individual algo traders and institutions, users can easily integrate with exchanges, backtest strategies, and deploy multiple bots. An example use case is using Hummingbot to manage and automate trading across multiple crypto exchanges.",
+  "payoff": "Framework for crypto liquidity miners",
+  "shortDescription": "Hummingbot is an open-source framework designed for crypto market makers and liquidity miners. It allows users to craft sophisticated trading strategies, integrate seamlessly with exchanges, and backtest and deploy bots with ease. Ideal for institutional clients and individual traders, Hummingbot supports a global community of algo traders.",
   "pros": [
-    "Open source and highly customizable",
-    "Supports multiple exchanges and strategies",
-    "Community-driven with regular updates"
+    "Open-source and community-owned",
+    "Supports multiple exchange integrations",
+    "Offers powerful strategy building tools"
   ],
   "cons": [
-    "Requires technical knowledge to set up",
-    "Potentially high resource usage",
-    "Limited support for non-crypto markets"
+    "Requires technical knowledge to use effectively",
+    "Limited to crypto trading strategies",
+    "Community support may vary"
   ],
   "alternatives": [
     "3Commas [3commas.io]",
@@ -28,7 +28,7 @@
     {
       "name": "Cryptohopper",
       "url": "cryptohopper.com",
-      "reason": "Cloud-based trading bot platform"
+      "reason": "Cloud-based crypto trading platform"
     },
     {
       "name": "Coinrule",
@@ -38,9 +38,9 @@
   ],
   "tags": [
     "crypto trading",
-    "market making",
     "open source",
-    "automation"
+    "market making",
+    "strategy automation"
   ],
   "apiUsed": true,
   "department": "Finance & Accounting",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2019,
   "websiteUrl": "https://hummingbot.org/",
-  "documentationUrl": "https://docs.hummingbot.io/",
+  "documentationUrl": "https://docs.hummingbot.org/",
   "githubUrl": "https://github.com/hummingbot/hummingbot",
   "twitterUrl": "https://twitter.com/_hummingbot",
   "screenshot": "/screenshots/hummingbot_org.png",
   "screenshot_640": "/screenshots/hummingbot_org_640.png",
   "screenshot_400": "/screenshots/hummingbot_org_400.png",
-  "updatedAt": "2025-05-13T01:08:24.468Z"
+  "updatedAt": "2025-05-24T05:41:21.783Z"
 }
