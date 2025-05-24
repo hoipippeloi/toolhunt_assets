@@ -2,17 +2,17 @@
   "sourceUrl": "https://jasper.ai/",
   "name": "Jasper",
   "title": "jasper.ai",
-  "payoff": "AI built for marketing impact",
-  "shortDescription": "Jasper is a generative AI platform designed specifically for marketers. It integrates AI into marketing workflows, enhancing brand control and accelerating marketing ROI. Example use case: A company uses Jasper to automate content creation for targeted marketing campaigns, ensuring brand consistency and engaging customers effectively.",
+  "payoff": "AI for impactful marketing",
+  "shortDescription": "Jasper is a generative AI platform designed specifically for marketing professionals. It integrates AI into various marketing workflows, enhancing efficiency and ROI. Marketers can use Jasper to create tailored content, manage brand consistency, and accelerate marketing processes. An example use case is using Jasper to generate on-brand marketing copy for campaigns.",
   "pros": [
-    "Integrates with existing martech stacks",
-    "Advanced brand control features",
-    "Comprehensive AI-powered marketing tools"
+    "Tailored AI outputs for marketing",
+    "Comprehensive toolset for marketers",
+    "Enterprise-grade security"
   ],
   "cons": [
-    "May require learning curve for new users",
-    "Potentially high cost for enterprise use",
-    "Dependence on AI could limit creative control"
+    "May require initial setup and training",
+    "Focused primarily on marketing functions",
+    "Potential dependency on AI for content creation"
   ],
   "alternatives": [
     "HubSpot [hubspot.com]",
@@ -23,23 +23,23 @@
     {
       "name": "HubSpot",
       "url": "hubspot.com",
-      "reason": "Offers broader CRM functionalities"
+      "reason": "Offers broader CRM capabilities"
     },
     {
       "name": "Marketo",
       "url": "marketo.com",
-      "reason": "Focused on marketing automation"
+      "reason": "Strong in automation and analytics"
     },
     {
       "name": "Hootsuite",
       "url": "hootsuite.com",
-      "reason": "Strong in social media management"
+      "reason": "Focuses on social media management"
     }
   ],
   "tags": [
     "AI",
     "marketing",
-    "content creation",
+    "content generation",
     "brand management"
   ],
   "apiUsed": true,
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://jasper.ai/",
-  "documentationUrl": "https://docs.jasper.ai",
+  "documentationUrl": "https://help.jasper.ai/hc/en-us",
   "githubUrl": "https://github.com/search?q=jasper&type=repositories",
   "twitterUrl": "https://twitter.com/heyjasperai",
   "screenshot": "/screenshots/jasper_ai.png",
   "screenshot_640": "/screenshots/jasper_ai_640.png",
   "screenshot_400": "/screenshots/jasper_ai_400.png",
-  "updatedAt": "2025-05-14T12:28:44.049Z"
+  "updatedAt": "2025-05-24T08:17:42.153Z"
 }
