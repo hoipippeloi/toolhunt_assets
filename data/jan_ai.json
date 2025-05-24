@@ -2,17 +2,17 @@
   "sourceUrl": "https://jan.ai/",
   "name": "Jan",
   "title": "jan.ai",
-  "payoff": "Runs 100% offline, fully open source",
-  "shortDescription": "Jan is an open-source alternative to ChatGPT that operates entirely offline, ensuring privacy and security for users. It's designed for developers and tech enthusiasts who need a powerful AI without relying on cloud services. Users can download and run advanced models like Llama3 or Gemma directly on their devices, or connect to cloud models when necessary. This flexibility makes Jan ideal for those looking to integrate AI into their systems while maintaining control over their data.",
+  "payoff": "Run ChatGPT offline, open source",
+  "shortDescription": "Jan is an open-source alternative to ChatGPT that operates entirely offline, ensuring user privacy and data security. It is designed for developers and tech enthusiasts who require a powerful AI without relying on cloud services. Users can download and run models like Llama3 or Gemma directly on their devices, or connect to cloud models when necessary. An example use case is setting up a personal AI server for development purposes.",
   "pros": [
     "100% offline functionality",
     "Highly customizable with extensions",
-    "Supports both local and cloud AI models"
+    "Supports both local and cloud models"
   ],
   "cons": [
-    "Still under development",
-    "May require technical knowledge to set up",
-    "Limited user feedback due to newness"
+    "Still under development with potential bugs",
+    "Requires technical knowledge to set up",
+    "Limited user support compared to commercial products"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
@@ -40,7 +40,7 @@
     "AI",
     "open source",
     "offline",
-    "customizable"
+    "privacy"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/jan_ai.png",
   "screenshot_640": "/screenshots/jan_ai_640.png",
   "screenshot_400": "/screenshots/jan_ai_400.png",
-  "updatedAt": "2025-05-16T04:46:20.725Z"
+  "updatedAt": "2025-05-24T07:37:48.447Z"
 }
