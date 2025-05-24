@@ -3,15 +3,15 @@
   "name": "Jina AI",
   "title": "jina.ai",
   "payoff": "Supercharge Your Search Foundation",
-  "shortDescription": "Jina AI is a powerful search platform designed to enhance search capabilities across various applications. It is ideal for developers and businesses looking to integrate advanced search functionalities into their systems. An example use case includes integrating Jina AI into an e-commerce platform to improve product search results and recommendations.",
+  "shortDescription": "Jina AI enhances search capabilities using advanced AI technologies. It is designed for developers and enterprises looking to integrate powerful search functionalities into their applications. An example use case includes implementing Jina AI to improve the search experience in e-commerce platforms, allowing for quicker, more accurate product searches.",
   "pros": [
-    "Advanced AI-driven search capabilities",
-    "Scalable for enterprise-level solutions",
+    "Advanced AI-driven search",
+    "Scalable for enterprise use",
     "Flexible integration options"
   ],
   "cons": [
     "Requires technical expertise to implement",
-    "Potentially high cost for large scale deployments",
+    "Potentially high cost for large scale deployment",
     "Limited support for non-technical users"
   ],
   "alternatives": [
@@ -32,7 +32,7 @@
     },
     {
       "name": "Apache Solr",
-      "url": "lucene.apache.org/solr",
+      "url": "lucene.apache.org/solr/",
       "reason": "Open source and highly flexible"
     }
   ],
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/jina_ai.png",
   "screenshot_640": "/screenshots/jina_ai_640.png",
   "screenshot_400": "/screenshots/jina_ai_400.png",
-  "updatedAt": "2025-05-15T04:19:48.488Z"
+  "updatedAt": "2025-05-24T05:16:09.904Z"
 }
