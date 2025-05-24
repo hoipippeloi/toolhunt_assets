@@ -3,16 +3,16 @@
   "name": "KNIME",
   "title": "knime.com",
   "payoff": "Open for Innovation",
-  "shortDescription": "KNIME offers intuitive analytics and AI solutions through visual workflows, catering to users across various industries. It supports complex data operations without the need for coding, making it accessible for both beginners and experienced data scientists. Example use case includes automating data ETL processes, predictive AI, and deploying secure data science solutions.",
+  "shortDescription": "KNIME offers intuitive analytics and AI solutions, catering to users across various industries without requiring extensive IT skills. It enables data-driven decision-making through visual workflows and a vast array of connectors and nodes. Example use case: A pharmaceutical company uses KNIME to develop predictive models for drug efficacy without coding, enhancing speed and accuracy in research.",
   "pros": [
-    "Visual workflow interface",
+    "Intuitive visual workflow interface",
     "Extensive range of connectors and nodes",
-    "No coding required for complex algorithms"
+    "Strong support for citizen data scientists"
   ],
   "cons": [
-    "Steep learning curve for new users",
-    "Performance may vary with complex data sets",
-    "Limited real-time processing capabilities"
+    "May require initial training to master",
+    "Limited real-time processing capabilities",
+    "Potentially overwhelming for new users due to its vast options"
   ],
   "alternatives": [
     "RapidMiner [rapidminer.com]",
@@ -28,19 +28,19 @@
     {
       "name": "Alteryx",
       "url": "alteryx.com",
-      "reason": "Focuses on blending complex data and analytics"
+      "reason": "Focuses on ease of use and integration"
     },
     {
       "name": "Dataiku",
       "url": "dataiku.com",
-      "reason": "Provides end-to-end data science platform"
+      "reason": "Blends data science and machine learning support"
     }
   ],
   "tags": [
     "data analytics",
     "AI",
     "visual workflows",
-    "data integration"
+    "no-code"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.knime.com/",
   "githubUrl": "https://github.com/search?q=knime&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/knime_com.png",
-  "screenshot_640": "/screenshots/knime_com_640.png",
-  "screenshot_400": "/screenshots/knime_com_400.png",
-  "updatedAt": "2025-05-13T03:41:28.833Z"
+  "screenshot": "https://share.appsfor.us/screenshots/knime_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/knime_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/knime_com_400.png",
+  "updatedAt": "2025-05-24T09:37:57.841Z"
 }

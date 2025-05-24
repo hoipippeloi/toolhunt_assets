@@ -3,16 +3,16 @@
   "name": "Kick",
   "title": "kick.co",
   "payoff": "Self-Driving Bookkeeping",
-  "shortDescription": "Kick automates bookkeeping tasks, ensuring real-time transaction categorization and accuracy with expert review. Designed for modern business owners, it simplifies financial management by automating deductions, creating custom revenue lines, and providing insightful financial reports. Ideal for those seeking to streamline financial processes and focus on core business activities.",
+  "shortDescription": "Kick automates bookkeeping tasks for business owners, ensuring real-time transaction categorization and accuracy with expert reviews. It's designed for modern entrepreneurs who need efficient financial management without the hassle. Example use case: A small business owner uses Kick to automate monthly expense tracking and deduction identification, significantly reducing time spent on bookkeeping.",
   "pros": [
-    "Automates complex bookkeeping tasks",
     "Real-time transaction categorization",
-    "Expert review for accuracy"
+    "Expert review for accuracy",
+    "Automates complex bookkeeping tasks"
   ],
   "cons": [
-    "May not support all types of businesses",
-    "Dependent on digital transaction integration",
-    "Potential privacy concerns with financial data"
+    "May not fully replace personal accountants",
+    "Potentially limited customization options",
+    "Dependent on digital financial data inputs"
   ],
   "alternatives": [
     "QuickBooks Online [quickbooks.intuit.com]",
@@ -23,7 +23,7 @@
     {
       "name": "QuickBooks Online",
       "url": "quickbooks.intuit.com",
-      "reason": "Comprehensive bookkeeping solution"
+      "reason": "Widely used for comprehensive accounting"
     },
     {
       "name": "Xero",
@@ -40,20 +40,20 @@
     "bookkeeping",
     "finance automation",
     "SaaS",
-    "financial management"
+    "accounting"
   ],
   "apiUsed": false,
   "department": "Finance & Accounting",
   "function": "Finance",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://kick.co/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=kick&type=repositories",
   "twitterUrl": "https://x.com/kickfinance",
-  "screenshot": "/screenshots/kick_co.png",
-  "screenshot_640": "/screenshots/kick_co_640.png",
-  "screenshot_400": "/screenshots/kick_co_400.png",
-  "updatedAt": "2025-05-10T06:46:08.988Z"
+  "screenshot": "https://share.appsfor.us/screenshots/kick_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kick_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kick_co_400.png",
+  "updatedAt": "2025-05-24T09:27:17.117Z"
 }

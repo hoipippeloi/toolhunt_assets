@@ -2,36 +2,36 @@
   "sourceUrl": "https://ladybird.org/",
   "name": "Ladybird",
   "title": "ladybird.org",
-  "payoff": "A truly independent web browser",
-  "shortDescription": "Ladybird is a new, non-profit backed web browser being developed from scratch. It focuses on rendering the modern web with high performance, stability, and security, without relying on existing browser engines. Initially an HTML viewer for SerenityOS, it now supports multiple Unix-like systems. Ideal for users and developers seeking an open, unmonetized web experience.",
+  "payoff": "Independent, standards-first web browser",
+  "shortDescription": "Ladybird is developing a new web browser focused on performance, stability, and security without user monetization tactics like crypto tokens or default search deals. It's designed for developers and tech enthusiasts interested in a fresh, open-source approach to web browsing. The project encourages collaboration via GitHub and Discord, aiming for an Alpha release in 2026.",
   "pros": [
-    "No default search deals or user monetization",
+    "No user monetization tactics",
     "Open source and community-driven development",
-    "Focus on web standards and security"
+    "Cross-platform support for various Unix-like systems"
   ],
   "cons": [
-    "Still in early development, release expected in 2026",
-    "Limited features compared to established browsers",
-    "Potential lack of compatibility with all web standards initially"
+    "Still in early development stage",
+    "No established user base yet",
+    "Limited features compared to established browsers"
   ],
   "alternatives": [
-    "Firefox [mozilla.org]",
-    "Chromium [chromium.org]",
-    "Safari [apple.com]"
+    "Mozilla Firefox [mozilla.org]",
+    "Google Chrome [google.com/chrome]",
+    "Brave Browser [brave.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Firefox",
+      "name": "Mozilla Firefox",
       "url": "mozilla.org",
-      "reason": "Open source with extensive features"
+      "reason": "Established, open-source browser"
     },
     {
-      "name": "Chromium",
-      "url": "chromium.org",
-      "reason": "Open source and highly customizable"
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Popular with extensive features"
     },
     {
-      "name": "Brave",
+      "name": "Brave Browser",
       "url": "brave.com",
       "reason": "Focus on privacy and ad-blocking"
     }
@@ -40,20 +40,20 @@
     "web browser",
     "open source",
     "non-profit",
-    "security"
+    "web standards"
   ],
   "apiUsed": false,
   "department": "Development",
   "function": "Desktop Software",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2024,
+  "releasedYear": 2026,
   "websiteUrl": "https://ladybird.org/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/LadybirdBrowser/ladybird",
   "twitterUrl": "https://x.com/awesomekling/status/1822236888188498031",
-  "screenshot": "/screenshots/ladybird_org.png",
-  "screenshot_640": "/screenshots/ladybird_org_640.png",
-  "screenshot_400": "/screenshots/ladybird_org_400.png",
-  "updatedAt": "2025-05-12T09:36:54.707Z"
+  "screenshot": "https://share.appsfor.us/screenshots/ladybird_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ladybird_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ladybird_org_400.png",
+  "updatedAt": "2025-05-24T09:39:14.763Z"
 }

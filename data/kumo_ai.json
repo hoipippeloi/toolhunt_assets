@@ -2,58 +2,58 @@
   "sourceUrl": "https://kumo.ai/",
   "name": "Kumo",
   "title": "kumo.ai",
-  "payoff": "AI models for relational data",
-  "shortDescription": "Kumo leverages AI to enhance relational data handling, ideal for businesses with complex data structures. By eliminating the need for feature engineering, Kumo allows companies to deploy AI models quickly, enhancing predictions and embeddings directly from relational databases. An example use case is improving lead scoring models which significantly increase conversion rates.",
+  "payoff": "AI for relational enterprise data",
+  "shortDescription": "Kumo leverages AI to provide instant, no-code predictions from enterprise data. It is designed for business users to interact with data using natural language, without needing ML expertise or complex setups. Example use case includes generating predictive insights for operational efficiency and personalized customer interactions directly from a data warehouse.",
   "pros": [
-    "No feature engineering required",
-    "Fast model deployment (20x faster than traditional methods)",
-    "High accuracy in predictions and embeddings"
+    "Instant predictions with zero setup",
+    "No ML expertise required",
+    "Natural language interaction"
   ],
   "cons": [
-    "Dependence on relational data structures",
-    "Potential complexity in initial integration",
-    "Limited information on customization options"
+    "Dependence on data quality",
+    "Potential privacy concerns",
+    "Limited to relational data"
   ],
   "alternatives": [
-    "TensorFlow [tensorflow.org]",
-    "PyTorch [pytorch.org]",
-    "H2O.ai [h2o.ai]"
+    "DataRobot [datarobot.com]",
+    "H2O.ai [h2o.ai]",
+    "RapidMiner [rapidminer.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "TensorFlow",
-      "url": "tensorflow.org",
-      "reason": "Popular for building custom AI models"
-    },
-    {
-      "name": "PyTorch",
-      "url": "pytorch.org",
-      "reason": "Flexible and powerful for AI research"
+      "name": "DataRobot",
+      "url": "datarobot.com",
+      "reason": "Offers automated machine learning"
     },
     {
       "name": "H2O.ai",
       "url": "h2o.ai",
-      "reason": "Automates ML workflows and scalable"
+      "reason": "Focus on AI with easy scalability"
+    },
+    {
+      "name": "RapidMiner",
+      "url": "rapidminer.com",
+      "reason": "Comprehensive data science platform"
     }
   ],
   "tags": [
     "AI",
-    "Machine Learning",
-    "Data Analytics",
-    "Predictive Modeling"
+    "predictive analytics",
+    "no-code",
+    "data warehousing"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Data & Analytics",
   "function": "AI & ML",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://kumo.ai/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=kumo&type=repositories",
-  "twitterUrl": "https://x.com/Kumo_ai_team",
-  "screenshot": "/screenshots/kumo_ai.png",
-  "screenshot_640": "/screenshots/kumo_ai_640.png",
-  "screenshot_400": "/screenshots/kumo_ai_400.png",
-  "updatedAt": "2025-05-20T04:18:35.484Z"
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/kumo_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kumo_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kumo_ai_400.png",
+  "updatedAt": "2025-05-24T09:38:35.875Z"
 }
