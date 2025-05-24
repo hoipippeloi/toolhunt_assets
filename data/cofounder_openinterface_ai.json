@@ -3,16 +3,16 @@
   "name": "Cofounder",
   "title": "cofounder.openinterface.ai",
   "payoff": "Early alpha release of complex apps",
-  "shortDescription": "Cofounder by OpenInterface is a tool designed to empower developers and innovators by simplifying the creation of complex applications. It is currently in early alpha release, inviting users to sign up for an alpha API key. Ideal for those experimenting with new app ideas, it provides an open-source platform to build, test, and deploy applications efficiently.",
+  "shortDescription": "Cofounder by OpenInterface is designed to empower developers and innovators by providing tools to imagine and build complex applications. It is currently in an early alpha stage, offering users API keys to integrate and test its capabilities. Ideal for developers seeking cutting-edge tools for app development, Cofounder can be used to prototype advanced software solutions efficiently.",
   "pros": [
+    "Early access to new features",
     "Open-source platform",
-    "Early access to alpha release",
-    "API access for developers"
+    "API availability for integration"
   ],
   "cons": [
-    "Still in alpha, potentially unstable",
-    "Limited documentation",
-    "No clear pricing yet"
+    "Still in alpha, may have bugs",
+    "Limited documentation available",
+    "Restricted features in early release"
   ],
   "alternatives": [
     "Retool [retool.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Offers visual programming for apps"
+      "reason": "Visual programming for apps"
     },
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code platform for web apps"
+      "reason": "No-code web app builder"
     },
     {
       "name": "AppGyver",
       "url": "appgyver.com",
-      "reason": "No-code app platform for professionals"
+      "reason": "Low-code app development platform"
     }
   ],
   "tags": [
+    "app development",
     "open source",
-    "alpha release",
     "API",
-    "app development"
+    "alpha release"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/raidendotai/cofounder",
   "twitterUrl": null,
-  "screenshot": "/screenshots/cofounder_openinterface_ai.png",
-  "screenshot_640": "/screenshots/cofounder_openinterface_ai_640.png",
-  "screenshot_400": "/screenshots/cofounder_openinterface_ai_400.png",
-  "updatedAt": "2025-05-12T07:38:24.262Z"
+  "screenshot": "https://share.appsfor.us/screenshots/cofounder_openinterface_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cofounder_openinterface_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cofounder_openinterface_ai_400.png",
+  "updatedAt": "2025-05-24T11:25:55.054Z"
 }

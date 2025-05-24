@@ -2,17 +2,17 @@
   "sourceUrl": "https://clearflask.com/",
   "name": "ClearFlask",
   "title": "clearflask.com",
-  "payoff": "Manage product feedback effectively",
-  "shortDescription": "ClearFlask is a feedback management tool designed for product teams and developers. It allows users to gather, organize, and prioritize product feedback to enhance development and user satisfaction. An example use case is a tech startup using ClearFlask to collect user feedback on a new feature, turning those ideas into tasks, and sharing updates with their community.",
+  "payoff": "Manage product feedback efficiently",
+  "shortDescription": "ClearFlask is a feedback management tool designed for product teams and developers. It enables users to gather, organize, and prioritize product feedback directly from their user community. An example use case is a software development company using ClearFlask to collect user feedback on a new feature, prioritize it, and share development progress with its users.",
   "pros": [
-    "Simple and powerful feedback interface",
-    "Converts ideas into actionable tasks",
-    "Facilitates community engagement with progress sharing"
+    "Open-source and customizable",
+    "Integrates AI for enhanced insights",
+    "Facilitates community engagement"
   ],
   "cons": [
     "May require technical setup",
-    "Limited customization options",
-    "Potentially overwhelming for small teams"
+    "Limited marketing tools integration",
+    "Potentially steep learning curve for non-developers"
   ],
   "alternatives": [
     "UserVoice [uservoice.com]",
@@ -23,26 +23,26 @@
     {
       "name": "UserVoice",
       "url": "uservoice.com",
-      "reason": "Focuses on user feedback for product dev."
+      "reason": "Focuses on user feedback and feature requests"
     },
     {
       "name": "Canny",
       "url": "canny.io",
-      "reason": "Similar features with a clean interface."
+      "reason": "Similar feedback tool with roadmap features"
     },
     {
       "name": "Productboard",
       "url": "productboard.com",
-      "reason": "Comprehensive product management suite."
+      "reason": "Comprehensive product management platform"
     }
   ],
   "tags": [
-    "feedback management",
-    "product development",
+    "user feedback",
+    "product management",
     "open source",
-    "community engagement"
+    "AI"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Product Management",
   "function": "User Feedback",
   "freeTier": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.clearflask.com",
   "githubUrl": "https://github.com/clearflask/clearflask",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/clearflask_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/clearflask_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/clearflask_com_400.png",
-  "updatedAt": "2025-05-24T11:06:31.950Z"
+  "screenshot": "/screenshots/clearflask_com.png",
+  "screenshot_640": "/screenshots/clearflask_com_640.png",
+  "screenshot_400": "/screenshots/clearflask_com_400.png",
+  "updatedAt": "2025-05-20T04:19:30.143Z"
 }
