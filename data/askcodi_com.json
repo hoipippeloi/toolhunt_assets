@@ -3,15 +3,15 @@
   "name": "AskCodi",
   "title": "askcodi.com",
   "payoff": "Making Coding Simple",
-  "shortDescription": "AskCodi is an AI-powered code assistant designed to simplify the coding process for developers. It supports multiple programming languages and frameworks, offering features like AI-powered documentation, smart commit messages, and instant error resolution. Ideal for developers looking to enhance productivity, an example use case could be a software team using AskCodi to streamline their code review processes and debug efficiently.",
+  "shortDescription": "AskCodi is an AI-powered code assistant designed to simplify the coding process for developers across various languages and frameworks. It offers features like AI-powered documentation, smart commit messages, instant error resolution, and a code review assistant. Ideal for developers looking to enhance productivity, AskCodi can be integrated into existing workflows with tools like VSCode, making it a seamless addition to any development environment.",
   "pros": [
-    "Supports multiple programming languages",
     "Integrates with popular IDEs like VSCode",
-    "Offers real-time coding assistance"
+    "Supports multiple programming languages and frameworks",
+    "Provides AI-powered code completions and debugging"
   ],
   "cons": [
     "May not support all programming languages",
-    "Dependent on AI accuracy",
+    "Dependent on AI accuracy for suggestions",
     "Potential privacy concerns with code access"
   ],
   "alternatives": [
@@ -40,7 +40,7 @@
     "AI",
     "coding",
     "software development",
-    "productivity"
+    "IDE integration"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=askcodi&type=repositories",
   "twitterUrl": "https://twitter.com/askcodi",
-  "screenshot": "https://share.appsfor.us/screenshots/askcodi_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/askcodi_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/askcodi_com_400.png",
-  "updatedAt": "2025-05-24T10:28:49.398Z"
+  "screenshot": "/screenshots/askcodi_com.png",
+  "screenshot_640": "/screenshots/askcodi_com_640.png",
+  "screenshot_400": "/screenshots/askcodi_com_400.png",
+  "updatedAt": "2025-05-19T05:16:55.962Z"
 }

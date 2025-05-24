@@ -3,15 +3,15 @@
   "name": "Bracket",
   "title": "docs.bracketapp.nl",
   "payoff": "Free open-source tournament management",
-  "shortDescription": "Bracket is a robust tournament management system designed for anyone needing to organize competitive events. It allows users to build setups, schedule matches, and track scores, all while presenting live rankings to the public. This tool is ideal for sports leagues, e-sports events, and other competitive gatherings. With features like drag-and-drop match scheduling and support for multiple tournament types, Bracket simplifies the management process without sacrificing flexibility.",
+  "shortDescription": "Bracket is a tournament management system designed to help organizers set up and manage their events with ease. It supports various tournament formats like swiss, single elimination, and round-robin. Users can schedule matches, update scores, and display rankings live. Ideal for sports leagues, e-sports events, or any competitive event organizers looking for a flexible, cost-effective solution. With its open-source nature, Bracket ensures no vendor lock-in and full control over data.",
   "pros": [
     "Open-source and free to use",
-    "Flexible tournament setup and management",
-    "Live public display of schedules and rankings"
+    "Supports multiple tournament formats",
+    "Live score tracking and public rankings"
   ],
   "cons": [
-    "Limited user support typical of free tools",
-    "May require technical skill to deploy and customize",
+    "Limited user support",
+    "May require technical knowledge to deploy",
     "Lesser-known compared to commercial products"
   ],
   "alternatives": [
@@ -23,17 +23,17 @@
     {
       "name": "Challonge",
       "url": "challonge.com",
-      "reason": "Offers similar tournament management features"
+      "reason": "Offers similar tournament tools with a focus on ease of use."
     },
     {
       "name": "Battlefy",
       "url": "battlefy.com",
-      "reason": "Focuses on e-sports with robust features"
+      "reason": "Focuses on e-sports with robust integration options."
     },
     {
       "name": "Smash.gg",
       "url": "smash.gg",
-      "reason": "Popular in gaming communities for tournaments"
+      "reason": "Popular in gaming communities with extensive features."
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Project Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://docs.bracketapp.nl/",
   "documentationUrl": "https://docs.bracketapp.nl/",
   "githubUrl": "https://github.com/evroon/bracket",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/docs_bracketapp_nl.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/docs_bracketapp_nl_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/docs_bracketapp_nl_400.png",
-  "updatedAt": "2025-05-24T12:09:27.447Z"
+  "screenshot": "/screenshots/docs_bracketapp_nl.png",
+  "screenshot_640": "/screenshots/docs_bracketapp_nl_640.png",
+  "screenshot_400": "/screenshots/docs_bracketapp_nl_400.png",
+  "updatedAt": "2025-05-23T16:18:44.359Z"
 }

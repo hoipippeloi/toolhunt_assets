@@ -2,17 +2,17 @@
   "sourceUrl": "https://chartbrew.com/",
   "name": "Chartbrew",
   "title": "chartbrew.com",
-  "payoff": "Client reports for your team",
-  "shortDescription": "Chartbrew offers an intuitive platform for teams to create, manage, and share interactive data reports and dashboards. It's designed for businesses needing real-time insights across various data sources, making it ideal for client reporting and internal analytics. Example use case: A marketing agency utilizes Chartbrew to generate customized performance reports for each client, enhancing transparency and decision-making.",
+  "payoff": "Client reports for your team and clients",
+  "shortDescription": "Chartbrew offers an intuitive platform for creating and sharing interactive reports and dashboards from various data sources. It is designed for teams and clients in need of dynamic, real-time data visualization and reporting. An example use case is a marketing team using Chartbrew to track campaign performance across multiple channels, enabling quick decision-making and report sharing with stakeholders.",
   "pros": [
     "Easy integration with multiple data sources",
-    "Real-time updates and interactive dashboards",
-    "Robust security and access controls"
+    "Real-time data visualization and updates",
+    "Robust security and access controls for multi-client management"
   ],
   "cons": [
-    "Limited to SQL databases and MongoDB",
-    "May require initial setup time",
-    "Dependent on third-party data integrations"
+    "May require familiarity with SQL and MongoDB for advanced features",
+    "Dependent on third-party data integrations",
+    "Potential learning curve for non-technical users"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -23,22 +23,22 @@
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Popular for visual analytics"
+      "reason": "Popular for visual analytics and BI"
     },
     {
       "name": "Power BI",
       "url": "powerbi.com",
-      "reason": "Strong in business intelligence"
+      "reason": "Microsoft's integration and BI tool"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Good for big data integration"
+      "reason": "Google's BI platform, deep integrations"
     }
   ],
   "tags": [
     "data visualization",
-    "client reporting",
+    "reporting",
     "dashboard",
     "analytics"
   ],
@@ -52,8 +52,8 @@
   "documentationUrl": "https://chartbrew.com/documentation",
   "githubUrl": "https://github.com/chartbrew/chartbrew",
   "twitterUrl": "https://twitter.com/chartbrew",
-  "screenshot": "/screenshots/chartbrew_com.png",
-  "screenshot_640": "/screenshots/chartbrew_com_640.png",
-  "screenshot_400": "/screenshots/chartbrew_com_400.png",
-  "updatedAt": "2025-05-10T07:36:04.887Z"
+  "screenshot": "https://share.appsfor.us/screenshots/chartbrew_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chartbrew_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chartbrew_com_400.png",
+  "updatedAt": "2025-05-24T11:04:25.070Z"
 }

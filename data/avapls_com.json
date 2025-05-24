@@ -2,58 +2,58 @@
   "sourceUrl": "https://avapls.com/",
   "name": "Ava PLS",
   "title": "avapls.com",
-  "payoff": "Run language models locally",
-  "shortDescription": "Ava PLS is an open-source desktop application designed to run language models directly on your computer. It features a comprehensive GUI built on llama.cpp, making it ideal for developers and researchers who prefer local operations over cloud solutions. Users can download the latest builds from GitHub or compile the source code themselves using Zig, enhancing flexibility and control over the installation process.",
+  "payoff": "Run language models locally with ease",
+  "shortDescription": "Ava PLS is an open-source desktop application designed to facilitate the local operation of language models. It features a comprehensive GUI, built on llama.cpp, making it accessible for developers and researchers. Users can download the latest builds or compile the source code themselves using Zig. This tool is ideal for those who need to run AI models without relying on cloud services, providing a more secure and private environment.",
   "pros": [
     "Open-source and customizable",
-    "Local processing for privacy and control",
-    "Flexible build and deployment options"
+    "Local processing for privacy",
+    "Includes a user-friendly GUI"
   ],
   "cons": [
-    "Requires manual setup and configuration",
-    "Limited support and community compared to larger platforms",
-    "Potentially higher local resource requirements"
+    "Requires manual setup and installation",
+    "Limited to desktop environments",
+    "May require technical knowledge to build"
   ],
   "alternatives": [
     "TensorFlow [tensorflow.org]",
     "PyTorch [pytorch.org]",
-    "Hugging Face Transformers [huggingface.co]"
+    "Hugging Face [huggingface.co]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "TensorFlow",
       "url": "tensorflow.org",
-      "reason": "Popular for machine learning models"
+      "reason": "Popular framework for machine learning"
     },
     {
       "name": "PyTorch",
       "url": "pytorch.org",
-      "reason": "Flexible and widely used in research"
+      "reason": "Flexible and powerful ML library"
     },
     {
-      "name": "Hugging Face Transformers",
+      "name": "Hugging Face",
       "url": "huggingface.co",
-      "reason": "Provides pre-trained models and APIs"
+      "reason": "Offers pre-built models and hosting"
     }
   ],
   "tags": [
     "open source",
     "desktop software",
-    "language models",
-    "development"
+    "AI & ML",
+    "local processing"
   ],
   "apiUsed": false,
   "department": "Research & Development",
-  "function": "Desktop Software",
-  "freeTier": false,
+  "function": "AI & ML",
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://avapls.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/just-the-docs/just-the-docs",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/avapls_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/avapls_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/avapls_com_400.png",
-  "updatedAt": "2025-05-24T10:32:24.697Z"
+  "screenshot": "/screenshots/avapls_com.png",
+  "screenshot_640": "/screenshots/avapls_com_640.png",
+  "screenshot_400": "/screenshots/avapls_com_400.png",
+  "updatedAt": "2025-05-14T05:16:55.881Z"
 }

@@ -2,58 +2,58 @@
   "sourceUrl": "https://bsky.app/",
   "name": "Bluesky",
   "title": "bsky.app",
-  "payoff": "Explore the new digital sky",
-  "shortDescription": "Bluesky is a cutting-edge platform designed to revolutionize how individuals and businesses interact with cloud-based services. It offers a range of solutions from data storage to efficient collaboration tools, making it ideal for startups and enterprises alike. An example use case is a small business utilizing Bluesky to streamline their operations and enhance team collaboration remotely.",
+  "payoff": "Explore decentralized social networking",
+  "shortDescription": "Bluesky is a decentralized social networking platform designed to empower users with control over their data and interactions. It offers a unique approach to social media by leveraging blockchain technology, allowing for enhanced privacy and user autonomy. Ideal for individuals seeking alternatives to traditional social media giants, Bluesky provides a platform where users can connect, share, and communicate with security and transparency.",
   "pros": [
-    "Enhanced collaboration features",
-    "Scalable cloud-based solutions",
-    "User-friendly interface"
+    "Enhanced user privacy",
+    "Decentralized control",
+    "Blockchain-based security"
   ],
   "cons": [
-    "Limited customization options",
-    "Potential data privacy concerns",
-    "Dependence on internet connectivity"
+    "Limited user base",
+    "Complex for average users",
+    "Dependence on network growth"
   ],
   "alternatives": [
-    "Google Cloud Platform [cloud.google.com]",
-    "Microsoft Azure [azure.microsoft.com]",
-    "AWS [aws.amazon.com]"
+    "Mastodon [joinmastodon.org]",
+    "Peertube [joinpeertube.org]",
+    "Diaspora [diasporafoundation.org]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Google Cloud Platform",
-      "url": "cloud.google.com",
-      "reason": "Offers extensive cloud services"
+      "name": "Mastodon",
+      "url": "joinmastodon.org",
+      "reason": "Open-source, decentralized social network"
     },
     {
-      "name": "Microsoft Azure",
-      "url": "azure.microsoft.com",
-      "reason": "Wide range of integrated cloud tools"
+      "name": "Peertube",
+      "url": "joinpeertube.org",
+      "reason": "Decentralized video hosting network"
     },
     {
-      "name": "AWS",
-      "url": "aws.amazon.com",
-      "reason": "Leader in cloud computing services"
+      "name": "Diaspora",
+      "url": "diasporafoundation.org",
+      "reason": "Privacy-aware, decentralized network"
     }
   ],
   "tags": [
-    "cloud services",
-    "collaboration",
-    "data storage",
-    "SaaS"
+    "social media",
+    "decentralized",
+    "blockchain",
+    "privacy"
   ],
   "apiUsed": true,
   "department": "Information Technology",
-  "function": "Cloud Platform",
+  "function": "Social Media",
   "freeTier": true,
-  "openSource": false,
-  "releasedYear": 2021,
+  "openSource": true,
+  "releasedYear": 2019,
   "websiteUrl": "https://bsky.app/",
-  "documentationUrl": "https://bsky.app/docs",
+  "documentationUrl": "https://docs.bsky.app",
   "githubUrl": "https://github.com/search?q=bluesky&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/bsky_app.png",
-  "screenshot_640": "/screenshots/bsky_app_640.png",
-  "screenshot_400": "/screenshots/bsky_app_400.png",
-  "updatedAt": "2025-05-14T03:39:39.568Z"
+  "screenshot": "https://share.appsfor.us/screenshots/bsky_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bsky_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bsky_app_400.png",
+  "updatedAt": "2025-05-24T11:02:24.304Z"
 }
