@@ -3,16 +3,16 @@
   "name": "Julep AI",
   "title": "julep.ai",
   "payoff": "Deploy AI workflows at scale",
-  "shortDescription": "Julep AI enables users to create and deploy serverless AI workflows quickly and efficiently. It is designed for developers and businesses looking to integrate AI into their operations without extensive infrastructure. An example use case is a tech company automating their data processing tasks, reducing development time from months to weeks.",
+  "shortDescription": "Julep AI enables users to build and deploy serverless AI workflows quickly and efficiently. It connects with any AI model, API, or data source, making it ideal for developers and businesses looking to scale their AI operations. An example use case is a marketing team automating data analysis to enhance campaign strategies.",
   "pros": [
-    "Rapid deployment of AI workflows",
-    "Scalable to millions of tasks",
-    "Supports various AI models and APIs"
+    "Build and deploy AI workflows quickly",
+    "Connects with any AI model or API",
+    "Scalable to millions of tasks"
   ],
   "cons": [
-    "May require technical knowledge to set up",
-    "Dependent on external data sources and APIs",
-    "Limited customization in free tier"
+    "May require initial technical knowledge",
+    "Dependent on external AI models and APIs",
+    "Limited information on security measures"
   ],
   "alternatives": [
     "Zapier [zapier.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Offers workflow automation with easy integration"
+      "reason": "Offers broader workflow automation"
     },
     {
       "name": "Vercel",
       "url": "vercel.com",
-      "reason": "Focuses on deployment and scaling of web projects"
+      "reason": "Focuses on deployment and scaling"
     },
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Provides tools for building internal applications quickly"
+      "reason": "Provides rapid development tools"
     }
   ],
   "tags": [
@@ -45,15 +45,15 @@
   "apiUsed": true,
   "department": "Development",
   "function": "Automation",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://julep.ai/",
-  "documentationUrl": "https://julep.ai/docs",
+  "documentationUrl": "https://github.com/julep-ai",
   "githubUrl": "https://github.com/julep-ai/julep",
   "twitterUrl": "https://x.com/julep_ai",
   "screenshot": "/screenshots/julep_ai.png",
   "screenshot_640": "/screenshots/julep_ai_640.png",
   "screenshot_400": "/screenshots/julep_ai_400.png",
-  "updatedAt": "2025-05-10T06:45:11.485Z"
+  "updatedAt": "2025-05-24T08:42:36.513Z"
 }

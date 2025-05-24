@@ -3,16 +3,16 @@
   "name": "Julius AI",
   "title": "julius.ai",
   "payoff": "Expert AI-driven data analysis",
-  "shortDescription": "Julius AI combines the functionalities of Excel, Python, and ChatGPT into a single, powerful tool designed to provide expert-level data analysis. Users can upload files to generate graphs, clean, merge, and sort data, and ask complex questions to gain deep insights. Ideal for knowledge workers in various industries, it simplifies data handling and enhances decision-making processes.",
+  "shortDescription": "Julius AI combines the capabilities of Excel, Python, and ChatGPT into a single tool that provides expert-level data analysis. Users can simply drag and drop their data files into the platform, ask questions, and receive insights through charts, tables, or comprehensive reports. This tool is ideal for teams in various sectors, such as academic institutions and research labs, to efficiently analyze large datasets and derive actionable insights.",
   "pros": [
     "Integrates Excel, Python, and ChatGPT",
-    "Generates graphs and charts automatically",
-    "Offers a free starting tier"
+    "Fast results, providing insights in seconds",
+    "User-friendly with drag-and-drop functionality"
   ],
   "cons": [
     "May require data privacy considerations",
-    "Limited to English language support",
-    "Potentially complex for beginners"
+    "Dependent on the quality of input data",
+    "Potentially limited customization for advanced users"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -28,7 +28,7 @@
     {
       "name": "Microsoft Power BI",
       "url": "powerbi.com",
-      "reason": "Integrates with MS products"
+      "reason": "Comprehensive business intelligence tool"
     },
     {
       "name": "Google Data Studio",
@@ -47,7 +47,7 @@
   "function": "Analytics",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://julius.ai/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/caesarHQ",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/julius_ai.png",
   "screenshot_640": "/screenshots/julius_ai_640.png",
   "screenshot_400": "/screenshots/julius_ai_400.png",
-  "updatedAt": "2025-05-09T09:55:51.181Z"
+  "updatedAt": "2025-05-24T08:42:53.183Z"
 }
