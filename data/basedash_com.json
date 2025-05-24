@@ -2,17 +2,17 @@
   "sourceUrl": "https://basedash.com/",
   "name": "Basedash",
   "title": "basedash.com",
-  "payoff": "AI-native Business Intelligence",
-  "shortDescription": "Basedash is an AI-native business intelligence platform that allows users to connect directly to their databases or warehouses. Users can quickly build dashboards and query data using simple chat commands. It's ideal for teams in analytics, sales, marketing, and operations who need to generate insights without deep technical knowledge of database schemas.",
+  "payoff": "AI-native BI Platform",
+  "shortDescription": "Basedash is an AI-native business intelligence platform that connects directly to your database or warehouse. It allows users to build dashboards and query data effortlessly. Ideal for non-technical users, Basedash enables the creation of beautiful dashboards and visualizations without needing to know SQL or data models. An example use case is a marketing team quickly setting up sales dashboards to track performance.",
   "pros": [
-    "AI-powered querying simplifies data interaction",
-    "Direct connection to databases and warehouses",
-    "No need for deep technical knowledge"
+    "AI-driven data interaction",
+    "No SQL knowledge required",
+    "Rapid dashboard setup"
   ],
   "cons": [
+    "Limited customization options",
     "Dependent on database connectivity",
-    "May not support all types of databases",
-    "Limited customizability of AI responses"
+    "May not support all data types"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -28,32 +28,32 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Strong in big data integration"
+      "reason": "Offers robust BI capabilities"
     },
     {
       "name": "Power BI",
       "url": "powerbi.com",
-      "reason": "Microsoft integration and scaling"
+      "reason": "Integration with Microsoft products"
     }
   ],
   "tags": [
-    "Business Intelligence",
+    "business intelligence",
+    "data visualization",
     "AI",
-    "Data Visualization",
-    "Dashboards"
+    "dashboard"
   ],
   "apiUsed": false,
   "department": "Data & Analytics",
   "function": "Analytics",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://basedash.com/",
   "documentationUrl": "https://basedash.com/docs",
   "githubUrl": "https://github.com/search?q=basedash&type=repositories",
   "twitterUrl": "https://x.com/Basedash",
-  "screenshot": "/screenshots/basedash_com.png",
-  "screenshot_640": "/screenshots/basedash_com_640.png",
-  "screenshot_400": "/screenshots/basedash_com_400.png",
-  "updatedAt": "2025-05-20T02:58:51.367Z"
+  "screenshot": "https://share.appsfor.us/screenshots/basedash_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/basedash_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/basedash_com_400.png",
+  "updatedAt": "2025-05-24T10:40:12.743Z"
 }
