@@ -3,37 +3,37 @@
   "name": "coblocks",
   "title": "coblocks.ai",
   "payoff": "Build data pipelines with AI",
-  "shortDescription": "coblocks simplifies the creation of data pipelines, catering to both developers and non-technical users. It integrates seamlessly with popular apps and data warehouses, such as Stripe, HubSpot, Postgres, and Snowflake. Users can quickly deploy pipelines, utilize AI-enhanced features like cursor-level autocomplete, and manage team collaboration efficiently. Example use case: A company uses coblocks to automate data ingestion and transformation, enhancing real-time data analysis.",
+  "shortDescription": "coblocks simplifies the creation of data pipelines, integrating AI to enhance efficiency and ease of use. It is designed for developers and data professionals, welcoming both Python enthusiasts and spreadsheet experts. Users can quickly deploy pipelines, integrate with popular apps like Stripe and HubSpot, and manage data warehousing with ease. An example use case is automating data flows between SaaS platforms and databases, reducing manual coding and setup time.",
   "pros": [
-    "AI-enhanced automation features",
-    "One-click integrations with popular services",
-    "Efficient team collaboration and version control"
+    "One-click integrations and built-in orchestration",
+    "AI-enhanced features like cursor-level autocomplete",
+    "Templates for reusable logic and fast deployment"
   ],
   "cons": [
-    "Potential complexity for non-technical users",
-    "Dependence on third-party integrations",
-    "Limited customization in certain areas"
+    "May require initial learning curve for non-technical users",
+    "Dependent on third-party integrations for full functionality",
+    "Potential limitations in customization for complex use cases"
   ],
   "alternatives": [
     "Airflow [airflow.apache.org]",
-    "Talend [talend.com]",
+    "n8n.io [n8n.io]",
     "Apache NiFi [nifi.apache.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Airflow",
       "url": "airflow.apache.org",
-      "reason": "Popular for customizable workflows"
+      "reason": "Extensive workflow orchestration"
     },
     {
-      "name": "Talend",
-      "url": "talend.com",
-      "reason": "Strong in data integration and management"
+      "name": "n8n.io",
+      "url": "n8n.io",
+      "reason": "Visual workflow automation"
     },
     {
       "name": "Apache NiFi",
       "url": "nifi.apache.org",
-      "reason": "Focuses on dataflow automation"
+      "reason": "Dataflow management system"
     }
   ],
   "tags": [
@@ -50,10 +50,10 @@
   "releasedYear": 2021,
   "websiteUrl": "https://coblocks.ai/",
   "documentationUrl": "https://coblocks.ai/docs",
-  "githubUrl": "https://github.com/coblocks",
+  "githubUrl": "https://github.com/search?q=coblocks&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/coblocks_ai.png",
-  "screenshot_640": "/screenshots/coblocks_ai_640.png",
-  "screenshot_400": "/screenshots/coblocks_ai_400.png",
-  "updatedAt": "2025-05-10T07:13:59.464Z"
+  "screenshot": "https://share.appsfor.us/screenshots/coblocks_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/coblocks_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/coblocks_ai_400.png",
+  "updatedAt": "2025-05-24T11:14:39.485Z"
 }

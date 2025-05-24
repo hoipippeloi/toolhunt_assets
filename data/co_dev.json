@@ -3,16 +3,16 @@
   "name": "Codev",
   "title": "co.dev",
   "payoff": "Build Full-Stack Apps Fast",
-  "shortDescription": "Codev is a platform designed to help developers quickly create full-stack web applications. It supports deployment to custom domains and offers a variety of templates like SaaS, restaurant, and news styles. Users can choose from leading AI models for enhanced functionality. Ideal for developers looking to streamline app development and deployment.",
+  "shortDescription": "Codev is a revolutionary platform that enables users to quickly build and deploy full-stack web applications. It's designed for developers who want to bring their app ideas to life without the complexities of traditional software development. Users can deploy apps directly to their custom domains, with features like automatic SSL, one-click setup, and full ownership of the code. Ideal for creating SaaS, restaurant, or news templates.",
   "pros": [
     "Rapid full-stack app development",
-    "Supports multiple AI models",
-    "Easy deployment to custom domains"
+    "One-click domain deployment with SSL",
+    "Full ownership of source code"
   ],
   "cons": [
-    "Limited customization options",
-    "Dependent on third-party AI models",
-    "May not support all programming languages"
+    "Limited to web applications",
+    "Dependent on third-party models",
+    "May require coding knowledge"
   ],
   "alternatives": [
     "Bubble [bubble.io]",
@@ -23,24 +23,24 @@
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code development with visual tools"
+      "reason": "No-code platform for web apps"
     },
     {
       "name": "Webflow",
       "url": "webflow.com",
-      "reason": "Combines design, animation, and hosting"
+      "reason": "Design and launch dynamic sites"
     },
     {
       "name": "AppGyver",
       "url": "appgyver.com",
-      "reason": "Free no-code app builder for developers"
+      "reason": "Low-code app development platform"
     }
   ],
   "tags": [
-    "AI",
-    "web development",
-    "app builder",
-    "SaaS"
+    "app development",
+    "SaaS",
+    "web applications",
+    "AI integration"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=codev&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/co_dev.png",
-  "screenshot_640": "/screenshots/co_dev_640.png",
-  "screenshot_400": "/screenshots/co_dev_400.png",
-  "updatedAt": "2025-05-16T01:09:28.149Z"
+  "screenshot": "https://share.appsfor.us/screenshots/co_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/co_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/co_dev_400.png",
+  "updatedAt": "2025-05-24T11:13:17.822Z"
 }

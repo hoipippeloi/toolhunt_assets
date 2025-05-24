@@ -3,16 +3,16 @@
   "name": "Cline",
   "title": "cline.bot",
   "payoff": "Amplify developer impact",
-  "shortDescription": "Cline is an AI-powered coding assistant designed to enhance the productivity of engineering teams. It integrates seamlessly with VS Code, offering features that accelerate development processes. Developers can leverage Cline to manage large codebases, automate repetitive tasks, and explore innovative solutions efficiently. Ideal for teams looking to improve coding efficiency and reduce time to market.",
+  "shortDescription": "Cline is an AI-powered coding agent integrated within VS Code, designed to enhance the productivity of engineering teams. It serves as a collaborative AI partner that is both open source and fully extensible. Developers can leverage Cline to handle entire repositories, boosting coding productivity by automating routine tasks and suggesting innovative solutions. An example use case is a developer using Cline to expedite the development of new software features, significantly reducing the time from concept to deployment.",
   "pros": [
     "Fully collaborative and extensible",
     "Significantly boosts coding productivity",
-    "Supports entire repositories"
+    "Handles entire repositories effectively"
   ],
   "cons": [
-    "Requires VS Code installation",
-    "May have a learning curve for new users",
-    "Dependent on continuous updates for new features"
+    "May require initial learning curve",
+    "Dependent on VS Code environment",
+    "Potential privacy concerns with AI"
   ],
   "alternatives": [
     "Visual Studio Code [code.visualstudio.com]",
@@ -21,26 +21,26 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Visual Studio Code",
-      "url": "code.visualstudio.com",
-      "reason": "Popular IDE with extensible features"
-    },
-    {
       "name": "Atom",
       "url": "atom.io",
-      "reason": "Open source and customizable editor"
+      "reason": "Open-source editor with extensible plugins"
     },
     {
       "name": "Sublime Text",
       "url": "sublimetext.com",
-      "reason": "Fast and feature-rich code editor"
+      "reason": "Fast, customizable code editor"
+    },
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Highly extensible, popular IDE"
     }
   ],
   "tags": [
     "AI",
     "coding",
     "open source",
-    "productivity"
+    "VS Code"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://cline.bot/docs",
   "githubUrl": "https://github.com/cline/cline",
   "twitterUrl": null,
-  "screenshot": "/screenshots/cline_bot.png",
-  "screenshot_640": "/screenshots/cline_bot_640.png",
-  "screenshot_400": "/screenshots/cline_bot_400.png",
-  "updatedAt": "2025-05-09T12:27:23.709Z"
+  "screenshot": "https://share.appsfor.us/screenshots/cline_bot.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cline_bot_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cline_bot_400.png",
+  "updatedAt": "2025-05-24T11:11:17.870Z"
 }
