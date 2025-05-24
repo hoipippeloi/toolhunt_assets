@@ -2,17 +2,17 @@
   "sourceUrl": "https://gravitydata.co/",
   "name": "Gravity Data",
   "title": "gravitydata.co",
-  "payoff": "Scalable ETL for the modern data stack",
-  "shortDescription": "Gravity Data offers a robust ETL platform designed to simplify data integration across various sources and destinations. It's tailored for businesses needing efficient data replication without extensive coding. Users can quickly set up connections, benefit from pre-built connectors, and manage data flows with real-time monitoring. An example use case is a financial institution automating data transfer between internal databases and cloud-based analytics tools.",
+  "payoff": "Fastest ETL Platform",
+  "shortDescription": "Gravity Data offers a modern ETL platform designed for seamless data integration across various sources and destinations. It's tailored for businesses needing efficient data replication without extensive coding. Users can enjoy features like pre-built connectors and real-time monitoring, making it ideal for data analysts and IT departments. Example use case: A company uses Gravity Data to automate data transfer from CRM to a data warehouse, enhancing their analytics capabilities.",
   "pros": [
-    "Easy to use with pre-built connectors",
+    "Pre-built connectors for easy setup",
     "Real-time monitoring and alerts",
-    "Flexible and scalable pricing"
+    "Scalable and cost-effective"
   ],
   "cons": [
     "Limited customization options",
     "Dependent on third-party integrations",
-    "May not support all data sources"
+    "May require initial setup assistance"
   ],
   "alternatives": [
     "Fivetran [fivetran.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Fivetran",
       "url": "fivetran.com",
-      "reason": "Offers similar ETL services with more connectors"
+      "reason": "Offers extensive connector support"
     },
     {
       "name": "Stitch Data",
       "url": "stitchdata.com",
-      "reason": "Focuses on simpler, smaller scale integrations"
+      "reason": "Flexible, scalable ETL service"
     },
     {
       "name": "Talend",
       "url": "talend.com",
-      "reason": "Provides broad data management solutions"
+      "reason": "Rich feature set and customization"
     }
   ],
   "tags": [
     "ETL",
     "data integration",
     "data replication",
-    "scalability"
+    "real-time analytics"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2018,
   "websiteUrl": "https://gravitydata.co/",
-  "documentationUrl": "https://gravitydata.co/docs",
+  "documentationUrl": "https://docs.gravitydata.co/",
   "githubUrl": "https://github.com/search?q=gravity%20data&type=repositories",
   "twitterUrl": "https://twitter.com/DataWith5x",
   "screenshot": "/screenshots/gravitydata_co.png",
   "screenshot_640": "/screenshots/gravitydata_co_640.png",
   "screenshot_400": "/screenshots/gravitydata_co_400.png",
-  "updatedAt": "2025-05-13T04:44:58.431Z"
+  "updatedAt": "2025-05-24T03:35:44.712Z"
 }

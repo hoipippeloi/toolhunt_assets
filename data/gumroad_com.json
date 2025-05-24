@@ -3,16 +3,16 @@
   "name": "Gumroad",
   "title": "gumroad.com",
   "payoff": "Earn your first dollar online",
-  "shortDescription": "Gumroad simplifies online selling for creators, enabling them to monetize their skills and products. Ideal for artists, writers, and designers, it offers tools to sell various digital goods like ebooks, courses, and art. Users can start with simple products and expand to subscriptions or complex offerings, leveraging Gumroad's easy setup and integration capabilities.",
+  "shortDescription": "Gumroad simplifies online selling for creators and artists. It allows users to sell a variety of products such as ebooks, software, and art. An example use case is an artist selling digital brushes, transitioning from a side gig to a primary income source, as seen with MaxPacks. Gumroad supports various payment models and integrates with numerous apps via Zapier.",
   "pros": [
-    "Easy to set up and use",
-    "Supports a variety of digital products",
-    "Flexible pricing models"
+    "Supports various payment models",
+    "Easy integration with other apps",
+    "No tech expertise required to start"
   ],
   "cons": [
     "Limited customization options",
-    "Higher fees compared to some competitors",
-    "Lacks advanced analytics"
+    "Dependent on third-party integrations",
+    "May not scale well for large businesses"
   ],
   "alternatives": [
     "Shopify [shopify.com]",
@@ -28,32 +28,32 @@
     {
       "name": "Patreon",
       "url": "patreon.com",
-      "reason": "Focuses on subscription-based monetization"
+      "reason": "Focus on subscriptions and memberships"
     },
     {
       "name": "Sellfy",
       "url": "sellfy.com",
-      "reason": "Strong in digital and physical goods sales"
+      "reason": "Strong in digital goods and print on demand"
     }
   ],
   "tags": [
     "E-commerce",
     "Digital Sales",
-    "Content Monetization",
-    "Subscription Management"
+    "Creator Economy",
+    "Payment Processing"
   ],
   "apiUsed": true,
   "department": "Sales",
   "function": "E-commerce",
   "freeTier": true,
-  "openSource": false,
+  "openSource": true,
   "releasedYear": 2011,
   "websiteUrl": "https://gumroad.com/",
   "documentationUrl": "https://help.gumroad.com",
-  "githubUrl": "https://github.com/search?q=gumroad&type=repositories",
+  "githubUrl": "https://github.com/antiwork/gumroad",
   "twitterUrl": "https://x.com/gumroad",
   "screenshot": "/screenshots/gumroad_com.png",
   "screenshot_640": "/screenshots/gumroad_com_640.png",
   "screenshot_400": "/screenshots/gumroad_com_400.png",
-  "updatedAt": "2025-05-19T03:04:13.075Z"
+  "updatedAt": "2025-05-24T03:36:01.378Z"
 }

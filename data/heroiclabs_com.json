@@ -3,44 +3,44 @@
   "name": "Heroic Labs",
   "title": "heroiclabs.com",
   "payoff": "Scale your game with Heroic Cloud",
-  "shortDescription": "Heroic Labs provides a robust game development stack and managed cloud services tailored for game developers. It features Nakama, an open-source server for social and online games, and Satori, a toolkit for building meta game features. Ideal for developers aiming to enhance multiplayer and social interactions in games, Heroic Labs has been instrumental in the success of games like Star Wars: Hunters and Magic Brick Wars.",
+  "shortDescription": "Heroic Labs provides a robust game development stack and cloud platform, primarily designed for game developers. It offers tools like Nakama, an open source game server, and Satori for real-time gameplay management. Developers can deploy and scale games on Heroic Cloud, ensuring high performance and reliability. Example use case: A gaming company uses Heroic Labs to manage multiplayer interactions and live events, enhancing player engagement.",
   "pros": [
     "Comprehensive game development stack",
-    "Managed cloud services for scalability",
-    "Open-source with extensive documentation"
+    "Supports real-time multiplayer interactions",
+    "Scalable managed cloud platform"
   ],
   "cons": [
-    "May be complex for beginners",
-    "Primarily focused on gaming",
-    "Limited customization in managed solutions"
+    "May require technical expertise to implement",
+    "Focused primarily on gaming, less versatile for non-gaming",
+    "Potential higher cost for high-scale usage"
   ],
   "alternatives": [
-    "PlayFab [playfab.com]",
-    "GameSparks [gamesparks.com]",
-    "Photon Engine [photonengine.com]"
+    "Unity [unity.com]",
+    "Unreal Engine [unrealengine.com]",
+    "PlayFab [playfab.com]"
   ],
   "aiSuggestedAlternatives": [
     {
+      "name": "Unity",
+      "url": "unity.com",
+      "reason": "Offers a comprehensive game dev environment"
+    },
+    {
+      "name": "Unreal Engine",
+      "url": "unrealengine.com",
+      "reason": "High-end graphics and broad platform support"
+    },
+    {
       "name": "PlayFab",
       "url": "playfab.com",
-      "reason": "Offers backend services for games"
-    },
-    {
-      "name": "GameSparks",
-      "url": "gamesparks.com",
-      "reason": "Provides cloud-based game services"
-    },
-    {
-      "name": "Photon Engine",
-      "url": "photonengine.com",
-      "reason": "Real-time multiplayer game server"
+      "reason": "Cloud-based backend platform for games"
     }
   ],
   "tags": [
     "game development",
-    "cloud services",
-    "open source",
-    "scalability"
+    "cloud platform",
+    "multiplayer server",
+    "real-time interactions"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2015,
   "websiteUrl": "https://heroiclabs.com/",
-  "documentationUrl": "https://heroiclabs.com/docs",
+  "documentationUrl": "https://heroiclabs.com/documentation",
   "githubUrl": "https://github.com/heroiclabs/",
   "twitterUrl": "https://twitter.com/heroicdev",
   "screenshot": "/screenshots/heroiclabs_com.png",
   "screenshot_640": "/screenshots/heroiclabs_com_640.png",
   "screenshot_400": "/screenshots/heroiclabs_com_400.png",
-  "updatedAt": "2025-05-12T10:17:45.002Z"
+  "updatedAt": "2025-05-24T03:36:22.531Z"
 }
