@@ -3,16 +3,16 @@
   "name": "HeyGen",
   "title": "heygen.com",
   "payoff": "Turn text to video in minutes",
-  "shortDescription": "HeyGen is an AI-powered video generator that allows users to create unlimited videos without needing a camera. It's designed for marketers, creators, and businesses looking to enhance their digital content. Users can clone themselves, use stock avatars, or generate new ones with AI, making it ideal for creating engaging and personalized video content quickly. Example use case: A marketing team uses HeyGen to create a series of promotional videos in multiple languages, featuring AI-generated avatars that resemble their team.",
+  "shortDescription": "HeyGen is an AI-powered video generator that allows users to create unlimited videos without a camera. It's designed for content creators, marketers, and businesses looking to enhance their digital presence. Users can clone themselves, use stock avatars, or generate new ones with AI. An example use case is a marketer creating multilingual product videos quickly to reach a global audience.",
   "pros": [
     "Unlimited AI video creation",
     "No camera needed",
-    "Multilingual video translation"
+    "Supports multiple languages"
   ],
   "cons": [
-    "Dependence on AI accuracy",
+    "May lack personal touch of human-created videos",
     "Potential privacy concerns with avatar cloning",
-    "Limited editing capabilities"
+    "Dependent on text quality for output"
   ],
   "alternatives": [
     "Synthesia [synthesia.io]",
@@ -23,12 +23,12 @@
     {
       "name": "Synthesia",
       "url": "synthesia.io",
-      "reason": "Offers customizable AI avatars"
+      "reason": "Offers customizable AI video avatars"
     },
     {
       "name": "Descript",
       "url": "descript.com",
-      "reason": "Includes video editing and AI tools"
+      "reason": "Combines video editing with AI tools"
     },
     {
       "name": "Lumen5",
@@ -47,7 +47,7 @@
   "function": "AI & ML",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2023,
+  "releasedYear": 2025,
   "websiteUrl": "https://heygen.com/",
   "documentationUrl": "https://help.heygen.com/en/?sid=no_sid",
   "githubUrl": "https://github.com/search?q=heygen&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/heygen_com.png",
   "screenshot_640": "/screenshots/heygen_com_640.png",
   "screenshot_400": "/screenshots/heygen_com_400.png",
-  "updatedAt": "2025-05-12T14:30:25.646Z"
+  "updatedAt": "2025-05-24T04:19:07.497Z"
 }

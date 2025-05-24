@@ -3,16 +3,16 @@
   "name": "Hex",
   "title": "hex.tech",
   "payoff": "Bring everyone together with data",
-  "shortDescription": "Hex is a collaborative, AI-powered workspace designed for data teams. It integrates various data workflows into a single platform, supporting SQL, Python, and R. Users can perform everything from simple queries to creating interactive data apps. An example use case includes ClickUp using Hex to enhance customer retention through data science.",
+  "shortDescription": "Hex is a collaborative, AI-powered workspace designed for data teams. It integrates various data workflows into a single platform, supporting SQL, Python, R, and more. Users can go from simple queries to complex analyses and build interactive data apps. Example use case: ClickUp utilized Hex to enhance a data science project into a comprehensive customer retention program.",
   "pros": [
-    "Supports multiple programming languages",
+    "Supports SQL, Python, R in one platform",
     "AI-powered features for enhanced data analysis",
-    "Strong collaboration tools within a single workspace"
+    "Strong collaboration and interactive reporting tools"
   ],
   "cons": [
-    "May be complex for beginners",
-    "Dependent on integrations for full functionality",
-    "Potential high cost for enterprise use"
+    "May require technical knowledge to fully utilize",
+    "Potential complexity with integrations",
+    "Limited information on pricing transparency"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -28,26 +28,26 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Offers extensive BI capabilities"
+      "reason": "Offers robust BI and big data analytics"
     },
     {
-      "name": "Power BI",
-      "url": "powerbi.com",
-      "reason": "Integrates well with Microsoft products"
+      "name": "Databricks",
+      "url": "databricks.com",
+      "reason": "Integrates AI and machine learning"
     }
   ],
   "tags": [
     "data analysis",
     "collaboration",
     "AI",
-    "visualization"
+    "reporting"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
   "function": "Analytics",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2019,
   "websiteUrl": "https://hex.tech/",
   "documentationUrl": "https://docs.hex.tech",
   "githubUrl": "https://github.com/search?q=hex&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/hex_tech.png",
   "screenshot_640": "/screenshots/hex_tech_640.png",
   "screenshot_400": "/screenshots/hex_tech_400.png",
-  "updatedAt": "2025-05-15T04:46:37.477Z"
+  "updatedAt": "2025-05-24T04:17:43.926Z"
 }
