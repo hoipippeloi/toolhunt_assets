@@ -3,16 +3,16 @@
   "name": "ingestr",
   "title": "bruin-data.github.io/ingestr",
   "payoff": "Copy data between any source and destination",
-  "shortDescription": "ingestr is a versatile command-line tool designed for data professionals. It facilitates the transfer of data from any source to any destination database efficiently. Users can perform both full-refresh and incremental data loads using a single command. This tool is ideal for database administrators and developers who need to regularly update or migrate data across various database systems.",
+  "shortDescription": "ingestr is a versatile command-line tool designed for data professionals seeking to streamline data transfer processes. It enables users to copy data from any source to any destination database with a single command. Ideal for database administrators and developers, ingestr supports both full-refresh and incremental loading, making it suitable for various data management tasks. Example use case: A company could use ingestr to migrate customer data from legacy systems to a modern cloud database efficiently.",
   "pros": [
     "Supports multiple source and destination databases",
-    "Single command operation simplifies processes",
+    "Single command operation simplifies use",
     "Supports both full-refresh and incremental loading"
   ],
   "cons": [
     "Command-line interface may not be user-friendly for all",
     "Lack of a graphical user interface",
-    "Potential compatibility issues with less common databases"
+    "Potential compatibility issues with very specific databases"
   ],
   "alternatives": [
     "Talend [talend.com]",
@@ -23,28 +23,28 @@
     {
       "name": "Talend",
       "url": "talend.com",
-      "reason": "Offers a graphical interface and rich features."
+      "reason": "Offers graphical interface and rich features"
     },
     {
       "name": "Apache NiFi",
       "url": "nifi.apache.org",
-      "reason": "Focuses on automated data flows."
+      "reason": "Provides real-time data streaming and processing"
     },
     {
       "name": "Stitch Data",
       "url": "stitchdata.com",
-      "reason": "Cloud-based platform for easier setup."
+      "reason": "Focuses on simplicity and integration with SaaS tools"
     }
   ],
   "tags": [
-    "data migration",
-    "database management",
+    "data transfer",
     "command-line tool",
-    "data integration"
+    "database management",
+    "data ingestion"
   ],
   "apiUsed": false,
   "department": "Data & Analytics",
-  "function": "Data Sync",
+  "function": "Databases",
   "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://bruin-data.github.io/ingestr/docs",
   "githubUrl": "https://github.com/bruin-data/ingestr",
   "twitterUrl": null,
-  "screenshot": "/screenshots/bruin_data_github_io.png",
-  "screenshot_640": "/screenshots/bruin_data_github_io_640.png",
-  "screenshot_400": "/screenshots/bruin_data_github_io_400.png",
-  "updatedAt": "2025-05-20T01:08:26.167Z"
+  "screenshot": "https://share.appsfor.us/screenshots/bruin_data_github_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bruin_data_github_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bruin_data_github_io_400.png",
+  "updatedAt": "2025-05-24T10:58:47.388Z"
 }

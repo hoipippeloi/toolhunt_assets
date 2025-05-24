@@ -2,43 +2,43 @@
   "sourceUrl": "https://block.github.io/goose/",
   "name": "Goose",
   "title": "block.github.io/goose",
-  "payoff": "Automate engineering tasks seamlessly.",
-  "shortDescription": "Goose is a local AI agent designed to automate a variety of engineering tasks, from debugging to deployment. It is built with transparency and collaboration in mind, allowing developers to contribute and customize freely. An example use case involves creating custom CLI commands to handle specific tasks, such as downloading in-line comments on PRs, which showcases its ability to simplify complex processes.",
+  "payoff": "Automating engineering tasks seamlessly",
+  "shortDescription": "Goose is a local AI agent designed to automate a variety of engineering tasks, from debugging to deployment. It is built with transparency, allowing developers to contribute and customize freely. An example use case involves a software engineer using Goose to automate the creation of Google Scripts, significantly reducing manual effort and time.",
   "pros": [
     "Runs locally for efficient task execution",
     "Highly customizable with external API connectivity",
-    "Supports complex autonomous operations"
+    "Open source with community-driven enhancements"
   ],
   "cons": [
-    "Requires technical knowledge to set up and customize",
-    "Dependent on local system resources",
-    "Limited by the capabilities of connected APIs"
+    "Requires technical expertise to set up and use",
+    "Limited to engineering and development tasks",
+    "Dependent on local system resources"
   ],
   "alternatives": [
-    "Retool [retool.com]",
     "Zapier [zapier.com]",
-    "Integromat [integromat.com]"
+    "IFTTT [ifttt.com]",
+    "Microsoft Power Automate [powerautomate.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Retool",
-      "url": "retool.com",
-      "reason": "Offers visual programming for apps"
-    },
-    {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Connects apps with workflows"
+      "reason": "Offers broader automation across apps"
     },
     {
-      "name": "Integromat",
-      "url": "integromat.com",
-      "reason": "Visual builder for automations"
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple automation for personal use"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Deep integration with Microsoft products"
     }
   ],
   "tags": [
-    "AI",
     "automation",
+    "AI",
     "open source",
     "software development"
   ],
@@ -47,13 +47,13 @@
   "function": "Automation",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://block.github.io/goose/",
   "documentationUrl": "https://block.github.io/goose/docs",
   "githubUrl": "https://github.com/block/goose",
   "twitterUrl": "https://x.com/blockopensource",
-  "screenshot": "https://share.appsfor.us/screenshots/block_github_io.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/block_github_io_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/block_github_io_400.png",
-  "updatedAt": "2025-05-24T10:51:49.571Z"
+  "screenshot": "/screenshots/block_github_io.png",
+  "screenshot_640": "/screenshots/block_github_io_640.png",
+  "screenshot_400": "/screenshots/block_github_io_400.png",
+  "updatedAt": "2025-05-12T15:18:34.216Z"
 }

@@ -2,17 +2,17 @@
   "sourceUrl": "https://browserbase.com/",
   "name": "Browserbase",
   "title": "browserbase.com",
-  "payoff": "Efficient AI web browsing platform",
-  "shortDescription": "Browserbase is a robust platform designed to facilitate web browsing for AI agents and applications. It provides a scalable infrastructure to manage headless browsers efficiently, allowing developers to focus on building innovative solutions without worrying about underlying browser management. An example use case includes automating web interactions for data scraping or testing web applications at scale.",
+  "payoff": "Web browsing for AI applications",
+  "shortDescription": "Browserbase is a platform designed to facilitate web browsing for AI agents and applications. It provides a robust infrastructure to manage and monitor headless browsers at scale, allowing developers to focus on building applications without worrying about the underlying browser management. An example use case is a company automating data extraction from web sources using AI, leveraging Browserbase to handle thousands of browser instances seamlessly.",
   "pros": [
     "Scalable serverless infrastructure",
-    "Integration with major browser automation frameworks",
+    "Integration with major frameworks like Playwright",
     "Global browser locations for reduced latency"
   ],
   "cons": [
     "Costs can escalate with increased usage",
-    "Limited customization options for browser environments",
-    "Dependence on third-party frameworks for full functionality"
+    "Limited customization of browser instances",
+    "Dependence on third-party infrastructure"
   ],
   "alternatives": [
     "Puppeteer [pptr.dev]",
@@ -23,7 +23,7 @@
     {
       "name": "Puppeteer",
       "url": "pptr.dev",
-      "reason": "Direct control over Chrome, less overhead"
+      "reason": "Direct control over Chrome or Chromium"
     },
     {
       "name": "Selenium",
@@ -33,27 +33,27 @@
     {
       "name": "Playwright",
       "url": "playwright.dev",
-      "reason": "Modern, fast, supports all browsers"
+      "reason": "Modern tool with cross-browser support"
     }
   ],
   "tags": [
     "web scraping",
     "AI",
-    "automation",
-    "cloud platform"
+    "headless browser",
+    "automation"
   ],
   "apiUsed": true,
   "department": "Development",
   "function": "Web Scraping",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://browserbase.com/",
   "documentationUrl": "https://browserbase.com/docs",
   "githubUrl": "https://github.com/browserbase",
   "twitterUrl": "https://x.com/JacobColling/status/1876736737969389995",
-  "screenshot": "/screenshots/browserbase_com.png",
-  "screenshot_640": "/screenshots/browserbase_com_640.png",
-  "screenshot_400": "/screenshots/browserbase_com_400.png",
-  "updatedAt": "2025-05-12T09:36:29.216Z"
+  "screenshot": "https://share.appsfor.us/screenshots/browserbase_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/browserbase_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/browserbase_com_400.png",
+  "updatedAt": "2025-05-24T10:58:15.045Z"
 }

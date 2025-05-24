@@ -3,27 +3,27 @@
   "name": "Beekeeper Studio",
   "title": "beekeeperstudio.io",
   "payoff": "Dream SQL Editor & Database Manager",
-  "shortDescription": "Beekeeper Studio is a versatile SQL editor and database management tool designed for developers and database administrators. It supports multiple database types and offers features like SQL auto-completion, table editing, and data export options. Users can manage databases efficiently with features such as SSL encryption, SSH tunneling, and the ability to open multiple tabs for various tasks. An example use case is a developer managing and querying databases without switching between different tools.",
+  "shortDescription": "Beekeeper Studio is a versatile SQL editor and database management tool designed for developers and database administrators. It supports multiple database types and offers features like SQL auto-completion, table editing, and data export. Users can manage databases efficiently with features such as SSL encryption, SSH tunneling, and the ability to open multiple tabs for various tasks. An example use case is a developer managing and querying databases without switching between different tools, enhancing productivity and data security.",
   "pros": [
     "Supports multiple database types",
     "Intuitive user interface",
-    "Open source and privacy-focused"
+    "Advanced SQL editing features"
   ],
   "cons": [
-    "Limited advanced analytics features",
-    "No built-in collaboration tools",
-    "May require technical knowledge for advanced features"
+    "Limited customizability",
+    "No built-in data visualization tools",
+    "Potential learning curve for beginners"
   ],
   "alternatives": [
     "DBeaver [dbeaver.io]",
     "TablePlus [tableplus.com]",
-    "SQLyog [webyog.com]"
+    "DataGrip [jetbrains.com/datagrip]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "DBeaver",
       "url": "dbeaver.io",
-      "reason": "Feature-rich and supports many databases"
+      "reason": "Offers extensive database support"
     },
     {
       "name": "TablePlus",
@@ -31,16 +31,16 @@
       "reason": "Modern GUI and high customizability"
     },
     {
-      "name": "SQLyog",
-      "url": "webyog.com",
-      "reason": "Powerful tools for MySQL optimization"
+      "name": "DataGrip",
+      "url": "jetbrains.com/datagrip",
+      "reason": "Integrated with other JetBrains tools"
     }
   ],
   "tags": [
     "SQL editor",
     "database management",
     "open source",
-    "data export"
+    "data security"
   ],
   "apiUsed": false,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.beekeeperstudio.io",
   "githubUrl": "https://github.com/beekeeper-studio/beekeeper-studio/blob/master/code_of_conduct.md",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/beekeeperstudio_io.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/beekeeperstudio_io_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/beekeeperstudio_io_400.png",
-  "updatedAt": "2025-05-24T10:48:31.709Z"
+  "screenshot": "/screenshots/beekeeperstudio_io.png",
+  "screenshot_640": "/screenshots/beekeeperstudio_io_640.png",
+  "screenshot_400": "/screenshots/beekeeperstudio_io_400.png",
+  "updatedAt": "2025-05-12T10:17:09.475Z"
 }

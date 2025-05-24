@@ -2,22 +2,22 @@
   "sourceUrl": "https://blissbox.life/",
   "name": "BlissBox",
   "title": "blissbox.life",
-  "payoff": "Preserve memories digitally with ease",
-  "shortDescription": "BlissBox is a digital platform designed to capture and preserve memories for any occasion. Users can create a 'memory box' to collect messages, photos, and appreciations from events like weddings, retreats, or family gatherings. It's ideal for event organizers, families, or anyone looking to keep memories alive in a unique, digital format. Example: A wedding where guests can leave digital notes and photos that can be revisited years later.",
+  "payoff": "Capture and treasure memories",
+  "shortDescription": "BlissBox is a digital platform designed to capture and preserve memories from various events such as weddings, team buildings, and family reunions. Users can create a 'memory box' where guests can leave messages and photos. This tool is ideal for event organizers, families, or anyone looking to create a lasting digital keepsake of special occasions.",
   "pros": [
     "Easy to use and accessible",
-    "Allows instant photo uploads with messages",
+    "Supports instant photo uploads in messages",
     "Messages can be sealed and opened later"
   ],
   "cons": [
     "Limited customization options",
     "Dependent on internet access",
-    "No mobile app available"
+    "No offline capabilities"
   ],
   "alternatives": [
     "Kudoboard [kudoboard.com]",
     "Tribute [tribute.co]",
-    "GreetPool [greetpool.com]"
+    "Gather [gather.town]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,29 +31,29 @@
       "reason": "Focuses on video testimonials"
     },
     {
-      "name": "GreetPool",
-      "url": "greetpool.com",
-      "reason": "Similar to digital guestbook with photo options"
+      "name": "Gather",
+      "url": "gather.town",
+      "reason": "Adds virtual spaces to memory sharing"
     }
   ],
   "tags": [
-    "memory preservation",
-    "digital guestbook",
+    "digital memory box",
     "event management",
-    "user engagement"
+    "guestbook",
+    "memory preservation"
   ],
   "apiUsed": false,
   "department": "Marketing",
   "function": "User Engagement",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://blissbox.life/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=blissbox&type=repositories",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/blissbox_life.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/blissbox_life_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/blissbox_life_400.png",
-  "updatedAt": "2025-05-24T10:51:15.011Z"
+  "screenshot": "/screenshots/blissbox_life.png",
+  "screenshot_640": "/screenshots/blissbox_life_640.png",
+  "screenshot_400": "/screenshots/blissbox_life_400.png",
+  "updatedAt": "2025-05-14T01:07:12.003Z"
 }
