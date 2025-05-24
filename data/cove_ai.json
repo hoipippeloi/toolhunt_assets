@@ -3,21 +3,21 @@
   "name": "Cove",
   "title": "cove.ai",
   "payoff": "AI-driven collaborative workspace",
-  "shortDescription": "Cove is an innovative AI tool designed to enhance collaboration and productivity across various domains such as personal planning, work, education, and more. Unlike traditional chatbots, Cove integrates AI into a shared workspace, allowing users to interact with AI-generated content like text, tables, and apps. Example use case: Creating a personalized itinerary for a trip to Austin.",
+  "shortDescription": "Cove is a new type of AI collaborator designed to enhance personal and professional productivity across various domains such as work, travel, and education. Unlike traditional chatbots, Cove integrates AI into a shared workspace, allowing users to interactively build off each other's ideas. For example, it can help lower utility bills by creating interactive apps tailored to user's specific needs.",
   "pros": [
-    "Creates personalized AI apps on demand",
+    "Creates personalized interactive apps",
     "Supports a wide range of content types",
-    "Facilitates collaborative idea development"
+    "Enhances collaborative workspaces with AI"
   ],
   "cons": [
-    "May require a learning curve",
-    "Dependent on the quality of LLMs",
-    "Potential privacy concerns with shared workspaces"
+    "May have a learning curve for new users",
+    "Dependent on the quality of underlying LLMs",
+    "Potential privacy concerns with data handling"
   ],
   "alternatives": [
     "Notion [notion.so]",
     "Airtable [airtable.com]",
-    "Coda [coda.io]"
+    "Monday.com [monday.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,9 +31,9 @@
       "reason": "Database meets spreadsheet functionality"
     },
     {
-      "name": "Coda",
-      "url": "coda.io",
-      "reason": "Docs that blend text and apps together"
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Project management with automation"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "AI & ML",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2022,
+  "releasedYear": 2023,
   "websiteUrl": "https://cove.ai/",
   "documentationUrl": "https://help.cove.ai/",
   "githubUrl": "https://github.com/search?q=cove&type=repositories",
   "twitterUrl": "https://x.com/trycoveai",
-  "screenshot": "/screenshots/cove_ai.png",
-  "screenshot_640": "/screenshots/cove_ai_640.png",
-  "screenshot_400": "/screenshots/cove_ai_400.png",
-  "updatedAt": "2025-05-11T04:45:39.887Z"
+  "screenshot": "https://share.appsfor.us/screenshots/cove_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cove_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cove_ai_400.png",
+  "updatedAt": "2025-05-24T11:34:37.962Z"
 }

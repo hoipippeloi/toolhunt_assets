@@ -2,17 +2,17 @@
   "sourceUrl": "https://courselit.app/",
   "name": "CourseLit",
   "title": "courselit.app",
-  "payoff": "Open-source alternative to major platforms",
-  "shortDescription": "CourseLit is an open-source platform designed to simplify the creation and management of online courses and digital products. Targeted at educators and creators, it allows users to build courses enriched with multimedia and sell digital products like ebooks directly from their own websites. An integrated blog and SEO tools are included to enhance user engagement and visibility.",
+  "payoff": "Open-source alternative to SaaS giants",
+  "shortDescription": "CourseLit is an open-source platform designed to help creators sell online courses and digital downloads directly from their own website. It eliminates the need for multiple software integrations, simplifying the process of running an online school. Creators can enrich their courses with multimedia content and either offer them for free or charge for access. Ideal for educators and content creators looking to maintain control over their content and monetization.",
   "pros": [
-    "Open-source and customizable",
+    "Open-source flexibility",
     "Integrated marketing and SEO tools",
-    "All-in-one platform for courses and digital sales"
+    "Free hosting for websites"
   ],
   "cons": [
-    "May require technical skills for setup",
     "Limited third-party integrations",
-    "Support might be less comprehensive than paid alternatives"
+    "Potentially steep learning curve",
+    "Support might be limited compared to paid products"
   ],
   "alternatives": [
     "Thinkific [thinkific.com]",
@@ -23,27 +23,27 @@
     {
       "name": "Thinkific",
       "url": "thinkific.com",
-      "reason": "Popular for customizable course creation"
+      "reason": "Comprehensive course builder with support"
     },
     {
       "name": "Teachable",
       "url": "teachable.com",
-      "reason": "Focuses on ease of use and user engagement"
+      "reason": "Popular for user-friendly interfaces"
     },
     {
       "name": "Podia",
       "url": "podia.com",
-      "reason": "Offers integrated digital storefronts"
+      "reason": "Offers memberships and webinars"
     }
   ],
   "tags": [
-    "e-learning",
-    "content management",
-    "digital sales",
-    "open source"
+    "E-learning",
+    "Content management",
+    "Digital sales",
+    "Open source"
   ],
   "apiUsed": false,
-  "department": "Education",
+  "department": "Content",
   "function": "E-Learning",
   "freeTier": true,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.courselit.app/",
   "githubUrl": "https://github.com/codelitdev/courselit",
   "twitterUrl": "https://twitter.com/courselit",
-  "screenshot": "/screenshots/courselit_app.png",
-  "screenshot_640": "/screenshots/courselit_app_640.png",
-  "screenshot_400": "/screenshots/courselit_app_400.png",
-  "updatedAt": "2025-05-22T04:20:29.455Z"
+  "screenshot": "https://share.appsfor.us/screenshots/courselit_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/courselit_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/courselit_app_400.png",
+  "updatedAt": "2025-05-24T11:33:17.702Z"
 }
