@@ -3,44 +3,44 @@
   "name": "Crustdata",
   "title": "crustdata.com",
   "payoff": "Real-time B2B data solutions",
-  "shortDescription": "Crustdata provides real-time data on companies and individuals, ideal for businesses looking to enhance their AI capabilities. It allows users to build lists, enrich them with live data, and target accurately. Example use case: A sales team uses Crustdata to keep their CRM updated with the latest information on potential leads, ensuring they never miss an opportunity.",
+  "shortDescription": "Crustdata offers real-time data brokerage services, targeting businesses and AI developers. It provides up-to-date company and people data, which can be integrated via API or data feeds. Users can keep their systems like CRM and ATS refreshed with live data, aiding in areas such as sales, investment screening, and competitor tracking. An example use case is AI companies using Crustdata to power their intelligence layers with fresh, actionable data.",
   "pros": [
-    "Provides real-time data updates",
-    "Supports AI-driven decision making",
-    "Monthly refreshed bulk data delivery"
+    "Real-time data updates",
+    "Monthly refreshed bulk data",
+    "API and data feed integration"
   ],
   "cons": [
-    "Data may be overwhelming without proper filters",
-    "Monthly refresh might not be sufficient for some users",
-    "High dependency on external data sources"
+    "Data may be overwhelming to manage",
+    "Potential privacy concerns",
+    "Dependent on external data sources"
   ],
   "alternatives": [
-    "ZoomInfo [zoominfo.com]",
     "Clearbit [clearbit.com]",
+    "ZoomInfo [zoominfo.com]",
     "DiscoverOrg [discoverorg.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "ZoomInfo",
-      "url": "zoominfo.com",
-      "reason": "Offers detailed B2B contact data"
-    },
-    {
       "name": "Clearbit",
       "url": "clearbit.com",
-      "reason": "Provides real-time data enrichment"
+      "reason": "Provides similar real-time data services"
+    },
+    {
+      "name": "ZoomInfo",
+      "url": "zoominfo.com",
+      "reason": "Offers extensive B2B contact data"
     },
     {
       "name": "DiscoverOrg",
       "url": "discoverorg.com",
-      "reason": "Focuses on high-quality data for sales"
+      "reason": "Focuses on high-quality business insights"
     }
   ],
   "tags": [
     "B2B data",
-    "real-time data",
-    "data broker",
-    "API"
+    "real-time",
+    "API",
+    "data feed"
   ],
   "apiUsed": true,
   "department": "Sales",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2024,
   "websiteUrl": "https://crustdata.com/",
-  "documentationUrl": "https://crustdata.com/docs",
+  "documentationUrl": "https://docs.crustdata.com/api/#tag/people-api/GET/screener/person/enrich",
   "githubUrl": "https://github.com/search?q=crustdata&type=repositories",
   "twitterUrl": "https://x.com/crustdata",
-  "screenshot": "/screenshots/crustdata_com.png",
-  "screenshot_640": "/screenshots/crustdata_com_640.png",
-  "screenshot_400": "/screenshots/crustdata_com_400.png",
-  "updatedAt": "2025-05-10T05:41:10.343Z"
+  "screenshot": "https://share.appsfor.us/screenshots/crustdata_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/crustdata_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/crustdata_com_400.png",
+  "updatedAt": "2025-05-24T11:44:30.880Z"
 }

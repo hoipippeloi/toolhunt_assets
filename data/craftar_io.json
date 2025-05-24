@@ -3,16 +3,16 @@
   "name": "Craftar",
   "title": "craftar.io",
   "payoff": "Craft Automations Visually With No-Code",
-  "shortDescription": "Craftar is a visual programming platform that enables users to automate workflows without coding. It's designed for businesses and individuals who need to streamline operations efficiently. Users can drag and drop logic blocks to create custom automations, integrate APIs, and deploy with a single click. Example use case: A small business could use Craftar to automate their customer service responses and order processing.",
+  "shortDescription": "Craftar is a visual programming tool designed to simplify workflow automation without requiring coding skills. Users can connect blocks to automate tasks, leveraging a drag-and-drop interface that supports scalable deployments. Ideal for businesses looking to enhance efficiency, Craftar allows for easy creation of custom APIs and integration of pre-built automations. Example use case: A small business can streamline order processing by automating data entry and verification steps.",
   "pros": [
-    "No-code automation setup",
-    "Scalable infrastructure",
-    "Pay-as-you-go pricing model"
+    "No-code visual programming interface",
+    "Scalable with pay-as-you-go pricing",
+    "Modular automations that can be reused as APIs"
   ],
   "cons": [
+    "May not suit complex coding needs",
     "Limited control compared to full coding",
-    "May not cover all niche integrations",
-    "Dependent on platform's longevity and support"
+    "Dependent on the platform for updates and features"
   ],
   "alternatives": [
     "Zapier [zapier.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Popular for easy integrations and automation."
+      "reason": "Wide range of integrations and triggers"
     },
     {
       "name": "Integromat",
       "url": "integromat.com",
-      "reason": "Offers visual integration builder."
+      "reason": "Visual approach with deeper logic control"
     },
     {
-      "name": "Automate.io",
-      "url": "automate.io",
-      "reason": "Focus on business process automation."
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Strong enterprise integration and AI features"
     }
   ],
   "tags": [
-    "no-code",
     "automation",
-    "workflow management",
-    "visual programming"
+    "no-code",
+    "workflow",
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://craftar.io/docs",
   "githubUrl": "https://github.com/search?q=craftar&type=repositories",
   "twitterUrl": "https://twitter.com/Craftario",
-  "screenshot": "https://share.appsfor.us/screenshots/craftar_io.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/craftar_io_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/craftar_io_400.png",
-  "updatedAt": "2025-05-24T11:35:20.674Z"
+  "screenshot": "/screenshots/craftar_io.png",
+  "screenshot_640": "/screenshots/craftar_io_640.png",
+  "screenshot_400": "/screenshots/craftar_io_400.png",
+  "updatedAt": "2025-05-15T02:53:58.712Z"
 }

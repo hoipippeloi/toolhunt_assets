@@ -2,17 +2,17 @@
   "sourceUrl": "https://copycoder.ai/",
   "name": "CopyCoder",
   "title": "copycoder.ai",
-  "payoff": "Build apps faster with AI",
-  "shortDescription": "CopyCoder is designed for the next generation of AI coders, enabling them to transform UI mockups, custom designs, or application images into actionable development prompts. Ideal for developers and designers, this tool simplifies the app creation process by allowing users to drag and drop images to generate coding prompts, significantly reducing development time and enhancing productivity.",
+  "payoff": "Build apps faster with AI prompts",
+  "shortDescription": "CopyCoder is designed for the new generation of AI coders, enabling them to transform images of applications, UI mockups, or custom designs into actionable coding prompts. Users can simply drag and drop images to start creating their applications more efficiently. This tool is ideal for developers looking to streamline their workflow and enhance productivity by leveraging AI capabilities in app development.",
   "pros": [
-    "Streamlines the app development process",
+    "Streamlines app development",
     "Supports image-based prompt generation",
-    "Enhances productivity for developers"
+    "Enhances developer productivity"
   ],
   "cons": [
-    "Requires email verification",
-    "Limited to image inputs for prompts",
-    "No clear pricing information available"
+    "Limited to image inputs",
+    "May require technical understanding",
+    "Dependent on image quality"
   ],
   "alternatives": [
     "Retool [retool.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Offers visual development environments"
+      "reason": "Offers visual programming for apps"
     },
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code platform for app creation"
+      "reason": "No-code app development platform"
     },
     {
       "name": "AppGyver",
       "url": "appgyver.com",
-      "reason": "Low-code platform for professionals"
+      "reason": "Visual builder for web and mobile apps"
     }
   ],
   "tags": [
     "AI",
     "app development",
-    "image processing",
-    "productivity"
+    "productivity",
+    "image processing"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=copycoder&type=repositories",
   "twitterUrl": "https://x.com/CopyCoderAI",
-  "screenshot": "https://share.appsfor.us/screenshots/copycoder_ai.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/copycoder_ai_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/copycoder_ai_400.png",
-  "updatedAt": "2025-05-24T11:31:52.791Z"
+  "screenshot": "/screenshots/copycoder_ai.png",
+  "screenshot_640": "/screenshots/copycoder_ai_640.png",
+  "screenshot_400": "/screenshots/copycoder_ai_400.png",
+  "updatedAt": "2025-05-08T11:22:17.580Z"
 }

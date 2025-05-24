@@ -3,16 +3,16 @@
   "name": "Crisp",
   "title": "crisp.chat",
   "payoff": "Unified Business Messaging Platform",
-  "shortDescription": "Crisp combines multiple communication channels into a single platform, enhancing customer support, sales, and marketing efforts. It integrates live chat, email, and social messaging into a unified inbox powered by AI and automation. This setup allows teams to manage conversations efficiently and deliver personalized customer experiences. Example use case: A retail company uses Crisp to handle customer inquiries and automate responses, reducing response time and increasing customer satisfaction.",
+  "shortDescription": "Crisp combines multiple communication channels into a single platform, enhancing customer support, sales, and marketing efforts. It integrates live chat, email, and social messaging into a unified inbox powered by AI and automation, making it easier for teams to manage and respond to customer inquiries efficiently. An example use case is a company using Crisp to handle customer support queries and automate responses, reducing workload and improving response times.",
   "pros": [
     "Unified communication channels",
-    "AI-driven automations",
+    "AI-driven automation and workflows",
     "Extensive integration options"
   ],
   "cons": [
-    "Potential learning curve for new users",
-    "May require customization for specific needs",
-    "Dependence on third-party integrations"
+    "Can be overwhelming for small teams",
+    "Potentially high learning curve",
+    "Limited customization in lower plans"
   ],
   "alternatives": [
     "Intercom [intercom.com]",
@@ -23,28 +23,28 @@
     {
       "name": "Intercom",
       "url": "intercom.com",
-      "reason": "Offers personalized communication"
+      "reason": "Offers targeted communication"
     },
     {
       "name": "Zendesk",
       "url": "zendesk.com",
-      "reason": "Widely used for customer support"
+      "reason": "Widely adopted with strong support"
     },
     {
       "name": "Freshdesk",
       "url": "freshdesk.com",
-      "reason": "Integrates multiple support channels"
+      "reason": "Focus on streamlined user experience"
     }
   ],
   "tags": [
-    "customer service",
-    "messaging",
+    "customer support",
     "AI",
+    "messaging",
     "automation"
   ],
   "apiUsed": true,
   "department": "Customer Service",
-  "function": "Messaging",
+  "function": "Customer Relations",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2015,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://help.crisp.chat/en/",
   "githubUrl": "https://github.com/crisp-im",
   "twitterUrl": "https://twitter.com/crisp_im",
-  "screenshot": "/screenshots/crisp_chat.png",
-  "screenshot_640": "/screenshots/crisp_chat_640.png",
-  "screenshot_400": "/screenshots/crisp_chat_400.png",
-  "updatedAt": "2025-05-10T04:16:36.464Z"
+  "screenshot": "https://share.appsfor.us/screenshots/crisp_chat.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/crisp_chat_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/crisp_chat_400.png",
+  "updatedAt": "2025-05-24T11:43:06.647Z"
 }

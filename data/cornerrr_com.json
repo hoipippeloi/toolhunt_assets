@@ -3,37 +3,37 @@
   "name": "Cornerrr",
   "title": "cornerrr.com",
   "payoff": "Build your online store with ease",
-  "shortDescription": "Cornerrr enables users to create stunning e-commerce websites without coding knowledge. It integrates seamlessly with Stripe for payment processing, making it ideal for small to medium-sized businesses looking to sell online. Users can choose from a variety of themes and enjoy features like inventory management and responsive design, making it easy to start and scale their online store.",
+  "shortDescription": "Cornerrr enables users to create stunning e-commerce websites without needing coding skills. It integrates seamlessly with Stripe for easy payment processing, making it ideal for small to medium-sized businesses looking to expand their online presence. Users can choose from a variety of themes and enjoy features like inventory management and responsive design, perfect for selling anything from furniture to handmade crafts.",
   "pros": [
-    "Easy integration with Stripe for payments",
-    "No coding required for website setup",
-    "Supports multiple payment methods and currencies"
+    "No coding required for setup",
+    "Supports multiple payment methods and currencies",
+    "Customizable themes and responsive design"
   ],
   "cons": [
-    "Limited customization without coding",
-    "May not support all third-party integrations",
-    "Focused primarily on e-commerce"
+    "May lack advanced customization for larger businesses",
+    "No clear pricing information available",
+    "Limited information on security measures"
   ],
   "alternatives": [
     "Shopify [shopify.com]",
     "BigCommerce [bigcommerce.com]",
-    "WooCommerce [woocommerce.com]"
+    "Wix eCommerce [wix.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Shopify",
       "url": "shopify.com",
-      "reason": "Well-established with extensive features"
+      "reason": "Offers extensive e-commerce features"
     },
     {
-      "name": "Wix",
-      "url": "wix.com",
-      "reason": "Offers more design flexibility"
+      "name": "WooCommerce",
+      "url": "woocommerce.com",
+      "reason": "WordPress integration for flexibility"
     },
     {
       "name": "Magento",
       "url": "magento.com",
-      "reason": "Suitable for larger enterprises"
+      "reason": "Scalable for large enterprises"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://cornerrr.help.center/",
   "githubUrl": "https://github.com/search?q=cornerrr&type=repositories",
   "twitterUrl": "https://twitter.com/nishant_chandla",
-  "screenshot": "https://share.appsfor.us/screenshots/cornerrr_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/cornerrr_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/cornerrr_com_400.png",
-  "updatedAt": "2025-05-24T11:32:38.196Z"
+  "screenshot": "/screenshots/cornerrr_com.png",
+  "screenshot_640": "/screenshots/cornerrr_com_640.png",
+  "screenshot_400": "/screenshots/cornerrr_com_400.png",
+  "updatedAt": "2025-05-19T05:42:55.716Z"
 }
