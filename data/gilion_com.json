@@ -2,45 +2,45 @@
   "sourceUrl": "https://gilion.com/",
   "name": "Gilion",
   "title": "gilion.com",
-  "payoff": "Optimize and finance your growth",
-  "shortDescription": "Gilion offers non-dilutive financing solutions tailored for startups and growth-focused companies. It provides a platform to understand, optimize, and finance business growth, making it ideal for founders seeking to expand without sacrificing equity. Example use case: A tech startup uses Gilion to secure funding while retaining full ownership, leveraging analytics to strategically drive their business forward.",
+  "payoff": "Fundraising Peace Of Mind",
+  "shortDescription": "Gilion is designed to streamline the fundraising process for startups by offering tailored financial structuring. It utilizes AI to customize funding terms that favor founders, enhancing their journey from startup to scale. Ideal for startup founders seeking intelligent funding solutions, Gilion simplifies complex financial data, making it accessible and understandable to potential investors.",
   "pros": [
-    "Non-dilutive financing preserves equity",
-    "Integrated analytics for growth optimization",
-    "Founder-friendly terms"
+    "AI-driven customization of funding terms",
+    "Specialized in startup financial structuring",
+    "User-friendly interface for founders"
   ],
   "cons": [
-    "May require stringent financial tracking",
-    "Limited to certain types of businesses",
-    "Potential dependency on platform for funding"
+    "Limited to fundraising functionalities",
+    "May not suit non-startup businesses",
+    "Dependence on accurate data input"
   ],
   "alternatives": [
-    "Clearco [clear.co]",
-    "Pipe [pipe.com]",
-    "Capchase [capchase.com]"
+    "Kickstarter [kickstarter.com]",
+    "Indiegogo [indiegogo.com]",
+    "SeedInvest [seedinvest.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Clearco",
-      "url": "clear.co",
-      "reason": "Offers revenue-based financing"
+      "name": "Kickstarter",
+      "url": "kickstarter.com",
+      "reason": "Crowdfunding platform for creative projects"
     },
     {
-      "name": "Pipe",
-      "url": "pipe.com",
-      "reason": "Turns revenues into tradeable assets"
+      "name": "Indiegogo",
+      "url": "indiegogo.com",
+      "reason": "Global fundraising site, flexible campaigns"
     },
     {
-      "name": "Capchase",
-      "url": "capchase.com",
-      "reason": "Provides growth capital for SaaS"
+      "name": "SeedInvest",
+      "url": "seedinvest.com",
+      "reason": "Equity crowdfunding platform, startup focus"
     }
   ],
   "tags": [
-    "startup financing",
-    "growth analytics",
-    "non-dilutive funding",
-    "financial services"
+    "fundraising",
+    "startups",
+    "financial structuring",
+    "AI"
   ],
   "apiUsed": false,
   "department": "Finance & Accounting",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2020,
   "websiteUrl": "https://gilion.com/",
-  "documentationUrl": null,
+  "documentationUrl": "https://www.gilion.com/docs",
   "githubUrl": "https://github.com/search?q=gilion&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/gilion_com.png",
   "screenshot_640": "/screenshots/gilion_com_640.png",
   "screenshot_400": "/screenshots/gilion_com_400.png",
-  "updatedAt": "2025-05-15T04:44:59.231Z"
+  "updatedAt": "2025-05-24T01:06:00.048Z"
 }

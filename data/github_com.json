@@ -2,17 +2,17 @@
   "sourceUrl": "https://github.com/",
   "name": "GitHub",
   "title": "github.com",
-  "payoff": "Collaborative platform for software development",
-  "shortDescription": "GitHub is a development platform where millions of developers and companies build, ship, and maintain their software. It offers tools like GitHub Copilot for AI-powered code suggestions, advanced security features to manage vulnerabilities, and Actions for workflow automation. GitHub is ideal for teams of any size, from startups to large enterprises, facilitating collaboration and increasing efficiency across various industries.",
+  "payoff": "Collaborative software development",
+  "shortDescription": "GitHub is a platform for developers to build, ship, and maintain their software. It offers tools for collaboration, code review, and automated workflows, making it ideal for both small teams and large enterprises. Example use case: A software development team uses GitHub to manage their codebase, track issues, and automate their deployment pipeline.",
   "pros": [
     "Integrated development environment",
-    "Extensive integration with third-party tools",
-    "Strong community and support"
+    "Extensive integration options",
+    "Robust community and support"
   ],
   "cons": [
-    "Complexity can be overwhelming for beginners",
-    "Can be expensive for larger teams",
-    "Dependent on external internet connectivity"
+    "Complexity for beginners",
+    "Can be expensive for private repos",
+    "Overwhelming number of features"
   ],
   "alternatives": [
     "GitLab [gitlab.com]",
@@ -23,37 +23,37 @@
     {
       "name": "GitLab",
       "url": "gitlab.com",
-      "reason": "Offers integrated CI/CD features"
+      "reason": "Offers integrated CI/CD tools"
     },
     {
       "name": "Bitbucket",
       "url": "bitbucket.org",
-      "reason": "Good for small teams, integrates with Jira"
+      "reason": "Tight integration with Jira and Trello"
     },
     {
       "name": "SourceForge",
       "url": "sourceforge.net",
-      "reason": "Focuses on open source projects"
+      "reason": "Focus on open source project hosting"
     }
   ],
   "tags": [
     "version control",
     "collaboration",
     "code management",
-    "software development"
+    "CI/CD"
   ],
   "apiUsed": true,
   "department": "Development",
-  "function": "Development",
+  "function": "Code-Free",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2008,
   "websiteUrl": "https://github.com/",
-  "documentationUrl": "https://docs.github.com",
+  "documentationUrl": "https://docs.github.com/",
   "githubUrl": "https://github.com/#start-of-content",
   "twitterUrl": "https://x.com/github",
   "screenshot": "/screenshots/github_com.png",
   "screenshot_640": "/screenshots/github_com_640.png",
   "screenshot_400": "/screenshots/github_com_400.png",
-  "updatedAt": "2025-05-10T08:42:50.719Z"
+  "updatedAt": "2025-05-24T01:06:25.705Z"
 }

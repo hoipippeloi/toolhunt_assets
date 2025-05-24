@@ -3,16 +3,16 @@
   "name": "Ghost",
   "title": "ghost.org",
   "payoff": "Best open source blog platform",
-  "shortDescription": "Ghost is a powerful blogging and newsletter platform designed for creators, publishers, and businesses. It provides tools for site design, audience growth, and business operations. Creators like YouTubers and bloggers can easily publish content, while businesses can leverage Ghost for content marketing. An example use case is a local news outlet using Ghost to manage their digital presence and subscriber base.",
+  "shortDescription": "Ghost is an open source blogging and newsletter platform designed for creators, publishers, and businesses. It offers tools for site design, audience growth, and business operations. Users can leverage professional themes, integrate with various apps, and access a rich marketplace for custom solutions. Ideal for YouTubers, journalists, and brands aiming to enhance their content strategy.",
   "pros": [
-    "Open source with a strong community",
-    "Extensive integrations and customization",
-    "Dedicated support and documentation"
+    "Open source and customizable",
+    "Extensive integrations",
+    "Dedicated support and community"
   ],
   "cons": [
-    "May require technical skills for setup",
+    "Requires technical knowledge for setup",
     "Limited design templates compared to competitors",
-    "Potentially higher learning curve for non-developers"
+    "Potentially high hosting costs"
   ],
   "alternatives": [
     "WordPress [wordpress.org]",
@@ -23,24 +23,24 @@
     {
       "name": "WordPress",
       "url": "wordpress.org",
-      "reason": "Flexible CMS with extensive plugins"
+      "reason": "Extensive plugins and themes available"
     },
     {
       "name": "Medium",
       "url": "medium.com",
-      "reason": "Simple, user-friendly blogging platform"
+      "reason": "Simpler interface, no setup required"
     },
     {
       "name": "Substack",
       "url": "substack.com",
-      "reason": "Focuses on newsletters with monetization"
+      "reason": "Focus on newsletters with monetization"
     }
   ],
   "tags": [
     "content management",
     "blogging",
-    "open source",
-    "newsletter"
+    "newsletter",
+    "open source"
   ],
   "apiUsed": true,
   "department": "Content",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/ghost_org.png",
   "screenshot_640": "/screenshots/ghost_org_640.png",
   "screenshot_400": "/screenshots/ghost_org_400.png",
-  "updatedAt": "2025-05-20T02:59:17.463Z"
+  "updatedAt": "2025-05-24T01:05:21.995Z"
 }
