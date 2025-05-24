@@ -3,44 +3,44 @@
   "name": "IBM Maximo Application Suite",
   "title": "ibm.com",
   "payoff": "Maximize asset value efficiently",
-  "shortDescription": "IBM Maximo Application Suite is an integrated asset lifecycle management solution designed to optimize the maintenance, inspection, and reliability of critical equipment and infrastructure. Utilizing generative AI, advanced analytics, and IoT, it significantly enhances operational efficiency. Ideal for industries requiring robust asset management, such as manufacturing and utilities, the suite helps in reducing downtime and improving asset lifespan through predictive maintenance.",
+  "shortDescription": "IBM Maximo Application Suite is an integrated asset lifecycle management solution designed to enhance the maintenance, inspection, and reliability of critical equipment and infrastructure. Utilizing generative AI, advanced analytics, and IoT, it serves industries requiring robust asset management. Example use case: A manufacturing firm uses Maximo to predict equipment failures and streamline maintenance processes, significantly reducing downtime.",
   "pros": [
     "Reduces unplanned downtime by 47%",
-    "Increases asset lifespan by 17%",
-    "Boosts technician productivity by 26%"
+    "Increases technician productivity by 26%",
+    "Improves inspection efficiency by 34%"
   ],
   "cons": [
-    "Potentially high cost of implementation",
-    "Complexity in integration with existing systems",
-    "Requires training for optimal use"
+    "Potential high cost of implementation",
+    "Complexity in initial setup and training",
+    "May require significant IT infrastructure"
   ],
   "alternatives": [
-    "SAP Asset Manager [sap.com]",
+    "SAP EAM [sap.com]",
     "Infor EAM [infor.com]",
-    "Oracle Asset Management [oracle.com]"
+    "Oracle EAM [oracle.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "SAP Asset Manager",
+      "name": "SAP EAM",
       "url": "sap.com",
-      "reason": "Offers comprehensive asset management"
+      "reason": "Comprehensive EAM with global support"
     },
     {
       "name": "Infor EAM",
       "url": "infor.com",
-      "reason": "Focuses on industrial asset management"
+      "reason": "Flexible, industry-specific features"
     },
     {
-      "name": "Oracle Asset Management",
+      "name": "Oracle EAM",
       "url": "oracle.com",
-      "reason": "Integrates with Oracle's enterprise solutions"
+      "reason": "Integrates deeply with Oracle products"
     }
   ],
   "tags": [
     "asset management",
-    "predictive maintenance",
+    "AI",
     "IoT",
-    "AI"
+    "analytics"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2000,
   "websiteUrl": "https://ibm.com/products/maximo",
-  "documentationUrl": "https://www.ibm.com/docs/en/maximo",
+  "documentationUrl": "https://www.ibm.com/docs/en/maximo-appsuite",
   "githubUrl": "https://github.com/search?q=ibm%20maximo%20application%20suite&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/ibm_com.png",
   "screenshot_640": "/screenshots/ibm_com_640.png",
   "screenshot_400": "/screenshots/ibm_com_400.png",
-  "updatedAt": "2025-05-09T11:18:21.827Z"
+  "updatedAt": "2025-05-24T06:20:14.628Z"
 }

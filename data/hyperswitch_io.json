@@ -3,16 +3,16 @@
   "name": "Juspay Hyperswitch",
   "title": "hyperswitch.io",
   "payoff": "Simplify your payment workflows",
-  "shortDescription": "Juspay Hyperswitch is an open-source payment orchestrator designed for businesses seeking enterprise-grade payment solutions. It offers features like intelligent routing, reconciliation engines, and revenue recovery. Ideal for businesses aiming to enhance their payment systems with resilience, scalability, and low latency.",
+  "shortDescription": "Juspay Hyperswitch is an open-source payment orchestrator designed to enhance enterprise payment operations. It offers a modular architecture that can be tailored to specific business needs, ensuring resilience, scalability, and low latency. Ideal for businesses seeking to optimize their payment systems, it simplifies workflows through intelligent routing and secure authentication, making it perfect for global enterprises.",
   "pros": [
-    "Modular architecture allows customization",
-    "Enterprise-grade and globally compliant",
-    "Supports alternative payment methods"
+    "Modular and customizable architecture",
+    "Supports intelligent routing and secure transactions",
+    "Designed for scalability and low latency"
   ],
   "cons": [
-    "Open source requires internal management",
-    "May require technical expertise to deploy",
-    "Limited marketing compared to proprietary tools"
+    "Requires technical expertise to implement",
+    "Open-source nature may pose integration challenges",
+    "Focused primarily on enterprise users, less so for small businesses"
   ],
   "alternatives": [
     "Stripe [stripe.com]",
@@ -23,23 +23,23 @@
     {
       "name": "Stripe",
       "url": "stripe.com",
-      "reason": "Widely used with robust API support"
+      "reason": "Offers extensive payment APIs and tools"
     },
     {
       "name": "Braintree",
       "url": "braintreepayments.com",
-      "reason": "Offers extensive payment features"
+      "reason": "Provides advanced payment features"
     },
     {
       "name": "Checkout.com",
       "url": "checkout.com",
-      "reason": "Focus on global payment processing"
+      "reason": "Focuses on global payment solutions"
     }
   ],
   "tags": [
     "payment orchestration",
+    "enterprise software",
     "open source",
-    "enterprise solution",
     "financial technology"
   ],
   "apiUsed": true,
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/hyperswitch_io.png",
   "screenshot_640": "/screenshots/hyperswitch_io_640.png",
   "screenshot_400": "/screenshots/hyperswitch_io_400.png",
-  "updatedAt": "2025-05-12T14:47:43.010Z"
+  "updatedAt": "2025-05-24T06:19:00.809Z"
 }
