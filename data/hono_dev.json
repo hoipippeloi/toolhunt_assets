@@ -3,7 +3,7 @@
   "name": "Hono",
   "title": "hono.dev",
   "payoff": "Ultrafast & Lightweight Web Framework",
-  "shortDescription": "Hono is a web framework designed for developers who need a fast, lightweight solution for building web applications. It supports multiple JavaScript runtimes, ensuring compatibility across platforms like Cloudflare, Fastly, Deno, and AWS. With built-in middleware and first-class TypeScript support, Hono simplifies the development process, making it ideal for projects requiring high performance and clean APIs. An example use case could be developing a serverless application that runs efficiently on various cloud environments.",
+  "shortDescription": "Hono is a web framework designed for developers seeking a fast, lightweight solution that leverages Web Standards. It supports multiple JavaScript runtimes, making it versatile across platforms like Cloudflare, AWS, and Node.js. Ideal for projects requiring high performance with minimal overhead, Hono offers built-in middleware options and first-class TypeScript support, simplifying development across different environments.",
   "pros": [
     "Supports multiple JavaScript runtimes",
     "Built-in and third-party middleware support",
@@ -11,8 +11,8 @@
   ],
   "cons": [
     "Limited community compared to larger frameworks",
-    "May require familiarity with Web Standards APIs",
-    "Lesser known, which might affect third-party integrations"
+    "May require familiarity with multiple runtimes",
+    "Less comprehensive than full-featured frameworks"
   ],
   "alternatives": [
     "Express.js [expressjs.com]",
@@ -23,29 +23,29 @@
     {
       "name": "Express.js",
       "url": "expressjs.com",
-      "reason": "Popular Node.js web framework"
+      "reason": "Popular Node.js framework, more plugins"
     },
     {
       "name": "Next.js",
       "url": "nextjs.org",
-      "reason": "SSR and static site generation"
+      "reason": "SSR support, larger community"
     },
     {
       "name": "NestJS",
       "url": "nestjs.com",
-      "reason": "Extensive backend framework"
+      "reason": "Comprehensive, uses TypeScript"
     }
   ],
   "tags": [
     "web framework",
     "TypeScript",
-    "serverless",
+    "middleware",
     "multi-runtime"
   ],
   "apiUsed": false,
   "department": "Development",
   "function": "Backend Services",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2022,
   "websiteUrl": "https://hono.dev/",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/hono_dev.png",
   "screenshot_640": "/screenshots/hono_dev_640.png",
   "screenshot_400": "/screenshots/hono_dev_400.png",
-  "updatedAt": "2025-05-17T01:06:31.134Z"
+  "updatedAt": "2025-05-24T04:43:46.456Z"
 }
