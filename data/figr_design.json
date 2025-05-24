@@ -3,16 +3,16 @@
   "name": "Figr",
   "title": "figr.design",
   "payoff": "AI-Driven UI Design & Workflow",
-  "shortDescription": "Figr is an AI-powered tool designed to streamline the UI design process. It caters to product thinkers and designers, enabling them to transform insights into actionable designs efficiently. By integrating research directly into the design workflow, Figr helps create interfaces that are both functional and aesthetically pleasing. An example use case is a design team at a tech startup using Figr to rapidly prototype and iterate on user interfaces, enhancing user experience with data-driven decisions.",
+  "shortDescription": "Figr is an AI-powered tool designed to streamline the UI design process for product developers and designers. By integrating context and insights directly into the design workflow, Figr helps users confront and simplify complexity, enabling the creation of clear, precise, and tasteful interfaces. Ideal for designers at leading companies, Figr supports the development of wireframes, interfaces, and design systems that effectively communicate with users.",
   "pros": [
-    "Integrates insights directly into designs",
-    "Supports rapid prototyping and iteration",
-    "Used by designers at leading companies"
+    "Integrates AI for context-driven design",
+    "Supports creation of wireframes and interfaces",
+    "Used by designers from leading companies"
   ],
   "cons": [
-    "May require a learning curve for new users",
-    "Potentially high cost for small teams",
-    "Limited customization options"
+    "May have a steep learning curve",
+    "Potentially high cost for premium features",
+    "Limited customization options reported"
   ],
   "alternatives": [
     "Adobe XD [adobe.com]",
@@ -23,26 +23,26 @@
     {
       "name": "Adobe XD",
       "url": "adobe.com",
-      "reason": "Comprehensive UI/UX design tool"
+      "reason": "Offers comprehensive design tools"
     },
     {
       "name": "Sketch",
       "url": "sketch.com",
-      "reason": "Popular among macOS users"
+      "reason": "Popular for vector design and prototyping"
     },
     {
       "name": "Framer",
       "url": "framer.com",
-      "reason": "Focus on interactive design"
+      "reason": "Focuses on interactive design features"
     }
   ],
   "tags": [
     "AI",
-    "UI design",
-    "workflow automation",
-    "product design"
+    "UI Design",
+    "Workflow Automation",
+    "Design Tools"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Design",
   "function": "Design Tools",
   "freeTier": true,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=figr&type=repositories",
   "twitterUrl": "https://x.com/FigrDesign",
-  "screenshot": "https://share.appsfor.us/screenshots/figr_design.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/figr_design_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/figr_design_400.png",
-  "updatedAt": "2025-05-24T11:52:35.946Z"
+  "screenshot": "/screenshots/figr_design.png",
+  "screenshot_640": "/screenshots/figr_design_640.png",
+  "screenshot_400": "/screenshots/figr_design_400.png",
+  "updatedAt": "2025-05-23T14:45:38.974Z"
 }

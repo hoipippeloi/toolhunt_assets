@@ -2,17 +2,17 @@
   "sourceUrl": "https://devblogs.microsoft.com/commandline/edit-is-now-open-source/",
   "name": "Edit",
   "title": "devblogs.microsoft.com",
-  "payoff": "Simplify CLI text editing in Windows",
-  "shortDescription": "Edit is a new, lightweight command-line text editor for Windows, designed to enhance productivity by allowing users to edit files directly within the command line. Ideal for developers and IT professionals, Edit simplifies file editing without switching contexts. For example, users can easily open and edit multiple files, utilize mouse mode for navigation, and perform find and replace operations efficiently.",
+  "payoff": "Simplified CLI text editing",
+  "shortDescription": "Edit is a new command-line text editor designed for Windows 11, providing a straightforward solution for file editing directly in the command line. It's ideal for users who require a lightweight, efficient text editor without the complexity of traditional GUI-based editors. Example use case: Developers editing code or scripts directly in the command-line environment.",
   "pros": [
-    "Open source and customizable",
-    "Lightweight and fast",
-    "Supports multiple files and mouse mode"
+    "Lightweight and less than 250kB",
+    "Supports multiple files and word wrapping",
+    "Open source with customizable keybindings"
   ],
   "cons": [
     "Still in early development stages",
-    "Limited advanced features compared to others",
-    "Primarily for Windows environments"
+    "Limited advanced features compared to full IDEs",
+    "Primarily designed for Windows 11, limiting cross-platform use"
   ],
   "alternatives": [
     "Vim [vim.org]",
@@ -23,27 +23,27 @@
     {
       "name": "Vim",
       "url": "vim.org",
-      "reason": "Highly customizable and powerful"
+      "reason": "Highly configurable text editor"
     },
     {
-      "name": "Nano",
+      "name": "GNU Nano",
       "url": "nano-editor.org",
-      "reason": "Easier for beginners, simple UI"
+      "reason": "Easy to use, lightweight editor"
     },
     {
       "name": "Notepad++",
       "url": "notepad-plus-plus.org",
-      "reason": "Rich in features, supports plugins"
+      "reason": "Feature-rich graphical text editor"
     }
   ],
   "tags": [
-    "CLI editor",
-    "text editing",
+    "CLI",
+    "text editor",
     "open source",
     "Windows"
   ],
   "apiUsed": false,
-  "department": "Information Technology",
+  "department": "Development",
   "function": "Desktop Software",
   "freeTier": true,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://github.com/Microsoft/terminal",
   "githubUrl": "https://github.com/microsoft/edit?tab=readme-ov-file#build-instructions",
   "twitterUrl": "https://twitter.com/intent/tweet?url=https://devblogs.microsoft.com/commandline/edit-is-now-open-source/&text=Edit%20is%20now%20open%20source",
-  "screenshot": "/screenshots/devblogs_microsoft_com.png",
-  "screenshot_640": "/screenshots/devblogs_microsoft_com_640.png",
-  "screenshot_400": "/screenshots/devblogs_microsoft_com_400.png",
-  "updatedAt": "2025-05-23T15:17:43.952Z"
+  "screenshot": "https://share.appsfor.us/screenshots/devblogs_microsoft_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/devblogs_microsoft_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/devblogs_microsoft_com_400.png",
+  "updatedAt": "2025-05-24T12:03:01.427Z"
 }

@@ -3,16 +3,16 @@
   "name": "AITable",
   "title": "aitable.ai",
   "payoff": "Automate data across 6,000+ apps",
-  "shortDescription": "AITable.ai simplifies workflow automation by integrating with over 6,000 apps through platforms like Zapier and Make. It's designed for businesses seeking to enhance CRM and project management through AI-driven data organization and automation. Example use: A company can automate data entry and connect systems to streamline project management tasks.",
+  "shortDescription": "AITable.ai simplifies workflow automation by integrating with over 6,000 apps, making it ideal for businesses looking to enhance efficiency without coding. Users can automate tasks, manage CRM, and streamline project management through a visual database interface. Example use case: Automatically sync new sales data to a CRM system and generate reports.",
   "pros": [
     "Integrates with 6,000+ apps for extensive automation",
-    "Customizable AI-driven data organization tools",
-    "Visual database interface enhances user experience"
+    "Visual database aids in easy data organization",
+    "Customizable forms and automation enhance productivity"
   ],
   "cons": [
+    "May require a learning curve for new users",
     "Limited AI capabilities in some areas",
-    "May require initial setup time",
-    "Dependent on third-party integrations"
+    "Dependent on third-party integrations for full functionality"
   ],
   "alternatives": [
     "Airtable [airtable.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Airtable",
       "url": "airtable.com",
-      "reason": "Offers similar database and automation features"
+      "reason": "Flexible database with similar automation features"
     },
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Extensive app integration for automation"
+      "reason": "Widely used for app integrations and automation"
     },
     {
       "name": "Make",
       "url": "make.com",
-      "reason": "Visual programming for complex workflows"
+      "reason": "Offers visual integration tools like AITable"
     }
   ],
   "tags": [
     "automation",
-    "AI",
-    "data management",
-    "workflow"
+    "CRM",
+    "project management",
+    "data organization"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://aitable.ai/",
-  "documentationUrl": "https://aitable.ai/docs",
+  "documentationUrl": "https://help.aitable.ai/",
   "githubUrl": "https://github.com/apitable/apitable",
   "twitterUrl": "https://twitter.com/aitable_ai",
-  "screenshot": "/screenshots/aitable_ai.png",
-  "screenshot_640": "/screenshots/aitable_ai_640.png",
-  "screenshot_400": "/screenshots/aitable_ai_400.png",
-  "updatedAt": "2025-05-09T09:56:47.940Z"
+  "screenshot": "https://share.appsfor.us/screenshots/aitable_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/aitable_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/aitable_ai_400.png",
+  "updatedAt": "2025-05-24T10:07:20.207Z"
 }

@@ -2,17 +2,17 @@
   "sourceUrl": "https://dify.ai/",
   "name": "Dify",
   "title": "dify.ai",
-  "payoff": "Build AI Agents Easily",
-  "shortDescription": "Dify is a platform designed to help developers and enterprises build and deploy AI agents seamlessly. It integrates with large language models and offers tools for creating robust AI applications. Ideal for startups and enterprises looking to leverage AI for enhanced operations, Dify provides a user-friendly interface to bring AI concepts to life. Example use case: A startup could use Dify to develop an AI customer service agent.",
+  "payoff": "Build AI Agents Efficiently",
+  "shortDescription": "Dify is a tool designed to streamline the creation and deployment of AI agents. It integrates with global language models and various AI tools to help businesses from startups to enterprises develop robust AI solutions. Users can quickly go from concept to production, leveraging Dify's solid infrastructure and expansive ecosystem. Example use case: A startup uses Dify to build and deploy a customer service AI agent that handles inquiries and tickets.",
   "pros": [
-    "Integrates with global language models",
+    "Integrates with large language models",
     "Production-ready from day one",
     "Supports both startups and enterprises"
   ],
   "cons": [
     "May require technical expertise",
     "Potentially high cost for premium features",
-    "Limited information on specific AI models"
+    "Limited information on customization limits"
   ],
   "alternatives": [
     "Dialogflow [dialogflow.com]",
@@ -28,22 +28,22 @@
     {
       "name": "Microsoft Bot Framework",
       "url": "botframework.com",
-      "reason": "Wide integration with Microsoft products"
+      "reason": "Integrates with Microsoft products"
     },
     {
       "name": "Rasa",
       "url": "rasa.com",
-      "reason": "Open source with strong community"
+      "reason": "Open source and highly customizable"
     }
   ],
   "tags": [
     "AI",
     "agent builder",
-    "language models",
-    "SaaS"
+    "SaaS",
+    "production-ready"
   ],
   "apiUsed": true,
-  "department": "Research & Development",
+  "department": "Information Technology",
   "function": "AI & ML",
   "freeTier": true,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://dify.ai/docs",
   "githubUrl": "https://github.com/langgenius/dify/",
   "twitterUrl": "https://x.com/mikito_x",
-  "screenshot": "/screenshots/dify_ai.png",
-  "screenshot_640": "/screenshots/dify_ai_640.png",
-  "screenshot_400": "/screenshots/dify_ai_400.png",
-  "updatedAt": "2025-05-23T15:41:28.525Z"
+  "screenshot": "https://share.appsfor.us/screenshots/dify_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dify_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dify_ai_400.png",
+  "updatedAt": "2025-05-24T12:04:29.064Z"
 }

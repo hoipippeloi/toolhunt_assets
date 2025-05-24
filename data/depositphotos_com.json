@@ -3,16 +3,16 @@
   "name": "Depositphotos",
   "title": "depositphotos.com",
   "payoff": "Royalty-free stock media",
-  "shortDescription": "Depositphotos offers a vast library of 314 million royalty-free images, videos, vectors, illustrations, and music. It caters to businesses and creatives seeking high-quality visual and audio content for their projects. Users can explore thematic collections to find the perfect assets for advertising, marketing, or multimedia projects. Trusted by leading international companies, it's a go-to source for enhancing visual storytelling.",
+  "shortDescription": "Depositphotos offers a vast collection of royalty-free images, videos, vectors, and music suitable for various project needs. With over 314 million files, it caters to businesses and creatives seeking high-quality visual and audio content. Example use case: a marketing agency uses Depositphotos to source unique images and videos for a client's advertising campaign.",
   "pros": [
     "Extensive media library",
     "High-quality content",
-    "Trusted by top companies"
+    "Trusted by leading companies"
   ],
   "cons": [
-    "Can be expensive",
-    "Complex licensing terms",
-    "Overwhelming choice volume"
+    "Can be expensive without subscription",
+    "Overwhelming choice volume",
+    "Limited free content"
   ],
   "alternatives": [
     "Shutterstock [shutterstock.com]",
@@ -33,14 +33,14 @@
     {
       "name": "Getty Images",
       "url": "gettyimages.com",
-      "reason": "Renowned for exclusive content"
+      "reason": "Known for exclusive content"
     }
   ],
   "tags": [
     "stock photos",
-    "royalty-free music",
+    "royalty-free media",
     "video library",
-    "media assets"
+    "music library"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=depositphotos&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/depositphotos_com.png",
-  "screenshot_640": "/screenshots/depositphotos_com_640.png",
-  "screenshot_400": "/screenshots/depositphotos_com_400.png",
-  "updatedAt": "2025-05-23T15:16:49.344Z"
+  "screenshot": "https://share.appsfor.us/screenshots/depositphotos_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/depositphotos_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/depositphotos_com_400.png",
+  "updatedAt": "2025-05-24T12:01:31.050Z"
 }
