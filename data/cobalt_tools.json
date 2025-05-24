@@ -3,43 +3,43 @@
   "name": "Cobalt",
   "title": "cobalt.tools",
   "payoff": "Save anything from the web easily.",
-  "shortDescription": "Cobalt is a versatile web app designed to help users save multimedia content like videos, audio, photos, and GIFs from their favorite websites simply by pasting a link. It's crafted to serve artists, educators, and content creators, providing a tool free from ads, trackers, and malware. An example use case is when a user needs to download video and audio channels separately; Cobalt processes these on-the-fly without saving to disk, ensuring privacy and efficiency.",
+  "shortDescription": "Cobalt is a versatile web application designed to help users save content like videos, audio, photos, and GIFs from various websites simply by pasting a link. It's particularly useful for artists, educators, and content creators, allowing them to work without distractions from ads, trackers, or paywalls. For instance, when a video site provides separate files for video and audio, Cobalt processes these on-the-fly, ensuring efficient and private content handling.",
   "pros": [
     "No ads or trackers",
-    "On-the-fly processing",
-    "Strong privacy features"
+    "On-the-fly content processing",
+    "High privacy with encrypted tunnels"
   ],
   "cons": [
     "Dependent on external hosting",
-    "Limited offline functionality",
-    "Requires internet connection"
+    "Limited offline capabilities",
+    "Requires internet for initial access"
   ],
   "alternatives": [
-    "JDownloader [jdownloader.org]",
-    "DownThemAll [downthemall.net]",
-    "4K Video Downloader [4kdownload.com]"
+    "Pocket [getpocket.com]",
+    "Evernote Web Clipper [evernote.com]",
+    "Instapaper [instapaper.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "JDownloader",
-      "url": "jdownloader.org",
-      "reason": "Supports bulk downloads and many sites."
+      "name": "Pocket",
+      "url": "getpocket.com",
+      "reason": "Offers content saving with tagging."
     },
     {
-      "name": "DownThemAll",
-      "url": "downthemall.net",
-      "reason": "Browser integration for easy access."
+      "name": "Evernote Web Clipper",
+      "url": "evernote.com",
+      "reason": "Clip and organize web content."
     },
     {
-      "name": "4K Video Downloader",
-      "url": "4kdownload.com",
-      "reason": "High-quality video downloads."
+      "name": "Instapaper",
+      "url": "instapaper.com",
+      "reason": "Simplifies reading and content management."
     }
   ],
   "tags": [
-    "web app",
+    "web scraping",
     "content saving",
-    "privacy",
+    "privacy protection",
     "open source"
   ],
   "apiUsed": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/imputnet/cobalt/blob/main/docs/run-an-instance.md",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/cobalt_tools.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/cobalt_tools_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/cobalt_tools_400.png",
-  "updatedAt": "2025-05-24T11:13:58.504Z"
+  "screenshot": "/screenshots/cobalt_tools.png",
+  "screenshot_640": "/screenshots/cobalt_tools_640.png",
+  "screenshot_400": "/screenshots/cobalt_tools_400.png",
+  "updatedAt": "2025-05-14T04:18:49.040Z"
 }

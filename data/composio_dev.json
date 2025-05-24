@@ -2,8 +2,8 @@
   "sourceUrl": "https://composio.dev/",
   "name": "Composio",
   "title": "composio.dev",
-  "payoff": "Access 250+ Apps in One Code Line",
-  "shortDescription": "Composio is a developer-first platform that simplifies the integration of AI agents and large language models (LLMs) with over 250 tools. It is designed for developers looking to build AI-driven applications without the hassle of managing multiple integrations. Example use case: A developer can use Composio to connect an AI agent to Salesforce, GitHub, and Slack, enabling automated workflows and data synchronization across these platforms.",
+  "payoff": "Access 250+ Apps in One Line of Code",
+  "shortDescription": "Composio is designed to simplify the integration of AI agents and LLMs with over 250 tools, including popular platforms like Github and Salesforce. It caters to developers and businesses, enabling rapid deployment and management of integrations without extensive coding. An example use case is a developer quickly connecting an AI agent to multiple services to automate tasks and process data.",
   "pros": [
     "Connect over 250 apps effortlessly",
     "Built-in authentication management",
@@ -11,8 +11,8 @@
   ],
   "cons": [
     "May be complex for beginners",
-    "Potentially high cost for enterprise scale",
-    "Limited customization in free tier"
+    "Potentially high cost for enterprises",
+    "Limited customization in certain areas"
   ],
   "alternatives": [
     "Zapier [zapier.com]",
@@ -38,22 +38,22 @@
   ],
   "tags": [
     "AI",
-    "integration",
-    "developer tools",
-    "automation"
+    "LLMs",
+    "Integration",
+    "Authentication"
   ],
   "apiUsed": true,
   "department": "Development",
-  "function": "APIs",
-  "freeTier": true,
+  "function": "Integration",
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://composio.dev/",
   "documentationUrl": "https://composio.dev/docs",
   "githubUrl": "https://github.com/composiohq/composio/",
   "twitterUrl": "https://x.com/paul1493/status/1821836341082022397",
-  "screenshot": "/screenshots/composio_dev.png",
-  "screenshot_640": "/screenshots/composio_dev_640.png",
-  "screenshot_400": "/screenshots/composio_dev_400.png",
-  "updatedAt": "2025-05-09T10:28:03.496Z"
+  "screenshot": "https://share.appsfor.us/screenshots/composio_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/composio_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/composio_dev_400.png",
+  "updatedAt": "2025-05-24T11:27:22.581Z"
 }
