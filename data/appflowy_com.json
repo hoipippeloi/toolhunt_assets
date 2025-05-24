@@ -2,38 +2,38 @@
   "sourceUrl": "https://appflowy.com/",
   "name": "AppFlowy",
   "title": "appflowy.com",
-  "payoff": "Unify projects, wikis, and teams with AI",
-  "shortDescription": "AppFlowy is a versatile tool designed to integrate project management, wikis, and team collaboration, enhanced by AI capabilities. It serves as an all-in-one platform for teams looking to streamline their workflows and improve productivity. An example use case could be a software development team using AppFlowy to manage their project timelines, maintain documentation, and facilitate communication across departments.",
+  "payoff": "Bring projects and teams together",
+  "shortDescription": "AppFlowy is an all-in-one platform designed to enhance collaboration within teams by integrating projects, wikis, and AI-driven tools. It serves as a powerful resource for businesses looking to streamline their project management and documentation processes. An example use case is a software development team using AppFlowy to manage their project timelines, share knowledge through wikis, and leverage AI for automated task handling.",
   "pros": [
-    "Integrates multiple functions into one platform",
-    "AI-enhanced features for better productivity",
-    "User-friendly interface for easy adoption"
+    "Integrates projects, wikis, and AI tools",
+    "Enhances team collaboration",
+    "Streamlines project management"
   ],
   "cons": [
-    "May require initial learning curve",
-    "Potential over-reliance on AI for task management",
-    "Limited customization options compared to competitors"
+    "Potential complexity in initial setup",
+    "May require training for full feature use",
+    "Dependent on continuous updates for AI efficiency"
   ],
   "alternatives": [
     "Notion [notion.so]",
     "Confluence [atlassian.com/software/confluence]",
-    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]"
+    "Monday.com [monday.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Notion",
       "url": "notion.so",
-      "reason": "Offers flexible workspace customization"
+      "reason": "Flexible workspace with integrated notes and tasks"
     },
     {
-      "name": "Confluence",
-      "url": "atlassian.com/software/confluence",
-      "reason": "Strong in team collaboration and integration"
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Well-known for task and project management"
     },
     {
-      "name": "Microsoft Teams",
-      "url": "microsoft.com/en-us/microsoft-teams/group-chat-software",
-      "reason": "Excellent for enterprise-level communication"
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for visual project management via boards"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.appflowy.io/",
   "githubUrl": "https://github.com/AppFlowy-IO/appflowy",
   "twitterUrl": "https://twitter.com/appflowy",
-  "screenshot": "/screenshots/appflowy_com.png",
-  "screenshot_640": "/screenshots/appflowy_com_640.png",
-  "screenshot_400": "/screenshots/appflowy_com_400.png",
-  "updatedAt": "2025-05-09T03:15:34.530Z"
+  "screenshot": "https://share.appsfor.us/screenshots/appflowy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/appflowy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/appflowy_com_400.png",
+  "updatedAt": "2025-05-24T10:21:40.824Z"
 }

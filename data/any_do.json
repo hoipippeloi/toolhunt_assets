@@ -2,17 +2,17 @@
   "sourceUrl": "https://any.do/",
   "name": "Any.do",
   "title": "any.do",
-  "payoff": "Manage tasks and projects anywhere",
-  "shortDescription": "Any.do helps individuals and teams manage tasks, projects, and daily activities seamlessly across various devices. It integrates tasks, calendars, and reminders in one easy-to-use app. Users can plan family projects, manage work tasks, or schedule groceries with shared lists. An example use case is a family using Any.do to organize household chores and shopping lists, ensuring everyone knows their responsibilities.",
+  "payoff": "Manage tasks and events easily",
+  "shortDescription": "Any.do helps individuals and teams manage tasks, events, and projects in one integrated platform. It offers features like task management, calendar integration, and reminders, making it ideal for personal use and family or team collaboration. Users can plan daily activities, set reminders, and even manage grocery lists or family projects, enhancing productivity and organization.",
   "pros": [
-    "Cross-platform synchronization",
-    "Intuitive user interface",
-    "Rich integration options"
+    "Intuitive task and event management",
+    "Comprehensive platform with AI features",
+    "Supports personal and team collaboration"
   ],
   "cons": [
-    "Limited customization for free tier",
-    "Can be overwhelming with many features",
-    "Potential privacy concerns with location-based reminders"
+    "May be overwhelming for simple needs",
+    "Potential privacy concerns with integrations",
+    "Subscription model may be costly for some"
   ],
   "alternatives": [
     "Todoist [todoist.com]",
@@ -23,7 +23,7 @@
     {
       "name": "Todoist",
       "url": "todoist.com",
-      "reason": "Offers more streamlined task management"
+      "reason": "Offers flexible task management features"
     },
     {
       "name": "Trello",
@@ -33,18 +33,18 @@
     {
       "name": "Asana",
       "url": "asana.com",
-      "reason": "Comprehensive team collaboration and tracking"
+      "reason": "Comprehensive tool for team projects"
     }
   ],
   "tags": [
     "task management",
     "project management",
-    "productivity",
-    "collaboration"
+    "team collaboration",
+    "productivity"
   ],
   "apiUsed": true,
   "department": "Project Management Office",
-  "function": "Project Tools",
+  "function": "Task Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2011,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=any%20do&type=repositories",
   "twitterUrl": "https://x.com/anydo",
-  "screenshot": "https://share.appsfor.us/screenshots/any_do.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/any_do_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/any_do_400.png",
-  "updatedAt": "2025-05-24T10:17:01.766Z"
+  "screenshot": "/screenshots/any_do.png",
+  "screenshot_640": "/screenshots/any_do_640.png",
+  "screenshot_400": "/screenshots/any_do_400.png",
+  "updatedAt": "2025-05-10T07:36:56.765Z"
 }

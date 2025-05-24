@@ -2,22 +2,22 @@
   "sourceUrl": "https://articulate.com/360/",
   "name": "Articulate 360",
   "title": "articulate.com",
-  "payoff": "Create better workplace training",
-  "shortDescription": "Articulate 360 is a comprehensive e-learning platform designed to facilitate workplace training. It enables users to author, collaborate on, and distribute engaging learning content with ease. Ideal for HR departments, it supports various training needs such as onboarding, compliance, and technical skills development. An example use case is creating interactive compliance training modules that are easily distributed across global teams.",
+  "payoff": "E-learning platform for workplace training",
+  "shortDescription": "Articulate 360 provides a comprehensive suite of tools designed to help organizations create, distribute, and manage engaging e-learning content. It is ideal for HR departments and training professionals aiming to streamline onboarding, compliance, and various other training programs. Users can easily author content, collaborate on projects, and track learner progress through an integrated LMS.",
   "pros": [
-    "Comprehensive course creation tools",
-    "Supports collaboration and feedback",
-    "AI-enhanced productivity features"
+    "Comprehensive e-learning creation suite",
+    "Integrated AI tools enhance productivity",
+    "Supports global course translation"
   ],
   "cons": [
     "May be complex for new users",
-    "Subscription-based pricing could be expensive",
+    "Potentially high cost for small businesses",
     "Limited customization in some tools"
   ],
   "alternatives": [
     "Adobe Captivate [adobe.com]",
-    "TalentLMS [talentlms.com]",
-    "iSpring Suite [ispringsolutions.com]"
+    "iSpring Suite [ispringsolutions.com]",
+    "TalentLMS [talentlms.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,19 +26,19 @@
       "reason": "Offers advanced interactive features"
     },
     {
-      "name": "TalentLMS",
-      "url": "talentlms.com",
-      "reason": "Flexible and scalable LMS"
-    },
-    {
       "name": "iSpring Suite",
       "url": "ispringsolutions.com",
-      "reason": "Strong PowerPoint integration"
+      "reason": "Focus on PowerPoint integration"
+    },
+    {
+      "name": "TalentLMS",
+      "url": "talentlms.com",
+      "reason": "Cloud-based with strong LMS focus"
     }
   ],
   "tags": [
     "e-learning",
-    "course creation",
+    "content management",
     "training",
     "collaboration"
   ],
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2016,
   "websiteUrl": "https://articulate.com/360/",
-  "documentationUrl": "https://articulate.com/support/",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=articulate%20360&type=repositories",
   "twitterUrl": "https://twitter.com/Articulate",
-  "screenshot": "/screenshots/articulate_com.png",
-  "screenshot_640": "/screenshots/articulate_com_640.png",
-  "screenshot_400": "/screenshots/articulate_com_400.png",
-  "updatedAt": "2025-05-12T11:38:06.659Z"
+  "screenshot": "https://share.appsfor.us/screenshots/articulate_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/articulate_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/articulate_com_400.png",
+  "updatedAt": "2025-05-24T10:23:06.595Z"
 }

@@ -3,16 +3,16 @@
   "name": "AnythingLLM",
   "title": "anythingllm.com",
   "payoff": "AI application for everyone",
-  "shortDescription": "AnythingLLM is a versatile AI desktop application designed for a wide range of users, from developers to business professionals. It allows users to interact with documents, leverage AI agents, and run various language models locally or connect to enterprise solutions like OpenAI and AWS. A typical use case might involve a user importing business documents to analyze data or automate tasks without needing complex setups.",
+  "shortDescription": "AnythingLLM is a versatile AI desktop application designed for a wide range of users, from developers to businesses. It allows local and offline operation of large language models, including integration with major cloud providers like OpenAI and AWS. Users can manage documents, codebases, and other data types seamlessly. An example use case is a developer using AnythingLLM to integrate AI capabilities into their local software projects without internet dependency.",
   "pros": [
     "Supports both local and cloud AI models",
-    "No setup required for immediate use",
-    "Integrates with major enterprise AI services"
+    "No internet connection required for local use",
+    "Integrates with major AI providers"
   ],
   "cons": [
-    "Limited information on security measures",
-    "No clear pricing structure provided",
-    "Potential complexity in managing local servers"
+    "Limited to desktop use",
+    "May require technical knowledge to fully leverage",
+    "Dependent on external AI models for advanced features"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
@@ -21,39 +21,39 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI GPT",
+      "name": "OpenAI",
       "url": "openai.com",
       "reason": "Offers advanced AI models"
     },
     {
-      "name": "Microsoft Azure AI",
+      "name": "Azure AI",
       "url": "azure.microsoft.com",
-      "reason": "Provides comprehensive cloud solutions"
+      "reason": "Integrates with Microsoft products"
     },
     {
-      "name": "AWS AI Services",
+      "name": "AWS AI",
       "url": "aws.amazon.com",
-      "reason": "Extensive integration options"
+      "reason": "Extensive cloud infrastructure"
     }
   ],
   "tags": [
     "AI",
     "desktop software",
-    "data integration",
+    "data management",
     "offline functionality"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Information Technology",
-  "function": "Desktop Software",
-  "freeTier": true,
+  "function": "AI & ML",
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://anythingllm.com/",
-  "documentationUrl": "https://docs.anythingllm.com/",
+  "documentationUrl": "https://anythingllm.com/docs",
   "githubUrl": "https://github.com/Mintplex-Labs/anything-llm",
   "twitterUrl": null,
-  "screenshot": "/screenshots/anythingllm_com.png",
-  "screenshot_640": "/screenshots/anythingllm_com_640.png",
-  "screenshot_400": "/screenshots/anythingllm_com_400.png",
-  "updatedAt": "2025-05-08T08:27:25.448Z"
+  "screenshot": "https://share.appsfor.us/screenshots/anythingllm_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/anythingllm_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/anythingllm_com_400.png",
+  "updatedAt": "2025-05-24T10:21:04.234Z"
 }

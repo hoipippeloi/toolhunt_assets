@@ -2,45 +2,45 @@
   "sourceUrl": "https://temu.com/",
   "name": "Temu",
   "title": "temu.com",
-  "payoff": "Shop Like a Billionaire",
-  "shortDescription": "Temu is an online marketplace that offers a wide range of products at competitive prices. It caters to consumers looking for deals and discounts on various items. An example use case is a shopper looking for affordable fashion and electronics, leveraging Temu's extensive catalog and shipping options to find the best deals.",
+  "payoff": "Shop global, locally.",
+  "shortDescription": "Temu is an online marketplace that connects global sellers with local buyers, offering a wide range of products at competitive prices. It is designed for consumers looking for variety and affordability. An example use case is a shopper looking for budget-friendly fashion items that are not available in local stores.",
   "pros": [
     "Wide range of products",
     "Competitive pricing",
-    "Affiliate and influencer programs"
+    "Global access to local markets"
   ],
   "cons": [
-    "Limited brand recognition",
-    "Potential for shipping delays",
-    "Unclear return policies"
+    "Potential for long shipping times",
+    "Quality inconsistency",
+    "Limited customer service"
   ],
   "alternatives": [
-    "Amazon [amazon.com]",
-    "eBay [ebay.com]",
-    "AliExpress [aliexpress.com]"
+    "AliExpress [aliexpress.com]",
+    "Wish [wish.com]",
+    "eBay [ebay.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Amazon",
-      "url": "amazon.com",
-      "reason": "Broader product range and global reach"
+      "name": "AliExpress",
+      "url": "aliexpress.com",
+      "reason": "Offers a wide range of products internationally."
+    },
+    {
+      "name": "Wish",
+      "url": "wish.com",
+      "reason": "Focuses on low-cost goods with a mobile-first approach."
     },
     {
       "name": "eBay",
       "url": "ebay.com",
-      "reason": "Auction-based buying options"
-    },
-    {
-      "name": "AliExpress",
-      "url": "aliexpress.com",
-      "reason": "Direct from manufacturer prices"
+      "reason": "Provides a platform for both new and used goods."
     }
   ],
   "tags": [
-    "E-commerce",
-    "Online Marketplace",
-    "Shopping",
-    "Discounts"
+    "e-commerce",
+    "online marketplace",
+    "global shopping",
+    "consumer goods"
   ],
   "apiUsed": false,
   "department": "Sales",
@@ -51,9 +51,9 @@
   "websiteUrl": "https://temu.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=temu&type=repositories",
-  "twitterUrl": "https://www.twitter.com/@shoptemu",
-  "screenshot": "/screenshots/temu_com.png",
-  "screenshot_640": "/screenshots/temu_com_640.png",
-  "screenshot_400": "/screenshots/temu_com_400.png",
-  "updatedAt": "2025-05-12T14:46:05.288Z"
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/temu_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/temu_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/temu_com_400.png",
+  "updatedAt": "2025-05-24T10:25:18.674Z"
 }

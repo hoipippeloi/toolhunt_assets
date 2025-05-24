@@ -3,15 +3,15 @@
   "name": "Amadeus",
   "title": "amadeus.com",
   "payoff": "It’s how travel works.",
-  "shortDescription": "Amadeus provides technology solutions for the global travel industry, catering to airlines, airports, hotels, and travel agencies. The platform enables smarter, smoother, and more efficient travel operations, from booking and managing flights to handling customer experiences and data insights. An example use case is an airline using Amadeus to streamline their passenger service operations and improve customer satisfaction.",
+  "shortDescription": "Amadeus is a comprehensive travel technology platform that facilitates smarter, smoother, and faster travel operations. It serves various segments of the travel industry including airlines, airports, and corporate travel. For example, airlines utilize Amadeus to optimize passenger service through advanced reservation systems.",
   "pros": [
-    "Comprehensive travel industry coverage",
-    "Advanced technology partnerships like with Microsoft",
-    "Focus on sustainability and efficiency"
+    "Wide range of solutions for different travel sectors",
+    "Partnerships with major industry players like Microsoft",
+    "Focus on sustainability and efficiency in travel"
   ],
   "cons": [
-    "Complex system may require training",
-    "Potential high cost for full features",
+    "Complexity of features can be overwhelming",
+    "Potential high cost for comprehensive services",
     "Dependence on travel industry stability"
   ],
   "alternatives": [
@@ -23,24 +23,24 @@
     {
       "name": "Sabre",
       "url": "sabre.com",
-      "reason": "Similar travel tech with different features"
+      "reason": "Offers similar travel tech solutions."
     },
     {
       "name": "Travelport",
       "url": "travelport.com",
-      "reason": "Offers competitive travel commerce platform"
+      "reason": "Another global travel commerce platform."
     },
     {
       "name": "KAYAK",
       "url": "kayak.com",
-      "reason": "Focus on consumer travel comparison"
+      "reason": "Focuses on travel search and booking."
     }
   ],
   "tags": [
     "travel technology",
     "booking systems",
-    "data analytics",
-    "customer management"
+    "corporate travel",
+    "airline solutions"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://amadeus.com/en/support",
   "githubUrl": "https://github.com/search?q=amadeus&type=repositories",
   "twitterUrl": "https://www.vision-box.com/",
-  "screenshot": "https://share.appsfor.us/screenshots/amadeus_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/amadeus_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/amadeus_com_400.png",
-  "updatedAt": "2025-05-24T10:15:28.513Z"
+  "screenshot": "/screenshots/amadeus_com.png",
+  "screenshot_640": "/screenshots/amadeus_com_640.png",
+  "screenshot_400": "/screenshots/amadeus_com_400.png",
+  "updatedAt": "2025-05-12T04:50:20.470Z"
 }

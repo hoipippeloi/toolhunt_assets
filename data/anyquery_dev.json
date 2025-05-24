@@ -3,16 +3,16 @@
   "name": "Anyquery",
   "title": "anyquery.dev",
   "payoff": "Use SQL for anything",
-  "shortDescription": "Anyquery is a versatile CLI tool designed to execute SQL queries across various data sources, including files, APIs, logs, and local applications. It supports multiple operating systems such as GNU/Linux, macOS, and Windows. Example use case: A developer can use Anyquery to integrate SQL querying capabilities into their applications, enabling efficient data manipulation and retrieval from diverse sources.",
+  "shortDescription": "Anyquery is a versatile CLI tool designed to run SQL queries across various data sources, including files, APIs, logs, and local apps. It supports multiple operating systems like GNU/Linux, macOS, and Windows, making it accessible for a wide range of users. Example use case: A developer can use Anyquery to integrate SQL querying capabilities into their project management software, enhancing data retrieval and analysis.",
   "pros": [
-    "Supports multiple platforms",
-    "Integrates with numerous data sources",
-    "Fast query execution time"
+    "Supports multiple platforms (GNU/Linux, macOS, Windows)",
+    "Integrates with various data sources and services",
+    "Fast query execution times"
   ],
   "cons": [
-    "CLI-based might not be user-friendly for all",
-    "Limited GUI features",
-    "Requires SQL knowledge"
+    "CLI-based, which might not be user-friendly for all",
+    "Limited to SQL knowledge users",
+    "Potential complexity in setting up integrations"
   ],
   "alternatives": [
     "Metabase [metabase.com]",
@@ -28,12 +28,12 @@
     {
       "name": "Airtable",
       "url": "airtable.com",
-      "reason": "Combines database and spreadsheet functionality"
+      "reason": "Combines databases with spreadsheet simplicity"
     },
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Build internal tools rapidly"
+      "reason": "Build internal tools rapidly with SQL"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Databases",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2023,
+  "releasedYear": 2022,
   "websiteUrl": "https://anyquery.dev",
   "documentationUrl": null,
   "githubUrl": "https://github.com/julien040/anyquery",
   "twitterUrl": "https://x.com/JulienC_me",
-  "screenshot": "https://share.appsfor.us/screenshots/anyquery_dev.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/anyquery_dev_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/anyquery_dev_400.png",
-  "updatedAt": "2025-05-24T10:17:37.543Z"
+  "screenshot": "/screenshots/anyquery_dev.png",
+  "screenshot_640": "/screenshots/anyquery_dev_640.png",
+  "screenshot_400": "/screenshots/anyquery_dev_400.png",
+  "updatedAt": "2025-05-08T09:07:10.196Z"
 }
