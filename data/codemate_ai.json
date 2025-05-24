@@ -3,16 +3,16 @@
   "name": "CodeMate",
   "title": "codemate.ai",
   "payoff": "AI Pair Programmer for Developers",
-  "shortDescription": "CodeMate is an AI-driven coding assistant designed to enhance the productivity of developers. It offers features like AI-powered autocompletions, code reviews, and debugging across various IDEs. Ideal for both individual developers and teams, CodeMate helps in generating full-stack applications, managing documentation, and integrating seamlessly with existing environments. An example use case is a developer using CodeMate to refactor code and generate unit tests efficiently.",
+  "shortDescription": "CodeMate is an AI-driven coding assistant designed to enhance productivity for developers across various levels, from students to professional engineers. It integrates seamlessly with IDEs like VS Code, providing features such as AI-driven autocompletions, code reviews, and debugging. An example use case is a software developer using CodeMate to generate and refactor code efficiently, reducing the time spent on debugging and manual code reviews.",
   "pros": [
     "Enhances coding productivity with AI",
     "Supports full-stack application generation",
-    "Integrates with existing development environments"
+    "Integrates with popular IDEs and tools"
   ],
   "cons": [
     "May not support all programming languages",
-    "Potential learning curve for new users",
-    "Dependence on AI accuracy for critical tasks"
+    "Dependent on quality of AI model updates",
+    "Potential privacy concerns with code access"
   ],
   "alternatives": [
     "Kite [kite.com]",
@@ -33,27 +33,27 @@
     {
       "name": "Tabnine",
       "url": "tabnine.com",
-      "reason": "Code completion tool using AI"
+      "reason": "Autocompletion tool for coding"
     }
   ],
   "tags": [
     "AI",
-    "development",
+    "development tools",
     "productivity",
     "code assistance"
   ],
   "apiUsed": true,
   "department": "Development",
-  "function": "Development",
+  "function": "AI & ML",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://codemate.ai/",
   "documentationUrl": "https://codemate.ai/docs",
   "githubUrl": "https://github.com/search?q=codemate&type=repositories",
   "twitterUrl": "https://twitter.com/codemateai",
-  "screenshot": "https://share.appsfor.us/screenshots/codemate_ai.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/codemate_ai_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/codemate_ai_400.png",
-  "updatedAt": "2025-05-24T11:25:20.828Z"
+  "screenshot": "/screenshots/codemate_ai.png",
+  "screenshot_640": "/screenshots/codemate_ai_640.png",
+  "screenshot_400": "/screenshots/codemate_ai_400.png",
+  "updatedAt": "2025-05-22T01:10:58.634Z"
 }

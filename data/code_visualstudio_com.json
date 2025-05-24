@@ -3,16 +3,16 @@
   "name": "Visual Studio Code",
   "title": "code.visualstudio.com",
   "payoff": "Code Editing. Redefined",
-  "shortDescription": "Visual Studio Code is a powerful code editor redefined and optimized for building and debugging modern web and cloud applications. It supports development in multiple programming languages and integrates AI features to enhance coding efficiency. Ideal for developers, it offers features like agent mode, where the editor suggests edits and runs commands, enhancing productivity in real-time development scenarios.",
+  "shortDescription": "Visual Studio Code is a powerful and versatile code editor designed for developers of all skill levels. It supports numerous programming languages and integrates AI features to enhance coding efficiency. Users can customize their experience with extensions and access their codebase on various devices. An example use case is a developer using VS Code to write, debug, and deploy applications seamlessly across different platforms.",
   "pros": [
     "Integrates with AI for advanced code suggestions",
-    "Supports a wide range of programming languages",
-    "Highly customizable with extensions"
+    "Highly customizable with extensions",
+    "Supports remote development environments"
   ],
   "cons": [
-    "Steep learning curve for beginners",
-    "High resource usage on older machines",
-    "Overwhelming number of extensions can confuse"
+    "Can be resource-intensive on older machines",
+    "Steep learning curve for advanced features",
+    "Occasional lag with large files or extensions"
   ],
   "alternatives": [
     "Sublime Text [sublimetext.com]",
@@ -23,7 +23,7 @@
     {
       "name": "Sublime Text",
       "url": "sublimetext.com",
-      "reason": "Lightweight editor with fast performance"
+      "reason": "Lightweight and fast editor"
     },
     {
       "name": "Atom",
@@ -33,14 +33,14 @@
     {
       "name": "IntelliJ IDEA",
       "url": "jetbrains.com",
-      "reason": "Advanced features for enterprise"
+      "reason": "Advanced features for Java"
     }
   ],
   "tags": [
     "code editor",
-    "software development",
     "AI integration",
-    "extensions"
+    "extensible",
+    "multi-language support"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://code.visualstudio.com/docs",
   "githubUrl": "https://github.com/microsoft/vscode",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/code_visualstudio_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/code_visualstudio_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/code_visualstudio_com_400.png",
-  "updatedAt": "2025-05-24T11:23:04.277Z"
+  "screenshot": "/screenshots/code_visualstudio_com.png",
+  "screenshot_640": "/screenshots/code_visualstudio_com_640.png",
+  "screenshot_400": "/screenshots/code_visualstudio_com_400.png",
+  "updatedAt": "2025-05-10T05:41:05.851Z"
 }

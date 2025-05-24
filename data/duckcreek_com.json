@@ -3,16 +3,16 @@
   "name": "Duck Creek",
   "title": "duckcreek.com",
   "payoff": "Reimagine The Future of Insurance",
-  "shortDescription": "Duck Creek provides a suite of low-code SaaS core systems designed specifically for P&C/general insurance. It enables insurers to deliver protection faster and smarter, enhancing customer experiences through personalized services. Insurers can quickly adapt to market changes using Duck Creek's reusable product modules, thereby accelerating product development and distribution.",
+  "shortDescription": "Duck Creek provides low-code SaaS solutions tailored for the P&C/general insurance sector. It enables insurers to rapidly develop and deploy insurance products, enhancing customer experiences and increasing market speed. Insurers can use Duck Creek to streamline operations, from product creation to claims management, making it ideal for companies looking to innovate and scale efficiently.",
   "pros": [
-    "Low-code configurability speeds up deployment",
-    "Tailor-made for P&C/general insurance",
-    "Supports rapid development and deployment of new products"
+    "Low-code platform accelerates deployment",
+    "Comprehensive suite for all insurance needs",
+    "Strong focus on P&C/general insurance"
   ],
   "cons": [
-    "Primarily focused on P&C insurance, not all types",
-    "May require initial training for optimal use",
-    "Potential high cost for full suite and services"
+    "Primarily focused on P&C insurance, less versatile",
+    "May require integration with existing systems",
+    "Potential complexity in initial setup"
   ],
   "alternatives": [
     "Guidewire [guidewire.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Guidewire",
       "url": "guidewire.com",
-      "reason": "Comprehensive insurance suite with analytics"
+      "reason": "Comprehensive insurance platform"
     },
     {
       "name": "Insurity",
       "url": "insurity.com",
-      "reason": "Offers cloud solutions and data analytics"
+      "reason": "Flexible insurance solutions"
     },
     {
       "name": "Majesco",
       "url": "majesco.com",
-      "reason": "Focus on innovation and digital insurance"
+      "reason": "Innovative insurance technology"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://duckcreek.com/documentation",
   "githubUrl": "https://github.com/search?q=duck%20creek&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/duckcreek_com.png",
-  "screenshot_640": "/screenshots/duckcreek_com_640.png",
-  "screenshot_400": "/screenshots/duckcreek_com_400.png",
-  "updatedAt": "2025-05-23T17:13:53.208Z"
+  "screenshot": "https://share.appsfor.us/screenshots/duckcreek_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/duckcreek_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/duckcreek_com_400.png",
+  "updatedAt": "2025-05-24T12:21:21.206Z"
 }

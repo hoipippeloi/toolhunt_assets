@@ -2,45 +2,45 @@
   "sourceUrl": "https://dynosend.com/",
   "name": "Dynosend",
   "title": "dynosend.com",
-  "payoff": "Engage customers via email and SMS",
-  "shortDescription": "Dynosend is a customer engagement platform that focuses on email marketing and customer data platforms (CDP). It enables businesses to create personalized, data-driven journeys for their customers, enhancing engagement from the first interaction. Users can automate marketing processes, manage customer data, and send transactional emails quickly. Ideal for businesses looking to scale their customer engagement efforts efficiently.",
+  "payoff": "Engage customers effectively",
+  "shortDescription": "Dynosend is a customer engagement platform designed to enhance marketing automation and customer data management. It allows businesses to create personalized, data-driven journeys via email and SMS, targeting customers from their initial interaction. The platform includes features like marketing automation, transactional emails, and a comprehensive knowledge base. An ideal use case is a retail business using Dynosend to automate customer lifecycle communications and increase engagement through personalized offers.",
   "pros": [
-    "Advanced automation capabilities",
-    "Integrated customer data management",
-    "Robust API for custom integrations"
+    "Comprehensive marketing automation",
+    "Robust customer data platform (CDP)",
+    "Easy integration with existing systems"
   ],
   "cons": [
-    "May require technical knowledge for setup",
-    "Potentially high cost for small businesses",
+    "Potentially steep learning curve",
+    "May be overcomplex for small businesses",
     "Limited customization in free tier"
   ],
   "alternatives": [
     "Mailchimp [mailchimp.com]",
     "HubSpot [hubspot.com]",
-    "Sendinblue [sendinblue.com]"
+    "ActiveCampaign [activecampaign.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "ActiveCampaign",
-      "url": "activecampaign.com",
-      "reason": "Offers similar email marketing tools"
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers broader marketing tools"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Focus on SMBs with cost efficiency"
     },
     {
       "name": "Klaviyo",
       "url": "klaviyo.com",
-      "reason": "Focuses on e-commerce marketing"
-    },
-    {
-      "name": "Autopilot",
-      "url": "autopilothq.com",
-      "reason": "Visual marketing automation focus"
+      "reason": "Strong in e-commerce integration"
     }
   ],
   "tags": [
+    "marketing automation",
     "email marketing",
     "customer engagement",
-    "marketing automation",
-    "CDP"
+    "data management"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://dynosend.com/api-documentation",
   "githubUrl": "https://github.com/search?q=dynosend&type=repositories",
   "twitterUrl": "https://x.com/dynosend",
-  "screenshot": "/screenshots/dynosend_com.png",
-  "screenshot_640": "/screenshots/dynosend_com_640.png",
-  "screenshot_400": "/screenshots/dynosend_com_400.png",
-  "updatedAt": "2025-05-23T17:14:43.675Z"
+  "screenshot": "https://share.appsfor.us/screenshots/dynosend_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dynosend_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dynosend_com_400.png",
+  "updatedAt": "2025-05-24T12:22:41.174Z"
 }
