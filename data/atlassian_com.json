@@ -3,16 +3,16 @@
   "name": "Confluence",
   "title": "atlassian.com",
   "payoff": "Your Remote-Friendly Team Workspace",
-  "shortDescription": "Confluence by Atlassian serves as a dynamic team workspace where users can create, share, and manage knowledge effectively. Designed for various teams, it offers tools like live docs, whiteboards, and databases to streamline collaboration and information sharing. An example use case includes project planning where teams can collaboratively document strategies and maintain a centralized source of truth.",
+  "shortDescription": "Confluence by Atlassian is a collaboration tool designed to help teams manage projects and share knowledge efficiently. It integrates various content types such as pages, whiteboards, and databases into a single workspace, facilitating real-time synchronization and visualization of team efforts. Ideal for businesses of all sizes, it allows users to automate tasks with AI, maintain organized content, and ensure data security with user-level permissions. An example use case is marketing teams planning campaigns and documenting strategies collaboratively.",
   "pros": [
-    "Realtime collaboration on documents",
-    "Integration with numerous external tools",
-    "Robust AI features to automate tasks"
+    "Integrates with many external tools",
+    "Strong focus on team collaboration and knowledge sharing",
+    "Advanced content management features with AI support"
   ],
   "cons": [
-    "Can be overwhelming for new users",
-    "Potentially expensive for small teams",
-    "Requires internet connectivity for most features"
+    "Can be complex to set up for new users",
+    "May require training to utilize fully",
+    "Potentially high cost for larger teams"
   ],
   "alternatives": [
     "Notion [notion.so]",
@@ -23,7 +23,7 @@
     {
       "name": "Notion",
       "url": "notion.so",
-      "reason": "Flexible workspace with modular components"
+      "reason": "Flexible workspace with modular content blocks"
     },
     {
       "name": "Microsoft SharePoint",
@@ -33,7 +33,7 @@
     {
       "name": "Google Workspace",
       "url": "workspace.google.com",
-      "reason": "Comprehensive suite of collaboration tools"
+      "reason": "Comprehensive suite with deep integration"
     }
   ],
   "tags": [
@@ -44,16 +44,16 @@
   ],
   "apiUsed": true,
   "department": "Project Management Office",
-  "function": "Content Management",
+  "function": "Knowledge Base",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2004,
   "websiteUrl": "https://atlassian.com/software/confluence",
-  "documentationUrl": "https://support.atlassian.com/confluence-cloud/",
+  "documentationUrl": "https://support.atlassian.com/confluence/",
   "githubUrl": "https://github.com/search?q=confluence&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/atlassian_com.png",
-  "screenshot_640": "/screenshots/atlassian_com_640.png",
-  "screenshot_400": "/screenshots/atlassian_com_400.png",
-  "updatedAt": "2025-05-10T09:14:09.041Z"
+  "screenshot": "https://share.appsfor.us/screenshots/atlassian_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/atlassian_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/atlassian_com_400.png",
+  "updatedAt": "2025-05-24T10:31:08.153Z"
 }

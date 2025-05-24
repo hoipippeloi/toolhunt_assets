@@ -2,17 +2,17 @@
   "sourceUrl": "https://docs.kanaries.net/graphic-walker",
   "name": "Graphic Walker",
   "title": "kanaries.net",
-  "payoff": "Effortless data visualization wizardry",
-  "shortDescription": "Graphic Walker is an open-source alternative to traditional BI tools like Tableau, designed for data enthusiasts. It allows users to easily integrate data visualization capabilities into their applications using a React component. Users can drag and drop data fields to create visualizations such as bar charts, line charts, and more. An example use case is embedding Graphic Walker in a web app to enable dynamic data analysis and visualization.",
+  "payoff": "Effortless data visualization creation",
+  "shortDescription": "Graphic Walker is an open-source, lightweight data visualization tool designed for easy integration into applications. It utilizes a React component for embedding, making it ideal for developers and data enthusiasts. Users can drag and drop table columns to create visualizations such as bar, line, area, and scatter charts. An example use case is embedding Graphic Walker in a data analysis app to enhance data interaction and visualization capabilities.",
   "pros": [
     "Easy integration as a React component",
-    "Supports drag-and-drop for data visualization",
-    "Lightweight and agile compared to traditional BI tools"
+    "Supports various visualization types",
+    "Open-source and customizable"
   ],
   "cons": [
-    "Limited to React-based applications",
-    "May require development knowledge to embed",
-    "Less features compared to full-fledged BI platforms"
+    "Limited to React-based projects",
+    "May require development knowledge",
+    "Lacks some advanced BI features"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Popular for robust data visualization"
+      "reason": "Popular for advanced visual analytics"
     },
     {
       "name": "Power BI",
       "url": "powerbi.com",
-      "reason": "Integrates well with Microsoft products"
+      "reason": "Integrated with Microsoft products"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Offers advanced data exploration"
+      "reason": "Offers real-time data insights"
     }
   ],
   "tags": [
@@ -42,18 +42,18 @@
     "React component",
     "BI tool"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Data & Analytics",
   "function": "Visual Builder",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://docs.kanaries.net/graphic-walker",
   "documentationUrl": "https://docs.kanaries.net/graphic-walker",
   "githubUrl": "https://github.com/Kanaries/graphic-walker",
   "twitterUrl": "https://twitter.com/kanaries_data",
-  "screenshot": "/screenshots/docs_kanaries_net.png",
-  "screenshot_640": "/screenshots/docs_kanaries_net_640.png",
-  "screenshot_400": "/screenshots/docs_kanaries_net_400.png",
-  "updatedAt": "2025-05-23T16:19:09.899Z"
+  "screenshot": "https://share.appsfor.us/screenshots/docs_kanaries_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/docs_kanaries_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/docs_kanaries_net_400.png",
+  "updatedAt": "2025-05-24T12:10:03.780Z"
 }

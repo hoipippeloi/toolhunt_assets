@@ -2,16 +2,16 @@
   "sourceUrl": "https://dataplane.app/",
   "name": "Dataplane",
   "title": "dataplane.app",
-  "payoff": "Automate finance with ease",
-  "shortDescription": "Dataplane is a platform designed to automate and enhance financial operations for finance teams. It reduces the time spent on repetitive tasks like data entry and report generation, allowing teams to focus on strategic analysis and financial planning. An example use case is automating data reconciliation and report generation for faster decision-making.",
+  "payoff": "Automate Finance with Ease",
+  "shortDescription": "Dataplane is a robust automation platform tailored for finance teams, focusing on reducing manual tasks like data entry and spreadsheet management. By leveraging RPA and low-code solutions, it allows finance professionals to concentrate on strategic analysis and financial planning. An example use case is automating accounts payable processes to save time and reduce errors.",
   "pros": [
-    "Reduces time spent on manual tasks",
-    "Integrates easily with existing financial systems",
-    "Supports rapid prototyping and testing"
+    "Significant time savings on routine tasks",
+    "Easy integration with existing financial systems",
+    "Low-code platform enhances flexibility"
   ],
   "cons": [
     "May require initial setup and training",
-    "Dependent on data quality and integration",
+    "Dependent on the quality of existing data",
     "Potential high cost for full features"
   ],
   "alternatives": [
@@ -28,17 +28,17 @@
     {
       "name": "Automation Anywhere",
       "url": "automationanywhere.com",
-      "reason": "Comprehensive automation platform for enterprises"
+      "reason": "Comprehensive automation for enterprise"
     },
     {
       "name": "Blue Prism",
       "url": "blueprism.com",
-      "reason": "Pioneer in RPA with strong enterprise focus"
+      "reason": "Pioneer in RPA with strong compliance"
     }
   ],
   "tags": [
     "automation",
-    "fintech",
+    "finance",
     "RPA",
     "low-code"
   ],
@@ -47,13 +47,13 @@
   "function": "Automation",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://dataplane.app/",
-  "documentationUrl": null,
+  "documentationUrl": "https://dataplane.app/docs",
   "githubUrl": "https://github.com/dataplane-app/dataplane/tree/main",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/dataplane_app.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/dataplane_app_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/dataplane_app_400.png",
-  "updatedAt": "2025-05-24T12:00:53.430Z"
+  "screenshot": "/screenshots/dataplane_app.png",
+  "screenshot_640": "/screenshots/dataplane_app_640.png",
+  "screenshot_400": "/screenshots/dataplane_app_400.png",
+  "updatedAt": "2025-05-23T14:46:16.526Z"
 }

@@ -2,45 +2,45 @@
   "sourceUrl": "https://divmagic.com/",
   "name": "DivMagic",
   "title": "divmagic.com",
-  "payoff": "Copy any website design easily",
-  "shortDescription": "DivMagic allows users to effortlessly copy HTML/CSS from any website element with a single click, converting it into reusable components. This tool is ideal for web developers and designers seeking to speed up their workflow by utilizing elements from existing websites. For example, a developer can use DivMagic to quickly grab a well-designed button from a website and convert it into a React component for their project.",
+  "payoff": "Copy web designs easily",
+  "shortDescription": "DivMagic allows users to effortlessly copy HTML/CSS code from any website element with a single click, converting it into reusable components. This tool is ideal for web developers and designers who want to speed up their workflow by utilizing styles and elements from existing websites. For example, a developer can use DivMagic to quickly grab a stylish button from a website and convert it into a React component for their project.",
   "pros": [
     "One-click element copying",
-    "Conversion to various frameworks",
+    "Converts CSS to Tailwind CSS",
     "Integration with development tools"
   ],
   "cons": [
     "Potential legal issues with copying content",
-    "May not perfectly replicate complex designs",
+    "May not perfectly replicate dynamic elements",
     "Dependent on browser compatibility"
   ],
   "alternatives": [
     "Webflow [webflow.com]",
-    "Figma [figma.com]",
-    "Adobe XD [adobe.com/products/xd.html]"
+    "Pinegrow [pinegrow.com]",
+    "Froont [froont.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Webflow",
       "url": "webflow.com",
-      "reason": "Visual site builder with design flexibility"
+      "reason": "Offers visual building with exporting options"
     },
     {
-      "name": "Figma",
-      "url": "figma.com",
-      "reason": "Collaborative interface design tool"
+      "name": "Pinegrow",
+      "url": "pinegrow.com",
+      "reason": "Desktop app with similar web component features"
     },
     {
-      "name": "Adobe XD",
-      "url": "adobe.com/products/xd.html",
-      "reason": "Professional tool for UX/UI design"
+      "name": "Froont",
+      "url": "froont.com",
+      "reason": "Focuses on responsive web design visually"
     }
   ],
   "tags": [
     "web development",
-    "design tools",
-    "CSS conversion",
-    "component library"
+    "CSS tools",
+    "design to code",
+    "web scraping"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://divmagic.com/documentation",
   "githubUrl": "https://github.com/DivMagicCom/DivMagic",
   "twitterUrl": "https://twitter.com/Mokkapps/status/1662745590692757504",
-  "screenshot": "/screenshots/divmagic_com.png",
-  "screenshot_640": "/screenshots/divmagic_com_640.png",
-  "screenshot_400": "/screenshots/divmagic_com_400.png",
-  "updatedAt": "2025-05-23T15:42:02.088Z"
+  "screenshot": "https://share.appsfor.us/screenshots/divmagic_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/divmagic_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/divmagic_com_400.png",
+  "updatedAt": "2025-05-24T12:07:53.967Z"
 }

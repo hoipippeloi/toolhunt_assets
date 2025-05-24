@@ -3,44 +3,44 @@
   "name": "Diffusion Studio",
   "title": "diffusion.studio",
   "payoff": "Next-gen video rendering engine",
-  "shortDescription": "Diffusion Studio is revolutionizing the way videos are composed and rendered using AI. Designed for creators and developers, this tool allows users to input prompts and automatically handles the complex edits. It's perfect for anyone looking to streamline video production processes, particularly in environments where quick rendering is crucial. Imagine rapidly creating marketing videos directly in your browser without the need for heavy software.",
+  "shortDescription": "Diffusion Studio is a cutting-edge video composer and rendering engine designed for generative models in various modalities. It simplifies the process of video editing by allowing users to input prompts, while the system manages the edits. This tool is ideal for developers and content creators who require fast, efficient video processing directly in their web browsers. An example use case includes real-time video editing for live streaming or content creation in San Francisco, CA.",
   "pros": [
-    "Automates complex video edits",
-    "Fast in-browser rendering capabilities",
-    "Designed specifically for generative models"
+    "Fast in-browser video processing",
+    "Easy prompt-based video editing",
+    "Optimized for generative models"
   ],
   "cons": [
-    "Limited to browser-based use",
-    "May require high-speed internet for optimal performance",
+    "Limited to web-based applications",
+    "May require high internet bandwidth",
     "Focused primarily on video, less versatility"
   ],
   "alternatives": [
-    "Adobe After Effects [adobe.com]",
-    "Blender [blender.org]",
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
     "DaVinci Resolve [blackmagicdesign.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Adobe After Effects",
+      "name": "Adobe Premiere Pro",
       "url": "adobe.com",
-      "reason": "Industry standard for video effects"
+      "reason": "Industry-standard video editing software"
     },
     {
-      "name": "Blender",
-      "url": "blender.org",
-      "reason": "Open source and comprehensive 3D creation"
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Preferred by Mac users for video editing"
     },
     {
       "name": "DaVinci Resolve",
       "url": "blackmagicdesign.com",
-      "reason": "Professional editing and color correction"
+      "reason": "Strong color correction and audio post-suite"
     }
   ],
   "tags": [
     "video editing",
-    "AI",
     "motion graphics",
-    "rendering engine"
+    "rendering engine",
+    "AI"
   ],
   "apiUsed": false,
   "department": "Creative",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/diffusionstudio",
   "twitterUrl": "https://x.com/diffusionhq",
-  "screenshot": "https://share.appsfor.us/screenshots/diffusion_studio.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/diffusion_studio_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/diffusion_studio_400.png",
-  "updatedAt": "2025-05-24T12:03:50.344Z"
+  "screenshot": "/screenshots/diffusion_studio.png",
+  "screenshot_640": "/screenshots/diffusion_studio_640.png",
+  "screenshot_400": "/screenshots/diffusion_studio_400.png",
+  "updatedAt": "2025-05-23T15:41:02.273Z"
 }

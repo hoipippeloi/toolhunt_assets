@@ -2,58 +2,58 @@
   "sourceUrl": "https://askconcierge.ai/",
   "name": "Concierge AI",
   "title": "askconcierge.ai",
-  "payoff": "Optimize your scheduling effortlessly",
-  "shortDescription": "Concierge AI is designed to streamline scheduling and calendar management for busy professionals. It automates appointment setting, reducing the hassle of back-and-forth emails. Ideal for executives, HR managers, and sales teams, it allows users to schedule a 1:1 meeting with just a few clicks, such as setting up a meeting with John at 3pm on Thursday.",
+  "payoff": "Streamline your CRM tasks",
+  "shortDescription": "Concierge AI is designed to help sales professionals automate their CRM activities efficiently. It allows users to update records, draft emails, and manage communications seamlessly. Ideal for busy sales teams, an example use case involves a sales rep using Concierge AI to quickly update Salesforce after a client call and send a personalized thank you email.",
   "pros": [
-    "Automates scheduling to save time",
-    "Easy integration with existing calendars",
-    "User-friendly interface"
+    "Automates repetitive CRM tasks",
+    "Enhances sales team productivity",
+    "Seamless integration with Salesforce"
   ],
   "cons": [
-    "Limited to scheduling functionality",
-    "May not support all calendar types",
-    "Dependent on internet connectivity"
+    "Limited to CRM functionalities",
+    "May require initial setup time",
+    "Dependent on third-party CRM systems"
   ],
   "alternatives": [
-    "Calendly [calendly.com]",
-    "Doodle [doodle.com]",
-    "Acuity Scheduling [acuityscheduling.com]"
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Calendly",
-      "url": "calendly.com",
-      "reason": "Popular for its simplicity and efficiency"
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Leader in CRM with extensive features"
     },
     {
-      "name": "Doodle",
-      "url": "doodle.com",
-      "reason": "Offers group scheduling and polling options"
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Offers free CRM with marketing tools"
     },
     {
-      "name": "Acuity Scheduling",
-      "url": "acuityscheduling.com",
-      "reason": "Includes payment and subscription features"
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with broad customization"
     }
   ],
   "tags": [
-    "scheduling",
-    "AI",
-    "calendar management",
-    "automation"
+    "CRM",
+    "Automation",
+    "Sales",
+    "Productivity"
   ],
   "apiUsed": true,
-  "department": "Human Resources",
-  "function": "Calendar",
-  "freeTier": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": false,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://askconcierge.ai/",
   "documentationUrl": "https://askconcierge.ai/docs",
   "githubUrl": "https://github.com/search?q=concierge%20ai&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/askconcierge_ai.png",
-  "screenshot_640": "/screenshots/askconcierge_ai_640.png",
-  "screenshot_400": "/screenshots/askconcierge_ai_400.png",
-  "updatedAt": "2025-05-23T06:21:48.097Z"
+  "screenshot": "https://share.appsfor.us/screenshots/askconcierge_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/askconcierge_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/askconcierge_ai_400.png",
+  "updatedAt": "2025-05-24T10:29:29.902Z"
 }
