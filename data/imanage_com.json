@@ -3,11 +3,11 @@
   "name": "iManage",
   "title": "imanage.com",
   "payoff": "Making Knowledge Work",
-  "shortDescription": "iManage is a comprehensive knowledge work platform designed to enhance document and email management, security, and compliance across various industries. It integrates AI to streamline processes and improve productivity. For example, law firms use iManage to manage case documents securely and efficiently, ensuring compliance and reducing risk.",
+  "shortDescription": "iManage is a comprehensive knowledge work platform designed to enhance document and email management, security, and compliance across various industries. It integrates AI to streamline legal transactions, manage risks, and secure sensitive data. Ideal for law firms, financial services, and government agencies, iManage helps improve productivity and decision-making by providing secure access to critical information from any device.",
   "pros": [
-    "Integrates AI for advanced data management",
-    "Robust security and compliance features",
-    "Supports a wide range of industries"
+    "Integrates AI for enhanced functionality",
+    "Supports a wide range of industries",
+    "Comprehensive security and compliance features"
   ],
   "cons": [
     "May be complex to implement",
@@ -16,24 +16,24 @@
   ],
   "alternatives": [
     "NetDocuments [netdocuments.com]",
-    "M-Files [m-files.com]",
-    "DocuWare [docuware.com]"
+    "DocuWare [docuware.com]",
+    "M-Files [m-files.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "NetDocuments",
       "url": "netdocuments.com",
-      "reason": "Cloud-based document management"
-    },
-    {
-      "name": "M-Files",
-      "url": "m-files.com",
-      "reason": "AI-driven document control"
+      "reason": "Similar document management focus"
     },
     {
       "name": "DocuWare",
       "url": "docuware.com",
-      "reason": "Automates workflows and management"
+      "reason": "Offers robust document control"
+    },
+    {
+      "name": "M-Files",
+      "url": "m-files.com",
+      "reason": "Strong in metadata-driven management"
     }
   ],
   "tags": [
@@ -44,10 +44,10 @@
   ],
   "apiUsed": true,
   "department": "Legal & Compliance",
-  "function": "Content Management",
+  "function": "Documents",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 1998,
+  "releasedYear": 1999,
   "websiteUrl": "https://imanage.com/",
   "documentationUrl": "https://imanage.com/support/documentation/",
   "githubUrl": "https://github.com/search?q=imanage&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/imanage_com.png",
   "screenshot_640": "/screenshots/imanage_com_640.png",
   "screenshot_400": "/screenshots/imanage_com_400.png",
-  "updatedAt": "2025-05-12T13:10:18.279Z"
+  "updatedAt": "2025-05-24T06:45:47.256Z"
 }

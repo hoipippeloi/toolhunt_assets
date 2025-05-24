@@ -2,17 +2,17 @@
   "sourceUrl": "https://immich.app/",
   "name": "Immich",
   "title": "immich.app",
-  "payoff": "Self-hosted photo management",
-  "shortDescription": "Immich is a self-hosted solution designed for photo and video management. It allows users to back up, organize, and manage their media on their own servers. This tool is ideal for individuals concerned about privacy who still require efficient access to their media files. Users can easily browse, search, and organize their photos and videos, making it a suitable choice for personal media storage without relying on third-party cloud services.",
+  "payoff": "Manage photos privately on your server",
+  "shortDescription": "Immich is a self-hosted solution for managing photos and videos. It allows users to back up, organize, and manage their media on their own servers, ensuring full control over their data. Users can easily browse, search, and organize their media collections with a user-friendly mobile app. This tool is particularly useful for individuals concerned about privacy and companies needing to manage media assets securely.",
   "pros": [
-    "Complete control over data",
-    "Privacy-focused",
-    "Ease of media organization"
+    "Full control over data privacy",
+    "Easy to use mobile app for access",
+    "Supports both photo and video management"
   ],
   "cons": [
-    "Requires server setup",
-    "Limited user support",
-    "Dependency on personal infrastructure"
+    "Requires server setup and maintenance",
+    "Limited to self-hosting capabilities",
+    "No built-in public cloud support"
   ],
   "alternatives": [
     "Nextcloud Photos [nextcloud.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Nextcloud Photos",
       "url": "nextcloud.com",
-      "reason": "Offers similar self-hosted photo storage"
+      "reason": "Offers similar self-hosted photo management"
     },
     {
       "name": "PhotoPrism",
       "url": "photoprism.org",
-      "reason": "AI-powered photo management system"
+      "reason": "AI-powered photo management tool"
     },
     {
       "name": "Piwigo",
       "url": "piwigo.org",
-      "reason": "Established open-source photo gallery"
+      "reason": "Open source with cloud options"
     }
   ],
   "tags": [
-    "self-hosted",
     "photo management",
-    "privacy",
-    "video management"
+    "video management",
+    "self-hosted",
+    "privacy"
   ],
   "apiUsed": false,
   "department": "Information Technology",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/immich_app.png",
   "screenshot_640": "/screenshots/immich_app_640.png",
   "screenshot_400": "/screenshots/immich_app_400.png",
-  "updatedAt": "2025-05-13T01:07:59.955Z"
+  "updatedAt": "2025-05-24T06:46:04.394Z"
 }
