@@ -3,57 +3,57 @@
   "name": "Bitspace",
   "title": "bitspace.sh",
   "payoff": "Creative computing for everyone",
-  "shortDescription": "Bitspace is designed to foster creativity and innovation in computing. It serves as a platform where individuals from various backgrounds can explore and develop their creative ideas using technology. An example use case is a graphic designer using Bitspace to prototype interactive digital artworks, enhancing their creative workflow and productivity.",
+  "shortDescription": "Bitspace offers a unique platform for creative computing, designed to foster innovation and imagination. It serves as a versatile space where users from various backgrounds—artists, developers, and educators—can explore and create digital projects. An example use case is a digital artist using Bitspace to integrate advanced computing techniques into their artwork, pushing the boundaries of digital expression.",
   "pros": [
-    "Encourages creative thinking",
-    "Supports diverse user backgrounds",
-    "Facilitates interactive digital creation"
+    "Encourages creative exploration",
+    "Supports a wide range of users",
+    "Fosters digital innovation"
   ],
   "cons": [
     "May require technical knowledge",
-    "Limited to creative computing",
+    "Limited information on features",
     "No clear pricing structure"
   ],
   "alternatives": [
-    "Adobe Creative Cloud [adobe.com]",
-    "Sketch [sketch.com]",
-    "Figma [figma.com]"
+    "Scratch [scratch.mit.edu]",
+    "Tinkercad [tinkercad.com]",
+    "Processing [processing.org]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Adobe Creative Cloud",
-      "url": "adobe.com",
-      "reason": "Comprehensive creative suite with extensive tools"
+      "name": "Scratch",
+      "url": "scratch.mit.edu",
+      "reason": "Offers easy-to-learn visual programming"
     },
     {
-      "name": "Sketch",
-      "url": "sketch.com",
-      "reason": "Vector graphics editor with collaborative features"
+      "name": "Tinkercad",
+      "url": "tinkercad.com",
+      "reason": "Simple, online 3D design and modeling tool"
     },
     {
-      "name": "Figma",
-      "url": "figma.com",
-      "reason": "Popular UI/UX design tool with real-time collaboration"
+      "name": "Processing",
+      "url": "processing.org",
+      "reason": "Open source software sketchbook for visual arts"
     }
   ],
   "tags": [
     "creative computing",
     "digital art",
-    "innovation",
-    "technology"
+    "education",
+    "innovation"
   ],
   "apiUsed": false,
   "department": "Creative",
   "function": "Design Tools",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://bitspace.sh/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=bitspace&type=repositories",
   "twitterUrl": "https://twitter.com/newfrgmnt",
-  "screenshot": "/screenshots/bitspace_sh.png",
-  "screenshot_640": "/screenshots/bitspace_sh_640.png",
-  "screenshot_400": "/screenshots/bitspace_sh_400.png",
-  "updatedAt": "2025-05-08T09:27:53.624Z"
+  "screenshot": "https://share.appsfor.us/screenshots/bitspace_sh.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bitspace_sh_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bitspace_sh_400.png",
+  "updatedAt": "2025-05-24T10:49:54.026Z"
 }

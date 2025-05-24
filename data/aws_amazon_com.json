@@ -2,12 +2,12 @@
   "sourceUrl": "https://aws.amazon.com/",
   "name": "Amazon Web Services",
   "title": "aws.amazon.com",
-  "payoff": "Comprehensive cloud computing services",
-  "shortDescription": "Amazon Web Services (AWS) provides a broad set of cloud-based products and solutions, catering to developers, organizations, and industries. Users can leverage AWS for computing power, database storage, content delivery, and other functionalities to help them scale and grow. An example use case is a startup using AWS's scalable compute services to handle varying loads of web traffic.",
+  "payoff": "Build on the cloud with AWS",
+  "shortDescription": "Amazon Web Services (AWS) offers a comprehensive cloud computing platform that provides a wide range of services including computing power, database storage, and content delivery. It's designed for developers, startups, and enterprises to scale and grow. Example use case: A startup can quickly deploy web applications on AWS to handle sudden traffic spikes without upfront hardware investments.",
   "pros": [
-    "Extensive global network",
+    "Extensive global network of data centers",
     "Wide range of services and tools",
-    "Strong security and compliance features"
+    "Strong security and compliance capabilities"
   ],
   "cons": [
     "Can be complex to configure",
@@ -15,32 +15,32 @@
     "Potential vendor lock-in"
   ],
   "alternatives": [
-    "Microsoft Azure [azure.microsoft.com]",
+    "Microsoft Azure [azure.com]",
     "Google Cloud Platform [cloud.google.com]",
-    "IBM Cloud [ibm.com/cloud]"
+    "IBM Cloud [ibm.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Microsoft Azure",
-      "url": "azure.microsoft.com",
+      "url": "azure.com",
       "reason": "Similar extensive cloud services"
     },
     {
       "name": "Google Cloud Platform",
       "url": "cloud.google.com",
-      "reason": "Focus on AI and machine learning"
+      "reason": "Strong AI and machine learning tools"
     },
     {
       "name": "IBM Cloud",
-      "url": "ibm.com/cloud",
-      "reason": "Strong in hybrid cloud solutions"
+      "url": "ibm.com",
+      "reason": "Focus on enterprise hybrid cloud"
     }
   ],
   "tags": [
     "cloud computing",
     "data storage",
-    "AI services",
-    "global infrastructure"
+    "content delivery",
+    "database management"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.aws.amazon.com",
   "githubUrl": "https://github.com/search?q=amazon%20web%20services&type=repositories",
   "twitterUrl": "https://twitter.com/awscloud",
-  "screenshot": "https://share.appsfor.us/screenshots/aws_amazon_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/aws_amazon_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/aws_amazon_com_400.png",
-  "updatedAt": "2025-05-24T10:37:34.844Z"
+  "screenshot": "/screenshots/aws_amazon_com.png",
+  "screenshot_640": "/screenshots/aws_amazon_com_640.png",
+  "screenshot_400": "/screenshots/aws_amazon_com_400.png",
+  "updatedAt": "2025-05-09T11:17:34.132Z"
 }

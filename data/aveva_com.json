@@ -3,57 +3,57 @@
   "name": "PI System",
   "title": "aveva.com",
   "payoff": "Optimize operations with real-time data",
-  "shortDescription": "AVEVA PI System is a robust data management solution designed for industrial operations. It helps collect, cleanse, store, and visualize real-time operations data, ensuring IT compliance. Ideal for operators, plant managers, and executives, it enhances efficiency, resilience, and sustainability. For instance, it's used by top pharma and energy companies to manage critical operations data.",
+  "shortDescription": "AVEVA PI System is a comprehensive data management solution designed for industrial operations. It helps collect, cleanse, store, and visualize real-time operations data, ensuring IT compliance. Ideal for operators, plant managers, and data analysts, it is used widely in industries like pharma, utilities, and oil & gas to enhance operational efficiency, resilience, and sustainability.",
   "pros": [
     "Supports a wide range of industry protocols",
-    "High data reliability even during network disruptions",
-    "Scalable across edge, on-prem, and cloud environments"
+    "High availability and automatic failover",
+    "Integrated visualization tools"
   ],
   "cons": [
     "Complex setup for non-technical users",
-    "Potentially high cost of ownership",
+    "Potential high cost of ownership",
     "Requires significant IT infrastructure"
   ],
   "alternatives": [
-    "ThingWorx [ptc.com]",
-    "Predix Platform [ge.com]",
-    "MindSphere [siemens.com]"
+    "OSIsoft PI System [osisoft.com]",
+    "Honeywell Forge [honeywellforge.ai]",
+    "Siemens MindSphere [siemens.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "ThingWorx",
-      "url": "ptc.com",
-      "reason": "Flexible IoT platform for various industries"
+      "name": "OSIsoft PI System",
+      "url": "osisoft.com",
+      "reason": "Industry standard for real-time data"
     },
     {
-      "name": "Predix Platform",
-      "url": "ge.com",
-      "reason": "Industrial IoT platform by GE"
+      "name": "Honeywell Forge",
+      "url": "honeywellforge.ai",
+      "reason": "Offers advanced IoT integration"
     },
     {
-      "name": "MindSphere",
+      "name": "Siemens MindSphere",
       "url": "siemens.com",
-      "reason": "Cloud-based, open IoT operating system"
+      "reason": "Focus on digital twin technologies"
     }
   ],
   "tags": [
     "data management",
     "real-time analytics",
     "industrial IoT",
-    "operations optimization"
+    "visualization"
   ],
   "apiUsed": true,
   "department": "Operations",
   "function": "Data Storage",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 1990,
+  "releasedYear": 1980,
   "websiteUrl": "https://aveva.com/en/products/aveva-pi-system/",
   "documentationUrl": "https://aveva.com/en/products/aveva-pi-system/",
   "githubUrl": "https://github.com/search?q=pi%20system&type=repositories",
   "twitterUrl": "https://x.com/AVEVAGroup",
-  "screenshot": "https://share.appsfor.us/screenshots/aveva_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/aveva_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/aveva_com_400.png",
-  "updatedAt": "2025-05-24T10:35:59.247Z"
+  "screenshot": "/screenshots/aveva_com.png",
+  "screenshot_640": "/screenshots/aveva_com_640.png",
+  "screenshot_400": "/screenshots/aveva_com_400.png",
+  "updatedAt": "2025-05-10T10:14:22.763Z"
 }

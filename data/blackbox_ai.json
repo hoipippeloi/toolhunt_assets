@@ -3,16 +3,16 @@
   "name": "BLACKBOX.AI",
   "title": "blackbox.ai",
   "payoff": "Ask Blackbox AI Anything",
-  "shortDescription": "BLACKBOX.AI leverages advanced AI models to provide solutions in software engineering, instruction compliance, and multimodal understanding. It is ideal for developers, enterprises, and researchers needing high-performance AI tools. Example use cases include IDE tooling, code diffs, and knowledge retrieval across large documents.",
+  "shortDescription": "BLACKBOX.AI leverages advanced AI models to provide solutions for software engineering, instruction compliance, and multimodal understanding. Ideal for developers, researchers, and enterprises, it facilitates enhanced code diffs, agent reliability, and document retrieval. Example use cases include IDE tooling and enterprise knowledge management.",
   "pros": [
     "Supports 1 million token context window",
-    "Optimized for high recall in large documents",
-    "Offers precise code diffs and agent reliability"
+    "High performance across multiple AI benchmarks",
+    "Optimized for both coding and multimodal tasks"
   ],
   "cons": [
-    "May require high computational resources",
-    "Complexity may be overkill for simpler tasks",
-    "Potential high cost for enterprise use"
+    "May be complex for beginners",
+    "High resource requirements for optimal use",
+    "Limited information on user support"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
@@ -28,19 +28,19 @@
     {
       "name": "DeepMind",
       "url": "deepmind.com",
-      "reason": "Pioneers in AI for complex problem solving"
+      "reason": "Pioneers in AI and deep learning"
     },
     {
       "name": "Anthropic",
       "url": "anthropic.com",
-      "reason": "Focus on safe and interpretable AI models"
+      "reason": "Focus on safe and interpretable AI"
     }
   ],
   "tags": [
     "AI",
-    "machine learning",
-    "data extraction",
-    "software engineering"
+    "software engineering",
+    "knowledge retrieval",
+    "IDE tooling"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2023,
   "websiteUrl": "https://blackbox.ai/",
-  "documentationUrl": "https://api-docs.blackbox.ai",
+  "documentationUrl": "https://blackbox.ai/docs",
   "githubUrl": "https://github.com/search?q=blackbox%20ai&type=repositories",
   "twitterUrl": "https://x.com/AiBlckbx",
-  "screenshot": "/screenshots/blackbox_ai.png",
-  "screenshot_640": "/screenshots/blackbox_ai_640.png",
-  "screenshot_400": "/screenshots/blackbox_ai_400.png",
-  "updatedAt": "2025-05-10T06:19:00.809Z"
+  "screenshot": "https://share.appsfor.us/screenshots/blackbox_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/blackbox_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/blackbox_ai_400.png",
+  "updatedAt": "2025-05-24T10:50:30.379Z"
 }

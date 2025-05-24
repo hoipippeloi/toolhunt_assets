@@ -3,57 +3,57 @@
   "name": "Befront",
   "title": "befront.io",
   "payoff": "Learn design skills through practice",
-  "shortDescription": "Befront offers a unique approach to learning design by integrating real-life cases into its training modules. Users can enhance their UX/UI skills using Befront's interactive Figma Plugin, which provides bite-sized practical tasks and instant feedback. Ideal for aspiring designers, this tool helps users become proficient in Figma through guided tutorials and continuous practice. An example use case is a beginner designer wanting to improve their skills systematically while working on real-world design challenges.",
+  "shortDescription": "Befront offers a unique approach to learning design by integrating real-life cases into bite-sized practical tasks. Users can enhance their UX/UI skills using the interactive Figma Plugin, which provides instant feedback. Ideal for aspiring designers, Befront helps you master design fundamentals and advanced techniques through weekly practice sessions.",
   "pros": [
     "Step-by-step guided tutorials",
-    "Real-life case studies",
-    "Interactive learning with instant feedback"
+    "Interactive learning with instant feedback",
+    "No credit card required for starting"
   ],
   "cons": [
     "Limited to design skills",
-    "Dependent on Figma",
-    "No advanced customization options"
+    "Dependent on Figma for functionality",
+    "No clear information on pricing"
   ],
   "alternatives": [
+    "Adobe XD [adobe.com]",
     "Sketch [sketch.com]",
-    "Adobe XD [adobe.com/products/xd.html]",
     "InVision [invisionapp.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Sketch",
-      "url": "sketch.com",
-      "reason": "Popular tool for vector design and prototyping."
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Comprehensive design tool with collaboration features"
     },
     {
-      "name": "Adobe XD",
-      "url": "adobe.com/products/xd.html",
-      "reason": "Comprehensive tool for UX/UI design."
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular among Mac users for UI/UX design"
     },
     {
       "name": "InVision",
       "url": "invisionapp.com",
-      "reason": "Collaborative design and prototyping."
+      "reason": "Focuses on prototyping with strong collaboration tools"
     }
   ],
   "tags": [
     "design tools",
-    "interactive learning",
-    "UX/UI",
-    "Figma plugin"
+    "e-learning",
+    "UX/UI design",
+    "interactive learning"
   ],
   "apiUsed": false,
   "department": "Design",
-  "function": "Design Tools",
+  "function": "E-Learning",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://befront.io/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=befront&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/befront_io.png",
-  "screenshot_640": "/screenshots/befront_io_640.png",
-  "screenshot_400": "/screenshots/befront_io_400.png",
-  "updatedAt": "2025-05-16T05:15:47.722Z"
+  "screenshot": "https://share.appsfor.us/screenshots/befront_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/befront_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/befront_io_400.png",
+  "updatedAt": "2025-05-24T10:49:13.358Z"
 }

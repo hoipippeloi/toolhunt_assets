@@ -2,52 +2,52 @@
   "sourceUrl": "https://basecoatui.com/",
   "name": "Basecoat",
   "title": "basecoatui.com",
-  "payoff": "UI magic without React",
-  "shortDescription": "Basecoat is a versatile components library designed using Tailwind CSS, compatible across various web stacks. It's ideal for developers looking to implement UI components without the overhead of specific frameworks like React. Example use case includes integrating Basecoat in a tech stack for rapid prototyping and scalable front-end development.",
+  "payoff": "All the UI magic, none of the React",
+  "shortDescription": "Basecoat is a versatile components library built with Tailwind CSS, designed to integrate seamlessly with any web stack. It's ideal for developers looking to enhance their web projects with high-quality UI components without committing to a specific frontend framework. Example use case: A web developer quickly implements a responsive UI for an e-commerce site using Basecoat's ready-made components like Buttons, Cards, and Forms.",
   "pros": [
-    "Framework agnostic",
-    "Built with Tailwind CSS",
-    "Easy to integrate"
+    "Framework-agnostic integration",
+    "Built with Tailwind CSS for customization",
+    "Comprehensive set of UI components"
   ],
   "cons": [
-    "Limited community support",
-    "No built-in React support",
-    "Sparse documentation"
+    "Limited to UI components only",
+    "No built-in JavaScript functionality",
+    "May require Tailwind CSS familiarity"
   ],
   "alternatives": [
     "Tailwind UI [tailwindui.com]",
-    "Bootstrap [getbootstrap.com]",
-    "Material UI [mui.com]"
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Tailwind UI",
       "url": "tailwindui.com",
-      "reason": "Offers UI components with Tailwind"
+      "reason": "Offers Tailwind CSS components"
     },
     {
-      "name": "Bootstrap",
-      "url": "getbootstrap.com",
-      "reason": "Widely used CSS framework with components"
-    },
-    {
-      "name": "Material UI",
+      "name": "Material-UI",
       "url": "mui.com",
-      "reason": "React components for faster web dev"
+      "reason": "Comprehensive React UI framework"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Large scale of design patterns and components"
     }
   ],
   "tags": [
     "UI components",
-    "CSS framework",
     "web development",
-    "Tailwind CSS"
+    "Tailwind CSS",
+    "frontend"
   ],
   "apiUsed": false,
   "department": "Development",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://basecoatui.com/",
   "documentationUrl": "https://basecoatui.com/docs",
   "githubUrl": "https://github.com/hunvreus/basecoat",
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/basecoatui_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/basecoatui_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/basecoatui_com_400.png",
-  "updatedAt": "2025-05-24T10:38:44.734Z"
+  "updatedAt": "2025-05-23T12:28:33.566Z"
 }

@@ -3,44 +3,44 @@
   "name": "AvoMap",
   "title": "avomap.com",
   "payoff": "Create 3D adventure videos easily",
-  "shortDescription": "AvoMap transforms your GPS data into stunning 3D animated videos, ideal for adventurers and travelers. Whether you're showcasing a cross-country trip or a global journey, AvoMap allows you to visualize it with dynamic camera movements and custom markers. It's perfect for creating professional-looking videos of your travels, combining different segments like flights and road trips into one seamless experience.",
+  "shortDescription": "AvoMap transforms your GPS data into stunning 3D videos, ideal for adventurers and travelers. Users can import routes from various activities like flights, road trips, or cycling and combine them into a single video. The tool offers dynamic camera controls, custom symbols, and the ability to add personal touches like avatars or logos, making it perfect for personal storytelling or professional showcases.",
   "pros": [
-    "Dynamic camera for immersive videos",
-    "Supports various GPS file formats",
-    "Customizable markers and symbols"
+    "Dynamic camera adjustments for immersive videos",
+    "Supports importing from major GPS data formats",
+    "Customizable symbols and markers for personalization"
   ],
   "cons": [
-    "May require learning for new users",
-    "Limited to adventure and travel videos",
-    "No API for developer integration"
+    "May require learning for optimal use",
+    "Limited to video outputs, no other media formats",
+    "Potential privacy concerns with location data"
   ],
   "alternatives": [
-    "TravelBoast [travelboast.com]",
+    "TravelAnimator [travelanimator.com]",
     "PictraMap [pictramap.com]",
     "Rumbo [rumbo.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "TravelBoast",
-      "url": "travelboast.com",
-      "reason": "Focuses on travel video creation"
+      "name": "TravelAnimator",
+      "url": "travelanimator.com",
+      "reason": "Offers similar travel video features"
     },
     {
       "name": "PictraMap",
       "url": "pictramap.com",
-      "reason": "Similar GPS-based video tool"
+      "reason": "Focuses on animated travel maps"
     },
     {
       "name": "Rumbo",
       "url": "rumbo.com",
-      "reason": "Offers travel video features"
+      "reason": "Combines travel planning with video"
     }
   ],
   "tags": [
     "video editing",
-    "GPS data visualization",
-    "travel",
-    "adventure"
+    "GPS tracking",
+    "3D visualization",
+    "travel tech"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=avomap&type=repositories",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/avomap_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/avomap_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/avomap_com_400.png",
-  "updatedAt": "2025-05-24T10:36:43.614Z"
+  "screenshot": "/screenshots/avomap_com.png",
+  "screenshot_640": "/screenshots/avomap_com_640.png",
+  "screenshot_400": "/screenshots/avomap_com_400.png",
+  "updatedAt": "2025-05-22T04:46:20.694Z"
 }
