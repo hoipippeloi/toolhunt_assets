@@ -2,17 +2,17 @@
   "sourceUrl": "https://grafana.com/",
   "name": "Grafana",
   "title": "grafana.com",
-  "payoff": "Composable observability platform",
-  "shortDescription": "Grafana is a comprehensive observability platform that allows users to monitor, visualize, and understand their metrics, logs, and traces. It is designed for developers, DevOps teams, and security professionals. Users can create custom dashboards to track real-time data across applications and infrastructure. An example use case is monitoring the performance of a cloud-based service, identifying bottlenecks, and improving system reliability.",
+  "payoff": "Compose observability across your stack",
+  "shortDescription": "Grafana is a powerful observability platform that enables you to monitor, visualize, and understand your metrics, logs, and traces. It is designed for developers, DevOps teams, and security professionals. Users can create rich dashboards to track real-time data across applications and infrastructure, making it easier to diagnose and resolve issues.",
   "pros": [
-    "Extensive visualization capabilities",
-    "Supports multiple data sources",
-    "Highly customizable and extensible"
+    "Rich visualization capabilities",
+    "Integrates with multiple data sources",
+    "Scalable and extensible architecture"
   ],
   "cons": [
     "Steep learning curve for new users",
     "Can be resource-intensive",
-    "Complex setup for advanced configurations"
+    "Complex configuration for advanced setups"
   ],
   "alternatives": [
     "Prometheus [prometheus.io]",
@@ -28,12 +28,12 @@
     {
       "name": "Datadog",
       "url": "datadoghq.com",
-      "reason": "Comprehensive cloud monitoring"
+      "reason": "Cloud-based monitoring with AI features"
     },
     {
       "name": "New Relic",
       "url": "newrelic.com",
-      "reason": "Full-stack observability with APM"
+      "reason": "Comprehensive enterprise observability suite"
     }
   ],
   "tags": [
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/grafana_com.png",
   "screenshot_640": "/screenshots/grafana_com_640.png",
   "screenshot_400": "/screenshots/grafana_com_400.png",
-  "updatedAt": "2025-05-14T02:55:00.420Z"
+  "updatedAt": "2025-05-24T02:51:22.502Z"
 }

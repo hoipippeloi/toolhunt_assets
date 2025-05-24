@@ -3,15 +3,15 @@
   "name": "GoatSign",
   "title": "goatsign.io",
   "payoff": "Makes Signing Goated!",
-  "shortDescription": "GoatSign simplifies the document signing process for busy professionals by offering a seamless, secure, and legally binding solution. Users can easily manage document signing with features like profile verification, two-factor authentication, and SSL encryption. Ideal for businesses needing efficient collaboration and validation of documents.",
+  "shortDescription": "GoatSign simplifies the document signing process for busy professionals. It offers seamless collaboration, consistency, and security features such as SSL encryption and two-factor authentication. Ideal for businesses needing reliable and secure electronic signatures.",
   "pros": [
-    "Legally binding signatures",
-    "Robust security features",
-    "User-friendly interface"
+    "Robust security measures",
+    "User-friendly interface",
+    "No credit card required for starting"
   ],
   "cons": [
     "Limited customization options",
-    "No clear pricing information",
+    "No clear pricing information available",
     "Potentially limited integrations"
   ],
   "alternatives": [
@@ -23,31 +23,31 @@
     {
       "name": "DocuSign",
       "url": "docusign.com",
-      "reason": "Widely used for e-signatures, offers robust features."
+      "reason": "Widely used with extensive features."
     },
     {
       "name": "HelloSign",
       "url": "hellosign.com",
-      "reason": "Simpler interface and competitive pricing."
+      "reason": "Offers efficient signing with a simple UI."
     },
     {
       "name": "Adobe Sign",
       "url": "adobe.com",
-      "reason": "Integrated with Adobe's extensive product suite."
+      "reason": "Integrates well with other Adobe products."
     }
   ],
   "tags": [
     "E-Signatures",
     "Document Management",
     "Security",
-    "Legal Compliance"
+    "Compliance"
   ],
   "apiUsed": false,
   "department": "Legal & Compliance",
   "function": "E-Signatures",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://goatsign.io/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=goatsign&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/goatsign_io.png",
   "screenshot_640": "/screenshots/goatsign_io_640.png",
   "screenshot_400": "/screenshots/goatsign_io_400.png",
-  "updatedAt": "2025-05-22T04:46:55.189Z"
+  "updatedAt": "2025-05-24T02:50:49.328Z"
 }

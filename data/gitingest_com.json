@@ -2,50 +2,49 @@
   "sourceUrl": "https://gitingest.com/",
   "name": "Gitingest",
   "title": "gitingest.com",
-  "payoff": "Simplify Git repos for LLM input",
-  "shortDescription": "Gitingest transforms any Git repository into a text-based digest, making it easier to integrate with language learning models (LLMs). This tool is particularly useful for developers and researchers who want to analyze codebases through AI models. For example, by modifying a GitHub URL to include 'ingest', users can quickly generate a digest of the repository for further processing.",
+  "payoff": "Digest Git repos for LLM input.",
+  "shortDescription": "Gitingest transforms any Git repository into a streamlined text digest, making it easier to feed codebases into language learning models (LLMs). This tool is particularly useful for developers and researchers who want to analyze code or train models on code data. For example, by modifying a GitHub URL to include 'ingest' instead of 'hub', users can quickly generate a digestible format of the repository for further processing.",
   "pros": [
-    "Easy integration with LLMs",
-    "Simplifies complex codebases",
-    "Customizable GitHub URL modification"
+    "Simplifies codebase analysis",
+    "Facilitates LLM training",
+    "Easy integration with GitHub URLs"
   ],
   "cons": [
     "Limited to Git repositories",
-    "May oversimplify complex code structures",
-    "Dependent on external repository availability"
+    "May not handle large repositories efficiently",
+    "Lacks advanced customization options"
   ],
   "alternatives": [
     "Sourcegraph [sourcegraph.com]",
-    "GitLab [gitlab.com]",
+    "GitKraken [gitkraken.com]",
     "Bitbucket [bitbucket.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Sourcegraph",
       "url": "sourcegraph.com",
-      "reason": "Offers code search and intelligence"
+      "reason": "Offers advanced code search and intelligence."
     },
     {
-      "name": "GitLab",
-      "url": "gitlab.com",
-      "reason": "Provides comprehensive repo management"
+      "name": "GitKraken",
+      "url": "gitkraken.com",
+      "reason": "Provides visual Git workflows."
     },
     {
       "name": "Bitbucket",
       "url": "bitbucket.org",
-      "reason": "Integrates with Jira and Trello"
+      "reason": "Integrates with Jira and Trello."
     }
   ],
   "tags": [
     "code analysis",
-    "LLM integration",
-    "repository management",
-    "software development"
+    "LLM training",
+    "Git integration"
   ],
   "apiUsed": false,
   "department": "Research & Development",
-  "function": "Data Sync",
-  "freeTier": false,
+  "function": "Data Storage",
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://gitingest.com/",
@@ -55,5 +54,5 @@
   "screenshot": "/screenshots/gitingest_com.png",
   "screenshot_640": "/screenshots/gitingest_com_640.png",
   "screenshot_400": "/screenshots/gitingest_com_400.png",
-  "updatedAt": "2025-05-13T05:15:43.871Z"
+  "updatedAt": "2025-05-24T02:50:14.510Z"
 }
