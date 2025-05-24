@@ -3,16 +3,16 @@
   "name": "10Web",
   "title": "10web.io",
   "payoff": "Grow Your Business Online",
-  "shortDescription": "10Web is an AI-powered platform designed to simplify the process of building, hosting, and managing websites. It caters to small businesses and individuals looking to launch online without technical expertise. Users can quickly create customizable websites or online stores using AI tools. An example use case is a small business owner who wants to set up an e-commerce site with integrated management tools and AI-driven optimizations.",
+  "shortDescription": "10Web is an AI-powered platform designed to simplify the process of building, hosting, and managing websites. It's tailored for small businesses, entrepreneurs, and agencies looking to launch online without technical complexities. Users can create customizable WordPress sites quickly with AI assistance, manage eCommerce stores, and ensure high performance with managed hosting solutions.",
   "pros": [
-    "AI-driven website and e-commerce builders",
-    "Managed WordPress hosting solutions",
-    "No technical skills required for setup"
+    "AI-driven website and eCommerce site building",
+    "Managed WordPress hosting for various needs",
+    "High PageSpeed scores and seamless migration"
   ],
   "cons": [
-    "Limited customization compared to open-source solutions",
-    "Potentially higher cost than basic hosting services",
-    "Dependence on a single provider for multiple services"
+    "Limited to WordPress platform",
+    "May not suit very large enterprises",
+    "Pricing can be unclear from the basic description"
   ],
   "alternatives": [
     "Wix [wix.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Wix",
       "url": "wix.com",
-      "reason": "Offers extensive design flexibility"
+      "reason": "Offers more design flexibility"
     },
     {
       "name": "Squarespace",
       "url": "squarespace.com",
-      "reason": "Focus on aesthetics and user-friendly designs"
+      "reason": "Strong focus on aesthetics"
     },
     {
       "name": "Shopify",
       "url": "shopify.com",
-      "reason": "Specializes in e-commerce solutions"
+      "reason": "Specializes in eCommerce solutions"
     }
   ],
   "tags": [
     "AI",
     "website builder",
     "WordPress",
-    "e-commerce"
+    "managed hosting"
   ],
   "apiUsed": true,
-  "department": "Marketing",
+  "department": "Information Technology",
   "function": "Site Builder",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2018,
+  "releasedYear": 2010,
   "websiteUrl": "https://10web.io/",
-  "documentationUrl": "https://10web.io/documentation",
+  "documentationUrl": "https://help.10web.io/hc/en-us/articles/360028017772-10Web-Public-Roadmap",
   "githubUrl": "https://github.com/search?q=10web&type=repositories",
   "twitterUrl": "https://twitter.com/10Web_io",
-  "screenshot": "/screenshots/10web_io.webp",
-  "screenshot_640": "/screenshots/10web_io_640.webp",
-  "screenshot_400": "/screenshots/10web_io_400.webp",
-  "updatedAt": "2025-05-23T11:12:21.517Z"
+  "screenshot": "https://share.appsfor.us/screenshots/10web_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/10web_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/10web_io_400.png",
+  "updatedAt": "2025-05-24T09:56:18.898Z"
 }
