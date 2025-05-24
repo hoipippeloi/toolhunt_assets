@@ -3,14 +3,14 @@
   "name": "Alice",
   "title": "alice.tech",
   "payoff": "Study smart. Own your exams.",
-  "shortDescription": "Alice is an AI-powered study tool designed to help students optimize their learning process. By transforming uploaded materials into tailored notes and exercises, Alice identifies study gaps and enhances exam preparation. Ideal for students who need efficient, personalized study aids, Alice acts like a smart, supportive friend who prepares you for academic success.",
+  "shortDescription": "Alice is an AI-powered study tool designed to enhance the learning experience for students. It converts uploaded materials into tailored notes and interactive exercises, helping users identify knowledge gaps and prepare effectively for exams. Ideal for students who need efficient, personalized study aids.",
   "pros": [
-    "Personalized study materials",
+    "Personalized learning experience",
     "Supports multiple languages",
-    "Instant feedback on exercises"
+    "Offers a free usage tier"
   ],
   "cons": [
-    "Limited free plan usage",
+    "Limited features in the free plan",
     "Dependent on quality of uploaded content",
     "No offline functionality"
   ],
@@ -23,37 +23,37 @@
     {
       "name": "Quizlet",
       "url": "quizlet.com",
-      "reason": "Offers study sets and interactive tools"
+      "reason": "Offers diverse study modes and games"
     },
     {
       "name": "Khan Academy",
       "url": "khanacademy.org",
-      "reason": "Provides comprehensive educational resources"
+      "reason": "Provides comprehensive educational videos"
     },
     {
       "name": "Coursera",
       "url": "coursera.org",
-      "reason": "Wide range of courses and professional certificates"
+      "reason": "Offers courses from universities worldwide"
     }
   ],
   "tags": [
     "E-Learning",
-    "AI",
+    "AI & ML",
     "Study Tool",
-    "Academic Support"
+    "Academic Assistance"
   ],
   "apiUsed": false,
   "department": "Research & Development",
   "function": "E-Learning",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://alice.tech/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=alice&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/alice_tech.webp",
-  "screenshot_640": "/screenshots/alice_tech_640.webp",
-  "screenshot_400": "/screenshots/alice_tech_400.webp",
-  "updatedAt": "2025-05-23T11:40:21.550Z"
+  "screenshot": "https://share.appsfor.us/screenshots/alice_tech.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/alice_tech_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/alice_tech_400.png",
+  "updatedAt": "2025-05-24T10:09:49.637Z"
 }
