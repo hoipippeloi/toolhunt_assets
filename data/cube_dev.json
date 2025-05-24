@@ -3,21 +3,21 @@
   "name": "Cube",
   "title": "cube.dev",
   "payoff": "Unified AI and analytics solutions",
-  "shortDescription": "Cube is a universal semantic layer platform that modernizes the traditional OLAP approach to data management. It is designed for enterprise teams to ensure consistent data models and metrics across various applications. By integrating Cube, organizations can enhance their data analytics capabilities, making data fast and reliable for consumption and AI applications. An example use case would be a large corporation using Cube to streamline data access and analysis across multiple departments, improving decision-making processes.",
+  "shortDescription": "Cube is a universal semantic layer platform that modernizes the way enterprises handle and utilize data. It serves as an evolution of OLAP, ensuring consistent data models and metrics across various applications. Ideal for businesses looking to enhance data reliability and speed, Cube makes data AI-ready and simplifies integration across systems. An example use case includes large enterprises integrating Cube to streamline data analytics processes and improve decision-making efficiency.",
   "pros": [
-    "Ensures consistent data models",
-    "Speeds up data delivery",
-    "Makes data AI-ready"
+    "Ensures consistent data models and metrics",
+    "Delivers fast, trusted data to any consumer",
+    "Makes data AI-ready for advanced applications"
   ],
   "cons": [
-    "Complex setup for new users",
-    "May require significant resources",
-    "Limited customization options"
+    "May require technical expertise to implement",
+    "Potentially high cost for small businesses",
+    "Limited information on specific features"
   ],
   "alternatives": [
     "Looker [looker.com]",
     "Tableau [tableau.com]",
-    "Power BI [powerbi.com]"
+    "Power BI [powerbi.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,32 +28,32 @@
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Popular for visual analytics"
+      "reason": "Popular for visual analytics capabilities"
     },
     {
       "name": "Power BI",
-      "url": "powerbi.com",
+      "url": "powerbi.microsoft.com",
       "reason": "Integrates well with Microsoft products"
     }
   ],
   "tags": [
-    "data management",
-    "analytics",
+    "data analytics",
     "AI",
-    "semantic layer"
+    "semantic layer",
+    "data integration"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
   "function": "Analytics",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2019,
+  "releasedYear": 2020,
   "websiteUrl": "https://cube.dev/",
   "documentationUrl": "https://cube.dev/docs",
   "githubUrl": "https://github.com/cube-js/cube.js",
   "twitterUrl": null,
-  "screenshot": "/screenshots/cube_dev.png",
-  "screenshot_640": "/screenshots/cube_dev_640.png",
-  "screenshot_400": "/screenshots/cube_dev_400.png",
-  "updatedAt": "2025-05-13T04:23:03.662Z"
+  "screenshot": "https://share.appsfor.us/screenshots/cube_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cube_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cube_dev_400.png",
+  "updatedAt": "2025-05-24T11:48:02.289Z"
 }

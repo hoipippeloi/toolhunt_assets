@@ -3,16 +3,16 @@
   "name": "Cyclops",
   "title": "cyclops-ui.com",
   "payoff": "Simplify Kubernetes management",
-  "shortDescription": "Cyclops is a developer-friendly tool designed to manage Kubernetes workloads through an intuitive UI. It integrates with Helm for deploying and monitoring applications, making it ideal for developers of varying Kubernetes expertise. An example use case is for DevOps teams to streamline application deployment, reducing the need for deep Kubernetes knowledge.",
+  "shortDescription": "Cyclops is a Kubernetes management tool designed to simplify the deployment and monitoring of applications. It integrates with Helm for streamlined operations, making it accessible to developers of all skill levels. An example use case is a developer using Cyclops to manage Kubernetes workloads efficiently, reducing configuration overhead and focusing more on development.",
   "pros": [
     "Intuitive form-based UI",
-    "Seamless integration with Helm",
-    "Enhanced observability with tools like Prometheus and Grafana"
+    "Seamless integration with tools like Helm, Prometheus, and Grafana",
+    "Enhances developer productivity by simplifying Kubernetes complexities"
   ],
   "cons": [
     "May not support all Kubernetes configurations",
     "Potentially limited customization options",
-    "Dependent on the Helm ecosystem"
+    "Dependent on third-party integrations like Helm"
   ],
   "alternatives": [
     "Rancher [rancher.com]",
@@ -28,7 +28,7 @@
     {
       "name": "OpenShift",
       "url": "openshift.com",
-      "reason": "Enterprise Kubernetes with integrated dev tools"
+      "reason": "Provides enterprise-level Kubernetes solutions"
     },
     {
       "name": "Kubernetes Dashboard",
@@ -37,23 +37,23 @@
     }
   ],
   "tags": [
-    "Kubernetes",
-    "DevOps",
-    "UI management",
-    "Helm integration"
+    "Kubernetes management",
+    "Helm integration",
+    "Developer tools",
+    "UI simplification"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Information Technology",
   "function": "Infrastructure Code",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2018,
   "websiteUrl": "https://cyclops-ui.com/",
   "documentationUrl": "https://cyclops-ui.com/docs",
   "githubUrl": "https://github.com/cyclops-ui/cyclops",
   "twitterUrl": "https://x.com/CyclopsUI",
-  "screenshot": "/screenshots/cyclops_ui_com.png",
-  "screenshot_640": "/screenshots/cyclops_ui_com_640.png",
-  "screenshot_400": "/screenshots/cyclops_ui_com_400.png",
-  "updatedAt": "2025-05-23T14:15:45.003Z"
+  "screenshot": "https://share.appsfor.us/screenshots/cyclops_ui_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cyclops_ui_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cyclops_ui_com_400.png",
+  "updatedAt": "2025-05-24T11:49:01.993Z"
 }

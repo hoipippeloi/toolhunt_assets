@@ -2,45 +2,45 @@
   "sourceUrl": "https://craftui.studio/",
   "name": "CraftUI",
   "title": "craftui.studio",
-  "payoff": "Effortless UI creation in one click",
-  "shortDescription": "CraftUI revolutionizes the way designers and developers create user interfaces. By allowing users to convert sketches and text prompts into fully functional UIs with a single click, it caters to both professionals and novices. An example use case includes a developer quickly turning a rough sketch into a polished product card design, significantly speeding up the development process.",
+  "payoff": "Effortless UI creation",
+  "shortDescription": "CraftUI revolutionizes the way designers and developers create user interfaces. By allowing users to convert sketches and text prompts into fully functional UIs with a single click, CraftUI caters to both seasoned professionals and novices. An example use case is a designer quickly turning a hand-drawn layout into a polished web interface during a client meeting, enhancing productivity and client engagement.",
   "pros": [
-    "Converts sketches to UI instantly",
+    "Rapid conversion from sketch to UI",
     "Supports text and image inputs",
-    "Variety of UI components"
+    "Streamlines the design process"
   ],
   "cons": [
-    "May not handle complex designs",
+    "May not handle complex designs well",
     "Limited customization options",
-    "Dependent on input quality"
+    "Dependent on initial input quality"
   ],
   "alternatives": [
-    "Sketch [sketch.com]",
     "Figma [figma.com]",
-    "Adobe XD [adobe.com]"
+    "Adobe XD [adobe.com/products/xd.html]",
+    "Sketch [sketch.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Sketch",
-      "url": "sketch.com",
-      "reason": "Offers extensive design features"
-    },
-    {
       "name": "Figma",
       "url": "figma.com",
-      "reason": "Collaborative UI design platform"
+      "reason": "Offers collaborative design features"
     },
     {
       "name": "Adobe XD",
-      "url": "adobe.com",
-      "reason": "Integrated with Adobe Creative Suite"
+      "url": "adobe.com/products/xd.html",
+      "reason": "Comprehensive toolset for UI/UX design"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Focused on vector UI design"
     }
   ],
   "tags": [
-    "UI Design",
-    "Visual Builder",
-    "AI",
-    "Design Tools"
+    "Design Tools",
+    "UI/UX",
+    "Automation",
+    "Visual Builder"
   ],
   "apiUsed": false,
   "department": "Design",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/imhardikdesai",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/craftui_studio.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/craftui_studio_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/craftui_studio_400.png",
-  "updatedAt": "2025-05-24T11:40:17.278Z"
+  "screenshot": "/screenshots/craftui_studio.png",
+  "screenshot_640": "/screenshots/craftui_studio_640.png",
+  "screenshot_400": "/screenshots/craftui_studio_400.png",
+  "updatedAt": "2025-05-11T05:14:20.384Z"
 }

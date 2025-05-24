@@ -3,37 +3,37 @@
   "name": "Crawlee",
   "title": "crawlee.dev",
   "payoff": "Build reliable crawlers. Fast.",
-  "shortDescription": "Crawlee is a versatile web scraping library designed for both JavaScript and Python developers. It simplifies the complexities of web scraping by managing blocking, crawling, proxies, and browsers automatically. This tool is ideal for data scientists, marketers, and developers who need to extract data efficiently from websites. An example use case could be gathering product information from e-commerce sites for market analysis.",
+  "shortDescription": "Crawlee is a powerful web scraping library designed for both JavaScript and Python developers. It simplifies the complexities of web scraping by managing blocking issues, handling proxies, and automating browser interactions. This tool is ideal for data scientists, marketers, and developers who need to extract data from the web efficiently. An example use case could be gathering product information from e-commerce sites to analyze market trends.",
   "pros": [
     "Handles blocking and proxies automatically",
     "Supports both JavaScript and Python",
-    "Community support via Discord and Stack Overflow"
+    "Integrates easily with browsers for scraping"
   ],
   "cons": [
     "Requires programming knowledge",
-    "May be blocked by some advanced anti-scraping measures",
+    "Potentially complex setup for beginners",
     "Limited to web scraping functionalities"
   ],
   "alternatives": [
     "Scrapy [scrapy.org]",
-    "Beautiful Soup [crummy.com/software/BeautifulSoup/]",
+    "Beautiful Soup [crummy.com]",
     "Octoparse [octoparse.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Scrapy",
       "url": "scrapy.org",
-      "reason": "Popular open-source scraping framework"
+      "reason": "Popular Python framework for web scraping."
     },
     {
       "name": "Beautiful Soup",
-      "url": "crummy.com/software/BeautifulSoup/",
-      "reason": "Easy-to-use library for beginners"
+      "url": "crummy.com",
+      "reason": "Easy to use tool for simpler scraping tasks."
     },
     {
       "name": "Octoparse",
       "url": "octoparse.com",
-      "reason": "No-code web scraping tool"
+      "reason": "No-code option for non-developers."
     }
   ],
   "tags": [
@@ -42,7 +42,7 @@
     "JavaScript",
     "Python"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Data & Analytics",
   "function": "Web Scraping",
   "freeTier": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://crawlee.dev/docs",
   "githubUrl": "https://github.com/apify/crawlee",
   "twitterUrl": "https://twitter.com/apify",
-  "screenshot": "https://share.appsfor.us/screenshots/crawlee_dev.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/crawlee_dev_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/crawlee_dev_400.png",
-  "updatedAt": "2025-05-24T11:40:58.597Z"
+  "screenshot": "/screenshots/crawlee_dev.png",
+  "screenshot_640": "/screenshots/crawlee_dev_640.png",
+  "screenshot_400": "/screenshots/crawlee_dev_400.png",
+  "updatedAt": "2025-05-18T01:13:16.026Z"
 }

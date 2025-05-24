@@ -2,17 +2,17 @@
   "sourceUrl": "https://dashlane.com/",
   "name": "Dashlane",
   "title": "dashlane.com",
-  "payoff": "Secure and manage your passwords",
-  "shortDescription": "Dashlane is a comprehensive password management tool designed to enhance security for both individual users and businesses. It offers features like credential protection, secure cloud storage, and proactive risk management. Ideal for enterprises looking to mitigate human-related security risks, Dashlane provides a secure vault accessible via a browser. An example use case is a company implementing Dashlane to centralize and secure employee credentials while monitoring and controlling shadow IT activities.",
+  "payoff": "Secure and manage credentials",
+  "shortDescription": "Dashlane is a comprehensive password management solution designed for both individual users and businesses. It offers a secure vault for storing and managing passwords, with features like autofill and dark web monitoring. Businesses can benefit from Dashlane Omnix, which provides enhanced credential security and proactive risk management. An example use case is a company using Dashlane to streamline access management and enhance security protocols.",
   "pros": [
-    "Built-in zero-knowledge security architecture",
-    "Supports both individual and enterprise needs",
-    "Features like dark web monitoring and passkeys"
+    "Advanced credential security features",
+    "User-friendly interface with autofill",
+    "Robust enterprise management tools"
   ],
   "cons": [
-    "Can be complex to implement across large teams",
-    "Potentially high cost for full feature access",
-    "Limited customization options for smaller businesses"
+    "Can be expensive for small businesses",
+    "Complex features may require training",
+    "Limited customization options"
   ],
   "alternatives": [
     "LastPass [lastpass.com]",
@@ -28,12 +28,12 @@
     {
       "name": "1Password",
       "url": "1password.com",
-      "reason": "Focuses on user-friendly interfaces and security"
+      "reason": "Focuses on user-friendly secure storage"
     },
     {
       "name": "Keeper Security",
       "url": "keepersecurity.com",
-      "reason": "Provides enhanced security and encrypted storage"
+      "reason": "Provides enhanced security and encryption"
     }
   ],
   "tags": [
@@ -42,18 +42,18 @@
     "credential protection",
     "enterprise software"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Information Technology",
   "function": "Security",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2009,
   "websiteUrl": "https://dashlane.com/",
-  "documentationUrl": "https://support.dashlane.com/hc/en-us",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=dashlane&type=repositories",
   "twitterUrl": "https://www.x.com/dashlane",
-  "screenshot": "/screenshots/dashlane_com.png",
-  "screenshot_640": "/screenshots/dashlane_com_640.png",
-  "screenshot_400": "/screenshots/dashlane_com_400.png",
-  "updatedAt": "2025-05-23T14:17:02.083Z"
+  "screenshot": "https://share.appsfor.us/screenshots/dashlane_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dashlane_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dashlane_com_400.png",
+  "updatedAt": "2025-05-24T11:50:27.909Z"
 }

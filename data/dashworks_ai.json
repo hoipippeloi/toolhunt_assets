@@ -3,44 +3,44 @@
   "name": "Dashworks",
   "title": "dashworks.ai",
   "payoff": "AI Assistant for Workplace Questions",
-  "shortDescription": "Dashworks is an AI-powered tool designed to streamline workplace operations by providing instant answers to internal questions. It integrates with various workplace apps, allowing teams from sales, support, and engineering to access information quickly. For example, sales teams can shorten sales cycles by instantly retrieving customer-related data without manual searches.",
+  "shortDescription": "Dashworks is an AI-powered tool designed to streamline workplace operations by providing instant answers to internal questions. It integrates with various apps and platforms, enabling teams to access a unified knowledge base. This tool is particularly beneficial for sales, customer support, and engineering teams, helping reduce response times and improve decision-making processes.",
   "pros": [
-    "Reduces response times and increases team satisfaction",
-    "Supports real-time data access without syncing delays",
-    "High customization for different team needs"
+    "Automates 87% of internal questions",
+    "Integrates with Slack and browsers for ease of use",
+    "Supports real-time answers with zero data retention for security"
   ],
   "cons": [
-    "Requires integration with existing workplace apps",
-    "Potential privacy concerns with live data access",
-    "Dependent on the quality of existing data sources"
+    "Requires setup which may take days",
+    "Potential delay in permission updates",
+    "Dependent on the quality of the integrated data sources"
   ],
   "alternatives": [
-    "Confluence [atlassian.com/software/confluence]",
+    "Confluence [atlassian.com/products/confluence]",
     "Notion [notion.so]",
     "Slab [slab.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Confluence",
-      "url": "atlassian.com/software/confluence",
-      "reason": "Offers extensive team collaboration tools"
+      "url": "atlassian.com/products/confluence",
+      "reason": "Offers extensive documentation and collaboration tools"
     },
     {
       "name": "Notion",
       "url": "notion.so",
-      "reason": "Combines notes, tasks, and wikis in one"
+      "reason": "Flexible workspace with integrated knowledge base"
     },
     {
       "name": "Slab",
       "url": "slab.com",
-      "reason": "Focuses on team knowledge and wiki integration"
+      "reason": "Focuses on team knowledge and collaboration"
     }
   ],
   "tags": [
     "AI",
-    "knowledge management",
+    "knowledge base",
     "enterprise search",
-    "workplace efficiency"
+    "workplace assistant"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://dashworks.ai/docs",
   "githubUrl": "https://github.com/search?q=dashworks&type=repositories",
   "twitterUrl": "https://twitter.com/DashworksAI",
-  "screenshot": "/screenshots/dashworks_ai.png",
-  "screenshot_640": "/screenshots/dashworks_ai_640.png",
-  "screenshot_400": "/screenshots/dashworks_ai_400.png",
-  "updatedAt": "2025-05-23T14:18:24.237Z"
+  "screenshot": "https://share.appsfor.us/screenshots/dashworks_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dashworks_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dashworks_ai_400.png",
+  "updatedAt": "2025-05-24T11:51:11.677Z"
 }

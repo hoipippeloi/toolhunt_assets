@@ -3,48 +3,48 @@
   "name": "DataChain",
   "title": "datachain.ai",
   "payoff": "AI Data Management at Scale",
-  "shortDescription": "DataChain specializes in managing and processing large-scale unstructured data for businesses ranging from startups to Fortune 500 companies. It leverages AI models to enhance data quality, streamline ETL processes, and ensure data integrity without the need for extensive custom coding. An example use case includes using DataChain to automate data wrangling and integration for improved analytics in a cloud-agnostic environment.",
+  "shortDescription": "DataChain specializes in managing and processing unstructured data at scale, utilizing AI to enhance data curation and analysis. It serves data professionals and ML engineers by offering tools that simplify data workflows and improve AI outputs. Example use case: A Fortune 500 company leverages DataChain to automate the extraction and curation of data from diverse sources like videos and PDFs, significantly reducing manual effort and enhancing data quality.",
   "pros": [
-    "Supports large-scale data processing",
-    "Cloud-agnostic storage solutions",
-    "Enhances data quality with AI models"
+    "Accelerates data processing 10x with Python",
+    "Supports cloud-agnostic storage and compute",
+    "Tracks data lineage for full reproducibility"
   ],
   "cons": [
-    "May require Python knowledge for full utilization",
-    "Potentially high learning curve for non-technical users",
-    "Limited information on specific pricing plans"
+    "Complex setup for non-technical users",
+    "Potential high cost for large-scale deployment",
+    "Limited support for non-AI data tasks"
   ],
   "alternatives": [
     "Databricks [databricks.com]",
-    "Talend [talend.com]",
-    "Informatica [informatica.com]"
+    "Snowflake [snowflake.com]",
+    "Airflow [apache.org/projects/airflow]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Databricks",
       "url": "databricks.com",
-      "reason": "Offers cloud-based big data processing"
+      "reason": "Offers scalable data processing"
     },
     {
-      "name": "Talend",
-      "url": "talend.com",
-      "reason": "Integrates data and applications"
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Cloud-based data warehousing"
     },
     {
-      "name": "Informatica",
-      "url": "informatica.com",
-      "reason": "Focuses on cloud data management"
+      "name": "Apache Airflow",
+      "url": "apache.org/projects/airflow",
+      "reason": "Open-source workflow automation"
     }
   ],
   "tags": [
     "data management",
     "AI",
-    "ETL",
-    "data integrity"
+    "unstructured data",
+    "open source"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
-  "function": "Data Storage",
+  "function": "AI & ML",
   "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://datachain.ai/docs",
   "githubUrl": "https://github.com/iterative/datachain",
   "twitterUrl": "https://twitter.com/DVCorg",
-  "screenshot": "/screenshots/datachain_ai.png",
-  "screenshot_640": "/screenshots/datachain_ai_640.png",
-  "screenshot_400": "/screenshots/datachain_ai_400.png",
-  "updatedAt": "2025-05-23T14:45:13.718Z"
+  "screenshot": "https://share.appsfor.us/screenshots/datachain_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datachain_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datachain_ai_400.png",
+  "updatedAt": "2025-05-24T11:52:00.732Z"
 }
