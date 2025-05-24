@@ -2,58 +2,58 @@
   "sourceUrl": "https://allo.io/",
   "name": "ALLO",
   "title": "allo.io",
-  "payoff": "Enhance Team Collaboration Visually",
-  "shortDescription": "ALLO is a visual collaboration tool designed to enhance the way teams work together. It provides an intuitive interface for brainstorming, project planning, and visual mapping. Ideal for designers, project managers, and creative teams, ALLO allows users to create and share visual content seamlessly. An example use case is a design team using ALLO to map out user experience flows and share real-time feedback.",
+  "payoff": "Intuitive Visual Collaboration Tool",
+  "shortDescription": "ALLO is a visual collaboration tool designed for teams and individuals in creative and design-oriented fields. It provides an intuitive platform for brainstorming, project planning, and visual mapping. Users can create and share boards, integrate media, and collaborate in real-time, making it ideal for remote teams. Example use case: A design team uses ALLO to map out a new product's user interface.",
   "pros": [
-    "Intuitive visual interface",
+    "Intuitive user interface",
     "Real-time collaboration features",
-    "Versatile application for various team types"
+    "Extensive media integration capabilities"
   ],
   "cons": [
-    "May require a learning curve for non-visual thinkers",
-    "Potentially limited integration with other tools",
-    "Subscription model may be expensive for small teams"
+    "May be less known compared to competitors",
+    "Limited customization options",
+    "Potential learning curve for new users"
   ],
   "alternatives": [
     "Miro [miro.com]",
     "Lucidchart [lucidchart.com]",
-    "Microsoft Whiteboard [microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app]"
+    "Microsoft Whiteboard [whiteboard.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Miro",
       "url": "miro.com",
-      "reason": "Offers extensive collaborative whiteboard features"
+      "reason": "Offers extensive collaboration features"
     },
     {
       "name": "Lucidchart",
       "url": "lucidchart.com",
-      "reason": "Focuses on diagramming and visual workflows"
+      "reason": "Strong in diagramming and visual workflows"
     },
     {
-      "name": "Trello",
-      "url": "trello.com",
-      "reason": "Popular for project management with visual boards"
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Popular for UI/UX design collaboration"
     }
   ],
   "tags": [
     "collaboration",
-    "visual tool",
+    "design tools",
     "project management",
-    "teamwork"
+    "visual mapping"
   ],
   "apiUsed": true,
   "department": "Design",
   "function": "Visual Builder",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2018,
   "websiteUrl": "https://allo.io/",
   "documentationUrl": "https://allo.io/docs",
   "githubUrl": "https://github.com/search?q=allo&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/allo_io.png",
-  "screenshot_640": "/screenshots/allo_io_640.png",
-  "screenshot_400": "/screenshots/allo_io_400.png",
-  "updatedAt": "2025-05-13T04:21:01.472Z"
+  "screenshot": "https://share.appsfor.us/screenshots/allo_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/allo_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/allo_io_400.png",
+  "updatedAt": "2025-05-24T10:13:59.363Z"
 }
