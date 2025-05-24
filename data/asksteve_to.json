@@ -3,15 +3,15 @@
   "name": "Ask Steve",
   "title": "asksteve.to",
   "payoff": "Boost productivity with AI",
-  "shortDescription": "Ask Steve is a versatile AI assistant and data extractor designed to enhance productivity for individuals, businesses, and site owners. It integrates seamlessly into existing systems, allowing users to automate data entry, generate content, and interact with various digital formats without coding. Example use case: A business can use Ask Steve to automate data extraction to spreadsheets, reducing manual data entry errors.",
+  "shortDescription": "Ask Steve is a versatile AI assistant designed to enhance productivity for individuals, businesses, and site owners. It integrates seamlessly into existing workflows, allowing users to automate data extraction, interact with various systems, and create custom tools without coding. An example use case is automating data entry tasks, thereby saving hours of manual work.",
   "pros": [
     "Seamless integration with existing systems",
     "No-code customization and automation",
-    "Supports interaction with multiple data formats"
+    "Supports interaction with multiple AI and data systems"
   ],
   "cons": [
     "May require initial setup and learning",
-    "Dependent on external systems' compatibility",
+    "Dependent on external systems' availability",
     "Potential privacy concerns with data access"
   ],
   "alternatives": [
@@ -38,8 +38,8 @@
   ],
   "tags": [
     "AI assistant",
-    "data extraction",
     "productivity",
+    "data extraction",
     "automation"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=ask%20steve&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/asksteve_to.png",
-  "screenshot_640": "/screenshots/asksteve_to_640.png",
-  "screenshot_400": "/screenshots/asksteve_to_400.png",
-  "updatedAt": "2025-05-20T01:09:32.059Z"
+  "screenshot": "https://share.appsfor.us/screenshots/asksteve_to.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/asksteve_to_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/asksteve_to_400.png",
+  "updatedAt": "2025-05-24T10:30:17.283Z"
 }
