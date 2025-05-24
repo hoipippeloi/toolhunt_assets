@@ -3,16 +3,16 @@
   "name": "Instagram",
   "title": "instagram.com",
   "payoff": "Connect visually with the world",
-  "shortDescription": "Instagram is a social media platform that allows users to share photos and videos, connect with friends, and explore content from around the world. It's designed for individuals who enjoy visual storytelling and businesses looking to engage with a visually-oriented audience. A common use case is a brand using Instagram to run targeted ad campaigns to increase their visibility and engage with potential customers.",
+  "shortDescription": "Instagram is a social media platform that allows users to share photos and videos, connect with friends, and explore content from around the world. It's designed for individuals who want to capture and share moments of their lives. A common use case is a brand using Instagram to engage with customers through visually appealing posts and stories.",
   "pros": [
     "High user engagement",
-    "Strong visual appeal",
-    "Effective platform for brand promotion"
+    "Strong visual focus",
+    "Extensive reach and visibility"
   ],
   "cons": [
     "Limited to visual content",
-    "High competition among users",
-    "Potential privacy concerns"
+    "Can be time-consuming to maintain",
+    "High competition for visibility"
   ],
   "alternatives": [
     "Snapchat [snapchat.com]",
@@ -23,7 +23,7 @@
     {
       "name": "Snapchat",
       "url": "snapchat.com",
-      "reason": "Focuses on ephemeral, real-time content sharing"
+      "reason": "Focus on ephemeral, real-time visual sharing"
     },
     {
       "name": "TikTok",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2010,
   "websiteUrl": "https://instagram.com/",
-  "documentationUrl": "https://help.instagram.com/",
+  "documentationUrl": "https://developers.facebook.com/docs/instagram",
   "githubUrl": "https://github.com/search?q=instagram&type=repositories",
   "twitterUrl": null,
   "screenshot": "/screenshots/instagram_com.png",
   "screenshot_640": "/screenshots/instagram_com_640.png",
   "screenshot_400": "/screenshots/instagram_com_400.png",
-  "updatedAt": "2025-05-21T03:40:30.526Z"
+  "updatedAt": "2025-05-24T07:13:45.315Z"
 }
