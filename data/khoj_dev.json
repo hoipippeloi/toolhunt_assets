@@ -2,45 +2,45 @@
   "sourceUrl": "https://khoj.dev/",
   "name": "Khoj AI",
   "title": "khoj.dev",
-  "payoff": "Simplify complex document interactions",
-  "shortDescription": "Khoj AI is designed to empower users to interact with documents more effectively using AI-driven tools. It serves as a research copilot, allowing users to ask questions, understand content, and generate new material seamlessly. Ideal for researchers and professionals who need to manage large volumes of information, Khoj AI can be customized to specific needs, making it adaptable for various industries such as healthcare, education, and more.",
+  "payoff": "Ask anything, understand documents",
+  "shortDescription": "Khoj AI is a versatile tool designed to assist researchers and professionals by providing tailored AI-driven recommendations. It allows users to interact with various specialist AI agents to get customized advice and insights. An example use case could be a health professional using Khoj AI to simplify complex patient data into actionable insights, thereby improving patient care and operational efficiency.",
   "pros": [
-    "Customizable to user needs",
+    "Customizable to specific needs",
     "Accessible from anywhere",
-    "Supports various AI models"
+    "Supports multiple AI models"
   ],
   "cons": [
-    "May require initial setup and tuning",
-    "Pricing information is not detailed",
-    "Limited information on security measures"
+    "May require technical knowledge to fully utilize",
+    "Pricing can be a barrier for casual users",
+    "Limited information on data security"
   ],
   "alternatives": [
-    "OpenAI GPT [openai.com]",
+    "OpenAI GPT-3 [openai.com]",
     "IBM Watson [ibm.com]",
-    "Google AI [ai.google]"
+    "Azure AI [azure.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI GPT",
+      "name": "OpenAI GPT-3",
       "url": "openai.com",
-      "reason": "Broad AI capabilities with strong language models"
+      "reason": "Advanced AI text generation and understanding"
     },
     {
       "name": "IBM Watson",
       "url": "ibm.com",
-      "reason": "Enterprise-focused AI with deep learning"
+      "reason": "Broad AI solutions with strong enterprise focus"
     },
     {
-      "name": "Google AI",
-      "url": "ai.google",
-      "reason": "Advanced AI research and tools from Google"
+      "name": "Azure AI",
+      "url": "azure.com",
+      "reason": "Integrated AI tools within a cloud platform"
     }
   ],
   "tags": [
     "AI",
-    "Document Management",
     "Research",
-    "Customization"
+    "Customizable",
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/khoj_dev.png",
   "screenshot_640": "/screenshots/khoj_dev_640.png",
   "screenshot_400": "/screenshots/khoj_dev_400.png",
-  "updatedAt": "2025-05-13T02:58:05.114Z"
+  "updatedAt": "2025-05-24T09:14:31.849Z"
 }
