@@ -3,16 +3,16 @@
   "name": "Enginemailer",
   "title": "enginemailer.com",
   "payoff": "Free Email Marketing Software",
-  "shortDescription": "Enginemailer is an email marketing platform designed for freelancers, SMEs, and enterprises. It allows users to manage contacts, create campaigns, and monitor results effectively. Users can start with up to 10,000 free emails monthly, making it ideal for businesses looking to grow their audience without initial investment.",
+  "shortDescription": "Enginemailer is an email marketing platform designed for freelancers, SMEs, and enterprises. It allows users to manage email lists, create campaigns, and monitor performance through a simple dashboard. Users can send up to 10,000 free emails monthly, making it ideal for businesses looking to grow their reach without significant initial investment. Example use case: A small business uses Enginemailer to manage customer relationships and promote new products.",
   "pros": [
-    "Free tier available with generous limits",
-    "Comprehensive dashboard for campaign tracking",
-    "Integration capabilities with APIs"
+    "Send up to 10,000 free emails monthly",
+    "Supports unlimited subscribers",
+    "Integrated dashboard for performance tracking"
   ],
   "cons": [
-    "Potentially steep learning curve for new users",
-    "Limited customization in free templates",
-    "May require technical knowledge for advanced features"
+    "May lack advanced features for large enterprises",
+    "Limited customization options for free templates",
+    "Potential scalability issues as business grows"
   ],
   "alternatives": [
     "Mailchimp [mailchimp.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Mailchimp",
       "url": "mailchimp.com",
-      "reason": "Offers more template options and integrations"
+      "reason": "Offers more extensive template options"
     },
     {
       "name": "Sendinblue",
       "url": "sendinblue.com",
-      "reason": "Focuses on transactional emails and SMS"
+      "reason": "Includes SMS marketing features"
     },
     {
       "name": "Constant Contact",
       "url": "constantcontact.com",
-      "reason": "Provides extensive training and support"
+      "reason": "Stronger support for event marketing"
     }
   ],
   "tags": [
     "email marketing",
     "campaign management",
-    "lead generation",
-    "analytics"
+    "subscriber management",
+    "performance analytics"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://enginemailer.com/support",
   "githubUrl": "https://github.com/search?q=enginemailer&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/enginemailer_com.png",
-  "screenshot_640": "/screenshots/enginemailer_com_640.png",
-  "screenshot_400": "/screenshots/enginemailer_com_400.png",
-  "updatedAt": "2025-05-07T11:49:30.908Z"
+  "screenshot": "https://share.appsfor.us/screenshots/enginemailer_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/enginemailer_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/enginemailer_com_400.png",
+  "updatedAt": "2025-05-25T01:17:48.509Z"
 }

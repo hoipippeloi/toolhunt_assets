@@ -3,16 +3,16 @@
   "name": "Electrobun",
   "title": "electrobun.dev",
   "payoff": "Ultra fast, tiny desktop apps",
-  "shortDescription": "Electrobun is designed for developers seeking to build, update, and distribute cross-platform desktop applications efficiently. Utilizing Typescript for both main and webview processes, it simplifies development by removing language barriers and focusing on performance. With Electrobun, you can start coding within minutes and distribute updates that are as small as 4KB, significantly reducing bandwidth costs. Ideal for developers aiming to create lightweight applications with frequent updates.",
+  "shortDescription": "Electrobun is designed for developers looking to build, update, and ship cross-platform desktop applications efficiently. Utilizing Typescript, it simplifies the coding process by integrating the main process and webviews into one language. This tool is ideal for those seeking to create lightweight applications with minimal bandwidth costs. An example use case could be a software company developing a secure, high-performance desktop tool that requires frequent updates.",
   "pros": [
-    "Unified language for all processes",
-    "Fast and small application updates",
-    "Integrated workflow for quick start"
+    "Cross-platform compatibility",
+    "Small bundle size reduces bandwidth",
+    "Integrated workflow speeds up development"
   ],
   "cons": [
-    "Limited to Typescript developers",
+    "Limited to Typescript",
     "May require familiarity with bun and zig",
-    "Focused only on desktop applications"
+    "No clear support for mobile platforms"
   ],
   "alternatives": [
     "Electron [electronjs.org]",
@@ -28,7 +28,7 @@
     {
       "name": "NW.js",
       "url": "nwjs.io",
-      "reason": "Similar to Electron with different API"
+      "reason": "Similar to Electron with unique features"
     },
     {
       "name": "Tauri",
@@ -38,9 +38,9 @@
   ],
   "tags": [
     "desktop software",
-    "typescript",
-    "application development",
-    "cross-platform"
+    "Typescript",
+    "cross-platform",
+    "development"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://electrobun.dev/docs",
   "githubUrl": "https://github.com/blackboardsh/electrobun",
   "twitterUrl": "https://x.com/BlackboardTech",
-  "screenshot": "/screenshots/electrobun_dev.png",
-  "screenshot_640": "/screenshots/electrobun_dev_640.png",
-  "screenshot_400": "/screenshots/electrobun_dev_400.png",
-  "updatedAt": "2025-05-08T11:21:46.171Z"
+  "screenshot": "https://share.appsfor.us/screenshots/electrobun_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/electrobun_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/electrobun_dev_400.png",
+  "updatedAt": "2025-05-25T01:16:18.015Z"
 }

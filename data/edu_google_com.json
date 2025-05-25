@@ -1,46 +1,46 @@
 {
   "sourceUrl": "https://edu.google.com/",
-  "name": "Google Workspace for Education",
+  "name": "Google for Education",
   "title": "edu.google.com",
   "payoff": "Empower learning everywhere",
-  "shortDescription": "Google Workspace for Education offers a suite of productivity tools designed to facilitate teaching and learning. It serves educational institutions, including K-12 schools and higher education. Educators can use tools like Classroom, Meet, and Drive to enhance collaboration, manage assignments, and conduct virtual classes.",
+  "shortDescription": "Google for Education provides a comprehensive suite of tools designed to enhance the educational experience for both students and educators. It includes products like Classroom, Google Meet, and various editions tailored to different educational needs. An example use case is a teacher using Google Classroom to manage assignments and communicate with students efficiently.",
   "pros": [
-    "Comprehensive educational tool suite",
-    "FERPA compliant for data security",
-    "Flexible solutions for different educational needs"
+    "Wide range of educational tools",
+    "Customizable solutions for different educational levels",
+    "Integration with other Google products"
   ],
   "cons": [
     "Can be complex to fully integrate",
-    "Paid tiers may be expensive for some",
+    "Privacy concerns with data handling",
     "Dependent on internet connectivity"
   ],
   "alternatives": [
-    "Microsoft 365 Education [microsoft.com/education]",
+    "Microsoft Education [microsoft.com/education]",
     "Canvas LMS [instructure.com]",
     "Moodle [moodle.org]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Microsoft 365 Education",
-      "url": "microsoft.com/education",
-      "reason": "Offers similar comprehensive tools"
-    },
-    {
       "name": "Canvas LMS",
       "url": "instructure.com",
-      "reason": "Popular LMS with flexible features"
+      "reason": "Popular LMS with robust features"
     },
     {
-      "name": "Moodle",
-      "url": "moodle.org",
-      "reason": "Open source and highly customizable"
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in higher education"
+    },
+    {
+      "name": "Schoology",
+      "url": "schoology.com",
+      "reason": "Integrates with multiple ed-tech tools"
     }
   ],
   "tags": [
-    "E-Learning",
-    "Productivity",
-    "Collaboration",
-    "Education"
+    "e-learning",
+    "education technology",
+    "collaboration tools",
+    "productivity"
   ],
   "apiUsed": true,
   "department": "Education",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2006,
   "websiteUrl": "https://edu.google.com/",
-  "documentationUrl": "https://edu.google.com/workspace-for-education/",
-  "githubUrl": "https://github.com/search?q=google%20workspace%20for%20education&type=repositories",
+  "documentationUrl": "https://edu.google.com/how-to/",
+  "githubUrl": "https://github.com/search?q=google%20for%20education&type=repositories",
   "twitterUrl": "https://twitter.com/googleforedu/",
-  "screenshot": "/screenshots/edu_google_com.png",
-  "screenshot_640": "/screenshots/edu_google_com_640.png",
-  "screenshot_400": "/screenshots/edu_google_com_400.png",
-  "updatedAt": "2025-05-23T17:40:53.030Z"
+  "screenshot": "https://share.appsfor.us/screenshots/edu_google_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/edu_google_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/edu_google_com_400.png",
+  "updatedAt": "2025-05-25T01:15:03.156Z"
 }

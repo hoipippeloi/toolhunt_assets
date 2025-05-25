@@ -1,23 +1,23 @@
 {
   "sourceUrl": "https://elevenlabs.io/dubbing-studio",
-  "name": "ElevenLabs Dubbing Studio",
+  "name": "ElevenLabs",
   "title": "elevenlabs.io",
-  "payoff": "AI-driven video translation and dubbing",
-  "shortDescription": "ElevenLabs Dubbing Studio utilizes advanced AI to translate and dub audio and video content, preserving the original voice and emotional tone. It supports 29 languages, making it ideal for creators and businesses aiming to reach a global audience. Users can upload videos from various platforms, edit translations, and customize audio settings for precise synchronization.",
+  "payoff": "AI-powered video translation",
+  "shortDescription": "ElevenLabs offers an AI dubbing tool that translates audio and video while preserving the original voices' emotion, timing, and tone. It supports 29 languages, making it ideal for content creators and businesses looking to expand their reach globally. Users can upload videos from various platforms, edit translations, and customize audio tracks to match their specific needs.",
   "pros": [
     "Preserves original voice and style across languages",
-    "Supports a wide range of video platforms",
-    "Advanced editing and customization options"
+    "Supports video uploads from multiple platforms",
+    "Allows manual editing of transcripts and translations"
   ],
   "cons": [
-    "May require technical knowledge for advanced features",
-    "Potential privacy concerns with voice cloning",
-    "Dependent on AI accuracy which can vary"
+    "May require technical knowledge to fine-tune settings",
+    "Dependent on AI accuracy for voice matching",
+    "Limited to 29 languages which may not cover all user needs"
   ],
   "alternatives": [
     "Descript [descript.com]",
-    "Papercup [papercup.com]",
-    "Voicery [voicery.com]"
+    "Wideo [wideo.co]",
+    "Synthesia [synthesia.io]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,21 +26,21 @@
       "reason": "Offers video editing and AI dubbing"
     },
     {
-      "name": "Papercup",
-      "url": "papercup.com",
-      "reason": "Translates videos using AI voices"
+      "name": "Wideo",
+      "url": "wideo.co",
+      "reason": "Focuses on video creation with voiceover tools"
     },
     {
-      "name": "Voicery",
-      "url": "voicery.com",
-      "reason": "Specializes in synthetic voice generation"
+      "name": "Synthesia",
+      "url": "synthesia.io",
+      "reason": "Provides AI video generation with voice synthesis"
     }
   ],
   "tags": [
     "AI dubbing",
     "video translation",
-    "voice cloning",
-    "content localization"
+    "content localization",
+    "multilingual support"
   ],
   "apiUsed": true,
   "department": "Content",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://elevenlabs.io/dubbing-studio",
-  "documentationUrl": "https://elevenlabs.io/docs",
+  "documentationUrl": "https://help.elevenlabs.io/hc/en-us",
   "githubUrl": "https://github.com/elevenlabs",
   "twitterUrl": "https://x.com/intent/user?screen_name=elevenlabsio",
-  "screenshot": "/screenshots/elevenlabs_io.png",
-  "screenshot_640": "/screenshots/elevenlabs_io_640.png",
-  "screenshot_400": "/screenshots/elevenlabs_io_400.png",
-  "updatedAt": "2025-05-23T07:15:26.521Z"
+  "screenshot": "https://share.appsfor.us/screenshots/elevenlabs_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/elevenlabs_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/elevenlabs_io_400.png",
+  "updatedAt": "2025-05-25T01:17:13.572Z"
 }
