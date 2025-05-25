@@ -3,16 +3,16 @@
   "name": "DataChain",
   "title": "datachain.ai",
   "payoff": "AI Data Management at Scale",
-  "shortDescription": "DataChain specializes in managing and processing large-scale unstructured data for businesses ranging from startups to Fortune 500 companies. It leverages AI models to enhance data quality, streamline ETL processes, and ensure data integrity without the need for extensive custom coding. An example use case includes using DataChain to automate data wrangling and integration for improved analytics in a cloud-agnostic environment.",
+  "shortDescription": "DataChain specializes in managing large-scale unstructured data for various industries. It leverages AI to enhance data quality and streamline processes, reducing the need for manual data handling. An example use case involves a tech company using DataChain to automate data curation and integration, significantly speeding up their project timelines and improving data accuracy.",
   "pros": [
-    "Supports large-scale data processing",
-    "Cloud-agnostic storage solutions",
-    "Enhances data quality with AI models"
+    "Accelerates development with Python-based tools",
+    "Supports cloud-agnostic storage and compute",
+    "Guarantees data traceability and reproducibility"
   ],
   "cons": [
-    "May require Python knowledge for full utilization",
-    "Potentially high learning curve for non-technical users",
-    "Limited information on specific pricing plans"
+    "Complex setup for non-technical users",
+    "Potential high costs for large data volumes",
+    "Limited support for certain legacy systems"
   ],
   "alternatives": [
     "Databricks [databricks.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Databricks",
       "url": "databricks.com",
-      "reason": "Offers cloud-based big data processing"
+      "reason": "Offers comprehensive data analytics"
     },
     {
       "name": "Talend",
       "url": "talend.com",
-      "reason": "Integrates data and applications"
+      "reason": "Focuses on data integration and quality"
     },
     {
       "name": "Informatica",
       "url": "informatica.com",
-      "reason": "Focuses on cloud data management"
+      "reason": "Leader in enterprise data management"
     }
   ],
   "tags": [
     "data management",
     "AI",
     "ETL",
-    "data integrity"
+    "data curation"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://datachain.ai/docs",
   "githubUrl": "https://github.com/iterative/datachain",
   "twitterUrl": "https://twitter.com/DVCorg",
-  "screenshot": "/screenshots/datachain_ai.png",
-  "screenshot_640": "/screenshots/datachain_ai_640.png",
-  "screenshot_400": "/screenshots/datachain_ai_400.png",
-  "updatedAt": "2025-05-23T14:45:13.718Z"
+  "screenshot": "https://share.appsfor.us/screenshots/datachain_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datachain_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datachain_ai_400.png",
+  "updatedAt": "2025-05-25T10:46:34.798Z"
 }

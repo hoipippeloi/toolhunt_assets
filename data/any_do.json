@@ -2,38 +2,38 @@
   "sourceUrl": "https://any.do/",
   "name": "Any.do",
   "title": "any.do",
-  "payoff": "Manage tasks and events easily",
-  "shortDescription": "Any.do helps individuals and teams manage tasks, events, and projects in one integrated platform. It offers features like task management, calendar integration, and reminders, making it ideal for personal use and family or team collaboration. Users can plan daily activities, set reminders, and even manage grocery lists or family projects, enhancing productivity and organization.",
+  "payoff": "Manage tasks and projects anywhere",
+  "shortDescription": "Any.do helps individuals and teams manage tasks, projects, and daily activities seamlessly across various devices. It integrates calendars, task lists, and reminders, making it ideal for personal use or team collaboration. Users can plan household tasks, manage grocery lists, or coordinate complex projects with features like Kanban boards and AI assistance.",
   "pros": [
-    "Intuitive task and event management",
-    "Comprehensive platform with AI features",
-    "Supports personal and team collaboration"
+    "Cross-platform synchronization",
+    "Integrated calendar and task management",
+    "AI-powered features for task management"
   ],
   "cons": [
-    "May be overwhelming for simple needs",
-    "Potential privacy concerns with integrations",
-    "Subscription model may be costly for some"
+    "Can be overwhelming with too many features",
+    "Premium features require subscription",
+    "Limited customization for free users"
   ],
   "alternatives": [
-    "Todoist [todoist.com]",
     "Trello [trello.com]",
-    "Asana [asana.com]"
+    "Asana [asana.com]",
+    "Todoist [todoist.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Todoist",
-      "url": "todoist.com",
-      "reason": "Offers flexible task management features"
-    },
-    {
       "name": "Trello",
       "url": "trello.com",
-      "reason": "Visual board-based project management"
+      "reason": "Visual task management with boards"
     },
     {
       "name": "Asana",
       "url": "asana.com",
-      "reason": "Comprehensive tool for team projects"
+      "reason": "Comprehensive project tracking tools"
+    },
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Simple, effective task management"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
   ],
   "apiUsed": true,
   "department": "Project Management Office",
-  "function": "Task Tools",
+  "function": "Project Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2011,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=any%20do&type=repositories",
   "twitterUrl": "https://x.com/anydo",
-  "screenshot": "/screenshots/any_do.png",
-  "screenshot_640": "/screenshots/any_do_640.png",
-  "screenshot_400": "/screenshots/any_do_400.png",
-  "updatedAt": "2025-05-10T07:36:56.765Z"
+  "screenshot": "https://share.appsfor.us/screenshots/any_do.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/any_do_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/any_do_400.png",
+  "updatedAt": "2025-05-25T10:42:55.697Z"
 }

@@ -2,17 +2,17 @@
   "sourceUrl": "https://craftui.co/",
   "name": "CraftUI",
   "title": "craftui.co",
-  "payoff": "Excellence in UI/UX Design",
-  "shortDescription": "CraftUI, led by Braden Katz, specializes in UI/UX design and front-end development. It caters to clients seeking to enhance their digital products with award-winning design and technical expertise. An ideal use case would be a startup looking to design a user-friendly interface for their new app, leveraging Braden's extensive experience and success in delivering client satisfaction.",
+  "payoff": "Blending creativity with technical expertise",
+  "shortDescription": "CraftUI is led by Braden Katz, a Senior Product & UI/UX Designer specializing in front-end development and product management. The service is tailored for businesses and individuals seeking innovative design solutions that combine aesthetic appeal with functional efficiency. An ideal use case would be startups needing to establish a compelling digital presence or companies aiming to revamp their user interfaces for better customer engagement.",
   "pros": [
-    "Award-winning UI/UX design",
-    "High client satisfaction and job success",
-    "Extensive experience in front-end development"
+    "Expertise in UI/UX and front-end development",
+    "High client satisfaction and job success rate",
+    "Customized design solutions"
   ],
   "cons": [
-    "Limited information on team size",
-    "No clear pricing structure",
-    "Focused primarily on UI/UX without broader IT solutions"
+    "Limited information on pricing",
+    "No mention of team size or scalability",
+    "Focused mainly on design, less on broad software development"
   ],
   "alternatives": [
     "Adobe XD [adobe.com]",
@@ -28,18 +28,18 @@
     {
       "name": "Sketch",
       "url": "sketch.com",
-      "reason": "Vector-based UI design tool for professionals"
+      "reason": "Popular among designers for vector UI design"
     },
     {
       "name": "Figma",
       "url": "figma.com",
-      "reason": "Popular for its collaborative interface design features"
+      "reason": "Offers real-time collaboration and prototyping"
     }
   ],
   "tags": [
     "UI/UX Design",
-    "Front-end Development",
     "Product Management",
+    "Front-end Development",
     "Digital Design"
   ],
   "apiUsed": false,
@@ -47,7 +47,7 @@
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2010,
+  "releasedYear": 2021,
   "websiteUrl": "https://craftui.co/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=craftui&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/craftui_co.png",
   "screenshot_640": "/screenshots/craftui_co_640.png",
   "screenshot_400": "/screenshots/craftui_co_400.png",
-  "updatedAt": "2025-05-15T05:44:09.427Z"
+  "updatedAt": "2025-05-25T10:45:48.600Z"
 }

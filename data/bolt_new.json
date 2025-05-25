@@ -3,16 +3,16 @@
   "name": "Bolt",
   "title": "bolt.new",
   "payoff": "Build full-stack web and mobile apps",
-  "shortDescription": "Bolt enables developers to promptly create, run, edit, and deploy full-stack web and mobile applications. It's designed for developers looking for a streamlined development process. An example use case is a startup quickly prototyping and deploying an MVP to validate their business model.",
+  "shortDescription": "Bolt is a development platform that enables users to prompt, run, edit, and deploy full-stack web and mobile applications. It's designed for developers and tech-savvy business professionals looking to quickly create and scale applications. An example use case is a startup rapidly prototyping a mobile app for e-commerce without extensive backend knowledge.",
   "pros": [
-    "Streamlined app development",
-    "Supports both web and mobile platforms",
-    "Quick prototyping and deployment"
+    "Rapid prototyping of apps",
+    "No extensive backend knowledge required",
+    "Scalable full-stack development"
   ],
   "cons": [
-    "May not support all programming languages",
-    "Limited third-party integrations",
-    "Potentially steep learning curve for beginners"
+    "May not suit non-technical users",
+    "Limited customization options",
+    "Dependent on platform stability"
   ],
   "alternatives": [
     "Retool [retool.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Offers visual programming for rapid development"
+      "reason": "Offers visual programming for rapid app development"
     },
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code platform for web and mobile apps"
+      "reason": "No-code platform for building web and mobile apps"
     },
     {
       "name": "AppGyver",
       "url": "appgyver.com",
-      "reason": "No-code editor for building apps quickly"
+      "reason": "No-code editor for building apps, free for creators"
     }
   ],
   "tags": [
-    "app development",
-    "full-stack",
+    "full-stack development",
     "mobile apps",
-    "web apps"
+    "web apps",
+    "rapid development"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.bolt.new",
   "githubUrl": "https://github.com/search?q=bolt&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/bolt_new.png",
-  "screenshot_640": "/screenshots/bolt_new_640.png",
-  "screenshot_400": "/screenshots/bolt_new_400.png",
-  "updatedAt": "2025-05-10T04:43:24.566Z"
+  "screenshot": "https://share.appsfor.us/screenshots/bolt_new.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bolt_new_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bolt_new_400.png",
+  "updatedAt": "2025-05-25T10:43:40.059Z"
 }
