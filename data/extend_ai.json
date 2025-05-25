@@ -2,17 +2,17 @@
   "sourceUrl": "https://extend.ai/",
   "name": "extend",
   "title": "extend.ai",
-  "payoff": "Reimagined document processing with LLMs",
-  "shortDescription": "Extend is designed to transform document processing using large language models (LLMs), offering state-of-the-art accuracy and reliability. It is ideal for technical teams facing complex document challenges. By leveraging Extend, companies can quickly turn varied document types, including those with tables, signatures, and images, into high-quality data. This tool is particularly useful in scenarios where traditional OCR fails, such as processing degraded scans or intricate layouts.",
+  "payoff": "Reimagine document processing with LLMs",
+  "shortDescription": "Extend revolutionizes document processing by leveraging large language models (LLMs) to transform documents into high-quality data. Designed for technical teams, Extend handles complex documents with exceptional accuracy and reliability. Use cases include processing structured PDFs, handwritten notes, and degraded scans, making it ideal for industries requiring precise document handling.",
   "pros": [
-    "High accuracy and reliability",
-    "Rapid implementation and iteration",
-    "Built-in tooling for non-technical users"
+    "High accuracy and reliability in document processing",
+    "Quick implementation and adaptation to new documents",
+    "Built-in tooling for both technical and non-technical users"
   ],
   "cons": [
-    "Potentially high cost",
-    "Requires technical setup",
-    "Limited to document processing"
+    "Potential high cost for advanced features",
+    "Dependence on continuous data input for learning",
+    "May require technical knowledge for initial setup"
   ],
   "alternatives": [
     "ABBYY FlexiCapture [abbyy.com]",
@@ -23,17 +23,17 @@
     {
       "name": "ABBYY FlexiCapture",
       "url": "abbyy.com",
-      "reason": "Advanced OCR and form processing capabilities"
+      "reason": "Offers robust OCR and form processing"
     },
     {
       "name": "Kofax Capture",
       "url": "kofax.com",
-      "reason": "Robust document capture and automation"
+      "reason": "Advanced capture with automation features"
     },
     {
       "name": "Docparser",
       "url": "docparser.com",
-      "reason": "Streamlined document data extraction"
+      "reason": "Simplifies extracting data from documents"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://extend.ai/docs",
   "githubUrl": "https://github.com/search?q=extend&type=repositories",
   "twitterUrl": "https://x.com/ExtendHQ",
-  "screenshot": "/screenshots/extend_ai.png",
-  "screenshot_640": "/screenshots/extend_ai_640.png",
-  "screenshot_400": "/screenshots/extend_ai_400.png",
-  "updatedAt": "2025-05-23T19:13:16.215Z"
+  "screenshot": "https://share.appsfor.us/screenshots/extend_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/extend_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/extend_ai_400.png",
+  "updatedAt": "2025-05-25T03:11:42.538Z"
 }

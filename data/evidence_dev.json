@@ -3,41 +3,41 @@
   "name": "Evidence",
   "title": "evidence.dev",
   "payoff": "Business Intelligence as Code",
-  "shortDescription": "Evidence is an open-source framework designed for building data-driven applications using SQL. It targets data professionals and developers, allowing them to create polished data products efficiently. An example use case is a company using Evidence to rapidly develop and deploy interactive data apps that integrate seamlessly with their existing data stack.",
+  "shortDescription": "Evidence is a lightweight framework designed for building data-driven applications using SQL. It's tailored for data professionals and developers seeking to create polished data products efficiently. An example use case involves a company like Lenstra, which has utilized Evidence to build all its reporting, demonstrating its effectiveness in real-world data management and visualization.",
   "pros": [
-    "Open-source and MIT licensed",
-    "Integrates with existing data stacks",
-    "Supports rapid development and deployment"
+    "Open source and MIT licensed",
+    "Supports integration with existing data stacks",
+    "Rapid deployment and easy maintenance"
   ],
   "cons": [
     "May require SQL knowledge",
     "Limited community compared to larger frameworks",
-    "Potentially steep learning curve for non-developers"
+    "Potentially less features than full-fledged BI tools"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
     "Looker [looker.com]",
-    "Power BI [powerbi.com]"
+    "PowerBI [powerbi.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Popular for visual analytics"
+      "reason": "Rich visualization and large user community"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Offers extensive BI capabilities"
+      "reason": "Deep customization and integration capabilities"
     },
     {
-      "name": "Power BI",
-      "url": "powerbi.com",
-      "reason": "Integrates well with Microsoft products"
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Strong analytics with extensive Microsoft integration"
     }
   ],
   "tags": [
-    "data analytics",
+    "data visualization",
     "business intelligence",
     "open source",
     "SQL"
@@ -52,8 +52,8 @@
   "documentationUrl": "https://evidence.dev/docs",
   "githubUrl": "https://github.com/evidence-dev/evidence",
   "twitterUrl": "https://twitter.com/evidence_dev",
-  "screenshot": "/screenshots/evidence_dev.png",
-  "screenshot_640": "/screenshots/evidence_dev_640.png",
-  "screenshot_400": "/screenshots/evidence_dev_400.png",
-  "updatedAt": "2025-05-23T19:12:44.041Z"
+  "screenshot": "https://share.appsfor.us/screenshots/evidence_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/evidence_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/evidence_dev_400.png",
+  "updatedAt": "2025-05-25T03:10:34.209Z"
 }

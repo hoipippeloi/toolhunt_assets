@@ -2,38 +2,38 @@
   "sourceUrl": "https://figma.com/",
   "name": "Figma",
   "title": "figma.com",
-  "payoff": "Collaborative Interface Design Tool",
-  "shortDescription": "Figma is a versatile interface design tool that allows teams to collaborate in real-time. It integrates design and prototyping in a single place, making it ideal for designers, developers, and product teams. Users can create responsive websites, digital whiteboards, and even use AI features to enhance productivity. An example use case is a design team collaborating on a new app interface, sharing progress and receiving instant feedback.",
+  "payoff": "Build better products, together.",
+  "shortDescription": "Figma is a collaborative interface design tool that enables users to design, prototype, and gather feedback in a single platform. It's designed for designers, developers, and project teams. Users can create responsive websites, produce on-brand assets, and even use AI features to enhance their design process. An example use case is a design team collaborating in real-time to create and prototype a new app interface.",
   "pros": [
     "Real-time collaboration across teams",
     "Integrated design and prototyping tools",
-    "Extensive AI features for enhanced productivity"
+    "Extensive third-party integrations"
   ],
   "cons": [
     "Can be overwhelming for new users",
-    "Requires internet connection for real-time features",
-    "Higher cost for premium features"
+    "Requires strong internet connection",
+    "Limited offline functionality"
   ],
   "alternatives": [
+    "Adobe XD [adobe.com]",
     "Sketch [sketch.com]",
-    "Adobe XD [adobe.com/products/xd.html]",
     "InVision [invisionapp.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Sketch",
-      "url": "sketch.com",
-      "reason": "Popular among macOS users for UI/UX design."
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers similar design and prototyping tools"
     },
     {
-      "name": "Adobe XD",
-      "url": "adobe.com/products/xd.html",
-      "reason": "Offers deep integration with other Adobe products."
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Focuses on vector UI design with a Mac app"
     },
     {
       "name": "InVision",
       "url": "invisionapp.com",
-      "reason": "Focuses on prototyping with strong collaboration tools."
+      "reason": "Provides strong prototyping and collaboration features"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://help.figma.com",
   "githubUrl": "https://github.com/search?q=figma&type=repositories",
   "twitterUrl": "https://x.com/figma",
-  "screenshot": "/screenshots/figma_com.png",
-  "screenshot_640": "/screenshots/figma_com_640.png",
-  "screenshot_400": "/screenshots/figma_com_400.png",
-  "updatedAt": "2025-05-23T18:47:44.012Z"
+  "screenshot": "https://share.appsfor.us/screenshots/figma_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/figma_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/figma_com_400.png",
+  "updatedAt": "2025-05-25T03:07:52.380Z"
 }

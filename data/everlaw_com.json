@@ -3,11 +3,11 @@
   "name": "Everlaw",
   "title": "everlaw.com",
   "payoff": "Simplify complex legal work",
-  "shortDescription": "Everlaw is a cloud-native ediscovery software designed for legal professionals. It aids law firms, corporations, and government agencies in managing complex legal challenges efficiently. Users can leverage powerful analytics, machine learning tools, and advanced technology for litigation, investigations, and trial preparation.",
+  "shortDescription": "Everlaw is a cloud-native ediscovery software designed for legal professionals. It aids law firms, corporations, and government agencies in managing complex legal challenges efficiently. Users can leverage powerful analytics, machine learning tools, and advanced technology for tasks like litigation, investigations, and trial preparations. Everlaw helps reduce document review volumes and speeds up legal processes.",
   "pros": [
-    "AI-powered analytics for quick insights",
-    "User-friendly interface enhances productivity",
-    "Rapid release cycles with thoughtful design"
+    "Powerful analytics and machine learning tools",
+    "User-friendly interface with rapid release cycles",
+    "Cloud-native technology enhances collaboration and efficiency"
   ],
   "cons": [
     "Potentially high cost for small firms",
@@ -28,32 +28,32 @@
     {
       "name": "Logikcull",
       "url": "logikcull.com",
-      "reason": "Simple, cloud-based ediscovery"
+      "reason": "Focus on simplicity and speed"
     },
     {
       "name": "Casepoint",
       "url": "casepoint.com",
-      "reason": "Scalable legal discovery solution"
+      "reason": "Scalable cloud-based solution"
     }
   ],
   "tags": [
     "ediscovery",
     "legal technology",
     "cloud software",
-    "AI"
+    "machine learning"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Legal & Compliance",
-  "function": "Content Management",
+  "function": "Documents",
   "freeTier": false,
   "openSource": false,
   "releasedYear": 2010,
   "websiteUrl": "https://everlaw.com/",
-  "documentationUrl": "https://everlaw.com/help",
+  "documentationUrl": "https://everlaw.com/resources",
   "githubUrl": "https://github.com/search?q=everlaw&type=repositories",
   "twitterUrl": "https://www.twitter.com/everlaw",
-  "screenshot": "/screenshots/everlaw_com.png",
-  "screenshot_640": "/screenshots/everlaw_com_640.png",
-  "screenshot_400": "/screenshots/everlaw_com_400.png",
-  "updatedAt": "2025-05-23T19:12:16.326Z"
+  "screenshot": "https://share.appsfor.us/screenshots/everlaw_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/everlaw_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/everlaw_com_400.png",
+  "updatedAt": "2025-05-25T03:09:55.393Z"
 }

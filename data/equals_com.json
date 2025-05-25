@@ -3,16 +3,16 @@
   "name": "Equals",
   "title": "equals.com",
   "payoff": "GTM analytics for revenue growth",
-  "shortDescription": "Equals provides an all-in-one GTM analytics solution tailored for various roles including RevOps, Founders, and Finance. It offers real-time insights into sales pipelines, financial reporting, and market strategies. This tool is essential for companies looking to enhance their decision-making processes and accelerate growth through data-driven insights.",
+  "shortDescription": "Equals offers an all-in-one GTM analytics solution tailored for various business roles including RevOps, Founders, and Finance departments. It provides real-time insights into sales pipelines, financial forecasts, and overall business performance. An example use case involves a founder using Equals to track real-time feedback on strategic decisions to optimize growth strategies.",
   "pros": [
     "Real-time revenue insights",
     "Tailored analytics for different roles",
     "Board-ready financial reporting"
   ],
   "cons": [
-    "Potentially complex for beginners",
-    "May require integration with existing systems",
-    "High dependency on data quality"
+    "May be complex for small businesses",
+    "Potentially high cost for premium features",
+    "Limited third-party integrations"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Tableau",
       "url": "tableau.com",
-      "reason": "Offers robust data visualization"
+      "reason": "Advanced visualization and business intelligence"
     },
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Integrates well with Google Cloud"
+      "reason": "Data integration and customizable dashboards"
     },
     {
       "name": "Domo",
       "url": "domo.com",
-      "reason": "Combines multiple data tools"
+      "reason": "Business cloud with extensive integrations"
     }
   ],
   "tags": [
     "analytics",
-    "data visualization",
     "SaaS",
-    "revenue growth"
+    "revenue growth",
+    "GTM"
   ],
   "apiUsed": true,
-  "department": "Data & Analytics",
+  "department": "Sales",
   "function": "Analytics",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://equals.com/",
-  "documentationUrl": "https://docs.equals.com/",
+  "documentationUrl": "https://equals.com/docs",
   "githubUrl": "https://github.com/search?q=equals&type=repositories",
   "twitterUrl": "http://twitter.com/heyequals",
-  "screenshot": "/screenshots/equals_com.png",
-  "screenshot_640": "/screenshots/equals_com_640.png",
-  "screenshot_400": "/screenshots/equals_com_400.png",
-  "updatedAt": "2025-05-23T18:47:23.640Z"
+  "screenshot": "https://share.appsfor.us/screenshots/equals_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/equals_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/equals_com_400.png",
+  "updatedAt": "2025-05-25T03:07:10.574Z"
 }
