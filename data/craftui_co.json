@@ -2,17 +2,17 @@
   "sourceUrl": "https://craftui.co/",
   "name": "CraftUI",
   "title": "craftui.co",
-  "payoff": "Blending creativity with technical expertise",
-  "shortDescription": "CraftUI is led by Braden Katz, a Senior Product & UI/UX Designer specializing in front-end development and product management. The service is tailored for businesses and individuals seeking innovative design solutions that combine aesthetic appeal with functional efficiency. An ideal use case would be startups needing to establish a compelling digital presence or companies aiming to revamp their user interfaces for better customer engagement.",
+  "payoff": "Enhance design with technical expertise",
+  "shortDescription": "CraftUI, led by Braden Katz, specializes in UI/UX design and front-end development, catering to clients needing high-quality digital product designs. With over a decade of experience, Braden offers a results-driven approach to design, ensuring client satisfaction and project success. Ideal for startups and businesses looking to elevate their user experience.",
   "pros": [
-    "Expertise in UI/UX and front-end development",
-    "High client satisfaction and job success rate",
-    "Customized design solutions"
+    "Award-winning UI/UX design",
+    "High job success rate on Upwork",
+    "Extensive experience and client satisfaction"
   ],
   "cons": [
-    "Limited information on pricing",
-    "No mention of team size or scalability",
-    "Focused mainly on design, less on broad software development"
+    "Limited information on team size",
+    "No clear pricing section",
+    "Lack of detailed service descriptions"
   ],
   "alternatives": [
     "Adobe XD [adobe.com]",
@@ -28,7 +28,7 @@
     {
       "name": "Sketch",
       "url": "sketch.com",
-      "reason": "Popular among designers for vector UI design"
+      "reason": "Popular among Mac users for UI/UX design"
     },
     {
       "name": "Figma",
@@ -38,8 +38,8 @@
   ],
   "tags": [
     "UI/UX Design",
-    "Product Management",
     "Front-end Development",
+    "Product Management",
     "Digital Design"
   ],
   "apiUsed": false,
@@ -47,7 +47,7 @@
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2010,
   "websiteUrl": "https://craftui.co/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=craftui&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/craftui_co.png",
   "screenshot_640": "/screenshots/craftui_co_640.png",
   "screenshot_400": "/screenshots/craftui_co_400.png",
-  "updatedAt": "2025-05-25T10:45:48.600Z"
+  "updatedAt": "2025-05-25T17:09:53.073Z"
 }
