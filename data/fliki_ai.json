@@ -3,15 +3,15 @@
   "name": "Fliki",
   "title": "fliki.ai",
   "payoff": "Turn text into videos with AI",
-  "shortDescription": "Fliki is a powerful AI-driven tool designed to transform text into engaging videos. It features an easy-to-use editor, lifelike AI voiceovers, and dynamic video clips. Ideal for marketers and businesses of all sizes, Fliki simplifies content creation, allowing users to produce professional videos quickly. Example use case: Marketing teams can create promotional videos without the need for extensive video production resources.",
+  "shortDescription": "Fliki is a tool designed to transform text into engaging videos using AI-powered voices and video clips. It caters to businesses of all sizes, enabling users to create professional videos quickly. An example use case is a marketer creating promotional videos without needing a full production team or voiceover artists.",
   "pros": [
-    "Easy to use text-to-video editor",
-    "Lifelike AI voiceovers enhance engagement",
-    "Rapid video creation saves time"
+    "Easy to use Text to Video editor",
+    "No need for voiceover artists",
+    "Supports a range of AI-powered features"
   ],
   "cons": [
     "Dependent on AI quality",
-    "May lack advanced customization",
+    "Limited customization options",
     "Potential privacy concerns with AI usage"
   ],
   "alternatives": [
@@ -28,18 +28,18 @@
     {
       "name": "InVideo",
       "url": "invideo.io",
-      "reason": "Feature-rich, customizable video editor"
+      "reason": "Provides extensive video editing features"
     },
     {
       "name": "Animoto",
       "url": "animoto.com",
-      "reason": "User-friendly video maker with templates"
+      "reason": "Focuses on easy video making for marketers"
     }
   ],
   "tags": [
     "AI",
-    "video creation",
-    "content generation",
+    "video generation",
+    "content creation",
     "marketing"
   ],
   "apiUsed": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=fliki&type=repositories",
   "twitterUrl": "https://twitter.com/fliki_ai",
-  "screenshot": "/screenshots/fliki_ai.png",
-  "screenshot_640": "/screenshots/fliki_ai_640.png",
-  "screenshot_400": "/screenshots/fliki_ai_400.png",
-  "updatedAt": "2025-05-23T20:40:45.001Z"
+  "screenshot": "https://share.appsfor.us/screenshots/fliki_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fliki_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fliki_ai_400.png",
+  "updatedAt": "2025-05-26T03:01:30.573Z"
 }

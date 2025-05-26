@@ -2,44 +2,44 @@
   "sourceUrl": "https://floatui.com/",
   "name": "Float UI",
   "title": "floatui.com",
-  "payoff": "Ship fast with Tailwind CSS UI",
-  "shortDescription": "Float UI provides a suite of free and open-source Tailwind CSS UI components and templates designed to help developers build responsive and modern websites quickly. Whether you're a seasoned developer or a beginner, Float UI simplifies the web development process by offering ready-to-use components that can be easily integrated with various JavaScript frameworks. Ideal for startups looking to launch fast without compromising on design.",
+  "payoff": "Ship fast with Tailwind UI components",
+  "shortDescription": "Float UI provides a comprehensive suite of free and open-source UI components and templates designed with Tailwind CSS. It's tailored for developers and designers aiming to quickly turn ideas into responsive, modern websites without deep design skills. Users can simply copy and paste components into their projects, leveraging frameworks like React and Next.js for seamless integration.",
   "pros": [
-    "Free and open-source",
+    "100% free and open-source",
     "Responsive and modern design",
-    "Supports multiple JS frameworks"
+    "Supports multiple frameworks"
   ],
   "cons": [
-    "Limited customization options",
-    "No dedicated support",
-    "May not cover all use cases"
+    "Limited to Tailwind CSS",
+    "No direct customer support",
+    "May require customization for unique needs"
   ],
   "alternatives": [
     "Tailwind UI [tailwindui.com]",
     "Material-UI [mui.com]",
-    "Ant Design [ant.design]"
+    "Bootstrap [getbootstrap.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Tailwind UI",
       "url": "tailwindui.com",
-      "reason": "Premium Tailwind CSS components"
+      "reason": "Official Tailwind CSS UI library"
     },
     {
       "name": "Material-UI",
       "url": "mui.com",
-      "reason": "Comprehensive React UI framework"
+      "reason": "Popular React UI framework"
     },
     {
-      "name": "Ant Design",
-      "url": "ant.design",
-      "reason": "Large scale design language"
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "Widely used HTML, CSS, and JS library"
     }
   ],
   "tags": [
     "UI components",
-    "web development",
     "open source",
+    "web design",
     "Tailwind CSS"
   ],
   "apiUsed": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/MarsX-dev/floatui",
   "twitterUrl": "https://twitter.com/float_ui?s=09",
-  "screenshot": "/screenshots/floatui_com.png",
-  "screenshot_640": "/screenshots/floatui_com_640.png",
-  "screenshot_400": "/screenshots/floatui_com_400.png",
-  "updatedAt": "2025-05-23T20:41:15.673Z"
+  "screenshot": "https://share.appsfor.us/screenshots/floatui_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/floatui_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/floatui_com_400.png",
+  "updatedAt": "2025-05-26T03:02:10.216Z"
 }

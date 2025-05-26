@@ -2,17 +2,17 @@
   "sourceUrl": "https://founderpal.ai/",
   "name": "FounderPal",
   "title": "founderpal.ai",
-  "payoff": "AI Marketing to Grow Business",
-  "shortDescription": "FounderPal is an AI-driven marketing platform designed to automate and enhance marketing efforts for businesses of all sizes. It serves startup founders and marketing agencies by offering 24/7 availability and performing a wide range of marketing tasks. An example use case is automating email campaigns and social media management, allowing businesses to focus on strategic decisions.",
+  "payoff": "AI Marketing to Grow Your Business",
+  "shortDescription": "FounderPal is an AI-driven marketing platform designed to automate and enhance marketing tasks for businesses of all sizes. From startup founders to marketing agencies, FounderPal offers a cost-effective alternative to traditional marketing services. It operates 24/7, handling everything from content creation to analytics, making it an ideal partner for businesses looking to scale efficiently.",
   "pros": [
-    "24/7 availability",
-    "Cheaper than traditional marketing agencies",
-    "Loved by over 2000 customers"
+    "24/7 availability for marketing tasks",
+    "Cost-effective compared to traditional agencies",
+    "Loved by a wide range of customers"
   ],
   "cons": [
-    "May not replace human creativity",
-    "Limited to predefined tasks",
-    "Potential privacy concerns"
+    "May not replace human creativity fully",
+    "Limited to predefined marketing tasks",
+    "Potential privacy concerns with AI handling"
   ],
   "alternatives": [
     "HubSpot [hubspot.com]",
@@ -23,7 +23,7 @@
     {
       "name": "HubSpot",
       "url": "hubspot.com",
-      "reason": "Offers comprehensive CRM and marketing tools"
+      "reason": "Offers comprehensive marketing tools"
     },
     {
       "name": "Mailchimp",
@@ -33,7 +33,7 @@
     {
       "name": "Hootsuite",
       "url": "hootsuite.com",
-      "reason": "Focused on social media management"
+      "reason": "Focus on social media management"
     }
   ],
   "tags": [
@@ -45,15 +45,15 @@
   "apiUsed": false,
   "department": "Marketing",
   "function": "Marketing Tools",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://founderpal.ai/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=founderpal&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/founderpal_ai.png",
-  "screenshot_640": "/screenshots/founderpal_ai_640.png",
-  "screenshot_400": "/screenshots/founderpal_ai_400.png",
-  "updatedAt": "2025-05-23T21:13:34.579Z"
+  "screenshot": "https://share.appsfor.us/screenshots/founderpal_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/founderpal_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/founderpal_ai_400.png",
+  "updatedAt": "2025-05-26T03:05:40.959Z"
 }
