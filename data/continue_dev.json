@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://continue.dev/",
+  "name": "Continue",
+  "title": "continue.dev",
+  "payoff": "Amplify developers with AI-native tools",
+  "shortDescription": "Continue is designed to enhance the capabilities of developers by integrating AI-driven code assistants directly into their development environments. It supports creating, sharing, and using custom AI models and tools through an open-source IDE extension. Developers can autocomplete code in any language, ask context-specific questions, and rewrite code using natural language commands. Ideal for teams looking to boost productivity and adapt to evolving AI technologies.",
+  "pros": [
+    "Supports multiple programming languages",
+    "Customizable AI code assistants",
+    "Open-source with extensive integration"
+  ],
+  "cons": [
+    "May require initial setup and learning",
+    "Dependent on the quality of AI models",
+    "Potential privacy concerns with codebase access"
+  ],
+  "alternatives": [
+    "Kite [kite.com]",
+    "Codota [codota.com]",
+    "Tabnine [tabnine.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "Offers AI-powered code completions"
+    },
+    {
+      "name": "Codota",
+      "url": "codota.com",
+      "reason": "Provides AI code suggestions in IDE"
+    },
+    {
+      "name": "Tabnine",
+      "url": "tabnine.com",
+      "reason": "Deep learning assistant for coding"
+    }
+  ],
+  "tags": [
+    "AI",
+    "development tools",
+    "open source",
+    "IDE extensions"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://continue.dev/",
+  "documentationUrl": "https://continue.dev/docs",
+  "githubUrl": "https://github.com/continuedev/continue",
+  "twitterUrl": "https://twitter.com/continuedev",
+  "screenshot": "https://share.appsfor.us/screenshots/continue_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/continue_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/continue_dev_400.png",
+  "updatedAt": "2025-05-26T03:49:45.762Z"
+}
