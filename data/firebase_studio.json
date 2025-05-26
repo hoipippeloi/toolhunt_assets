@@ -3,16 +3,16 @@
   "name": "Firebase Studio",
   "title": "firebase.studio",
   "payoff": "Accelerate development with AI",
-  "shortDescription": "Firebase Studio is a comprehensive development platform that integrates AI to streamline the creation of backends, frontends, and mobile apps. It is designed for developers looking to enhance productivity by utilizing AI agents for tasks like coding, debugging, and testing. An example use case is a developer quickly prototyping an app using natural language inputs and deploying it efficiently.",
+  "shortDescription": "Firebase Studio is a comprehensive development platform that integrates AI to enhance the building of backends, frontends, and mobile apps. Ideal for developers seeking to streamline their workflow, it supports importing projects from various sources like GitHub and Bitbucket. Users can start quickly with templates or custom setups, making it perfect for rapid prototyping and collaborative development.",
   "pros": [
-    "Integrates AI for various development tasks",
-    "Supports importing from multiple repositories",
-    "Offers built-in web and Android app previews"
+    "Integrated AI assistance for various development tasks",
+    "Supports importing from major repositories",
+    "Offers a free tier during preview"
   ],
   "cons": [
-    "Currently in preview with limited workspaces",
-    "Dependent on Google Developer Program for more features",
-    "May have a learning curve for new users"
+    "Currently in preview, may have limited features",
+    "Limited to Google Developer Program members for extended features",
+    "Dependent on external services like GitHub for imports"
   ],
   "alternatives": [
     "Heroku [heroku.com]",
@@ -23,7 +23,7 @@
     {
       "name": "Heroku",
       "url": "heroku.com",
-      "reason": "Popular platform for app deployment"
+      "reason": "Offers easy app deployment and scaling"
     },
     {
       "name": "Netlify",
@@ -39,8 +39,8 @@
   "tags": [
     "AI",
     "development",
-    "full-stack",
-    "mobile apps"
+    "mobile apps",
+    "full-stack"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/firebase",
   "twitterUrl": "https://x.com/Firebase",
-  "screenshot": "/screenshots/firebase_studio.png",
-  "screenshot_640": "/screenshots/firebase_studio_640.png",
-  "screenshot_400": "/screenshots/firebase_studio_400.png",
-  "updatedAt": "2025-05-23T20:16:29.464Z"
+  "screenshot": "https://share.appsfor.us/screenshots/firebase_studio.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/firebase_studio_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/firebase_studio_400.png",
+  "updatedAt": "2025-05-26T01:13:10.458Z"
 }

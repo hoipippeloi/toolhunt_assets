@@ -2,16 +2,16 @@
   "sourceUrl": "https://feta.io/",
   "name": "Feta",
   "title": "feta.io",
-  "payoff": "Efficient meetings for teams",
-  "shortDescription": "Feta streamlines meetings for product and engineering teams by integrating tasks from tools like GitHub, Jira, and Linear into a Kanban view for easy management. It enhances meeting productivity with smart agendas, in-meeting reminders, and AI-driven summaries. An example use case is a development team using Feta to sync their daily stand-ups and retrospective meetings efficiently.",
+  "payoff": "Efficient meetings for tech teams",
+  "shortDescription": "Feta streamlines meetings for product and engineering teams by integrating tasks and discussions into actionable insights. It reduces pre-meeting preparation by organizing tasks, GitHub PRs, and blockers into a Kanban view. Users can create tasks and update project management tools like Linear or Jira directly from their discussions. Feta's AI captures crucial details, generating smart summaries and context-aware notes, making meetings more productive and focused.",
   "pros": [
-    "Integrates with multiple project management tools",
-    "AI-driven summaries and notes",
-    "Real-time meeting recaps and reminders"
+    "Integrates with major project management tools",
+    "AI-driven summaries and notes save time",
+    "Real-time meeting recaps and smart agendas"
   ],
   "cons": [
     "May have a learning curve for new users",
-    "Dependent on third-party service integrations",
+    "Dependent on integrations for full functionality",
     "Potential privacy concerns with AI transcription"
   ],
   "alternatives": [
@@ -26,20 +26,20 @@
       "reason": "Popular for task and project management"
     },
     {
-      "name": "Slack",
-      "url": "slack.com",
-      "reason": "Enhances team communication and integration"
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management with boards"
     },
     {
-      "name": "Jira",
-      "url": "atlassian.com/software/jira",
-      "reason": "Advanced project management for software teams"
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Flexible tool for multiple project types"
     }
   ],
   "tags": [
     "project management",
     "AI",
-    "meeting efficiency",
+    "productivity",
     "team collaboration"
   ],
   "apiUsed": true,
@@ -47,13 +47,13 @@
   "function": "Project Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://feta.io/",
-  "documentationUrl": "https://feta.io/docs",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=feta&type=repositories",
   "twitterUrl": "https://x.com/feta_io",
-  "screenshot": "/screenshots/feta_io.png",
-  "screenshot_640": "/screenshots/feta_io_640.png",
-  "screenshot_400": "/screenshots/feta_io_400.png",
-  "updatedAt": "2025-05-23T19:37:19.012Z"
+  "screenshot": "https://share.appsfor.us/screenshots/feta_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/feta_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/feta_io_400.png",
+  "updatedAt": "2025-05-26T01:11:02.491Z"
 }

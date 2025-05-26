@@ -3,16 +3,16 @@
   "name": "Extracta",
   "title": "extracta.ai",
   "payoff": "Automate document data extraction",
-  "shortDescription": "Extracta is an AI-powered tool designed to simplify the extraction of data from documents and images. It is tailored for businesses and individuals who handle large volumes of documents, such as invoices, contracts, and receipts. By automating data extraction, Extracta helps users save time, reduce errors, and increase efficiency. An example use case is a company automating the processing of incoming invoices to quickly capture payment details and due dates without manual input.",
+  "shortDescription": "Extracta is an AI-powered tool designed to simplify the extraction of data from documents and images. It caters to businesses needing to automate data entry from various document formats like invoices, resumes, and contracts without any prior training. An example use case is automating data capture from financial documents to streamline accounting processes.",
   "pros": [
-    "No training required for operation",
-    "Supports various document formats",
-    "Customizable data extraction templates"
+    "No training required",
+    "Supports multiple document formats",
+    "Customizable templates"
   ],
   "cons": [
-    "Dependence on document quality",
+    "Dependence on AI accuracy",
     "Potential privacy concerns",
-    "Limited offline capabilities"
+    "Requires internet connection"
   ],
   "alternatives": [
     "ABBYY FlexiCapture [abbyy.com]",
@@ -33,7 +33,7 @@
     {
       "name": "Kofax Capture",
       "url": "kofax.com",
-      "reason": "Robust integration features"
+      "reason": "Robust scanning and indexing features"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Documents",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://extracta.ai/",
   "documentationUrl": "https://extracta.ai/documentation",
   "githubUrl": "https://github.com/search?q=extracta&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/extracta_ai.png",
-  "screenshot_640": "/screenshots/extracta_ai_640.png",
-  "screenshot_400": "/screenshots/extracta_ai_400.png",
-  "updatedAt": "2025-05-23T19:36:50.611Z"
+  "screenshot": "https://share.appsfor.us/screenshots/extracta_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/extracta_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/extracta_ai_400.png",
+  "updatedAt": "2025-05-26T01:10:22.548Z"
 }
