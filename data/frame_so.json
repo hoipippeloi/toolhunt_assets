@@ -3,44 +3,44 @@
   "name": "Frame",
   "title": "frame.so",
   "payoff": "Intelligent Workspace for Companies",
-  "shortDescription": "Frame revolutionizes how businesses operate by integrating AI-powered tools and employees into a single platform. Designed for companies looking to enhance productivity and streamline operations, Frame offers a suite of native apps and AI capabilities. Users can deploy AI experts instantly, manage data in real-time, and integrate over 50 work apps seamlessly. An example use case includes using AI employees to automate tasks within documents and manage business operations end-to-end.",
+  "shortDescription": "Frame revolutionizes business operations by integrating AI-powered tools and employees into a unified workspace. Designed for businesses seeking efficiency, Frame allows instant deployment of AI experts and seamless app integration. Example use case: A company uses Frame to manage projects, integrate communication tools like Slack, and utilize AI employees for real-time data analysis and decision-making.",
   "pros": [
-    "AI-powered tools enhance productivity",
-    "Seamless integration of multiple work apps",
-    "Real-time data management and AI assistance"
+    "Integrates all work apps into one platform",
+    "AI employees enhance team productivity",
+    "Real-time data awareness and interaction"
   ],
   "cons": [
-    "Dependence on AI might limit manual control",
+    "Dependence on AI might limit human decision-making",
     "Potential privacy concerns with AI handling sensitive data",
-    "Integration complexities with existing IT infrastructure"
+    "Integration complexities with existing IT systems"
   ],
   "alternatives": [
-    "Monday.com [monday.com]",
+    "Slack [slack.com]",
     "Asana [asana.com]",
-    "Slack [slack.com]"
+    "Monday.com [monday.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Notion",
-      "url": "notion.so",
-      "reason": "Offers flexible workspace integration"
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Popular for team communication and integration"
     },
     {
       "name": "Trello",
       "url": "trello.com",
-      "reason": "Popular for project and task management"
+      "reason": "Visual project management with flexible boards"
     },
     {
-      "name": "Airtable",
-      "url": "airtable.com",
-      "reason": "Combines databases with project management"
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "All-in-one workspace with extensive customization"
     }
   ],
   "tags": [
     "AI",
     "productivity",
     "workspace",
-    "integration"
+    "collaboration"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://frame.so/",
-  "documentationUrl": null,
+  "documentationUrl": "https://docs.frame.so/",
   "githubUrl": "https://github.com/search?q=frame&type=repositories",
   "twitterUrl": "https://twitter.com/joinframeso",
-  "screenshot": "/screenshots/frame_so.png",
-  "screenshot_640": "/screenshots/frame_so_640.png",
-  "screenshot_400": "/screenshots/frame_so_400.png",
-  "updatedAt": "2025-05-23T21:37:55.491Z"
+  "screenshot": "https://share.appsfor.us/screenshots/frame_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/frame_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/frame_so_400.png",
+  "updatedAt": "2025-05-27T01:07:55.610Z"
 }

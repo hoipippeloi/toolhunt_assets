@@ -3,11 +3,11 @@
   "name": "Funshow",
   "title": "funshowtech.com",
   "payoff": "Trackable Dynamic QR Codes",
-  "shortDescription": "Funshow allows users to create and manage dynamic QR codes with ease. Ideal for businesses and marketers, the tool enables the generation of QR codes that can be edited and tracked. Users can customize their QR codes by adding logos, changing colors, and selecting different shapes. An example use case is a retail store using QR codes for promotions that can be updated with new offers without needing to replace the QR codes physically.",
+  "shortDescription": "Funshow allows users to create and manage dynamic QR codes with ease. Ideal for businesses and marketers, it enables the embedding of URLs, social media links, or text within QR codes. Users can update the content linked to a QR code without needing to generate a new one, ensuring efficient and flexible marketing campaigns. Customize your QR codes with logos and colors to align with your brand identity.",
   "pros": [
-    "Editable and trackable QR codes",
-    "Customizable design options",
-    "Supports multiple QR code types"
+    "Editable content without new QR generation",
+    "Custom design options including logos and colors",
+    "Tracking features for monitoring QR code scans"
   ],
   "cons": [
     "Requires active subscription for full features",
@@ -16,8 +16,8 @@
   ],
   "alternatives": [
     "QR Code Generator [qrcode-generator.com]",
-    "Scanova [scanova.io]",
-    "Beaconstac [beaconstac.com]"
+    "Beaconstac [beaconstac.com]",
+    "Scanova [scanova.io]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,21 +26,21 @@
       "reason": "Offers similar QR code creation tools"
     },
     {
-      "name": "Scanova",
-      "url": "scanova.io",
-      "reason": "Provides advanced QR code design options"
-    },
-    {
       "name": "Beaconstac",
       "url": "beaconstac.com",
-      "reason": "Includes QR codes with broader marketing tools"
+      "reason": "Provides broader marketing solutions"
+    },
+    {
+      "name": "Scanova",
+      "url": "scanova.io",
+      "reason": "Features extensive QR design options"
     }
   ],
   "tags": [
-    "QR codes",
-    "Marketing",
-    "Tracking",
-    "Customization"
+    "QR code generator",
+    "marketing",
+    "tracking",
+    "dynamic content"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=funshow&type=repositories",
   "twitterUrl": "https://twitter.com/xiaodongluo4",
-  "screenshot": "/screenshots/funshowtech_com.png",
-  "screenshot_640": "/screenshots/funshowtech_com_640.png",
-  "screenshot_400": "/screenshots/funshowtech_com_400.png",
-  "updatedAt": "2025-05-23T21:38:34.425Z"
+  "screenshot": "https://share.appsfor.us/screenshots/funshowtech_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/funshowtech_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/funshowtech_com_400.png",
+  "updatedAt": "2025-05-27T01:09:24.210Z"
 }

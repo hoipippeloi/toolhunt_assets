@@ -3,16 +3,16 @@
   "name": "Generated Photos",
   "title": "generated.photos",
   "payoff": "Unique, worry-free model photos",
-  "shortDescription": "Generated Photos leverages AI to create unique, photo-realistic faces and full-body human images. Ideal for industries like advertising, design, and research, it allows users to generate images that do not exist in real life. An example use case is generating diverse human images for training machine learning models without privacy concerns.",
+  "shortDescription": "Generated Photos leverages AI to create unique, realistic human images for various applications. Ideal for advertisers, designers, and researchers, it offers tools like Face Generator and Human Generator to produce diverse faces and full-body images. Use cases include marketing materials, game character design, and academic studies on face perception.",
   "pros": [
     "High-quality AI-generated images",
-    "Diverse and large dataset of faces and humans",
+    "Extensive variety with millions of faces",
     "API integration for scalability"
   ],
   "cons": [
-    "Lack of real human authenticity",
     "Potential ethical concerns",
-    "Dependent on AI technology advancements"
+    "Limited to human images",
+    "Dependence on AI technology"
   ],
   "alternatives": [
     "This Person Does Not Exist [thispersondoesnotexist.com]",
@@ -23,27 +23,27 @@
     {
       "name": "This Person Does Not Exist",
       "url": "thispersondoesnotexist.com",
-      "reason": "Generates endless fake human faces"
+      "reason": "Generates endless random faces"
     },
     {
       "name": "Deep Dream Generator",
       "url": "deepdreamgenerator.com",
-      "reason": "AI tool for creating dream-like images"
+      "reason": "Transforms photos via AI"
     },
     {
       "name": "Rosebud AI",
       "url": "rosebud.ai",
-      "reason": "Offers AI-generated videos and images"
+      "reason": "Creates diverse AI-generated models"
     }
   ],
   "tags": [
     "AI",
-    "machine learning",
-    "image generation",
+    "photo generation",
+    "marketing",
     "design"
   ],
   "apiUsed": true,
-  "department": "Research & Development",
+  "department": "Marketing",
   "function": "AI & ML",
   "freeTier": false,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=generated%20photos&type=repositories",
   "twitterUrl": "https://x.com/generated_media",
-  "screenshot": "/screenshots/generated_photos.png",
-  "screenshot_640": "/screenshots/generated_photos_640.png",
-  "screenshot_400": "/screenshots/generated_photos_400.png",
-  "updatedAt": "2025-05-23T22:16:04.514Z"
+  "screenshot": "https://share.appsfor.us/screenshots/generated_photos.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/generated_photos_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/generated_photos_400.png",
+  "updatedAt": "2025-05-27T01:12:00.252Z"
 }

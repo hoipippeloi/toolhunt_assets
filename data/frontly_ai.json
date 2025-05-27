@@ -3,16 +3,16 @@
   "name": "Frontly",
   "title": "frontly.ai",
   "payoff": "Build custom apps with no code",
-  "shortDescription": "Frontly enables users to create custom applications using AI without any coding knowledge. It's designed for entrepreneurs, small businesses, and non-technical users who need to quickly deploy functional apps. An example use case is a small business owner creating a custom CRM system to manage customer interactions and data without hiring a developer.",
+  "shortDescription": "Frontly is a no-code platform that enables users to create custom applications using AI-driven tools. It is designed for non-technical users, such as business analysts and project managers, who need to develop functional applications without writing code. An example use case could be a marketing team building a custom campaign tracking app to monitor and analyze their marketing efforts efficiently.",
   "pros": [
-    "No coding required",
-    "AI-powered features",
-    "Quick app deployment"
+    "No coding required to build apps",
+    "AI integration for enhanced functionalities",
+    "User-friendly interface for non-technical users"
   ],
   "cons": [
-    "Limited customization",
-    "Dependent on platform updates",
-    "Potential scalability issues"
+    "Limited customization compared to coded solutions",
+    "May not handle complex back-end processes",
+    "Dependence on platform for updates and features"
   ],
   "alternatives": [
     "Bubble [bubble.io]",
@@ -23,17 +23,17 @@
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "Visual app building with more integrations"
+      "reason": "Offers no-code development with a visual editor"
     },
     {
       "name": "Adalo",
       "url": "adalo.com",
-      "reason": "Focuses on mobile app development"
+      "reason": "Focuses on mobile app development without code"
     },
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Targets developers for internal tools"
+      "reason": "Provides more integration options for developers"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://frontly.ai/docs",
   "githubUrl": "https://github.com/search?q=frontly&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/frontly_ai.png",
-  "screenshot_640": "/screenshots/frontly_ai_640.png",
-  "screenshot_400": "/screenshots/frontly_ai_400.png",
-  "updatedAt": "2025-05-23T21:38:13.987Z"
+  "screenshot": "https://share.appsfor.us/screenshots/frontly_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/frontly_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/frontly_ai_400.png",
+  "updatedAt": "2025-05-27T01:08:31.813Z"
 }

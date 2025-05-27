@@ -3,16 +3,16 @@
   "name": "Gadget",
   "title": "gadget.dev",
   "payoff": "Faster full-stack app development",
-  "shortDescription": "Gadget is a platform designed to streamline the development of full-stack web applications. It integrates backend, frontend, and database solutions into a single, cohesive tool. Developers can build and deploy apps quickly with features like serverless API actions and auto-generated UI components. An example use case is creating a multi-tenant SaaS app that scales efficiently without managing infrastructure.",
+  "shortDescription": "Gadget offers a streamlined platform for building and deploying full-stack web applications rapidly. It integrates backend, frontend, and database management into a cohesive development environment. Developers can leverage AI to automate tasks and scale applications efficiently. An example use case is creating an e-commerce app that integrates seamlessly with Shopify or BigCommerce.",
   "pros": [
     "Rapid development and deployment",
-    "No need for manual backend configuration",
-    "Built-in scalability features"
+    "Integrated backend, frontend, and database",
+    "AI-driven automation and scalability"
   ],
   "cons": [
     "Limited customization options",
-    "Dependence on a single platform",
-    "Potential performance issues for complex applications"
+    "Dependence on proprietary platform",
+    "Potential performance issues with complex apps"
   ],
   "alternatives": [
     "Retool [retool.com]",
@@ -28,7 +28,7 @@
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code app development platform"
+      "reason": "No-code web app development"
     },
     {
       "name": "Webflow",
@@ -38,9 +38,9 @@
   ],
   "tags": [
     "full-stack development",
-    "SaaS",
-    "app development",
-    "serverless"
+    "web apps",
+    "automation",
+    "scalability"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://gadget.dev/",
-  "documentationUrl": "https://gadget.dev/docs",
+  "documentationUrl": "https://docs.gadget.dev/",
   "githubUrl": "https://github.com/gadget-inc",
   "twitterUrl": "https://x.com/gadget_dev",
-  "screenshot": "/screenshots/gadget_dev.png",
-  "screenshot_640": "/screenshots/gadget_dev_640.png",
-  "screenshot_400": "/screenshots/gadget_dev_400.png",
-  "updatedAt": "2025-05-23T22:14:23.355Z"
+  "screenshot": "https://share.appsfor.us/screenshots/gadget_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gadget_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gadget_dev_400.png",
+  "updatedAt": "2025-05-27T01:09:58.623Z"
 }
