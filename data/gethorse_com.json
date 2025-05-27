@@ -2,58 +2,58 @@
   "sourceUrl": "https://gethorse.com/",
   "name": "Horse Browser",
   "title": "gethorse.com",
-  "payoff": "Organise your internet with Trails®",
-  "shortDescription": "Horse Browser revolutionizes how professionals manage their online activities by eliminating traditional tabs and bookmarks. It introduces 'Trails®', a unique way to organize web pages into nested groups that reflect the user's workflow. Ideal for individuals who need to manage multiple projects or research topics, Horse Browser helps save time and reduce stress by keeping all resources neatly organized and easily accessible.",
+  "payoff": "Organize your internet with Trails®",
+  "shortDescription": "Horse Browser revolutionizes how users manage their internet tabs, transforming chaos into an organized, productive environment. Designed for individuals overwhelmed by numerous open tabs, Horse Browser introduces the concept of Trails®, allowing users to group related tabs into streamlined workflows. Ideal for researchers, digital marketers, and anyone looking to enhance their online efficiency.",
   "pros": [
-    "Reduces clutter and enhances focus",
-    "Saves time by organizing web resources efficiently",
-    "Simple, intuitive interface with Trails®"
+    "Reduces tab clutter significantly",
+    "Enhances productivity with organized browsing",
+    "Customizable tab management features"
   ],
   "cons": [
-    "Lack of traditional bookmarks may disorient some users",
-    "Possible learning curve for new users",
-    "Dependence on a single browser for organization"
+    "Might have a learning curve for new users",
+    "Potentially limited browser extension compatibility",
+    "Requires adaptation of browsing habits"
   ],
   "alternatives": [
-    "Mozilla Firefox [mozilla.org]",
-    "Google Chrome [google.com]",
-    "Microsoft Edge [microsoft.com]"
+    "Firefox [mozilla.org]",
+    "Google Chrome [google.com/chrome]",
+    "Opera [opera.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Mozilla Firefox",
-      "url": "mozilla.org",
-      "reason": "Offers extensive customization and privacy"
+      "name": "Vivaldi",
+      "url": "vivaldi.com",
+      "reason": "Customizable browser with tab management"
     },
     {
-      "name": "Google Chrome",
-      "url": "google.com",
-      "reason": "Widely used with extensive extension support"
+      "name": "Brave",
+      "url": "brave.com",
+      "reason": "Privacy-focused browser with tab features"
     },
     {
       "name": "Microsoft Edge",
-      "url": "microsoft.com",
-      "reason": "Integrated with Windows and offers vertical tabs"
+      "url": "microsoft.com/edge",
+      "reason": "Built-in tab organization tools"
     }
   ],
   "tags": [
-    "productivity tools",
-    "web browser",
-    "task management",
-    "content organization"
+    "productivity tool",
+    "browser management",
+    "tab organizer",
+    "custom browsing"
   ],
   "apiUsed": false,
   "department": "Information Technology",
   "function": "Desktop Software",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2023,
+  "releasedYear": 2021,
   "websiteUrl": "https://gethorse.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=horse%20browser&type=repositories",
   "twitterUrl": "https://x.com/Horse_Browser",
-  "screenshot": "/screenshots/gethorse_com.png",
-  "screenshot_640": "/screenshots/gethorse_com_640.png",
-  "screenshot_400": "/screenshots/gethorse_com_400.png",
-  "updatedAt": "2025-05-23T22:42:12.583Z"
+  "screenshot": "https://share.appsfor.us/screenshots/gethorse_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gethorse_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gethorse_com_400.png",
+  "updatedAt": "2025-05-27T02:58:20.619Z"
 }

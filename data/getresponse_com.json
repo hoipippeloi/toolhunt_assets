@@ -2,17 +2,17 @@
   "sourceUrl": "https://getresponse.com/",
   "name": "GetResponse",
   "title": "getresponse.com",
-  "payoff": "All-in-one marketing automation",
-  "shortDescription": "GetResponse is a comprehensive marketing platform designed for businesses looking to streamline their email marketing, automation, and landing page creation. It offers tools for creating engaging emails, automating marketing tasks, and building landing pages that convert. Ideal for small to medium-sized businesses, GetResponse helps users increase their audience engagement and sales with minimal effort. Example use case: A small e-commerce store uses GetResponse to manage their email campaigns and automate follow-up emails to customers.",
+  "payoff": "Automate marketing and boost sales",
+  "shortDescription": "GetResponse is an all-in-one marketing platform designed to help businesses increase their online presence through automated email marketing, landing pages, and comprehensive integration capabilities. Ideal for small to medium-sized businesses looking to engage customers and streamline their marketing efforts. An example use case is a small e-commerce store using GetResponse to manage email campaigns, automate responses, and analyze customer behavior to boost sales.",
   "pros": [
-    "Integrated marketing tools in one platform",
-    "High deliverability rates across countries",
-    "Extensive support and learning resources"
+    "Comprehensive marketing tools in one platform",
+    "High deliverability rates across multiple countries",
+    "Extensive integration with over 170 services"
   ],
   "cons": [
-    "Can be pricey for advanced features",
-    "Limited customization in certain templates",
-    "Complex features may require a learning curve"
+    "Can be complex for beginners",
+    "Custom pricing for enterprise may be expensive",
+    "Limited functionality in the basic plan"
   ],
   "alternatives": [
     "Mailchimp [mailchimp.com]",
@@ -28,19 +28,19 @@
     {
       "name": "HubSpot",
       "url": "hubspot.com",
-      "reason": "Provides additional CRM features"
+      "reason": "Provides CRM and sales features"
     },
     {
       "name": "ActiveCampaign",
       "url": "activecampaign.com",
-      "reason": "Stronger in automation customization"
+      "reason": "Strong on automation and CRM"
     }
   ],
   "tags": [
     "email marketing",
-    "marketing automation",
+    "automation",
     "landing pages",
-    "SaaS"
+    "marketing tools"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://getresponse.com/documentation",
   "githubUrl": "https://github.com/search?q=getresponse&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/getresponse_com.png",
-  "screenshot_640": "/screenshots/getresponse_com_640.png",
-  "screenshot_400": "/screenshots/getresponse_com_400.png",
-  "updatedAt": "2025-05-23T23:15:06.998Z"
+  "screenshot": "https://share.appsfor.us/screenshots/getresponse_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getresponse_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getresponse_com_400.png",
+  "updatedAt": "2025-05-27T02:59:45.903Z"
 }

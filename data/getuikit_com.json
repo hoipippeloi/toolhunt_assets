@@ -3,16 +3,16 @@
   "name": "UIkit",
   "title": "getuikit.com",
   "payoff": "Develop powerful web interfaces fast",
-  "shortDescription": "UIkit is a modular front-end framework designed for web developers to create fast and powerful web interfaces. It offers a comprehensive collection of HTML, CSS, and JS components which are simple to use, easy to customize and extendable. UIkit is ideal for developers looking to build responsive, lightweight websites. Example use case: Developing an interactive dashboard for an analytics platform.",
+  "shortDescription": "UIkit is a modular front-end framework designed for web developers to create lightweight, fast, and powerful web interfaces. It is ideal for developers looking to streamline their web development process with a framework that offers extensive customization options through Less, Sass, and JavaScript. An example use case could be a developer building a responsive and interactive website for a startup.",
   "pros": [
     "Lightweight and modular design",
-    "Extensive components for web development",
-    "Highly customizable"
+    "Extensive customization with Less and Sass",
+    "Rich set of components for interface development"
   ],
   "cons": [
-    "Steep learning curve for beginners",
-    "Less community support compared to other frameworks",
-    "Limited built-in templates"
+    "Requires knowledge of Less or Sass for full customization",
+    "Might be less known compared to other frameworks like Bootstrap",
+    "Limited built-in themes compared to competitors"
   ],
   "alternatives": [
     "Bootstrap [getbootstrap.com]",
@@ -23,12 +23,12 @@
     {
       "name": "Bootstrap",
       "url": "getbootstrap.com",
-      "reason": "More features and extensive community"
+      "reason": "More themes and larger community"
     },
     {
       "name": "Foundation",
       "url": "foundation.zurb.com",
-      "reason": "Flexibility with professional use"
+      "reason": "Flexibility with enterprise focus"
     },
     {
       "name": "Bulma",
@@ -39,8 +39,8 @@
   "tags": [
     "front-end framework",
     "web development",
-    "modular",
-    "responsive design"
+    "UI design",
+    "modular"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://getuikit.com/docs/introduction",
   "githubUrl": "https://github.com/uikit/uikit",
   "twitterUrl": "https://twitter.com/getuikit",
-  "screenshot": "/screenshots/getuikit_com.png",
-  "screenshot_640": "/screenshots/getuikit_com_640.png",
-  "screenshot_400": "/screenshots/getuikit_com_400.png",
-  "updatedAt": "2025-05-23T23:15:20.596Z"
+  "screenshot": "https://share.appsfor.us/screenshots/getuikit_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getuikit_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getuikit_com_400.png",
+  "updatedAt": "2025-05-27T03:00:18.993Z"
 }

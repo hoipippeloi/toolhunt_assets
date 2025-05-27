@@ -3,16 +3,16 @@
   "name": "Cartwheel",
   "title": "getcartwheel.com",
   "payoff": "Animate characters easily on any device",
-  "shortDescription": "Cartwheel offers a revolutionary approach to animating characters for various media such as videos, games, and social media. Users can smoothly combine motions for complex performances with just a few clicks. It allows the creation of characters from descriptions or art, and supports uploading of 3D character files for animation. Ideal for animators and content creators, Cartwheel can be used directly from a mobile browser, enhancing flexibility and accessibility.",
+  "shortDescription": "Cartwheel is a versatile animation tool designed for creating and animating characters across various media like videos, games, and social media. Users can easily combine motions for complex performances and create or upload fully rigged characters. Ideal for animators looking to streamline their workflow on both desktop and mobile platforms, Cartwheel enhances creative freedom and efficiency.",
   "pros": [
-    "Easy combination and blending of motions",
-    "Supports both creation and upload of characters",
+    "Supports uploading and rigging own characters",
+    "Seamless motion blending",
     "Accessible on mobile devices"
   ],
   "cons": [
-    "Limited to character animation",
-    "No desktop app, only browser-based",
-    "Potential privacy concerns with uploads"
+    "Potentially limited customization options",
+    "Dependence on web connectivity",
+    "No clear pricing structure mentioned"
   ],
   "alternatives": [
     "Adobe Character Animator [adobe.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Adobe Character Animator",
       "url": "adobe.com",
-      "reason": "Offers live animation capabilities"
+      "reason": "Offers live motion capture and real-time animation"
     },
     {
       "name": "Blender",
       "url": "blender.org",
-      "reason": "Free, open-source 3D creation suite"
+      "reason": "Open-source and fully integrated 3D creation suite"
     },
     {
       "name": "Mixamo",
       "url": "mixamo.com",
-      "reason": "Automates character animation processes"
+      "reason": "Automates character animation with AI"
     }
   ],
   "tags": [
     "animation",
-    "3D modeling",
-    "character design",
-    "mobile accessibility"
+    "character rigging",
+    "mobile animation",
+    "3D modeling"
   ],
   "apiUsed": false,
   "department": "Creative",
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2022,
+  "releasedYear": 2021,
   "websiteUrl": "https://getcartwheel.com/",
   "documentationUrl": "https://docs.getcartwheel.com/",
   "githubUrl": "https://github.com/search?q=cartwheel&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/getcartwheel_com.png",
-  "screenshot_640": "/screenshots/getcartwheel_com_640.png",
-  "screenshot_400": "/screenshots/getcartwheel_com_400.png",
-  "updatedAt": "2025-05-23T22:41:24.323Z"
+  "screenshot": "https://share.appsfor.us/screenshots/getcartwheel_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getcartwheel_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getcartwheel_com_400.png",
+  "updatedAt": "2025-05-27T02:55:50.176Z"
 }

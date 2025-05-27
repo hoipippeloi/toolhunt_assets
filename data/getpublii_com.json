@@ -3,57 +3,57 @@
   "name": "Publii",
   "title": "getpublii.com",
   "payoff": "Fast, Secure Static CMS",
-  "shortDescription": "Publii offers an open-source static CMS designed for creating fast, secure, and compliant websites easily. It's tailored for users who need a privacy-focused solution without the complexities of dynamic servers. Ideal for bloggers, small businesses, and developers, Publii simplifies website creation with one-click deployment and customizable themes.",
+  "shortDescription": "Publii is an open-source static CMS designed for creating fast, secure, and privacy-compliant websites easily. It is ideal for bloggers, developers, and small businesses looking to establish a robust online presence without the complexities of dynamic websites. Users can deploy their sites with one-click synchronization across various platforms, benefiting from intuitive content management and beautiful, customizable themes.",
   "pros": [
     "Open-source and free to use",
-    "One-click synchronization for easy deployment",
-    "GDPR & CCPA compliance for enhanced privacy"
+    "One-click deployment across platforms",
+    "GDPR and CCPA compliant for user privacy"
   ],
   "cons": [
-    "Limited to static sites, no dynamic content",
-    "Less flexibility compared to full CMS platforms",
-    "Requires some technical knowledge for setup"
+    "Limited dynamic content capabilities",
+    "May require technical knowledge for customization",
+    "Less community support compared to larger CMS platforms"
   ],
   "alternatives": [
+    "WordPress [wordpress.org]",
     "Jekyll [jekyllrb.com]",
-    "Hugo [gohugo.io]",
-    "WordPress [wordpress.org]"
+    "Hugo [gohugo.io]"
   ],
   "aiSuggestedAlternatives": [
     {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "More plugins and themes available"
+    },
+    {
       "name": "Jekyll",
       "url": "jekyllrb.com",
-      "reason": "Popular static site generator"
+      "reason": "Great for GitHub Pages hosting"
     },
     {
       "name": "Hugo",
       "url": "gohugo.io",
-      "reason": "Fast and flexible static site generator"
-    },
-    {
-      "name": "WordPress",
-      "url": "wordpress.org",
-      "reason": "Offers dynamic CMS capabilities"
+      "reason": "Fastest build times for static sites"
     }
   ],
   "tags": [
     "static CMS",
-    "web development",
     "open source",
-    "website builder"
+    "website development",
+    "content management"
   ],
   "apiUsed": false,
   "department": "Development",
   "function": "Site Builder",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2018,
+  "releasedYear": 2017,
   "websiteUrl": "https://getpublii.com/",
   "documentationUrl": "https://getpublii.com/docs/",
   "githubUrl": "https://github.com/GetPublii/Publii/discussions",
   "twitterUrl": "https://twitter.com/getpublii",
-  "screenshot": "/screenshots/getpublii_com.png",
-  "screenshot_640": "/screenshots/getpublii_com_640.png",
-  "screenshot_400": "/screenshots/getpublii_com_400.png",
-  "updatedAt": "2025-05-23T23:14:33.176Z"
+  "screenshot": "https://share.appsfor.us/screenshots/getpublii_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getpublii_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getpublii_com_400.png",
+  "updatedAt": "2025-05-27T02:59:00.769Z"
 }

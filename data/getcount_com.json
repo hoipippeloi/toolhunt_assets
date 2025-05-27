@@ -2,58 +2,58 @@
   "sourceUrl": "https://getcount.com/",
   "name": "COUNT",
   "title": "getcount.com",
-  "payoff": "Accounting software for ambitious businesses",
-  "shortDescription": "COUNT is a modern accounting software designed for high-volume accounting tasks. It serves accounting teams by automating manual work, allowing them to serve more clients and boost profits without increasing headcount. An example use case is a firm using COUNT to manage client documents, automate reconciliations, and communicate securely, all from a single platform.",
+  "payoff": "Modern accounting software for growth",
+  "shortDescription": "COUNT is a comprehensive accounting software designed for ambitious businesses looking to automate and streamline their accounting processes. It integrates client management, project tracking, document storage, and invoicing in one platform. An example use case is a mid-sized accounting firm using COUNT to manage client data, automate invoicing, and communicate securely, all while reducing manual workload and increasing efficiency.",
   "pros": [
-    "Comprehensive automation of accounting tasks",
-    "Secure client document storage and communication",
-    "Real-time data syncing and one-click migration"
+    "Comprehensive feature set for accounting automation",
+    "Strong security with 256-bit encryption and SOC 2 compliance",
+    "One-click migration and real-time data syncing"
   ],
   "cons": [
     "May be complex for small businesses",
-    "Potentially high cost for full features",
-    "Dependence on internet connectivity"
+    "Potentially high cost for premium features",
+    "Limited customization options"
   ],
   "alternatives": [
-    "QuickBooks [quickbooks.intuit.com]",
+    "QuickBooks Online [quickbooks.intuit.com]",
     "Xero [xero.com]",
     "FreshBooks [freshbooks.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "QuickBooks",
+      "name": "QuickBooks Online",
       "url": "quickbooks.intuit.com",
       "reason": "Widely used with strong brand recognition"
     },
     {
       "name": "Xero",
       "url": "xero.com",
-      "reason": "Offers strong cloud-based features"
+      "reason": "Offers robust integrations and mobile app"
     },
     {
       "name": "FreshBooks",
       "url": "freshbooks.com",
-      "reason": "Focuses on small businesses and freelancers"
+      "reason": "Focuses on smaller businesses and freelancers"
     }
   ],
   "tags": [
     "accounting",
     "automation",
     "SaaS",
-    "data syncing"
+    "financial management"
   ],
   "apiUsed": true,
   "department": "Finance & Accounting",
   "function": "Finance",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2018,
   "websiteUrl": "https://getcount.com/",
   "documentationUrl": "https://getcount.com/docs",
   "githubUrl": "https://github.com/search?q=count&type=repositories",
   "twitterUrl": "https://x.com/getcount",
-  "screenshot": "/screenshots/getcount_com.png",
-  "screenshot_640": "/screenshots/getcount_com_640.png",
-  "screenshot_400": "/screenshots/getcount_com_400.png",
-  "updatedAt": "2025-05-23T22:41:52.473Z"
+  "screenshot": "https://share.appsfor.us/screenshots/getcount_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getcount_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getcount_com_400.png",
+  "updatedAt": "2025-05-27T02:56:48.131Z"
 }
