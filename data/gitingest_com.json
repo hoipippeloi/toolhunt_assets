@@ -2,57 +2,58 @@
   "sourceUrl": "https://gitingest.com/",
   "name": "Gitingest",
   "title": "gitingest.com",
-  "payoff": "Digest Git repos for LLM input.",
-  "shortDescription": "Gitingest transforms any Git repository into a streamlined text digest, making it easier to feed codebases into language learning models (LLMs). This tool is particularly useful for developers and researchers who want to analyze code or train models on code data. For example, by modifying a GitHub URL to include 'ingest' instead of 'hub', users can quickly generate a digestible format of the repository for further processing.",
+  "payoff": "Simplify Git repos for LLMs",
+  "shortDescription": "Gitingest transforms any Git repository into a concise text digest, making it easier to integrate codebases with language learning models (LLMs). This tool is ideal for developers and researchers aiming to analyze or utilize codebases through AI-driven platforms. For example, by modifying a GitHub URL to include 'ingest', users can quickly prepare repositories for AI processing.",
   "pros": [
-    "Simplifies codebase analysis",
-    "Facilitates LLM training",
-    "Easy integration with GitHub URLs"
+    "Simplifies integration of codebases with AI",
+    "Easy conversion of GitHub URLs",
+    "Useful for developers and AI researchers"
   ],
   "cons": [
     "Limited to Git repositories",
-    "May not handle large repositories efficiently",
-    "Lacks advanced customization options"
+    "No advanced customization options",
+    "Dependent on external repository availability"
   ],
   "alternatives": [
     "Sourcegraph [sourcegraph.com]",
-    "GitKraken [gitkraken.com]",
-    "Bitbucket [bitbucket.org]"
+    "GitLab [gitlab.com]",
+    "Phabricator [phacility.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Sourcegraph",
       "url": "sourcegraph.com",
-      "reason": "Offers advanced code search and intelligence."
+      "reason": "Offers code search and intelligence"
     },
     {
-      "name": "GitKraken",
-      "url": "gitkraken.com",
-      "reason": "Provides visual Git workflows."
+      "name": "GitLab",
+      "url": "gitlab.com",
+      "reason": "Provides comprehensive devops platform"
     },
     {
-      "name": "Bitbucket",
-      "url": "bitbucket.org",
-      "reason": "Integrates with Jira and Trello."
+      "name": "Phabricator",
+      "url": "phacility.com",
+      "reason": "Includes tools for code review and management"
     }
   ],
   "tags": [
-    "code analysis",
-    "LLM training",
-    "Git integration"
+    "web scraping",
+    "data extraction",
+    "AI",
+    "code management"
   ],
   "apiUsed": false,
   "department": "Research & Development",
-  "function": "Data Storage",
+  "function": "Data Sync",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2023,
+  "releasedYear": 2021,
   "websiteUrl": "https://gitingest.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/cyclotruc/gitingest",
   "twitterUrl": "https://x.com/romdot2",
-  "screenshot": "/screenshots/gitingest_com.png",
-  "screenshot_640": "/screenshots/gitingest_com_640.png",
-  "screenshot_400": "/screenshots/gitingest_com_400.png",
-  "updatedAt": "2025-05-24T02:50:14.510Z"
+  "screenshot": "https://share.appsfor.us/screenshots/gitingest_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gitingest_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gitingest_com_400.png",
+  "updatedAt": "2025-05-28T02:59:12.959Z"
 }

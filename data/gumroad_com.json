@@ -3,16 +3,16 @@
   "name": "Gumroad",
   "title": "gumroad.com",
   "payoff": "Earn your first dollar online",
-  "shortDescription": "Gumroad simplifies online selling for creators and artists. It allows users to sell a variety of products such as ebooks, software, and art. An example use case is an artist selling digital brushes, transitioning from a side gig to a primary income source, as seen with MaxPacks. Gumroad supports various payment models and integrates with numerous apps via Zapier.",
+  "shortDescription": "Gumroad enables creators to sell products directly to consumers. Ideal for artists, writers, and designers, it offers an easy way to monetize digital and physical goods. For instance, an artist can sell digital brushes, while a writer might offer exclusive ebooks. Users can set up a storefront quickly, manage products, and receive payments directly.",
   "pros": [
-    "Supports various payment models",
-    "Easy integration with other apps",
-    "No tech expertise required to start"
+    "Easy setup and management of storefront",
+    "Supports a variety of digital and physical products",
+    "Flexible payment options including PWYW (Pay What You Want)"
   ],
   "cons": [
-    "Limited customization options",
-    "Dependent on third-party integrations",
-    "May not scale well for large businesses"
+    "Limited customization options for the storefront",
+    "Higher fees compared to some competitors",
+    "Lacks advanced marketing tools"
   ],
   "alternatives": [
     "Shopify [shopify.com]",
@@ -28,19 +28,19 @@
     {
       "name": "Patreon",
       "url": "patreon.com",
-      "reason": "Focus on subscriptions and memberships"
+      "reason": "Focuses on subscription-based models"
     },
     {
       "name": "Sellfy",
       "url": "sellfy.com",
-      "reason": "Strong in digital goods and print on demand"
+      "reason": "Strong in digital goods sales"
     }
   ],
   "tags": [
     "E-commerce",
-    "Digital Sales",
-    "Creator Economy",
-    "Payment Processing"
+    "Digital sales",
+    "Creator economy",
+    "Content monetization"
   ],
   "apiUsed": true,
   "department": "Sales",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://help.gumroad.com",
   "githubUrl": "https://github.com/antiwork/gumroad",
   "twitterUrl": "https://x.com/gumroad",
-  "screenshot": "/screenshots/gumroad_com.png",
-  "screenshot_640": "/screenshots/gumroad_com_640.png",
-  "screenshot_400": "/screenshots/gumroad_com_400.png",
-  "updatedAt": "2025-05-24T03:36:01.378Z"
+  "screenshot": "https://share.appsfor.us/screenshots/gumroad_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gumroad_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gumroad_com_400.png",
+  "updatedAt": "2025-05-28T03:02:26.190Z"
 }

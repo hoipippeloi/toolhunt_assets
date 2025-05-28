@@ -2,17 +2,17 @@
   "sourceUrl": "https://grafana.com/",
   "name": "Grafana",
   "title": "grafana.com",
-  "payoff": "Compose observability across your stack",
-  "shortDescription": "Grafana is a powerful observability platform that enables you to monitor, visualize, and understand your metrics, logs, and traces. It is designed for developers, DevOps teams, and security professionals. Users can create rich dashboards to track real-time data across applications and infrastructure, making it easier to diagnose and resolve issues.",
+  "payoff": "Compose observability at scale",
+  "shortDescription": "Grafana is an open platform for monitoring and observability, allowing users to visualize, alert, and understand their metrics, logs, and traces. It is ideal for developers, DevOps teams, and security professionals. Users can customize dashboards to view real-time data, set up alerts for system anomalies, and integrate with various data sources for comprehensive insights.",
   "pros": [
-    "Rich visualization capabilities",
-    "Integrates with multiple data sources",
-    "Scalable and extensible architecture"
+    "Flexible and customizable dashboards",
+    "Integration with multiple data sources",
+    "Strong community and open-source"
   ],
   "cons": [
     "Steep learning curve for new users",
     "Can be resource-intensive",
-    "Complex configuration for advanced setups"
+    "Complex setup for advanced features"
   ],
   "alternatives": [
     "Prometheus [prometheus.io]",
@@ -28,19 +28,19 @@
     {
       "name": "Datadog",
       "url": "datadoghq.com",
-      "reason": "Cloud-based monitoring with AI features"
+      "reason": "Cloud-based, extensive integration options"
     },
     {
       "name": "New Relic",
       "url": "newrelic.com",
-      "reason": "Comprehensive enterprise observability suite"
+      "reason": "Comprehensive enterprise features"
     }
   ],
   "tags": [
     "observability",
     "monitoring",
-    "visualization",
-    "open source"
+    "open source",
+    "data visualization"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://grafana.com/docs/",
   "githubUrl": "https://github.com/grafana/",
   "twitterUrl": "https://twitter.com/grafana",
-  "screenshot": "/screenshots/grafana_com.png",
-  "screenshot_640": "/screenshots/grafana_com_640.png",
-  "screenshot_400": "/screenshots/grafana_com_400.png",
-  "updatedAt": "2025-05-24T02:51:22.502Z"
+  "screenshot": "https://share.appsfor.us/screenshots/grafana_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/grafana_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/grafana_com_400.png",
+  "updatedAt": "2025-05-28T03:00:56.664Z"
 }
