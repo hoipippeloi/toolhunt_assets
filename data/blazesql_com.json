@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blazesql.com/",
+  "name": "Blaze SQL",
+  "title": "blazesql.com",
+  "payoff": "AI-driven SQL insights in seconds",
+  "shortDescription": "Blaze SQL leverages AI to transform SQL database queries into actionable insights quickly and efficiently. It is designed for both technical and non-technical users, enabling teams to automate SQL query generation and focus on strategic tasks. An example use case is a non-technical marketing professional using Blaze SQL to generate complex SQL queries for customer data analysis without prior SQL knowledge.",
+  "pros": [
+    "Automates SQL query generation",
+    "Supports multiple database types",
+    "Enhances productivity with AI insights"
+  ],
+  "cons": [
+    "Dependent on database connectivity",
+    "May not handle all types of custom queries",
+    "Privacy concerns with cloud-based processing"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Tableau [tableau.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for SQL"
+    },
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Strong in data visualization"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Integrates well with big data"
+    }
+  ],
+  "tags": [
+    "AI",
+    "SQL",
+    "data analysis",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://blazesql.com/",
+  "documentationUrl": "https://blazesql.com/docs",
+  "githubUrl": "https://github.com/search?q=blaze%20sql&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/blazesql_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/blazesql_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/blazesql_com_400.png",
+  "updatedAt": "2025-05-28T04:22:06.426Z"
+}

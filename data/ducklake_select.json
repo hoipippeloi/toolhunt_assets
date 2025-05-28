@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ducklake.select/",
+  "name": "DuckLake",
+  "title": "ducklake.select",
+  "payoff": "Simplify your data lake management",
+  "shortDescription": "DuckLake offers a streamlined approach to managing data lakes with less complexity. It utilizes Parquet files and SQL databases to provide a robust data storage solution. Ideal for organizations looking to implement a data warehouse without heavy infrastructure, DuckLake supports multiple SQL systems and allows for concurrent access. Example use case: A tech company uses DuckLake to handle large datasets efficiently, enabling quick access and management through familiar SQL operations.",
+  "pros": [
+    "Supports multiple SQL databases",
+    "Enables concurrent access with ACID transactions",
+    "Supports snapshots and schema evolution"
+  ],
+  "cons": [
+    "Limited to SQL systems supporting ACID transactions",
+    "Single client limitation with DuckDB as catalog",
+    "Requires separate storage for Parquet files"
+  ],
+  "alternatives": [
+    "Databricks [databricks.com]",
+    "Snowflake [snowflake.com]",
+    "Amazon Redshift [aws.amazon.com/redshift]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apache Hudi",
+      "url": "hudi.apache.org",
+      "reason": "Offers similar data lake management"
+    },
+    {
+      "name": "Delta Lake",
+      "url": "delta.io",
+      "reason": "Open-source storage layer for data lakes"
+    },
+    {
+      "name": "Apache Iceberg",
+      "url": "iceberg.apache.org",
+      "reason": "Table format for large analytic datasets"
+    }
+  ],
+  "tags": [
+    "data lake",
+    "SQL",
+    "open source",
+    "data management"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ducklake.select/",
+  "documentationUrl": "https://ducklake.select/docs",
+  "githubUrl": "https://github.com/duckdb/ducklake",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/ducklake_select.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ducklake_select_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ducklake_select_400.png",
+  "updatedAt": "2025-05-28T04:24:18.878Z"
+}

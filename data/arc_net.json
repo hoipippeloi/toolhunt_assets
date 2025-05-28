@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://arc.net/",
+  "name": "Arc",
+  "title": "arc.net",
+  "payoff": "The Chrome replacement you need.",
+  "shortDescription": "Arc is a web browser designed to replace traditional browsers like Chrome by anticipating user needs and providing a tailored browsing experience. It offers a unique setup that respects user privacy and caters to various user groups including developers and students. An example use case is a developer using Arc to manage different project environments seamlessly.",
+  "pros": [
+    "Anticipates user needs",
+    "Tailored user experience",
+    "Focus on privacy"
+  ],
+  "cons": [
+    "Lesser known than competitors",
+    "Potential compatibility issues",
+    "Limited user base"
+  ],
+  "alternatives": [
+    "Google Chrome [google.com/chrome]",
+    "Mozilla Firefox [mozilla.org]",
+    "Microsoft Edge [microsoft.com/edge]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Most popular browser with extensive support."
+    },
+    {
+      "name": "Mozilla Firefox",
+      "url": "mozilla.org",
+      "reason": "Focus on privacy and customization."
+    },
+    {
+      "name": "Opera",
+      "url": "opera.com",
+      "reason": "Innovative features like built-in VPN."
+    }
+  ],
+  "tags": [
+    "web browser",
+    "privacy",
+    "user experience",
+    "customization"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://arc.net/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=arc&type=repositories",
+  "twitterUrl": "https://twitter.com/browsercompany",
+  "screenshot": "https://share.appsfor.us/screenshots/arc_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/arc_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/arc_net_400.png",
+  "updatedAt": "2025-05-28T04:20:39.201Z"
+}

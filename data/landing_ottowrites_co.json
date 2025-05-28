@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://landing.ottowrites.co/",
+  "name": "Otto",
+  "title": "ottowrites.co",
+  "payoff": "Record and share your stories",
+  "shortDescription": "Otto transforms spoken memories into polished memoirs with ease. Ideal for individuals eager to document their life stories without the hassle of writing. Users simply talk about their memories in short sessions, and Otto handles the transcription and chapter creation. This tool is perfect for capturing ongoing life stories, making it accessible for busy individuals or those less comfortable with writing.",
+  "pros": [
+    "Easy to use with no writing required",
+    "Automated session transcription and chapter creation",
+    "Affordable with a subscription model"
+  ],
+  "cons": [
+    "Dependent on quality of speech recognition",
+    "Limited to English language sessions",
+    "No free tier available"
+  ],
+  "alternatives": [
+    "StoryWorth [storyworth.com]",
+    "LifeBio [lifebio.com]",
+    "Memories [memories.net.au]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "StoryWorth",
+      "url": "storyworth.com",
+      "reason": "Offers personalized story collection"
+    },
+    {
+      "name": "LifeBio",
+      "url": "lifebio.com",
+      "reason": "Focuses on detailed life stories"
+    },
+    {
+      "name": "Memories",
+      "url": "memories.net.au",
+      "reason": "Provides multimedia story capturing"
+    }
+  ],
+  "tags": [
+    "storytelling",
+    "memoir creation",
+    "audio to text",
+    "biography"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://landing.ottowrites.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=otto&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/landing_ottowrites_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/landing_ottowrites_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/landing_ottowrites_co_400.png",
+  "updatedAt": "2025-05-28T04:20:02.853Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://new.space/",
+  "name": "new.space",
+  "title": "new.space",
+  "payoff": "Teamwork made easy with new.space",
+  "shortDescription": "new.space simplifies team collaboration by centralizing links, files, and documents in one accessible location. Designed for teams seeking efficient planning and communication, it allows users to manage projects without the need for emails or credit cards. An example use case is a project team using new.space to streamline their workflow and keep all members updated in real time.",
+  "pros": [
+    "Access across all devices",
+    "No credit card required for trial",
+    "End-to-end encryption for security"
+  ],
+  "cons": [
+    "Limited integration with external services",
+    "No clear pricing information available",
+    "Potential privacy concerns with extensive data collection"
+  ],
+  "alternatives": [
+    "Slack [slack.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Offers robust communication tools"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Strong task management features"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management tool"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "project management",
+    "teamwork",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://new.space/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=new%20space&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/new_space.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/new_space_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/new_space_400.png",
+  "updatedAt": "2025-05-28T04:23:44.236Z"
+}
