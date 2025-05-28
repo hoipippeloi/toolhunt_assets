@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getcreatr.com/",
+  "name": "Creatr",
+  "title": "getcreatr.com",
+  "payoff": "Create Products Without Any Limits",
+  "shortDescription": "Creatr is a powerful tool designed for developers and designers who want to streamline their workflow. It allows users to focus on design and high-level development by automating the coding process. An example use case is a designer creating a functional app prototype quickly without deep coding knowledge, leveraging Creatr's intuitive interface and integration capabilities, such as with Supabase.",
+  "pros": [
+    "Enhances productivity by automating coding",
+    "Integrates easily with tools like Supabase",
+    "Supports both quick prototypes and full app development"
+  ],
+  "cons": [
+    "May not suit developers who prefer coding manually",
+    "Limited customization due to automation",
+    "Potential dependency on the platform for development"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]",
+    "Adalo [adalo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform for web apps"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Visual site builder with CMS"
+    },
+    {
+      "name": "Adalo",
+      "url": "adalo.com",
+      "reason": "Build mobile apps without coding"
+    }
+  ],
+  "tags": [
+    "automation",
+    "design tools",
+    "development",
+    "prototyping"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://getcreatr.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=creatr&type=repositories",
+  "twitterUrl": "https://x.com/getcreatr",
+  "screenshot": "https://share.appsfor.us/screenshots/getcreatr_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getcreatr_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getcreatr_com_400.png",
+  "updatedAt": "2025-05-28T03:43:44.495Z"
+}

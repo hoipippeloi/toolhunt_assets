@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ui.aidan-neel.com/",
+  "name": "Neel UI",
+  "title": "aidan-neel.com",
+  "payoff": "Interactive components for Svelte",
+  "shortDescription": "Neel UI offers a suite of interactive and reusable components designed specifically for Svelte applications. It provides developers with tools like buttons, dropdown menus, and checkboxes that are easy to integrate and customize. This makes it ideal for developers looking to enhance their web projects with high-quality UI elements. Example use cases include building user interfaces for enterprise applications or creating responsive, component-driven websites.",
+  "pros": [
+    "Easy to use and customize",
+    "Designed specifically for Svelte",
+    "Interactive and reusable components"
+  ],
+  "cons": [
+    "Limited to Svelte framework",
+    "May not suit non-Svelte projects",
+    "Limited third-party integrations"
+  ],
+  "alternatives": [
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]",
+    "Bootstrap [getbootstrap.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Offers a wide range of components"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Rich in features and customization"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "Popular and versatile framework"
+    }
+  ],
+  "tags": [
+    "UI components",
+    "Svelte",
+    "web development",
+    "design system"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ui.aidan-neel.com/",
+  "documentationUrl": "https://ui.aidan-neel.com/docs",
+  "githubUrl": "https://github.com/aidan-neel/neel-ui",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/ui_aidan_neel_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ui_aidan_neel_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ui_aidan_neel_com_400.png",
+  "updatedAt": "2025-05-28T03:45:09.696Z"
+}

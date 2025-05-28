@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lithesome.dev/",
+  "name": "Lithesome",
+  "title": "lithesome.dev",
+  "payoff": "Enhance your development workflow!",
+  "shortDescription": "Lithesome is a versatile tool designed to streamline software development processes. It caters to developers and project managers by providing robust features for code management and collaboration. An example use case is a development team using Lithesome to manage their source code, track changes, and collaborate on projects efficiently.",
+  "pros": [
+    "Streamlines development workflows",
+    "Enhances collaboration among team members",
+    "Robust code management features"
+  ],
+  "cons": [
+    "May have a steep learning curve",
+    "Potentially high subscription costs",
+    "Limited integrations with other tools"
+  ],
+  "alternatives": [
+    "GitHub [github.com]",
+    "GitLab [gitlab.com]",
+    "Bitbucket [bitbucket.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub",
+      "url": "github.com",
+      "reason": "Popular for code hosting and collaboration"
+    },
+    {
+      "name": "GitLab",
+      "url": "gitlab.com",
+      "reason": "Offers integrated CI/CD features"
+    },
+    {
+      "name": "Bitbucket",
+      "url": "bitbucket.org",
+      "reason": "Good for teams using Atlassian products"
+    }
+  ],
+  "tags": [
+    "software development",
+    "project management",
+    "collaboration",
+    "code management"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lithesome.dev/",
+  "documentationUrl": "https://lithesome.dev/docs",
+  "githubUrl": "https://github.com/search?q=lithesome&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/lithesome_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lithesome_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lithesome_dev_400.png",
+  "updatedAt": "2025-05-28T03:45:47.620Z"
+}

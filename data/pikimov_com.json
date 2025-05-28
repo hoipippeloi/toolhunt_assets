@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pikimov.com/",
+  "name": "PIKIMOV",
+  "title": "pikimov.com",
+  "payoff": "Free browser-based video editor",
+  "shortDescription": "PIKIMOV is a free, web-based motion design and video editing tool that requires no installation or sign-up, making it accessible directly via browsers like Chrome or Edge. Designed for users who prefer local editing without uploading files to a server, it supports up to 4K resolution. Ideal for creating quick video edits, motion designs, and applying effects such as color correction or green screen removal. It's perfect for content creators and educators looking to enhance their videos without complex software.",
+  "pros": [
+    "No installation required",
+    "Local file processing",
+    "Supports up to 4K resolution"
+  ],
+  "cons": [
+    "Limited to browser capabilities",
+    "No API for developers",
+    "Lacks AI-enhanced features"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "DaVinci Resolve [blackmagicdesign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry standard for video editing"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Popular among Mac users"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Advanced color correction features"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "motion design",
+    "browser-based",
+    "free tool"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://pikimov.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=pikimov&type=repositories",
+  "twitterUrl": "https://twitter.com/pikilipita",
+  "screenshot": "https://share.appsfor.us/screenshots/pikimov_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pikimov_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pikimov_com_400.png",
+  "updatedAt": "2025-05-28T03:44:28.301Z"
+}

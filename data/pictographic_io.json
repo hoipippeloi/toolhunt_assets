@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pictographic.io/",
+  "name": "Pictographic",
+  "title": "pictographic.io",
+  "payoff": "Vast illustration sets for design",
+  "shortDescription": "Pictographic offers a massive library of over 210,000 illustrations across 10 different styles, catering to designers and creatives who need diverse visual assets. Users can integrate these graphics directly into Figma, enhancing workflow efficiency. Additionally, if a desired image is not available, Pictographic's generate function allows users to create new illustrations in the existing styles. This tool is ideal for graphic designers looking to streamline their design process and maintain consistency across projects.",
+  "pros": [
+    "Extensive library with 210,000+ illustrations",
+    "Direct integration with Figma",
+    "Custom generation of illustrations"
+  ],
+  "cons": [
+    "Limited to 10 styles",
+    "No clear pricing information available",
+    "May require internet connection for full functionality"
+  ],
+  "alternatives": [
+    "Adobe Stock [stock.adobe.com]",
+    "Canva [canva.com]",
+    "Envato Elements [elements.envato.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Stock",
+      "url": "stock.adobe.com",
+      "reason": "Wide range of stock images and graphics"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Integrated design tool with templates"
+    },
+    {
+      "name": "Envato Elements",
+      "url": "elements.envato.com",
+      "reason": "Subscription-based creative assets"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "illustrations",
+    "Figma plugin",
+    "SVG editing"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://pictographic.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=pictographic&type=repositories",
+  "twitterUrl": "https://twitter.com/pictographic_io",
+  "screenshot": "https://share.appsfor.us/screenshots/pictographic_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pictographic_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pictographic_io_400.png",
+  "updatedAt": "2025-05-28T03:46:24.794Z"
+}
