@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://karakeep.app/",
+  "name": "Karakeep",
+  "title": "karakeep.app",
+  "payoff": "Bookmark Everything Seamlessly",
+  "shortDescription": "Karakeep is designed for individuals who need to manage a large amount of digital information efficiently. It allows users to save links, notes, images, and PDFs, which are automatically tagged using AI for quick retrieval. Ideal for data hoarders, Karakeep enhances organization by sorting bookmarks into lists and supports full-text search for easy access. Users can enjoy features like dark mode, mobile apps, and browser extensions for a seamless experience.",
+  "pros": [
+    "AI-powered tagging for efficient organization",
+    "Supports dark mode for enhanced readability",
+    "Offers both mobile and browser extensions for accessibility"
+  ],
+  "cons": [
+    "May require technical knowledge for self-hosting",
+    "Limited to bookmarking and note-taking functionalities",
+    "Dependent on AI accuracy for tagging effectiveness"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Pocket [getpocket.com]",
+    "Raindrop.io [raindrop.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Offers extensive note-taking features"
+    },
+    {
+      "name": "Pocket",
+      "url": "getpocket.com",
+      "reason": "Focused on saving articles for later reading"
+    },
+    {
+      "name": "Raindrop.io",
+      "url": "raindrop.io",
+      "reason": "Provides advanced bookmarking and organization"
+    }
+  ],
+  "tags": [
+    "bookmarking",
+    "note-taking",
+    "AI",
+    "organization"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://karakeep.app/",
+  "documentationUrl": "https://docs.karakeep.app/",
+  "githubUrl": "https://github.com/karakeep-app/karakeep",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/karakeep_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/karakeep_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/karakeep_app_400.png",
+  "updatedAt": "2025-05-28T08:20:26.071Z"
+}
