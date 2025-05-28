@@ -3,15 +3,15 @@
   "name": "Gilion",
   "title": "gilion.com",
   "payoff": "Fundraising Peace Of Mind",
-  "shortDescription": "Gilion is designed to streamline the fundraising process for startups by offering tailored financial structuring. It utilizes AI to customize funding terms that favor founders, enhancing their journey from startup to scale. Ideal for startup founders seeking intelligent funding solutions, Gilion simplifies complex financial data, making it accessible and understandable to potential investors.",
+  "shortDescription": "Gilion is designed to streamline the fundraising process for startups by structuring financial data in a way that is understandable to investors. It targets startup founders seeking efficient ways to secure funding. An example use case would be a startup using Gilion to present their financial health and growth potential to potential investors, thereby increasing their chances of securing investment.",
   "pros": [
-    "AI-driven customization of funding terms",
-    "Specialized in startup financial structuring",
-    "User-friendly interface for founders"
+    "Simplifies financial data presentation",
+    "Tailored for startup needs",
+    "Enhances investor understanding"
   ],
   "cons": [
-    "Limited to fundraising functionalities",
-    "May not suit non-startup businesses",
+    "Limited to fundraising context",
+    "May not support all types of businesses",
     "Dependence on accurate data input"
   ],
   "alternatives": [
@@ -28,32 +28,32 @@
     {
       "name": "Indiegogo",
       "url": "indiegogo.com",
-      "reason": "Global fundraising site, flexible campaigns"
+      "reason": "Global fundraising site"
     },
     {
       "name": "SeedInvest",
       "url": "seedinvest.com",
-      "reason": "Equity crowdfunding platform, startup focus"
+      "reason": "Equity crowdfunding platform"
     }
   ],
   "tags": [
     "fundraising",
-    "startups",
-    "financial structuring",
-    "AI"
+    "startup",
+    "investment",
+    "financial management"
   ],
   "apiUsed": false,
   "department": "Finance & Accounting",
   "function": "Finance",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://gilion.com/",
-  "documentationUrl": "https://www.gilion.com/docs",
+  "documentationUrl": "https://www.gilion.com/cookiepolicy",
   "githubUrl": "https://github.com/search?q=gilion&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/gilion_com.png",
-  "screenshot_640": "/screenshots/gilion_com_640.png",
-  "screenshot_400": "/screenshots/gilion_com_400.png",
-  "updatedAt": "2025-05-24T01:06:00.048Z"
+  "screenshot": "https://share.appsfor.us/screenshots/gilion_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gilion_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gilion_com_400.png",
+  "updatedAt": "2025-05-28T01:13:01.842Z"
 }

@@ -2,45 +2,45 @@
   "sourceUrl": "https://ghost.org/",
   "name": "Ghost",
   "title": "ghost.org",
-  "payoff": "Best open source blog platform",
-  "shortDescription": "Ghost is an open source blogging and newsletter platform designed for creators, publishers, and businesses. It offers tools for site design, audience growth, and business operations. Users can leverage professional themes, integrate with various apps, and access a rich marketplace for custom solutions. Ideal for YouTubers, journalists, and brands aiming to enhance their content strategy.",
+  "payoff": "Modern publishing technology",
+  "shortDescription": "Ghost is an open-source platform designed for modern publishing needs, catering to creators like YouTubers, bloggers, and artists, as well as publishers and businesses. It offers tools for site design, audience growth, and business operations. An example use case is a journalist setting up a subscription-based news outlet with integrated payment solutions.",
   "pros": [
-    "Open source and customizable",
-    "Extensive integrations",
-    "Dedicated support and community"
+    "Open-source and customizable",
+    "Integrated SEO and social tools",
+    "Scalable and developer-friendly"
   ],
   "cons": [
     "Requires technical knowledge for setup",
     "Limited design templates compared to competitors",
-    "Potentially high hosting costs"
+    "Potentially higher operational costs for self-hosting"
   ],
   "alternatives": [
     "WordPress [wordpress.org]",
-    "Medium [medium.com]",
-    "Substack [substack.com]"
+    "Substack [substack.com]",
+    "Medium [medium.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "WordPress",
       "url": "wordpress.org",
-      "reason": "Extensive plugins and themes available"
-    },
-    {
-      "name": "Medium",
-      "url": "medium.com",
-      "reason": "Simpler interface, no setup required"
+      "reason": "Extensive plugin ecosystem and themes"
     },
     {
       "name": "Substack",
       "url": "substack.com",
       "reason": "Focus on newsletters with monetization"
+    },
+    {
+      "name": "Medium",
+      "url": "medium.com",
+      "reason": "Simple to use with built-in audience"
     }
   ],
   "tags": [
     "content management",
-    "blogging",
-    "newsletter",
-    "open source"
+    "open source",
+    "publishing",
+    "blogging"
   ],
   "apiUsed": true,
   "department": "Content",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://ghost.org/docs/",
   "githubUrl": "https://github.com/TryGhost/Ghost",
   "twitterUrl": null,
-  "screenshot": "/screenshots/ghost_org.png",
-  "screenshot_640": "/screenshots/ghost_org_640.png",
-  "screenshot_400": "/screenshots/ghost_org_400.png",
-  "updatedAt": "2025-05-24T01:05:21.995Z"
+  "screenshot": "https://share.appsfor.us/screenshots/ghost_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ghost_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ghost_org_400.png",
+  "updatedAt": "2025-05-28T01:12:09.104Z"
 }

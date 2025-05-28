@@ -2,22 +2,22 @@
   "sourceUrl": "https://getwren.ai/",
   "name": "Wren AI",
   "title": "getwren.ai",
-  "payoff": "Smarter Decisions with AI",
-  "shortDescription": "Wren AI leverages advanced AI to provide instant insights and smarter decision-making capabilities for enterprise data. It empowers teams across various departments to interact with data through a conversational interface, generating real-time insights without the need for complex queries. An example use case involves a marketing team using Wren AI to quickly generate reports and insights from customer data, enhancing their campaigns.",
+  "payoff": "Smarter Decisions with GenBI",
+  "shortDescription": "Wren AI leverages AI to provide instant business intelligence and data insights for enterprises. It allows users to ask questions and receive answers directly from their databases, facilitating a conversational interface for data interaction. Example use case: A marketing team uses Wren AI to quickly generate SQL queries and visual charts to analyze campaign performance without needing deep technical skills.",
   "pros": [
-    "Real-time data interaction",
-    "Reduces dependency on data analysts",
-    "Enhances data accuracy and insights"
+    "Conversational data interaction",
+    "AI-driven data cleansing and enrichment",
+    "Supports continuous learning and adaptation"
   ],
   "cons": [
-    "Potential privacy concerns with data handling",
-    "Requires continuous learning and updates",
-    "May not integrate with all existing systems"
+    "Dependence on AI accuracy",
+    "Potential data privacy concerns",
+    "Requires integration with existing databases"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
     "Looker [looker.com]",
-    "Power BI [powerbi.microsoft.com]"
+    "Power BI [powerbi.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,11 +28,11 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Strong in data exploration"
+      "reason": "Offers robust BI tools"
     },
     {
       "name": "Power BI",
-      "url": "powerbi.microsoft.com",
+      "url": "powerbi.com",
       "reason": "Integrates well with MS products"
     }
   ],
@@ -52,8 +52,8 @@
   "documentationUrl": "https://getwren.ai/docs",
   "githubUrl": "https://github.com/Canner/wren-engine",
   "twitterUrl": "https://x.com/getwrenai",
-  "screenshot": "/screenshots/getwren_ai.png",
-  "screenshot_640": "/screenshots/getwren_ai_640.png",
-  "screenshot_400": "/screenshots/getwren_ai_400.png",
-  "updatedAt": "2025-05-23T23:39:08.728Z"
+  "screenshot": "https://share.appsfor.us/screenshots/getwren_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getwren_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getwren_ai_400.png",
+  "updatedAt": "2025-05-28T01:09:26.542Z"
 }

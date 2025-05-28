@@ -3,47 +3,47 @@
   "name": "JigsawStack",
   "title": "jigsawstack.com",
   "payoff": "AI models for your tech stack",
-  "shortDescription": "JigsawStack provides custom small AI models tailored for specific tech stack needs, powered by scalable infrastructure. It is designed for developers and tech companies looking to enhance their applications with AI capabilities. Example use case: A tech company integrates JigsawStack's vOCR for real-time voice to text conversion to improve accessibility in their app.",
+  "shortDescription": "JigsawStack offers custom small AI models tailored for specific tech stack needs, supported by scalable infrastructure. It's designed for developers and tech teams looking to integrate AI capabilities quickly and efficiently. Example use case: A tech team uses JigsawStack's vOCR model to enhance their document management system by adding optical character recognition features.",
   "pros": [
-    "Integrate in seconds on any platform",
-    "Community of AI Engineers",
-    "Custom small models for specialized use cases"
+    "Customizable AI models",
+    "Quick integration on any platform",
+    "Community support for AI engineers"
   ],
   "cons": [
-    "Limited information on pricing",
-    "Beta stage may imply instability",
-    "Limited user reviews available"
+    "Limited model variety in beta",
+    "No clear pricing structure yet",
+    "Limited information on security measures"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
     "Hugging Face [huggingface.co]",
-    "IBM Watson [ibm.com/watson]"
+    "DeepAI [deepai.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "OpenAI",
       "url": "openai.com",
-      "reason": "Broad range of AI tools and APIs"
+      "reason": "Broad range of advanced AI models"
     },
     {
       "name": "Hugging Face",
       "url": "huggingface.co",
-      "reason": "Community-driven AI model hub"
+      "reason": "Community-driven model hub"
     },
     {
-      "name": "IBM Watson",
-      "url": "ibm.com/watson",
-      "reason": "Enterprise-grade AI solutions"
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "APIs for diverse AI functions"
     }
   ],
   "tags": [
     "AI",
     "machine learning",
-    "tech stack",
-    "integration"
+    "tech integration",
+    "custom models"
   ],
   "apiUsed": true,
-  "department": "Information Technology",
+  "department": "Research & Development",
   "function": "AI & ML",
   "freeTier": true,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://jigsawstack.com/docs",
   "githubUrl": "https://github.com/JigsawStack",
   "twitterUrl": "https://x.com/jigsawstack",
-  "screenshot": "/screenshots/jigsawstack_com.png",
-  "screenshot_640": "/screenshots/jigsawstack_com_640.png",
-  "screenshot_400": "/screenshots/jigsawstack_com_400.png",
-  "updatedAt": "2025-05-23T23:39:29.291Z"
+  "screenshot": "https://share.appsfor.us/screenshots/jigsawstack_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jigsawstack_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jigsawstack_com_400.png",
+  "updatedAt": "2025-05-28T01:10:07.065Z"
 }
