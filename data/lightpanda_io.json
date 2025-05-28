@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lightpanda.io/",
+  "name": "Lightpanda",
+  "title": "lightpanda.io",
+  "payoff": "A browser built for AI and automation",
+  "shortDescription": "Lightpanda is a headless browser designed specifically for AI and automation workflows. It offers significant performance improvements, being 10x faster and using 10x less RAM than traditional browsers. Ideal for developers and businesses, Lightpanda facilitates scaling web scraping and automation infrastructure. It supports integration with tools like Puppeteer and Playwright, making it versatile for various use cases in data extraction and AI-driven tasks.",
+  "pros": [
+    "10x faster and uses less RAM",
+    "Supports Puppeteer and Playwright",
+    "Designed specifically for headless operation"
+  ],
+  "cons": [
+    "New and less tested in market",
+    "Limited community support compared to Chrome",
+    "Potentially higher learning curve for new users"
+  ],
+  "alternatives": [
+    "Puppeteer [pptr.dev]",
+    "Playwright [playwright.dev]",
+    "Selenium [selenium.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Puppeteer",
+      "url": "pptr.dev",
+      "reason": "Popular for Chrome automation"
+    },
+    {
+      "name": "Playwright",
+      "url": "playwright.dev",
+      "reason": "Supports multiple browsers"
+    },
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Widely used for web automation"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "headless browser",
+    "automation",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Web Scraping",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://lightpanda.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/lightpanda-io/browser",
+  "twitterUrl": "https://x.com/lightpanda_io",
+  "screenshot": "https://share.appsfor.us/screenshots/lightpanda_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lightpanda_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lightpanda_io_400.png",
+  "updatedAt": "2025-05-28T08:48:15.652Z"
+}
