@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://secoda.co/",
+  "name": "Secoda",
+  "title": "secoda.co",
+  "payoff": "Unified Data Governance for AI",
+  "shortDescription": "Secoda offers a comprehensive platform for data governance, cataloging, observability, and lineage, designed to prepare data for AI applications. It serves data teams and leaders by ensuring data accuracy, accessibility, and security, which are crucial for making informed decisions and enhancing AI performance. An example use case is a company using Secoda to streamline their data management processes, ensuring compliance and data integrity while automating routine tasks.",
+  "pros": [
+    "AI-enabled features for automation and insights",
+    "Integrates with a wide range of data tools",
+    "Strong focus on security and compliance"
+  ],
+  "cons": [
+    "May be complex to set up for smaller teams",
+    "Potential high cost for enterprise-scale solutions",
+    "Limited customization options for specific needs"
+  ],
+  "alternatives": [
+    "Collibra [collibra.com]",
+    "Alation [alation.com]",
+    "Informatica [informatica.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Collibra",
+      "url": "collibra.com",
+      "reason": "Offers comprehensive data governance"
+    },
+    {
+      "name": "Alation",
+      "url": "alation.com",
+      "reason": "Focuses on data cataloging and search"
+    },
+    {
+      "name": "Informatica",
+      "url": "informatica.com",
+      "reason": "Strong in data integration and quality"
+    }
+  ],
+  "tags": [
+    "data governance",
+    "AI",
+    "data management",
+    "data security"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://secoda.co/",
+  "documentationUrl": "https://secoda.co/docs",
+  "githubUrl": "https://github.com/search?q=secoda&type=repositories",
+  "twitterUrl": "https://x.com/SecodaHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/secoda_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/secoda_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/secoda_co_400.png",
+  "updatedAt": "2025-05-29T03:46:39.613Z"
+}
