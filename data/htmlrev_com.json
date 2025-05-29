@@ -2,8 +2,8 @@
   "sourceUrl": "https://htmlrev.com/",
   "name": "HTMLrev",
   "title": "htmlrev.com",
-  "payoff": "Free HTML templates for all",
-  "shortDescription": "HTMLrev offers a vast collection of over 1500 free HTML website templates suitable for various needs such as blogs, ecommerce sites, and admin dashboards. It caters primarily to developers and small businesses looking to launch websites quickly without the overhead of designing from scratch. Example use case includes a startup using a template to quickly deploy a marketing site.",
+  "payoff": "Free HTML website templates",
+  "shortDescription": "HTMLrev offers a vast collection of over 1500 free HTML website templates suitable for various purposes such as blogs, ecommerce sites, and admin dashboards. It caters primarily to developers and small businesses looking to launch websites quickly without the overhead of designing from scratch. Example use case includes a startup using a template to rapidly deploy a landing page.",
   "pros": [
     "Wide variety of templates",
     "Free to use",
@@ -28,32 +28,32 @@
     {
       "name": "Squarespace",
       "url": "squarespace.com",
-      "reason": "Provides integrated marketing tools"
+      "reason": "Professional templates and e-commerce"
     },
     {
       "name": "Weebly",
       "url": "weebly.com",
-      "reason": "Simple interface with e-commerce focus"
+      "reason": "Simple interface and powerful integrations"
     }
   ],
   "tags": [
-    "website templates",
+    "web templates",
     "HTML",
     "free resources",
-    "web design"
+    "website design"
   ],
   "apiUsed": false,
   "department": "Development",
   "function": "Site Builder",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2018,
+  "releasedYear": 2015,
   "websiteUrl": "https://htmlrev.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/tailwindtoolbox/Landing-Page",
   "twitterUrl": "https://x.com/webdevluc",
-  "screenshot": "/screenshots/htmlrev_com.png",
-  "screenshot_640": "/screenshots/htmlrev_com_640.png",
-  "screenshot_400": "/screenshots/htmlrev_com_400.png",
-  "updatedAt": "2025-05-24T04:45:21.436Z"
+  "screenshot": "https://share.appsfor.us/screenshots/htmlrev_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/htmlrev_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/htmlrev_com_400.png",
+  "updatedAt": "2025-05-29T01:16:00.362Z"
 }

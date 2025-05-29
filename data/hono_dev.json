@@ -3,21 +3,21 @@
   "name": "Hono",
   "title": "hono.dev",
   "payoff": "Ultrafast & Lightweight Web Framework",
-  "shortDescription": "Hono is a web framework designed for developers seeking a fast, lightweight solution that leverages Web Standards. It supports multiple JavaScript runtimes, making it versatile across platforms like Cloudflare, AWS, and Node.js. Ideal for projects requiring high performance with minimal overhead, Hono offers built-in middleware options and first-class TypeScript support, simplifying development across different environments.",
+  "shortDescription": "Hono is a web framework designed for developers seeking a fast, lightweight solution built on Web Standards. It supports multiple JavaScript runtimes, making it versatile for various platforms like Cloudflare, AWS, and Node.js. Ideal for projects requiring high performance with minimal overhead, Hono offers built-in middleware and first-class TypeScript support, enhancing developer experience by simplifying code management and scalability.",
   "pros": [
     "Supports multiple JavaScript runtimes",
-    "Built-in and third-party middleware support",
+    "Built-in and third-party middleware options",
     "First-class TypeScript support"
   ],
   "cons": [
     "Limited community compared to larger frameworks",
-    "May require familiarity with multiple runtimes",
-    "Less comprehensive than full-featured frameworks"
+    "May require familiarity with TypeScript",
+    "Lesser-known, which might affect third-party integrations"
   ],
   "alternatives": [
     "Express.js [expressjs.com]",
-    "Next.js [nextjs.org]",
-    "NestJS [nestjs.com]"
+    "Koa [koajs.com]",
+    "Fastify [fastify.io]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,14 +26,14 @@
       "reason": "Popular Node.js framework, more plugins"
     },
     {
-      "name": "Next.js",
-      "url": "nextjs.org",
-      "reason": "SSR support, larger community"
+      "name": "Koa",
+      "url": "koajs.com",
+      "reason": "Modern, lighter than Express, async/await"
     },
     {
-      "name": "NestJS",
-      "url": "nestjs.com",
-      "reason": "Comprehensive, uses TypeScript"
+      "name": "Fastify",
+      "url": "fastify.io",
+      "reason": "Highly performant, schema-based"
     }
   ],
   "tags": [
@@ -42,18 +42,18 @@
     "middleware",
     "multi-runtime"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Development",
   "function": "Backend Services",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2022,
   "websiteUrl": "https://hono.dev/",
   "documentationUrl": "https://hono.dev/docs",
   "githubUrl": "https://github.com/orgs/honojs/discussions",
   "twitterUrl": "https://x.com/honojs",
-  "screenshot": "/screenshots/hono_dev.png",
-  "screenshot_640": "/screenshots/hono_dev_640.png",
-  "screenshot_400": "/screenshots/hono_dev_400.png",
-  "updatedAt": "2025-05-24T04:43:46.456Z"
+  "screenshot": "https://share.appsfor.us/screenshots/hono_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hono_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hono_dev_400.png",
+  "updatedAt": "2025-05-29T01:14:00.715Z"
 }

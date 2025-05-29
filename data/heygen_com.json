@@ -2,58 +2,58 @@
   "sourceUrl": "https://heygen.com/",
   "name": "HeyGen",
   "title": "heygen.com",
-  "payoff": "Turn text to video in minutes",
-  "shortDescription": "HeyGen is an AI-powered video generator that allows users to create unlimited videos without a camera. It's designed for content creators, marketers, and businesses looking to enhance their digital presence. Users can clone themselves, use stock avatars, or generate new ones with AI. An example use case is a marketer creating multilingual product videos quickly to reach a global audience.",
+  "payoff": "AI Video Generation Made Easy",
+  "shortDescription": "HeyGen is an AI-powered video generator that enables users to create unlimited videos without the need for a camera. It's designed for marketers, content creators, and businesses looking to enhance their digital presence. Users can clone themselves, choose a stock avatar, or generate a new one with AI, making it ideal for personalized video marketing. Example use case: a marketing team at a retail company uses HeyGen to create engaging product videos in multiple languages to reach a global audience.",
   "pros": [
     "Unlimited AI video creation",
-    "No camera needed",
-    "Supports multiple languages"
+    "No camera needed for video production",
+    "Supports multiple languages with voice cloning"
   ],
   "cons": [
-    "May lack personal touch of human-created videos",
-    "Potential privacy concerns with avatar cloning",
-    "Dependent on text quality for output"
+    "May lack advanced video editing features",
+    "Dependent on AI quality which may vary",
+    "Potential privacy concerns with avatar cloning"
   ],
   "alternatives": [
     "Synthesia [synthesia.io]",
-    "Descript [descript.com]",
-    "Lumen5 [lumen5.com]"
+    "Lumen5 [lumen5.com]",
+    "Descript [descript.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Synthesia",
       "url": "synthesia.io",
-      "reason": "Offers customizable AI video avatars"
-    },
-    {
-      "name": "Descript",
-      "url": "descript.com",
-      "reason": "Combines video editing with AI tools"
+      "reason": "Offers customizable AI avatars"
     },
     {
       "name": "Lumen5",
       "url": "lumen5.com",
       "reason": "Focuses on automated video creation"
+    },
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Provides video editing and AI tools"
     }
   ],
   "tags": [
     "AI",
     "video generation",
     "content creation",
-    "multilingual"
+    "marketing"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Marketing",
   "function": "AI & ML",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://heygen.com/",
-  "documentationUrl": "https://help.heygen.com/en/?sid=no_sid",
+  "documentationUrl": "https://heygen.com/docs",
   "githubUrl": "https://github.com/search?q=heygen&type=repositories",
   "twitterUrl": "https://x.com/heygen_official?mx=2",
-  "screenshot": "/screenshots/heygen_com.png",
-  "screenshot_640": "/screenshots/heygen_com_640.png",
-  "screenshot_400": "/screenshots/heygen_com_400.png",
-  "updatedAt": "2025-05-24T04:19:07.497Z"
+  "screenshot": "https://share.appsfor.us/screenshots/heygen_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/heygen_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/heygen_com_400.png",
+  "updatedAt": "2025-05-29T01:13:27.936Z"
 }

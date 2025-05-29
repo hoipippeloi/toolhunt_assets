@@ -3,16 +3,16 @@
   "name": "HeyForm",
   "title": "heyform.net",
   "payoff": "Build forms for small business success",
-  "shortDescription": "HeyForm is an open-source form builder designed to enhance small business operations by allowing users to create customized, branded forms. It supports various integrations and works across all devices, ensuring accessibility and efficiency. An example use case is a small business using HeyForm to create a customer feedback survey to gather insights and improve services.",
+  "shortDescription": "HeyForm is an open-source form builder designed to enhance small business operations by allowing customization of forms to reflect brand identity. Users can create smart, responsive forms that work on any device, optimizing data capture and user interaction. An example use case is a small business using HeyForm to create a customer feedback survey to gather insights and improve services.",
   "pros": [
-    "Customizable form designs",
-    "Supports multiple integrations",
-    "Responsive on all devices"
+    "Highly customizable form options",
+    "Responsive forms for all devices",
+    "Integration with multiple platforms"
   ],
   "cons": [
     "Limited advanced analytics features",
-    "May require technical knowledge for customization",
-    "Open-source support may vary"
+    "May require technical knowledge for deep customization",
+    "Potentially less support compared to commercial tools"
   ],
   "alternatives": [
     "Typeform [typeform.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Typeform",
       "url": "typeform.com",
-      "reason": "Offers more design flexibility"
+      "reason": "Offers engaging, design-focused forms"
     },
     {
       "name": "Google Forms",
       "url": "google.com/forms",
-      "reason": "Free and widely used"
+      "reason": "Free and easy to use for basic forms"
     },
     {
       "name": "JotForm",
       "url": "jotform.com",
-      "reason": "Rich in features and integrations"
+      "reason": "Provides advanced form features and apps"
     }
   ],
   "tags": [
     "form builder",
     "open source",
-    "small business",
-    "customizable"
+    "data capture",
+    "customization"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Marketing",
   "function": "Forms",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://heyform.net/",
-  "documentationUrl": "https://heyform.net/docs",
+  "documentationUrl": "https://docs.heyform.net/integrations/lark-suite",
   "githubUrl": "https://github.com/heyform/heyform",
   "twitterUrl": "https://x.com/valtlfelipe/status/1846216318338343321",
-  "screenshot": "/screenshots/heyform_net.png",
-  "screenshot_640": "/screenshots/heyform_net_640.png",
-  "screenshot_400": "/screenshots/heyform_net_400.png",
-  "updatedAt": "2025-05-24T04:18:04.793Z"
+  "screenshot": "https://share.appsfor.us/screenshots/heyform_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/heyform_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/heyform_net_400.png",
+  "updatedAt": "2025-05-29T01:12:40.516Z"
 }

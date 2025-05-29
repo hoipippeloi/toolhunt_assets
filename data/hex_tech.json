@@ -2,22 +2,22 @@
   "sourceUrl": "https://hex.tech/",
   "name": "Hex",
   "title": "hex.tech",
-  "payoff": "Bring everyone together with data",
-  "shortDescription": "Hex is a collaborative, AI-powered workspace designed for data teams. It integrates various data workflows into a single platform, supporting SQL, Python, R, and more. Users can go from simple queries to complex analyses and build interactive data apps. Example use case: ClickUp utilized Hex to enhance a data science project into a comprehensive customer retention program.",
+  "payoff": "Go deeper than dashboards",
+  "shortDescription": "Hex is an AI-powered analytics workspace designed for data teams. It integrates tools for analysis, AI, and app development in a single platform, facilitating collaboration and decision-making. Users can perform deep-dive analysis, publish findings, and enable self-serve data exploration without coding. An example use case is a data team using Hex to streamline their workflow from data querying to sharing insights with stakeholders.",
   "pros": [
-    "Supports SQL, Python, R in one platform",
-    "AI-powered features for enhanced data analysis",
-    "Strong collaboration and interactive reporting tools"
+    "Integrated AI tools for enhanced analysis",
+    "Real-time collaboration and version control",
+    "Seamless integration with popular data warehouses"
   ],
   "cons": [
-    "May require technical knowledge to fully utilize",
-    "Potential complexity with integrations",
-    "Limited information on pricing transparency"
+    "May have a learning curve for non-technical users",
+    "Dependent on external data sources for functionality",
+    "Potential privacy concerns with cloud-based setup"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
     "Looker [looker.com]",
-    "Microsoft Power BI [powerbi.com]"
+    "Microsoft Power BI [powerbi.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,32 +28,32 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Offers robust BI and big data analytics"
+      "reason": "Strong in business intelligence"
     },
     {
-      "name": "Databricks",
-      "url": "databricks.com",
-      "reason": "Integrates AI and machine learning"
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products"
     }
   ],
   "tags": [
-    "data analysis",
+    "analytics",
+    "data visualization",
     "collaboration",
-    "AI",
-    "reporting"
+    "AI"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
   "function": "Analytics",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2019,
+  "releasedYear": 2020,
   "websiteUrl": "https://hex.tech/",
   "documentationUrl": "https://docs.hex.tech",
   "githubUrl": "https://github.com/search?q=hex&type=repositories",
   "twitterUrl": "https://twitter.com/_hex_tech",
-  "screenshot": "/screenshots/hex_tech.png",
-  "screenshot_640": "/screenshots/hex_tech_640.png",
-  "screenshot_400": "/screenshots/hex_tech_400.png",
-  "updatedAt": "2025-05-24T04:17:43.926Z"
+  "screenshot": "https://share.appsfor.us/screenshots/hex_tech.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hex_tech_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hex_tech_400.png",
+  "updatedAt": "2025-05-29T01:11:57.730Z"
 }
