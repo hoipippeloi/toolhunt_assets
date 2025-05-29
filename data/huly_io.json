@@ -2,17 +2,17 @@
   "sourceUrl": "https://huly.io/",
   "name": "Huly",
   "title": "huly.io",
-  "payoff": "All-in-one team productivity app",
-  "shortDescription": "Huly is an open-source platform designed to enhance team productivity by integrating functionalities of tools like Linear, Jira, Slack, and Notion. It is tailored for developers and product teams, facilitating seamless collaboration through features like bidirectional GitHub sync, virtual office spaces, and a dynamic knowledge base. An example use case could be software teams using Huly to manage projects, track time, and communicate in real-time within a virtual office environment.",
+  "payoff": "Unmatched productivity for teams",
+  "shortDescription": "Huly is an open-source platform designed to enhance team collaboration by integrating functionalities of tools like Linear, Jira, Slack, and Notion into one seamless interface. It's tailored for developers and product teams, offering features like bidirectional GitHub sync, virtual office spaces, and a dynamic knowledge base. Ideal for managing projects, tasks, and communication within remote teams, Huly facilitates real-time interactions and structured productivity.",
   "pros": [
     "Integrates multiple tools into one platform",
-    "Supports real-time collaboration with high-quality conferencing",
+    "Supports real-time collaboration and communication",
     "Open-source with GitHub integration"
   ],
   "cons": [
-    "May be complex to set up due to extensive features",
-    "Potential overlap with existing tools causing redundancy",
-    "Open-source nature might lead to varied support quality"
+    "May have a steep learning curve",
+    "Dependent on community for updates and features",
+    "Potential for integration complexities"
   ],
   "alternatives": [
     "Notion [notion.so]",
@@ -28,12 +28,12 @@
     {
       "name": "Trello",
       "url": "trello.com",
-      "reason": "Simple, card-based project tracking"
+      "reason": "Visual project management with boards"
     },
     {
-      "name": "Microsoft Teams",
-      "url": "microsoft.com/microsoft-teams",
-      "reason": "Integrates chat, meetings, and collaboration"
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Flexible tool for workflow management"
     }
   ],
   "tags": [
@@ -42,18 +42,18 @@
     "open source",
     "productivity"
   ],
-  "apiUsed": true,
-  "department": "Product Management",
+  "apiUsed": false,
+  "department": "Project Management",
   "function": "Project Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2022,
+  "releasedYear": 2021,
   "websiteUrl": "https://huly.io/",
   "documentationUrl": "https://huly.io/docs",
   "githubUrl": "https://github.com/hcengineering/platform",
   "twitterUrl": "https://x.com/huly_io",
-  "screenshot": "/screenshots/huly_io.png",
-  "screenshot_640": "/screenshots/huly_io_640.png",
-  "screenshot_400": "/screenshots/huly_io_400.png",
-  "updatedAt": "2025-05-24T05:40:27.785Z"
+  "screenshot": "https://share.appsfor.us/screenshots/huly_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/huly_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/huly_io_400.png",
+  "updatedAt": "2025-05-29T03:02:15.892Z"
 }

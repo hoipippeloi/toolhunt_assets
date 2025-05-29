@@ -3,16 +3,16 @@
   "name": "Hyperbrowser",
   "title": "hyperbrowser.ai",
   "payoff": "Cloud Browsers for AI Agents",
-  "shortDescription": "Hyperbrowser enables AI agents to interact with the web through cloud-based browsers. It offers solutions for web scraping, automated testing, and data collection at scale. Users can manage browser sessions efficiently, ensuring security and reliability. Example use case: A company automates data extraction and analysis from multiple web sources to enhance market research.",
+  "shortDescription": "Hyperbrowser enables AI agents to interact with the web through cloud-based browsers. It's designed for developers and businesses needing to automate web interactions, such as data scraping, form filling, and testing. Example use case: A company automates data collection from various websites to gather market insights efficiently.",
   "pros": [
-    "Scalable cloud-based browser sessions",
-    "Integration with AI for advanced automation",
-    "Stealth mode to bypass bot detection"
+    "Supports massive concurrency with no performance loss",
+    "Offers stealth mode to bypass bot detection",
+    "Guarantees 99.9% uptime for reliability"
   ],
   "cons": [
-    "Potential high costs for high usage",
     "Complex setup for non-technical users",
-    "Dependence on cloud infrastructure"
+    "Potential high costs for high usage levels",
+    "Limited customization options for specific needs"
   ],
   "alternatives": [
     "BrowserStack [browserstack.com]",
@@ -23,37 +23,37 @@
     {
       "name": "BrowserStack",
       "url": "browserstack.com",
-      "reason": "Offers live web testing on browsers"
+      "reason": "Offers live web testing on different devices"
     },
     {
       "name": "Selenium",
       "url": "selenium.dev",
-      "reason": "Open source tool for web automation"
+      "reason": "Open-source tool for web automation"
     },
     {
       "name": "Scrapy",
       "url": "scrapy.org",
-      "reason": "Focused on web crawling and scraping"
+      "reason": "Focused on web scraping and data extraction"
     }
   ],
   "tags": [
     "web scraping",
     "cloud browsers",
-    "AI integration",
-    "automation"
+    "automation",
+    "AI integration"
   ],
   "apiUsed": true,
   "department": "Information Technology",
   "function": "Web Scraping",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://hyperbrowser.ai/",
   "documentationUrl": "https://hyperbrowser.ai/docs",
   "githubUrl": "https://github.com/hyperbrowserai",
   "twitterUrl": "https://x.com/hyperbrowser",
-  "screenshot": "/screenshots/hyperbrowser_ai.png",
-  "screenshot_640": "/screenshots/hyperbrowser_ai_640.png",
-  "screenshot_400": "/screenshots/hyperbrowser_ai_400.png",
-  "updatedAt": "2025-05-24T05:41:39.202Z"
+  "screenshot": "https://share.appsfor.us/screenshots/hyperbrowser_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hyperbrowser_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hyperbrowser_ai_400.png",
+  "updatedAt": "2025-05-29T03:04:00.576Z"
 }

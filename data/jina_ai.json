@@ -2,16 +2,16 @@
   "sourceUrl": "https://jina.ai/",
   "name": "Jina AI",
   "title": "jina.ai",
-  "payoff": "Supercharge Your Search Foundation",
-  "shortDescription": "Jina AI enhances search capabilities using advanced AI technologies. It is designed for developers and enterprises looking to integrate powerful search functionalities into their applications. An example use case includes implementing Jina AI to improve the search experience in e-commerce platforms, allowing for quicker, more accurate product searches.",
+  "payoff": "Your Search Foundation, Supercharged",
+  "shortDescription": "Jina AI is a powerful search engine framework designed to supercharge your search capabilities with AI. It is ideal for developers and enterprises looking to enhance their search systems. An example use case is integrating Jina AI into an e-commerce platform to improve product search results through natural language processing and machine learning.",
   "pros": [
-    "Advanced AI-driven search",
+    "Enhances search with AI capabilities",
     "Scalable for enterprise use",
-    "Flexible integration options"
+    "Supports complex search queries"
   ],
   "cons": [
     "Requires technical expertise to implement",
-    "Potentially high cost for large scale deployment",
+    "Potentially high resource consumption",
     "Limited support for non-technical users"
   ],
   "alternatives": [
@@ -28,7 +28,7 @@
     {
       "name": "Algolia",
       "url": "algolia.com",
-      "reason": "Provides hosted search APIs"
+      "reason": "Provides a hosted search API"
     },
     {
       "name": "Apache Solr",
@@ -40,10 +40,10 @@
     "AI",
     "search engine",
     "machine learning",
-    "data processing"
+    "natural language processing"
   ],
   "apiUsed": true,
-  "department": "Information Technology",
+  "department": "Research & Development",
   "function": "Search",
   "freeTier": true,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.jina.ai",
   "githubUrl": "https://github.com/jina-ai/reader/issues",
   "twitterUrl": "https://x.com/jinaAI_",
-  "screenshot": "/screenshots/jina_ai.png",
-  "screenshot_640": "/screenshots/jina_ai_640.png",
-  "screenshot_400": "/screenshots/jina_ai_400.png",
-  "updatedAt": "2025-05-24T05:16:09.904Z"
+  "screenshot": "https://share.appsfor.us/screenshots/jina_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jina_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jina_ai_400.png",
+  "updatedAt": "2025-05-29T03:00:57.724Z"
 }

@@ -2,12 +2,12 @@
   "sourceUrl": "https://hubspot.com/",
   "name": "HubSpot",
   "title": "hubspot.com",
-  "payoff": "All-in-one business platform",
-  "shortDescription": "HubSpot offers a comprehensive suite of software solutions for marketing, sales, and customer service, all integrated on a single AI-powered platform. Designed for businesses of all sizes, it helps streamline operations, enhance customer engagement, and improve overall efficiency. An example use case is a small business using HubSpot's CRM to track customer interactions and automate marketing emails.",
+  "payoff": "All-in-one business software",
+  "shortDescription": "HubSpot offers a comprehensive suite of marketing, sales, and customer service software integrated into a single AI-powered platform. Designed for businesses of all sizes, it helps streamline operations, enhance customer engagement, and improve ROI. Example use case: A startup uses HubSpot's CRM and marketing automation to manage leads and convert them into paying customers.",
   "pros": [
-    "Comprehensive all-in-one platform",
-    "AI-powered automation features",
-    "Extensive integration options"
+    "Integrated platform for marketing, sales, and service",
+    "AI-powered tools for enhanced efficiency",
+    "Extensive customization and integration options"
   ],
   "cons": [
     "Can be expensive for small businesses",
@@ -23,17 +23,17 @@
     {
       "name": "Salesforce",
       "url": "salesforce.com",
-      "reason": "Leading CRM with extensive features"
+      "reason": "Comprehensive CRM with extensive features"
     },
     {
-      "name": "Pipedrive",
-      "url": "pipedrive.com",
-      "reason": "Sales-focused CRM for active deal pursuit"
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with broad functionality"
     },
     {
       "name": "Freshsales",
-      "url": "freshworks.com/freshsales-crm",
-      "reason": "User-friendly CRM with AI capabilities"
+      "url": "freshworks.com/freshsales",
+      "reason": "User-friendly with AI capabilities"
     }
   ],
   "tags": [
@@ -43,7 +43,7 @@
     "sales management"
   ],
   "apiUsed": true,
-  "department": "Marketing",
+  "department": "Sales",
   "function": "Customer Relations",
   "freeTier": true,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://developers.hubspot.com/docs/api/overview",
   "githubUrl": "https://github.com/search?q=hubspot&type=repositories",
   "twitterUrl": "https://x.com/HubSpot?hubs_content=www.hubspot.com/&hubs_content-cta=hstc_twitter",
-  "screenshot": "/screenshots/hubspot_com.png",
-  "screenshot_640": "/screenshots/hubspot_com_640.png",
-  "screenshot_400": "/screenshots/hubspot_com_400.png",
-  "updatedAt": "2025-05-24T05:15:12.084Z"
+  "screenshot": "https://share.appsfor.us/screenshots/hubspot_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hubspot_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hubspot_com_400.png",
+  "updatedAt": "2025-05-29T02:59:30.686Z"
 }

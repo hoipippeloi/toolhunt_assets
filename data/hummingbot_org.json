@@ -2,22 +2,22 @@
   "sourceUrl": "https://hummingbot.org/",
   "name": "Hummingbot",
   "title": "hummingbot.org",
-  "payoff": "Framework for crypto liquidity miners",
-  "shortDescription": "Hummingbot is an open-source framework designed for crypto market makers and liquidity miners. It allows users to craft sophisticated trading strategies, integrate seamlessly with exchanges, and backtest and deploy bots with ease. Ideal for institutional clients and individual traders, Hummingbot supports a global community of algo traders.",
+  "payoff": "Framework for crypto market makers",
+  "shortDescription": "Hummingbot is an open-source platform designed for crypto trading strategies such as market making, arbitrage, and more. It supports integration with multiple exchanges and allows users to backtest and deploy strategies efficiently. Ideal for both individual and institutional traders, Hummingbot enables users to craft bespoke strategies and manage trading operations seamlessly.",
   "pros": [
-    "Open-source and community-owned",
-    "Supports multiple exchange integrations",
-    "Offers powerful strategy building tools"
+    "Support for multiple exchanges",
+    "Open-source and community-driven",
+    "Extensive documentation and community support"
   ],
   "cons": [
-    "Requires technical knowledge to use effectively",
+    "Requires technical expertise to set up",
     "Limited to crypto trading strategies",
-    "Community support may vary"
+    "Potential security risks if not properly managed"
   ],
   "alternatives": [
     "3Commas [3commas.io]",
     "Cryptohopper [cryptohopper.com]",
-    "Coinrule [coinrule.io]"
+    "HaasOnline [haasonline.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,29 +31,29 @@
       "reason": "Cloud-based crypto trading platform"
     },
     {
-      "name": "Coinrule",
-      "url": "coinrule.io",
-      "reason": "User-friendly automated trading"
+      "name": "HaasOnline",
+      "url": "haasonline.com",
+      "reason": "Advanced crypto trading bots"
     }
   ],
   "tags": [
     "crypto trading",
     "open source",
-    "market making",
-    "strategy automation"
+    "algorithmic trading",
+    "market making"
   ],
   "apiUsed": true,
   "department": "Finance & Accounting",
-  "function": "Automation",
+  "function": "Trading",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2019,
+  "releasedYear": 2017,
   "websiteUrl": "https://hummingbot.org/",
-  "documentationUrl": "https://docs.hummingbot.org/",
+  "documentationUrl": "https://docs.hummingbot.io/",
   "githubUrl": "https://github.com/hummingbot/hummingbot",
   "twitterUrl": "https://twitter.com/_hummingbot",
-  "screenshot": "/screenshots/hummingbot_org.png",
-  "screenshot_640": "/screenshots/hummingbot_org_640.png",
-  "screenshot_400": "/screenshots/hummingbot_org_400.png",
-  "updatedAt": "2025-05-24T05:41:21.783Z"
+  "screenshot": "https://share.appsfor.us/screenshots/hummingbot_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hummingbot_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hummingbot_org_400.png",
+  "updatedAt": "2025-05-29T03:03:04.842Z"
 }
