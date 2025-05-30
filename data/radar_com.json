@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://radar.com/",
+  "name": "Radar",
+  "title": "radar.com",
+  "payoff": "Leading geolocation platform",
+  "shortDescription": "Radar is a comprehensive geolocation service that provides geofencing, maps, and routing solutions. It caters to various industries including retail, logistics, and restaurants, offering tools like in-store app experiences and seamless pickup. An example use case is a retail brand using Radar to enhance in-store customer engagement and streamline operations.",
+  "pros": [
+    "Cost-effective alternative to Google Maps",
+    "High scalability and API reliability",
+    "Compliance with GDPR and CCPA"
+  ],
+  "cons": [
+    "Limited to geolocation services",
+    "May require technical expertise to integrate",
+    "Potentially less feature-rich than some competitors"
+  ],
+  "alternatives": [
+    "Google Maps Platform [google.com/mapsplatform]",
+    "HERE Technologies [here.com]",
+    "Mapbox [mapbox.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Maps Platform",
+      "url": "google.com/mapsplatform",
+      "reason": "Broad feature set and global coverage"
+    },
+    {
+      "name": "HERE Technologies",
+      "url": "here.com",
+      "reason": "Strong in automotive and logistics"
+    },
+    {
+      "name": "Mapbox",
+      "url": "mapbox.com",
+      "reason": "Customizable maps and strong design"
+    }
+  ],
+  "tags": [
+    "geolocation",
+    "geofencing",
+    "maps API",
+    "SDK"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://radar.com/",
+  "documentationUrl": "https://radar.com/docs",
+  "githubUrl": "https://github.com/radarlabs",
+  "twitterUrl": "https://twitter.com/radarlabs",
+  "screenshot": "/screenshots/radar_com.png",
+  "screenshot_640": "/screenshots/radar_com_640.png",
+  "screenshot_400": "/screenshots/radar_com_400.png",
+  "updatedAt": "2025-05-30T13:49:54.655Z"
+}

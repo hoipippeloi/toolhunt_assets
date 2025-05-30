@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://talktodata.ai/",
+  "name": "Talk to Data",
+  "title": "talktodata.ai",
+  "payoff": "Instant Answers & Visualizations",
+  "shortDescription": "Talk to Data is an AI-powered data analysis tool designed to simplify data interaction and analysis for businesses. Users can connect to structured data sources like spreadsheets and SQL databases to perform tasks such as correlation analysis, segmentation, and forecasting. The platform is ideal for businesses looking to make data-driven decisions quickly and efficiently.",
+  "pros": [
+    "User-friendly interface",
+    "Supports multiple data sources",
+    "Advanced data analysis capabilities"
+  ],
+  "cons": [
+    "Limited to structured data",
+    "No mention of real-time data processing",
+    "Potential learning curve for advanced features"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Google Data Studio [datastudio.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Robust visualization and BI capabilities"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrated with Microsoft products"
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with Google services"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analysis",
+    "visualization",
+    "business intelligence"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://talktodata.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=talk%20to%20data&type=repositories",
+  "twitterUrl": "https://twitter.com/FosbergAddai",
+  "screenshot": "https://share.appsfor.us/screenshots/talktodata_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/talktodata_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/talktodata_ai_400.png",
+  "updatedAt": "2025-05-30T13:52:34.519Z"
+}

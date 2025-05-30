@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://designtech.so/doneit",
+  "name": "Doneit",
+  "title": "designtech.so/doneit",
+  "payoff": "Manage tasks and projects effortlessly",
+  "shortDescription": "Doneit is a versatile Kanban board tool designed to streamline task and project management for individuals and teams. It offers multiple views like list, grid, board, and timeline, making it adaptable to various project complexities. Ideal for project managers looking to enhance productivity, an example use case could be a software development team using Doneit to manage their sprint tasks.",
+  "pros": [
+    "Multiple task views for flexibility",
+    "Extensive set of task management features",
+    "Customizable task attributes for enhanced organization"
+  ],
+  "cons": [
+    "May be overly complex for simple projects",
+    "No clear offline functionality mentioned",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Trello [trello.com]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for its simple Kanban boards"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers more comprehensive project tools"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Flexible with more integration options"
+    }
+  ],
+  "tags": [
+    "task management",
+    "project management",
+    "kanban",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://designtech.so/doneit",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=doneit&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/designtech_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/designtech_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/designtech_so_400.png",
+  "updatedAt": "2025-05-30T13:54:51.658Z"
+}

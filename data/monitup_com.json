@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://monitup.com/",
+  "name": "MonitUp",
+  "title": "monitup.com",
+  "payoff": "Boost productivity with AI time tracking",
+  "shortDescription": "MonitUp is an AI-powered time tracking software designed for remote, hybrid, and in-house teams. It offers detailed insights into team performance and time management, enhancing productivity across various locations. Ideal for businesses of any size and industry, MonitUp helps track employee activity, analyze productivity, and optimize workflows. An example use case is a distributed team using MonitUp to stay on top of projects and support real-time decision-making.",
+  "pros": [
+    "Detailed productivity analytics",
+    "Supports remote and hybrid teams",
+    "Easy to use with real-time insights"
+  ],
+  "cons": [
+    "May raise privacy concerns",
+    "Dependent on employee compliance",
+    "Potential for over-monitoring"
+  ],
+  "alternatives": [
+    "Toggl Track [toggl.com]",
+    "Time Doctor [timedoctor.com]",
+    "RescueTime [rescuetime.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Offers flexible time tracking with a focus on ease of use"
+    },
+    {
+      "name": "Time Doctor",
+      "url": "timedoctor.com",
+      "reason": "Includes robust employee monitoring and time tracking features"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Focuses on automatic time tracking and distraction management"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "productivity",
+    "employee monitoring",
+    "remote work"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://monitup.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=monitup&type=repositories",
+  "twitterUrl": "https://twitter.com/MonitUp",
+  "screenshot": "https://share.appsfor.us/screenshots/monitup_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/monitup_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/monitup_com_400.png",
+  "updatedAt": "2025-05-30T13:53:19.359Z"
+}

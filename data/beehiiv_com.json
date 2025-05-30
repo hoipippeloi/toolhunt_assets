@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beehiiv.com/",
+  "name": "beehiiv",
+  "title": "beehiiv.com",
+  "payoff": "Grow Your Newsletter Effectively",
+  "shortDescription": "beehiiv is a comprehensive platform designed for digital content publishers looking to expand their reach through newsletters and custom websites. It offers tools for creating, managing, and monetizing content without the need for coding. Users can benefit from features like campaign analytics, email automations, and a built-in ad network. An example use case is a content creator aiming to monetize their subscriber base while providing personalized content.",
+  "pros": [
+    "No coding required for setup",
+    "Integrated monetization tools",
+    "Comprehensive analytics and segmentation"
+  ],
+  "cons": [
+    "Potentially overwhelming for beginners",
+    "Limited customization options",
+    "Higher cost for advanced features"
+  ],
+  "alternatives": [
+    "Substack [substack.com]",
+    "Mailchimp [mailchimp.com]",
+    "Revue [getrevue.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Substack",
+      "url": "substack.com",
+      "reason": "Focuses on simplicity and writer monetization"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers extensive email marketing tools"
+    },
+    {
+      "name": "Revue",
+      "url": "getrevue.co",
+      "reason": "Integrates deeply with Twitter for distribution"
+    }
+  ],
+  "tags": [
+    "newsletter",
+    "content management",
+    "email marketing",
+    "monetization"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://beehiiv.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=beehiiv&type=repositories",
+  "twitterUrl": "https://brex.com/?utm_source=beehiiv&utm_medium=referral",
+  "screenshot": "https://share.appsfor.us/screenshots/beehiiv_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/beehiiv_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/beehiiv_com_400.png",
+  "updatedAt": "2025-05-30T13:51:43.725Z"
+}

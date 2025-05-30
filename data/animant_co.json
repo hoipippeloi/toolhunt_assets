@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://animant.co/",
+  "name": "Animant",
+  "title": "animant.co",
+  "payoff": "Interactive AR Scenes & 3D Scanning",
+  "shortDescription": "Animant transforms your world into augmented reality (AR) by enabling 3D scanning, room capture, and animations. Designed with AR at its core, it allows users to visualize interactive 3D experiences in real-world settings. Users can create detailed 3D scans of objects using their camera, import them into scenes, or export for use in other applications. It's ideal for designers, developers, and AR enthusiasts looking to enhance real-world interactions with virtual elements.",
+  "pros": [
+    "High-quality 3D scanning and room capture",
+    "Supports offline and online creation",
+    "Strong privacy with no personal data collection"
+  ],
+  "cons": [
+    "Limited to Apple devices",
+    "No clear API for developers",
+    "No free tier mentioned"
+  ],
+  "alternatives": [
+    "Vuforia [vuforia.com]",
+    "ARKit [developer.apple.com/arkit/]",
+    "Unity MARS [unity.com/products/unity-mars]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Vuforia",
+      "url": "vuforia.com",
+      "reason": "Offers advanced AR capabilities"
+    },
+    {
+      "name": "ARKit",
+      "url": "developer.apple.com/arkit/",
+      "reason": "Apple's own AR development kit"
+    },
+    {
+      "name": "Unity MARS",
+      "url": "unity.com/products/unity-mars",
+      "reason": "Integrates AR with Unity's tools"
+    }
+  ],
+  "tags": [
+    "AR",
+    "3D scanning",
+    "interactive experiences",
+    "animation"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://animant.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=animant&type=repositories",
+  "twitterUrl": "https://twitter.com/AnimantApp",
+  "screenshot": "https://share.appsfor.us/screenshots/animant_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/animant_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/animant_co_400.png",
+  "updatedAt": "2025-05-30T13:54:05.956Z"
+}
