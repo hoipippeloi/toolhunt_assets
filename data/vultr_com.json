@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vultr.com/",
+  "name": "Vultr",
+  "title": "vultr.com",
+  "payoff": "Deploy globally, scale effortlessly",
+  "shortDescription": "Vultr offers cloud compute solutions with a focus on simplicity and scalability. Users can deploy virtual machines, manage Kubernetes, and utilize AI-ready GPU servers. The platform is designed for developers and businesses seeking efficient cloud services. Example use case includes deploying applications globally with low latency and high performance.",
+  "pros": [
+    "Wide range of cloud services",
+    "Competitive pricing models",
+    "Global data center presence"
+  ],
+  "cons": [
+    "Limited managed services",
+    "Complex pricing for new users",
+    "Support response can be slow"
+  ],
+  "alternatives": [
+    "DigitalOcean [digitalocean.com]",
+    "Linode [linode.com]",
+    "AWS [aws.amazon.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS",
+      "url": "aws.amazon.com",
+      "reason": "Extensive services and global infrastructure"
+    },
+    {
+      "name": "Google Cloud",
+      "url": "cloud.google.com",
+      "reason": "Data analytics and machine learning focus"
+    },
+    {
+      "name": "Azure",
+      "url": "azure.microsoft.com",
+      "reason": "Integrated with Microsoft products"
+    }
+  ],
+  "tags": [
+    "cloud computing",
+    "VPS hosting",
+    "data centers",
+    "GPU servers"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Cloud Platform",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://vultr.com/",
+  "documentationUrl": "https://www.vultr.com/docs/",
+  "githubUrl": "https://github.com/vultr/",
+  "twitterUrl": "https://x.com/vultr",
+  "screenshot": "https://share.appsfor.us/screenshots/vultr_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vultr_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vultr_com_400.png",
+  "updatedAt": "2025-05-30T03:42:40.439Z"
+}

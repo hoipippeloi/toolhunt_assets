@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://obsidian.md/",
+  "name": "Obsidian",
+  "title": "obsidian.md",
+  "payoff": "Sharpen your thinking",
+  "shortDescription": "Obsidian is a versatile app designed for note-taking and knowledge management. It's ideal for individuals looking to organize their thoughts, manage projects, or build a personal knowledge base. Users can securely sync their notes across devices, publish content online, and access a variety of plugins to enhance functionality. An example use case is a researcher using Obsidian to manage notes and references for multiple projects.",
+  "pros": [
+    "Flexible and customizable",
+    "Secure end-to-end encryption",
+    "Supports publishing and sharing"
+  ],
+  "cons": [
+    "May require a learning curve",
+    "No integrated social features",
+    "Limited native collaboration tools"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Evernote [evernote.com]",
+    "Roam Research [roamresearch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Offers integrated task management"
+    },
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Strong on capturing notes from web"
+    },
+    {
+      "name": "Roam Research",
+      "url": "roamresearch.com",
+      "reason": "Focuses on networked thought"
+    }
+  ],
+  "tags": [
+    "note-taking",
+    "knowledge management",
+    "productivity",
+    "personal organization"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://obsidian.md/",
+  "documentationUrl": "https://help.obsidian.md/",
+  "githubUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.dmg",
+  "twitterUrl": "https://x.com/obsdmd",
+  "screenshot": "https://share.appsfor.us/screenshots/obsidian_md.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/obsidian_md_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/obsidian_md_400.png",
+  "updatedAt": "2025-05-30T03:41:52.757Z"
+}
