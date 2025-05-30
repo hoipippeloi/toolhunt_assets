@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://deskera.com/",
+  "name": "Deskera",
+  "title": "deskera.com",
+  "payoff": "All-in-one business software",
+  "shortDescription": "Deskera offers a comprehensive suite of business management tools designed to streamline operations across multiple departments. It integrates solutions for accounting, inventory management, CRM, HRMS, and manufacturing. Ideal for small to medium-sized businesses, Deskera helps to automate and optimize daily tasks, improving efficiency and scalability. For example, a manufacturing firm can use Deskera to manage their entire production process from procurement to sales.",
+  "pros": [
+    "Integrated business modules",
+    "Mobile app support",
+    "Comprehensive ERP features"
+  ],
+  "cons": [
+    "May be complex for small businesses",
+    "Potentially high learning curve",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "NetSuite [netsuite.com]",
+    "SAP Business One [sap.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NetSuite",
+      "url": "netsuite.com",
+      "reason": "Comprehensive ERP with strong customization"
+    },
+    {
+      "name": "SAP Business One",
+      "url": "sap.com",
+      "reason": "Focus on larger enterprises and scalability"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "Integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "ERP",
+    "CRM",
+    "Inventory Management",
+    "HRMS"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Enterprise Planning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://deskera.com/",
+  "documentationUrl": "https://www.deskera.com/support/",
+  "githubUrl": "https://github.com/search?q=deskera&type=repositories",
+  "twitterUrl": "https://www.twitter.com/Deskera/",
+  "screenshot": "https://share.appsfor.us/screenshots/deskera_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/deskera_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/deskera_com_400.png",
+  "updatedAt": "2025-05-30T17:41:00.740Z"
+}
