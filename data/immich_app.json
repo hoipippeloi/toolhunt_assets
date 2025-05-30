@@ -3,16 +3,16 @@
   "name": "Immich",
   "title": "immich.app",
   "payoff": "Manage photos privately on your server",
-  "shortDescription": "Immich is a self-hosted solution for managing photos and videos. It allows users to back up, organize, and manage their media on their own servers, ensuring full control over their data. Users can easily browse, search, and organize their media collections with a user-friendly mobile app. This tool is particularly useful for individuals concerned about privacy and companies needing to manage media assets securely.",
+  "shortDescription": "Immich is a self-hosted solution designed for photo and video management. It allows users to easily back up, organize, and manage their media on their own servers. This tool is ideal for individuals concerned about privacy and organizations needing control over their media storage. Users can browse, search, and organize their photos and videos effortlessly, ensuring their data remains private and secure.",
   "pros": [
-    "Full control over data privacy",
-    "Easy to use mobile app for access",
-    "Supports both photo and video management"
+    "Full control over data",
+    "Enhanced privacy and security",
+    "Ease of media organization"
   ],
   "cons": [
-    "Requires server setup and maintenance",
-    "Limited to self-hosting capabilities",
-    "No built-in public cloud support"
+    "Requires server setup",
+    "Limited support options",
+    "Potential complexity for non-technical users"
   ],
   "alternatives": [
     "Nextcloud Photos [nextcloud.com]",
@@ -23,7 +23,7 @@
     {
       "name": "Nextcloud Photos",
       "url": "nextcloud.com",
-      "reason": "Offers similar self-hosted photo management"
+      "reason": "Offers similar privacy-focused storage"
     },
     {
       "name": "PhotoPrism",
@@ -33,7 +33,7 @@
     {
       "name": "Piwigo",
       "url": "piwigo.org",
-      "reason": "Open source with cloud options"
+      "reason": "Established self-hosted photo gallery"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
   ],
   "apiUsed": false,
   "department": "Information Technology",
-  "function": "Data Storage",
+  "function": "Content Management",
   "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/immich-app/immich",
   "twitterUrl": null,
-  "screenshot": "/screenshots/immich_app.png",
-  "screenshot_640": "/screenshots/immich_app_640.png",
-  "screenshot_400": "/screenshots/immich_app_400.png",
-  "updatedAt": "2025-05-24T06:46:04.394Z"
+  "screenshot": "https://share.appsfor.us/screenshots/immich_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/immich_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/immich_app_400.png",
+  "updatedAt": "2025-05-30T01:10:40.739Z"
 }

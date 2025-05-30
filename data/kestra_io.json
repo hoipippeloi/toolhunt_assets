@@ -2,17 +2,17 @@
   "sourceUrl": "https://kestra.io/",
   "name": "Kestra",
   "title": "kestra.io",
-  "payoff": "Simplify powerful workflow orchestration",
-  "shortDescription": "Kestra is an open-source declarative orchestration platform designed to simplify complex workflows. It is ideal for developers across industries, enabling them to automate and schedule business logic in any language. With over 600 plugins and 250+ blueprints, Kestra integrates seamlessly with various stacks, enhancing ERP transformations and accelerating CI/CD processes. Example use case: Leroy Merlin France utilized Kestra to scale its data production by 900%.",
+  "payoff": "Simplified powerful workflow orchestration",
+  "shortDescription": "Kestra is an open-source platform designed to simplify complex workflow orchestration. It caters to developers across industries, offering over 600 plugins for easy integration with various tech stacks. Key features include declarative orchestration, event-based triggers, and no vendor lock-in. Example use cases include ERP transformation, CI/CD acceleration, and large-scale data mesh implementations.",
   "pros": [
-    "Declarative syntax simplifies workflow management",
-    "Extensive plugin and blueprint support",
-    "Scalable to enterprise needs with security features"
+    "Declarative syntax simplifies workflow maintenance",
+    "Extensive plugin support enhances integration",
+    "Scalable to enterprise needs with no vendor lock-in"
   ],
   "cons": [
-    "Requires familiarity with YAML and Terraform",
-    "Open-source model may need internal support",
-    "Limited information on direct customer support"
+    "Open-source model may require in-house expertise",
+    "Complex setups might be intimidating for beginners",
+    "Dependent on community for updates and support"
   ],
   "alternatives": [
     "Apache Airflow [airflow.apache.org]",
@@ -23,37 +23,37 @@
     {
       "name": "Apache Airflow",
       "url": "airflow.apache.org",
-      "reason": "Popular, robust workflow automation"
+      "reason": "Popular for complex workflows"
     },
     {
       "name": "Argo Workflows",
       "url": "argoproj.github.io/argo-workflows",
-      "reason": "Cloud-native workflow engine for Kubernetes"
+      "reason": "Kubernetes-native workflows"
     },
     {
       "name": "Prefect",
       "url": "prefect.io",
-      "reason": "Modern data workflow orchestration"
+      "reason": "Modern interface and hybrid execution"
     }
   ],
   "tags": [
     "orchestration",
     "workflow automation",
     "open source",
-    "developer tools"
+    "integration"
   ],
   "apiUsed": true,
-  "department": "Information Technology",
+  "department": "Data & Analytics",
   "function": "Automation",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://kestra.io/",
   "documentationUrl": "https://kestra.io/docs",
   "githubUrl": "https://github.com/kestra-io/kestra",
   "twitterUrl": "https://twitter.com/kestra_io",
-  "screenshot": "/screenshots/kestra_io.png",
-  "screenshot_640": "/screenshots/kestra_io_640.png",
-  "screenshot_400": "/screenshots/kestra_io_400.png",
-  "updatedAt": "2025-05-24T06:19:37.666Z"
+  "screenshot": "https://share.appsfor.us/screenshots/kestra_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kestra_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kestra_io_400.png",
+  "updatedAt": "2025-05-30T01:07:40.054Z"
 }

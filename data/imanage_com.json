@@ -3,16 +3,16 @@
   "name": "iManage",
   "title": "imanage.com",
   "payoff": "Making Knowledge Work",
-  "shortDescription": "iManage is a comprehensive knowledge work platform designed to enhance document and email management, security, and compliance across various industries. It integrates AI to streamline legal transactions, manage risks, and secure sensitive data. Ideal for law firms, financial services, and government agencies, iManage helps improve productivity and decision-making by providing secure access to critical information from any device.",
+  "shortDescription": "iManage is a comprehensive knowledge work platform designed to enhance document and email management, security, and compliance across various industries. It integrates AI to streamline processes and improve productivity. For instance, law firms use iManage to manage legal documents efficiently, ensuring secure and compliant operations.",
   "pros": [
-    "Integrates AI for enhanced functionality",
-    "Supports a wide range of industries",
-    "Comprehensive security and compliance features"
+    "Integrates AI for enhanced productivity",
+    "Robust security and compliance features",
+    "Supports a wide range of industries"
   ],
   "cons": [
-    "May be complex to implement",
-    "Potentially high cost for small firms",
-    "Requires training for optimal use"
+    "Potentially complex implementation",
+    "May require training for optimal use",
+    "Higher cost compared to basic solutions"
   ],
   "alternatives": [
     "NetDocuments [netdocuments.com]",
@@ -23,24 +23,24 @@
     {
       "name": "NetDocuments",
       "url": "netdocuments.com",
-      "reason": "Similar document management focus"
+      "reason": "Cloud-based document management"
     },
     {
       "name": "DocuWare",
       "url": "docuware.com",
-      "reason": "Offers robust document control"
+      "reason": "Focuses on automating workflows"
     },
     {
       "name": "M-Files",
       "url": "m-files.com",
-      "reason": "Strong in metadata-driven management"
+      "reason": "AI-driven document management"
     }
   ],
   "tags": [
     "document management",
-    "email management",
+    "compliance",
     "AI",
-    "compliance"
+    "security"
   ],
   "apiUsed": true,
   "department": "Legal & Compliance",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://imanage.com/support/documentation/",
   "githubUrl": "https://github.com/search?q=imanage&type=repositories",
   "twitterUrl": "https://twitter.com/imanageinc",
-  "screenshot": "/screenshots/imanage_com.png",
-  "screenshot_640": "/screenshots/imanage_com_640.png",
-  "screenshot_400": "/screenshots/imanage_com_400.png",
-  "updatedAt": "2025-05-24T06:45:47.256Z"
+  "screenshot": "https://share.appsfor.us/screenshots/imanage_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/imanage_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/imanage_com_400.png",
+  "updatedAt": "2025-05-30T01:09:59.443Z"
 }

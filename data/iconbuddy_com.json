@@ -2,58 +2,58 @@
   "sourceUrl": "https://iconbuddy.com/",
   "name": "Iconbuddy",
   "title": "iconbuddy.com",
-  "payoff": "250K+ free svg icons",
-  "shortDescription": "Iconbuddy offers a vast library of over 250,000 open-source SVG icons that users can search, edit, and download instantly. Designed for designers, developers, and content creators, it integrates seamlessly with tools like Figma and VS Code, enhancing productivity in creating visually appealing projects. Users can access icons for various applications, from web design to mobile app development.",
+  "payoff": "Search Engine for SVG Icons",
+  "shortDescription": "Iconbuddy offers a vast library of over 250,000 open source SVG icons, catering to designers and developers looking to enhance their projects. Users can search, edit, and customize icons to fit their needs. Ideal for creating visually appealing user interfaces, Iconbuddy supports integration with tools like Figma and offers plugins for various platforms. An example use case is a web developer integrating unique icons into a website design to improve user experience and interface aesthetics.",
   "pros": [
     "Extensive library of icons",
-    "Integrates with design tools",
-    "Instant download and editing"
+    "Customization and editing tools",
+    "Integration with popular design tools"
   ],
   "cons": [
-    "Limited to only SVG format",
-    "No advanced customization tools",
-    "Potential for overwhelming choice"
+    "Overwhelming number of choices",
+    "May require design skills to edit",
+    "Specific to SVG format only"
   ],
   "alternatives": [
     "FontAwesome [fontawesome.com]",
-    "Flaticon [flaticon.com]",
-    "Icons8 [icons8.com]"
+    "Material Icons [material.io/resources/icons]",
+    "Nucleo [nucleoapp.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "FontAwesome",
       "url": "fontawesome.com",
-      "reason": "Wide variety of icons and kits"
+      "reason": "Wide range of icons and kits"
     },
     {
-      "name": "Flaticon",
-      "url": "flaticon.com",
-      "reason": "Larger icon variety and styles"
+      "name": "Material Icons",
+      "url": "material.io/resources/icons",
+      "reason": "Google's official icon set"
     },
     {
-      "name": "Icons8",
-      "url": "icons8.com",
-      "reason": "Offers icons, photos, and illustrations"
+      "name": "Nucleo",
+      "url": "nucleoapp.com",
+      "reason": "Customizable icon library"
     }
   ],
   "tags": [
     "design tools",
     "SVG icons",
     "open source",
-    "integration"
+    "customization"
   ],
   "apiUsed": true,
   "department": "Design",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2025,
   "websiteUrl": "https://iconbuddy.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=iconbuddy&type=repositories",
-  "twitterUrl": "https://twitter.com/iconbuddyapp",
-  "screenshot": "/screenshots/iconbuddy_com.png",
-  "screenshot_640": "/screenshots/iconbuddy_com_640.png",
-  "screenshot_400": "/screenshots/iconbuddy_com_400.png",
-  "updatedAt": "2025-05-24T06:45:09.046Z"
+  "twitterUrl": "https://x.com/mddanishyusuf",
+  "screenshot": "https://share.appsfor.us/screenshots/iconbuddy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/iconbuddy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/iconbuddy_com_400.png",
+  "updatedAt": "2025-05-30T01:09:14.947Z"
 }

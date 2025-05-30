@@ -3,21 +3,21 @@
   "name": "IBM Maximo Application Suite",
   "title": "ibm.com",
   "payoff": "Maximize asset value efficiently",
-  "shortDescription": "IBM Maximo Application Suite is an integrated asset lifecycle management solution designed to enhance the maintenance, inspection, and reliability of critical equipment and infrastructure. Utilizing generative AI, advanced analytics, and IoT, it serves industries requiring robust asset management. Example use case: A manufacturing firm uses Maximo to predict equipment failures and streamline maintenance processes, significantly reducing downtime.",
+  "shortDescription": "IBM Maximo Application Suite is an integrated asset lifecycle management tool that enhances the maintenance, inspection, and reliability of critical equipment using AI and IoT. Designed for industries reliant on heavy equipment, it helps in reducing downtime and increasing productivity. An example use case is in manufacturing plants where predictive maintenance ensures optimal equipment performance.",
   "pros": [
     "Reduces unplanned downtime by 47%",
-    "Increases technician productivity by 26%",
-    "Improves inspection efficiency by 34%"
+    "Increases asset lifespan by 17%",
+    "Boosts technician productivity by 26%"
   ],
   "cons": [
-    "Potential high cost of implementation",
-    "Complexity in initial setup and training",
-    "May require significant IT infrastructure"
+    "Complex implementation for new users",
+    "High initial cost",
+    "Requires technical expertise to maximize use"
   ],
   "alternatives": [
     "SAP EAM [sap.com]",
     "Infor EAM [infor.com]",
-    "Oracle EAM [oracle.com]"
+    "Oracle Asset Management [oracle.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,29 +31,29 @@
       "reason": "Flexible, industry-specific features"
     },
     {
-      "name": "Oracle EAM",
+      "name": "Oracle Asset Management",
       "url": "oracle.com",
-      "reason": "Integrates deeply with Oracle products"
+      "reason": "Integrates with Oracle's enterprise solutions"
     }
   ],
   "tags": [
     "asset management",
-    "AI",
+    "predictive maintenance",
     "IoT",
-    "analytics"
+    "AI"
   ],
   "apiUsed": true,
   "department": "Operations",
   "function": "Enterprise Planning",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2000,
+  "releasedYear": 1990,
   "websiteUrl": "https://ibm.com/products/maximo",
-  "documentationUrl": "https://www.ibm.com/docs/en/maximo-appsuite",
+  "documentationUrl": "https://www.ibm.com/docs/en/maximo",
   "githubUrl": "https://github.com/search?q=ibm%20maximo%20application%20suite&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/ibm_com.png",
-  "screenshot_640": "/screenshots/ibm_com_640.png",
-  "screenshot_400": "/screenshots/ibm_com_400.png",
-  "updatedAt": "2025-05-24T06:20:14.628Z"
+  "screenshot": "https://share.appsfor.us/screenshots/ibm_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ibm_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ibm_com_400.png",
+  "updatedAt": "2025-05-30T01:08:35.668Z"
 }

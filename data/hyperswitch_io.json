@@ -2,44 +2,44 @@
   "sourceUrl": "https://hyperswitch.io/",
   "name": "Juspay Hyperswitch",
   "title": "hyperswitch.io",
-  "payoff": "Simplify your payment workflows",
-  "shortDescription": "Juspay Hyperswitch is an open-source payment orchestrator designed to enhance enterprise payment operations. It offers a modular architecture that can be tailored to specific business needs, ensuring resilience, scalability, and low latency. Ideal for businesses seeking to optimize their payment systems, it simplifies workflows through intelligent routing and secure authentication, making it perfect for global enterprises.",
+  "payoff": "Simplify Your Payment Workflows",
+  "shortDescription": "Juspay Hyperswitch is an open-source payment orchestrator designed to enhance enterprise payment operations. It offers a modular architecture that can be tailored to specific business needs, ensuring resilience, scalability, and low latency in payment processing. Ideal for businesses looking to streamline their payment systems, Hyperswitch can be integrated to manage various payment methods, ensure secure transactions, and optimize costs through intelligent routing and analytics.",
   "pros": [
     "Modular and customizable architecture",
-    "Supports intelligent routing and secure transactions",
-    "Designed for scalability and low latency"
+    "Supports multiple payment methods",
+    "High scalability and low latency"
   ],
   "cons": [
     "Requires technical expertise to implement",
-    "Open-source nature may pose integration challenges",
-    "Focused primarily on enterprise users, less so for small businesses"
+    "Open-source support may vary",
+    "Potentially complex setup for beginners"
   ],
   "alternatives": [
     "Stripe [stripe.com]",
     "Adyen [adyen.com]",
-    "PayPal [paypal.com]"
+    "Braintree [braintreepayments.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Stripe",
       "url": "stripe.com",
-      "reason": "Offers extensive payment APIs and tools"
+      "reason": "Widely used with robust API support"
     },
     {
-      "name": "Braintree",
-      "url": "braintreepayments.com",
-      "reason": "Provides advanced payment features"
+      "name": "PayPal",
+      "url": "paypal.com",
+      "reason": "Offers extensive global payment options"
     },
     {
-      "name": "Checkout.com",
-      "url": "checkout.com",
-      "reason": "Focuses on global payment solutions"
+      "name": "Square",
+      "url": "squareup.com",
+      "reason": "Good for small businesses and mobile"
     }
   ],
   "tags": [
-    "payment orchestration",
-    "enterprise software",
+    "payment processing",
     "open source",
+    "enterprise solutions",
     "financial technology"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://hyperswitch.io/docs",
   "githubUrl": "https://github.com/juspay/hyperswitch/discussions",
   "twitterUrl": "https://twitter.com/juspay",
-  "screenshot": "/screenshots/hyperswitch_io.png",
-  "screenshot_640": "/screenshots/hyperswitch_io_640.png",
-  "screenshot_400": "/screenshots/hyperswitch_io_400.png",
-  "updatedAt": "2025-05-24T06:19:00.809Z"
+  "screenshot": "https://share.appsfor.us/screenshots/hyperswitch_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hyperswitch_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hyperswitch_io_400.png",
+  "updatedAt": "2025-05-30T01:06:41.105Z"
 }
