@@ -2,17 +2,17 @@
   "sourceUrl": "https://jan.ai/",
   "name": "Jan",
   "title": "jan.ai",
-  "payoff": "Run ChatGPT offline, open source",
-  "shortDescription": "Jan is an open-source alternative to ChatGPT that operates entirely offline, ensuring user privacy and data security. It is designed for developers and tech enthusiasts who require a powerful AI without relying on cloud services. Users can download and run models like Llama3 or Gemma directly on their devices, or connect to cloud models when necessary. An example use case is setting up a personal AI server for development purposes.",
+  "payoff": "Run AI offline with open source",
+  "shortDescription": "Jan is an open-source, offline-capable alternative to ChatGPT, designed for users concerned about privacy and data security. It allows running powerful AI models like Llama3, Gemma, or Mistral directly on your device. Users can also connect to cloud-based models for enhanced capabilities. Ideal for developers and tech enthusiasts, Jan provides a customizable AI experience with the ability to create personalized assistants and integrate various extensions.",
   "pros": [
-    "100% offline functionality",
+    "Runs entirely offline ensuring privacy",
     "Highly customizable with extensions",
-    "Supports both local and cloud models"
+    "Supports both local and cloud AI models"
   ],
   "cons": [
     "Still under development with potential bugs",
-    "Requires technical knowledge to set up",
-    "Limited user support compared to commercial products"
+    "Requires technical knowledge to setup and use",
+    "Limited support and community due to being new"
   ],
   "alternatives": [
     "OpenAI [openai.com]",
@@ -39,8 +39,8 @@
   "tags": [
     "AI",
     "open source",
-    "offline",
-    "privacy"
+    "privacy",
+    "offline computing"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://jan.ai/",
-  "documentationUrl": "https://jan.ai/documentation",
+  "documentationUrl": "https://jan.ai/docs",
   "githubUrl": "https://github.com/menloresearch/jan",
   "twitterUrl": "https://twitter.com/jandotai",
-  "screenshot": "/screenshots/jan_ai.png",
-  "screenshot_640": "/screenshots/jan_ai_640.png",
-  "screenshot_400": "/screenshots/jan_ai_400.png",
-  "updatedAt": "2025-05-24T07:37:48.447Z"
+  "screenshot": "https://share.appsfor.us/screenshots/jan_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jan_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jan_ai_400.png",
+  "updatedAt": "2025-05-30T03:00:46.816Z"
 }

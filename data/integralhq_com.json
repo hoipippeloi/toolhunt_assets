@@ -3,21 +3,21 @@
   "name": "Integral",
   "title": "integralhq.com",
   "payoff": "Real conversations in online communities",
-  "shortDescription": "Integral is designed to enhance the experience of online community interactions on platforms like Discord and Slack. It focuses on reducing chaos and clutter by filtering out low-value notifications, presenting only the most relevant conversations. This makes it ideal for users seeking meaningful engagement without the overwhelming flood of messages. An example use case could be a tech community using Integral to stay updated on critical discussions while ignoring trivial alerts.",
+  "shortDescription": "Integral is designed to streamline communication within online communities such as Discord servers and Slack groups. It prioritizes meaningful interactions by filtering out excessive noise and notifications. Users can expect a more organized experience, focusing on high-value messages. Ideal for community managers and members tired of chaotic feeds, Integral helps maintain engagement by emphasizing quality over quantity.",
   "pros": [
     "Reduces notification overload",
     "Focuses on high-value interactions",
-    "Supports major community platforms"
+    "Supports major platforms like iOS and macOS"
   ],
   "cons": [
-    "Limited platform support beyond major ones",
-    "May filter out potentially important notifications",
-    "Requires iOS 18+ and macOS Sequoia 15.0+"
+    "Limited platform availability",
+    "May filter out important notifications",
+    "Requires latest operating system versions"
   ],
   "alternatives": [
     "Discord [discord.com]",
     "Slack [slack.com]",
-    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]"
+    "Telegram [telegram.org]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,18 +28,19 @@
     {
       "name": "Slack",
       "url": "slack.com",
-      "reason": "Widely used for professional team communication"
+      "reason": "Widely used for team collaboration"
     },
     {
-      "name": "Microsoft Teams",
-      "url": "microsoft.com/en-us/microsoft-teams/group-chat-software",
-      "reason": "Integrates well with Office 365 suite"
+      "name": "Telegram",
+      "url": "telegram.org",
+      "reason": "Offers robust privacy and group features"
     }
   ],
   "tags": [
     "community management",
-    "notification filtering",
-    "user engagement"
+    "messaging",
+    "user engagement",
+    "notification management"
   ],
   "apiUsed": false,
   "department": "Information Technology",
@@ -51,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=integral&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/integralhq_com.png",
-  "screenshot_640": "/screenshots/integralhq_com_640.png",
-  "screenshot_400": "/screenshots/integralhq_com_400.png",
-  "updatedAt": "2025-05-24T07:36:39.118Z"
+  "screenshot": "https://share.appsfor.us/screenshots/integralhq_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/integralhq_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/integralhq_com_400.png",
+  "updatedAt": "2025-05-30T02:58:51.192Z"
 }

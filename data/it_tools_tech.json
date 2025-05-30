@@ -3,11 +3,11 @@
   "name": "IT Tools",
   "title": "it-tools.tech",
   "payoff": "Essential tools for developers",
-  "shortDescription": "IT Tools offers a suite of online utilities designed specifically for developers. These tools help in various development tasks, from code formatting to performance testing. An example use case is a developer quickly needing to validate JSON data or encode URL parameters during web development.",
+  "shortDescription": "IT Tools offers a suite of online utilities designed to simplify the daily tasks of software developers. From code formatting to debugging, IT Tools provides essential resources that help developers streamline their workflow. An example use case is a developer quickly formatting JSON data or encoding URLs directly through the website.",
   "pros": [
-    "Wide range of tools",
+    "Wide range of tools in one place",
     "User-friendly interface",
-    "No sign-up required"
+    "No sign-up required for most tools"
   ],
   "cons": [
     "Limited advanced features",
@@ -16,31 +16,31 @@
   ],
   "alternatives": [
     "Postman [postman.com]",
-    "JIRA Software [atlassian.com/software/jira]",
-    "GitHub [github.com]"
+    "Jupyter [jupyter.org]",
+    "StackBlitz [stackblitz.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Postman",
       "url": "postman.com",
-      "reason": "Comprehensive API testing suite"
+      "reason": "Offers comprehensive API testing"
     },
     {
-      "name": "Stack Overflow",
-      "url": "stackoverflow.com",
-      "reason": "Community-driven problem solving"
+      "name": "Jupyter",
+      "url": "jupyter.org",
+      "reason": "Interactive computing and data visualization"
     },
     {
-      "name": "Visual Studio Code",
-      "url": "code.visualstudio.com",
-      "reason": "Versatile code editor with extensions"
+      "name": "StackBlitz",
+      "url": "stackblitz.com",
+      "reason": "Online IDE for web applications"
     }
   ],
   "tags": [
-    "development",
-    "online tools",
-    "productivity",
-    "web development"
+    "developer tools",
+    "online utilities",
+    "coding",
+    "software development"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2015,
   "websiteUrl": "https://it-tools.tech/",
-  "documentationUrl": "https://it-tools.tech/docs",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/CorentinTh/it-tools/tree/v2024.10.22-7ca5933",
   "twitterUrl": "https://x.com/ittoolsdottech",
-  "screenshot": "/screenshots/it_tools_tech.png",
-  "screenshot_640": "/screenshots/it_tools_tech_640.png",
-  "screenshot_400": "/screenshots/it_tools_tech_400.png",
-  "updatedAt": "2025-05-24T07:36:57.233Z"
+  "screenshot": "https://share.appsfor.us/screenshots/it_tools_tech.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/it_tools_tech_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/it_tools_tech_400.png",
+  "updatedAt": "2025-05-30T02:59:29.661Z"
 }

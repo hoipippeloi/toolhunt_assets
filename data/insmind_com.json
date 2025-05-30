@@ -3,16 +3,16 @@
   "name": "insMind",
   "title": "insmind.com",
   "payoff": "Enhance photos with AI instantly",
-  "shortDescription": "insMind offers a suite of AI-powered photo editing tools designed to enhance and transform images effortlessly. Ideal for marketers, designers, and e-commerce professionals, insMind allows users to remove backgrounds, resize images, and create stunning visual content quickly. Example use case: An online retailer uses insMind to create clean product images for their website.",
+  "shortDescription": "insMind offers AI-powered photo editing tools designed to enhance, generate, and transform photos quickly and efficiently. Ideal for photographers, marketers, and e-commerce platforms, users can remove backgrounds, add effects, and resize images effortlessly. Example use case: An online retailer uses insMind to create stunning product presentations by removing backgrounds and adding dynamic shadows.",
   "pros": [
-    "AI-powered features for high-quality results",
-    "Wide range of tools from background removal to image enhancing",
-    "User-friendly interface for efficient workflow"
+    "Instant AI-powered photo edits",
+    "Wide range of editing tools",
+    "Free features available"
   ],
   "cons": [
-    "May require a stable internet connection",
-    "Limited customization options for advanced users",
-    "Potential privacy concerns with image data"
+    "May lack advanced manual editing features",
+    "Dependent on AI accuracy",
+    "Limited customer support options"
   ],
   "alternatives": [
     "Adobe Photoshop [adobe.com]",
@@ -23,27 +23,27 @@
     {
       "name": "Adobe Photoshop",
       "url": "adobe.com",
-      "reason": "Industry standard with advanced features"
+      "reason": "Industry-standard photo editing tool"
     },
     {
       "name": "Canva",
       "url": "canva.com",
-      "reason": "Simpler interface and template driven"
+      "reason": "Simpler interface and templates"
     },
     {
       "name": "Pixlr",
       "url": "pixlr.com",
-      "reason": "Web-based, accessible, and versatile"
+      "reason": "Web-based, accessible editing"
     }
   ],
   "tags": [
     "AI",
     "photo editing",
-    "image transformation",
+    "image processing",
     "SaaS"
   ],
   "apiUsed": false,
-  "department": "Marketing",
+  "department": "Creative",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=insmind&type=repositories",
   "twitterUrl": "https://twitter.com/insmind_com",
-  "screenshot": "/screenshots/insmind_com.png",
-  "screenshot_640": "/screenshots/insmind_com_640.png",
-  "screenshot_400": "/screenshots/insmind_com_400.png",
-  "updatedAt": "2025-05-24T07:13:26.880Z"
+  "screenshot": "https://share.appsfor.us/screenshots/insmind_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/insmind_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/insmind_com_400.png",
+  "updatedAt": "2025-05-30T02:56:06.338Z"
 }

@@ -3,16 +3,16 @@
   "name": "Canvas LMS",
   "title": "instructure.com",
   "payoff": "Simplify Teaching & Learning",
-  "shortDescription": "Canvas LMS by Instructure is a comprehensive learning management system designed to simplify educational activities. It serves as a centralized platform for K-12 and higher education institutions, facilitating communication and collaboration among students, teachers, and families. An example use case is a school district implementing Canvas LMS to streamline coursework management and enhance student engagement through digital tools.",
+  "shortDescription": "Canvas LMS is a comprehensive learning management system designed to connect educators, students, and the tools they need in one platform. It simplifies teaching by integrating various digital tools, making education accessible and consistent. Schools can manage coursework, assessments, and communications effectively. For example, a university could use Canvas to streamline course registration and deliver interactive learning experiences.",
   "pros": [
-    "Centralized educational hub",
-    "Extensive integration capabilities",
-    "AI-powered analytics for insights"
+    "Integrates with multiple educational tools",
+    "Offers comprehensive features for course management",
+    "Supports K-12 and higher education needs"
   ],
   "cons": [
-    "Potential complexity for new users",
-    "May require extensive setup",
-    "Possible over-reliance on digital tools"
+    "Can be complex to set up",
+    "Might be overwhelming without proper training",
+    "Potential privacy concerns with extensive data integration"
   ],
   "alternatives": [
     "Blackboard [blackboard.com]",
@@ -23,23 +23,23 @@
     {
       "name": "Blackboard",
       "url": "blackboard.com",
-      "reason": "Widely used in higher education"
+      "reason": "Widely used in higher education for similar purposes"
     },
     {
       "name": "Moodle",
       "url": "moodle.org",
-      "reason": "Open source and highly customizable"
+      "reason": "Open-source alternative with strong community support"
     },
     {
       "name": "Schoology",
       "url": "schoology.com",
-      "reason": "Strong K-12 focus and tools"
+      "reason": "Focuses on K-12 with a range of integrative features"
     }
   ],
   "tags": [
     "e-learning",
     "education",
-    "learning management",
+    "course management",
     "student engagement"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://community.canvaslms.com/t5/Canvas/ct-p/canvas",
   "githubUrl": "https://github.com/search?q=canvas%20lms&type=repositories",
   "twitterUrl": "https://twitter.com/Instructure",
-  "screenshot": "/screenshots/instructure_com.png",
-  "screenshot_640": "/screenshots/instructure_com_640.png",
-  "screenshot_400": "/screenshots/instructure_com_400.png",
-  "updatedAt": "2025-05-24T07:14:56.388Z"
+  "screenshot": "https://share.appsfor.us/screenshots/instructure_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/instructure_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/instructure_com_400.png",
+  "updatedAt": "2025-05-30T02:58:10.232Z"
 }

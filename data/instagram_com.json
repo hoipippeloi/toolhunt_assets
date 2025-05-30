@@ -3,15 +3,15 @@
   "name": "Instagram",
   "title": "instagram.com",
   "payoff": "Connect visually with the world",
-  "shortDescription": "Instagram is a social media platform that allows users to share photos and videos, connect with friends, and explore content from around the world. It's designed for individuals who want to capture and share moments of their lives. A common use case is a brand using Instagram to engage with customers through visually appealing posts and stories.",
+  "shortDescription": "Instagram is a social media platform that allows users to share photos and videos, connect with friends, and discover new content. It's designed for individuals who enjoy visual storytelling and businesses looking to engage with a visually-oriented audience. A common use case is a brand sharing product photos to increase visibility and engage with potential customers.",
   "pros": [
     "High user engagement",
-    "Strong visual focus",
-    "Extensive reach and visibility"
+    "Visual content focus",
+    "Strong mobile experience"
   ],
   "cons": [
     "Limited to visual content",
-    "Can be time-consuming to maintain",
+    "Potential privacy concerns",
     "High competition for visibility"
   ],
   "alternatives": [
@@ -23,17 +23,17 @@
     {
       "name": "Snapchat",
       "url": "snapchat.com",
-      "reason": "Focus on ephemeral, real-time visual sharing"
+      "reason": "Focuses on ephemeral content"
     },
     {
       "name": "TikTok",
       "url": "tiktok.com",
-      "reason": "Short-form video content with high engagement"
+      "reason": "Short-form video content"
     },
     {
       "name": "Pinterest",
       "url": "pinterest.com",
-      "reason": "Visual discovery and collection tool"
+      "reason": "Pin-based visual collections"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://developers.facebook.com/docs/instagram",
   "githubUrl": "https://github.com/search?q=instagram&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/instagram_com.png",
-  "screenshot_640": "/screenshots/instagram_com_640.png",
-  "screenshot_400": "/screenshots/instagram_com_400.png",
-  "updatedAt": "2025-05-24T07:13:45.315Z"
+  "screenshot": "https://share.appsfor.us/screenshots/instagram_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/instagram_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/instagram_com_400.png",
+  "updatedAt": "2025-05-30T02:56:43.897Z"
 }
