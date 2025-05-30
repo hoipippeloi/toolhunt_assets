@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datagalaxy.com/",
+  "name": "DataGalaxy",
+  "title": "datagalaxy.com",
+  "payoff": "Unify data for AI and business insights",
+  "shortDescription": "DataGalaxy is a platform designed to enhance data and AI governance across various industries. It helps organizations align their data strategy with business execution, providing tools for data cataloging, AI product management, and a marketplace for ideas. Key industries like insurance, media, and transportation benefit from improved data visibility and self-service insights, enabling faster decision-making and innovation.",
+  "pros": [
+    "Comprehensive data governance capabilities",
+    "Supports a wide range of integrations",
+    "Facilitates cross-team collaboration"
+  ],
+  "cons": [
+    "May require technical expertise to implement",
+    "Potentially high cost for small businesses",
+    "Complex features could overwhelm new users"
+  ],
+  "alternatives": [
+    "Collibra [collibra.com]",
+    "Alation [alation.com]",
+    "Informatica [informatica.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Collibra",
+      "url": "collibra.com",
+      "reason": "Offers robust data governance"
+    },
+    {
+      "name": "Alation",
+      "url": "alation.com",
+      "reason": "Focus on data cataloging and search"
+    },
+    {
+      "name": "Informatica",
+      "url": "informatica.com",
+      "reason": "Comprehensive data management solutions"
+    }
+  ],
+  "tags": [
+    "data governance",
+    "AI management",
+    "data cataloging",
+    "data integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://datagalaxy.com/",
+  "documentationUrl": "https://datagalaxy.com/documentation",
+  "githubUrl": "https://github.com/search?q=datagalaxy&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/datagalaxy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datagalaxy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datagalaxy_com_400.png",
+  "updatedAt": "2025-05-30T14:57:38.469Z"
+}

@@ -3,43 +3,43 @@
   "name": "Zed",
   "title": "zed.dev",
   "payoff": "The editor for what's next",
-  "shortDescription": "Zed is a next-generation code editor designed for high-performance collaboration between humans and AI. It supports macOS, Linux, and will soon be available for Windows. Zed is built for developers who require efficient, collaborative tools that integrate seamlessly with AI technologies. An example use case is a software development team using Zed to enhance code quality and speed up project completion by leveraging AI-assisted coding and real-time collaboration features.",
+  "shortDescription": "Zed is a next-generation code editor designed for high-performance collaboration between humans and AI. It supports macOS, Linux, and soon Windows. Users can enjoy features like AI integration, real-time collaboration, and high-speed performance due to its Rust-based architecture. Ideal for developers looking to enhance productivity and collaboration in coding environments.",
   "pros": [
-    "High-performance AI integration",
-    "Supports real-time collaboration",
-    "Written in Rust for efficiency"
+    "High-performance collaboration features",
+    "Integration with AI for code generation and analysis",
+    "Open source with a growing ecosystem of extensions"
   ],
   "cons": [
     "Not yet available for Windows",
-    "May have a learning curve for new users",
-    "Limited information on privacy and security"
+    "May require high system resources due to GPU usage",
+    "Limited information on pricing and enterprise support"
   ],
   "alternatives": [
-    "Sublime Text [sublimetext.com]",
     "Visual Studio Code [code.visualstudio.com]",
-    "Atom [atom.io]"
+    "Atom [atom.io]",
+    "Sublime Text [sublimetext.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Visual Studio Code",
       "url": "code.visualstudio.com",
-      "reason": "Extensive plugin ecosystem"
+      "reason": "Extensive plugin ecosystem and customization"
     },
     {
       "name": "Atom",
       "url": "atom.io",
-      "reason": "Customizable and open source"
+      "reason": "Open source and highly customizable"
     },
     {
       "name": "Sublime Text",
       "url": "sublimetext.com",
-      "reason": "Fast and lightweight editor"
+      "reason": "Fast and lightweight with powerful features"
     }
   ],
   "tags": [
     "code editor",
-    "AI integration",
     "collaboration",
+    "AI integration",
     "open source"
   ],
   "apiUsed": false,
@@ -47,13 +47,13 @@
   "function": "Development",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://zed.dev/",
   "documentationUrl": "https://zed.dev/docs",
   "githubUrl": "https://github.com/zed-industries/zed",
   "twitterUrl": "https://twitter.com/zeddotdev",
-  "screenshot": "/screenshots/zed_dev.png",
-  "screenshot_640": "/screenshots/zed_dev_640.png",
-  "screenshot_400": "/screenshots/zed_dev_400.png",
-  "updatedAt": "2025-05-19T03:03:46.005Z"
+  "screenshot": "https://share.appsfor.us/screenshots/zed_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zed_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zed_dev_400.png",
+  "updatedAt": "2025-05-30T14:53:39.925Z"
 }

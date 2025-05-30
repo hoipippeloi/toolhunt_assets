@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://insights.miro.com/",
+  "name": "Miro Insights",
+  "title": "insights.miro.com",
+  "payoff": "Centralized product strategy insights",
+  "shortDescription": "Miro Insights is designed to streamline product management by providing a centralized platform for feedback, backlog management, and roadmap visualization. It integrates with various systems, offering AI-driven suggestions to enhance decision-making. Ideal for product teams seeking a unified view of their strategy, Miro Insights helps in aligning cross-functional teams and improving product development cycles.",
+  "pros": [
+    "AI-driven insights",
+    "Centralized product management",
+    "Real-time stakeholder visibility"
+  ],
+  "cons": [
+    "Potential complexity in setup",
+    "Dependence on system integrations",
+    "May require training for optimal use"
+  ],
+  "alternatives": [
+    "Aha! [aha.io]",
+    "Productboard [productboard.com]",
+    "Roadmunk [roadmunk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Offers detailed roadmapping and strategy tools"
+    },
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Focuses on product management and prioritization"
+    },
+    {
+      "name": "Roadmunk",
+      "url": "roadmunk.com",
+      "reason": "Visual roadmapping with feedback integration"
+    }
+  ],
+  "tags": [
+    "product management",
+    "AI",
+    "roadmapping",
+    "feedback management"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://insights.miro.com/",
+  "documentationUrl": "https://help.miro.com/hc/en-us/articles/25547300739986-Miro-Insights-introduction-BETA",
+  "githubUrl": "https://github.com/search?q=miro%20insights&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/insights_miro_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/insights_miro_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/insights_miro_com_400.png",
+  "updatedAt": "2025-05-30T14:54:36.306Z"
+}

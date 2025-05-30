@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docswrite.com/",
+  "name": "Docswrite",
+  "title": "docswrite.com",
+  "payoff": "Export Docs to WordPress Easily",
+  "shortDescription": "Docswrite is a tool designed to streamline the process of content publishing by automating the transfer of documents from Google Docs to WordPress with just one click. It is ideal for content teams and publishers who manage frequent posts and want to reduce the manual workload. An example use case is a digital marketing agency using Docswrite to quickly publish multiple articles directly to their WordPress sites, saving time and enhancing productivity.",
+  "pros": [
+    "Saves significant time with automation",
+    "No credit card required for starting",
+    "Highly rated by users on G2"
+  ],
+  "cons": [
+    "Limited to Google Docs and WordPress",
+    "No mention of support for other platforms",
+    "Potential dependency on platform updates"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "IFTTT [ifttt.com]",
+    "Automate.io [automate.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers broader automation across apps"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple automation for personal use"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focuses on business process automation"
+    }
+  ],
+  "tags": [
+    "content management",
+    "automation",
+    "publishing",
+    "WordPress integration"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://docswrite.com/",
+  "documentationUrl": "https://help.docswrite.com/",
+  "githubUrl": "https://github.com/search?q=docswrite&type=repositories",
+  "twitterUrl": "https://twitter.com/docswrite_blog",
+  "screenshot": "https://share.appsfor.us/screenshots/docswrite_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/docswrite_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/docswrite_com_400.png",
+  "updatedAt": "2025-05-30T14:58:31.599Z"
+}

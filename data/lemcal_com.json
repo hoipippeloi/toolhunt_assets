@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lemcal.com/",
+  "name": "lemcal",
+  "title": "lemcal.com",
+  "payoff": "Book more meetings effortlessly",
+  "shortDescription": "Lemcal is a scheduling tool designed to enhance productivity by reducing no-shows and streamlining meeting setups. It's ideal for businesses looking to manage multiple calendars and automate reminders. Users can import settings from tools like Calendly or Hubspot, making transition smooth. An example use case is a sales team using lemcal to evenly distribute client meetings and follow-ups, ensuring no opportunity is missed.",
+  "pros": [
+    "Reduces no-shows by 30%",
+    "Seamless integration with platforms like Zapier and Google Meet",
+    "Supports synchronization across multiple calendars"
+  ],
+  "cons": [
+    "Limited to 5 calendars in the free version",
+    "Advanced features require paid subscription",
+    "No native mobile app mentioned"
+  ],
+  "alternatives": [
+    "Calendly [calendly.com]",
+    "Doodle [doodle.com]",
+    "HubSpot Meetings [hubspot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Calendly",
+      "url": "calendly.com",
+      "reason": "Popular for its simplicity and integration options"
+    },
+    {
+      "name": "Doodle",
+      "url": "doodle.com",
+      "reason": "Offers quick scheduling polls ideal for group coordination"
+    },
+    {
+      "name": "HubSpot Meetings",
+      "url": "hubspot.com",
+      "reason": "Integrated within a broader CRM platform"
+    }
+  ],
+  "tags": [
+    "scheduling",
+    "productivity",
+    "calendar management",
+    "meeting coordination"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Calendar",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lemcal.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=lemcal&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/lemcal_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lemcal_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lemcal_com_400.png",
+  "updatedAt": "2025-05-30T14:56:00.986Z"
+}

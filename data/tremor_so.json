@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tremor.so/",
+  "name": "Tremor",
+  "title": "tremor.so",
+  "payoff": "Tailwind CSS UI Components",
+  "shortDescription": "Tremor provides a range of copy-and-paste UI components specifically designed for Tailwind CSS, focusing on charts and dashboards. It is ideal for developers and designers seeking to quickly integrate stylish and responsive elements into their projects. Example use case: A web developer can use Tremor to enhance the user interface of an analytics dashboard without extensive custom coding.",
+  "pros": [
+    "Easy integration with Tailwind CSS",
+    "Pre-designed components for quick deployment",
+    "Focus on charts and dashboards enhances data visualization"
+  ],
+  "cons": [
+    "Limited to Tailwind CSS",
+    "May not offer extensive customization",
+    "Focused primarily on charts and dashboards, less versatility"
+  ],
+  "alternatives": [
+    "Tailwind UI [tailwindui.com]",
+    "DaisyUI [daisyui.com]",
+    "Flowbite [flowbite.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tailwind UI",
+      "url": "tailwindui.com",
+      "reason": "Offers comprehensive UI kits for Tailwind CSS"
+    },
+    {
+      "name": "DaisyUI",
+      "url": "daisyui.com",
+      "reason": "Provides themed components for Tailwind CSS"
+    },
+    {
+      "name": "Flowbite",
+      "url": "flowbite.com",
+      "reason": "Combines UI components with Tailwind CSS"
+    }
+  ],
+  "tags": [
+    "UI components",
+    "Tailwind CSS",
+    "charts",
+    "dashboards"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tremor.so/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tremor&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tremor_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tremor_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tremor_so_400.png",
+  "updatedAt": "2025-05-30T14:56:36.837Z"
+}
