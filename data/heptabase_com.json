@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://heptabase.com/",
+  "name": "Heptabase",
+  "title": "heptabase.com",
+  "payoff": "Make sense of complex topics.",
+  "shortDescription": "Heptabase is a versatile tool designed to enhance learning and research through advanced note-taking and visualization features. It allows users to organize notes via whiteboards, mindmaps, and kanban boards, making it easy to see connections. Users can also work collaboratively on projects, even offline, making it ideal for students, researchers, and teams. Example use case: A research team uses Heptabase to collaboratively gather data and insights, maintaining access to their work across various devices without internet connectivity.",
+  "pros": [
+    "Supports real-time sync across devices",
+    "Full offline access",
+    "Fast search and load speeds"
+  ],
+  "cons": [
+    "Limited mobile app functionality",
+    "No API for developers",
+    "Potentially steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Roam Research [roamresearch.com]",
+    "Notion [notion.so]",
+    "Obsidian [obsidian.md]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Roam Research",
+      "url": "roamresearch.com",
+      "reason": "Offers a graph database for linking ideas"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Combines notes with database functionalities"
+    },
+    {
+      "name": "Obsidian",
+      "url": "obsidian.md",
+      "reason": "Markdown-based note-taking with plugins"
+    }
+  ],
+  "tags": [
+    "note-taking",
+    "knowledge management",
+    "collaboration",
+    "visualization"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Knowledge Base",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://heptabase.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/heptameta/project-meta/releases/download/v1.57.0/Heptabase-1.57.0.dmg",
+  "twitterUrl": "https://twitter.com/LifespanDevelop/status/1642698852112236545",
+  "screenshot": "https://share.appsfor.us/screenshots/heptabase_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/heptabase_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/heptabase_com_400.png",
+  "updatedAt": "2025-05-30T15:17:16.241Z"
+}

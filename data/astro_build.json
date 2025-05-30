@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://astro.build/",
+  "name": "Astro",
+  "title": "astro.build",
+  "payoff": "Fast, content-driven web framework",
+  "shortDescription": "Astro is a JavaScript framework designed for creating fast, content-driven websites such as marketing sites, blogs, and e-commerce platforms. It enhances performance by server-side rendering, sending minimal HTML to the browser, reducing JavaScript overhead. Ideal for developers looking to integrate with various data sources and extend functionality with custom tools, Astro offers a unique approach to optimizing web performance and SEO through its 'Islands' architecture.",
+  "pros": [
+    "Optimized for speed and SEO",
+    "Highly customizable with extensive integrations",
+    "Server-side rendering for improved performance"
+  ],
+  "cons": [
+    "Requires familiarity with JavaScript",
+    "May have a steeper learning curve for beginners",
+    "Limited by JavaScript ecosystem compatibility"
+  ],
+  "alternatives": [
+    "Next.js [nextjs.org]",
+    "Gatsby [gatsbyjs.com]",
+    "WordPress [wordpress.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Next.js",
+      "url": "nextjs.org",
+      "reason": "Offers SSR and static site generation"
+    },
+    {
+      "name": "Gatsby",
+      "url": "gatsbyjs.com",
+      "reason": "Focus on static PWA generation"
+    },
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Widely used with extensive plugins"
+    }
+  ],
+  "tags": [
+    "web framework",
+    "JavaScript",
+    "server-side rendering",
+    "SEO optimization"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://astro.build/",
+  "documentationUrl": "https://docs.astro.build",
+  "githubUrl": "https://github.com/withastro/astro",
+  "twitterUrl": "https://x.com/astrodotbuild",
+  "screenshot": "https://share.appsfor.us/screenshots/astro_build.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/astro_build_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/astro_build_400.png",
+  "updatedAt": "2025-05-30T15:16:39.143Z"
+}

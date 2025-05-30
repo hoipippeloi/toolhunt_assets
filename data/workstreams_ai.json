@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workstreams.ai/",
+  "name": "workstreams.ai",
+  "title": "workstreams.ai",
+  "payoff": "Maximize team productivity effortlessly",
+  "shortDescription": "workstreams.ai is a task and workflow management tool designed to enhance team productivity through automation and AI features. It integrates seamlessly with Slack and Microsoft Teams, allowing users to create tasks, manage workflows, and track progress directly from their communication platforms. Example use case: A marketing team uses workstreams.ai to manage campaigns, automate task assignments, and track completion times to improve efficiency.",
+  "pros": [
+    "Integrates with Slack and Microsoft Teams",
+    "AI features for task management",
+    "Visual Kanban boards for workflow tracking"
+  ],
+  "cons": [
+    "Limited to three free team members",
+    "May require initial setup time",
+    "Dependent on external platforms like Slack for full functionality"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Popular for task & project management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Flexible boards for task tracking"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Extensive workflow customization"
+    }
+  ],
+  "tags": [
+    "task management",
+    "workflow automation",
+    "team productivity",
+    "AI features"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://workstreams.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=workstreams%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/WorkstreamsAI",
+  "screenshot": "https://share.appsfor.us/screenshots/workstreams_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/workstreams_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/workstreams_ai_400.png",
+  "updatedAt": "2025-05-30T15:19:25.937Z"
+}

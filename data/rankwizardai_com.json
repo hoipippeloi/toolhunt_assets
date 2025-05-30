@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rankwizardai.com/",
+  "name": "RankWizard",
+  "title": "rankwizardai.com",
+  "payoff": "Write 1000+ posts in minutes",
+  "shortDescription": "RankWizard leverages GPT-4 and SERP analysis to generate SEO-optimized articles, blog posts, and newsletters quickly. It's designed for professional bloggers and website owners who need to produce large volumes of content efficiently. Simply input keywords, and RankWizard crafts articles that are ready to publish.",
+  "pros": [
+    "High-quality, SEO-optimized content",
+    "Supports multiple languages",
+    "Efficient and cost-effective"
+  ],
+  "cons": [
+    "Content may lack unique insights",
+    "Potential risk of content saturation",
+    "Dependence on specific AI technology"
+  ],
+  "alternatives": [
+    "Copy.ai [copy.ai]",
+    "Writesonic [writesonic.com]",
+    "Jasper [jasper.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Copy.ai",
+      "url": "copy.ai",
+      "reason": "Offers creative content generation"
+    },
+    {
+      "name": "Writesonic",
+      "url": "writesonic.com",
+      "reason": "Focuses on marketing content"
+    },
+    {
+      "name": "Jasper",
+      "url": "jasper.ai",
+      "reason": "High-quality AI writing tool"
+    }
+  ],
+  "tags": [
+    "AI writing",
+    "content generation",
+    "SEO",
+    "marketing"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2022,
+  "websiteUrl": "https://rankwizardai.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=rankwizard&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/rankwizardai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rankwizardai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rankwizardai_com_400.png",
+  "updatedAt": "2025-05-30T15:17:57.825Z"
+}

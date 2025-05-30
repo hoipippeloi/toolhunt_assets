@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datapulse.app/",
+  "name": "DataPulse",
+  "title": "datapulse.app",
+  "payoff": "Lightweight web analytics solution",
+  "shortDescription": "DataPulse offers a simple, live, and fun analytics solution for websites. It's designed for webmasters and digital marketers who need real-time insights into user behavior. With DataPulse, you can see which pages are popular, where your traffic comes from, and what devices your visitors use. Invite your team for collaboration and make data-driven decisions effortlessly.",
+  "pros": [
+    "Real-time analytics updates",
+    "Lightweight script under 1kb",
+    "GDPR and CCPA compliant"
+  ],
+  "cons": [
+    "Currently in public beta",
+    "Limited historical data analysis",
+    "No advanced machine learning features"
+  ],
+  "alternatives": [
+    "Google Analytics [analytics.google.com]",
+    "Mixpanel [mixpanel.com]",
+    "Piwik PRO [piwik.pro]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Analytics",
+      "url": "analytics.google.com",
+      "reason": "Industry standard for web analytics"
+    },
+    {
+      "name": "Mixpanel",
+      "url": "mixpanel.com",
+      "reason": "Offers event tracking and user segmentation"
+    },
+    {
+      "name": "Piwik PRO",
+      "url": "piwik.pro",
+      "reason": "Focuses on privacy and full data ownership"
+    }
+  ],
+  "tags": [
+    "web analytics",
+    "real-time data",
+    "user behavior",
+    "privacy compliant"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://datapulse.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=datapulse&type=repositories",
+  "twitterUrl": "https://twitter.com/datapulse_app",
+  "screenshot": "https://share.appsfor.us/screenshots/datapulse_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datapulse_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datapulse_app_400.png",
+  "updatedAt": "2025-05-30T15:18:40.971Z"
+}
