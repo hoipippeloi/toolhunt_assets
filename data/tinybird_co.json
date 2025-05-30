@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tinybird.co/",
+  "name": "Tinybird",
+  "title": "tinybird.co",
+  "payoff": "Analytics backend for applications",
+  "shortDescription": "Tinybird provides a robust analytics backend for applications, enabling developers to build scalable, secure, real-time analytics APIs without extensive infrastructure setup. It's ideal for tech companies needing to handle large data volumes with low latency. Example use case: A tech startup uses Tinybird to process real-time data from millions of IoT devices, providing instant analytics to users.",
+  "pros": [
+    "Real-time data processing",
+    "Secure and compliant (SOC2 Type II, HIPAA)",
+    "Easy integration with existing data systems"
+  ],
+  "cons": [
+    "May require technical knowledge to set up",
+    "Potentially high cost for high volume usage",
+    "Limited customization compared to in-house solutions"
+  ],
+  "alternatives": [
+    "Supabase [supabase.com]",
+    "ClickHouse [clickhouse.com]",
+    "Snowflake [snowflake.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Supabase",
+      "url": "supabase.com",
+      "reason": "Offers real-time databases and authentication"
+    },
+    {
+      "name": "ClickHouse",
+      "url": "clickhouse.com",
+      "reason": "High-performance columnar database"
+    },
+    {
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Scalable cloud data platform"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "data processing",
+    "API",
+    "real-time"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://tinybird.co/",
+  "documentationUrl": "https://docs.tinybird.co",
+  "githubUrl": "https://github.com/tinybirdco",
+  "twitterUrl": "https://twitter.com/@tinybirdco",
+  "screenshot": "https://share.appsfor.us/screenshots/tinybird_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tinybird_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tinybird_co_400.png",
+  "updatedAt": "2025-05-30T14:17:21.284Z"
+}

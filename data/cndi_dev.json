@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cndi.dev/",
+  "name": "CNDI",
+  "title": "cndi.dev",
+  "payoff": "Deploy apps with GitOps & IaC",
+  "shortDescription": "CNDI is a framework designed for self-hosting open-source applications, leveraging GitOps and Infrastructure as Code (IaC). It simplifies deploying production-grade application clusters in any environment. Developers can manage deployments using familiar Git workflows, making it ideal for teams seeking control over their infrastructure without the complexities of traditional PaaS solutions.",
+  "pros": [
+    "Full control over application deployment",
+    "Reduces costs compared to PaaS solutions",
+    "Simplifies deployments with templates and GitOps"
+  ],
+  "cons": [
+    "Requires in-depth infrastructure knowledge",
+    "Potentially higher initial setup complexity",
+    "Limited to self-hosting environments"
+  ],
+  "alternatives": [
+    "Terraform [terraform.io]",
+    "Ansible [ansible.com]",
+    "Pulumi [pulumi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Terraform",
+      "url": "terraform.io",
+      "reason": "Popular IaC tool with cloud focus"
+    },
+    {
+      "name": "Ansible",
+      "url": "ansible.com",
+      "reason": "Automation platform for app deployment"
+    },
+    {
+      "name": "Pulumi",
+      "url": "pulumi.com",
+      "reason": "IaC with real programming languages"
+    }
+  ],
+  "tags": [
+    "Infrastructure as Code",
+    "GitOps",
+    "Self-Hosting",
+    "Open Source"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Infrastructure Code",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://cndi.dev/",
+  "documentationUrl": "https://cndi.dev/docs",
+  "githubUrl": "https://github.com/polyseam/cndi",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/cndi_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cndi_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cndi_dev_400.png",
+  "updatedAt": "2025-05-30T14:18:43.210Z"
+}

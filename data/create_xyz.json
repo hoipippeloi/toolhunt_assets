@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://create.xyz/",
+  "name": "Create",
+  "title": "create.xyz",
+  "payoff": "Build AI apps without coding",
+  "shortDescription": "Create allows users to build AI-driven tools and applications without any programming skills. It integrates with advanced AI models like GPT-4o and Claude 3.5 Sonnet, making it ideal for entrepreneurs and innovators. Users can start with templates or build from scratch, using APIs and data sources to create unique solutions.",
+  "pros": [
+    "No coding required",
+    "Integration with latest AI models",
+    "Supports multiple APIs and data sources"
+  ],
+  "cons": [
+    "May lack flexibility for advanced coders",
+    "Dependent on third-party AI model updates",
+    "Limited control over underlying algorithms"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Adalo [adalo.com]",
+    "Glide [glideapps.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Visual programming, no-code platform"
+    },
+    {
+      "name": "Adalo",
+      "url": "adalo.com",
+      "reason": "Build mobile and web apps visually"
+    },
+    {
+      "name": "Glide",
+      "url": "glideapps.com",
+      "reason": "Create apps from Google Sheets"
+    }
+  ],
+  "tags": [
+    "AI",
+    "no-code",
+    "app development",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://create.xyz/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=create&type=repositories",
+  "twitterUrl": "https://x.com/create_xyz",
+  "screenshot": "https://share.appsfor.us/screenshots/create_xyz.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/create_xyz_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/create_xyz_400.png",
+  "updatedAt": "2025-05-30T14:20:00.133Z"
+}

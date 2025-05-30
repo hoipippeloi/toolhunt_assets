@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://klu.so/",
+  "name": "Klu",
+  "title": "klu.so",
+  "payoff": "Run your meetings smarter",
+  "shortDescription": "Klu is designed to enhance meeting productivity by automating workflows and integrating with various tools. It's ideal for teams looking to streamline their meeting processes and ensure actionable outcomes. For example, during a project meeting, Klu can automatically transcribe discussions, extract action items, and sync these tasks to project management tools like Asana or Jira, reducing manual work and focusing on important discussions.",
+  "pros": [
+    "Automates meeting transcription and task extraction",
+    "Seamlessly integrates with popular productivity tools",
+    "Automatically triggers workflows based on meeting content"
+  ],
+  "cons": [
+    "Dependent on the quality of AI transcription",
+    "May not support all productivity tools",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Chorus.ai [chorus.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers AI-powered meeting notes"
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Automates meeting capture and tasks"
+    },
+    {
+      "name": "Chorus.ai",
+      "url": "chorus.ai",
+      "reason": "Focuses on sales meeting insights"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "AI",
+    "meeting automation",
+    "workflow integration"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://klu.so/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=klu&type=repositories",
+  "twitterUrl": "https://x.com/klu_hq",
+  "screenshot": "https://share.appsfor.us/screenshots/klu_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/klu_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/klu_so_400.png",
+  "updatedAt": "2025-05-30T14:21:59.342Z"
+}

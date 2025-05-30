@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://goless.com/",
+  "name": "Goless",
+  "title": "goless.com",
+  "payoff": "Streamline Web Automation",
+  "shortDescription": "Goless is a browser automation tool designed to simplify repetitive tasks without coding. It's ideal for marketers, data analysts, and small businesses looking to automate web scraping, form filling, and social media interactions. Users can create workflows using a Chrome extension and a drag-and-drop interface. An example use case is automating data extraction from websites and exporting it directly to Google Sheets.",
+  "pros": [
+    "No coding required for automation",
+    "Built-in CAPTCHA recognition and resolution",
+    "Marketplace of ready-to-use workflows"
+  ],
+  "cons": [
+    "Limited to browser-based tasks",
+    "Dependent on Chrome extension",
+    "May not handle complex web applications well"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automate.io [automate.io]",
+    "Zapier [zapier.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Offers robust enterprise automation"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Integrates with multiple web services"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Supports wide range of apps and triggers"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "automation",
+    "no-code",
+    "browser automation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://goless.com/",
+  "documentationUrl": "https://goless.com/docs",
+  "githubUrl": "https://github.com/search?q=goless&type=repositories",
+  "twitterUrl": "https://twitter.com/golesscom",
+  "screenshot": "https://share.appsfor.us/screenshots/goless_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/goless_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/goless_com_400.png",
+  "updatedAt": "2025-05-30T14:20:44.619Z"
+}
