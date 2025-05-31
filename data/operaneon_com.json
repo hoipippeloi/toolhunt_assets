@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://operaneon.com/",
+  "name": "Opera Neon",
+  "title": "operaneon.com",
+  "payoff": "Agentic AI browser for the web",
+  "shortDescription": "Opera Neon is a revolutionary browser designed with agentic AI to enhance web interaction. It assists users by automating tasks such as booking, shopping, and form filling, making it ideal for busy professionals. For example, Neon can plan a trip, find deals, and suggest activities effortlessly.",
+  "pros": [
+    "Automates routine web tasks",
+    "Supports over 50 languages",
+    "Provides real-time web-based information"
+  ],
+  "cons": [
+    "Invite-only access limits availability",
+    "May raise privacy concerns with AI interactions",
+    "Potential complexity for average users"
+  ],
+  "alternatives": [
+    "Google Chrome [google.com/chrome]",
+    "Mozilla Firefox [mozilla.org]",
+    "Microsoft Edge [microsoft.com/edge]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Popular browser with extensive features"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "url": "mozilla.org",
+      "reason": "Strong privacy features and customization"
+    },
+    {
+      "name": "Microsoft Edge",
+      "url": "microsoft.com/edge",
+      "reason": "Integrated with Microsoft services"
+    }
+  ],
+  "tags": [
+    "AI browser",
+    "web automation",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://operaneon.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=opera%20neon&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/operaneon_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/operaneon_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/operaneon_com_400.png",
+  "updatedAt": "2025-05-31T10:15:12.783Z"
+}
