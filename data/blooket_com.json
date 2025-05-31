@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blooket.com/",
+  "name": "Blooket",
+  "title": "blooket.com",
+  "payoff": "Educational games for everyone!",
+  "shortDescription": "Blooket is a dynamic educational platform designed to enhance learning through interactive games. It caters to students from early elementary to high school, offering a variety of game modes to keep learning engaging. Educators can quickly create or select game sets, run live sessions or asynchronous games, and access detailed reports to monitor student progress and identify knowledge gaps.",
+  "pros": [
+    "Engages students with interactive games",
+    "Supports a wide range of educational levels",
+    "Provides detailed educational analytics"
+  ],
+  "cons": [
+    "Reliance on internet connectivity",
+    "Potential privacy concerns with cookie usage",
+    "Limited to educational contexts"
+  ],
+  "alternatives": [
+    "Kahoot! [kahoot.com]",
+    "Quizlet [quizlet.com]",
+    "Edmodo [edmodo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot!",
+      "url": "kahoot.com",
+      "reason": "Popular for live quiz-based learning games"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers tools for study sets and flashcards"
+    },
+    {
+      "name": "Edmodo",
+      "url": "edmodo.com",
+      "reason": "Combines learning with a social media interface"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "educational games",
+    "student engagement",
+    "learning analytics"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://blooket.com/",
+  "documentationUrl": "https://help.blooket.com/hc/en-us",
+  "githubUrl": "https://github.com/search?q=blooket&type=repositories",
+  "twitterUrl": "https://x.com/PlayBlooket",
+  "screenshot": "https://share.appsfor.us/screenshots/blooket_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/blooket_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/blooket_com_400.png",
+  "updatedAt": "2025-05-31T03:41:15.626Z"
+}

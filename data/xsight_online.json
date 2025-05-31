@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://xsight.online/",
+  "name": "XSight",
+  "title": "xsight.online",
+  "payoff": "Find friends and places in AR",
+  "shortDescription": "XSight is an AR-based multiplayer adventure platform that blends virtual experiences with real-world scenarios. It is designed for users who wish to enhance their social interactions and explorations through augmented reality. Users can discover people and places, engage in instant messaging, and participate in various themed adventures like coffee meet-ups or concerts. An example use case involves going to a food court and using XSight to connect and play games with friends.",
+  "pros": [
+    "Enhances real-world interactions with AR",
+    "Instant messaging with nearby users",
+    "User-controlled privacy settings"
+  ],
+  "cons": [
+    "Dependent on AR-compatible devices",
+    "Potential privacy concerns despite controls",
+    "Limited to areas with rich AR content"
+  ],
+  "alternatives": [
+    "Pokémon GO [pokemongo.com]",
+    "Snapchat [snapchat.com]",
+    "Blippar [blippar.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pokémon GO",
+      "url": "pokemongo.com",
+      "reason": "Popular AR game with social elements"
+    },
+    {
+      "name": "Snapchat",
+      "url": "snapchat.com",
+      "reason": "AR filters and social media integration"
+    },
+    {
+      "name": "Blippar",
+      "url": "blippar.com",
+      "reason": "AR platform for brand engagement"
+    }
+  ],
+  "tags": [
+    "augmented reality",
+    "social networking",
+    "mobile app",
+    "gaming"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://xsight.online/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=xsight&type=repositories",
+  "twitterUrl": "https://twitter.com/XSightAR",
+  "screenshot": "https://share.appsfor.us/screenshots/xsight_online.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/xsight_online_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/xsight_online_400.png",
+  "updatedAt": "2025-05-31T03:43:02.796Z"
+}

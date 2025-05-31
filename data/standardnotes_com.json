@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://standardnotes.com/",
+  "name": "Standard Notes",
+  "title": "standardnotes.com",
+  "payoff": "Secure, encrypted note-taking app",
+  "shortDescription": "Standard Notes is a secure, free-to-use note-taking application that emphasizes end-to-end encryption and privacy. It allows users to sync their notes across unlimited devices seamlessly. Ideal for individuals concerned with data privacy, it serves as a reliable tool for storing personal and professional information securely. Users can access their notes anytime, ensuring their data is always at their fingertips.",
+  "pros": [
+    "Strong end-to-end encryption",
+    "Cross-platform syncing",
+    "Focus on user privacy"
+  ],
+  "cons": [
+    "Limited features in free version",
+    "No collaborative tools",
+    "Potentially complex for average users"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "OneNote [onenote.com]",
+    "Google Keep [keep.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Offers rich text editing and integrations."
+    },
+    {
+      "name": "OneNote",
+      "url": "onenote.com",
+      "reason": "Features extensive collaboration tools."
+    },
+    {
+      "name": "Google Keep",
+      "url": "keep.google.com",
+      "reason": "Simple, fast, and integrates with Google."
+    }
+  ],
+  "tags": [
+    "note-taking",
+    "encryption",
+    "privacy",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://standardnotes.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/standardnotes/app",
+  "twitterUrl": "https://x.com/StandardNotes",
+  "screenshot": "https://share.appsfor.us/screenshots/standardnotes_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/standardnotes_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/standardnotes_com_400.png",
+  "updatedAt": "2025-05-31T03:39:53.166Z"
+}

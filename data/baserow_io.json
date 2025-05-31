@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://baserow.io/",
+  "name": "Baserow",
+  "title": "baserow.io",
+  "payoff": "Flexible no-code database tool",
+  "shortDescription": "Baserow is a no-code platform that allows users to create custom databases without programming skills. It is designed for businesses and individual users who need to manage data efficiently. Example use case includes managing customer information, project tracking, and inventory management.",
+  "pros": [
+    "User-friendly no-code interface",
+    "Highly customizable database options",
+    "Strong collaboration features"
+  ],
+  "cons": [
+    "Limited integration options",
+    "May require technical knowledge for complex setups",
+    "No native mobile app"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Ninox [ninox.com]",
+    "Zoho Creator [zoho.com/creator]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers rich visualization and automation."
+    },
+    {
+      "name": "Ninox",
+      "url": "ninox.com",
+      "reason": "Focuses on team collaboration and ease."
+    },
+    {
+      "name": "Zoho Creator",
+      "url": "zoho.com/creator",
+      "reason": "Provides extensive app creation tools."
+    }
+  ],
+  "tags": [
+    "no-code",
+    "database",
+    "collaboration",
+    "data management"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://baserow.io/",
+  "documentationUrl": "https://baserow.io/docs",
+  "githubUrl": "https://github.com/search?q=baserow&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/baserow_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/baserow_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/baserow_io_400.png",
+  "updatedAt": "2025-05-31T03:40:32.194Z"
+}

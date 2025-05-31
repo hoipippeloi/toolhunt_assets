@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vidya.us/",
+  "name": "Vidya",
+  "title": "vidya.us",
+  "payoff": "Engage students in real-time",
+  "shortDescription": "Vidya is an innovative classroom engagement tool designed for both online and offline learning environments. It enables educators to create interactive and engaging learning experiences through real-time quizzes, smart analytics, and AI-powered features. Ideal for schools, colleges, and corporate training, Vidya helps monitor student progression and enhances engagement, particularly useful in remote learning scenarios.",
+  "pros": [
+    "Real-time engagement with AI quizzes",
+    "Smart analytics for monitoring progress",
+    "Supports diverse educational environments"
+  ],
+  "cons": [
+    "May require training to use effectively",
+    "Dependent on internet connectivity",
+    "Limited personalization options"
+  ],
+  "alternatives": [
+    "Kahoot [kahoot.com]",
+    "Blackboard [blackboard.com]",
+    "Moodle [moodle.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot",
+      "url": "kahoot.com",
+      "reason": "Popular for gamified learning"
+    },
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Widely used in academic institutions"
+    },
+    {
+      "name": "Moodle",
+      "url": "moodle.org",
+      "reason": "Open-source with customization"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "student engagement",
+    "online education",
+    "classroom management"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://vidya.us/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=vidya&type=repositories",
+  "twitterUrl": "https://forms.wix.com/f/7084418711821485021",
+  "screenshot": "https://share.appsfor.us/screenshots/vidya_us.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vidya_us_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vidya_us_400.png",
+  "updatedAt": "2025-05-31T03:43:47.931Z"
+}
