@@ -3,37 +3,37 @@
   "name": "JSON Crack",
   "title": "jsoncrack.com",
   "payoff": "Visualize JSON as interactive graphs",
-  "shortDescription": "JSON Crack is an online tool designed to help users visualize and understand complex JSON data through interactive graphs. It supports various data formats including JSON, YAML, CSV, XML, and TOML, catering to developers, data analysts, and educators. Users can directly upload data, see it transformed into a visual graph, and export this visualization in multiple image formats. An example use case is a developer converting JSON to CSV for easier data manipulation.",
+  "shortDescription": "JSON Crack is an open-source online tool designed to help users visualize and understand complex JSON data through interactive graphs. Users can upload JSON files, input data via URL, or type directly into a text editor. The tool automatically converts data into visual tree graphs, allowing for quick data comprehension. It supports multiple data formats including JSON, YAML, CSV, XML, and TOML, and offers features like data conversion, validation, and code generation. Ideal for developers and data analysts looking to simplify data handling and enhance readability.",
   "pros": [
     "Supports multiple data formats",
     "Real-time data visualization",
-    "No data stored on servers"
+    "Open-source and free to use"
   ],
   "cons": [
+    "No persistent storage of data",
     "Limited to web-based interface",
-    "No mobile app available",
-    "Dependent on internet connection"
+    "No advanced analytics features"
   ],
   "alternatives": [
-    "CyberChef [gchq.github.io]",
     "Quicktype [quicktype.io]",
+    "CyberChef [gchq.github.io/CyberChef/]",
     "Altair GraphQL Client [altair.sirmuel.design]"
   ],
   "aiSuggestedAlternatives": [
-    {
-      "name": "CyberChef",
-      "url": "gchq.github.io",
-      "reason": "Offers data encoding/decoding"
-    },
     {
       "name": "Quicktype",
       "url": "quicktype.io",
       "reason": "Generates code from JSON"
     },
     {
+      "name": "CyberChef",
+      "url": "gchq.github.io/CyberChef/",
+      "reason": "Offers data format conversions"
+    },
+    {
       "name": "Altair GraphQL Client",
       "url": "altair.sirmuel.design",
-      "reason": "Visualizes GraphQL queries"
+      "reason": "Visual tool for GraphQL, not JSON"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Visual Builder",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2022,
+  "releasedYear": 2021,
   "websiteUrl": "https://jsoncrack.com/",
-  "documentationUrl": "https://jsoncrack.com/docs",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/AykutSarac/jsoncrack.com",
   "twitterUrl": "https://x.com/jsoncrack",
-  "screenshot": "/screenshots/jsoncrack_com.png",
-  "screenshot_640": "/screenshots/jsoncrack_com_640.png",
-  "screenshot_400": "/screenshots/jsoncrack_com_400.png",
-  "updatedAt": "2025-05-24T08:18:20.936Z"
+  "screenshot": "https://share.appsfor.us/screenshots/jsoncrack_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jsoncrack_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jsoncrack_com_400.png",
+  "updatedAt": "2025-05-31T01:09:53.658Z"
 }

@@ -3,21 +3,21 @@
   "name": "just build things",
   "title": "justbuildthings.com",
   "payoff": "Free AI & creative tools",
-  "shortDescription": "just build things offers a suite of AI and creative tools designed to assist individuals and businesses in various creative and technical tasks. Users can engage with AI for chat, content creation, and design, or utilize tools for music production and development tasks. An example use case is a small business using the platform to generate marketing content and design a professional logo without needing specialized skills.",
+  "shortDescription": "just build things offers a wide range of AI and creative tools designed to assist individuals and businesses in various creative and technical tasks. From generating AI-based text and images to analyzing audio and designing logos, this platform caters to creators, marketers, and developers alike. Example use case: A graphic designer uses the tool to quickly generate color schemes and design logos without manual effort.",
   "pros": [
     "Wide range of tools",
     "Free to use",
-    "No specialized skills required"
+    "No design skills required"
   ],
   "cons": [
     "Limited customization options",
     "May not replace professional tools",
-    "Support and updates depend on the platform"
+    "Dependent on internet connection"
   ],
   "alternatives": [
     "Canva [canva.com]",
     "Adobe Express [adobe.com/express]",
-    "Descript [descript.com]"
+    "Figma [figma.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,34 +26,34 @@
       "reason": "Offers extensive design templates"
     },
     {
+      "name": "Adobe Express",
+      "url": "adobe.com/express",
+      "reason": "Professional quality with more features"
+    },
+    {
       "name": "Figma",
       "url": "figma.com",
       "reason": "Collaborative interface design tool"
-    },
-    {
-      "name": "Adobe Spark",
-      "url": "adobe.com/express",
-      "reason": "Professional design and branding tools"
     }
   ],
   "tags": [
-    "AI",
+    "AI tools",
     "creative tools",
-    "content generation",
-    "design"
+    "design",
+    "utilities"
   ],
   "apiUsed": false,
   "department": "Creative",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://justbuildthings.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=just%20build%20things&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/justbuildthings_com.png",
-  "screenshot_640": "/screenshots/justbuildthings_com_640.png",
-  "screenshot_400": "/screenshots/justbuildthings_com_400.png",
-  "updatedAt": "2025-05-24T08:43:10.055Z"
+  "screenshot": "https://share.appsfor.us/screenshots/justbuildthings_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/justbuildthings_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/justbuildthings_com_400.png",
+  "updatedAt": "2025-05-31T01:12:21.550Z"
 }

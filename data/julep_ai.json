@@ -3,16 +3,16 @@
   "name": "Julep AI",
   "title": "julep.ai",
   "payoff": "Deploy AI workflows at scale",
-  "shortDescription": "Julep AI enables users to build and deploy serverless AI workflows quickly and efficiently. It connects with any AI model, API, or data source, making it ideal for developers and businesses looking to scale their AI operations. An example use case is a marketing team automating data analysis to enhance campaign strategies.",
+  "shortDescription": "Julep AI enables users to build and deploy serverless AI workflows quickly and efficiently. It connects with any AI model, API, or data source, allowing for rapid scaling. Ideal for businesses looking to integrate AI without extensive infrastructure, an example use case could be a tech startup wanting to automate data processing without investing in hardware.",
   "pros": [
-    "Build and deploy AI workflows quickly",
-    "Connects with any AI model or API",
-    "Scalable to millions of tasks"
+    "Rapid deployment of AI workflows",
+    "Scalable to millions of tasks",
+    "Easy integration with existing AI models and APIs"
   ],
   "cons": [
-    "May require initial technical knowledge",
-    "Dependent on external AI models and APIs",
-    "Limited information on security measures"
+    "May require initial technical setup",
+    "Dependent on external APIs and data sources",
+    "Limited by the capabilities of connected AI models"
   ],
   "alternatives": [
     "Zapier [zapier.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Offers broader workflow automation"
+      "reason": "Offers workflow automation with various apps"
     },
     {
       "name": "Vercel",
       "url": "vercel.com",
-      "reason": "Focuses on deployment and scaling"
+      "reason": "Simplifies deployments, similar to Julep AI"
     },
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Provides rapid development tools"
+      "reason": "Build internal tools rapidly"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://github.com/julep-ai",
   "githubUrl": "https://github.com/julep-ai/julep",
   "twitterUrl": "https://x.com/julep_ai",
-  "screenshot": "/screenshots/julep_ai.png",
-  "screenshot_640": "/screenshots/julep_ai_640.png",
-  "screenshot_400": "/screenshots/julep_ai_400.png",
-  "updatedAt": "2025-05-24T08:42:36.513Z"
+  "screenshot": "https://share.appsfor.us/screenshots/julep_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/julep_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/julep_ai_400.png",
+  "updatedAt": "2025-05-31T01:10:28.266Z"
 }
