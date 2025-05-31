@@ -2,44 +2,44 @@
   "sourceUrl": "https://khoj.dev/",
   "name": "Khoj AI",
   "title": "khoj.dev",
-  "payoff": "Ask anything, understand documents",
-  "shortDescription": "Khoj AI is a versatile tool designed to assist researchers and professionals by providing tailored AI-driven recommendations. It allows users to interact with various specialist AI agents to get customized advice and insights. An example use case could be a health professional using Khoj AI to simplify complex patient data into actionable insights, thereby improving patient care and operational efficiency.",
+  "payoff": "Simplify complex AI interactions",
+  "shortDescription": "Khoj AI is designed to be your research copilot, enabling users to interact seamlessly with various AI models from anywhere. It's ideal for researchers, developers, and businesses looking to integrate AI into their workflows. Users can ask questions, get document insights, and generate content tailored to their specific needs. An example use case is a technical lead using Khoj AI to quickly understand new technologies and implement them effectively in ongoing projects.",
   "pros": [
-    "Customizable to specific needs",
+    "Customizable AI interactions",
     "Accessible from anywhere",
     "Supports multiple AI models"
   ],
   "cons": [
-    "May require technical knowledge to fully utilize",
-    "Pricing can be a barrier for casual users",
-    "Limited information on data security"
+    "May require technical knowledge to set up",
+    "Limited free tier",
+    "No clear information on data privacy"
   ],
   "alternatives": [
-    "OpenAI GPT-3 [openai.com]",
-    "IBM Watson [ibm.com]",
-    "Azure AI [azure.com]"
+    "OpenAI [openai.com]",
+    "IBM Watson [ibm.com/watson]",
+    "Google AI [ai.google]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI GPT-3",
+      "name": "OpenAI",
       "url": "openai.com",
-      "reason": "Advanced AI text generation and understanding"
+      "reason": "Offers comprehensive AI models"
     },
     {
       "name": "IBM Watson",
-      "url": "ibm.com",
-      "reason": "Broad AI solutions with strong enterprise focus"
+      "url": "ibm.com/watson",
+      "reason": "Strong in enterprise AI solutions"
     },
     {
-      "name": "Azure AI",
-      "url": "azure.com",
-      "reason": "Integrated AI tools within a cloud platform"
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Wide range of AI tools and APIs"
     }
   ],
   "tags": [
     "AI",
-    "Research",
-    "Customizable",
+    "research",
+    "customizable",
     "SaaS"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://khoj.dev/docs",
   "githubUrl": "https://github.com/khoj-ai/khoj/releases",
   "twitterUrl": "https://twitter.com/khoj_ai",
-  "screenshot": "/screenshots/khoj_dev.png",
-  "screenshot_640": "/screenshots/khoj_dev_640.png",
-  "screenshot_400": "/screenshots/khoj_dev_400.png",
-  "updatedAt": "2025-05-24T09:14:31.849Z"
+  "screenshot": "https://share.appsfor.us/screenshots/khoj_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/khoj_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/khoj_dev_400.png",
+  "updatedAt": "2025-05-31T02:55:24.595Z"
 }

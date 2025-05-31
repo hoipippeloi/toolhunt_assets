@@ -2,22 +2,22 @@
   "sourceUrl": "https://klaviyo.com/",
   "name": "Klaviyo",
   "title": "klaviyo.com",
-  "payoff": "CRM for B2C Marketing and SMS",
-  "shortDescription": "Klaviyo is a CRM platform tailored for B2C relationships, integrating email and SMS marketing to enhance customer engagement. It's designed for brands aiming to transform customer interactions into deeper, more meaningful relationships. An example use case is an e-commerce store utilizing Klaviyo to automate personalized marketing campaigns based on customer behavior analytics, thereby increasing retention and sales.",
+  "payoff": "CRM for B2C brands",
+  "shortDescription": "Klaviyo is a marketing platform designed specifically for B2C businesses, integrating email, SMS, and CRM functionalities. It helps brands build deeper customer relationships by leveraging data-driven insights to deliver personalized experiences. An example use case is an e-commerce store using Klaviyo to automate their marketing campaigns and analyze customer behavior to increase sales.",
   "pros": [
     "Advanced segmentation and personalization",
-    "Comprehensive analytics for smarter decisions",
-    "Integration with numerous e-commerce platforms"
+    "Robust analytics and reporting features",
+    "Integration with multiple e-commerce platforms"
   ],
   "cons": [
-    "Can be complex for beginners",
-    "Potentially high cost for large contact lists",
-    "Limited customization in certain areas"
+    "Can be expensive for small businesses",
+    "Complexity may overwhelm new users",
+    "Limited customization options for certain features"
   ],
   "alternatives": [
     "Mailchimp [mailchimp.com]",
-    "HubSpot CRM [hubspot.com]",
-    "ActiveCampaign [activecampaign.com]"
+    "HubSpot [hubspot.com]",
+    "Salesforce Marketing Cloud [salesforce.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,20 +26,20 @@
       "reason": "Offers broader marketing tools"
     },
     {
-      "name": "HubSpot CRM",
+      "name": "HubSpot",
       "url": "hubspot.com",
-      "reason": "Provides full inbound marketing suite"
+      "reason": "Provides comprehensive CRM features"
     },
     {
       "name": "ActiveCampaign",
       "url": "activecampaign.com",
-      "reason": "Strong in automation and email marketing"
+      "reason": "Strong in automation and personalization"
     }
   ],
   "tags": [
     "CRM",
+    "marketing automation",
     "email marketing",
-    "SMS marketing",
     "data analytics"
   ],
   "apiUsed": true,
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2012,
   "websiteUrl": "https://klaviyo.com/",
-  "documentationUrl": "https://help.klaviyo.com/hc",
+  "documentationUrl": "https://www.klaviyo.com/documentation",
   "githubUrl": "https://github.com/search?q=klaviyo&type=repositories",
   "twitterUrl": "https://twitter.com/klaviyo/",
   "screenshot": "https://share.appsfor.us/screenshots/klaviyo_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/klaviyo_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/klaviyo_com_400.png",
-  "updatedAt": "2025-05-24T09:28:47.030Z"
+  "updatedAt": "2025-05-31T02:57:16.213Z"
 }

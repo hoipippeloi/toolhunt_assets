@@ -3,16 +3,16 @@
   "name": "Kanri",
   "title": "kanriapp.com",
   "payoff": "Offline Kanban Board App",
-  "shortDescription": "Kanri is a modern Kanban board app designed for personal use, operating entirely offline. It's ideal for individuals seeking a simple, efficient tool to manage tasks without the need for internet connectivity. Users can enjoy features like customizable boards, columns, and cards, along with rich text formatting for detailed task descriptions. It's perfect for anyone from freelancers to project managers who prefer visual task management and need a reliable tool that ensures privacy and accessibility.",
+  "shortDescription": "Kanri is a modern, minimalist Kanban board app designed for personal task management. It operates fully offline, making it ideal for users who prioritize privacy and accessibility without the need for constant internet connectivity. Users can manage tasks using customizable boards, columns, and cards, enhancing visual task management and productivity. Perfect for individuals looking for an offline alternative to Trello, suitable for Windows, Mac, and Linux.",
   "pros": [
-    "Works offline ensuring constant accessibility",
-    "Highly customizable with themes and keyboard shortcuts",
-    "Simple and user-friendly interface"
+    "Works offline for enhanced privacy and accessibility",
+    "Unlimited customizable boards, columns, and cards",
+    "Supports rich text formatting for detailed task descriptions"
   ],
   "cons": [
-    "Limited to desktop platforms (Windows, Mac, Linux)",
-    "No collaboration features for teams",
-    "Lacks integration with other tools and services"
+    "Lacks collaboration features for teams",
+    "No mobile app version available",
+    "Limited to basic Kanban functionality without plugins or add-ons"
   ],
   "alternatives": [
     "Trello [trello.com]",
@@ -23,17 +23,17 @@
     {
       "name": "Trello",
       "url": "trello.com",
-      "reason": "Popular web-based Kanban tool with collaboration"
+      "reason": "Popular online Kanban tool with more features"
     },
     {
       "name": "Asana",
       "url": "asana.com",
-      "reason": "Features task and project management with team support"
+      "reason": "Offers more comprehensive project management"
     },
     {
-      "name": "Monday.com",
-      "url": "monday.com",
-      "reason": "Offers extensive customization and automation options"
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Advanced features for software development teams"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/trobonox/kanri",
   "twitterUrl": null,
-  "screenshot": "/screenshots/kanriapp_com.png",
-  "screenshot_640": "/screenshots/kanriapp_com_640.png",
-  "screenshot_400": "/screenshots/kanriapp_com_400.png",
-  "updatedAt": "2025-05-24T09:14:08.005Z"
+  "screenshot": "https://share.appsfor.us/screenshots/kanriapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kanriapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kanriapp_com_400.png",
+  "updatedAt": "2025-05-31T02:54:39.481Z"
 }

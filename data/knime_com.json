@@ -3,7 +3,7 @@
   "name": "KNIME",
   "title": "knime.com",
   "payoff": "Open for Innovation",
-  "shortDescription": "KNIME offers intuitive analytics and AI solutions, catering to users across various industries without requiring extensive IT skills. It enables data-driven decision-making through visual workflows and a vast array of connectors and nodes. Example use case: A pharmaceutical company uses KNIME to develop predictive models for drug efficacy without coding, enhancing speed and accuracy in research.",
+  "shortDescription": "KNIME offers intuitive analytics and AI solutions through visual workflows, targeting data professionals and citizen data scientists. It supports ETL, predictive AI, and complex data operations without coding. Users can access a wide range of data sources and AI models, deploy securely, and scale solutions enterprise-wide. An example use case is enabling engineers to become analytics practitioners rapidly through its platform.",
   "pros": [
     "Intuitive visual workflow interface",
     "Extensive range of connectors and nodes",
@@ -12,7 +12,7 @@
   "cons": [
     "May require initial training to master",
     "Limited real-time processing capabilities",
-    "Potentially overwhelming for new users due to its vast options"
+    "Potentially overwhelming for new users due to its extensive features"
   ],
   "alternatives": [
     "RapidMiner [rapidminer.com]",
@@ -23,26 +23,26 @@
     {
       "name": "RapidMiner",
       "url": "rapidminer.com",
-      "reason": "Offers advanced analytics with a visual approach"
+      "reason": "Offers visual workflow for analytics"
     },
     {
       "name": "Alteryx",
       "url": "alteryx.com",
-      "reason": "Focuses on ease of use and integration"
+      "reason": "Focuses on ease of use in analytics"
     },
     {
       "name": "Dataiku",
       "url": "dataiku.com",
-      "reason": "Blends data science and machine learning support"
+      "reason": "Combines data prep and machine learning"
     }
   ],
   "tags": [
     "data analytics",
     "AI",
     "visual workflows",
-    "no-code"
+    "data integration"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Data & Analytics",
   "function": "Analytics",
   "freeTier": true,
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/knime_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/knime_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/knime_com_400.png",
-  "updatedAt": "2025-05-24T09:37:57.841Z"
+  "updatedAt": "2025-05-31T02:58:07.144Z"
 }
