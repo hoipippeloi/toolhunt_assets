@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://argovpn.com/en/",
+  "name": "ArgoVPN",
+  "title": "argovpn.com",
+  "payoff": "Free, Unlimited VPN for Iran",
+  "shortDescription": "ArgoVPN is a free VPN tool designed specifically for Android users in Iran to bypass internet censorship. It offers unlimited bandwidth, allowing users to access blocked websites, social media, and messaging apps. The VPN includes features typically found in commercial VPNs, such as a customizable firewall and the ability to set up private bridges on personal domain names.",
+  "pros": [
+    "Unlimited bandwidth",
+    "Customizable firewall features",
+    "Ability to set up private bridges"
+  ],
+  "cons": [
+    "Limited to Android devices",
+    "Primarily focused on users in Iran",
+    "No clear information on encryption standards"
+  ],
+  "alternatives": [
+    "NordVPN [nordvpn.com]",
+    "ExpressVPN [expressvpn.com]",
+    "ProtonVPN [protonvpn.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NordVPN",
+      "url": "nordvpn.com",
+      "reason": "Offers a wide range of global servers"
+    },
+    {
+      "name": "ExpressVPN",
+      "url": "expressvpn.com",
+      "reason": "Known for strong encryption and privacy"
+    },
+    {
+      "name": "ProtonVPN",
+      "url": "protonvpn.com",
+      "reason": "Focuses on security and is open source"
+    }
+  ],
+  "tags": [
+    "VPN",
+    "Internet Security",
+    "Privacy",
+    "Censorship Circumvention"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://argovpn.com/en/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=argovpn&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/argovpn_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/argovpn_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/argovpn_com_400.png",
+  "updatedAt": "2025-05-31T12:26:19.708Z"
+}
