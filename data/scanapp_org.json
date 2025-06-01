@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://scanapp.org/",
+  "name": "ScanApp",
+  "title": "scanapp.org",
+  "payoff": "Efficient QR Code Scanning",
+  "shortDescription": "ScanApp is a user-friendly QR code scanner designed for both individuals and businesses. It allows users to quickly scan QR codes to access information, websites, and other resources. Ideal for retail and event management, ScanApp can be used to streamline customer interactions by providing instant data retrieval through QR codes.",
+  "pros": [
+    "Fast and accurate scanning",
+    "Easy integration with other apps",
+    "Supports various QR code types"
+  ],
+  "cons": [
+    "Limited to QR code scanning",
+    "Requires camera access",
+    "May not scan damaged codes effectively"
+  ],
+  "alternatives": [
+    "QR Code Monkey [qrcodemonkey.com]",
+    "QRStuff [qrstuff.com]",
+    "QR Code Generator [qrcode-generator.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QR Code Monkey",
+      "url": "qrcodemonkey.com",
+      "reason": "Offers custom QR designs"
+    },
+    {
+      "name": "QRStuff",
+      "url": "qrstuff.com",
+      "reason": "Supports diverse data types"
+    },
+    {
+      "name": "QR Code Generator",
+      "url": "qrcode-generator.com",
+      "reason": "Includes logo integration"
+    }
+  ],
+  "tags": [
+    "QR code",
+    "scanning",
+    "mobile app",
+    "data retrieval"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://scanapp.org/",
+  "documentationUrl": "https://scanapp.org/documentation",
+  "githubUrl": "https://github.com/mebjas/html5-qrcode",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/scanapp_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/scanapp_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/scanapp_org_400.png",
+  "updatedAt": "2025-06-01T04:53:16.676Z"
+}
