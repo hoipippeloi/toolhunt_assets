@@ -3,44 +3,44 @@
   "name": "Lamatic.ai",
   "title": "lamatic.ai",
   "payoff": "Deploy AI Agents on Edge",
-  "shortDescription": "Lamatic.ai enables engineering teams to build, connect, and deploy AI agents efficiently on edge devices. It offers a suite of tools including Studio, Apps, Templates, and Models to streamline development processes. An example use case is deploying AI-driven applications in manufacturing for real-time quality monitoring.",
+  "shortDescription": "Lamatic.ai provides a comprehensive platform for building, connecting, and deploying AI agents tailored for SaaS applications. It is designed specifically for engineering teams looking to enhance their software solutions with AI capabilities. An example use case includes deploying real-time AI-driven analytics on edge devices, significantly reducing latency and improving data processing speeds.",
   "pros": [
-    "Reduces development back and forth",
-    "Deploys under 60 seconds",
-    "Real-time data-driven decisions"
+    "Rapid deployment under 60 seconds",
+    "Role-based permissions enhance team efficiency",
+    "Real-time data tracing and actionable reports"
   ],
   "cons": [
-    "May require technical expertise",
-    "Limited information on pricing",
-    "Focused primarily on AI and edge computing"
+    "May require technical expertise to fully utilize",
+    "Focused primarily on engineering teams, less so on non-technical users",
+    "Limited information on pricing and scalability"
   ],
   "alternatives": [
-    "AWS IoT Greengrass [aws.amazon.com/iot-greengrass]",
-    "Microsoft Azure IoT Edge [azure.microsoft.com/en-us/services/iot-edge]",
-    "Google Cloud IoT [cloud.google.com/iot-core]"
+    "Retool [retool.com]",
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "AWS IoT Greengrass",
-      "url": "aws.amazon.com/iot-greengrass",
-      "reason": "Offers extensive IoT solutions"
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Visual development for internal tools"
     },
     {
-      "name": "Microsoft Azure IoT Edge",
-      "url": "azure.microsoft.com/en-us/services/iot-edge",
-      "reason": "Integrates with Azure services"
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Automation across apps with no code"
     },
     {
-      "name": "Google Cloud IoT",
-      "url": "cloud.google.com/iot-core",
-      "reason": "Strong in data analytics"
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Advanced online automation platform"
     }
   ],
   "tags": [
     "AI",
-    "edge computing",
-    "development",
-    "automation"
+    "Edge Computing",
+    "SaaS",
+    "Automation"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://lamatic.ai/",
-  "documentationUrl": null,
+  "documentationUrl": "https://lamatic.ai/docs",
   "githubUrl": "https://github.com/Lamatic",
   "twitterUrl": null,
   "screenshot": "/screenshots/lamatic_ai.png",
   "screenshot_640": "/screenshots/lamatic_ai_640.png",
   "screenshot_400": "/screenshots/lamatic_ai_400.png",
-  "updatedAt": "2025-05-09T10:35:09.607Z"
+  "updatedAt": "2025-06-01T01:23:11.067Z"
 }

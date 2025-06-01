@@ -3,16 +3,16 @@
   "name": "Langbase",
   "title": "langbase.com",
   "payoff": "Build powerful AI products easily",
-  "shortDescription": "Langbase is a serverless AI developer platform designed to help product companies and developers create powerful AI agents effortlessly. It offers an exceptional developer experience, allowing users to build, deploy, and scale AI agents with memory. An example use case is the creation of an AI chatbot that can handle complex customer interactions without extensive coding.",
+  "shortDescription": "Langbase is a serverless AI developer platform that enables product companies and developers to build, deploy, and scale AI agents with ease. It is designed to enhance the developer experience, offering tools like Langbase Studio for crafting AI solutions. Example use cases include AI chatbots, software architect tools, and campaign analysis summarizers, making it suitable for a wide range of innovative applications.",
   "pros": [
-    "Serverless architecture simplifies operations",
-    "Supports over 250 LLMs with a standard API",
-    "Highly developer-friendly and collaborative"
+    "Developer-friendly interface and tools",
+    "Supports 250+ LLMs with a standard API",
+    "Serverless, scalable AI agent deployment"
   ],
   "cons": [
     "May require initial learning curve",
-    "Potentially higher costs at scale",
-    "Limited to AI and serverless applications"
+    "Potentially high costs at scale",
+    "Limited to AI and serverless technologies"
   ],
   "alternatives": [
     "AWS Lambda [aws.amazon.com/lambda]",
@@ -23,17 +23,17 @@
     {
       "name": "AWS Lambda",
       "url": "aws.amazon.com/lambda",
-      "reason": "Popular for serverless computing"
+      "reason": "Popular serverless computing service"
     },
     {
       "name": "Google Cloud Functions",
       "url": "cloud.google.com/functions",
-      "reason": "Integrates well with Google Cloud"
+      "reason": "Flexible, event-driven functions"
     },
     {
       "name": "Azure Functions",
       "url": "azure.microsoft.com/en-us/services/functions",
-      "reason": "Great for .NET and Windows integration"
+      "reason": "Integrates with other Azure services"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://langbase.com/docs",
   "githubUrl": "https://github.com/LangbaseInc/",
   "twitterUrl": "https://x.com/langbaseinc",
-  "screenshot": "/screenshots/langbase_com.png",
-  "screenshot_640": "/screenshots/langbase_com_640.png",
-  "screenshot_400": "/screenshots/langbase_com_400.png",
-  "updatedAt": "2025-05-08T08:28:13.517Z"
+  "screenshot": "https://share.appsfor.us/screenshots/langbase_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/langbase_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/langbase_com_400.png",
+  "updatedAt": "2025-06-01T01:24:33.219Z"
 }

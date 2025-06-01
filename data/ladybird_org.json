@@ -2,45 +2,45 @@
   "sourceUrl": "https://ladybird.org/",
   "name": "Ladybird",
   "title": "ladybird.org",
-  "payoff": "Independent, standards-first web browser",
-  "shortDescription": "Ladybird is developing a new web browser focused on performance, stability, and security without user monetization tactics like crypto tokens or default search deals. It's designed for developers and tech enthusiasts interested in a fresh, open-source approach to web browsing. The project encourages collaboration via GitHub and Discord, aiming for an Alpha release in 2026.",
+  "payoff": "A truly independent web browser",
+  "shortDescription": "Ladybird is a new, non-profit backed web browser and engine designed from scratch to prioritize web standards, performance, stability, and security. Initially an HTML viewer for SerenityOS, it now supports multiple platforms including Linux and macOS. Ideal for early adopters and developers, it's set for an Alpha release in 2026. Users can contribute via GitHub, join the community on Discord, and support through donations.",
   "pros": [
-    "No user monetization tactics",
-    "Open source and community-driven development",
-    "Cross-platform support for various Unix-like systems"
+    "Focused on web standards and security",
+    "No user monetization schemes like crypto tokens",
+    "Open source with community involvement"
   ],
   "cons": [
-    "Still in early development stage",
-    "No established user base yet",
-    "Limited features compared to established browsers"
+    "Still in early development, not yet released",
+    "Limited platform support (mainly Unix-like systems)",
+    "No established user base or performance benchmarks"
   ],
   "alternatives": [
-    "Mozilla Firefox [mozilla.org]",
-    "Google Chrome [google.com/chrome]",
-    "Brave Browser [brave.com]"
+    "Firefox [mozilla.org]",
+    "Chromium [chromium.org]",
+    "Brave [brave.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Mozilla Firefox",
+      "name": "Firefox",
       "url": "mozilla.org",
       "reason": "Established, open-source browser"
     },
     {
-      "name": "Google Chrome",
-      "url": "google.com/chrome",
-      "reason": "Popular with extensive features"
+      "name": "Chromium",
+      "url": "chromium.org",
+      "reason": "Open-source base for many browsers"
     },
     {
-      "name": "Brave Browser",
+      "name": "Brave",
       "url": "brave.com",
-      "reason": "Focus on privacy and ad-blocking"
+      "reason": "Privacy-focused with unique features"
     }
   ],
   "tags": [
     "web browser",
     "open source",
     "non-profit",
-    "web standards"
+    "community-driven"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/ladybird_org.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/ladybird_org_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/ladybird_org_400.png",
-  "updatedAt": "2025-05-24T09:39:14.763Z"
+  "updatedAt": "2025-06-01T01:22:50.133Z"
 }

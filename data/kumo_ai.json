@@ -3,16 +3,16 @@
   "name": "Kumo",
   "title": "kumo.ai",
   "payoff": "AI for relational enterprise data",
-  "shortDescription": "Kumo leverages AI to provide instant, no-code predictions from enterprise data. It is designed for business users to interact with data using natural language, without needing ML expertise or complex setups. Example use case includes generating predictive insights for operational efficiency and personalized customer interactions directly from a data warehouse.",
+  "shortDescription": "Kumo leverages AI to provide instant predictive insights from relational enterprise data, without the need for machine learning pipelines or extensive setup. It is designed for business users who can interact with the system using natural language to get reliable, explainable answers. An example use case includes enhancing operational efficiency and personalized shopping experiences in retail.",
   "pros": [
     "Instant predictions with zero setup",
-    "No ML expertise required",
+    "No ML experience required",
     "Natural language interaction"
   ],
   "cons": [
-    "Dependence on data quality",
-    "Potential privacy concerns",
-    "Limited to relational data"
+    "Limited to relational data",
+    "May require fine-tuning for complex queries",
+    "Dependent on data quality and structure"
   ],
   "alternatives": [
     "DataRobot [datarobot.com]",
@@ -28,26 +28,26 @@
     {
       "name": "H2O.ai",
       "url": "h2o.ai",
-      "reason": "Focus on AI with easy scalability"
+      "reason": "Focuses on open-source ML tools"
     },
     {
       "name": "RapidMiner",
       "url": "rapidminer.com",
-      "reason": "Comprehensive data science platform"
+      "reason": "Provides a visual workflow for ML"
     }
   ],
   "tags": [
     "AI",
     "predictive analytics",
-    "no-code",
-    "data warehousing"
+    "data analytics",
+    "enterprise"
   ],
   "apiUsed": false,
   "department": "Data & Analytics",
   "function": "AI & ML",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2023,
+  "releasedYear": 2021,
   "websiteUrl": "https://kumo.ai/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=kumo&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/kumo_ai.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/kumo_ai_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/kumo_ai_400.png",
-  "updatedAt": "2025-05-24T09:38:35.875Z"
+  "updatedAt": "2025-06-01T01:22:11.625Z"
 }

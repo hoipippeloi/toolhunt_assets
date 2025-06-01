@@ -3,51 +3,51 @@
   "name": "KNIME",
   "title": "knime.com",
   "payoff": "Open for Innovation",
-  "shortDescription": "KNIME offers intuitive analytics and AI solutions through visual workflows, targeting data professionals and citizen data scientists. It supports ETL, predictive AI, and complex data operations without coding. Users can access a wide range of data sources and AI models, deploy securely, and scale solutions enterprise-wide. An example use case is enabling engineers to become analytics practitioners rapidly through its platform.",
+  "shortDescription": "KNIME offers intuitive analytics and AI solutions, enabling users from various industries to create visual workflows for complex data tasks without coding. It supports ETL, predictive AI, and data integration with over 300 connectors. An example use case is enabling engineers to transition from beginners to analytics practitioners within months.",
   "pros": [
-    "Intuitive visual workflow interface",
-    "Extensive range of connectors and nodes",
-    "Strong support for citizen data scientists"
+    "Intuitive visual workflow creation",
+    "Extensive connectivity with 300+ data connectors",
+    "Supports enterprise-scale, cloud-native architecture"
   ],
   "cons": [
-    "May require initial training to master",
-    "Limited real-time processing capabilities",
-    "Potentially overwhelming for new users due to its extensive features"
+    "May require initial training to maximize use",
+    "Complex features can be overwhelming for beginners",
+    "Limited real-time processing capabilities"
   ],
   "alternatives": [
-    "RapidMiner [rapidminer.com]",
     "Alteryx [alteryx.com]",
+    "RapidMiner [rapidminer.com]",
     "Dataiku [dataiku.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "RapidMiner",
-      "url": "rapidminer.com",
-      "reason": "Offers visual workflow for analytics"
-    },
-    {
       "name": "Alteryx",
       "url": "alteryx.com",
-      "reason": "Focuses on ease of use in analytics"
+      "reason": "Offers drag-and-drop analytics workflow"
+    },
+    {
+      "name": "RapidMiner",
+      "url": "rapidminer.com",
+      "reason": "Provides advanced analytics and ML tools"
     },
     {
       "name": "Dataiku",
       "url": "dataiku.com",
-      "reason": "Combines data prep and machine learning"
+      "reason": "Focuses on enterprise AI and machine learning"
     }
   ],
   "tags": [
     "data analytics",
     "AI",
     "visual workflows",
-    "data integration"
+    "cloud-native"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Data & Analytics",
   "function": "Analytics",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2008,
+  "releasedYear": 2004,
   "websiteUrl": "https://knime.com/",
   "documentationUrl": "https://docs.knime.com/",
   "githubUrl": "https://github.com/search?q=knime&type=repositories",
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/knime_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/knime_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/knime_com_400.png",
-  "updatedAt": "2025-05-31T02:58:07.144Z"
+  "updatedAt": "2025-06-01T01:21:31.119Z"
 }
