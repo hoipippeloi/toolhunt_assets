@@ -3,16 +3,16 @@
   "name": "Lemon Squeezy",
   "title": "lemonsqueezy.com",
   "payoff": "Simplify software sales globally",
-  "shortDescription": "Lemon Squeezy is an all-in-one platform designed for software companies to manage payments, subscriptions, and global tax compliance effortlessly. It supports multi-currency, fraud prevention, and integrates seamlessly with PayPal. Ideal for developers looking to streamline their sales process and maximize revenue through various payment models and marketing tools.",
+  "shortDescription": "Lemon Squeezy provides an all-in-one platform for software companies to manage payments, subscriptions, and global tax compliance. It simplifies the selling process with features like multi-currency support, fraud prevention, and PayPal integration. Ideal for developers looking to streamline operations and focus on product development.",
   "pros": [
-    "Comprehensive tax compliance",
+    "Integrated global tax compliance",
     "Multi-currency and PayPal support",
-    "License key management for software"
+    "Extensive API and developer tools"
   ],
   "cons": [
     "May be complex for beginners",
-    "Potentially high transaction fees",
-    "Limited customization options"
+    "Potentially higher cost for advanced features",
+    "Limited customization in certain areas"
   ],
   "alternatives": [
     "Paddle [paddle.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Paddle",
       "url": "paddle.com",
-      "reason": "Offers global tax handling and checkout"
+      "reason": "Offers similar e-commerce solutions"
     },
     {
       "name": "FastSpring",
       "url": "fastspring.com",
-      "reason": "Focuses on digital commerce solutions"
+      "reason": "Focuses on global digital sales"
     },
     {
       "name": "Chargebee",
       "url": "chargebee.com",
-      "reason": "Provides subscription billing services"
+      "reason": "Provides subscription management"
     }
   ],
   "tags": [
     "e-commerce",
     "subscriptions",
-    "tax compliance",
-    "payment processing"
+    "payments",
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Sales",
   "function": "E-commerce",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
   "releasedYear": 2020,
   "websiteUrl": "https://lemonsqueezy.com/",
   "documentationUrl": "https://lemonsqueezy.com/documentation",
   "githubUrl": "https://github.com/search?q=lemon%20squeezy&type=repositories",
   "twitterUrl": "https://twitter.com/lmsqueezy",
-  "screenshot": "/screenshots/lemonsqueezy_com.png",
-  "screenshot_640": "/screenshots/lemonsqueezy_com_640.png",
-  "screenshot_400": "/screenshots/lemonsqueezy_com_400.png",
-  "updatedAt": "2025-05-09T10:39:08.607Z"
+  "screenshot": "https://share.appsfor.us/screenshots/lemonsqueezy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lemonsqueezy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lemonsqueezy_com_400.png",
+  "updatedAt": "2025-06-01T03:23:43.836Z"
 }

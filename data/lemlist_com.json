@@ -3,44 +3,44 @@
   "name": "lemlist",
   "title": "lemlist.com",
   "payoff": "Automate multichannel outreach",
-  "shortDescription": "lemlist is a sales engagement platform designed to automate outreach across multiple channels such as email, LinkedIn, and calls. It targets sales teams, helping them find and engage qualified leads with personalized messages and efficient follow-ups. An example use case includes sales teams using lemlist to streamline their lead generation and outreach processes, ultimately spending more time closing deals rather than managing tasks.",
+  "shortDescription": "lemlist is a sales engagement platform designed to automate outreach across multiple channels like email, LinkedIn, and calls. It targets sales teams, helping them to find and engage with qualified leads efficiently. An example use case involves a sales team using lemlist to streamline their outreach process, thereby increasing productivity and focusing more on closing deals rather than manual tasks.",
   "pros": [
     "Integrates with major CRMs like HubSpot and Salesforce",
-    "Includes a built-in email warm-up feature, lemwarm",
-    "Supports multichannel outreach in a single platform"
+    "Includes a built-in email warm-up feature to improve deliverability",
+    "Supports multichannel outreach from a single platform"
   ],
   "cons": [
-    "May require a learning curve for new users",
-    "Potentially higher cost compared to basic tools",
-    "Dependent on third-party integrations for full functionality"
+    "May be complex to set up for beginners",
+    "Potentially high cost for small teams or solopreneurs",
+    "Dependent on third-party platforms like LinkedIn"
   ],
   "alternatives": [
     "Outreach [outreach.io]",
     "Salesloft [salesloft.com]",
-    "HubSpot Sales [hubspot.com/sales]"
+    "Yesware [yesware.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Outreach",
       "url": "outreach.io",
-      "reason": "Offers robust sales engagement features"
+      "reason": "Offers advanced sales engagement tools"
     },
     {
       "name": "Salesloft",
       "url": "salesloft.com",
-      "reason": "Similar sales automation with added analytics"
+      "reason": "Focuses on sales engagement and productivity"
     },
     {
-      "name": "HubSpot Sales",
-      "url": "hubspot.com/sales",
-      "reason": "Combines CRM and sales automation"
+      "name": "Yesware",
+      "url": "yesware.com",
+      "reason": "Integrates deeply with email platforms"
     }
   ],
   "tags": [
-    "sales engagement",
+    "sales automation",
+    "email marketing",
     "lead generation",
-    "multichannel outreach",
-    "automation"
+    "CRM integration"
   ],
   "apiUsed": true,
   "department": "Sales",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2017,
   "websiteUrl": "https://lemlist.com/",
-  "documentationUrl": "https://help.lemlist.com/",
+  "documentationUrl": "https://help.lemlist.com/en/",
   "githubUrl": "https://github.com/search?q=lemlist&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/lemlist_com.webp",
-  "screenshot_640": "/screenshots/lemlist_com_640.webp",
-  "screenshot_400": "/screenshots/lemlist_com_400.webp",
-  "updatedAt": "2025-05-23T10:57:50.546Z"
+  "screenshot": "https://share.appsfor.us/screenshots/lemlist_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lemlist_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lemlist_com_400.png",
+  "updatedAt": "2025-06-01T03:23:02.456Z"
 }

@@ -3,37 +3,37 @@
   "name": "Learn.xyz",
   "title": "learn.xyz",
   "payoff": "Training so fun, they'll forget",
-  "shortDescription": "Learn.xyz transforms traditional, often tedious documentation into engaging, gamified learning experiences. Designed for busy learners, this tool quickly converts policies, handbooks, and PDFs into digestible micro-lessons. Ideal for teams looking to enhance their training processes, an example use case could be a company aiming to improve compliance training efficiency and engagement.",
+  "shortDescription": "Learn.xyz transforms traditional documents into engaging, gamified learning experiences. Designed for busy professionals, this tool quickly converts policies, handbooks, and PDFs into micro-lessons. Ideal for companies looking to enhance their training programs, an example use case could be a firm converting their compliance training into digestible daily lessons to boost engagement and retention.",
   "pros": [
-    "Gamified learning enhances engagement",
-    "Supports various content types like PDFs and handbooks",
-    "Offers detailed analytics on user engagement"
+    "Transforms boring documents into engaging lessons",
+    "Supports both mobile and desktop platforms",
+    "Offers granular access controls and compliance-ready reporting"
   ],
   "cons": [
-    "May require regular content updates",
-    "Potentially high setup costs",
-    "Limited to digital formats"
+    "May not support very complex document formats",
+    "Potential learning curve for setting up content",
+    "Dependent on quality of original documents"
   ],
   "alternatives": [
     "TalentLMS [talentlms.com]",
-    "Coursera for Business [coursera.org/business]",
-    "Udemy Business [business.udemy.com]"
+    "Udemy Business [business.udemy.com]",
+    "Coursera for Business [business.coursera.org]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Skillsoft",
-      "url": "skillsoft.com",
-      "reason": "Wide range of professional courses"
+      "name": "TalentLMS",
+      "url": "talentlms.com",
+      "reason": "Offers customizable learning paths"
     },
     {
-      "name": "Pluralsight",
-      "url": "pluralsight.com",
-      "reason": "Tech-focused learning paths"
+      "name": "Udemy Business",
+      "url": "business.udemy.com",
+      "reason": "Wide range of courses and topics"
     },
     {
-      "name": "LinkedIn Learning",
-      "url": "linkedin.com/learning",
-      "reason": "Integrates with professional network"
+      "name": "Coursera for Business",
+      "url": "business.coursera.org",
+      "reason": "University-level courses for businesses"
     }
   ],
   "tags": [
@@ -42,18 +42,18 @@
     "Gamification",
     "Training"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Human Resources",
   "function": "E-Learning",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
   "releasedYear": 2023,
   "websiteUrl": "https://learn.xyz/",
-  "documentationUrl": "https://learn.xyz/docs",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=learn%20xyz&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/learn_xyz.png",
-  "screenshot_640": "/screenshots/learn_xyz_640.png",
-  "screenshot_400": "/screenshots/learn_xyz_400.png",
-  "updatedAt": "2025-05-14T05:42:41.050Z"
+  "screenshot": "https://share.appsfor.us/screenshots/learn_xyz.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/learn_xyz_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/learn_xyz_400.png",
+  "updatedAt": "2025-06-01T03:22:14.857Z"
 }

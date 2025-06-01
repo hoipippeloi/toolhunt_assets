@@ -2,17 +2,17 @@
   "sourceUrl": "https://launchfa.st/",
   "name": "LaunchFast",
   "title": "launchfa.st",
-  "payoff": "Launch SaaS projects faster",
-  "shortDescription": "LaunchFast offers production-ready SaaS starter kits tailored for Astro, Next.js, and SvelteKit. Designed for developers and startups, it simplifies building SaaS applications by integrating essential features like SEO, authentication, and payments. Ideal for those looking to quickly deploy a scalable SaaS solution without reinventing the wheel.",
+  "payoff": "Launch SaaS projects quickly!",
+  "shortDescription": "LaunchFast offers production-ready SaaS starter kits for developers using Astro, Next.js, and SvelteKit. It integrates essential features like SEO, authentication, and payments to help developers focus on building customer-centric applications. Ideal for startups and indie developers looking to kickstart their project without the overhead of building from scratch.",
   "pros": [
     "Comprehensive feature integration",
-    "Supports multiple databases and storage solutions",
-    "Rapid deployment capabilities"
+    "Supports multiple databases and storage options",
+    "Pre-built components for faster development"
   ],
   "cons": [
-    "Limited to specific frameworks",
-    "May be overly complex for simple projects",
-    "Pricing could be prohibitive for hobbyists"
+    "Limited to three specific frameworks",
+    "May not suit all enterprise needs",
+    "Pricing may be prohibitive for hobbyists"
   ],
   "alternatives": [
     "Bubble [bubble.io]",
@@ -23,24 +23,24 @@
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code platform for rapid app development"
+      "reason": "Visual programming, no-code platform"
     },
     {
       "name": "AppGyver",
       "url": "appgyver.com",
-      "reason": "Visual development for full-stack apps"
+      "reason": "No-code app builder with extensive features"
     },
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Build internal tools quickly"
+      "reason": "Custom internal tools with less coding"
     }
   ],
   "tags": [
     "SaaS",
     "starter kits",
-    "software development",
-    "product management"
+    "web development",
+    "productivity"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://launchfa.st/",
-  "documentationUrl": "https://www.launchfa.st/documentation",
+  "documentationUrl": "https://launchfa.st/docs",
   "githubUrl": "https://github.com/rishi-raj-jain",
   "twitterUrl": "https://x.com/fuma_nama",
-  "screenshot": "/screenshots/launchfa_st.png",
-  "screenshot_640": "/screenshots/launchfa_st_640.png",
-  "screenshot_400": "/screenshots/launchfa_st_400.png",
-  "updatedAt": "2025-05-21T01:10:37.288Z"
+  "screenshot": "https://share.appsfor.us/screenshots/launchfa_st.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/launchfa_st_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/launchfa_st_400.png",
+  "updatedAt": "2025-06-01T03:20:11.213Z"
 }

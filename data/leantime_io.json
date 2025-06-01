@@ -2,21 +2,21 @@
   "sourceUrl": "https://leantime.io/",
   "name": "Leantime",
   "title": "leantime.io",
-  "payoff": "Project management made easy",
-  "shortDescription": "Leantime is designed for non-project managers, particularly catering to individuals with ADHD, Dyslexia, and Autism. It integrates personal organization with project management, allowing users to plan, track, and execute projects effectively. Example use case: A small business owner uses Leantime to keep track of customer feedback and manage project timelines without prior project management knowledge.",
+  "payoff": "Open Source Project Management",
+  "shortDescription": "Leantime is designed for non-project managers, particularly those with ADHD, Dyslexia, and Autism, offering a user-friendly interface and tools to manage projects effectively. It integrates personal organization with project management, allowing users to plan, track, and execute projects efficiently. Example use case: A small business owner uses Leantime to keep track of customer feedback and manage project timelines without prior project management knowledge.",
   "pros": [
-    "Open source and customizable",
-    "Supports neurodivergent individuals",
-    "Strong community and partner backing"
+    "Designed for neurodivergent individuals",
+    "Open source with strong community support",
+    "Integrates personal and project management"
   ],
   "cons": [
-    "May require initial learning curve",
-    "Limited advanced PM features for large teams",
-    "Dependent on community for updates"
+    "May lack advanced features for experienced PMs",
+    "Limited third-party integrations",
+    "Primarily tailored for small teams"
   ],
   "alternatives": [
-    "Asana [asana.com]",
     "Trello [trello.com]",
+    "Asana [asana.com]",
     "Jira [atlassian.com/software/jira]"
   ],
   "aiSuggestedAlternatives": [
@@ -26,20 +26,20 @@
       "reason": "Offers visual project management tools"
     },
     {
+      "name": "ClickUp",
+      "url": "clickup.com",
+      "reason": "Flexible, with a wide range of features"
+    },
+    {
       "name": "Basecamp",
       "url": "basecamp.com",
       "reason": "Simple, user-friendly interface"
-    },
-    {
-      "name": "ClickUp",
-      "url": "clickup.com",
-      "reason": "Flexible and feature-rich for PM"
     }
   ],
   "tags": [
     "project management",
     "open source",
-    "neurodivergence",
+    "neurodiversity",
     "productivity"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://leantime.io/docs",
   "githubUrl": "https://github.com/Leantime/leantime/issues",
   "twitterUrl": "https://x.com/intheleantime",
-  "screenshot": "/screenshots/leantime_io.png",
-  "screenshot_640": "/screenshots/leantime_io_640.png",
-  "screenshot_400": "/screenshots/leantime_io_400.png",
-  "updatedAt": "2025-05-22T04:20:50.154Z"
+  "screenshot": "https://share.appsfor.us/screenshots/leantime_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/leantime_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/leantime_io_400.png",
+  "updatedAt": "2025-06-01T03:20:58.989Z"
 }
