@@ -2,58 +2,58 @@
   "sourceUrl": "https://liftos.io",
   "name": "liftOS",
   "title": "liftos.io",
-  "payoff": "Collaborative home for your team",
-  "shortDescription": "liftOS is designed to enhance workplace efficiency by integrating AI into daily operations. It serves businesses, agencies, and freelancers by providing a unified platform for task management, document handling, and collaboration. An example use case is a small business owner who utilizes liftOS to reduce the time spent switching between applications, thus saving up to 12 hours weekly.",
+  "payoff": "Collaborative AI home for teams",
+  "shortDescription": "liftOS transforms workplaces by integrating AI, aiming to save 12 hours per week per employee. It serves businesses, agencies, and freelancers by consolidating data, tools, and team management into one AI-powered platform. Example use case: A small business owner uses liftOS to manage tasks and documents efficiently without switching between apps.",
   "pros": [
-    "Saves significant time by reducing app switching",
-    "Integrates AI for enhanced productivity",
-    "Supports collaboration across data and tools"
+    "Saves significant time by reducing context switching",
+    "Integrates with multiple tools including Google Workspace",
+    "Trusted by over 2000 businesses"
   ],
   "cons": [
     "May have a learning curve for new users",
-    "Dependent on continuous internet connectivity",
-    "Potential privacy concerns with AI handling data"
+    "Dependent on AI performance which can vary",
+    "Potential privacy concerns with AI handling sensitive data"
   ],
   "alternatives": [
     "Notion [notion.so]",
-    "Asana [asana.com]",
-    "Monday.com [monday.com]"
+    "Monday.com [monday.com]",
+    "Asana [asana.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Notion",
       "url": "notion.so",
-      "reason": "Offers flexible workspace options"
+      "reason": "Offers flexible workspace management"
     },
     {
       "name": "Trello",
       "url": "trello.com",
-      "reason": "Simple, card-based task management"
+      "reason": "Visual project management with boards"
     },
     {
-      "name": "ClickUp",
-      "url": "clickup.com",
-      "reason": "Comprehensive project and task tool"
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Enhances team communication and integration"
     }
   ],
   "tags": [
     "AI",
     "productivity",
-    "collaboration",
-    "task management"
+    "task management",
+    "collaboration"
   ],
   "apiUsed": false,
   "department": "Operations",
   "function": "Project Tools",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://liftos.io",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=liftos&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/liftos_io.png",
-  "screenshot_640": "/screenshots/liftos_io_640.png",
-  "screenshot_400": "/screenshots/liftos_io_400.png",
-  "updatedAt": "2025-05-08T09:06:31.878Z"
+  "screenshot": "https://share.appsfor.us/screenshots/liftos_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/liftos_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/liftos_io_400.png",
+  "updatedAt": "2025-06-01T04:11:48.728Z"
 }

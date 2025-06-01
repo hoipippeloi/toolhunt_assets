@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://buttercms.com/",
+  "name": "ButterCMS",
+  "title": "buttercms.com",
+  "payoff": "Build better with Butter",
+  "shortDescription": "ButterCMS is a headless content management system designed for developers and marketers. It allows users to build SEO pages, blogs, and e-commerce sites efficiently. The platform supports multilingual content and multisite management, making it ideal for enterprises and agencies managing multiple brands. An example use case is a marketing website for a SaaS product, seamlessly integrating with various tech stacks.",
+  "pros": [
+    "Supports multilingual and multisite setups",
+    "Highly rated for ease of use and support",
+    "Offers a comprehensive API for developers"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Potentially higher cost compared to basic CMS tools",
+    "Limited customization compared to open-source solutions"
+  ],
+  "alternatives": [
+    "Contentful [contentful.com]",
+    "WordPress [wordpress.org]",
+    "Sanity.io [sanity.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Contentful",
+      "url": "contentful.com",
+      "reason": "Offers rich content infrastructure"
+    },
+    {
+      "name": "Sanity.io",
+      "url": "sanity.io",
+      "reason": "Flexible and real-time CMS"
+    },
+    {
+      "name": "Ghost",
+      "url": "ghost.org",
+      "reason": "Focused on professional publishing"
+    }
+  ],
+  "tags": [
+    "headless CMS",
+    "content management",
+    "API",
+    "multilingual support"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://buttercms.com/",
+  "documentationUrl": "https://buttercms.com/docs/",
+  "githubUrl": "https://github.com/buttercms",
+  "twitterUrl": "https://x.com/buttercms",
+  "screenshot": "https://share.appsfor.us/screenshots/buttercms_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/buttercms_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/buttercms_com_400.png",
+  "updatedAt": "2025-06-01T04:13:15.401Z"
+}

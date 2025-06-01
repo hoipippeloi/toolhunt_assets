@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tyms.io/",
+  "name": "Tyms",
+  "title": "tyms.io",
+  "payoff": "Modern Accounting Simplified",
+  "shortDescription": "Tyms is an advanced accounting software designed for modern businesses. It streamlines complex financial tasks, making accounting more engaging and less error-prone. Ideal for businesses of all sizes, Tyms offers features like AI-powered bookkeeping, multi-currency support, and real-time analytics. An example use case is a multinational company managing diverse accounting needs across different regions efficiently.",
+  "pros": [
+    "AI-powered financial document processing",
+    "Real-time analytics and KPI dashboards",
+    "Supports multiple currencies and entities"
+  ],
+  "cons": [
+    "May be complex for small businesses",
+    "Potential learning curve for new users",
+    "Higher cost compared to basic tools"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "FreshBooks [freshbooks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Popular for diverse accounting needs"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong in cloud-based accounting"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Great for small business invoicing"
+    }
+  ],
+  "tags": [
+    "accounting",
+    "financial management",
+    "AI",
+    "compliance"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2022,
+  "websiteUrl": "https://tyms.io/",
+  "documentationUrl": "https://tyms.io/docs",
+  "githubUrl": "https://github.com/search?q=tyms&type=repositories",
+  "twitterUrl": "https://x.com/tyms_io",
+  "screenshot": "https://share.appsfor.us/screenshots/tyms_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tyms_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tyms_io_400.png",
+  "updatedAt": "2025-06-01T04:14:42.604Z"
+}

@@ -3,21 +3,21 @@
   "name": "Moveo.AI",
   "title": "moveo.ai",
   "payoff": "Optimize financial conversations at scale",
-  "shortDescription": "Moveo.AI specializes in automating, optimizing, and personalizing financial conversations using AI agents. It serves enterprises looking to enhance customer interactions without increasing workload. For instance, Kaizen uses Moveo.AI to manage thousands of customer support requests daily, significantly offloading their human agents.",
+  "shortDescription": "Moveo.AI specializes in automating, optimizing, and personalizing financial conversations using AI agents. Designed for financial services, it supports enterprises by handling complex customer interactions. An example use case is Kaizen, a leading iGaming company, using Moveo.AI to manage daily customer support queries across multiple countries.",
   "pros": [
     "Automates complex financial interactions",
-    "Scalable to enterprise needs",
+    "Scalable across multiple countries and languages",
     "No-code, user-friendly platform"
   ],
   "cons": [
     "May require initial setup and training",
-    "Focused primarily on financial services",
+    "Dependent on AI performance and updates",
     "Potential integration complexities with existing systems"
   ],
   "alternatives": [
     "Pega [pega.com]",
-    "Kore.ai [kore.ai]",
-    "Cognigy [cognigy.com]"
+    "Automation Anywhere [automationanywhere.com]",
+    "UiPath [uipath.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,21 +26,21 @@
       "reason": "Offers broader BPM solutions"
     },
     {
-      "name": "Kore.ai",
-      "url": "kore.ai",
-      "reason": "Focus on conversational AI"
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Focus on RPA for various industries"
     },
     {
-      "name": "Cognigy",
-      "url": "cognigy.com",
-      "reason": "Advanced NLP capabilities"
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Strong in robotic process automation"
     }
   ],
   "tags": [
     "AI",
-    "automation",
     "financial services",
-    "customer support"
+    "customer support",
+    "automation"
   ],
   "apiUsed": true,
   "department": "Customer Service",
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/moveo_ai.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/moveo_ai_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/moveo_ai_400.png",
-  "updatedAt": "2025-05-31T03:42:28.183Z"
+  "updatedAt": "2025-06-01T04:13:53.007Z"
 }

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bmrk.cc/",
+  "name": "Bookmark It",
+  "title": "bmrk.cc",
+  "payoff": "Organize and personalize bookmarks",
+  "shortDescription": "Bookmark It is a modern web tool designed to help users efficiently manage their bookmarks. It allows users to effortlessly categorize, favorite, and discover websites, making it ideal for individuals who frequently use the internet for research or leisure. Users can start with a free plan and upgrade as needed, making it scalable for different user needs.",
+  "pros": [
+    "One-click bookmarking",
+    "Free tier available",
+    "Open source"
+  ],
+  "cons": [
+    "Limited bookmarks on free plan",
+    "No API for developers",
+    "Limited import options"
+  ],
+  "alternatives": [
+    "Raindrop.io [raindrop.io]",
+    "Pocket [getpocket.com]",
+    "Diigo [diigo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Raindrop.io",
+      "url": "raindrop.io",
+      "reason": "Offers more advanced organizing features"
+    },
+    {
+      "name": "Pocket",
+      "url": "getpocket.com",
+      "reason": "Integrates with over 1500 apps"
+    },
+    {
+      "name": "Diigo",
+      "url": "diigo.com",
+      "reason": "Includes annotation tools"
+    }
+  ],
+  "tags": [
+    "bookmark management",
+    "web tool",
+    "user engagement",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://bmrk.cc/",
+  "documentationUrl": "https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy",
+  "githubUrl": "https://github.com/gokulkrishh/bmrk.cc",
+  "twitterUrl": "https://twitter.com/jamesqquick/status/1754217612173562218",
+  "screenshot": "https://share.appsfor.us/screenshots/bmrk_cc.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bmrk_cc_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bmrk_cc_400.png",
+  "updatedAt": "2025-06-01T04:12:24.288Z"
+}
