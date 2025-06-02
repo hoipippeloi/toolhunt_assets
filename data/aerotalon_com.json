@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://aerotalon.com/",
+  "name": "Aerotalon",
+  "title": "aerotalon.com",
+  "payoff": "Streamline Your Aviation Operations",
+  "shortDescription": "Aerotalon is an aviation software designed to simplify the management of charter, tour, and aviation operations. It offers features for pilot rostering, scheduling, compliance, and quoting. Users can manage all flight records, maintenance tracking, and daily operations in one central hub. An example use case is an aviation company using Aerotalon to streamline pilot scheduling and ensure compliance with aviation regulations.",
+  "pros": [
+    "Centralized data management",
+    "Real-time updates and compliance tracking",
+    "User-friendly interface for easy operation"
+  ],
+  "cons": [
+    "May be complex for small operators",
+    "Potential high cost for small businesses",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Leon Software [leonsoftware.com]",
+    "FL3XX [fl3xx.com]",
+    "Schedaero [schedaero.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Leon Software",
+      "url": "leonsoftware.com",
+      "reason": "Offers comprehensive flight management"
+    },
+    {
+      "name": "FL3XX",
+      "url": "fl3xx.com",
+      "reason": "Web-based aviation management platform"
+    },
+    {
+      "name": "Schedaero",
+      "url": "schedaero.com",
+      "reason": "Focuses on charter operations management"
+    }
+  ],
+  "tags": [
+    "aviation management",
+    "scheduling",
+    "compliance",
+    "quoting"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://aerotalon.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=aerotalon&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/aerotalon_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/aerotalon_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/aerotalon_com_400.png",
+  "updatedAt": "2025-06-02T04:05:36.292Z"
+}

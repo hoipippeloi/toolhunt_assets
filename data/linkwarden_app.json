@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://linkwarden.app/",
+  "name": "Linkwarden",
+  "title": "linkwarden.app",
+  "payoff": "Preserve webpages collaboratively",
+  "shortDescription": "Linkwarden is a collaborative tool designed for collecting and preserving webpages and documents. It enables users to organize links with collections, tags, and sub-collections, and automatically saves web content in multiple formats. Ideal for teams looking to safeguard information against link rot and ensure continued access to vital web resources. An example use case is a research team using Linkwarden to compile and maintain a digital library of resources.",
+  "pros": [
+    "Automated content preservation",
+    "Collaborative collection features",
+    "Robust tagging and organization"
+  ],
+  "cons": [
+    "Potential privacy concerns with web data",
+    "Dependence on internet connectivity",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Pocket [getpocket.com]",
+    "Diigo [diigo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Note-taking and archiving with rich media support."
+    },
+    {
+      "name": "Pocket",
+      "url": "getpocket.com",
+      "reason": "Save articles, videos for later offline access."
+    },
+    {
+      "name": "Diigo",
+      "url": "diigo.com",
+      "reason": "Web annotation and tagging for research."
+    }
+  ],
+  "tags": [
+    "web archiving",
+    "content management",
+    "collaboration",
+    "document storage"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://linkwarden.app/",
+  "documentationUrl": "https://docs.linkwarden.app/",
+  "githubUrl": "https://github.com/linkwarden/linkwarden",
+  "twitterUrl": "https://x.com/ianhowells",
+  "screenshot": "https://share.appsfor.us/screenshots/linkwarden_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/linkwarden_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/linkwarden_app_400.png",
+  "updatedAt": "2025-06-02T04:04:11.867Z"
+}
