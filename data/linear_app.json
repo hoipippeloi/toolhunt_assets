@@ -2,17 +2,17 @@
   "sourceUrl": "https://linear.app/",
   "name": "Linear",
   "title": "linear.app",
-  "payoff": "Plan and build products effectively",
-  "shortDescription": "Linear is a tool designed for modern software development teams to streamline their project management processes. It helps in planning, tracking, and managing software development tasks efficiently. Users can set product directions, track issues, and collaborate across teams. An example use case is a software development team using Linear to manage their product roadmap and handle bug tracking to improve product quality and speed up release cycles.",
+  "payoff": "Plan and build products efficiently",
+  "shortDescription": "Linear is a tool designed for modern software development, helping teams from startups to enterprises streamline their product planning and issue tracking. It offers visual planning tools, centralized documentation, and built-in updates for project health. An example use case is a tech company using Linear to manage software development cycles, track issues, and maintain a unified timeline for product releases.",
   "pros": [
-    "Streamlined project management",
-    "Integrated issue tracking",
-    "Real-time data analytics"
+    "Optimized for speed and efficiency",
+    "Integrations with various tools",
+    "Real-time data analytics for planning"
   ],
   "cons": [
-    "Potentially complex for beginners",
-    "Limited customization options",
-    "Higher learning curve than some alternatives"
+    "May be complex for small teams",
+    "Potentially overwhelming feature set",
+    "Requires adaptation for non-tech industries"
   ],
   "alternatives": [
     "Jira [atlassian.com/software/jira]",
@@ -23,24 +23,24 @@
     {
       "name": "Jira",
       "url": "atlassian.com/software/jira",
-      "reason": "Widely used for complex project management"
+      "reason": "More features for enterprise scaling"
     },
     {
       "name": "Asana",
       "url": "asana.com",
-      "reason": "Focuses on task visualization and simplicity"
+      "reason": "Focus on task and project management"
     },
     {
       "name": "Monday.com",
       "url": "monday.com",
-      "reason": "Flexible with strong visualization features"
+      "reason": "Visual project management with customization"
     }
   ],
   "tags": [
-    "project management",
+    "product management",
     "issue tracking",
-    "product development",
-    "software development"
+    "software development",
+    "project management"
   ],
   "apiUsed": true,
   "department": "Product Management",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://linear.app/docs",
   "githubUrl": "https://github.com/linear",
   "twitterUrl": "https://x.com/linear",
-  "screenshot": "/screenshots/linear_app.png",
-  "screenshot_640": "/screenshots/linear_app_640.png",
-  "screenshot_400": "/screenshots/linear_app_400.png",
-  "updatedAt": "2025-05-13T05:44:50.825Z"
+  "screenshot": "https://share.appsfor.us/screenshots/linear_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/linear_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/linear_app_400.png",
+  "updatedAt": "2025-06-02T01:15:26.086Z"
 }

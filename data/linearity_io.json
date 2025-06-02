@@ -2,8 +2,8 @@
   "sourceUrl": "https://linearity.io/",
   "name": "Linearity",
   "title": "linearity.io",
-  "payoff": "Create Stunning Designs & Animations",
-  "shortDescription": "Linearity offers a suite of design tools tailored for Apple devices, focusing on illustrators, designers, and creative professionals. The software features a modern interface that syncs across all Apple devices, enhancing productivity and creativity on the go. Key features include Auto Trace for vectorizing images and AI-powered editing tools, providing complete creative control. Ideal for creating marketing materials, branding, and digital content with customizable templates.",
+  "payoff": "Design and animate effortlessly",
+  "shortDescription": "Linearity offers a suite of beautifully designed tools specifically for Apple devices, targeting illustrators, designers, and creative professionals. Users can enjoy a seamless experience with features like Auto Trace, AI image editing, and sync across all devices. An example use case includes creating branded templates for marketing and digital content.",
   "pros": [
     "Intuitive interface designed for Apple devices",
     "Advanced features like Auto Trace and AI editing",
@@ -11,8 +11,8 @@
   ],
   "cons": [
     "Limited to Apple devices only",
-    "May have a learning curve for new users",
-    "Potential high cost for premium features"
+    "May be complex for beginners",
+    "Potential high cost for full features"
   ],
   "alternatives": [
     "Adobe Illustrator [adobe.com]",
@@ -24,24 +24,24 @@
     {
       "name": "Adobe Illustrator",
       "url": "adobe.com",
-      "reason": "Industry-standard vector graphic software"
+      "reason": "Industry standard for vector graphics"
     },
     {
       "name": "Affinity Designer",
       "url": "affinity.serif.com",
-      "reason": "Cost-effective alternative with similar features"
+      "reason": "Cost-effective alternative with robust features"
     },
     {
       "name": "Canva",
       "url": "canva.com",
-      "reason": "Simpler interface and broader template selection"
+      "reason": "Simpler interface and great for beginners"
     }
   ],
   "tags": [
     "design tools",
     "vector graphics",
     "animation",
-    "Apple integration"
+    "creative software"
   ],
   "apiUsed": false,
   "department": "Design",
@@ -53,8 +53,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=linearity&type=repositories",
   "twitterUrl": "https://twitter.com/linearityhq?utm_source=twitter&utm_medium=website&utm_campaign=website-footer",
-  "screenshot": "/screenshots/linearity_io.png",
-  "screenshot_640": "/screenshots/linearity_io_640.png",
-  "screenshot_400": "/screenshots/linearity_io_400.png",
-  "updatedAt": "2025-05-16T04:47:01.535Z"
+  "screenshot": "https://share.appsfor.us/screenshots/linearity_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/linearity_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/linearity_io_400.png",
+  "updatedAt": "2025-06-02T01:16:08.824Z"
 }

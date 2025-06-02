@@ -2,58 +2,58 @@
   "sourceUrl": "https://lin.ky/",
   "name": "Linky",
   "title": "lin.ky",
-  "payoff": "A delightfully rich link-in-bio.",
-  "shortDescription": "Linky is a versatile link-in-bio tool designed to enhance online presence for individuals and brands. It integrates seamlessly with various platforms, allowing users to display live stats, photos, videos, and more. The drag-and-drop builder makes it easy to create and customize pages that look great on both mobile and desktop. Ideal for influencers, marketers, and content creators, Linky simplifies content aggregation and page management, making it a go-to for engaging audience interaction.",
+  "payoff": "Rich link-in-bio platform",
+  "shortDescription": "Linky is a versatile link-in-bio tool designed for creators who want to centralize their online presence. It allows users to build personalized pages using a drag-and-drop builder, integrate real-time data, and manage multiple pages. Creators can showcase their latest posts, videos, and music preferences, enhancing engagement with their audience. An example use case is a musician using Linky to link fans to their latest songs, upcoming events, and merchandise store.",
   "pros": [
-    "Easy drag-and-drop page builder",
-    "Automatically updates content",
-    "Customizable design for mobile and desktop"
+    "Drag-and-drop page builder",
+    "Real-time data integrations",
+    "Custom domain usage"
   ],
   "cons": [
-    "Limited to link-in-bio functionality",
-    "May require frequent updates",
-    "Dependent on third-party platform integrations"
+    "May require basic tech knowledge",
+    "Limited design templates",
+    "No explicit free tier mentioned"
   ],
   "alternatives": [
     "Linktree [linktr.ee]",
-    "Campsite [campsite.bio]",
-    "ContactInBio [contactin.bio]"
+    "ContactInBio [contactin.bio]",
+    "Taplink [taplink.cc]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Linktree",
       "url": "linktr.ee",
-      "reason": "Popular link-in-bio tool with similar features."
+      "reason": "Popular choice with similar features"
+    },
+    {
+      "name": "Bio.fm",
+      "url": "bio.fm",
+      "reason": "Flexible layout options, different approach"
     },
     {
       "name": "Campsite",
       "url": "campsite.bio",
-      "reason": "Offers customizable bio link pages."
-    },
-    {
-      "name": "ContactInBio",
-      "url": "contactin.bio",
-      "reason": "Integrates more business tools."
+      "reason": "Offers unique customization features"
     }
   ],
   "tags": [
     "link-in-bio",
-    "content management",
     "page builder",
-    "social media integration"
+    "creator tools",
+    "personal branding"
   ],
   "apiUsed": false,
   "department": "Marketing",
   "function": "Site Builder",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://lin.ky/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/trylinky/linky",
   "twitterUrl": "https://x.com/trylinky",
-  "screenshot": "/screenshots/lin_ky.png",
-  "screenshot_640": "/screenshots/lin_ky_640.png",
-  "screenshot_400": "/screenshots/lin_ky_400.png",
-  "updatedAt": "2025-05-11T04:18:20.672Z"
+  "screenshot": "https://share.appsfor.us/screenshots/lin_ky.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lin_ky_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lin_ky_400.png",
+  "updatedAt": "2025-06-02T01:14:10.298Z"
 }
