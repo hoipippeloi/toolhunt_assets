@@ -3,16 +3,16 @@
   "name": "Logto",
   "title": "logto.io",
   "payoff": "Modern auth infrastructure for developers",
-  "shortDescription": "Logto simplifies authentication for developers by integrating multi-tenancy, enterprise SSO, and RBAC into SaaS or AI apps. It supports OIDC and OAuth 2.1, catering to a range of frameworks and offering a clean management API. Ideal for developers tired of rebuilding auth systems, Logto provides a scalable, secure solution without the usual complexities.",
+  "shortDescription": "Logto simplifies authentication for developers by integrating multi-tenancy, enterprise SSO, and RBAC into SaaS or AI apps. It supports OIDC and OAuth 2.1, ensuring a developer-friendly approach that scales from local to cloud and web to mobile. Ideal for developers tired of complex auth systems, Logto offers a straightforward, token-based, pay-as-you-go model with a robust free tier.",
   "pros": [
-    "Supports 20+ frameworks and clean Management API",
-    "Offers multi-tenancy and enterprise SSO",
-    "Free tier up to 50K MAUs"
+    "Supports 20+ frameworks with a clean Management API",
+    "Offers multi-tenancy and enterprise-grade SSO",
+    "Open-source with a strong focus on security"
   ],
   "cons": [
     "May require technical knowledge to integrate",
-    "Limited customization options for less common use cases",
-    "Dependent on third-party services for some features"
+    "Limited customization options for larger enterprises",
+    "Dependent on community for some support aspects"
   ],
   "alternatives": [
     "Auth0 [auth0.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Auth0",
       "url": "auth0.com",
-      "reason": "Offers extensive identity solutions"
+      "reason": "Popular choice with extensive integrations"
     },
     {
       "name": "Okta",
       "url": "okta.com",
-      "reason": "Widely used for enterprise SSO"
+      "reason": "Widely used for enterprise SSO solutions"
     },
     {
       "name": "OneLogin",
       "url": "onelogin.com",
-      "reason": "Provides comprehensive access management"
+      "reason": "Offers strong multi-factor authentication"
     }
   ],
   "tags": [
     "authentication",
     "security",
-    "SSO",
-    "open source"
+    "open source",
+    "developer tools"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/logto_io.png",
   "screenshot_640": "/screenshots/logto_io_640.png",
   "screenshot_400": "/screenshots/logto_io_400.png",
-  "updatedAt": "2025-05-20T04:18:55.296Z"
+  "updatedAt": "2025-06-02T03:07:18.503Z"
 }

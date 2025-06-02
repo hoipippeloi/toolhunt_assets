@@ -3,16 +3,16 @@
   "name": "Loops",
   "title": "loops.so",
   "payoff": "Email platform for SaaS",
-  "shortDescription": "Loops is an email platform designed specifically for modern software companies. It integrates seamlessly with existing tech stacks, allowing businesses to manage product, marketing, and transactional emails all through one simple interface. Ideal for designers and developers, Loops helps craft personalized, branded email communications at scale, enhancing customer journeys without compromising on deliverability.",
+  "shortDescription": "Loops is an email platform designed specifically for modern software companies. It offers a simple interface that integrates seamlessly with various tech stacks, allowing businesses to manage product, marketing, and transactional emails effectively. An example use case is a SaaS company using Loops to streamline their customer communication by automating onboarding emails and payment confirmations.",
   "pros": [
-    "Simple integration with existing tech stacks",
-    "Supports personalization and branding",
-    "Designed specifically for SaaS companies"
+    "Simple integration with tech stacks",
+    "Single interface for all email types",
+    "Features for scalable email personalization"
   ],
   "cons": [
     "Limited to email functionalities",
-    "May not suit non-SaaS businesses",
-    "No clear advanced analytics features"
+    "May not support all types of integrations",
+    "Focused primarily on SaaS companies"
   ],
   "alternatives": [
     "SendGrid [sendgrid.com]",
@@ -40,7 +40,7 @@
     "email tools",
     "SaaS",
     "customer engagement",
-    "marketing"
+    "marketing automation"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -55,5 +55,5 @@
   "screenshot": "/screenshots/loops_so.png",
   "screenshot_640": "/screenshots/loops_so_640.png",
   "screenshot_400": "/screenshots/loops_so_400.png",
-  "updatedAt": "2025-05-20T05:15:23.425Z"
+  "updatedAt": "2025-06-02T03:07:31.853Z"
 }

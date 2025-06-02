@@ -2,58 +2,58 @@
   "sourceUrl": "https://manus.im/",
   "name": "Manus",
   "title": "manus.im",
-  "payoff": "Interactive Space Exploration Hub",
-  "shortDescription": "Manus is a dynamic platform designed for space enthusiasts. It offers an immersive experience of the solar system and the history of human space exploration. Users can navigate through various sections like the solar system, space stations, and the US-Soviet space race. An example use case is educational institutions using Manus to provide students with interactive learning tools about space.",
+  "payoff": "Community-driven task sharing platform",
+  "shortDescription": "Manus is a platform where users can share tasks and projects, fostering a community-driven environment. It's designed for individuals interested in collaborative learning and project development. Users can contribute or pick up tasks, ranging from software development to educational content creation.",
   "pros": [
-    "Highly interactive and engaging",
-    "Educational and informative",
-    "Visually immersive with modern design"
+    "Encourages collaborative learning",
+    "Wide range of project types",
+    "User consent for content sharing"
   ],
   "cons": [
-    "Requires modern browser capabilities",
-    "Potentially high data usage",
-    "Complex navigation for less tech-savvy users"
+    "Depends on user contributions",
+    "Limited moderation of content",
+    "Potential for duplicated efforts"
   ],
   "alternatives": [
-    "SpaceX [spacex.com]",
-    "NASA [nasa.gov]",
-    "European Space Agency [esa.int]"
+    "Trello [trello.com]",
+    "Asana [asana.com]",
+    "Basecamp [basecamp.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Khan Academy",
-      "url": "khanacademy.org",
-      "reason": "Offers extensive educational content"
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Enhances team communication"
     },
     {
-      "name": "Coursera",
-      "url": "coursera.org",
-      "reason": "Provides online courses from universities"
+      "name": "GitHub",
+      "url": "github.com",
+      "reason": "Supports collaborative coding"
     },
     {
-      "name": "Stellarium",
-      "url": "stellarium.org",
-      "reason": "Planetarium software for star viewing"
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Flexible project management"
     }
   ],
   "tags": [
-    "education",
-    "space exploration",
-    "interactive",
-    "web platform"
+    "collaboration",
+    "project management",
+    "community",
+    "task sharing"
   ],
   "apiUsed": false,
-  "department": "Research & Development",
-  "function": "E-Learning",
+  "department": "Project Management Office",
+  "function": "Project Tools",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2023,
+  "releasedYear": 2021,
   "websiteUrl": "https://manus.im/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=manus&type=repositories",
-  "twitterUrl": "https://x.com/ManusAI_HQ",
+  "twitterUrl": null,
   "screenshot": "/screenshots/manus_im.png",
   "screenshot_640": "/screenshots/manus_im_640.png",
   "screenshot_400": "/screenshots/manus_im_400.png",
-  "updatedAt": "2025-05-15T03:41:16.049Z"
+  "updatedAt": "2025-06-02T03:08:19.962Z"
 }
