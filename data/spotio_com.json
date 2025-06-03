@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spotio.com/",
+  "name": "SPOTIO",
+  "title": "spotio.com",
+  "payoff": "Boost field sales performance",
+  "shortDescription": "SPOTIO is a field sales platform designed to automate, track, and optimize sales activities. It's tailored for both B2C and B2B sales teams aiming to increase productivity and revenue. An example use case is a sales manager using SPOTIO to monitor team activities in real-time, ensuring optimal territory coverage and customer engagement.",
+  "pros": [
+    "+40% sales rep activity",
+    "+33% increased revenue",
+    "Complete Sales Visibility"
+  ],
+  "cons": [
+    "Potentially high cost",
+    "Complexity for new users",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "Zoho CRM [zoho.com]",
+    "HubSpot Sales [hubspot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM with extensive features"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with broad integration options"
+    },
+    {
+      "name": "HubSpot Sales",
+      "url": "hubspot.com",
+      "reason": "User-friendly interface and free tier available"
+    }
+  ],
+  "tags": [
+    "sales automation",
+    "CRM",
+    "field sales",
+    "performance tracking"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://spotio.com/",
+  "documentationUrl": "https://support.spotio.com",
+  "githubUrl": "https://github.com/search?q=spotio&type=repositories",
+  "twitterUrl": "https://twitter.com/getspotio?lang=en",
+  "screenshot": "https://share.appsfor.us/screenshots/spotio_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/spotio_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/spotio_com_400.png",
+  "updatedAt": "2025-06-03T17:15:25.977Z"
+}
