@@ -2,38 +2,38 @@
   "sourceUrl": "https://mermaid.js.org/",
   "name": "Mermaid",
   "title": "mermaid.js.org",
-  "payoff": "Easy diagramming and charting tool",
-  "shortDescription": "Mermaid is a JavaScript-based tool designed to simplify the creation of diagrams and charts through Markdown-inspired text definitions. It is ideal for developers and teams who need to dynamically generate visual representations of data or workflows. An example use case is using Mermaid's Live Editor to quickly draft and share flowcharts during software development meetings.",
+  "payoff": "Create diagrams from text easily",
+  "shortDescription": "Mermaid is a JavaScript-based tool that allows users to create and dynamically modify diagrams and charts through Markdown-inspired text definitions. It is designed for developers, project managers, and educators who need to integrate visual data representation into their projects. An example use case is using Mermaid in educational content to visually represent complex data structures and algorithms.",
   "pros": [
-    "Markdown-inspired syntax simplifies diagramming",
-    "Integrates with many applications",
-    "Won 2019 JavaScript Open Source Award"
+    "Easy integration with other applications",
+    "Live editor for real-time diagram creation",
+    "Open source with a vibrant community"
   ],
   "cons": [
-    "Requires knowledge of Markdown",
-    "Primarily for developers, not general users",
-    "Limited customization options compared to specialized tools"
+    "Requires knowledge of Markdown-like syntax",
+    "Limited customization options compared to specialized tools",
+    "Primarily for developers, less intuitive for non-technical users"
   ],
   "alternatives": [
-    "Graphviz [graphviz.org]",
     "Draw.io [draw.io]",
-    "Lucidchart [lucidchart.com]"
+    "Lucidchart [lucidchart.com]",
+    "PlantUML [plantuml.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Graphviz",
-      "url": "graphviz.org",
-      "reason": "Offers robust graph visualization"
-    },
-    {
       "name": "Draw.io",
       "url": "draw.io",
-      "reason": "User-friendly interface for diagrams"
+      "reason": "Offers extensive diagramming features"
     },
     {
       "name": "Lucidchart",
       "url": "lucidchart.com",
-      "reason": "Professional diagrams with collaboration"
+      "reason": "Cloud-based with collaboration features"
+    },
+    {
+      "name": "PlantUML",
+      "url": "plantuml.com",
+      "reason": "Supports UML diagrams from plain text"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2019,
+  "releasedYear": 2014,
   "websiteUrl": "https://mermaid.js.org/",
   "documentationUrl": "https://mermaid-js.github.io/mermaid/#/",
   "githubUrl": "https://github.com/mermaid-js/mermaid/releases",
   "twitterUrl": "https://twitter.com/knutsveidqvist",
-  "screenshot": "/screenshots/mermaid_js_org.png",
-  "screenshot_640": "/screenshots/mermaid_js_org_640.png",
-  "screenshot_400": "/screenshots/mermaid_js_org_400.png",
-  "updatedAt": "2025-05-18T04:01:02.310Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mermaid_js_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mermaid_js_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mermaid_js_org_400.png",
+  "updatedAt": "2025-06-03T03:00:21.796Z"
 }

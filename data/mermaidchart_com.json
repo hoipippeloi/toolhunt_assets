@@ -2,58 +2,58 @@
   "sourceUrl": "https://mermaidchart.com/",
   "name": "Mermaid Chart",
   "title": "mermaidchart.com",
-  "payoff": "Smart diagramming with markdown",
-  "shortDescription": "Mermaid Chart offers a unique approach to creating diagrams and flowcharts using markdown-style code. It is designed for teams who need to build complex visuals quickly and efficiently. An example use case is a software development team using Mermaid to document system architectures and workflows, enhancing collaboration and understanding across the team.",
+  "payoff": "Smarter diagramming with AI & markdown",
+  "shortDescription": "Mermaid Chart leverages AI and markdown-style coding to facilitate rapid and efficient diagram creation. Designed for teams across various industries, it allows users to build complex visuals from simple text inputs. An ideal tool for engineers and project managers, it streamlines the process of creating flowcharts and other diagrams, enhancing team collaboration and project visualization.",
   "pros": [
-    "Supports markdown-style diagram creation",
-    "Features live collaboration tools",
-    "Offers an infinite digital canvas for design"
+    "Supports markdown-style code for diagrams",
+    "AI-enhanced visual creation",
+    "Real-time collaboration features"
   ],
   "cons": [
-    "May require learning markdown for new users",
-    "Potentially limited customization options",
+    "May require learning markdown",
+    "Potentially limited customization",
     "Dependent on web access for full functionality"
   ],
   "alternatives": [
     "Lucidchart [lucidchart.com]",
-    "Microsoft Visio [microsoft.com/microsoft-365/visio/flowchart-software]",
+    "Microsoft Visio [office.com]",
     "Draw.io [draw.io]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Lucidchart",
       "url": "lucidchart.com",
-      "reason": "Offers intuitive visual workflow creation"
+      "reason": "Offers advanced diagramming with collaboration."
     },
     {
       "name": "Microsoft Visio",
-      "url": "microsoft.com/microsoft-365/visio/flowchart-software",
-      "reason": "Industry standard for enterprise diagramming"
+      "url": "office.com",
+      "reason": "Integrated with Microsoft Office suite."
     },
     {
       "name": "Draw.io",
       "url": "draw.io",
-      "reason": "Free and web-based with similar features"
+      "reason": "Free and open source diagramming tool."
     }
   ],
   "tags": [
     "diagramming",
     "collaboration",
     "visualization",
-    "markdown"
+    "AI"
   ],
   "apiUsed": true,
   "department": "Information Technology",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2014,
+  "releasedYear": 2020,
   "websiteUrl": "https://mermaidchart.com/",
   "documentationUrl": "https://mermaidchart.com/docs",
   "githubUrl": "https://github.com/mermaid-js/mermaid",
   "twitterUrl": "https://twitter.com/MermaidChart",
-  "screenshot": "/screenshots/mermaidchart_com.png",
-  "screenshot_640": "/screenshots/mermaidchart_com_640.png",
-  "screenshot_400": "/screenshots/mermaidchart_com_400.png",
-  "updatedAt": "2025-05-18T04:49:44.219Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mermaidchart_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mermaidchart_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mermaidchart_com_400.png",
+  "updatedAt": "2025-06-03T03:01:53.206Z"
 }
