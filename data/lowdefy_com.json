@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lowdefy.com/",
+  "name": "Lowdefy",
+  "title": "lowdefy.com",
+  "payoff": "Config web stack on Next.js",
+  "shortDescription": "Lowdefy is a configurable web stack built on Next.js, designed to simplify the development of business applications. It allows developers and non-developers alike to build web UIs, connect to various data sources and APIs with minimal coding. An example use case includes creating business apps with role-based access and dynamic UIs, enhancing productivity and reducing development time.",
+  "pros": [
+    "Easy to use configuration schema",
+    "Extensible with NPM plugins",
+    "Supports self-hosting and multiple auth providers"
+  ],
+  "cons": [
+    "Limited to web applications",
+    "May require JavaScript knowledge for complex customizations",
+    "Dependent on the Next.js ecosystem"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code web app builder with flexibility"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "No-code app platform for professionals"
+    }
+  ],
+  "tags": [
+    "low-code",
+    "web development",
+    "Next.js",
+    "business apps"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://lowdefy.com/",
+  "documentationUrl": "https://docs.lowdefy.com",
+  "githubUrl": "https://github.com/lowdefy/lowdefy",
+  "twitterUrl": "https://twitter.com/lowdefy",
+  "screenshot": "https://share.appsfor.us/screenshots/lowdefy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lowdefy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lowdefy_com_400.png",
+  "updatedAt": "2025-06-03T03:48:44.501Z"
+}
