@@ -2,38 +2,38 @@
   "sourceUrl": "https://marketingplatform.google.com/about/analytics/",
   "name": "Google Analytics",
   "title": "marketingplatform.google.com",
-  "payoff": "Understand customer insights faster",
-  "shortDescription": "Google Analytics provides free, powerful tools to understand customer behaviors across platforms and devices. It integrates seamlessly with Google's advertising services, allowing businesses to enhance marketing ROI through actionable insights. Ideal for businesses of all sizes, it helps in optimizing marketing strategies by tracking user interactions and leveraging machine learning for predictive analytics.",
+  "payoff": "Understand customer insights faster.",
+  "shortDescription": "Google Analytics offers free, powerful tools to analyze customer interactions across various platforms and devices. It integrates seamlessly with Google's advertising services, allowing businesses to enhance marketing ROI by leveraging real-time data and machine learning insights. Suitable for businesses of all sizes, it helps in optimizing marketing strategies and improving user experiences.",
   "pros": [
     "Free and easy to use",
-    "Integrates with Google advertising",
-    "Real-time data and machine learning"
+    "Integrates with Google's advertising services",
+    "Real-time data and machine learning insights"
   ],
   "cons": [
-    "Complex for beginners",
-    "Privacy concerns",
-    "Dependent on Google ecosystem"
+    "Can be complex for beginners",
+    "Privacy concerns with data handling",
+    "Limited customization in the free version"
   ],
   "alternatives": [
-    "Mixpanel [mixpanel.com]",
     "Adobe Analytics [adobe.com]",
-    "Piwik PRO [piwik.pro]"
+    "Mixpanel [mixpanel.com]",
+    "Heap Analytics [heap.io]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Mixpanel",
-      "url": "mixpanel.com",
-      "reason": "Offers event tracking and segmentation"
-    },
-    {
       "name": "Adobe Analytics",
       "url": "adobe.com",
-      "reason": "Comprehensive enterprise-level analytics"
+      "reason": "Offers deeper marketing insights"
     },
     {
-      "name": "Piwik PRO",
-      "url": "piwik.pro",
-      "reason": "Focus on privacy and full data ownership"
+      "name": "Mixpanel",
+      "url": "mixpanel.com",
+      "reason": "Focus on user interaction tracking"
+    },
+    {
+      "name": "Heap Analytics",
+      "url": "heap.io",
+      "reason": "Automates data capture uniquely"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2005,
   "websiteUrl": "https://marketingplatform.google.com/about/analytics/",
-  "documentationUrl": "https://developers.google.com/analytics",
+  "documentationUrl": "https://support.google.com/analytics",
   "githubUrl": "https://github.com/search?q=google%20analytics&type=repositories",
   "twitterUrl": "https://twitter.com/GMktgPlatform",
-  "screenshot": "/screenshots/marketingplatform_google_com.png",
-  "screenshot_640": "/screenshots/marketingplatform_google_com_640.png",
-  "screenshot_400": "/screenshots/marketingplatform_google_com_400.png",
-  "updatedAt": "2025-05-10T10:14:43.656Z"
+  "screenshot": "https://share.appsfor.us/screenshots/marketingplatform_google_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/marketingplatform_google_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/marketingplatform_google_com_400.png",
+  "updatedAt": "2025-06-03T01:11:28.288Z"
 }

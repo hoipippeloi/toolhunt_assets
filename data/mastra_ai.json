@@ -3,37 +3,37 @@
   "name": "Mastra",
   "title": "mastra.ai",
   "payoff": "Prototype AI with JavaScript",
-  "shortDescription": "Mastra is a TypeScript-based framework designed to streamline the development of AI features using a modern JavaScript stack. It is particularly suited for developers looking to quickly prototype and deploy AI agents. An example use case could be building intelligent agents that manage customer interactions on e-commerce platforms, enhancing both efficiency and customer experience.",
+  "shortDescription": "Mastra is a TypeScript AI framework designed to help developers prototype and productionize AI features using a modern JavaScript stack. It is ideal for developers familiar with JavaScript who want to integrate AI capabilities into their applications. An example use case could be building intelligent agents that manage tasks and access knowledge bases efficiently.",
   "pros": [
-    "Easy to use SDK",
-    "Modern JavaScript integration",
-    "Supports persistent memory in threads"
+    "Easy and developer-friendly SDK",
+    "Supports persistent memory within threads",
+    "Built by the experienced team behind Gatsby"
   ],
   "cons": [
-    "Limited to TypeScript",
-    "May require JavaScript knowledge",
-    "Focused primarily on AI agents"
+    "Limited to JavaScript/TypeScript developers",
+    "May not suit non-web based AI applications",
+    "Lack of information on scalability and performance"
   ],
   "alternatives": [
-    "OpenAI [openai.com]",
-    "TensorFlow.js [tensorflow.org]",
-    "Microsoft Bot Framework [dev.botframework.com]"
+    "OpenAI GPT [openai.com]",
+    "Rasa [rasa.com]",
+    "Dialogflow [dialogflow.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI",
+      "name": "OpenAI GPT",
       "url": "openai.com",
-      "reason": "Offers comprehensive AI models"
+      "reason": "Leading AI with advanced capabilities"
     },
     {
-      "name": "TensorFlow.js",
-      "url": "tensorflow.org",
-      "reason": "Client-side ML in JavaScript"
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source and highly customizable"
     },
     {
-      "name": "Microsoft Bot Framework",
-      "url": "dev.botframework.com",
-      "reason": "Builds versatile AI bots"
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Strong integration with Google services"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "AI & ML",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://mastra.ai/",
   "documentationUrl": "https://mastra.ai/docs",
   "githubUrl": "https://github.com/mastra-ai/mastra",
   "twitterUrl": "https://x.com/RichardsonDx/status/1894228136486687145",
-  "screenshot": "/screenshots/mastra_ai.png",
-  "screenshot_640": "/screenshots/mastra_ai_640.png",
-  "screenshot_400": "/screenshots/mastra_ai_400.png",
-  "updatedAt": "2025-05-11T02:58:57.812Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mastra_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mastra_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mastra_ai_400.png",
+  "updatedAt": "2025-06-03T01:12:07.225Z"
 }

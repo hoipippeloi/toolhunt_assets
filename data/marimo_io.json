@@ -2,17 +2,17 @@
   "sourceUrl": "https://marimo.io/",
   "name": "marimo",
   "title": "marimo.io",
-  "payoff": "Reactive Python notebooks made easy",
-  "shortDescription": "marimo is an innovative open-source Python notebook designed for modern developers. It integrates seamlessly with Git, supports reactive execution, and allows for the creation of interactive notebooks that can be shared as web apps. Ideal for data scientists and developers, marimo simplifies the process from development to production, making it easier to manage and share complex Python projects.",
+  "payoff": "Next-gen Python notebook platform",
+  "shortDescription": "marimo is an innovative open-source Python notebook that enhances the developer experience by integrating features like git-friendly workflows, SQL support, and reactive execution. Designed for modern developers, marimo allows for rapid prototyping and seamless transition from development to production. It stores notebooks as .py files, supports versioning with Git, and offers advanced UI elements for interactive data exploration. An ideal tool for developers looking to streamline their coding and collaboration processes.",
   "pros": [
-    "Git integration for easy version control",
-    "Reactive execution to automate cell updates",
-    "Export options to WebAssembly for web sharing"
+    "Open-source with Git integration",
+    "Reactive execution of cells",
+    "Export notebooks to WebAssembly"
   ],
   "cons": [
-    "Limited language support, only Python",
-    "Potentially steep learning curve for beginners",
-    "Dependency on Python ecosystem for full functionality"
+    "Python-specific, not multi-language",
+    "Potential learning curve for new features",
+    "Limited community compared to older tools"
   ],
   "alternatives": [
     "Jupyter Notebook [jupyter.org]",
@@ -23,17 +23,17 @@
     {
       "name": "Jupyter Notebook",
       "url": "jupyter.org",
-      "reason": "Popular, versatile notebook tool"
+      "reason": "Widely used, supports multiple languages"
     },
     {
       "name": "Google Colab",
       "url": "colab.research.google.com",
-      "reason": "Cloud-based with free GPU access"
+      "reason": "Free cloud service, integrates with Google Drive"
     },
     {
       "name": "Observable",
       "url": "observablehq.com",
-      "reason": "Interactive data visualization focus"
+      "reason": "Interactive data visualization and collaboration"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://marimo.io/docs",
   "githubUrl": "https://github.com/marimo-team/marimo",
   "twitterUrl": "https://x.com/antgoldbloom/status/1819413855078175020",
-  "screenshot": "/screenshots/marimo_io.png",
-  "screenshot_640": "/screenshots/marimo_io_640.png",
-  "screenshot_400": "/screenshots/marimo_io_400.png",
-  "updatedAt": "2025-05-10T01:05:39.416Z"
+  "screenshot": "https://share.appsfor.us/screenshots/marimo_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/marimo_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/marimo_io_400.png",
+  "updatedAt": "2025-06-03T01:10:46.194Z"
 }

@@ -2,44 +2,44 @@
   "sourceUrl": "https://maybefinance.com/",
   "name": "Maybe Finance",
   "title": "maybefinance.com",
-  "payoff": "Turn your maybe into a sure thing",
-  "shortDescription": "Maybe Finance is a comprehensive personal finance app designed to simplify budgeting, transaction management, and financial tracking for individuals. Users can link all their assets and debts, automate and edit transactions effortlessly, and set financial limits. Ideal for anyone looking to streamline their financial life, an example use case could be a freelancer managing their income and expenses to optimize savings and expenditures.",
+  "payoff": "Finance app for everyone",
+  "shortDescription": "Maybe Finance is a comprehensive personal finance app designed to cater to the needs of individuals seeking to manage their finances efficiently. It allows users to track assets and debts, handle transactions, and set budgeting goals effortlessly. Ideal for those looking to gain control over their financial life, Maybe Finance offers tools like an AI assistant for quick financial queries and robust security features for data protection.",
   "pros": [
-    "Comprehensive asset and debt tracking",
-    "Automated transaction editing",
+    "Comprehensive financial tracking",
+    "AI-powered assistant for quick queries",
     "High-level security and transparency"
   ],
   "cons": [
-    "May be complex for beginners",
-    "Potential privacy concerns with data linking",
-    "Limited customization options"
+    "Potential complexity for new users",
+    "Dependence on digital proficiency",
+    "Limited physical customer support"
   ],
   "alternatives": [
     "Mint [mint.com]",
-    "Personal Capital [personalcapital.com]",
-    "YNAB [youneedabudget.com]"
+    "You Need A Budget [ynab.com]",
+    "Personal Capital [personalcapital.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Mint",
       "url": "mint.com",
-      "reason": "Offers budgeting with real-time updates."
+      "reason": "Popular for budget tracking and alerts"
+    },
+    {
+      "name": "You Need A Budget",
+      "url": "ynab.com",
+      "reason": "Focuses on budgeting and financial planning"
     },
     {
       "name": "Personal Capital",
       "url": "personalcapital.com",
-      "reason": "Focuses on wealth and investment management."
-    },
-    {
-      "name": "YNAB",
-      "url": "youneedabudget.com",
-      "reason": "Emphasizes budget planning and debt reduction."
+      "reason": "Wealth management with investment focus"
     }
   ],
   "tags": [
     "personal finance",
     "budgeting",
-    "security",
+    "AI",
     "open source"
   ],
   "apiUsed": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/maybe-finance/maybe",
   "twitterUrl": "https://x.com/maybe",
-  "screenshot": "/screenshots/maybefinance_com.png",
-  "screenshot_640": "/screenshots/maybefinance_com_640.png",
-  "screenshot_400": "/screenshots/maybefinance_com_400.png",
-  "updatedAt": "2025-05-12T14:46:45.927Z"
+  "screenshot": "https://share.appsfor.us/screenshots/maybefinance_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/maybefinance_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/maybefinance_com_400.png",
+  "updatedAt": "2025-06-03T01:12:49.159Z"
 }

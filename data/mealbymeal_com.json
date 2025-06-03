@@ -2,17 +2,17 @@
   "sourceUrl": "https://mealbymeal.com/",
   "name": "MealByMeal",
   "title": "mealbymeal.com",
-  "payoff": "Calorie Tracking over Text Message",
-  "shortDescription": "MealByMeal simplifies calorie tracking by allowing users to log meals via text messages. It targets individuals looking to manage their weight without the hassle of traditional calorie counting apps. Users simply text what they eat, and the system automatically logs it, supporting healthier eating habits and weight management. Example use case: A user wants to maintain a diet but finds apps like MyFitnessPal cumbersome. They switch to MealByMeal for easier tracking.",
+  "payoff": "Calorie Tracking over Text",
+  "shortDescription": "MealByMeal simplifies calorie tracking by allowing users to log meals via text messages. It targets individuals struggling with traditional calorie counting apps, providing a more accessible and less time-consuming method. Users text their meals to a dedicated number, and the service automatically logs the calories. This tool is ideal for those who want to maintain a diet without the hassle of manual entry, making it perfect for busy individuals or those less tech-savvy.",
   "pros": [
     "Quick and easy meal logging via text",
-    "Automatic conversion of units and food tracking at restaurants",
+    "Automatic conversion of units and food tracking",
     "Supports multiple languages for broader accessibility"
   ],
   "cons": [
-    "Limited to text-based input which might not be as detailed",
-    "Only supports texting from the US without additional fees",
-    "Lower accuracy in non-English languages"
+    "Limited to text-based interaction",
+    "Accuracy may vary with complex meal descriptions",
+    "Primarily supports English with optimal accuracy"
   ],
   "alternatives": [
     "MyFitnessPal [myfitnesspal.com]",
@@ -23,24 +23,24 @@
     {
       "name": "MyFitnessPal",
       "url": "myfitnesspal.com",
-      "reason": "Popular for detailed diet tracking"
+      "reason": "Comprehensive diet tracking with a large food database"
     },
     {
       "name": "Lose It!",
       "url": "loseit.com",
-      "reason": "Focuses on calorie budgeting"
+      "reason": "Focuses on calorie counting with a vibrant community"
     },
     {
       "name": "Cronometer",
       "url": "cronometer.com",
-      "reason": "Tracks nutrition and biometrics"
+      "reason": "Detailed nutrition analysis and tracking"
     }
   ],
   "tags": [
     "health",
     "nutrition tracking",
-    "weight management",
-    "mobile app"
+    "AI",
+    "mobile"
   ],
   "apiUsed": false,
   "department": "Health & Wellness",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=mealbymeal&type=repositories",
   "twitterUrl": "https://twitter.com/mealbymeal",
-  "screenshot": "/screenshots/mealbymeal_com.png",
-  "screenshot_640": "/screenshots/mealbymeal_com_640.png",
-  "screenshot_400": "/screenshots/mealbymeal_com_400.png",
-  "updatedAt": "2025-05-14T05:16:12.308Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mealbymeal_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mealbymeal_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mealbymeal_com_400.png",
+  "updatedAt": "2025-06-03T01:13:29.148Z"
 }
