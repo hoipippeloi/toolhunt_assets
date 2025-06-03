@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://focuskeeper.co/",
+  "name": "Focus Keeper",
+  "title": "focuskeeper.co",
+  "payoff": "Maximize productivity with Pomodoro!",
+  "shortDescription": "Focus Keeper utilizes the Pomodoro Technique to help users manage their work and break times effectively. Ideal for professionals and students alike, it allows users to set a timer for focused work sessions followed by short breaks. This method boosts productivity and prevents burnout. Example use: A developer uses Focus Keeper to maintain intense coding sessions with regular breaks to refresh.",
+  "pros": [
+    "Enhances productivity using the Pomodoro technique",
+    "Simple and user-friendly interface",
+    "Tracks progress over time"
+  ],
+  "cons": [
+    "Limited to time management features",
+    "May not suit all work types",
+    "No detailed analytics or reporting"
+  ],
+  "alternatives": [
+    "Tomato Timer [tomato-timer.com]",
+    "Be Focused [xwavesoft.com]",
+    "Marinara Timer [marinaratimer.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tomato Timer",
+      "url": "tomato-timer.com",
+      "reason": "Simple Pomodoro timer with minimal setup."
+    },
+    {
+      "name": "Be Focused",
+      "url": "xwavesoft.com",
+      "reason": "Integrates task management with Pomodoro."
+    },
+    {
+      "name": "Marinara Timer",
+      "url": "marinaratimer.com",
+      "reason": "Offers customizable Pomodoro lengths."
+    }
+  ],
+  "tags": [
+    "productivity",
+    "time management",
+    "Pomodoro technique",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://focuskeeper.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=focus%20keeper&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/focuskeeper_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/focuskeeper_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/focuskeeper_co_400.png",
+  "updatedAt": "2025-06-03T17:42:35.937Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://headspace.com/",
+  "name": "Headspace",
+  "title": "headspace.com",
+  "payoff": "Meditation and Sleep Made Simple",
+  "shortDescription": "Headspace is a comprehensive mental health platform offering meditation, mindfulness, and sleep resources. Designed to help individuals manage stress, anxiety, and improve overall well-being, Headspace is ideal for anyone seeking mental balance. Users can access guided meditations, sleep aids, and professional mental health support through an easy-to-use app.",
+  "pros": [
+    "Wide range of mental health resources",
+    "Expert-led guided meditations",
+    "Supports both individual and organizational needs"
+  ],
+  "cons": [
+    "Subscription-based with auto-renewal",
+    "Limited free tier offerings",
+    "Primarily app-based, which may not suit all users"
+  ],
+  "alternatives": [
+    "Calm [calm.com]",
+    "BetterHelp [betterhelp.com]",
+    "Talkspace [talkspace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Calm",
+      "url": "calm.com",
+      "reason": "Offers similar mindfulness and sleep tools"
+    },
+    {
+      "name": "BetterHelp",
+      "url": "betterhelp.com",
+      "reason": "Provides online therapy with professionals"
+    },
+    {
+      "name": "Talkspace",
+      "url": "talkspace.com",
+      "reason": "Online therapy and psychiatric services"
+    }
+  ],
+  "tags": [
+    "mental health",
+    "meditation",
+    "mindfulness",
+    "sleep aid"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://headspace.com/",
+  "documentationUrl": "https://help.headspace.com/?origin=navigation",
+  "githubUrl": "https://github.com/search?q=headspace&type=repositories",
+  "twitterUrl": "https://twitter.com/Headspace",
+  "screenshot": "https://share.appsfor.us/screenshots/headspace_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/headspace_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/headspace_com_400.png",
+  "updatedAt": "2025-06-03T17:46:01.399Z"
+}

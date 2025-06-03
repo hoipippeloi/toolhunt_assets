@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://thefabulous.co/",
+  "name": "The Fabulous",
+  "title": "thefabulous.co",
+  "payoff": "Build better habits & achieve goals",
+  "shortDescription": "The Fabulous is a digital coach that helps users establish and maintain healthy habits through structured routines and expert coaching. It's designed for individuals looking to improve their productivity and well-being. Users can access a variety of tools such as a coaching library, personal coaching sessions, and community support to enhance their daily life and achieve personal goals.",
+  "pros": [
+    "Personalized coaching sessions",
+    "Extensive library of on-demand coaching",
+    "Community support for motivation"
+  ],
+  "cons": [
+    "May require subscription for full features",
+    "Limited to self-improvement focus",
+    "Potential dependency on app for routine"
+  ],
+  "alternatives": [
+    "Headspace [headspace.com]",
+    "Calm [calm.com]",
+    "Habitica [habitica.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Headspace",
+      "url": "headspace.com",
+      "reason": "Focuses on meditation for habit improvement"
+    },
+    {
+      "name": "Calm",
+      "url": "calm.com",
+      "reason": "Provides relaxation and sleep support"
+    },
+    {
+      "name": "Habitica",
+      "url": "habitica.com",
+      "reason": "Gamifies habit formation and productivity"
+    }
+  ],
+  "tags": [
+    "habit building",
+    "self-improvement",
+    "productivity",
+    "wellness"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://thefabulous.co/",
+  "documentationUrl": "https://help.thefabulous.co/en/support/home",
+  "githubUrl": "https://github.com/search?q=the%20fabulous&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/thefabulous_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/thefabulous_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/thefabulous_co_400.png",
+  "updatedAt": "2025-06-03T17:46:49.905Z"
+}

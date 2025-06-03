@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://waveapps.com/",
+  "name": "Wave",
+  "title": "waveapps.com",
+  "payoff": "Manage money like a boss",
+  "shortDescription": "Wave is a comprehensive financial platform designed specifically for small business owners and solopreneurs. It simplifies the creation of invoices, managing online payments, and streamlining accounting processes. An example use case is a freelance graphic designer using Wave to issue invoices, track payments, and manage expenses efficiently.",
+  "pros": [
+    "Integrated invoicing and payment solutions",
+    "User-friendly interface for non-accountants",
+    "Free basic services with no hidden costs"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially slower customer support",
+    "No advanced features for larger businesses"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "FreshBooks [freshbooks.com]",
+    "Xero [xero.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used for comprehensive accounting needs"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Focuses on invoicing and financial reporting"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong features for growing businesses"
+    }
+  ],
+  "tags": [
+    "financial management",
+    "invoicing",
+    "accounting",
+    "small business"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://waveapps.com/",
+  "documentationUrl": "https://support.waveapps.com/hc/en-us",
+  "githubUrl": "https://github.com/search?q=wave&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/waveapps_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/waveapps_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/waveapps_com_400.png",
+  "updatedAt": "2025-06-03T17:44:23.413Z"
+}

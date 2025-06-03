@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sketch.com/",
+  "name": "Sketch",
+  "title": "sketch.com",
+  "payoff": "Design, prototype, collaborate easily",
+  "shortDescription": "Sketch is a design toolkit tailored for designers to enhance their creative process. It focuses on user-friendly interfaces and powerful features, allowing users to create detailed prototypes and collaborate seamlessly. An example use case is a designer using Sketch to prototype a new mobile app interface, testing interactions and sharing with the development team for immediate feedback.",
+  "pros": [
+    "Intuitive user interface",
+    "Robust prototyping capabilities",
+    "Strong collaboration features"
+  ],
+  "cons": [
+    "MacOS only, limiting user base",
+    "No web version available",
+    "Can be resource-intensive"
+  ],
+  "alternatives": [
+    "Adobe XD [adobe.com]",
+    "Figma [figma.com]",
+    "InVision [invisionapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers cloud collaboration features"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Web-based with real-time collaboration"
+    },
+    {
+      "name": "InVision",
+      "url": "invisionapp.com",
+      "reason": "Focuses on interactive mockups"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "prototyping",
+    "collaboration",
+    "macOS software"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://sketch.com/",
+  "documentationUrl": "https://sketch.com/docs/",
+  "githubUrl": "https://github.com/search?q=sketch&type=repositories",
+  "twitterUrl": "https://x.com/sketch",
+  "screenshot": "https://share.appsfor.us/screenshots/sketch_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sketch_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sketch_com_400.png",
+  "updatedAt": "2025-06-03T17:43:27.011Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bigcommerce.com/essentials/",
+  "name": "BigCommerce",
+  "title": "bigcommerce.com",
+  "payoff": "Ecommerce for Growing Brands",
+  "shortDescription": "BigCommerce is a leading ecommerce platform designed to help businesses of all sizes create and manage their online stores effectively. It offers tools for designing storefronts, processing payments, and marketing products. Ideal for both small businesses and enterprise-level operations, BigCommerce supports expansion into new markets including B2B. An example use case is a retailer looking to establish an online presence and expand their sales channels globally.",
+  "pros": [
+    "Scalable platform for all business sizes",
+    "Integrated marketing and conversion tools",
+    "Extensive partner ecosystem"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Potentially high cost for advanced features",
+    "Limited customization without coding"
+  ],
+  "alternatives": [
+    "Shopify [shopify.com]",
+    "Magento [magento.com]",
+    "WooCommerce [woocommerce.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Popular choice with extensive themes"
+    },
+    {
+      "name": "Magento",
+      "url": "magento.com",
+      "reason": "Flexible for developers"
+    },
+    {
+      "name": "WooCommerce",
+      "url": "woocommerce.com",
+      "reason": "WordPress integration, highly customizable"
+    }
+  ],
+  "tags": [
+    "ecommerce",
+    "online store",
+    "scalability",
+    "marketing"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://bigcommerce.com/essentials/",
+  "documentationUrl": "https://developer.bigcommerce.com/",
+  "githubUrl": "https://github.com/search?q=bigcommerce&type=repositories",
+  "twitterUrl": "https://twitter.com/Bigcommerce/",
+  "screenshot": "https://share.appsfor.us/screenshots/bigcommerce_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bigcommerce_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bigcommerce_com_400.png",
+  "updatedAt": "2025-06-03T17:45:06.612Z"
+}
