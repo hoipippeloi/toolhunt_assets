@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://onlook.com/",
+  "name": "Onlook",
+  "title": "onlook.com",
+  "payoff": "Cursor for Designers",
+  "shortDescription": "Onlook is a cutting-edge tool designed specifically for web and software designers. It allows users to own their code while providing a platform to build, design, and experiment interactively. An example use case is a designer using Onlook to adjust layouts, change colors, and modify text on a web application without any setup required, enhancing both productivity and creativity.",
+  "pros": [
+    "Interactive design adjustments",
+    "No setup required",
+    "Reliable code generation"
+  ],
+  "cons": [
+    "Currently in Alpha release",
+    "Limited platform support (Apple Silicon & Windows only)",
+    "No clear pricing information"
+  ],
+  "alternatives": [
+    "Figma [figma.com]",
+    "Sketch [sketch.com]",
+    "Adobe XD [adobe.com/products/xd.html]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Popular for UI/UX design with collaboration features"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Vector-based design tool for Mac users"
+    },
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com/products/xd.html",
+      "reason": "Comprehensive toolset for design and prototyping"
+    }
+  ],
+  "tags": [
+    "Design Tools",
+    "Desktop Software",
+    "Web Development",
+    "Code-Free"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://onlook.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/onlook-dev/studio",
+  "twitterUrl": "https://x.com/koder_dev/status/1884179672847847522",
+  "screenshot": "https://share.appsfor.us/screenshots/onlook_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/onlook_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/onlook_com_400.png",
+  "updatedAt": "2025-06-03T14:00:28.602Z"
+}
