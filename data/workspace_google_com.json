@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workspace.google.com/products/sheets/",
+  "name": "Google Sheets",
+  "title": "workspace.google.com",
+  "payoff": "Collaborative online spreadsheets",
+  "shortDescription": "Google Sheets is a powerful online spreadsheet tool that enables users to create, manage, and analyze data collaboratively. Ideal for businesses and individuals alike, it supports real-time co-editing and offers advanced features like AI-driven data analysis with Gemini. Use cases include project management, data visualization, and inventory tracking.",
+  "pros": [
+    "Real-time collaboration across devices",
+    "Advanced AI features with Gemini",
+    "Integration with other Google Workspace tools"
+  ],
+  "cons": [
+    "Dependent on internet connectivity",
+    "May not handle extremely large datasets as efficiently as desktop software",
+    "Limited customization compared to some desktop alternatives"
+  ],
+  "alternatives": [
+    "Microsoft Excel [office.com]",
+    "Zoho Sheets [zoho.com]",
+    "Smartsheet [smartsheet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Excel",
+      "url": "office.com",
+      "reason": "Offers extensive features & offline access"
+    },
+    {
+      "name": "Zoho Sheets",
+      "url": "zoho.com",
+      "reason": "Provides additional CRM features"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Focuses on project management integration"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "data analysis",
+    "spreadsheet",
+    "cloud-based"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://workspace.google.com/products/sheets/",
+  "documentationUrl": "https://support.google.com/a/users/answer/9300025",
+  "githubUrl": "https://github.com/search?q=google%20sheets&type=repositories",
+  "twitterUrl": "https://x.com/GoogleCloud_SG",
+  "screenshot": "https://share.appsfor.us/screenshots/workspace_google_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/workspace_google_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/workspace_google_com_400.png",
+  "updatedAt": "2025-06-04T08:24:05.770Z"
+}

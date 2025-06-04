@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://snap.com/",
+  "name": "Snap",
+  "title": "snap.com",
+  "payoff": "Empowering expression through the camera",
+  "shortDescription": "Snap Inc. is a technology company that leverages the camera to enhance communication and expression. Targeted at a diverse audience, including designers, engineers, and everyday users, Snap allows individuals to create their Bitmoji and interact funnily and safely. An example use case is using Snap's AR capabilities to engage with friends in a virtual space, enhancing social interactions with creative and interactive elements.",
+  "pros": [
+    "Enhances creative expression",
+    "Safe environment for interaction",
+    "Continuous improvement towards ESG goals"
+  ],
+  "cons": [
+    "Privacy concerns with camera access",
+    "Potential for addictive usage",
+    "Limited to camera-based interactions"
+  ],
+  "alternatives": [
+    "Instagram [instagram.com]",
+    "TikTok [tiktok.com]",
+    "Pinterest [pinterest.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Instagram",
+      "url": "instagram.com",
+      "reason": "Offers extensive social and media sharing features"
+    },
+    {
+      "name": "TikTok",
+      "url": "tiktok.com",
+      "reason": "Popular for short video creation and sharing"
+    },
+    {
+      "name": "Pinterest",
+      "url": "pinterest.com",
+      "reason": "Focuses on image sharing and inspiration"
+    }
+  ],
+  "tags": [
+    "social media",
+    "augmented reality",
+    "communication",
+    "camera technology"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://snap.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=snap&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/snap_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/snap_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/snap_com_400.png",
+  "updatedAt": "2025-06-04T08:23:26.902Z"
+}
