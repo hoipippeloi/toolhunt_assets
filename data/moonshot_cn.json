@@ -3,47 +3,47 @@
   "name": "Moonshot AI",
   "title": "moonshot.cn",
   "payoff": "Transforming energy into intelligence",
-  "shortDescription": "Moonshot AI specializes in leveraging advanced artificial intelligence to transform energy management and optimization. Designed for energy sector professionals and tech enthusiasts, it offers solutions that enhance efficiency and reduce operational costs. An example use case involves using Moonshot AI to predict energy demand and optimize grid performance in real-time.",
+  "shortDescription": "Moonshot AI is a cutting-edge tool designed to harness the power of artificial intelligence to transform energy management and optimization. It is ideal for businesses looking to improve their energy efficiency through smart technology. An example use case would be a manufacturing company using Moonshot AI to reduce energy costs and enhance operational efficiency by intelligently managing their power consumption.",
   "pros": [
-    "Advanced AI algorithms",
-    "Real-time data processing",
-    "Cost-effective energy solutions"
+    "Advanced AI capabilities",
+    "Energy efficiency improvement",
+    "Cost-effective solutions"
   ],
   "cons": [
-    "Limited language support",
-    "High initial setup cost",
-    "Requires technical expertise"
+    "Potential complexity in integration",
+    "Requires technical expertise",
+    "Limited customer support"
   ],
   "alternatives": [
-    "DeepMind AI [deepmind.com]",
-    "IBM Watson [ibm.com/watson]",
-    "OpenAI [openai.com]"
+    "IBM Watson [ibm.com]",
+    "Google AI [google.com]",
+    "Microsoft AI [microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "DeepMind AI",
-      "url": "deepmind.com",
-      "reason": "Pioneers in AI for various applications"
-    },
-    {
       "name": "IBM Watson",
-      "url": "ibm.com/watson",
-      "reason": "Offers broad AI solutions across industries"
+      "url": "ibm.com",
+      "reason": "Offers robust AI solutions for various industries"
     },
     {
-      "name": "OpenAI",
-      "url": "openai.com",
-      "reason": "Leading in innovative AI technologies"
+      "name": "Google AI",
+      "url": "google.com",
+      "reason": "Wide range of AI tools and APIs available"
+    },
+    {
+      "name": "Microsoft AI",
+      "url": "microsoft.com",
+      "reason": "Integrates with existing Microsoft products"
     }
   ],
   "tags": [
     "AI",
     "energy management",
-    "data analytics",
-    "real-time"
+    "smart technology",
+    "data analytics"
   ],
   "apiUsed": true,
-  "department": "Research & Development",
+  "department": "Operations",
   "function": "AI & ML",
   "freeTier": false,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://moonshot.cn/docs",
   "githubUrl": "https://github.com/search?q=moonshot%20ai&type=repositories",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/moonshot_cn.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/moonshot_cn_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/moonshot_cn_400.png",
-  "updatedAt": "2025-06-04T08:06:50.705Z"
+  "screenshot": "/screenshots/moonshot_cn.png",
+  "screenshot_640": "/screenshots/moonshot_cn_640.png",
+  "screenshot_400": "/screenshots/moonshot_cn_400.png",
+  "updatedAt": "2025-05-20T03:40:53.088Z"
 }

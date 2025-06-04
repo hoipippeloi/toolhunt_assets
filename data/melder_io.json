@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://melder.io/",
+  "name": "Melder",
+  "title": "melder.io",
+  "payoff": "AI upgrade for Excel",
+  "shortDescription": "Melder is an Excel add-in designed to enhance productivity by integrating AI capabilities directly into Excel. It allows users to automate tasks such as data extraction, summarization, and classification from various sources without needing to code. Ideal for professionals in data-heavy roles, Melder can transform how financial analysts, marketers, and researchers handle data, making tasks like analyzing earnings calls or tracking market trends more efficient.",
+  "pros": [
+    "Automates complex data analysis tasks",
+    "Integrates AI directly into Excel",
+    "Supports a wide range of data sources"
+  ],
+  "cons": [
+    "Limited to Excel users",
+    "Potential privacy concerns with data handling",
+    "Dependent on Excel's limitations"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Google Sheets with AI [workspace.google.com/products/sheets/]",
+    "Zoho Analytics [zoho.com/analytics]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Visual analytics platform"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates with MS products"
+    },
+    {
+      "name": "Alteryx",
+      "url": "alteryx.com",
+      "reason": "Advanced analytics tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Excel",
+    "data analysis",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://melder.io/",
+  "documentationUrl": "https://melder.io/documentation",
+  "githubUrl": "https://github.com/search?q=melder&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/melder_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/melder_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/melder_io_400.png",
+  "updatedAt": "2025-06-04T08:18:51.963Z"
+}

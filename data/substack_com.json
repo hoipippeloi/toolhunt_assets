@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://substack.com/",
+  "name": "Substack",
+  "title": "substack.com",
+  "payoff": "Own your content and audience",
+  "shortDescription": "Substack provides a platform for writers and creators to publish newsletters and earn from subscriptions. It's designed for independent journalists, bloggers, and anyone interested in sharing their thoughts directly with an audience. Users can monetize their content by setting up paid subscriptions, while maintaining full control over their mailing list and intellectual property.",
+  "pros": [
+    "Full editorial control",
+    "Direct monetization through subscriptions",
+    "Ownership of mailing list and content"
+  ],
+  "cons": [
+    "Limited design customization",
+    "Dependence on platform for distribution",
+    "No integrated advertising tools"
+  ],
+  "alternatives": [
+    "Medium [medium.com]",
+    "Ghost [ghost.org]",
+    "Patreon [patreon.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Medium",
+      "url": "medium.com",
+      "reason": "Offers a broad platform for content sharing"
+    },
+    {
+      "name": "Ghost",
+      "url": "ghost.org",
+      "reason": "Focus on professional publishing with more control"
+    },
+    {
+      "name": "Patreon",
+      "url": "patreon.com",
+      "reason": "Supports creators with membership services"
+    }
+  ],
+  "tags": [
+    "content management",
+    "subscription service",
+    "newsletter publishing"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://substack.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=substack&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/substack_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/substack_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/substack_com_400.png",
+  "updatedAt": "2025-06-04T08:16:44.242Z"
+}
