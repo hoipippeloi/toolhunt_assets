@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://15five.com/",
+  "name": "15Five",
+  "title": "15five.com",
+  "payoff": "Maximize performance, engagement, retention",
+  "shortDescription": "15Five is a continuous performance management software designed to enhance employee engagement, performance, and retention. It serves as a strategic command center for HR professionals, enabling them to connect seamlessly with HRIS systems and analyze performance metrics efficiently. An example use case is a company using 15Five to track employee performance quarterly, facilitating better strategic decisions and improving overall company culture.",
+  "pros": [
+    "High employee retention rates",
+    "Easy integration with HRIS",
+    "Strategic analytics for performance management"
+  ],
+  "cons": [
+    "Potential privacy concerns with extensive data tracking",
+    "May require training for optimal use",
+    "Dependence on third-party cookies for some functionalities"
+  ],
+  "alternatives": [
+    "BambooHR [bamboohr.com]",
+    "Workday [workday.com]",
+    "Lattice [lattice.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "BambooHR",
+      "url": "bamboohr.com",
+      "reason": "Offers comprehensive HR tools with a focus on SMBs"
+    },
+    {
+      "name": "Workday",
+      "url": "workday.com",
+      "reason": "Provides broader enterprise resource planning features"
+    },
+    {
+      "name": "Lattice",
+      "url": "lattice.com",
+      "reason": "Focuses on performance and career development"
+    }
+  ],
+  "tags": [
+    "performance management",
+    "employee engagement",
+    "HR software",
+    "business impact"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://15five.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=15five&type=repositories",
+  "twitterUrl": "https://twitter.com/15Five",
+  "screenshot": "https://share.appsfor.us/screenshots/15five_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/15five_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/15five_com_400.png",
+  "updatedAt": "2025-06-04T08:17:33.649Z"
+}
