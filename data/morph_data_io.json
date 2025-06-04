@@ -3,15 +3,15 @@
   "name": "Morph",
   "title": "morph-data.io",
   "payoff": "AI-powered Data Apps with Code",
-  "shortDescription": "Morph is a platform designed to facilitate the rapid development of internal AI applications. It integrates a Python framework and hosting solution with features like built-in authentication, data connectors, CI/CD, and RBAC. Users can connect to databases like BigQuery or Snowflake, utilize OpenAI APIs, and deploy ML models. An example use case is a data team building secure, performant apps to process and visualize business data, sharing outputs easily via URLs.",
+  "shortDescription": "Morph is a platform for building AI-powered data applications using Python. It integrates features like built-in authentication, data connectors, CI/CD, and RBAC. Users can connect to data sources like BigQuery or Snowflake, utilize OpenAI APIs, and build ML models. An ideal use case is for teams needing secure, performant internal apps that are easily shareable via URLs.",
   "pros": [
     "Built-in advanced security features",
-    "Integration with major databases and OpenAI API",
-    "Easy sharing and collaboration via URLs"
+    "Integration with major data sources and APIs",
+    "Easy sharing and collaboration via URL"
   ],
   "cons": [
-    "Limited to Python and React for development",
-    "May require technical expertise to fully utilize",
+    "Limited to Python and React frameworks",
+    "Potentially steep learning curve for non-developers",
     "No clear pricing information available"
   ],
   "alternatives": [
@@ -23,22 +23,22 @@
     {
       "name": "Retool",
       "url": "retool.com",
-      "reason": "Offers visual programming for rapid app development"
+      "reason": "Offers visual programming for apps"
     },
     {
       "name": "Streamlit",
       "url": "streamlit.io",
-      "reason": "Focuses on creating ML and data apps quickly"
+      "reason": "Focus on ML and data science apps"
     },
     {
       "name": "Dash by Plotly",
       "url": "plotly.com",
-      "reason": "Good for building analytical web applications"
+      "reason": "Advanced visualizations and dashboards"
     }
   ],
   "tags": [
     "AI",
-    "data apps",
+    "data applications",
     "Python",
     "security"
   ],
@@ -52,8 +52,8 @@
   "documentationUrl": "https://morph-data.io/docs",
   "githubUrl": "https://github.com/morph-data/morph",
   "twitterUrl": "https://twitter.com/morphdbHQ",
-  "screenshot": "/screenshots/morph_data_io.png",
-  "screenshot_640": "/screenshots/morph_data_io_640.png",
-  "screenshot_400": "/screenshots/morph_data_io_400.png",
-  "updatedAt": "2025-05-20T04:44:36.967Z"
+  "screenshot": "https://share.appsfor.us/screenshots/morph_data_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/morph_data_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/morph_data_io_400.png",
+  "updatedAt": "2025-06-04T08:07:29.580Z"
 }

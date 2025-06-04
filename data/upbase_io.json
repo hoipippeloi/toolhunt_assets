@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://upbase.io/",
+  "name": "Upbase",
+  "title": "upbase.io",
+  "payoff": "Boost daily efficiency effortlessly",
+  "shortDescription": "Upbase is a productivity tool designed to enhance daily efficiency by integrating project management and daily planning. It's ideal for teams looking to streamline their workflow and improve collaboration. An example use case is a distributed team using Upbase to manage projects and tasks seamlessly across different time zones, boosting overall productivity and organization.",
+  "pros": [
+    "Simplifies daily planning and project management",
+    "Clutter-free user interface minimizes distractions",
+    "Spotlight feature enhances focus and productivity"
+  ],
+  "cons": [
+    "Limited advanced features for complex project management",
+    "May not suit very large teams or enterprises",
+    "No API for extended customization or integration"
+  ],
+  "alternatives": [
+    "ClickUp [clickup.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ClickUp",
+      "url": "clickup.com",
+      "reason": "Offers more extensive features and integrations"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on workflow automation and ease of use"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for its simple, card-based task management"
+    }
+  ],
+  "tags": [
+    "project management",
+    "productivity tool",
+    "team collaboration",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://upbase.io/",
+  "documentationUrl": "https://help.upbase.io/",
+  "githubUrl": "https://github.com/search?q=upbase&type=repositories",
+  "twitterUrl": "https://twitter.com/upbasepm",
+  "screenshot": "https://share.appsfor.us/screenshots/upbase_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/upbase_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/upbase_io_400.png",
+  "updatedAt": "2025-06-04T08:11:08.942Z"
+}
