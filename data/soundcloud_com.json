@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://soundcloud.com/",
+  "name": "SoundCloud",
+  "title": "soundcloud.com",
+  "payoff": "Discover and connect through music",
+  "shortDescription": "SoundCloud is a vibrant music streaming platform that allows artists and fans to connect over music. From amateur creators in small spaces to professional musicians in studios, SoundCloud offers a space to share, discover, and enjoy music. Users can upload their tracks, build playlists, and explore a vast library of songs, remixes, and DJ sets not available elsewhere.",
+  "pros": [
+    "Large selection of unique tracks",
+    "Direct artist-to-fan interaction",
+    "Free tier available"
+  ],
+  "cons": [
+    "Limited mainstream content",
+    "Ads in free version",
+    "Variable audio quality"
+  ],
+  "alternatives": [
+    "Spotify [spotify.com]",
+    "Apple Music [apple.com]",
+    "Bandcamp [bandcamp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Spotify",
+      "url": "spotify.com",
+      "reason": "Wider range of mainstream music"
+    },
+    {
+      "name": "Bandcamp",
+      "url": "bandcamp.com",
+      "reason": "Supports direct artist sales"
+    },
+    {
+      "name": "Deezer",
+      "url": "deezer.com",
+      "reason": "Strong in global music variety"
+    }
+  ],
+  "tags": [
+    "music streaming",
+    "audio content",
+    "artist platform",
+    "music discovery"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2007,
+  "websiteUrl": "https://soundcloud.com/",
+  "documentationUrl": "https://developers.soundcloud.com/docs/api/guide",
+  "githubUrl": "https://github.com/search?q=soundcloud&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/soundcloud_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/soundcloud_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/soundcloud_com_400.png",
+  "updatedAt": "2025-06-04T08:28:21.669Z"
+}
