@@ -2,38 +2,38 @@
   "sourceUrl": "https://mintlify.com/",
   "name": "Mintlify",
   "title": "mintlify.com",
-  "payoff": "Effortless, AI-native documentation",
-  "shortDescription": "Mintlify is a cutting-edge documentation platform designed for developers and modern teams. It leverages AI to create, edit, and enhance documentation effortlessly with features like drag-and-drop editing, API playgrounds, and automatic translations. Ideal for startups and enterprises aiming to improve user engagement and knowledge sharing.",
+  "payoff": "Effortless, next-gen documentation",
+  "shortDescription": "Mintlify revolutionizes documentation with a focus on AI-driven, customizable, and collaborative solutions. Designed for developers and modern teams, it offers a user-friendly web editor and features like API playgrounds and automatic translations. Example use case: A software company uses Mintlify to create and manage documentation, enhancing user engagement and support efficiency.",
   "pros": [
-    "AI-driven documentation enhancements",
-    "Customizable access controls and integrations",
-    "Multi-language support for global reach"
+    "AI-driven enhancements for documentation",
+    "Customizable with drag and drop interface",
+    "Supports collaboration without needing git"
   ],
   "cons": [
-    "May require initial learning curve",
-    "Potentially high cost for premium features",
-    "Limited offline capabilities"
+    "May require learning for non-tech users",
+    "Potential over-reliance on AI suggestions",
+    "Limited information on pricing transparency"
   ],
   "alternatives": [
-    "ReadMe [readme.com]",
+    "ReadTheDocs [readthedocs.io]",
     "Confluence [atlassian.com/software/confluence]",
-    "Docusaurus [docusaurus.io]"
+    "GitBook [gitbook.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "ReadMe",
-      "url": "readme.com",
-      "reason": "Offers interactive API docs"
+      "name": "ReadTheDocs",
+      "url": "readthedocs.io",
+      "reason": "Open source and widely adopted"
     },
     {
       "name": "Confluence",
       "url": "atlassian.com/software/confluence",
-      "reason": "Widely used for team collaboration"
+      "reason": "Robust for enterprise collaboration"
     },
     {
-      "name": "Docusaurus",
-      "url": "docusaurus.io",
-      "reason": "Open source and customizable"
+      "name": "GitBook",
+      "url": "gitbook.com",
+      "reason": "Integrates well with GitHub"
     }
   ],
   "tags": [
@@ -43,7 +43,7 @@
     "customization"
   ],
   "apiUsed": true,
-  "department": "Development",
+  "department": "Information Technology",
   "function": "Content Management",
   "freeTier": false,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://mintlify.com/docs",
   "githubUrl": "https://github.com/mintlify/themes",
   "twitterUrl": "https://x.com/mintlify",
-  "screenshot": "/screenshots/mintlify_com.png",
-  "screenshot_640": "/screenshots/mintlify_com_640.png",
-  "screenshot_400": "/screenshots/mintlify_com_400.png",
-  "updatedAt": "2025-05-16T03:42:04.326Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mintlify_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mintlify_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mintlify_com_400.png",
+  "updatedAt": "2025-06-04T01:12:25.230Z"
 }

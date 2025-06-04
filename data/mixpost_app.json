@@ -2,17 +2,17 @@
   "sourceUrl": "https://mixpost.app/",
   "name": "Mixpost",
   "title": "mixpost.app",
-  "payoff": "Manage all social media in one place",
-  "shortDescription": "Mixpost is a self-hosted, open-source social media management tool designed for businesses and individuals looking to streamline their social media activities. Users can create, schedule, and publish content across multiple platforms such as Facebook, Instagram, and YouTube without any subscription fees. This tool is ideal for marketers seeking to enhance their social media presence efficiently.",
+  "payoff": "Manage social media efficiently",
+  "shortDescription": "Mixpost is a self-hosted, open-source tool designed for managing social media content across various platforms. It allows users to create, schedule, publish, and manage posts from a single interface. Ideal for marketers and businesses looking to enhance their social media presence without recurring fees. Example use case: A small business uses Mixpost to schedule weekly content across Facebook, Instagram, and LinkedIn, streamlining their workflow and saving time.",
   "pros": [
     "No monthly subscription fees",
     "Supports multiple social platforms",
-    "Open-source and customizable"
+    "Open source and customizable"
   ],
   "cons": [
-    "Requires self-hosting",
-    "May need technical setup",
-    "Limited customer support"
+    "Self-hosting may require technical skills",
+    "No direct customer support",
+    "Limited third-party integrations"
   ],
   "alternatives": [
     "Hootsuite [hootsuite.com]",
@@ -21,39 +21,39 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Buffer",
-      "url": "buffer.com",
-      "reason": "Offers streamlined posting and analytics"
-    },
-    {
       "name": "Hootsuite",
       "url": "hootsuite.com",
-      "reason": "Comprehensive tool with team features"
+      "reason": "Offers extensive platform support"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Simple UI and good for beginners"
     },
     {
       "name": "Sprout Social",
       "url": "sproutsocial.com",
-      "reason": "Advanced analytics and engagement tools"
+      "reason": "Advanced analytics features"
     }
   ],
   "tags": [
     "social media",
-    "open source",
     "content management",
-    "marketing tools"
+    "open source",
+    "self-hosted"
   ],
   "apiUsed": false,
   "department": "Marketing",
   "function": "Social Media",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2023,
   "websiteUrl": "https://mixpost.app/",
   "documentationUrl": "https://docs.mixpost.app/",
   "githubUrl": "https://github.com/inovector/mixpost",
   "twitterUrl": "https://twitter.com/getmixpost",
-  "screenshot": "/screenshots/mixpost_app.png",
-  "screenshot_640": "/screenshots/mixpost_app_640.png",
-  "screenshot_400": "/screenshots/mixpost_app_400.png",
-  "updatedAt": "2025-05-17T10:42:48.883Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mixpost_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mixpost_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mixpost_app_400.png",
+  "updatedAt": "2025-06-04T01:14:30.618Z"
 }

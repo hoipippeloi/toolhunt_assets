@@ -3,37 +3,37 @@
   "name": "MindPal",
   "title": "mindpal.space",
   "payoff": "Build Your AI Workforce",
-  "shortDescription": "MindPal enables businesses to automate complex processes using AI agents and multi-agent workflows. It is designed for businesses looking to enhance productivity by automating tasks such as email marketing, business analysis, and content generation. An example use case is automating daily AI news reports generation.",
+  "shortDescription": "MindPal enables businesses to automate complex processes using AI agents and multi-agent workflows. It's designed for businesses looking to enhance productivity by integrating AI to handle tasks like content generation, data analysis, and more. An example use case is automating investor updates using business metrics.",
   "pros": [
     "Customizable AI agents",
     "Integration with multiple AI models",
-    "One-click public publishing of workflows"
+    "One-click public workflow publishing"
   ],
   "cons": [
-    "Potential complexity in setup",
-    "Dependence on external AI models",
-    "Possible data privacy concerns"
+    "Potentially steep learning curve",
+    "Dependence on continuous data input",
+    "Limited information on security measures"
   ],
   "alternatives": [
     "Zapier [zapier.com]",
     "Make [make.com]",
-    "Integromat [integromat.com]"
+    "Automate.io [automate.io]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Popular for simple automation"
-    },
-    {
-      "name": "Make",
-      "url": "make.com",
-      "reason": "Visual approach to automation"
+      "reason": "Popular for simple workflow automation"
     },
     {
       "name": "Integromat",
       "url": "integromat.com",
-      "reason": "Complex workflows with deep data"
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Strong in robotic process automation"
     }
   ],
   "tags": [
@@ -45,15 +45,15 @@
   "apiUsed": true,
   "department": "Operations",
   "function": "Automation",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://mindpal.space/",
-  "documentationUrl": "https://mindpal.space/documentation",
+  "documentationUrl": "https://docs.mindpal.space/",
   "githubUrl": "https://github.com/search?q=mindpal&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/mindpal_space.png",
-  "screenshot_640": "/screenshots/mindpal_space_640.png",
-  "screenshot_400": "/screenshots/mindpal_space_400.png",
-  "updatedAt": "2025-05-09T10:29:47.418Z"
+  "screenshot": "https://share.appsfor.us/screenshots/mindpal_space.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mindpal_space_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mindpal_space_400.png",
+  "updatedAt": "2025-06-04T01:11:42.598Z"
 }

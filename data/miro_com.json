@@ -2,29 +2,24 @@
   "sourceUrl": "https://miro.com/",
   "name": "Miro",
   "title": "miro.com",
-  "payoff": "Innovate and collaborate faster",
-  "shortDescription": "Miro is a collaborative online whiteboard platform designed to empower teams to work more effectively. With its limitless canvas, teams from various departments such as IT, design, and project management can brainstorm, plan, and execute their ideas seamlessly. Example use case includes strategic planning, roadmapping, and running design workshops remotely.",
+  "payoff": "Innovation, redefined",
+  "shortDescription": "Miro is a versatile digital workspace designed to foster collaboration and innovation across various teams and disciplines. It provides a limitless canvas where teams from marketing, IT, product management, and design can brainstorm, plan, and execute their projects. Example use includes strategic planning, roadmapping, and conducting design workshops seamlessly in a single platform.",
   "pros": [
-    "Limitless interactive canvas",
-    "Integration with major tools like Microsoft and Google",
-    "Extensive security and governance controls"
+    "Limitless collaborative canvas",
+    "Integration with major productivity tools",
+    "Rich features for interactive engagement"
   ],
   "cons": [
     "Can be overwhelming for new users",
-    "Potential privacy concerns with extensive data sharing",
-    "May require a strong internet connection for optimal performance"
+    "Potential privacy concerns with extensive features",
+    "High dependency on internet connectivity"
   ],
   "alternatives": [
-    "Lucidchart [lucidchart.com]",
     "Asana [asana.com]",
-    "Trello [trello.com]"
+    "Trello [trello.com]",
+    "Notion [notion.so]"
   ],
   "aiSuggestedAlternatives": [
-    {
-      "name": "Lucidchart",
-      "url": "lucidchart.com",
-      "reason": "Offers diagramming with real-time collaboration"
-    },
     {
       "name": "Asana",
       "url": "asana.com",
@@ -33,7 +28,12 @@
     {
       "name": "Trello",
       "url": "trello.com",
-      "reason": "Popular for visual project management using boards"
+      "reason": "Card-based project tracking"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Combines notes, tasks, and database functions"
     }
   ],
   "tags": [
@@ -43,8 +43,8 @@
     "productivity"
   ],
   "apiUsed": true,
-  "department": "Project Management",
-  "function": "Design Tools",
+  "department": "Project Management Office",
+  "function": "Project Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2011,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://help.miro.com/hc",
   "githubUrl": "https://github.com/search?q=miro&type=repositories",
   "twitterUrl": "https://twitter.com/mirohq",
-  "screenshot": "/screenshots/miro_com.png",
-  "screenshot_640": "/screenshots/miro_com_640.png",
-  "screenshot_400": "/screenshots/miro_com_400.png",
-  "updatedAt": "2025-05-12T11:39:26.917Z"
+  "screenshot": "https://share.appsfor.us/screenshots/miro_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/miro_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/miro_com_400.png",
+  "updatedAt": "2025-06-04T01:13:10.567Z"
 }
