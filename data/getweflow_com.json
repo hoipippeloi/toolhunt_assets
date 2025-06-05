@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getweflow.com/",
+  "name": "Weflow",
+  "title": "getweflow.com",
+  "payoff": "AI-powered Salesforce automation",
+  "shortDescription": "Weflow is a Revenue Intelligence Platform designed to enhance Salesforce data quality and productivity. It automates data capture, provides AI insights, and helps in forecasting and deal analysis. Ideal for sales teams, Weflow reduces manual data entry and improves decision-making with AI-driven insights. Example use case: Sales teams using Weflow to automate Salesforce updates and gain real-time insights into pipeline health.",
+  "pros": [
+    "Automates tedious data entry tasks",
+    "Provides real-time AI-driven insights",
+    "Integrates deeply with Salesforce"
+  ],
+  "cons": [
+    "Dependent on Salesforce integration",
+    "May be complex to set up",
+    "Potential privacy concerns with data capture"
+  ],
+  "alternatives": [
+    "Gong [gong.io]",
+    "Chorus.ai [chorus.ai]",
+    "Salesloft [salesloft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Gong",
+      "url": "gong.io",
+      "reason": "Offers similar AI-driven insights"
+    },
+    {
+      "name": "Chorus.ai",
+      "url": "chorus.ai",
+      "reason": "Focuses on conversation intelligence"
+    },
+    {
+      "name": "Salesloft",
+      "url": "salesloft.com",
+      "reason": "Provides comprehensive sales engagement"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Salesforce",
+    "Automation",
+    "Sales Analytics"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://getweflow.com/",
+  "documentationUrl": "https://getweflow.com/documentation",
+  "githubUrl": "https://github.com/search?q=weflow&type=repositories",
+  "twitterUrl": "https://twitter.com/getweflow",
+  "screenshot": "https://share.appsfor.us/screenshots/getweflow_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getweflow_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getweflow_com_400.png",
+  "updatedAt": "2025-06-05T03:03:15.398Z"
+}

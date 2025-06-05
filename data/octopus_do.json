@@ -2,45 +2,45 @@
   "sourceUrl": "https://octopus.do/",
   "name": "Octopus.do",
   "title": "octopus.do",
-  "payoff": "Fast, easy website planning",
-  "shortDescription": "Octopus.do is a visual sitemap tool designed for both beginners and professionals in web development. It facilitates the planning and structuring of website content, allowing users to collaborate, create wireframes, and integrate with services like Figma. Users can also analyze SEO and export their plans to various formats, making it ideal for those looking to streamline their website development process.",
+  "payoff": "Fast, easy website planning tool",
+  "shortDescription": "Octopus.do is a visual sitemap tool designed for both beginners and professionals in web development. It simplifies the process of website planning, content organization, and architecture exploration. Users can collaborate on content planning, sync designs with Figma, and even analyze SEO. The tool is ideal for those looking to create structured websites with clear navigation and export their plans to various formats.",
   "pros": [
-    "Visual sitemap integration",
-    "Collaboration features",
-    "Exports to multiple formats"
+    "Intuitive visual sitemap interface",
+    "Collaboration features for teams",
+    "Exports to multiple formats and services"
   ],
   "cons": [
-    "May be complex for absolute beginners",
+    "May be too basic for complex web projects",
     "Limited customization options",
-    "Potential learning curve for advanced features"
+    "Dependent on third-party integrations like Figma"
   ],
   "alternatives": [
-    "MindMeister [mindmeister.com]",
-    "Lucidchart [lucidchart.com]",
-    "Dyno Mapper [dynomapper.com]"
+    "Dyno Mapper [dynomapper.com]",
+    "Writemaps [writemaps.com]",
+    "Mindmup [mindmup.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "MindMeister",
-      "url": "mindmeister.com",
-      "reason": "Focuses on mind mapping for planning"
-    },
-    {
-      "name": "Lucidchart",
-      "url": "lucidchart.com",
-      "reason": "Offers detailed diagramming tools"
-    },
-    {
       "name": "Dyno Mapper",
       "url": "dynomapper.com",
-      "reason": "Visual sitemap and content audit tool"
+      "reason": "Offers advanced crawling and inventory features"
+    },
+    {
+      "name": "Writemaps",
+      "url": "writemaps.com",
+      "reason": "Simple, focused on small projects"
+    },
+    {
+      "name": "Mindmup",
+      "url": "mindmup.com",
+      "reason": "Supports larger, more complex maps"
     }
   ],
   "tags": [
-    "site builder",
-    "content management",
+    "visual sitemap",
     "website planning",
-    "sitemap tool"
+    "content management",
+    "collaboration"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2020,
   "websiteUrl": "https://octopus.do/",
-  "documentationUrl": null,
+  "documentationUrl": "https://octopus.do/docs",
   "githubUrl": "https://github.com/search?q=octopus%20do&type=repositories",
   "twitterUrl": "https://twitter.com/octopusdoHQ",
-  "screenshot": "/screenshots/octopus_do.png",
-  "screenshot_640": "/screenshots/octopus_do_640.png",
-  "screenshot_400": "/screenshots/octopus_do_400.png",
-  "updatedAt": "2025-05-19T01:11:13.238Z"
+  "screenshot": "https://share.appsfor.us/screenshots/octopus_do.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/octopus_do_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/octopus_do_400.png",
+  "updatedAt": "2025-06-05T03:01:28.154Z"
 }

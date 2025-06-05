@@ -1,46 +1,46 @@
 {
   "sourceUrl": "https://observablehq.com/framework/",
   "name": "Observable Framework",
-  "title": "observablehq.com",
+  "title": "observablehq.com/framework",
   "payoff": "Build dashboards with code.",
-  "shortDescription": "Observable Framework is an open-source static site generator designed for creating data-driven applications such as dashboards and reports. It supports various programming languages like Markdown, JavaScript, SQL, Python, and R. Users can develop locally with a preview server and automate builds and deployments via a command-line interface. The tool is ideal for developers looking to integrate interactive data visualizations and manage projects using version control and CI/CD pipelines.",
+  "shortDescription": "Observable Framework is an open-source static site generator designed for creating data-driven applications such as dashboards and reports. Users can write in Markdown, JavaScript, SQL, Python, and more, and deploy their projects anywhere. The tool supports interactive charts, reactive JavaScript, and integrates with various data visualization libraries and data handling tools. It's ideal for developers and data analysts looking to streamline their data visualization and reporting processes.",
   "pros": [
     "Supports multiple programming languages",
     "Includes a variety of data visualization libraries",
-    "Highly customizable and open-source"
+    "Open-source and free to use"
   ],
   "cons": [
     "Requires coding knowledge",
-    "May have a steep learning curve for non-developers",
-    "Limited built-in collaboration features"
+    "Limited customer support due to open-source nature",
+    "May require setup and configuration time"
   ],
   "alternatives": [
     "Jupyter Notebook [jupyter.org]",
-    "Grafana [grafana.com]",
-    "Tableau [tableau.com]"
+    "R Shiny [shiny.rstudio.com]",
+    "Dash by Plotly [plotly.com/dash]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Jupyter Notebook",
       "url": "jupyter.org",
-      "reason": "Supports interactive data science and scientific computing."
+      "reason": "Interactive notebook for live code"
     },
     {
-      "name": "Grafana",
-      "url": "grafana.com",
-      "reason": "Focuses on time series analytics and monitoring."
+      "name": "R Shiny",
+      "url": "shiny.rstudio.com",
+      "reason": "R-based web app framework"
     },
     {
-      "name": "Tableau",
-      "url": "tableau.com",
-      "reason": "Powerful business intelligence and visualization tool."
+      "name": "Dash by Plotly",
+      "url": "plotly.com/dash",
+      "reason": "Python-based interactive apps"
     }
   ],
   "tags": [
     "data visualization",
     "static site generator",
     "open source",
-    "dashboard"
+    "dashboard creation"
   ],
   "apiUsed": false,
   "department": "Data & Analytics",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://observablehq.com/framework/",
-  "documentationUrl": "https://observablehq.com/framework",
+  "documentationUrl": "https://observablehq.com/framework/docs",
   "githubUrl": "https://github.com/observablehq/framework/tree/main/examples",
   "twitterUrl": null,
-  "screenshot": "/screenshots/observablehq_com.png",
-  "screenshot_640": "/screenshots/observablehq_com_640.png",
-  "screenshot_400": "/screenshots/observablehq_com_400.png",
-  "updatedAt": "2025-05-21T03:40:09.640Z"
+  "screenshot": "https://share.appsfor.us/screenshots/observablehq_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/observablehq_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/observablehq_com_400.png",
+  "updatedAt": "2025-06-05T03:00:36.713Z"
 }

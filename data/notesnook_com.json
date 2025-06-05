@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://notesnook.com/",
+  "name": "Notesnook",
+  "title": "notesnook.com",
+  "payoff": "Private, encrypted note-taking",
+  "shortDescription": "Notesnook is a private note-taking app designed for users who prioritize data security and privacy. It encrypts all data before it leaves the device, ensuring that no third party can access or sell your information. Ideal for individuals and professionals who require confidential note-keeping, such as journalists or researchers. Users can start for free and enjoy features like bidirectional note linking and community-driven development.",
+  "pros": [
+    "End-to-end encryption for user data",
+    "Open source software allowing transparency",
+    "Available for free across multiple devices"
+  ],
+  "cons": [
+    "Limited features compared to non-private alternatives",
+    "Potential complexity in user experience due to encryption",
+    "Less mainstream, which might affect third-party integrations"
+  ],
+  "alternatives": [
+    "Standard Notes [standardnotes.com]",
+    "Joplin [joplinapp.org]",
+    "Evernote [evernote.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Standard Notes",
+      "url": "standardnotes.com",
+      "reason": "Focuses on privacy and encryption"
+    },
+    {
+      "name": "Joplin",
+      "url": "joplinapp.org",
+      "reason": "Open source with offline access"
+    },
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Popular with extensive features"
+    }
+  ],
+  "tags": [
+    "privacy",
+    "note-taking",
+    "open source",
+    "encryption"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://notesnook.com/",
+  "documentationUrl": "https://help.notesnook.com/",
+  "githubUrl": "https://github.com/streetwriters/notesnook",
+  "twitterUrl": "https://twitter.com/notesnook",
+  "screenshot": "https://share.appsfor.us/screenshots/notesnook_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/notesnook_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/notesnook_com_400.png",
+  "updatedAt": "2025-06-05T03:02:08.958Z"
+}

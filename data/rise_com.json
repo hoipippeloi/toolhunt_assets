@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rise.com/",
+  "name": "Rise",
+  "title": "rise.com",
+  "payoff": "Training system employees love",
+  "shortDescription": "Rise is a comprehensive online training platform designed to simplify the creation, management, and delivery of employee training programs. It offers a user-friendly interface with professionally designed themes, templates, and a content library. Ideal for businesses seeking to enhance employee skills and engagement, Rise provides interactive and adaptable learning experiences across all devices. An example use case is a company implementing Rise to streamline its onboarding process and ongoing staff development.",
+  "pros": [
+    "Easy to create and manage training",
+    "Engaging and interactive content",
+    "No software installation required"
+  ],
+  "cons": [
+    "May be costly for small businesses",
+    "Limited customization options",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "TalentLMS [talentlms.com]",
+    "Docebo [docebo.com]",
+    "LearnUpon [learnupon.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "TalentLMS",
+      "url": "talentlms.com",
+      "reason": "Flexible learning management system"
+    },
+    {
+      "name": "Docebo",
+      "url": "docebo.com",
+      "reason": "AI-powered learning platform"
+    },
+    {
+      "name": "LearnUpon",
+      "url": "learnupon.com",
+      "reason": "Scalable, versatile training solution"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "employee training",
+    "cloud platform",
+    "content management"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://rise.com/",
+  "documentationUrl": "https://help.rise.com/",
+  "githubUrl": "https://github.com/search?q=rise&type=repositories",
+  "twitterUrl": "https://twitter.com/Articulate",
+  "screenshot": "https://share.appsfor.us/screenshots/rise_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rise_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rise_com_400.png",
+  "updatedAt": "2025-06-05T03:04:09.573Z"
+}
