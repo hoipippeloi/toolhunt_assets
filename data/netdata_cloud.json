@@ -2,17 +2,17 @@
   "sourceUrl": "https://netdata.cloud/",
   "name": "Netdata",
   "title": "netdata.cloud",
-  "payoff": "Real-time infrastructure monitoring",
-  "shortDescription": "Netdata offers real-time monitoring and troubleshooting for IT infrastructure and applications. It simplifies IT operations by providing high-fidelity data, real-time visualizations, and reliable alerts without requiring extensive configuration. An example use case is monitoring performance during application migrations to identify bottlenecks.",
+  "payoff": "Real-Time Monitoring For Infrastructure",
+  "shortDescription": "Netdata offers comprehensive real-time monitoring for infrastructure and applications, catering to teams who cannot afford downtime. It provides visibility into every aspect of your systems, from bare metal to multi-cloud environments. Example use case includes using Netdata for immediate anomaly detection and reducing mean time to repair (MTTR) by providing actionable insights.",
   "pros": [
-    "Zero configuration setup",
-    "Real-time updates and alerts",
-    "Supports extensive integrations"
+    "Real-time updates with no delays",
+    "Supports 800+ integrations for extensive coverage",
+    "Advanced ML for automated insights"
   ],
   "cons": [
-    "May require technical knowledge to fully utilize",
-    "Primarily focused on IT and DevOps",
-    "Limited historical data analysis"
+    "Can be complex to set up for beginners",
+    "Potential for information overload due to extensive metrics",
+    "Requires significant resources for full functionality"
   ],
   "alternatives": [
     "Datadog [datadoghq.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Datadog",
       "url": "datadoghq.com",
-      "reason": "Comprehensive cloud monitoring"
+      "reason": "Comprehensive monitoring with AI features"
     },
     {
       "name": "Grafana",
       "url": "grafana.com",
-      "reason": "Flexible visualization and analytics"
+      "reason": "Popular for customizable dashboards"
     },
     {
       "name": "Prometheus",
       "url": "prometheus.io",
-      "reason": "Open-source monitoring with strong community"
+      "reason": "Open-source and highly scalable"
     }
   ],
   "tags": [
     "real-time monitoring",
-    "IT operations",
-    "open source",
-    "scalability"
+    "infrastructure",
+    "observability",
+    "AI insights"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2014,
   "websiteUrl": "https://netdata.cloud/",
-  "documentationUrl": "https://learn.netdata.cloud/docs/agent/quickstart",
-  "githubUrl": "https://github.com/netdata/netdata/issues",
+  "documentationUrl": "https://learn.netdata.cloud/docs/overview/what-is-netdata",
+  "githubUrl": "https://github.com/netdata/netdata",
   "twitterUrl": "https://twitter.com/netdatahq",
-  "screenshot": "/screenshots/netdata_cloud.png",
-  "screenshot_640": "/screenshots/netdata_cloud_640.png",
-  "screenshot_400": "/screenshots/netdata_cloud_400.png",
-  "updatedAt": "2025-05-13T02:57:33.642Z"
+  "screenshot": "https://share.appsfor.us/screenshots/netdata_cloud.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/netdata_cloud_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/netdata_cloud_400.png",
+  "updatedAt": "2025-06-05T01:12:08.066Z"
 }

@@ -3,7 +3,7 @@
   "name": "n8n",
   "title": "n8n.io",
   "payoff": "Automate anything with AI and integrations",
-  "shortDescription": "n8n is a workflow automation platform designed for technical teams to integrate AI and over 500 other applications seamlessly. Users can choose between coding or using a drag-and-drop interface for building multi-step AI agents. Example use cases include onboarding employees, enriching security tickets, and generating customer insights.",
+  "shortDescription": "n8n is a workflow automation platform designed for technical teams to integrate AI and over 500 other applications seamlessly. Users can choose between coding or using a drag-and-drop interface for workflow creation. Example use cases include onboarding new employees, enriching security incident tickets, and generating customer insights from data.",
   "pros": [
     "Flexible AI integration with over 500 apps",
     "Code and no-code options available",
@@ -11,19 +11,19 @@
   ],
   "cons": [
     "May require technical knowledge to fully utilize",
-    "Potentially overwhelming for non-developers",
-    "On-prem hosting might be complex for some users"
+    "Potentially overwhelming for non-technical users",
+    "On-prem deployment may be complex for some"
   ],
   "alternatives": [
     "Zapier [zapier.com]",
     "Integromat [integromat.com]",
-    "Microsoft Power Automate [powerautomate.microsoft.com]"
+    "Automate.io [automate.io]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Popular for easy integration with many apps"
+      "reason": "Popular for easy integrations and automation"
     },
     {
       "name": "Integromat",
@@ -31,16 +31,16 @@
       "reason": "Visual approach to automation and integration"
     },
     {
-      "name": "Microsoft Power Automate",
-      "url": "powerautomate.microsoft.com",
-      "reason": "Deep integration with Microsoft ecosystem"
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focuses on business workflows and CRM"
     }
   ],
   "tags": [
     "workflow automation",
     "AI integration",
-    "no-code",
-    "open source"
+    "technical teams",
+    "no-code"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.n8n.io/",
   "githubUrl": "https://github.com/n8n-io/n8n",
   "twitterUrl": "https://x.com/@igordisco",
-  "screenshot": "/screenshots/n8n_io.png",
-  "screenshot_640": "/screenshots/n8n_io_640.png",
-  "screenshot_400": "/screenshots/n8n_io_400.png",
-  "updatedAt": "2025-05-10T05:14:22.557Z"
+  "screenshot": "https://share.appsfor.us/screenshots/n8n_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/n8n_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/n8n_io_400.png",
+  "updatedAt": "2025-06-05T01:10:31.718Z"
 }

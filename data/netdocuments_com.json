@@ -2,44 +2,44 @@
   "sourceUrl": "https://netdocuments.com/",
   "name": "NetDocuments",
   "title": "netdocuments.com",
-  "payoff": "Intelligent document management",
-  "shortDescription": "NetDocuments offers a cloud-based document and email management system designed primarily for legal firms and departments. It facilitates secure document handling, collaboration, and automation using AI. Legal professionals can manage documents, integrate with Microsoft Teams, and utilize AI for workflow automation, enhancing productivity and compliance.",
+  "payoff": "Smart document management for legal",
+  "shortDescription": "NetDocuments provides a cloud-based document and email management solution tailored for legal firms and departments. It integrates seamlessly with Microsoft 365, enhancing collaboration through real-time co-authoring and predictive email filing. Legal professionals benefit from advanced AI tools to automate workflows, ensuring secure and efficient document handling.",
   "pros": [
-    "Advanced AI features for automation",
-    "Strong integration with Microsoft products",
-    "Highly secure and compliant for legal use"
+    "Advanced AI integration for automation",
+    "Highly secure with data loss prevention",
+    "Seamless Microsoft 365 integration"
   ],
   "cons": [
-    "Primarily focused on legal industry",
+    "Primarily focused on legal sector",
     "Potential complexity in initial setup",
     "May be costly for smaller firms"
   ],
   "alternatives": [
-    "Clio [clio.com]",
     "iManage [imanage.com]",
-    "Thomson Reuters Legal [legal.thomsonreuters.com]"
+    "Clio [clio.com]",
+    "Thomson Reuters HighQ [legal.thomsonreuters.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Clio",
-      "url": "clio.com",
-      "reason": "Popular in legal tech for management"
-    },
-    {
       "name": "iManage",
       "url": "imanage.com",
-      "reason": "Strong document handling features"
+      "reason": "Popular DMS with strong legal focus"
     },
     {
-      "name": "Thomson Reuters Legal",
+      "name": "Clio",
+      "url": "clio.com",
+      "reason": "Offers broader practice management"
+    },
+    {
+      "name": "Thomson Reuters HighQ",
       "url": "legal.thomsonreuters.com",
-      "reason": "Comprehensive legal solutions"
+      "reason": "Integrates broader legal solutions"
     }
   ],
   "tags": [
     "document management",
     "legal technology",
-    "AI automation",
+    "AI",
     "cloud storage"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://support.netdocuments.com",
   "githubUrl": "https://github.com/search?q=netdocuments&type=repositories",
   "twitterUrl": "https://twitter.com/netdocuments/",
-  "screenshot": "/screenshots/netdocuments_com.png",
-  "screenshot_640": "/screenshots/netdocuments_com_640.png",
-  "screenshot_400": "/screenshots/netdocuments_com_400.png",
-  "updatedAt": "2025-05-12T13:12:28.792Z"
+  "screenshot": "https://share.appsfor.us/screenshots/netdocuments_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/netdocuments_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/netdocuments_com_400.png",
+  "updatedAt": "2025-06-05T01:12:51.216Z"
 }

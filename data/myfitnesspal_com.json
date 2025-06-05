@@ -2,17 +2,17 @@
   "sourceUrl": "https://myfitnesspal.com/",
   "name": "MyFitnessPal",
   "title": "myfitnesspal.com",
-  "payoff": "Track calories & reach health goals",
-  "shortDescription": "MyFitnessPal is a comprehensive health and fitness tracking tool designed for individuals aiming to monitor their dietary intake and exercise routines. Users can log their food consumption using a barcode scanner or voice log, track calories, macros, and more. It's particularly useful for those looking to lose weight, maintain a healthy lifestyle, or achieve specific nutritional goals. An example use case is someone trying to lose weight by keeping a daily log of their meals and exercise.",
+  "payoff": "Track calories & reach fitness goals",
+  "shortDescription": "MyFitnessPal is a comprehensive tool designed for individuals aiming to monitor their nutritional intake and fitness activities. It allows users to track calories, macros, and more with features like barcode scanning and voice logging. Ideal for anyone from weight loss seekers to bodybuilders, it helps maintain nutritional goals and monitor progress. An example use case is someone trying to lose weight by logging daily meals and exercise routines.",
   "pros": [
-    "Extensive food database",
-    "User-friendly interface",
-    "Integration with fitness devices"
+    "Extensive food database for calorie tracking",
+    "Integration with fitness devices for activity tracking",
+    "User-friendly interface with motivational tools"
   ],
   "cons": [
     "Premium features require subscription",
-    "Ads in the free version",
-    "Limited offline functionality"
+    "May have privacy concerns with data handling",
+    "Can be overwhelming for new users"
   ],
   "alternatives": [
     "Lose It! [loseit.com]",
@@ -23,27 +23,27 @@
     {
       "name": "Lose It!",
       "url": "loseit.com",
-      "reason": "Focuses on weight loss tracking"
+      "reason": "Focuses on weight loss with community support"
     },
     {
       "name": "Cronometer",
       "url": "cronometer.com",
-      "reason": "Detailed nutrient tracking"
+      "reason": "Detailed nutrient tracking and analysis"
     },
     {
       "name": "FatSecret",
       "url": "fatsecret.com",
-      "reason": "Community-based support features"
+      "reason": "Offers similar features with a global food database"
     }
   ],
   "tags": [
     "health tracking",
+    "fitness app",
     "nutrition",
-    "fitness",
-    "calorie counting"
+    "calorie counter"
   ],
   "apiUsed": false,
-  "department": "Health & Wellness",
+  "department": "Personal",
   "function": "Mobile Apps",
   "freeTier": true,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.google.com/forms/d/e/1FAIpQLScJQpTcDqgVlAauEiheEj1med-cQgkkYttBMlfs9DOnV5LkMA/viewform",
   "githubUrl": "https://github.com/search?q=myfitnesspal&type=repositories",
   "twitterUrl": "https://twitter.com/MyFitnessPal",
-  "screenshot": "/screenshots/myfitnesspal_com.png",
-  "screenshot_640": "/screenshots/myfitnesspal_com_640.png",
-  "screenshot_400": "/screenshots/myfitnesspal_com_400.png",
-  "updatedAt": "2025-05-17T10:42:00.411Z"
+  "screenshot": "https://share.appsfor.us/screenshots/myfitnesspal_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/myfitnesspal_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/myfitnesspal_com_400.png",
+  "updatedAt": "2025-06-05T01:09:40.881Z"
 }
