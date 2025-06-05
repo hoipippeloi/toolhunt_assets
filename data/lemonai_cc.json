@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lemonai.cc/",
+  "name": "LemonAI",
+  "title": "lemonai.cc",
+  "payoff": "Accelerate Everyone to AGI",
+  "shortDescription": "LemonAI is a pioneering tool designed to integrate AI capabilities across various domains, making it ideal for professionals and businesses seeking to leverage AI for enhanced decision-making and operational efficiency. It offers solutions ranging from market analysis, e-commerce insights, to financial data integration. An example use case is its application in providing intelligent forecasting services to predict market trends.",
+  "pros": [
+    "Comprehensive AI integration across functions",
+    "Visual analytics for better data interpretation",
+    "Open-source flexibility and customization"
+  ],
+  "cons": [
+    "Complex setup for non-technical users",
+    "Potential dependency on continuous updates",
+    "Limited customer support due to open-source nature"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepMind [deepmind.com]",
+    "IBM Watson [ibm.com/watson]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and applications"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Advanced AI research and innovation"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Diverse AI solutions for enterprises"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "data analytics",
+    "visual analytics"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://lemonai.cc/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/hexdocom/lemon",
+  "twitterUrl": "https://x.com/LemonAI_cc",
+  "screenshot": "https://share.appsfor.us/screenshots/lemonai_cc.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lemonai_cc_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lemonai_cc_400.png",
+  "updatedAt": "2025-06-05T06:22:24.586Z"
+}
