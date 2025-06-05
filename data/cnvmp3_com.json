@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cnvmp3.com/",
+  "name": "CnvMP3",
+  "title": "cnvmp3.com",
+  "payoff": "Ad-free YouTube to MP3/MP4 converter",
+  "shortDescription": "CnvMP3 is a free tool that converts YouTube videos into MP3 or MP4 formats, allowing users to download and enjoy content offline. It supports videos up to 3 hours long and provides high-quality audio up to 320kbps. Ideal for those who want to listen to music or podcasts without internet access, or where YouTube is not available.",
+  "pros": [
+    "Supports multiple video platforms",
+    "High-quality audio conversion up to 320kbps",
+    "No registration required and ad-free"
+  ],
+  "cons": [
+    "Limited to videos under 3 hours",
+    "No mobile app available",
+    "Dependent on YouTube availability"
+  ],
+  "alternatives": [
+    "YTMP3 [ytmp3.cc]",
+    "4K Video Downloader [4kdownload.com]",
+    "ClipConverter [clipconverter.cc]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "YTMP3",
+      "url": "ytmp3.cc",
+      "reason": "Simple interface, converts videos to MP3"
+    },
+    {
+      "name": "4K Video Downloader",
+      "url": "4kdownload.com",
+      "reason": "Downloads high-quality videos and playlists"
+    },
+    {
+      "name": "ClipConverter",
+      "url": "clipconverter.cc",
+      "reason": "Supports various formats and resolutions"
+    }
+  ],
+  "tags": [
+    "video conversion",
+    "audio tools",
+    "content download",
+    "media processing"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Media Processing",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://cnvmp3.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=cnvmp3&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/cnvmp3_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cnvmp3_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cnvmp3_com_400.png",
+  "updatedAt": "2025-06-05T03:51:39.748Z"
+}

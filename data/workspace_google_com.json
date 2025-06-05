@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://workspace.google.com/products/calendar/",
+  "name": "Google Calendar",
+  "title": "workspace.google.com/products/calendar",
+  "payoff": "Efficient scheduling across platforms",
+  "shortDescription": "Google Calendar is a versatile scheduling tool that integrates seamlessly with Google Workspace, allowing users to manage personal and professional schedules in one place. It supports task management directly from Gmail or Google Tasks, and features automatic event addition from emails. Teams can easily schedule meetings and book resources, making it ideal for business environments. Example use: A company uses Google Calendar to manage team schedules and room bookings for meetings.",
+  "pros": [
+    "Integrates with Google Workspace",
+    "Automatic scheduling features",
+    "Supports multiple calendar views"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on Google ecosystem",
+    "Advanced features require paid plans"
+  ],
+  "alternatives": [
+    "Microsoft Outlook [outlook.com]",
+    "Apple Calendar [apple.com]",
+    "Zoho Calendar [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Outlook",
+      "url": "outlook.com",
+      "reason": "Offers integrated email and calendar"
+    },
+    {
+      "name": "Apple Calendar",
+      "url": "apple.com",
+      "reason": "Good for Apple device integration"
+    },
+    {
+      "name": "Zoho Calendar",
+      "url": "zoho.com",
+      "reason": "Part of a broader suite of apps"
+    }
+  ],
+  "tags": [
+    "calendar",
+    "scheduling",
+    "task management",
+    "time management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Calendar",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://workspace.google.com/products/calendar/",
+  "documentationUrl": "https://support.google.com/calendar",
+  "githubUrl": "https://github.com/search?q=google%20calendar&type=repositories",
+  "twitterUrl": "https://x.com/GoogleCloud_SG",
+  "screenshot": "https://share.appsfor.us/screenshots/workspace_google_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/workspace_google_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/workspace_google_com_400.png",
+  "updatedAt": "2025-06-05T03:50:30.039Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://notability.com/",
+  "name": "Notability",
+  "title": "notability.com",
+  "payoff": "Unleash your ideas, your way",
+  "shortDescription": "Notability is a versatile note-taking app designed for students, educators, and professionals. It allows users to capture lectures, transcribe audio, and create summaries effortlessly. The tool supports handwriting and math conversion, enhancing productivity. Ideal for students like Joshua Kim at the University of Pennsylvania, Notability helps in preparing for exams with tools like flashcards and quizzes.",
+  "pros": [
+    "Transcribes lectures into text",
+    "Supports handwriting and math conversion",
+    "Includes tools for exam preparation"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Dependent on device compatibility",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Microsoft OneNote [onenote.com]",
+    "GoodNotes [goodnotes.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Offers extensive note organization features"
+    },
+    {
+      "name": "Microsoft OneNote",
+      "url": "onenote.com",
+      "reason": "Integrated with Microsoft Office Suite"
+    },
+    {
+      "name": "GoodNotes",
+      "url": "goodnotes.com",
+      "reason": "Focuses on handwriting and sketching"
+    }
+  ],
+  "tags": [
+    "note-taking",
+    "education",
+    "productivity",
+    "transcription"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://notability.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=notability&type=repositories",
+  "twitterUrl": "https://twitter.com/notabilityapp",
+  "screenshot": "https://share.appsfor.us/screenshots/notability_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/notability_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/notability_com_400.png",
+  "updatedAt": "2025-06-05T03:49:53.717Z"
+}

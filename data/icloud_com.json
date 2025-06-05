@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://icloud.com/find",
+  "name": "Find Devices",
+  "title": "icloud.com",
+  "payoff": "Locate all your Apple devices",
+  "shortDescription": "Find Devices by Apple iCloud helps users locate their Apple devices such as iPhone, iPad, Mac, Apple Watch, AirPods, and Beats. It is particularly useful for individuals who frequently misplace their devices or for families using the Family Sharing feature. Users can access this service through the iCloud website to quickly find their devices on a map, play sounds to locate them, and even lock or erase them remotely to protect their data.",
+  "pros": [
+    "Supports a wide range of Apple devices",
+    "Remote access to device location",
+    "Options to play sound, lock, or erase devices"
+  ],
+  "cons": [
+    "Limited to Apple devices only",
+    "Requires internet connection",
+    "Dependent on device being powered on"
+  ],
+  "alternatives": [
+    "Google Find My Device [google.com/android/find]",
+    "Samsung Find My Mobile [samsung.com/us/support/owners/app/find-my-mobile]",
+    "Tile [thetileapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Find My Device",
+      "url": "google.com/android/find",
+      "reason": "Supports Android devices"
+    },
+    {
+      "name": "Samsung Find My Mobile",
+      "url": "samsung.com/us/support/owners/app/find-my-mobile",
+      "reason": "Specific for Samsung devices"
+    },
+    {
+      "name": "Tile",
+      "url": "thetileapp.com",
+      "reason": "Uses physical tags for tracking"
+    }
+  ],
+  "tags": [
+    "device management",
+    "security",
+    "remote control",
+    "Apple ecosystem"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Remote Control",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://icloud.com/find",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=find%20devices&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/icloud_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/icloud_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/icloud_com_400.png",
+  "updatedAt": "2025-06-05T03:51:05.087Z"
+}
