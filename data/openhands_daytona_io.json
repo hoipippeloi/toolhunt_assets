@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://openhands.daytona.io/",
-  "name": "OpenHands + Daytona",
-  "title": "openhands.daytona.io",
+  "name": "OpenHands",
+  "title": "daytona.io",
   "payoff": "Experience AI-powered productivity",
-  "shortDescription": "OpenHands + Daytona offers an AI-powered workspace designed for developers and enterprise teams. It integrates tools like shell, browser, editor, and planner into a single platform, facilitating seamless end-to-end workflows. Users can manage large-scale projects efficiently by leveraging AI for code refactoring, migration, and troubleshooting. This tool is ideal for teams aiming to enhance productivity through automation and real-time collaboration.",
+  "shortDescription": "OpenHands, powered by Daytona, offers an AI-driven workspace for developers and teams. It integrates tools like shell, browser, editor, and planner into a single environment, enabling seamless end-to-end work. Ideal for large-scale projects, it supports code refactoring, migration, and troubleshooting while handling multiple tasks simultaneously. This tool is especially useful for enterprises seeking to boost productivity and automate repetitive tasks.",
   "pros": [
     "Integrated development environment",
-    "Supports natural language commands",
-    "Adaptable to enterprise needs"
+    "Supports parallel processing for increased productivity",
+    "Natural language collaboration features"
   ],
   "cons": [
-    "May require initial learning curve",
-    "Dependent on AI accuracy",
-    "Potential privacy concerns in enterprise settings"
+    "May be complex for beginners",
+    "Potential high cost for enterprise level",
+    "Limited customization options"
   ],
   "alternatives": [
     "GitHub Copilot [copilot.github.com]",
@@ -23,12 +23,12 @@
     {
       "name": "GitHub Copilot",
       "url": "copilot.github.com",
-      "reason": "AI-powered coding assistant"
+      "reason": "AI pair programmer that suggests code"
     },
     {
       "name": "GitLab",
       "url": "gitlab.com",
-      "reason": "Comprehensive devops platform"
+      "reason": "Complete DevOps platform"
     },
     {
       "name": "Microsoft Visual Studio",
@@ -45,15 +45,15 @@
   "apiUsed": true,
   "department": "Development",
   "function": "Development",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://openhands.daytona.io/",
   "documentationUrl": "https://openhands.daytona.io/docs",
   "githubUrl": "https://github.com/daytonaio/daytona",
   "twitterUrl": "https://twitter.com/daytonaio",
-  "screenshot": "https://share.appsfor.us/screenshots/openhands_daytona_io.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/openhands_daytona_io_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/openhands_daytona_io_400.png",
-  "updatedAt": "2025-06-06T07:11:04.289Z"
+  "screenshot": "/screenshots/openhands_daytona_io.png",
+  "screenshot_640": "/screenshots/openhands_daytona_io_640.png",
+  "screenshot_400": "/screenshots/openhands_daytona_io_400.png",
+  "updatedAt": "2025-05-10T02:48:23.033Z"
 }

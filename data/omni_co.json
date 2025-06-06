@@ -3,21 +3,21 @@
   "name": "Omni Analytics",
   "title": "omni.co",
   "payoff": "Explore data with speed and accuracy",
-  "shortDescription": "Omni Analytics offers a comprehensive business intelligence solution that caters to various teams within an organization. It allows users to explore data through a user-friendly interface, SQL, or AI, making it accessible for both technical and non-technical users. Teams can build scalable data products, perform ad-hoc analyses, and integrate insights directly into their workflows. An example use case is a product team using Omni to quickly create and deploy customer-facing analytics features.",
+  "shortDescription": "Omni Analytics revolutionizes business intelligence by enabling teams to explore data through various interfaces such as SQL, AI, or a point-and-click UI. It's designed for data teams looking to transition from simple request handlers to strategic partners. An example use case is product teams using Omni to quickly build and scale customer-facing data products, significantly reducing development time from months to weeks.",
   "pros": [
-    "Intuitive point-and-click UI for data exploration",
-    "Robust integrations with modern cloud platforms like Snowflake and dbt",
-    "Enterprise-grade security features including row- and column-level permissions"
+    "Supports multiple data exploration interfaces",
+    "Robust integration with modern data platforms like Snowflake and dbt",
+    "Enterprise-grade security features"
   ],
   "cons": [
-    "Potential complexity in initial setup for less tech-savvy users",
-    "Dependence on external platforms for full functionality",
-    "May be overkill for very small teams or simple use cases"
+    "May require initial training for non-technical users",
+    "Potential high cost for small businesses",
+    "Dependence on third-party platforms for full functionality"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
     "Looker [looker.com]",
-    "Power BI [powerbi.com]"
+    "Power BI [powerbi.microsoft.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,12 +28,12 @@
     {
       "name": "Looker",
       "url": "looker.com",
-      "reason": "Strong in big data integration"
+      "reason": "Strong in business intelligence"
     },
     {
       "name": "Power BI",
-      "url": "powerbi.com",
-      "reason": "Good for Microsoft ecosystem"
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://omni.co/documentation",
   "githubUrl": "https://github.com/search?q=omni%20analytics&type=repositories",
   "twitterUrl": "https://twitter.com/Omni",
-  "screenshot": "https://share.appsfor.us/screenshots/omni_co.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/omni_co_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/omni_co_400.png",
-  "updatedAt": "2025-06-06T07:08:27.622Z"
+  "screenshot": "/screenshots/omni_co.png",
+  "screenshot_640": "/screenshots/omni_co_640.png",
+  "screenshot_400": "/screenshots/omni_co_400.png",
+  "updatedAt": "2025-05-09T10:28:57.330Z"
 }
