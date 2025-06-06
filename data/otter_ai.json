@@ -3,11 +3,11 @@
   "name": "Otter Meeting Agent",
   "title": "otter.ai",
   "payoff": "AI-driven meeting insights",
-  "shortDescription": "Otter Meeting Agent enhances meeting productivity by providing AI-powered notes and summaries. It integrates with popular platforms like Zoom, Google Meet, and Microsoft Teams to automatically capture discussions and generate actionable insights. Ideal for teams looking to streamline their meeting processes and ensure no detail is missed. For example, after a lengthy team meeting, Otter can produce a concise 30-second summary that highlights key points and action items.",
+  "shortDescription": "Otter Meeting Agent enhances meeting productivity by providing automated AI-driven notes and summaries. It integrates with platforms like Zoom, Google Meet, and Microsoft Teams to capture discussions and assign action items. Ideal for teams seeking efficiency, it allows participants to focus on the conversation while Otter handles the documentation.",
   "pros": [
-    "Automatically captures and summarizes meetings",
+    "Automates meeting notes and summaries",
     "Integrates with major meeting platforms",
-    "Automates action item tracking"
+    "Assigns action items automatically"
   ],
   "cons": [
     "Dependent on internet connectivity",
@@ -16,24 +16,24 @@
   ],
   "alternatives": [
     "Scribble [scribble.com]",
-    "Voicea [voicea.com]",
+    "Fireflies.ai [fireflies.ai]",
     "Sonix [sonix.ai]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Scribble",
-      "url": "scribble.com",
-      "reason": "Offers similar AI note-taking features"
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Offers AI meeting recording and analysis"
     },
     {
-      "name": "Voicea",
-      "url": "voicea.com",
-      "reason": "Provides voice AI for meetings"
+      "name": "Scribble",
+      "url": "scribble.com",
+      "reason": "Focuses on real-time note-taking"
     },
     {
       "name": "Sonix",
       "url": "sonix.ai",
-      "reason": "Focuses on transcription and translation"
+      "reason": "Provides transcription and translation"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://otter.ai/help",
   "githubUrl": "https://github.com/search?q=otter%20meeting%20agent&type=repositories",
   "twitterUrl": "https://twitter.com/otter_ai",
-  "screenshot": "/screenshots/otter_ai.png",
-  "screenshot_640": "/screenshots/otter_ai_640.png",
-  "screenshot_400": "/screenshots/otter_ai_400.png",
-  "updatedAt": "2025-05-19T04:33:50.097Z"
+  "screenshot": "https://share.appsfor.us/screenshots/otter_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/otter_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/otter_ai_400.png",
+  "updatedAt": "2025-06-06T07:21:27.738Z"
 }

@@ -2,58 +2,58 @@
   "sourceUrl": "https://pageui.shipixen.com/",
   "name": "Page UI",
   "title": "pageui.shipixen.com",
-  "payoff": "Copy & paste landing page components",
-  "shortDescription": "Page UI offers a collection of landing page components and templates specifically designed for React developers using TailwindCSS. It simplifies the process of building visually appealing and high-converting landing pages by allowing users to copy and paste pre-designed sections directly into their codebase. Ideal for developers looking to save time on design and focus more on functionality.",
+  "payoff": "Build landing pages easily",
+  "shortDescription": "Page UI offers a collection of ready-to-use, customizable landing page components and templates designed for React developers. Utilizing TailwindCSS, it simplifies the creation of visually appealing and high-converting landing pages. Ideal for developers looking to speed up their workflow, Page UI allows easy integration with existing projects, enabling users to copy components directly into their codebase. An example use case is a developer quickly assembling a landing page for a new SaaS product launch.",
   "pros": [
-    "Easy to integrate with existing projects",
     "Free and open source",
+    "Easy integration with React and TailwindCSS",
     "Highly customizable components"
   ],
   "cons": [
-    "Limited to React and TailwindCSS",
-    "May not suit non-developers",
-    "Lacks some advanced features"
+    "Limited to React framework",
+    "May require familiarity with TailwindCSS",
+    "No direct support for non-web platforms"
   ],
   "alternatives": [
     "Bootstrap [getbootstrap.com]",
-    "Material-UI [mui.com]",
-    "Bulma [bulma.io]"
+    "Tailwind UI [tailwindui.com]",
+    "Material-UI [mui.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Bootstrap",
       "url": "getbootstrap.com",
-      "reason": "Widely used, flexible CSS framework"
+      "reason": "Widely used UI framework"
+    },
+    {
+      "name": "Tailwind UI",
+      "url": "tailwindui.com",
+      "reason": "TailwindCSS based components"
     },
     {
       "name": "Material-UI",
       "url": "mui.com",
-      "reason": "Offers React components for faster dev"
-    },
-    {
-      "name": "Bulma",
-      "url": "bulma.io",
-      "reason": "Modern CSS framework based on Flexbox"
+      "reason": "Components for material design"
     }
   ],
   "tags": [
-    "landing pages",
     "web development",
+    "UI components",
     "open source",
-    "UI components"
+    "landing pages"
   ],
   "apiUsed": false,
   "department": "Development",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2023,
   "websiteUrl": "https://pageui.shipixen.com/",
   "documentationUrl": "https://pageui.shipixen.com/docs",
   "githubUrl": "https://github.com/danmindru/page-ui",
   "twitterUrl": "https://x.com/isacoding/status/1786314708191965553",
-  "screenshot": "/screenshots/pageui_shipixen_com.png",
-  "screenshot_640": "/screenshots/pageui_shipixen_com_640.png",
-  "screenshot_400": "/screenshots/pageui_shipixen_com_400.png",
-  "updatedAt": "2025-05-12T07:34:05.230Z"
+  "screenshot": "https://share.appsfor.us/screenshots/pageui_shipixen_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pageui_shipixen_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pageui_shipixen_com_400.png",
+  "updatedAt": "2025-06-06T07:23:58.143Z"
 }
