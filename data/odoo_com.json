@@ -3,37 +3,37 @@
   "name": "Odoo",
   "title": "odoo.com",
   "payoff": "All your business on one platform",
-  "shortDescription": "Odoo is a comprehensive suite of business applications covering all company needs from CRM to eCommerce, accounting, and beyond. It's designed for businesses of all sizes, offering tools for seamless integration and improved productivity. An example use case is a small business leveraging Odoo's CRM and eCommerce apps to manage customer relationships and online sales efficiently.",
+  "shortDescription": "Odoo is a comprehensive suite of business applications including CRM, eCommerce, accounting, inventory, and more, designed to streamline all aspects of your business operations. It's suitable for businesses of all sizes, offering tools for both community and enterprise editions. An example use case is a small business utilizing Odoo's CRM and eCommerce apps to manage customer interactions and online sales efficiently.",
   "pros": [
-    "Comprehensive suite of integrated apps",
-    "Open source with a large developer community",
-    "Affordable flat-rate pricing"
+    "Highly customizable with Odoo Studio",
+    "Community-driven with 100k+ developers",
+    "Unified platform for diverse business needs"
   ],
   "cons": [
     "Potential complexity in initial setup",
-    "May require technical skills for customization",
-    "Enterprise version can be costly for startups"
+    "Enterprise edition can be costly",
+    "Might be overkill for very small businesses"
   ],
   "alternatives": [
     "SAP Business One [sap.com]",
     "Microsoft Dynamics 365 [dynamics.microsoft.com]",
-    "NetSuite [netsuite.com]"
+    "Zoho One [zoho.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "SAP Business One",
       "url": "sap.com",
-      "reason": "Comprehensive ERP for larger enterprises"
+      "reason": "Comprehensive ERP for larger businesses"
     },
     {
       "name": "Microsoft Dynamics 365",
       "url": "dynamics.microsoft.com",
-      "reason": "Flexible ERP with deep integration"
+      "reason": "Flexible, integrates with other MS services"
     },
     {
-      "name": "NetSuite",
-      "url": "netsuite.com",
-      "reason": "Cloud-based ERP for fast-growing businesses"
+      "name": "Zoho One",
+      "url": "zoho.com",
+      "reason": "Affordable, with broad functionality"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://www.odoo.com/documentation",
   "githubUrl": "https://github.com/odoo",
   "twitterUrl": "https://twitter.com/Odoo",
-  "screenshot": "/screenshots/odoo_com.png",
-  "screenshot_640": "/screenshots/odoo_com_640.png",
-  "screenshot_400": "/screenshots/odoo_com_400.png",
-  "updatedAt": "2025-05-14T02:55:49.855Z"
+  "screenshot": "https://share.appsfor.us/screenshots/odoo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/odoo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/odoo_com_400.png",
+  "updatedAt": "2025-06-06T07:04:18.363Z"
 }
