@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://breakcold.com/",
+  "name": "Breakcold",
+  "title": "breakcold.com",
+  "payoff": "CRM for modern salespeople",
+  "shortDescription": "Breakcold is a sales CRM software designed for agencies and startups. It integrates tools like Email, LinkedIn, WhatsApp, and Telegram to streamline sales processes. Users can manage their CRM from the most active platforms, reducing time spent on manual data entry and focusing on closing deals. For example, Xavier used Breakcold's free trial to close 6 deals in 14 days, demonstrating its effectiveness in boosting sales efficiency.",
+  "pros": [
+    "Integrates multiple communication platforms",
+    "Reduces manual data entry",
+    "Focuses on closing deals quickly"
+  ],
+  "cons": [
+    "Limited to sales CRM functionalities",
+    "May require learning for new users",
+    "Potential dependency on third-party platforms"
+  ],
+  "alternatives": [
+    "HubSpot CRM [hubspot.com]",
+    "Salesforce [salesforce.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Offers broader marketing tools"
+    },
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "More features and customizability"
+    },
+    {
+      "name": "Pipedrive",
+      "url": "pipedrive.com",
+      "reason": "Strong in pipeline management"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "sales management",
+    "data aggregation",
+    "social selling"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://breakcold.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=breakcold&type=repositories",
+  "twitterUrl": "https://twitter.com/Breakcold_",
+  "screenshot": "https://share.appsfor.us/screenshots/breakcold_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/breakcold_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/breakcold_com_400.png",
+  "updatedAt": "2025-06-06T07:33:58.042Z"
+}
