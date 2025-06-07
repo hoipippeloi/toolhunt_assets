@@ -3,10 +3,10 @@
   "name": "Plausible Analytics",
   "title": "plausible.io",
   "payoff": "Privacy-friendly analytics alternative",
-  "shortDescription": "Plausible Analytics offers a simple, lightweight, and privacy-focused alternative to Google Analytics. It is designed for startups, agencies, and creators who need straightforward insights without complex setups. Users can easily import data from Google Analytics, view essential metrics on a single dashboard, and manage multiple sites without the need for cookie consents or GDPR banners.",
+  "shortDescription": "Plausible Analytics offers a simple, lightweight, and privacy-focused alternative to Google Analytics. It is designed for startups, agencies, and creators who value user privacy and want a hassle-free analytics tool. Users can easily import data from Google Analytics, view essential insights on a single dashboard, and manage multiple sites without needing complex setups.",
   "pros": [
     "Lightweight and fast script",
-    "No need for cookie/GDPR consent",
+    "No cookie/GDPR consent required",
     "Open source and customizable"
   ],
   "cons": [
@@ -17,27 +17,27 @@
   "alternatives": [
     "Google Analytics [analytics.google.com]",
     "Matomo [matomo.org]",
-    "Cloudflare Analytics [cloudflare.com]"
+    "Cloudflare Web Analytics [cloudflare.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Google Analytics",
       "url": "analytics.google.com",
-      "reason": "Most popular analytics tool"
+      "reason": "Most widely used analytics tool"
     },
     {
       "name": "Matomo",
       "url": "matomo.org",
-      "reason": "Open source with privacy focus"
+      "reason": "Open source with more features"
     },
     {
       "name": "Fathom Analytics",
       "url": "usefathom.com",
-      "reason": "Simple, privacy-first alternative"
+      "reason": "Privacy-focused, simple UI"
     }
   ],
   "tags": [
-    "web analytics",
+    "analytics",
     "privacy",
     "open source",
     "GDPR compliant"
@@ -52,8 +52,8 @@
   "documentationUrl": "https://plausible.io/docs",
   "githubUrl": "https://github.com/plausible/analytics",
   "twitterUrl": "https://twitter.com/PlausibleHQ",
-  "screenshot": "/screenshots/plausible_io.png",
-  "screenshot_640": "/screenshots/plausible_io_640.png",
-  "screenshot_400": "/screenshots/plausible_io_400.png",
-  "updatedAt": "2025-05-08T09:06:23.147Z"
+  "screenshot": "https://share.appsfor.us/screenshots/plausible_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/plausible_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/plausible_io_400.png",
+  "updatedAt": "2025-06-07T02:56:11.423Z"
 }

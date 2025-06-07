@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://granola.ai/",
+  "name": "Granola",
+  "title": "granola.ai",
+  "payoff": "AI-enhanced meeting notes",
+  "shortDescription": "Granola is an AI-powered notepad designed for individuals with back-to-back meetings. It transcribes meeting audio directly without requiring bots to join the call, enhancing notes with AI to ensure they are comprehensive and actionable. Ideal for busy professionals, Granola simplifies note-taking and sharing across platforms, making meetings more productive.",
+  "pros": [
+    "Transcribes directly without meeting bots",
+    "Enhances notes with AI for clarity and actionability",
+    "Easy sharing across platforms"
+  ],
+  "cons": [
+    "Dependent on quality of audio input",
+    "May not capture non-verbal cues",
+    "Requires continuous internet connection"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Notion [notion.so]",
+    "Microsoft OneNote [onenote.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Popular note-taking tool with sync features"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with note-taking capabilities"
+    },
+    {
+      "name": "Microsoft OneNote",
+      "url": "onenote.com",
+      "reason": "Integrated with Office suite for collaboration"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "note-taking",
+    "meeting management"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://granola.ai/",
+  "documentationUrl": "https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy",
+  "githubUrl": "https://github.com/search?q=granola&type=repositories",
+  "twitterUrl": "https://twitter.com/natfriedman/status/1803788840781365393",
+  "screenshot": "https://share.appsfor.us/screenshots/granola_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/granola_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/granola_ai_400.png",
+  "updatedAt": "2025-06-07T02:58:06.089Z"
+}

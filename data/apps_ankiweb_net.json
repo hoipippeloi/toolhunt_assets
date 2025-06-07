@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://apps.ankiweb.net/",
+  "name": "Anki",
+  "title": "ankiweb.net",
+  "payoff": "Intelligent flashcard learning",
+  "shortDescription": "Anki is a versatile flashcard application designed to optimize learning by focusing on more challenging material while minimizing time spent on familiar content. It's ideal for students, educators, and lifelong learners. Users can create decks of flashcards, incorporating multimedia elements like audio and images, and utilize Anki's spaced repetition algorithm to efficiently manage review timing. An example use case is a medical student using Anki to memorize complex anatomical terms.",
+  "pros": [
+    "Supports multimedia in flashcards",
+    "Syncs across multiple devices",
+    "Handles large decks (100,000+ cards)"
+  ],
+  "cons": [
+    "Steep learning curve for new users",
+    "Limited design and aesthetic options",
+    "Dependence on community for add-ons"
+  ],
+  "alternatives": [
+    "Quizlet [quizlet.com]",
+    "Cram [cram.com]",
+    "Brainscape [brainscape.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers simpler interface and games"
+    },
+    {
+      "name": "Memrise",
+      "url": "memrise.com",
+      "reason": "Focuses on language learning"
+    },
+    {
+      "name": "Chegg Prep",
+      "url": "chegg.com",
+      "reason": "Includes study tools and tutoring"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "spaced repetition",
+    "flashcards",
+    "educational tool"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2006,
+  "websiteUrl": "https://apps.ankiweb.net/",
+  "documentationUrl": "https://docs.ankiweb.net/",
+  "githubUrl": "https://github.com/ankitects/anki",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/apps_ankiweb_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/apps_ankiweb_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/apps_ankiweb_net_400.png",
+  "updatedAt": "2025-06-07T02:58:42.342Z"
+}

@@ -3,16 +3,16 @@
   "name": "Teamcenter",
   "title": "plm.sw.siemens.com",
   "payoff": "Optimize your product lifecycle",
-  "shortDescription": "Teamcenter by Siemens is a comprehensive product lifecycle management (PLM) software designed to help businesses plan, develop, and deliver innovative products efficiently. It connects people across various departments, automating and streamlining lifecycle processes to foster innovative decision-making. Suitable for startups to large enterprises across industries, Teamcenter is used to manage everything from design to manufacturing and service, exemplified by its adoption by companies like Northrop Grumman.",
+  "shortDescription": "Teamcenter by Siemens is a comprehensive product lifecycle management (PLM) software. It is designed for businesses of all sizes, from start-ups to large enterprises, across various industries. Teamcenter helps companies plan, develop, and deliver innovative products efficiently. An example use case includes using digital twins to optimize manufacturing processes and product design, ensuring issues are resolved before they manifest in the real world.",
   "pros": [
-    "Connects and optimizes processes using digital twins",
-    "Flexible deployment options: on-premises or cloud",
-    "Broad industry adoption ensuring reliability and continuous updates"
+    "Supports comprehensive lifecycle management",
+    "Flexible deployment options (on-premises or cloud)",
+    "Integrates with digital twins for enhanced simulation"
   ],
   "cons": [
-    "May be complex to implement for smaller teams",
+    "May be complex to implement",
     "Potentially high cost of ownership",
-    "Requires significant training and adaptation"
+    "Requires substantial IT support"
   ],
   "alternatives": [
     "PTC Windchill [ptc.com]",
@@ -28,12 +28,12 @@
     {
       "name": "Dassault ENOVIA",
       "url": "3ds.com",
-      "reason": "Focuses on collaboration and real-time updates"
+      "reason": "Focuses on collaboration and data management"
     },
     {
       "name": "Autodesk Fusion Lifecycle",
       "url": "autodesk.com",
-      "reason": "Cloud-based PLM with easier setup for SMBs"
+      "reason": "Cloud-based PLM with easy accessibility"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 1998,
   "websiteUrl": "https://plm.sw.siemens.com/en-US/teamcenter/",
-  "documentationUrl": "https://plm.sw.siemens.com/en-US/teamcenter/documentation",
+  "documentationUrl": "https://docs.plm.automation.siemens.com/docs/teamcenter",
   "githubUrl": "https://github.com/search?q=teamcenter&type=repositories",
   "twitterUrl": "https://www.mendix.com/",
-  "screenshot": "/screenshots/plm_sw_siemens_com.png",
-  "screenshot_640": "/screenshots/plm_sw_siemens_com_640.png",
-  "screenshot_400": "/screenshots/plm_sw_siemens_com_400.png",
-  "updatedAt": "2025-05-10T09:15:02.613Z"
+  "screenshot": "https://share.appsfor.us/screenshots/plm_sw_siemens_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/plm_sw_siemens_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/plm_sw_siemens_com_400.png",
+  "updatedAt": "2025-06-07T02:57:31.763Z"
 }

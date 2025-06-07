@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://boardy.app/",
+  "name": "Boardy",
+  "title": "boardy.app",
+  "payoff": "Beautiful Dashboards for Everyone",
+  "shortDescription": "Boardy allows users to create beautiful, auto-updating dashboards with ease. Utilizing pre-built modules, users can design and customize dashboards without needing coding skills or server management. Simply select a module, set parameters, and arrange them on your dashboard. This tool is ideal for individuals or businesses wanting to monitor data visually without technical overhead.",
+  "pros": [
+    "No coding required to set up dashboards",
+    "Auto-updating dashboards with fresh data",
+    "API available for custom module integration"
+  ],
+  "cons": [
+    "Limited to pre-built modules unless using API",
+    "May not offer as much flexibility as full coding solutions",
+    "Dependent on the continuous addition of new modules"
+  ],
+  "alternatives": [
+    "Klipfolio [klipfolio.com]",
+    "Geckoboard [geckoboard.com]",
+    "Smartsheet [smartsheet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Klipfolio",
+      "url": "klipfolio.com",
+      "reason": "Offers extensive dashboard customization"
+    },
+    {
+      "name": "Geckoboard",
+      "url": "geckoboard.com",
+      "reason": "Focuses on real-time data dashboards"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Combines dashboards with project management"
+    }
+  ],
+  "tags": [
+    "dashboard",
+    "data visualization",
+    "no-code",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://boardy.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=boardy&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/boardy_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/boardy_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/boardy_app_400.png",
+  "updatedAt": "2025-06-07T02:59:23.716Z"
+}
