@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://exactly.ai/",
+  "name": "exactly.ai",
+  "title": "exactly.ai",
+  "payoff": "Bespoke AI models for your brand",
+  "shortDescription": "exactly.ai offers a platform for creating brand-ready visuals using AI-driven style transfer and image generation. It caters primarily to agencies, brands, and artists seeking to maintain style consistency, secure privacy, and own full rights to their creations. An example use case is an art director training models to develop a unique AI style for advertising campaigns.",
+  "pros": [
+    "Maintain style consistency",
+    "Secure and private",
+    "Own full rights to any image"
+  ],
+  "cons": [
+    "May require technical knowledge to train models",
+    "Limited to visual content creation",
+    "Potential high cost for custom solutions"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers easy-to-use design tools with templates"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Provides professional templates and design options"
+    },
+    {
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Similar features with a focus on animation and graphics"
+    }
+  ],
+  "tags": [
+    "AI",
+    "image generation",
+    "style transfer",
+    "visual content creation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://exactly.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=exactly%20ai&type=repositories",
+  "twitterUrl": "https://x.com/exactly_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/exactly_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/exactly_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/exactly_ai_400.png",
+  "updatedAt": "2025-06-07T10:15:18.569Z"
+}
