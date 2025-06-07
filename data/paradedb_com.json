@@ -3,16 +3,16 @@
   "name": "ParadeDB",
   "title": "paradedb.com",
   "payoff": "Zero ETL search and analytics for Postgres",
-  "shortDescription": "ParadeDB transforms Postgres into a powerful search and analytics engine, eliminating the need for Elasticsearch. It is designed for real-time, update-heavy workloads, making it ideal for businesses that require efficient data handling without complex ETL processes. Users can enhance Postgres' search capabilities and integrate with existing infrastructure seamlessly. Example use case includes companies needing to perform fast data analytics on large-scale Postgres databases.",
+  "shortDescription": "ParadeDB transforms Postgres into a powerful search and analytics engine, eliminating the need for Elasticsearch. It is designed for real-time, update-heavy workloads, making it ideal for businesses that require efficient data handling without the complexity of syncing systems. An example use case is a tech company looking to implement real-time search capabilities within their existing Postgres databases without additional infrastructure.",
   "pros": [
-    "Enhanced search capabilities with BM25 scoring",
-    "Seamless integration with existing infrastructures",
-    "Support for fast analytics and faceting"
+    "Integrates with existing Postgres infrastructure",
+    "Supports real-time, update-heavy workloads",
+    "Zero ETL required for operation"
   ],
   "cons": [
     "Limited to Postgres databases",
-    "May not support all Elasticsearch features",
-    "Dependent on the underlying performance of Postgres"
+    "May not have the full feature set of Elasticsearch",
+    "Dependent on the scalability of the underlying Postgres setup"
   ],
   "alternatives": [
     "Elasticsearch [elastic.co]",
@@ -23,12 +23,12 @@
     {
       "name": "Elasticsearch",
       "url": "elastic.co",
-      "reason": "Popular full-text search engine with analytics"
+      "reason": "Popular full-text search engine"
     },
     {
       "name": "Solr",
       "url": "lucene.apache.org/solr",
-      "reason": "Flexible, scalable search platform"
+      "reason": "Flexible, high-capacity search tool"
     },
     {
       "name": "Algolia",
@@ -37,9 +37,9 @@
     }
   ],
   "tags": [
-    "data analytics",
     "database",
     "search engine",
+    "data analytics",
     "Postgres"
   ],
   "apiUsed": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://paradedb.com/documentation",
   "githubUrl": "https://github.com/paradedb/paradedb",
   "twitterUrl": "https://x.com/paradedb",
-  "screenshot": "/screenshots/paradedb_com.png",
-  "screenshot_640": "/screenshots/paradedb_com_640.png",
-  "screenshot_400": "/screenshots/paradedb_com_400.png",
-  "updatedAt": "2025-05-08T13:34:11.724Z"
+  "screenshot": "https://share.appsfor.us/screenshots/paradedb_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/paradedb_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/paradedb_com_400.png",
+  "updatedAt": "2025-06-07T01:09:22.273Z"
 }

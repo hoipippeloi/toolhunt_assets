@@ -3,44 +3,44 @@
   "name": "pg_mooncake",
   "title": "pgmooncake.com",
   "payoff": "1000x Faster Analytics in Postgres",
-  "shortDescription": "pg_mooncake enhances Postgres databases by integrating a columnstore feature, significantly boosting analytics speeds by up to 1000 times. This tool is ideal for data analysts and businesses that rely heavily on data processing and require rapid analytical capabilities. An example use case could be a financial firm analyzing large volumes of transactional data to identify market trends in real-time.",
+  "shortDescription": "pg_mooncake enhances Postgres databases by integrating a columnstore, significantly boosting analytics speeds by up to 1000x. It's designed for data analysts and businesses that require rapid, real-time data analysis. An example use case is a financial firm analyzing large volumes of transaction data to identify trends and make quick decisions.",
   "pros": [
-    "Significantly faster data analytics",
-    "Seamless integration with Postgres",
-    "Enhances performance without altering existing DB infrastructure"
+    "Significantly increases analytics speed",
+    "Integrates seamlessly with Postgres",
+    "Supports real-time data analysis"
   ],
   "cons": [
-    "May require specific technical skills to implement",
-    "Potential compatibility issues with some Postgres extensions",
-    "Limited information on scalability and maintenance"
+    "May require specific hardware setup",
+    "Potential learning curve for new users",
+    "Limited by Postgres compatibility"
   ],
   "alternatives": [
     "TimescaleDB [timescale.com]",
-    "Apache Druid [druid.apache.org]",
-    "ClickHouse [clickhouse.com]"
+    "Citus Data [citusdata.com]",
+    "Apache Druid [druid.apache.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "TimescaleDB",
       "url": "timescale.com",
-      "reason": "Offers scalable time-series DB"
+      "reason": "Provides scalable time-series DB"
+    },
+    {
+      "name": "Citus Data",
+      "url": "citusdata.com",
+      "reason": "Scales out Postgres for performance"
     },
     {
       "name": "Apache Druid",
       "url": "druid.apache.org",
-      "reason": "Focuses on real-time analytics"
-    },
-    {
-      "name": "ClickHouse",
-      "url": "clickhouse.com",
-      "reason": "Optimized for column-oriented DB"
+      "reason": "Real-time analytics on event-driven data"
     }
   ],
   "tags": [
     "analytics",
     "database",
-    "Postgres",
-    "performance enhancement"
+    "postgres",
+    "performance"
   ],
   "apiUsed": false,
   "department": "Data & Analytics",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/Mooncake-Labs/pg_mooncake",
   "twitterUrl": "https://x.com/mooncakelabs",
-  "screenshot": "/screenshots/pgmooncake_com.png",
-  "screenshot_640": "/screenshots/pgmooncake_com_640.png",
-  "screenshot_400": "/screenshots/pgmooncake_com_400.png",
-  "updatedAt": "2025-05-16T02:58:08.387Z"
+  "screenshot": "https://share.appsfor.us/screenshots/pgmooncake_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pgmooncake_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pgmooncake_com_400.png",
+  "updatedAt": "2025-06-07T01:11:28.848Z"
 }

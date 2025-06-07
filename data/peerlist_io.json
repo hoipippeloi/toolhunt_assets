@@ -3,48 +3,47 @@
   "name": "Peerlist",
   "title": "peerlist.io",
   "payoff": "Network for builders to show & tell!",
-  "shortDescription": "Peerlist is a professional networking platform designed for creators and builders to showcase their work, find job opportunities, and connect with like-minded professionals. Users can display their projects, verify their credentials, and even host their profiles on custom domains, making it an ideal alternative to traditional portfolios.",
+  "shortDescription": "Peerlist is a professional networking platform designed for creators and builders to showcase their work, launch projects, and find job opportunities. It serves as a dynamic portfolio where users can display their proof of work, verify their credentials, and share personal interests. An example use case is a software developer using Peerlist to host their portfolio on a custom domain, showcasing projects and receiving feedback.",
   "pros": [
-    "Showcase work across various platforms",
-    "Verification of workplace and education",
-    "Custom domain hosting for profiles"
+    "Allows showcasing of diverse work",
+    "Profile customization with personal domains",
+    "Community engagement through feedback"
   ],
   "cons": [
     "Limited to professional networking",
-    "May not replace traditional job boards",
-    "Profile customization could be complex"
+    "May not replace traditional job platforms",
+    "Dependent on user engagement for value"
   ],
   "alternatives": [
     "LinkedIn [linkedin.com]",
     "Behance [behance.net]",
-    "Dribbble [dribbble.com]"
+    "GitHub [github.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "LinkedIn",
       "url": "linkedin.com",
-      "reason": "Wider professional network with job listings"
+      "reason": "Broad professional networking"
     },
     {
       "name": "Behance",
       "url": "behance.net",
-      "reason": "Focused on creative portfolios and networking"
+      "reason": "Focus on creative portfolios"
     },
     {
-      "name": "Dribbble",
-      "url": "dribbble.com",
-      "reason": "Platform for designers to showcase creative work"
+      "name": "GitHub",
+      "url": "github.com",
+      "reason": "Developer projects and collaboration"
     }
   ],
   "tags": [
     "professional networking",
-    "portfolio showcase",
-    "job search",
-    "project launch"
+    "portfolio management",
+    "community engagement"
   ],
   "apiUsed": false,
-  "department": "Design",
-  "function": "Social Media",
+  "department": "Product Management",
+  "function": "User Engagement",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2020,
@@ -52,8 +51,8 @@
   "documentationUrl": "https://help.peerlist.io/",
   "githubUrl": "https://github.com/search?q=peerlist&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/peerlist_io.png",
-  "screenshot_640": "/screenshots/peerlist_io_640.png",
-  "screenshot_400": "/screenshots/peerlist_io_400.png",
-  "updatedAt": "2025-05-18T04:00:33.481Z"
+  "screenshot": "https://share.appsfor.us/screenshots/peerlist_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/peerlist_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/peerlist_io_400.png",
+  "updatedAt": "2025-06-07T01:10:07.238Z"
 }

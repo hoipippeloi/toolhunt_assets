@@ -2,58 +2,56 @@
   "sourceUrl": "https://paint-potion.com/",
   "name": "Paint Potion",
   "title": "paint-potion.com",
-  "payoff": "Create style-consistent illustrations",
-  "shortDescription": "Paint Potion is an AI-powered tool designed for illustrators and designers to create vector illustrations that match their unique style. Users can upload reference images to teach the AI their style, type a prompt, and instantly receive four style-consistent illustrations. This tool is ideal for marketing professionals and content creators who need quick, on-brand visuals for digital and print campaigns.",
+  "payoff": "Create style-consistent vector illustrations",
+  "shortDescription": "Paint Potion is a tool designed for artists and designers to quickly create style-consistent vector illustrations. It simplifies the design process by automating the creation of illustrations, making it ideal for projects requiring a unified visual style. Users can generate illustrations in seconds, enhancing productivity and consistency across their creative projects.",
   "pros": [
-    "Instant generation of style-consistent illustrations",
-    "Supports both SVG and PNG formats",
-    "Simple and transparent pricing model"
+    "Rapid illustration creation",
+    "Consistent style output",
+    "User-friendly interface"
   ],
   "cons": [
-    "Limited to vector illustrations",
-    "No free tier available",
-    "Requires multiple reference images for best results"
+    "Limited customization options",
+    "No offline functionality",
+    "Discontinued service"
   ],
   "alternatives": [
-    "Adobe Illustrator [adobe.com]",
-    "CorelDRAW [coreldraw.com]",
-    "Inkscape [inkscape.org]"
+    "exactly.ai [exactly.ai]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Adobe Illustrator",
-      "url": "adobe.com",
+      "url": "adobe.com/products/illustrator",
       "reason": "Industry standard for vector graphics"
     },
     {
       "name": "CorelDRAW",
       "url": "coreldraw.com",
-      "reason": "Powerful graphic design software"
+      "reason": "Powerful graphic design tool with flexibility"
     },
     {
       "name": "Inkscape",
       "url": "inkscape.org",
-      "reason": "Open source vector graphics editor"
+      "reason": "Free and open-source vector graphics editor"
     }
   ],
   "tags": [
-    "AI",
     "design tools",
     "vector illustrations",
-    "digital marketing"
+    "automation",
+    "creative"
   ],
   "apiUsed": false,
   "department": "Creative",
   "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2024,
   "websiteUrl": "https://paint-potion.com/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=paint%20potion&type=repositories",
-  "twitterUrl": null,
-  "screenshot": "/screenshots/paint_potion_com.png",
-  "screenshot_640": "/screenshots/paint_potion_com_640.png",
-  "screenshot_400": "/screenshots/paint_potion_com_400.png",
-  "updatedAt": "2025-05-08T09:27:57.980Z"
+  "twitterUrl": "https://x.com/bryanpar_",
+  "screenshot": "https://share.appsfor.us/screenshots/paint_potion_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/paint_potion_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/paint_potion_com_400.png",
+  "updatedAt": "2025-06-07T01:08:09.053Z"
 }
