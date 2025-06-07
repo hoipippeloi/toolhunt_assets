@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ar.snap.com/",
+  "name": "Snap AR",
+  "title": "ar.snap.com",
+  "payoff": "Build and Share AR on Snapchat",
+  "shortDescription": "Snap AR enables creators to deploy augmented reality experiences seamlessly across iOS and Android platforms. It's designed for developers and creative professionals who wish to integrate AR into apps with Snapchat's Camera Kit. Users can join the Lens Creator Rewards Program to earn rewards for high-performing AR Lenses, enhancing engagement and interactivity in digital content.",
+  "pros": [
+    "Robust feature set for creativity",
+    "Large community of creators",
+    "Integration with popular platforms"
+  ],
+  "cons": [
+    "Limited to Snapchat ecosystem",
+    "Beta access required for new features",
+    "Potential complexity in AR development"
+  ],
+  "alternatives": [
+    "Unity [unity.com]",
+    "Vuforia [vuforia.com]",
+    "ARKit [developer.apple.com/arkit/]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Unity",
+      "url": "unity.com",
+      "reason": "Popular for AR/VR game development"
+    },
+    {
+      "name": "Vuforia",
+      "url": "vuforia.com",
+      "reason": "Strong in industrial AR applications"
+    },
+    {
+      "name": "ARKit",
+      "url": "developer.apple.com/arkit/",
+      "reason": "Apple's platform for AR on iOS"
+    }
+  ],
+  "tags": [
+    "augmented reality",
+    "AR development",
+    "creative tools",
+    "mobile apps"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "Mobile Apps",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://ar.snap.com/",
+  "documentationUrl": "https://ar.snap.com/docs",
+  "githubUrl": "https://github.com/search?q=snap%20ar&type=repositories",
+  "twitterUrl": "https://twitter.com/SnapAR",
+  "screenshot": "https://share.appsfor.us/screenshots/ar_snap_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ar_snap_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ar_snap_com_400.png",
+  "updatedAt": "2025-06-07T03:42:59.631Z"
+}

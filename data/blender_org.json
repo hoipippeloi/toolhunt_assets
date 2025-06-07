@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blender.org/",
+  "name": "Blender",
+  "title": "blender.org",
+  "payoff": "Free and Open 3D Creation Software",
+  "shortDescription": "Blender is a comprehensive open-source tool for 3D creation, offering a suite of features for modeling, rendering, animation, and more. It caters to professionals like designers, developers, and artists, enabling them to create impactful visual content. Example use cases include creating animated films, visual effects, and complex 3D models.",
+  "pros": [
+    "Comprehensive 3D toolset",
+    "Strong community and support",
+    "Cross-platform compatibility"
+  ],
+  "cons": [
+    "Steep learning curve",
+    "High system requirements",
+    "Limited real-time performance"
+  ],
+  "alternatives": [
+    "Autodesk Maya [autodesk.com]",
+    "Cinema 4D [maxon.net]",
+    "3ds Max [autodesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Autodesk Maya",
+      "url": "autodesk.com",
+      "reason": "Industry standard for 3D animation"
+    },
+    {
+      "name": "Cinema 4D",
+      "url": "maxon.net",
+      "reason": "Easier learning curve than Blender"
+    },
+    {
+      "name": "3ds Max",
+      "url": "autodesk.com",
+      "reason": "Powerful in modeling and animation"
+    }
+  ],
+  "tags": [
+    "3D modeling",
+    "animation",
+    "open source",
+    "rendering"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 1995,
+  "websiteUrl": "https://blender.org/",
+  "documentationUrl": "https://docs.blender.org/manual/en/latest/",
+  "githubUrl": "https://github.com/search?q=blender&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/blender_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/blender_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/blender_org_400.png",
+  "updatedAt": "2025-06-07T03:41:59.371Z"
+}
