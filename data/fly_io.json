@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fly.io/",
+  "name": "Fly",
+  "title": "fly.io",
+  "payoff": "Scale apps effortlessly worldwide",
+  "shortDescription": "Fly.io provides a platform for running user or robot code on virtualized hardware containers globally. It supports dynamic scaling and persistent storage, ideal for developers needing isolated environments for each user. Example use case: deploying microservices that scale based on demand, reducing operational costs.",
+  "pros": [
+    "Scales to zero to reduce costs",
+    "Supports any Docker image",
+    "Global availability in 35 regions"
+  ],
+  "cons": [
+    "May require Docker knowledge",
+    "Limited to container-based deployments",
+    "Potential latency based on region"
+  ],
+  "alternatives": [
+    "Heroku [heroku.com]",
+    "DigitalOcean [digitalocean.com]",
+    "AWS Lambda [aws.amazon.com/lambda]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "PaaS with similar scaling options"
+    },
+    {
+      "name": "Google Cloud Run",
+      "url": "cloud.google.com/run",
+      "reason": "Fully managed serverless platform"
+    },
+    {
+      "name": "Azure Container Instances",
+      "url": "azure.microsoft.com/en-us/services/container-instances",
+      "reason": "Instant container deployments"
+    }
+  ],
+  "tags": [
+    "cloud computing",
+    "containerization",
+    "scalability",
+    "serverless"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Cloud Platform",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://fly.io/",
+  "documentationUrl": "https://fly.io/docs",
+  "githubUrl": "https://github.com/superfly/",
+  "twitterUrl": "https://twitter.com/flydotio",
+  "screenshot": "https://share.appsfor.us/screenshots/fly_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fly_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fly_io_400.png",
+  "updatedAt": "2025-06-08T03:13:16.563Z"
+}

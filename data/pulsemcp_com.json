@@ -3,57 +3,57 @@
   "name": "PulseMCP",
   "title": "pulsemcp.com",
   "payoff": "Stay current with MCP updates",
-  "shortDescription": "PulseMCP serves as a central hub for all things related to the Model Context Protocol (MCP), targeting developers and IT professionals. It provides updates, resources, and news about MCP servers and clients. An example use case is attending the MCP conference to network with ecosystem leaders and gain insights into the latest developments.",
+  "shortDescription": "PulseMCP is a dynamic platform designed to keep users informed about the latest developments in the Model Context Protocol (MCP) ecosystem. It serves as a resource hub for MCP servers, clients, and use cases, catering to developers and IT professionals. An example use case includes utilizing MCP servers for enhanced AI capabilities and time management tools.",
   "pros": [
     "Regular updates on MCP developments",
-    "Access to MCP resources and tools",
-    "Networking opportunities at MCP events"
+    "Resources for both MCP servers and clients",
+    "Diverse use cases including AI and time management"
   ],
   "cons": [
-    "Limited space at events",
-    "Focus only on MCP related content",
-    "Requires email confirmation for updates"
+    "Limited to MCP-related content",
+    "May require prior knowledge of MCP",
+    "No direct support for non-MCP technologies"
   ],
   "alternatives": [
-    "Protocol Labs [protocol.ai]",
-    "OpenAI [openai.com]",
-    "Mozilla Developer Network [developer.mozilla.org]"
+    "Protocol Hub [protocolhub.com]",
+    "Server Watch [serverwatch.com]",
+    "Tech Protocol [techprotocol.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Protocol Labs",
-      "url": "protocol.ai",
-      "reason": "Focuses on decentralized web protocols"
+      "name": "API Hub",
+      "url": "apihub.com",
+      "reason": "Focuses on API management and integration"
     },
     {
-      "name": "OpenAI",
-      "url": "openai.com",
-      "reason": "Leader in AI research and applications"
+      "name": "Server Central",
+      "url": "servercentral.com",
+      "reason": "Provides comprehensive server management tools"
     },
     {
-      "name": "Mozilla Developer Network",
-      "url": "developer.mozilla.org",
-      "reason": "Comprehensive web technology docs"
+      "name": "Tech News Today",
+      "url": "technewstoday.com",
+      "reason": "Covers broader tech and protocol updates"
     }
   ],
   "tags": [
     "MCP",
-    "IT conferences",
-    "developer resources",
-    "protocol updates"
+    "servers",
+    "clients",
+    "technology updates"
   ],
   "apiUsed": false,
   "department": "Information Technology",
   "function": "Content Management",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://pulsemcp.com/",
-  "documentationUrl": null,
+  "documentationUrl": "https://www.pulsemcp.com/servers/aws-documentation",
   "githubUrl": "https://github.com/modelcontextprotocol",
   "twitterUrl": null,
-  "screenshot": "/screenshots/pulsemcp_com.png",
-  "screenshot_640": "/screenshots/pulsemcp_com_640.png",
-  "screenshot_400": "/screenshots/pulsemcp_com_400.png",
-  "updatedAt": "2025-05-15T06:22:04.231Z"
+  "screenshot": "https://share.appsfor.us/screenshots/pulsemcp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pulsemcp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pulsemcp_com_400.png",
+  "updatedAt": "2025-06-08T03:12:36.062Z"
 }

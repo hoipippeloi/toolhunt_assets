@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://focustodo.cn/",
+  "name": "Focus To-Do",
+  "title": "focustodo.cn",
+  "payoff": "Efficient task management tool",
+  "shortDescription": "Focus To-Do leverages the Pomodoro Technique to enhance productivity through structured task management. It is designed for individuals and professionals who want to organize their work and personal life efficiently. Users can set timers for tasks, get reminders, and track progress across devices, making it ideal for managing daily activities and achieving goals.",
+  "pros": [
+    "Cross-platform synchronization",
+    "Pomodoro timer integration",
+    "Comprehensive task reporting"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potential privacy concerns",
+    "No API for developers"
+  ],
+  "alternatives": [
+    "Todoist [todoist.com]",
+    "Trello [trello.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Offers more integrations and customization."
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual task management with board system."
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive project management features."
+    }
+  ],
+  "tags": [
+    "task management",
+    "time tracking",
+    "productivity",
+    "Pomodoro Technique"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://focustodo.cn/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=focus%20to%20do&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/focustodo_cn.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/focustodo_cn_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/focustodo_cn_400.png",
+  "updatedAt": "2025-06-08T03:14:33.174Z"
+}

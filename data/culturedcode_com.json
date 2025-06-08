@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://culturedcode.com/things/",
+  "name": "Things",
+  "title": "culturedcode.com",
+  "payoff": "Manage tasks and achieve goals",
+  "shortDescription": "Things is a personal task manager designed for Mac & iOS users. It helps individuals organize daily tasks, manage projects, and achieve life goals efficiently. Users can quickly offload thoughts and organize them into actionable items, making it ideal for anyone looking to streamline their productivity. Example use case: A professional using Things to manage daily tasks alongside long-term project milestones.",
+  "pros": [
+    "Award-winning design and ease-of-use",
+    "Seamless integration across Mac & iOS devices",
+    "Powerful functionality for task and project management"
+  ],
+  "cons": [
+    "Available only for Apple users",
+    "No free version available",
+    "Higher cost compared to some competitors"
+  ],
+  "alternatives": [
+    "Todoist [todoist.com]",
+    "Microsoft To Do [todo.microsoft.com]",
+    "OmniFocus [omnigroup.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Cross-platform support and flexible features"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Great for team collaboration and project management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management with board-based setup"
+    }
+  ],
+  "tags": [
+    "task management",
+    "productivity software",
+    "iOS apps",
+    "Mac software"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Task Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2007,
+  "websiteUrl": "https://culturedcode.com/things/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=things&type=repositories",
+  "twitterUrl": "https://x.com/0x45o",
+  "screenshot": "https://share.appsfor.us/screenshots/culturedcode_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/culturedcode_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/culturedcode_com_400.png",
+  "updatedAt": "2025-06-08T03:13:51.019Z"
+}

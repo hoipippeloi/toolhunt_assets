@@ -3,44 +3,44 @@
   "name": "project44",
   "title": "project44.com",
   "payoff": "Optimize logistics workflow end-to-end",
-  "shortDescription": "project44 offers a comprehensive supply chain visibility platform that enhances logistics operations from pre-transit to final mile delivery. It's designed for shippers, 3PLs, and freight forwarders, providing tools for rating, tendering, and managing inventory across all modes of transportation globally. An example use case includes optimizing shipment routes using AI-driven insights to reduce costs and improve delivery times.",
+  "shortDescription": "project44 is a Supply Chain Visibility Platform that optimizes logistics workflows from pre-transit to final mile delivery. It serves industries like shipping, 3PLs, and freight forwarders, providing tools for managing inventory, shipments, and yard operations. An example use case is a logistics company using project44 to enhance delivery efficiency and manage global shipments in real-time.",
   "pros": [
-    "Comprehensive multimodal coverage",
-    "Advanced AI and analytics capabilities",
-    "Highly scalable and integrative platform"
+    "Comprehensive supply chain management",
+    "Real-time visibility across all transport modes",
+    "Advanced AI and analytics capabilities"
   ],
   "cons": [
-    "Potentially complex for new users",
-    "High dependency on external data integrations",
-    "May be cost-prohibitive for smaller businesses"
+    "Potentially high cost for small businesses",
+    "Complex features may require training",
+    "Limited customization options"
   ],
   "alternatives": [
     "FourKites [fourkites.com]",
-    "Freightview [freightview.com]",
-    "Shipwell [shipwell.com]"
+    "Descartes [descartes.com]",
+    "Freightview [freightview.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "FourKites",
       "url": "fourkites.com",
-      "reason": "Similar end-to-end visibility solutions"
+      "reason": "Similar end-to-end visibility and analytics"
+    },
+    {
+      "name": "Descartes",
+      "url": "descartes.com",
+      "reason": "Broad logistics solutions with global reach"
     },
     {
       "name": "Freightview",
       "url": "freightview.com",
-      "reason": "Simpler interface, good for smaller scale"
-    },
-    {
-      "name": "Shipwell",
-      "url": "shipwell.com",
-      "reason": "Integrates logistics with AI efficiently"
+      "reason": "Cost-effective for smaller scale operations"
     }
   ],
   "tags": [
     "supply chain",
     "logistics",
-    "AI",
-    "analytics"
+    "real-time tracking",
+    "AI"
   ],
   "apiUsed": true,
   "department": "Operations",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://project44.com/documentation",
   "githubUrl": "https://github.com/search?q=project44&type=repositories",
   "twitterUrl": "https://twitter.com/freightpipes",
-  "screenshot": "/screenshots/project44_com.png",
-  "screenshot_640": "/screenshots/project44_com_640.png",
-  "screenshot_400": "/screenshots/project44_com_400.png",
-  "updatedAt": "2025-05-23T07:14:58.592Z"
+  "screenshot": "https://share.appsfor.us/screenshots/project44_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/project44_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/project44_com_400.png",
+  "updatedAt": "2025-06-08T03:10:22.379Z"
 }
