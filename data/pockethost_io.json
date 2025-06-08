@@ -3,16 +3,16 @@
   "name": "PocketHost",
   "title": "pockethost.io",
   "payoff": "Simple PocketBase Hosting",
-  "shortDescription": "PocketHost simplifies backend configuration, allowing developers to focus on building features for web apps. It offers a complete backend solution with database, SSL, authentication, and cloud functions. Ideal for developers looking to quickly deploy apps without server management. An example use case is a startup developing a mobile app needing fast and reliable backend services without the overhead of server setup.",
+  "shortDescription": "PocketHost simplifies backend configuration, allowing developers to focus on building features for web apps. It offers a complete backend solution with database, SSL, email, and authentication included. Users can quickly set up a project, connect via JS Client, and start building. For scalability, PocketHost supports high concurrency and cloud functions. When ready, users can self-host with an exported Dockerfile.",
   "pros": [
-    "Integrated SQLite for performance",
-    "Out-of-the-box authentication and email services",
-    "Easy export for in-house project transition"
+    "Quick setup with no server provisioning",
+    "Integrated database, email, and authentication",
+    "Supports custom cloud functions"
   ],
   "cons": [
-    "Limited to SQLite, may not scale like SQL databases",
-    "No clear pricing sections provided",
-    "Limited customization options for advanced users"
+    "Limited to SQLite database",
+    "May not scale as well as other databases",
+    "Limited customization options"
   ],
   "alternatives": [
     "Firebase [firebase.google.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Firebase",
       "url": "firebase.google.com",
-      "reason": "Offers broader cloud services and scalability"
+      "reason": "Offers broader cloud services"
     },
     {
       "name": "Heroku",
       "url": "heroku.com",
-      "reason": "Provides flexible, scalable app hosting"
+      "reason": "Supports multiple programming languages"
     },
     {
       "name": "Back4App",
       "url": "back4app.com",
-      "reason": "Parse-based backend with more customization"
+      "reason": "Parse-based backend platform"
     }
   ],
   "tags": [
     "backend services",
-    "cloud platform",
-    "database management",
-    "authentication"
+    "database",
+    "authentication",
+    "cloud functions"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://pockethost.io/docs",
   "githubUrl": "https://github.com/pockethost/pockethost",
   "twitterUrl": null,
-  "screenshot": "/screenshots/pockethost_io.png",
-  "screenshot_640": "/screenshots/pockethost_io_640.png",
-  "screenshot_400": "/screenshots/pockethost_io_400.png",
-  "updatedAt": "2025-05-17T10:16:26.448Z"
+  "screenshot": "https://share.appsfor.us/screenshots/pockethost_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pockethost_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pockethost_io_400.png",
+  "updatedAt": "2025-06-08T01:15:40.861Z"
 }

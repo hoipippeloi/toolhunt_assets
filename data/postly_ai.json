@@ -2,17 +2,17 @@
   "sourceUrl": "https://postly.ai/",
   "name": "Postly",
   "title": "postly.ai",
-  "payoff": "AI-driven social media management",
-  "shortDescription": "Postly is a versatile tool designed for managing and automating social media content across multiple platforms such as TikTok, Instagram, YouTube, and blogs. It simplifies content creation with a user-friendly dashboard, tailored for various industries including influencers and small businesses. An example use case is a YouTube influencer using Postly to post video teasers and cross-promote content on Instagram, effectively gaining new subscribers.",
+  "payoff": "AI-driven social media automation",
+  "shortDescription": "Postly is an AI-powered tool designed to streamline social media management across multiple platforms. It caters to creators, teams, and agencies by offering features like automated scheduling, multilingual content creation, and integrated workflows. An example use case involves a YouTube influencer using Postly to schedule video teasers and cross-promote content, resulting in significant subscriber growth.",
   "pros": [
-    "Supports 15+ platforms",
-    "AI-driven content tools",
-    "User-friendly dashboard"
+    "AI-driven content creation and scheduling",
+    "Supports multiple social media platforms",
+    "Tailored workflows for different user types"
   ],
   "cons": [
     "May be complex for beginners",
-    "Potential high cost",
-    "Limited customization options"
+    "Potential privacy concerns with AI handling",
+    "Limited customization in automated tasks"
   ],
   "alternatives": [
     "Hootsuite [hootsuite.com]",
@@ -21,24 +21,25 @@
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Hootsuite",
-      "url": "hootsuite.com",
-      "reason": "Offers comprehensive social media tools"
-    },
-    {
       "name": "Buffer",
       "url": "buffer.com",
-      "reason": "Focus on simplicity and usability"
+      "reason": "Simpler interface, good for beginners"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Extensive platform support, strong analytics"
     },
     {
       "name": "Sprout Social",
       "url": "sproutsocial.com",
-      "reason": "Advanced analytics and engagement features"
+      "reason": "Advanced listening tools, detailed reporting"
     }
   ],
   "tags": [
-    "social media management",
-    "content automation",
+    "social media",
+    "content management",
+    "automation",
     "AI"
   ],
   "apiUsed": true,
@@ -48,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://postly.ai/",
-  "documentationUrl": "https://postly.ai/docs",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=postly&type=repositories",
   "twitterUrl": "https://x.com/postlysocial",
-  "screenshot": "/screenshots/postly_ai.png",
-  "screenshot_640": "/screenshots/postly_ai_640.png",
-  "screenshot_400": "/screenshots/postly_ai_400.png",
-  "updatedAt": "2025-05-16T04:45:22.195Z"
+  "screenshot": "https://share.appsfor.us/screenshots/postly_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/postly_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/postly_ai_400.png",
+  "updatedAt": "2025-06-08T01:17:54.303Z"
 }

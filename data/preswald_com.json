@@ -2,58 +2,58 @@
   "sourceUrl": "https://preswald.com/",
   "name": "Preswald",
   "title": "preswald.com",
-  "payoff": "Build interactive data apps",
-  "shortDescription": "Preswald transforms Python scripts into interactive data applications, dashboards, and tools efficiently. Ideal for developers and data analysts, it allows local development with seamless deployment and sharing capabilities. An example use case includes creating a dashboard for visualizing sales trends and forecasting inventory in real-time.",
+  "payoff": "Instantly ship ideas with AI",
+  "shortDescription": "Preswald is a development platform that transforms Python scripts into interactive dashboards, reports, and tools. It's designed for developers, analysts, and researchers who need to deploy data apps quickly. Users can build apps visually, collaborate in real-time, and deploy without a backend, making it ideal for internal tools, exploratory analysis, and client-facing dashboards.",
   "pros": [
-    "Fast deployment of data apps",
-    "No credit card required for starting",
-    "Real-time data tracking and forecasting"
+    "Real-time collaboration and previews",
+    "No backend hosting required",
+    "AI-powered assistance for app development"
   ],
   "cons": [
-    "Limited to Python scripts",
-    "No clear pricing information available",
-    "May require coding knowledge"
+    "Limited to data apps",
+    "May require Python knowledge",
+    "No clear offline capabilities"
   ],
   "alternatives": [
+    "Retool [retool.com]",
     "Streamlit [streamlit.io]",
-    "Dash by Plotly [plotly.com]",
-    "Shiny by RStudio [rstudio.com]"
+    "Dash by Plotly [plotly.com]"
   ],
   "aiSuggestedAlternatives": [
     {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers more general app building features"
+    },
+    {
       "name": "Streamlit",
       "url": "streamlit.io",
-      "reason": "Allows easy creation of data apps"
+      "reason": "Focuses on Python and data science"
     },
     {
-      "name": "Dash",
+      "name": "Dash by Plotly",
       "url": "plotly.com",
-      "reason": "Flexible for complex visualizations"
-    },
-    {
-      "name": "Shiny",
-      "url": "rstudio.com",
-      "reason": "Great for R users and statisticians"
+      "reason": "Strong in data visualization"
     }
   ],
   "tags": [
+    "AI",
     "data apps",
-    "dashboard",
-    "Python",
-    "deployment"
+    "visual builder",
+    "collaboration"
   ],
   "apiUsed": false,
-  "department": "Data & Analytics",
-  "function": "Internal Apps",
+  "department": "Research & Development",
+  "function": "Visual Builder",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://preswald.com/",
-  "documentationUrl": "https://docs.preswald.com/",
+  "documentationUrl": "https://preswald.com/documentation",
   "githubUrl": "https://github.com/StructuredLabs/preswald",
   "twitterUrl": "https://x.com/StructuredLabs",
-  "screenshot": "/screenshots/preswald_com.png",
-  "screenshot_640": "/screenshots/preswald_com_640.png",
-  "screenshot_400": "/screenshots/preswald_com_400.png",
-  "updatedAt": "2025-05-18T03:02:11.382Z"
+  "screenshot": "https://share.appsfor.us/screenshots/preswald_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/preswald_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/preswald_com_400.png",
+  "updatedAt": "2025-06-08T01:18:46.415Z"
 }
