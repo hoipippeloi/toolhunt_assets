@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dovetail.com/",
+  "name": "Dovetail",
+  "title": "dovetail.com",
+  "payoff": "Unlock customer knowledge fast",
+  "shortDescription": "Dovetail is an AI-powered customer insights hub designed to drive product decisions. It turns conversations, documents, and surveys into actionable insights, helping teams see trends from customer feedback in real-time. An example use case is integrating Dovetail with Slack and Microsoft Teams to bring customer insights directly into daily communication channels.",
+  "pros": [
+    "AI-powered analysis for instant insights",
+    "Integrates with over 25 tools",
+    "Real-time feedback trend analysis"
+  ],
+  "cons": [
+    "May require technical setup",
+    "Potential data privacy concerns",
+    "Dependent on quality of input data"
+  ],
+  "alternatives": [
+    "Qualtrics [qualtrics.com]",
+    "Medallia [medallia.com]",
+    "SurveyMonkey [surveymonkey.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Qualtrics",
+      "url": "qualtrics.com",
+      "reason": "Comprehensive experience management"
+    },
+    {
+      "name": "Medallia",
+      "url": "medallia.com",
+      "reason": "Focus on customer experience"
+    },
+    {
+      "name": "SurveyMonkey",
+      "url": "surveymonkey.com",
+      "reason": "Widely used for survey insights"
+    }
+  ],
+  "tags": [
+    "customer insights",
+    "AI",
+    "data analysis",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://dovetail.com/",
+  "documentationUrl": "https://dovetail.com/docs",
+  "githubUrl": "https://github.com/search?q=dovetail&type=repositories",
+  "twitterUrl": "https://twitter.com/hidovetail/",
+  "screenshot": "https://share.appsfor.us/screenshots/dovetail_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dovetail_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dovetail_com_400.png",
+  "updatedAt": "2025-06-08T04:06:04.771Z"
+}

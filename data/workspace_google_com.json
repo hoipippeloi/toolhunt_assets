@@ -1,59 +1,58 @@
 {
-  "sourceUrl": "https://workspace.google.com/products/calendar/",
-  "name": "Google Calendar",
-  "title": "workspace.google.com/products/calendar",
-  "payoff": "Efficient scheduling across platforms",
-  "shortDescription": "Google Calendar is a versatile scheduling tool that integrates seamlessly with Google Workspace, allowing users to manage personal and professional schedules in one place. It supports task management directly from Gmail or Google Tasks, and features automatic event addition from emails. Teams can easily schedule meetings and book resources, making it ideal for business environments. Example use: A company uses Google Calendar to manage team schedules and room bookings for meetings.",
+  "sourceUrl": "https://workspace.google.com/products/slides/",
+  "name": "Google Slides",
+  "title": "workspace.google.com/products/slides",
+  "payoff": "Build beautiful presentations together",
+  "shortDescription": "Google Slides allows users to create, manage, and share presentations directly from their browser without any installations. It's designed for individuals, teams, and enterprises who need to collaborate effectively, regardless of location. An example use case includes a team collaborating on a sales presentation, utilizing real-time editing and content-rich slides with videos and animations.",
   "pros": [
-    "Integrates with Google Workspace",
-    "Automatic scheduling features",
-    "Supports multiple calendar views"
+    "Real-time collaboration across devices",
+    "Integration with other Google Workspace tools",
+    "Rich content options including videos and animations"
   ],
   "cons": [
-    "Limited customization options",
-    "Dependent on Google ecosystem",
-    "Advanced features require paid plans"
+    "Dependent on internet connectivity",
+    "Some features limited to premium plans",
+    "Less advanced than some desktop alternatives"
   ],
   "alternatives": [
-    "Microsoft Outlook [outlook.com]",
-    "Apple Calendar [apple.com]",
-    "Zoho Calendar [zoho.com]"
+    "Microsoft PowerPoint [microsoft.com]",
+    "Prezi [prezi.com]",
+    "Keynote [apple.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Microsoft Outlook",
-      "url": "outlook.com",
-      "reason": "Offers integrated email and calendar"
+      "name": "Microsoft PowerPoint",
+      "url": "microsoft.com",
+      "reason": "Industry standard with extensive features"
     },
     {
-      "name": "Apple Calendar",
+      "name": "Prezi",
+      "url": "prezi.com",
+      "reason": "Dynamic, non-linear presentation style"
+    },
+    {
+      "name": "Keynote",
       "url": "apple.com",
-      "reason": "Good for Apple device integration"
-    },
-    {
-      "name": "Zoho Calendar",
-      "url": "zoho.com",
-      "reason": "Part of a broader suite of apps"
+      "reason": "Sleek design, exclusive to Apple devices"
     }
   ],
   "tags": [
-    "calendar",
-    "scheduling",
-    "task management",
-    "time management"
+    "presentation",
+    "collaboration",
+    "cloud-based"
   ],
-  "apiUsed": true,
-  "department": "Information Technology",
-  "function": "Calendar",
+  "apiUsed": false,
+  "department": "General",
+  "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2006,
-  "websiteUrl": "https://workspace.google.com/products/calendar/",
-  "documentationUrl": "https://support.google.com/calendar",
-  "githubUrl": "https://github.com/search?q=google%20calendar&type=repositories",
+  "websiteUrl": "https://workspace.google.com/products/slides/",
+  "documentationUrl": "https://support.google.com/a/users/answer/9282720",
+  "githubUrl": "https://github.com/search?q=google%20slides&type=repositories",
   "twitterUrl": "https://x.com/GoogleCloud_SG",
   "screenshot": "https://share.appsfor.us/screenshots/workspace_google_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/workspace_google_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/workspace_google_com_400.png",
-  "updatedAt": "2025-06-05T03:50:30.039Z"
+  "updatedAt": "2025-06-08T04:07:47.123Z"
 }

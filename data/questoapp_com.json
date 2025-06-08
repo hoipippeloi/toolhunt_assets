@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://questoapp.com/",
+  "name": "Questo",
+  "title": "questoapp.com",
+  "payoff": "Explore cities with real-world quests",
+  "shortDescription": "Questo offers a unique way to explore cities through self-guided tours, treasure hunts, and escape games. Users can download the Questo app to unlock new locations, solve puzzles, and discover hidden stories at their own pace. Ideal for tourists, couples, and adventure seekers, Questo transforms ordinary outings into engaging adventures.",
+  "pros": [
+    "Interactive city exploration",
+    "Flexible start and stop times",
+    "Engaging for various user groups"
+  ],
+  "cons": [
+    "Dependent on mobile app functionality",
+    "Limited to available cities",
+    "May not appeal to non-tech savvy users"
+  ],
+  "alternatives": [
+    "Geocaching [geocaching.com]",
+    "Actionbound [actionbound.com]",
+    "Stray Boots [strayboots.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Geocaching",
+      "url": "geocaching.com",
+      "reason": "Global treasure hunting game"
+    },
+    {
+      "name": "Actionbound",
+      "url": "actionbound.com",
+      "reason": "Creates interactive scavenger hunts"
+    },
+    {
+      "name": "Stray Boots",
+      "url": "strayboots.com",
+      "reason": "City tours with gamification elements"
+    }
+  ],
+  "tags": [
+    "travel",
+    "adventure gaming",
+    "city tours",
+    "mobile app"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://questoapp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=questo&type=repositories",
+  "twitterUrl": "https://twitter.com/Questo",
+  "screenshot": "https://share.appsfor.us/screenshots/questoapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/questoapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/questoapp_com_400.png",
+  "updatedAt": "2025-06-08T04:08:23.140Z"
+}
