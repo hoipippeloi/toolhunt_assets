@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lattice.com/",
+  "name": "Lattice",
+  "title": "lattice.com",
+  "payoff": "HR platform that people love",
+  "shortDescription": "Lattice is an HR platform designed to streamline and automate operations while focusing on people-first, AI-powered solutions. It serves HR teams looking to manage, grow, and understand their workforce effectively. An example use case includes using Lattice to set company-wide goals, track progress, and use AI-powered insights to improve employee performance.",
+  "pros": [
+    "AI-powered insights for decision making",
+    "Seamless integrations with existing tech stacks",
+    "Intuitive tools for pay and timecard management"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "May require training for full feature utilization",
+    "Dependence on AI for critical insights"
+  ],
+  "alternatives": [
+    "BambooHR [bamboohr.com]",
+    "Workday [workday.com]",
+    "Gusto [gusto.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "BambooHR",
+      "url": "bamboohr.com",
+      "reason": "Offers comprehensive HR tools with a focus on SMBs"
+    },
+    {
+      "name": "Workday",
+      "url": "workday.com",
+      "reason": "Provides broader enterprise solutions and finance tools"
+    },
+    {
+      "name": "Gusto",
+      "url": "gusto.com",
+      "reason": "Strong on payroll and benefits for small businesses"
+    }
+  ],
+  "tags": [
+    "HR management",
+    "AI",
+    "employee performance",
+    "data analytics"
+  ],
+  "apiUsed": true,
+  "department": "Human Resources",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://lattice.com/",
+  "documentationUrl": "https://lattice.com/documentation",
+  "githubUrl": "https://github.com/search?q=lattice&type=repositories",
+  "twitterUrl": "https://twitter.com/LatticeHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/lattice_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lattice_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lattice_com_400.png",
+  "updatedAt": "2025-06-09T04:05:04.226Z"
+}

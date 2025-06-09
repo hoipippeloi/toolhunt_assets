@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://youtubekids.com/",
+  "name": "YouTube Kids",
+  "title": "youtubekids.com",
+  "payoff": "Safe video streaming for kids",
+  "shortDescription": "YouTube Kids is designed as a safer environment for children to explore their interests through video content online. It allows parents to control the viewing options, ensuring that the content is appropriate for their age. An example use case is a parent setting up curated playlists that align with educational themes or entertainment that is suitable for their child's development.",
+  "pros": [
+    "Child-friendly content",
+    "Parental control features",
+    "Educational and entertaining"
+  ],
+  "cons": [
+    "Limited content compared to main YouTube",
+    "Potential for inappropriate content slips",
+    "Ads can still be present"
+  ],
+  "alternatives": [
+    "Netflix Kids [netflix.com]",
+    "Amazon Kids+ [amazon.com]",
+    "Nick Jr. [nickjr.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Netflix Kids",
+      "url": "netflix.com",
+      "reason": "Offers a wide range of kid-friendly content"
+    },
+    {
+      "name": "Amazon Kids+",
+      "url": "amazon.com",
+      "reason": "Includes books, videos, and educational apps"
+    },
+    {
+      "name": "Nick Jr.",
+      "url": "nickjr.com",
+      "reason": "Features content from popular children's TV"
+    }
+  ],
+  "tags": [
+    "video streaming",
+    "child safety",
+    "educational content",
+    "parental controls"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://youtubekids.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=youtube%20kids&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/youtubekids_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/youtubekids_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/youtubekids_com_400.png",
+  "updatedAt": "2025-06-09T04:06:16.725Z"
+}

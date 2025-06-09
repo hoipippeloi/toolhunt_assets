@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kimai.org/",
+  "name": "Kimai",
+  "title": "kimai.org",
+  "payoff": "Time tracking for project-driven teams",
+  "shortDescription": "Kimai is an open-source time-tracking solution designed for businesses of all sizes. It allows users to track work time and generate detailed summaries of activities by customer, project, or time period. Its browser-based interface ensures compatibility across devices, including mobile. Kimai simplifies the traditional time-tracking process, replacing manual timesheet entries with a more efficient, feature-rich platform.",
+  "pros": [
+    "Open-source and customizable",
+    "Supports self-hosting and SaaS options",
+    "Extensive API for integration"
+  ],
+  "cons": [
+    "May require technical knowledge for setup",
+    "Limited marketing compared to proprietary tools",
+    "Dependent on community for updates and features"
+  ],
+  "alternatives": [
+    "Toggl Track [toggl.com]",
+    "Harvest [getharvest.com]",
+    "Clockify [clockify.me]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Popular for its user-friendly interface"
+    },
+    {
+      "name": "Harvest",
+      "url": "getharvest.com",
+      "reason": "Offers invoicing and expense tracking"
+    },
+    {
+      "name": "Clockify",
+      "url": "clockify.me",
+      "reason": "Free for unlimited users and projects"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "open source",
+    "project management",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2006,
+  "websiteUrl": "https://kimai.org/",
+  "documentationUrl": "https://www.kimai.org/documentation/",
+  "githubUrl": "https://github.com/kimai/kimai/discussions",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/kimai_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kimai_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kimai_org_400.png",
+  "updatedAt": "2025-06-09T04:06:54.185Z"
+}
