@@ -2,17 +2,17 @@
   "sourceUrl": "https://pythagora.ai/",
   "name": "Pythagora",
   "title": "pythagora.ai",
-  "payoff": "Turn ideas into launched projects",
-  "shortDescription": "Pythagora acts as your coding partner, simplifying the process of turning ideas into fully functional software projects. It integrates directly within development environments like VS Code, offering tools for backend and frontend development without heavy coding. Ideal for developers and teams looking to streamline app creation, Pythagora supports React and Node.js, with Python coming soon. Example use case: A team uses Pythagora to quickly build and deploy a project management tool.",
+  "payoff": "Turn Ideas Into Launched Projects",
+  "shortDescription": "Pythagora acts as your AI coding partner, simplifying the process of turning ideas into fully functional software projects without the need for complex setups or dependencies. It is designed for developers and teams looking to quickly build and deploy apps with minimal coding. An example use case is a startup wanting to rapidly prototype and test new software ideas, leveraging AI to handle backend and frontend development efficiently.",
   "pros": [
-    "No heavy coding required",
-    "Supports React and Node.js",
-    "Integrates with VS Code"
+    "Minimizes setup and coding requirements",
+    "Integrates AI for efficient coding and debugging",
+    "Supports React for frontend and Node.js for backend"
   ],
   "cons": [
-    "Limited language support",
-    "No clear offline functionality",
-    "Python support not yet available"
+    "Limited language support currently",
+    "Potentially high cost for premium plans",
+    "Dependent on third-party language models"
   ],
   "alternatives": [
     "Retool [retool.com]",
@@ -28,32 +28,32 @@
     {
       "name": "Bubble",
       "url": "bubble.io",
-      "reason": "No-code web app builder"
+      "reason": "Enables non-coders to build apps"
     },
     {
       "name": "Webflow",
       "url": "webflow.com",
-      "reason": "Builds responsive websites visually"
+      "reason": "Focuses on responsive web design"
     }
   ],
   "tags": [
-    "AI",
-    "development",
+    "AI coding",
+    "software development",
     "project management",
-    "software creation"
+    "full-stack development"
   ],
   "apiUsed": false,
   "department": "Development",
-  "function": "Development",
+  "function": "Code-Free",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2022,
   "websiteUrl": "https://pythagora.ai/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/Pythagora-io/pythagora-lab",
   "twitterUrl": null,
-  "screenshot": "/screenshots/pythagora_ai.png",
-  "screenshot_640": "/screenshots/pythagora_ai_640.png",
-  "screenshot_400": "/screenshots/pythagora_ai_400.png",
-  "updatedAt": "2025-05-12T09:17:09.627Z"
+  "screenshot": "https://share.appsfor.us/screenshots/pythagora_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pythagora_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pythagora_ai_400.png",
+  "updatedAt": "2025-06-09T01:13:14.972Z"
 }

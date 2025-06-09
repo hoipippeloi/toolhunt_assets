@@ -2,12 +2,12 @@
   "sourceUrl": "https://radix-ui.com/",
   "name": "Radix UI",
   "title": "radix-ui.com",
-  "payoff": "Optimized library for fast development",
-  "shortDescription": "Radix UI is an open-source component library designed to streamline the development process. It is tailored for developers looking to build accessible, maintainable applications quickly without the hassle of configuration. Example use case: A developer can use Radix UI to rapidly prototype and iterate on a new user interface for an accessibility-focused project, ensuring compliance and ease of use.",
+  "payoff": "Optimized for fast development",
+  "shortDescription": "Radix UI is an open-source component library designed to streamline the development process. It is tailored for developers looking to quickly integrate accessible UI components without the hassle of extensive configurations. An example use case involves a web developer rapidly prototyping a user interface for an accessibility-focused project, leveraging Radix UI's pre-built components to save time and ensure compliance with accessibility standards.",
   "pros": [
-    "No configuration required",
     "Optimized for accessibility",
-    "Open source and free to use"
+    "No configuration required",
+    "Open source"
   ],
   "cons": [
     "Limited to UI components",
@@ -23,24 +23,24 @@
     {
       "name": "Material-UI",
       "url": "mui.com",
-      "reason": "Offers a comprehensive UI kit"
+      "reason": "Offers comprehensive design solutions"
     },
     {
       "name": "Ant Design",
       "url": "ant.design",
-      "reason": "Rich in features and enterprise-focused"
+      "reason": "Rich in features and enterprise-oriented"
     },
     {
       "name": "Bootstrap",
       "url": "getbootstrap.com",
-      "reason": "Widely used, flexible grid system"
+      "reason": "Widely used for responsive design"
     }
   ],
   "tags": [
     "UI components",
     "open source",
-    "accessibility",
-    "web development"
+    "web development",
+    "accessibility"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://radix-ui.com/docs",
   "githubUrl": "https://github.com/radix-ui/themes",
   "twitterUrl": null,
-  "screenshot": "/screenshots/radix_ui_com.png",
-  "screenshot_640": "/screenshots/radix_ui_com_640.png",
-  "screenshot_400": "/screenshots/radix_ui_com_400.png",
-  "updatedAt": "2025-05-18T04:24:45.876Z"
+  "screenshot": "https://share.appsfor.us/screenshots/radix_ui_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/radix_ui_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/radix_ui_com_400.png",
+  "updatedAt": "2025-06-09T01:14:33.724Z"
 }

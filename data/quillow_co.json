@@ -2,45 +2,44 @@
   "sourceUrl": "https://quillow.co/",
   "name": "Quillow",
   "title": "quillow.co",
-  "payoff": "Build a beautiful microsite easily",
-  "shortDescription": "Quillow allows users to create engaging microsites with a variety of customizable blocks. It's designed for individuals and businesses wanting to enhance their online presence without complex coding. Users can integrate social media, manage content, and even connect a custom domain. Ideal for influencers, marketers, or small businesses looking to consolidate their digital footprint in a single, visually appealing microsite.",
+  "payoff": "Build a better link-in-bio for free",
+  "shortDescription": "Quillow transforms your link-in-bio into a dynamic microsite, suitable for influencers, creators, and businesses. Customize your page with various blocks to integrate social media like Instagram and YouTube, ensuring all your content is accessible in one place. Ideal for enhancing online presence, Quillow allows users to connect custom domains, remove branding, and ensure their microsite looks great on all devices.",
   "pros": [
-    "Customizable design options",
-    "Integrations with major social platforms",
-    "Mobile and desktop optimization"
+    "Custom domain integration",
+    "Editable content blocks",
+    "Optimized for desktop and mobile"
   ],
   "cons": [
-    "Limited to microsite functionalities",
-    "Potential branding removal costs",
-    "Dependent on third-party platform stability"
+    "Limited design customization",
+    "Dependent on third-party platforms",
+    "Potential privacy concerns with data handling"
   ],
   "alternatives": [
     "Linktree [linktr.ee]",
     "Bio.fm [bio.fm]",
-    "Carrd [carrd.co]"
+    "Campsite [campsite.bio]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Linktree",
       "url": "linktr.ee",
-      "reason": "Popular for simple link aggregation"
+      "reason": "Popular choice with similar features"
     },
     {
       "name": "Bio.fm",
       "url": "bio.fm",
-      "reason": "Flexible layouts for content sharing"
+      "reason": "Flexible layouts and multimedia support"
     },
     {
-      "name": "Carrd",
-      "url": "carrd.co",
-      "reason": "Simple, one-page sites with low cost"
+      "name": "Campsite",
+      "url": "campsite.bio",
+      "reason": "Integrates well with multiple platforms"
     }
   ],
   "tags": [
     "site builder",
     "content management",
-    "marketing",
-    "design"
+    "social media integration"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -52,8 +51,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=quillow&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/quillow_co.png",
-  "screenshot_640": "/screenshots/quillow_co_640.png",
-  "screenshot_400": "/screenshots/quillow_co_400.png",
-  "updatedAt": "2025-05-08T10:27:51.998Z"
+  "screenshot": "https://share.appsfor.us/screenshots/quillow_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/quillow_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/quillow_co_400.png",
+  "updatedAt": "2025-06-09T01:13:53.687Z"
 }

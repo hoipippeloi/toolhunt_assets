@@ -3,16 +3,16 @@
   "name": "RAGFlow",
   "title": "ragflow.io",
   "payoff": "Unleash your full potential",
-  "shortDescription": "RAGFlow is a Retrieval-Augmented Generation engine designed to enhance productivity and innovation across various sectors. Ideal for developers and researchers, it integrates seamlessly into existing workflows to augment data retrieval and generation processes. Example use case: a software development team uses RAGFlow to automate code generation, significantly reducing manual coding time and errors.",
+  "shortDescription": "RAGFlow is a Retrieval-Augmented Generation engine designed to enhance productivity and innovation across various sectors. It is ideal for developers, researchers, and content creators who seek to integrate advanced AI capabilities into their projects. An example use case includes automating content generation for digital marketing, thereby saving time and increasing efficiency.",
   "pros": [
     "Enhances productivity",
-    "Seamless integration",
-    "Automates code generation"
+    "Integrates advanced AI capabilities",
+    "Automates content generation"
   ],
   "cons": [
-    "Limited user community",
-    "Early development stage",
-    "Lack of extensive documentation"
+    "May require technical expertise",
+    "Limited information on support",
+    "Potentially high learning curve"
   ],
   "alternatives": [
     "OpenAI GPT [openai.com]",
@@ -23,37 +23,37 @@
     {
       "name": "OpenAI GPT",
       "url": "openai.com",
-      "reason": "Offers advanced AI text generation"
+      "reason": "Offers advanced text generation APIs"
     },
     {
       "name": "DeepAI",
       "url": "deepai.org",
-      "reason": "Provides diverse AI APIs"
+      "reason": "Provides diverse AI tools and APIs"
     },
     {
       "name": "Hugging Face",
       "url": "huggingface.co",
-      "reason": "Community-driven AI models"
+      "reason": "Community-driven AI research platform"
     }
   ],
   "tags": [
     "AI",
     "machine learning",
-    "data retrieval",
-    "generation engine"
+    "content generation",
+    "data retrieval"
   ],
   "apiUsed": true,
   "department": "Research & Development",
   "function": "AI & ML",
   "freeTier": false,
   "openSource": true,
-  "releasedYear": 2023,
+  "releasedYear": 2021,
   "websiteUrl": "https://ragflow.io/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/infiniflow/ragflow",
   "twitterUrl": "https://twitter.com/infiniflowai",
-  "screenshot": "/screenshots/ragflow_io.png",
-  "screenshot_640": "/screenshots/ragflow_io_640.png",
-  "screenshot_400": "/screenshots/ragflow_io_400.png",
-  "updatedAt": "2025-05-12T10:46:39.194Z"
+  "screenshot": "https://share.appsfor.us/screenshots/ragflow_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ragflow_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ragflow_io_400.png",
+  "updatedAt": "2025-06-09T01:15:06.455Z"
 }

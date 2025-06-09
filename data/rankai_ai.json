@@ -3,16 +3,16 @@
   "name": "Rankai",
   "title": "rankai.ai",
   "payoff": "AI-Powered SEO Agency",
-  "shortDescription": "Rankai leverages AI to offer scalable and affordable SEO services, focusing on startups and SMBs. It automates technical SEO fixes and content updates, ensuring sites meet search engine standards for better visibility. Ideal for businesses looking to enhance their online presence without the high costs typically associated with traditional SEO agencies.",
+  "shortDescription": "Rankai leverages AI to offer fully managed SEO services at a lower cost than traditional agencies. It is designed for startups and SMBs looking to improve their online visibility without extensive in-house SEO expertise. Users can benefit from automated technical SEO fixes, content generation, and continuous updates powered by the latest AI models.",
   "pros": [
-    "Cost-effective SEO solutions",
-    "AI-driven technical optimizations",
-    "Comprehensive SEO management"
+    "Automated SEO management",
+    "Cost-effective compared to traditional agencies",
+    "Continuous updates with latest AI models"
   ],
   "cons": [
-    "Dependence on AI may limit customization",
-    "May not suit very large enterprises",
-    "Limited human expert intervention"
+    "May lack personalized human expertise",
+    "Limited control over automated changes",
+    "Potential dependency on AI accuracy"
   ],
   "alternatives": [
     "Moz Pro [moz.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Moz Pro",
       "url": "moz.com",
-      "reason": "Comprehensive SEO tools suite"
+      "reason": "Comprehensive SEO toolset with manual controls"
     },
     {
       "name": "SEMrush",
       "url": "semrush.com",
-      "reason": "Broad digital marketing tools"
+      "reason": "Broad digital marketing tools with SEO focus"
     },
     {
       "name": "Ahrefs",
       "url": "ahrefs.com",
-      "reason": "Strong backlink analysis tool"
+      "reason": "Strong backlink analysis and SEO audit features"
     }
   ],
   "tags": [
     "SEO",
-    "AI",
-    "Marketing",
-    "Automation"
+    "AI-powered",
+    "automation",
+    "digital marketing"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=rankai&type=repositories",
   "twitterUrl": "https://x.com/rankai_ai",
-  "screenshot": "/screenshots/rankai_ai.png",
-  "screenshot_640": "/screenshots/rankai_ai_640.png",
-  "screenshot_400": "/screenshots/rankai_ai_400.png",
-  "updatedAt": "2025-05-23T05:46:21.140Z"
+  "screenshot": "https://share.appsfor.us/screenshots/rankai_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rankai_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rankai_ai_400.png",
+  "updatedAt": "2025-06-09T01:15:47.545Z"
 }
