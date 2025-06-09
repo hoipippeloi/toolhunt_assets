@@ -3,57 +3,57 @@
   "name": "Remult",
   "title": "remult.dev",
   "payoff": "Type-safe CRUD & Realtime",
-  "shortDescription": "Remult is a full-stack development tool that simplifies building and managing applications by providing out-of-the-box solutions for CRUD operations, real-time updates, and authorization. It's designed for developers looking to reduce boilerplate code and enhance productivity. An example use case is a developer integrating Remult to streamline operations in a CRM system, achieving significant code reduction and efficiency.",
+  "shortDescription": "Remult is a full-stack development tool that simplifies building and managing applications by providing out-of-the-box solutions for CRUD operations, authentication, and database management. It is designed for developers looking to reduce boilerplate code and enhance productivity. An example use case is the implementation of a classic Todo MVC with Remult, which significantly cuts down development time and code complexity.",
   "pros": [
-    "Reduces boilerplate code significantly",
-    "Supports real-time data updates",
-    "Flexible with REST and GraphQL integrations"
+    "Reduces code complexity and size",
+    "Supports real-time data handling",
+    "Extensive examples and community support"
   ],
   "cons": [
-    "May require initial learning curve",
+    "May require learning curve for new users",
     "Limited to JavaScript/TypeScript environments",
-    "Dependent on community for advanced issues"
+    "Potential over-reliance on a single framework"
   ],
   "alternatives": [
     "Prisma [prisma.io]",
-    "Hasura [hasura.io]",
-    "PostgREST [postgrest.org]"
+    "TypeORM [typeorm.io]",
+    "Sequelize [sequelize.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Prisma",
       "url": "prisma.io",
-      "reason": "ORM with more extensive DB support"
+      "reason": "Modern ORM with more database support"
     },
     {
-      "name": "Hasura",
-      "url": "hasura.io",
-      "reason": "Offers instant GraphQL APIs"
+      "name": "TypeORM",
+      "url": "typeorm.io",
+      "reason": "Flexible ORM for TypeScript and JavaScript"
     },
     {
-      "name": "PostgREST",
-      "url": "postgrest.org",
-      "reason": "REST API from any Postgres DB"
+      "name": "Sequelize",
+      "url": "sequelize.org",
+      "reason": "ORM supporting SQL dialects and features"
     }
   ],
   "tags": [
     "full-stack development",
     "CRUD operations",
-    "real-time updates",
-    "type-safe"
+    "real-time data",
+    "type safety"
   ],
   "apiUsed": true,
   "department": "Development",
   "function": "Backend Services",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://remult.dev/",
   "documentationUrl": "https://remult.dev/docs",
   "githubUrl": "https://github.com/remult/remult",
   "twitterUrl": "https://twitter.com/RemultJs",
-  "screenshot": "/screenshots/remult_dev.png",
-  "screenshot_640": "/screenshots/remult_dev_640.png",
-  "screenshot_400": "/screenshots/remult_dev_400.png",
-  "updatedAt": "2025-05-15T04:47:00.094Z"
+  "screenshot": "https://share.appsfor.us/screenshots/remult_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/remult_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/remult_dev_400.png",
+  "updatedAt": "2025-06-09T03:08:48.710Z"
 }

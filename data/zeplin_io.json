@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zeplin.io/",
+  "name": "Zeplin",
+  "title": "zeplin.io",
+  "payoff": "Harmony in design delivery",
+  "shortDescription": "Zeplin is a design delivery platform tailored for teams of varying sizes. It facilitates seamless transitions from design to development by providing tools for effective communication, collaboration, and integration. Teams can manage projects, link designs to code, and secure approvals efficiently. An example use case is a software development team using Zeplin to streamline the handoff from designers to developers, ensuring all stakeholders are aligned with the project goals.",
+  "pros": [
+    "Streamlines design to development workflow",
+    "Integrates with tools like Jira and GitHub",
+    "Supports asynchronous collaboration"
+  ],
+  "cons": [
+    "May require learning curve for new users",
+    "Dependent on third-party integrations",
+    "Potential cost barrier for small teams"
+  ],
+  "alternatives": [
+    "InVision [invisionapp.com]",
+    "Sketch [sketch.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "InVision",
+      "url": "invisionapp.com",
+      "reason": "Offers prototyping and collaboration features"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular for vector design and prototyping"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Web-based, supports real-time collaboration"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "project management",
+    "collaboration",
+    "development"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://zeplin.io/",
+  "documentationUrl": "https://docs.zeplin.io",
+  "githubUrl": "https://github.com/search?q=zeplin&type=repositories",
+  "twitterUrl": "https://twitter.com/zeplin",
+  "screenshot": "https://share.appsfor.us/screenshots/zeplin_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zeplin_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zeplin_io_400.png",
+  "updatedAt": "2025-06-09T03:11:48.318Z"
+}

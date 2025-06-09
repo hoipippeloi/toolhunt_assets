@@ -3,37 +3,37 @@
   "name": "Reverse UI",
   "title": "reverseui.com",
   "payoff": "Premium UI Components for Apps",
-  "shortDescription": "Reverse UI specializes in providing high-quality animated UI components designed for modern web applications. It caters to developers and designers seeking to enhance user interfaces with engaging animations. An example use case could be a tech startup wanting to quickly implement sophisticated UI elements to improve user experience and engagement without extensive custom development.",
+  "shortDescription": "Reverse UI offers premium animated UI components designed for modern web applications. It caters to developers and designers seeking to enhance user interfaces with engaging animations. An example use case is a tech startup wanting to quickly implement sophisticated UI elements without extensive custom coding, thereby speeding up development and improving user experience.",
   "pros": [
     "High-quality animations",
-    "Easy integration",
+    "Ease of integration",
     "Enhances user engagement"
   ],
   "cons": [
-    "Limited customization options",
     "May increase page load times",
-    "Requires modern browser support"
+    "Limited customization options",
+    "Potential dependency issues"
   ],
   "alternatives": [
-    "Framer [framer.com]",
-    "Material-UI [mui.com]",
-    "Ant Design [ant.design]"
+    "Framer Motion [framer.com]",
+    "Animate.css [animate.style]",
+    "Tailwind CSS [tailwindcss.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Framer",
+      "name": "Framer Motion",
       "url": "framer.com",
-      "reason": "Offers interactive design and prototyping"
+      "reason": "Offers advanced animation tools"
     },
     {
-      "name": "Material-UI",
-      "url": "mui.com",
-      "reason": "Provides a wide range of React UI components"
+      "name": "Animate.css",
+      "url": "animate.style",
+      "reason": "Simple CSS-based animations"
     },
     {
-      "name": "Ant Design",
-      "url": "ant.design",
-      "reason": "Extensive library of design components"
+      "name": "Tailwind CSS",
+      "url": "tailwindcss.com",
+      "reason": "Customizable utility-first CSS"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2020,
+  "releasedYear": 2021,
   "websiteUrl": "https://reverseui.com/",
-  "documentationUrl": null,
+  "documentationUrl": "https://reverseui.com/docs",
   "githubUrl": "https://github.com/search?q=reverse%20ui&type=repositories",
   "twitterUrl": "https://x.com/kukaarmedin",
-  "screenshot": "/screenshots/reverseui_com.png",
-  "screenshot_640": "/screenshots/reverseui_com_640.png",
-  "screenshot_400": "/screenshots/reverseui_com_400.png",
-  "updatedAt": "2025-05-07T11:49:57.419Z"
+  "screenshot": "https://share.appsfor.us/screenshots/reverseui_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/reverseui_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/reverseui_com_400.png",
+  "updatedAt": "2025-06-09T03:10:23.149Z"
 }

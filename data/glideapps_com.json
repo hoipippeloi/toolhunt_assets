@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://glideapps.com/",
+  "name": "Glide",
+  "title": "glideapps.com",
+  "payoff": "Create AI-Powered Apps Easily",
+  "shortDescription": "Glide is a no-code platform that enables users to build custom, AI-powered applications quickly and efficiently. It is designed for businesses looking to integrate and automate their operations without extensive coding knowledge. Example use case: A company can use Glide to create a field sales app that helps manage customer interactions and track inventory in real time.",
+  "pros": [
+    "Rapid app development with no coding",
+    "Integration of AI capabilities",
+    "Real-time data visibility and operations"
+  ],
+  "cons": [
+    "Limited customization compared to coded apps",
+    "Dependence on platform for updates and features",
+    "Potential scalability issues for very large enterprises"
+  ],
+  "alternatives": [
+    "AppSheet [appsheet.com]",
+    "Bubble [bubble.io]",
+    "Adalo [adalo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AppSheet",
+      "url": "appsheet.com",
+      "reason": "Offers similar no-code app creation."
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Focuses on web apps with more customization."
+    },
+    {
+      "name": "Adalo",
+      "url": "adalo.com",
+      "reason": "Provides a drag-and-drop interface for app building."
+    }
+  ],
+  "tags": [
+    "no-code",
+    "app builder",
+    "AI",
+    "business apps"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://glideapps.com/",
+  "documentationUrl": "https://docs.glideapps.com/",
+  "githubUrl": "https://github.com/com",
+  "twitterUrl": "https://www.twitter.com/glideapps",
+  "screenshot": "https://share.appsfor.us/screenshots/glideapps_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/glideapps_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/glideapps_com_400.png",
+  "updatedAt": "2025-06-09T03:12:35.855Z"
+}
