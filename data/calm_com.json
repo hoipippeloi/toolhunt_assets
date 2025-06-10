@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://calm.com/",
+  "name": "Calm",
+  "title": "calm.com",
+  "payoff": "Meditation and sleep made easy",
+  "shortDescription": "Calm is a leading app designed to aid in meditation, sleep, and relaxation. It offers guided meditations, sleep stories, and soothing music to help users manage stress and anxiety. Ideal for individuals seeking mental wellness, its use cases include helping users fall asleep quickly, enhancing daily meditation practices, and providing in-the-moment stress relief.",
+  "pros": [
+    "Extensive library of meditation and sleep content",
+    "User-friendly interface and high-quality audio",
+    "Positive testimonials and high user satisfaction"
+  ],
+  "cons": [
+    "Premium content requires subscription",
+    "Limited features in free version",
+    "May not replace professional mental health care"
+  ],
+  "alternatives": [
+    "Headspace [headspace.com]",
+    "Insight Timer [insighttimer.com]",
+    "Simple Habit [simplehabit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Headspace",
+      "url": "headspace.com",
+      "reason": "Offers guided meditations with a focus on mindfulness."
+    },
+    {
+      "name": "Insight Timer",
+      "url": "insighttimer.com",
+      "reason": "Free app with large variety of meditation practices."
+    },
+    {
+      "name": "Simple Habit",
+      "url": "simplehabit.com",
+      "reason": "Focuses on short, daily stress relief sessions."
+    }
+  ],
+  "tags": [
+    "meditation",
+    "sleep aid",
+    "stress relief",
+    "wellness"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://calm.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=calm&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/calm_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/calm_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/calm_com_400.png",
+  "updatedAt": "2025-06-10T03:07:37.837Z"
+}

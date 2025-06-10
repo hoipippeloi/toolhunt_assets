@@ -2,38 +2,38 @@
   "sourceUrl": "https://screenlink.io/",
   "name": "ScreenLink",
   "title": "screenlink.io",
-  "payoff": "Share screen recordings instantly",
-  "shortDescription": "ScreenLink is an open-source tool designed for creating and sharing screen recordings seamlessly. Ideal for users from various sectors, including education and business, it allows instant sharing of recordings integrated with camera and microphone feeds. Users can start with a free version and upgrade as needed, making it perfect for both individual and team use.",
+  "payoff": "Instantly Share Screen Recordings",
+  "shortDescription": "ScreenLink is an open-source alternative to Loom, designed for creating and sharing screen recordings effortlessly. It supports MacOS, Windows, and Linux, catering to a wide range of users from individuals to teams. Users can record screens with integrated camera and microphone feeds, making it ideal for tutorials, presentations, and team updates.",
   "pros": [
     "Supports up to 4K recording at 60 FPS",
-    "Open-source and customizable",
-    "Free tier available"
+    "Open-source with community contributions",
+    "Free tier available for basic use"
   ],
   "cons": [
-    "Limited video duration in free version",
-    "Supports only one team member on free plan",
-    "Advanced features require paid plans"
+    "Limited to 15 videos in free version",
+    "Maximum 10 minutes per recording in free version",
+    "Supports only one team member in free version"
   ],
   "alternatives": [
-    "Loom [loom.com]",
     "OBS Studio [obsproject.com]",
-    "Camtasia [techsmith.com]"
+    "Camtasia [techsmith.com]",
+    "Vimeo Record [vimeo.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Loom",
-      "url": "loom.com",
-      "reason": "Popular with more integration options"
-    },
-    {
       "name": "OBS Studio",
       "url": "obsproject.com",
-      "reason": "Highly customizable, open-source"
+      "reason": "Free and open-source for video recording"
     },
     {
       "name": "Camtasia",
       "url": "techsmith.com",
-      "reason": "Offers extensive editing features"
+      "reason": "Professional editing and recording features"
+    },
+    {
+      "name": "Vimeo Record",
+      "url": "vimeo.com",
+      "reason": "Integrates recording with video hosting"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Screen Capture",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://screenlink.io/",
-  "documentationUrl": null,
+  "documentationUrl": "https://github.com/ScreenLink/screenlink",
   "githubUrl": "https://github.com/mangledbottles/screenlink-desktop",
   "twitterUrl": null,
-  "screenshot": "/screenshots/screenlink_io.png",
-  "screenshot_640": "/screenshots/screenlink_io_640.png",
-  "screenshot_400": "/screenshots/screenlink_io_400.png",
-  "updatedAt": "2025-05-17T11:12:50.715Z"
+  "screenshot": "https://share.appsfor.us/screenshots/screenlink_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/screenlink_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/screenlink_io_400.png",
+  "updatedAt": "2025-06-10T03:05:31.449Z"
 }

@@ -2,8 +2,8 @@
   "sourceUrl": "https://scrapybara.com/",
   "name": "Scrapybara",
   "title": "scrapybara.com",
-  "payoff": "Deploy AI with virtual desktops",
-  "shortDescription": "Scrapybara provides virtual desktops tailored for AI agents, enabling seamless integration and execution of computer use models. It's designed for developers and researchers who need to automate tasks or perform deep web scraping at scale. An example use case is CodeCapy, which uses Scrapybara to test code changes and perform UI tests across multiple instances.",
+  "payoff": "Effortless AI-driven desktop automation",
+  "shortDescription": "Scrapybara provides virtual desktops tailored for AI agents, facilitating seamless integration and execution of complex computing tasks. It is designed for developers and researchers needing robust, scalable desktop infrastructure to automate tasks like web scraping and UI testing. An example use case is CodeCapy, which conducts parallel UI tests on code changes.",
   "pros": [
     "Instant desktop instance spin-up",
     "Real-time monitoring and control",
@@ -11,39 +11,39 @@
   ],
   "cons": [
     "Limited to desktop-based tasks",
-    "Potentially high costs at scale",
-    "Requires technical expertise to deploy"
+    "Potential privacy concerns with desktop access",
+    "Dependent on external internet connectivity"
   ],
   "alternatives": [
     "AWS WorkSpaces [aws.amazon.com/workspaces]",
     "Azure Virtual Desktop [azure.microsoft.com/en-us/services/virtual-desktop]",
-    "Shadow PC [shadow.tech]"
+    "Citrix Virtual Apps and Desktops [citrix.com/products/citrix-virtual-apps-and-desktops]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "AWS WorkSpaces",
       "url": "aws.amazon.com/workspaces",
-      "reason": "Cloud-based virtual desktops with AWS integration"
+      "reason": "AWS provides managed virtual desktops"
     },
     {
       "name": "Azure Virtual Desktop",
       "url": "azure.microsoft.com/en-us/services/virtual-desktop",
-      "reason": "Flexible virtual desktops in Azure cloud"
+      "reason": "Microsoft's cloud VDI solution"
     },
     {
-      "name": "Shadow PC",
-      "url": "shadow.tech",
-      "reason": "High-performance gaming-oriented virtual PCs"
+      "name": "Citrix Virtual Apps and Desktops",
+      "url": "citrix.com/products/citrix-virtual-apps-and-desktops",
+      "reason": "Offers extensive virtualization features"
     }
   ],
   "tags": [
     "virtual desktops",
     "AI integration",
-    "web scraping",
-    "automation"
+    "automation",
+    "scalability"
   ],
   "apiUsed": true,
-  "department": "Research & Development",
+  "department": "Information Technology",
   "function": "Remote Control",
   "freeTier": true,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://scrapybara.com/docs",
   "githubUrl": "https://github.com/scrapybara/codecapy",
   "twitterUrl": "https://x.com/scrapybara",
-  "screenshot": "/screenshots/scrapybara_com.png",
-  "screenshot_640": "/screenshots/scrapybara_com_640.png",
-  "screenshot_400": "/screenshots/scrapybara_com_400.png",
-  "updatedAt": "2025-05-10T02:48:50.499Z"
+  "screenshot": "https://share.appsfor.us/screenshots/scrapybara_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/scrapybara_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/scrapybara_com_400.png",
+  "updatedAt": "2025-06-10T03:04:04.300Z"
 }

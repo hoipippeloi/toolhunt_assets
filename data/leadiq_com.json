@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://leadiq.com/",
+  "name": "LeadIQ",
+  "title": "leadiq.com",
+  "payoff": "Smart B2B Prospecting Platform",
+  "shortDescription": "LeadIQ offers a comprehensive solution for B2B sales teams to enhance their prospecting and pipeline management. It provides accurate contact data, integrates seamlessly with sales tools, and automates data enrichment. Sales professionals can generate personalized messages and receive buying signals to reach out at the optimal time. An example use case is a sales team using LeadIQ to streamline lead generation and improve CRM data accuracy.",
+  "pros": [
+    "High data accuracy with proprietary verification",
+    "Seamless integration with CRM and sales tools",
+    "Automated insights and buying signals"
+  ],
+  "cons": [
+    "Potentially high cost for small businesses",
+    "Complex features may require training",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "ZoomInfo [zoominfo.com]",
+    "DiscoverOrg [discoverorg.com]",
+    "Lusha [lusha.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ZoomInfo",
+      "url": "zoominfo.com",
+      "reason": "Offers broader data sets and features"
+    },
+    {
+      "name": "DiscoverOrg",
+      "url": "discoverorg.com",
+      "reason": "Focuses on high-quality data for enterprises"
+    },
+    {
+      "name": "Lusha",
+      "url": "lusha.com",
+      "reason": "Simpler interface and quick setup"
+    }
+  ],
+  "tags": [
+    "B2B",
+    "sales enablement",
+    "data enrichment",
+    "prospecting"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://leadiq.com/",
+  "documentationUrl": "https://leadiq.com/documentation",
+  "githubUrl": "https://github.com/search?q=leadiq&type=repositories",
+  "twitterUrl": "https://twitter.com/leadiq",
+  "screenshot": "https://share.appsfor.us/screenshots/leadiq_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/leadiq_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/leadiq_com_400.png",
+  "updatedAt": "2025-06-10T03:06:56.800Z"
+}
