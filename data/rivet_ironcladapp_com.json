@@ -3,37 +3,37 @@
   "name": "Rivet",
   "title": "ironcladapp.com",
   "payoff": "Visual AI Programming Environment",
-  "shortDescription": "Rivet is a visual programming environment designed for building AI agents using LLMs. It enables teams to design, debug, and deploy complex LLM prompt graphs directly within their applications. Ideal for developers and research teams, Rivet facilitates collaboration and iteration on AI projects. An example use case is the development of a virtual mortgage servicing agent, enhancing team collaboration and debugging capabilities.",
+  "shortDescription": "Rivet is a visual programming tool designed for creating and managing AI agents using LLMs. It allows teams to design, debug, and deploy complex LLM prompt graphs within their applications. An example use case includes teams at Ironclad using Rivet to enhance their legal AI capabilities, making contract review processes more efficient and collaborative.",
   "pros": [
-    "Visual debugging and design of AI agents",
-    "Collaborative environment for team projects",
-    "Direct deployment of LLM prompt graphs"
+    "Intuitive visual programming interface",
+    "Real-time debugging and execution",
+    "Version control integration with YAML files"
   ],
   "cons": [
-    "May require technical expertise to fully utilize",
-    "Limited to visual programming of AI agents",
-    "Dependent on YAML file integration"
+    "Limited to LLM-based applications",
+    "May require technical understanding of AI",
+    "Potentially high learning curve for non-developers"
   ],
   "alternatives": [
     "Node-RED [nodered.org]",
-    "TensorFlow [tensorflow.org]",
-    "Microsoft Power Automate [powerautomate.com]"
+    "Microsoft Power Automate [powerautomate.com]",
+    "Knime [knime.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Node-RED",
       "url": "nodered.org",
-      "reason": "Offers visual programming for IoT"
-    },
-    {
-      "name": "TensorFlow",
-      "url": "tensorflow.org",
-      "reason": "Advanced AI and ML toolset"
+      "reason": "Visual tool for wiring APIs and devices"
     },
     {
       "name": "Microsoft Power Automate",
       "url": "powerautomate.com",
-      "reason": "Visual automation across apps"
+      "reason": "Automation with prebuilt connectors"
+    },
+    {
+      "name": "Knime",
+      "url": "knime.com",
+      "reason": "Data analytics via visual programming"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://ironcladapp.com/documentation",
   "githubUrl": "https://github.com/Ironclad/rivet",
   "twitterUrl": null,
-  "screenshot": "/screenshots/rivet_ironcladapp_com.png",
-  "screenshot_640": "/screenshots/rivet_ironcladapp_com_640.png",
-  "screenshot_400": "/screenshots/rivet_ironcladapp_com_400.png",
-  "updatedAt": "2025-05-20T04:45:58.642Z"
+  "screenshot": "https://share.appsfor.us/screenshots/rivet_ironcladapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rivet_ironcladapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rivet_ironcladapp_com_400.png",
+  "updatedAt": "2025-06-10T01:12:38.481Z"
 }

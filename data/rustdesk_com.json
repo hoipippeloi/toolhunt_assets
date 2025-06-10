@@ -3,16 +3,16 @@
   "name": "RustDesk",
   "title": "rustdesk.com",
   "payoff": "Secure self-hosted remote desktop",
-  "shortDescription": "RustDesk offers a reliable remote desktop solution that allows users to switch from traditional services like TeamViewer to a self-hosted server environment. It ensures data sovereignty, optimal performance, and enhanced security through on-premise deployment. Ideal for businesses wanting control over their data and customization, RustDesk can be tailored to specific needs, making remote access simple and secure.",
+  "shortDescription": "RustDesk offers a secure and reliable remote desktop solution that allows users to switch from other platforms like TeamViewer and AnyDesk. It supports self-hosting on various operating systems including Windows, macOS, Linux, and Android. This tool is ideal for businesses needing regulatory compliance and data sovereignty through on-premise deployments.",
   "pros": [
-    "Data sovereignty through self-hosting",
-    "Customizable to specific business needs",
-    "Supports multiple operating systems"
+    "Supports multiple operating systems",
+    "Self-hosted for data control and compliance",
+    "Customizable client interface"
   ],
   "cons": [
     "Requires technical knowledge for setup",
-    "Dependent on user's own IT infrastructure",
-    "Limited marketing compared to competitors"
+    "Limited marketing compared to competitors",
+    "Dependency on Docker for installation"
   ],
   "alternatives": [
     "TeamViewer [teamviewer.com]",
@@ -28,18 +28,18 @@
     {
       "name": "AnyDesk",
       "url": "anydesk.com",
-      "reason": "Offers fast and lightweight service"
+      "reason": "High performance and flexible"
     },
     {
       "name": "Splashtop",
       "url": "splashtop.com",
-      "reason": "Focuses on high performance"
+      "reason": "Focus on security and large teams"
     }
   ],
   "tags": [
     "remote control",
     "open source",
-    "data security",
+    "data sovereignty",
     "self-hosted"
   ],
   "apiUsed": false,
@@ -47,13 +47,13 @@
   "function": "Remote Control",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://rustdesk.com/",
   "documentationUrl": "https://rustdesk.com/docs",
   "githubUrl": "https://github.com/rustdesk/rustdesk/wiki/FAQ",
   "twitterUrl": "https://twitter.com/rustdesk",
-  "screenshot": "/screenshots/rustdesk_com.png",
-  "screenshot_640": "/screenshots/rustdesk_com_640.png",
-  "screenshot_400": "/screenshots/rustdesk_com_400.png",
-  "updatedAt": "2025-05-10T06:45:39.825Z"
+  "screenshot": "https://share.appsfor.us/screenshots/rustdesk_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rustdesk_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rustdesk_com_400.png",
+  "updatedAt": "2025-06-10T01:14:49.290Z"
 }

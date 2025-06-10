@@ -3,16 +3,16 @@
   "name": "Revolut",
   "title": "revolut.com",
   "payoff": "All-in-one finance app",
-  "shortDescription": "Revolut is a versatile finance app designed to simplify money management, investment, and international transactions. It caters to a wide range of users, from everyday spenders to global travelers. Users can manage their salaries, invest in stocks and commodities, and enjoy benefits across different subscription plans. An example use case is a traveler using Revolut to manage expenses and investments while abroad, benefiting from real-time currency exchange and travel insurance.",
+  "shortDescription": "Revolut is a versatile finance app designed to simplify money management for individuals globally. Users can manage their salaries, track spending, and invest in stocks or commodities. Ideal for travelers, it allows easy currency exchange and offers various plans with benefits like travel insurance and savings rates. Example use case: A user travels frequently and uses Revolut for hassle-free currency exchange and managing finances on the go.",
   "pros": [
-    "Comprehensive financial management tools",
+    "Comprehensive financial services in one app",
     "Supports multiple currencies and international use",
-    "Variety of subscription plans with added benefits"
+    "Offers investment and insurance options"
   ],
   "cons": [
-    "Complex fee structure for various services",
-    "Investment options come with capital risk",
-    "Not all services are regulated by financial authorities"
+    "Fees for certain transactions and services",
+    "Investment services are not advised, self-decision needed",
+    "Commodities service not regulated by FCA"
   ],
   "alternatives": [
     "N26 [n26.com]",
@@ -23,12 +23,12 @@
     {
       "name": "N26",
       "url": "n26.com",
-      "reason": "Offers a similar digital banking experience"
+      "reason": "Offers similar digital banking services"
     },
     {
       "name": "Monzo",
       "url": "monzo.com",
-      "reason": "Focuses on budgeting and UK banking"
+      "reason": "Focuses on budgeting and saving tools"
     },
     {
       "name": "Wise",
@@ -39,8 +39,8 @@
   "tags": [
     "personal finance",
     "investment",
-    "multi-currency",
-    "mobile banking"
+    "banking",
+    "currency exchange"
   ],
   "apiUsed": false,
   "department": "Finance & Accounting",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://help.revolut.com/help/wealth/stocks/trading-stocks/trading-fees/what-fees-will-i-be-charged-for-my-trading/",
   "githubUrl": "https://github.com/search?q=revolut&type=repositories",
   "twitterUrl": "https://twitter.com/RevolutApp",
-  "screenshot": "/screenshots/revolut_com.png",
-  "screenshot_640": "/screenshots/revolut_com_640.png",
-  "screenshot_400": "/screenshots/revolut_com_400.png",
-  "updatedAt": "2025-05-12T07:15:55.932Z"
+  "screenshot": "https://share.appsfor.us/screenshots/revolut_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/revolut_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/revolut_com_400.png",
+  "updatedAt": "2025-06-10T01:11:01.551Z"
 }

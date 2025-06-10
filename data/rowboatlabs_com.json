@@ -2,49 +2,49 @@
   "sourceUrl": "https://rowboatlabs.com/",
   "name": "Rowboat",
   "title": "rowboatlabs.com",
-  "payoff": "IDE for multi-agent systems",
-  "shortDescription": "Rowboat is a specialized Integrated Development Environment (IDE) designed for developing and managing multi-agent systems. It caters primarily to developers and researchers working in fields like robotics, AI, and distributed computing. An example use case involves a team creating a coordinated drone surveillance system, where Rowboat provides tools for coding, testing, and deployment.",
+  "payoff": "Let AI build your agents",
+  "shortDescription": "Rowboat is a powerful platform designed for building and managing AI agents with ease. It allows users to describe workflows in plain English, and the system auto-sketches the multi-agent graphs. Ideal for businesses looking to automate complex tasks, an example use case includes orchestrating AI agents to manage email inboxes efficiently, drafting replies, and scheduling tasks without any coding required.",
   "pros": [
-    "Tailored for multi-agent systems",
-    "Supports complex distributed projects",
-    "Integrated testing and deployment tools"
+    "Intuitive AI-driven agent creation",
+    "Zero code integration with tools",
+    "Built-in feedback and retraining loops"
   ],
   "cons": [
-    "Steep learning curve",
-    "Limited community support",
-    "Focused only on multi-agent systems"
+    "Limited to AI and automation use cases",
+    "Dependency on external tools for full functionality",
+    "Potential complexity in managing multiple agents"
   ],
   "alternatives": [
-    "Eclipse [eclipse.org]",
-    "Visual Studio [visualstudio.com]",
-    "IntelliJ IDEA [jetbrains.com]"
+    "Microsoft Power Automate [powerautomate.microsoft.com]",
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Eclipse",
-      "url": "eclipse.org",
-      "reason": "Widely used IDE with extensive plugins"
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Popular for easy automation across apps"
     },
     {
-      "name": "Visual Studio",
-      "url": "visualstudio.com",
-      "reason": "Comprehensive development features"
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual builder for complex workflows"
     },
     {
-      "name": "IntelliJ IDEA",
-      "url": "jetbrains.com",
-      "reason": "Strong support for various programming languages"
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple conditional automation triggers"
     }
   ],
   "tags": [
-    "IDE",
+    "AI",
+    "automation",
     "multi-agent systems",
-    "development",
-    "robotics"
+    "no-code"
   ],
-  "apiUsed": false,
-  "department": "Research & Development",
-  "function": "Development",
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
   "freeTier": false,
   "openSource": true,
   "releasedYear": 2025,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.rowboatlabs.com/",
   "githubUrl": "https://github.com/rowboatlabs/rowboat",
   "twitterUrl": null,
-  "screenshot": "/screenshots/rowboatlabs_com.png",
-  "screenshot_640": "/screenshots/rowboatlabs_com_640.png",
-  "screenshot_400": "/screenshots/rowboatlabs_com_400.png",
-  "updatedAt": "2025-05-13T04:22:33.444Z"
+  "screenshot": "https://share.appsfor.us/screenshots/rowboatlabs_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rowboatlabs_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rowboatlabs_com_400.png",
+  "updatedAt": "2025-06-10T01:14:08.350Z"
 }

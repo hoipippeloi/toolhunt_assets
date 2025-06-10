@@ -2,38 +2,38 @@
   "sourceUrl": "https://rockwellautomation.com/",
   "name": "Rockwell Automation",
   "title": "rockwellautomation.com",
-  "payoff": "Smart Manufacturing Solutions",
-  "shortDescription": "Rockwell Automation provides industrial automation and digital transformation services. It supports manufacturers by integrating hardware, software, and services to enhance resilience, agility, and sustainability. Example use case: A manufacturing company uses Rockwell Automation to streamline operations and increase efficiency through advanced automation technologies.",
+  "payoff": "Enabling sustainable smart manufacturing",
+  "shortDescription": "Rockwell Automation specializes in industrial automation and digital transformation solutions. It assists manufacturers in becoming more resilient, agile, and sustainable through market-leading hardware, software, and services. An example use case is a factory integrating Rockwell's solutions to optimize operations and enhance data-driven decision-making.",
   "pros": [
-    "Comprehensive solutions from hardware to software",
+    "Comprehensive solutions for manufacturing",
     "Strong focus on sustainability and resilience",
     "Extensive partner network for enhanced capabilities"
   ],
   "cons": [
-    "May be complex for small businesses",
-    "Potential high cost of implementation",
-    "Dependence on specific vendor technologies"
+    "May be complex for small-scale operations",
+    "Potentially high cost of implementation",
+    "Dependence on third-party providers for some services"
   ],
   "alternatives": [
-    "Siemens [siemens.com]",
+    "Siemens Digital Industries Software [siemens.com/software]",
     "Schneider Electric [se.com]",
-    "Honeywell [honeywell.com]"
+    "Honeywell Process Solutions [honeywellprocess.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Siemens Digital Industries",
-      "url": "siemens.com",
-      "reason": "Similar scope in automation and digitalization"
+      "name": "Siemens Digital Industries Software",
+      "url": "siemens.com/software",
+      "reason": "Offers comprehensive digitalization"
     },
     {
       "name": "Schneider Electric",
       "url": "se.com",
-      "reason": "Offers automation solutions with energy focus"
+      "reason": "Focus on energy management"
     },
     {
       "name": "ABB Robotics",
-      "url": "new.abb.com",
-      "reason": "Strong in robotics and automation for industries"
+      "url": "new.abb.com/products/robotics",
+      "reason": "Leader in robotics and automation"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://www.rockwellautomation.com/en-sg/support/documentation/literature-library.html",
   "githubUrl": "https://github.com/search?q=rockwell%20automation&type=repositories",
   "twitterUrl": "http://twitter.com/ROKAutomation",
-  "screenshot": "/screenshots/rockwellautomation_com.png",
-  "screenshot_640": "/screenshots/rockwellautomation_com_640.png",
-  "screenshot_400": "/screenshots/rockwellautomation_com_400.png",
-  "updatedAt": "2025-05-09T11:18:04.813Z"
+  "screenshot": "https://share.appsfor.us/screenshots/rockwellautomation_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rockwellautomation_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rockwellautomation_com_400.png",
+  "updatedAt": "2025-06-10T01:13:35.014Z"
 }
