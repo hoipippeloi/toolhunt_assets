@@ -2,45 +2,45 @@
   "sourceUrl": "https://socialrails.com/",
   "name": "SocialRails",
   "title": "socialrails.com",
-  "payoff": "Upgrade your social media workflow",
-  "shortDescription": "SocialRails is a powerful tool designed to streamline social media management and content creation for businesses. It allows users to schedule posts, automate TikToks, and generate engaging short-form content across multiple platforms. Ideal for marketers, the tool supports up to 25 workspaces and provides insights for optimal posting times, making it easy to manage a week's content in one session.",
+  "payoff": "Grow on 9 Social Media Platforms",
+  "shortDescription": "SocialRails is a powerful tool designed for content creators and marketers to efficiently manage and automate their social media content across 9 platforms. Users can manage multiple workspaces, automate TikTok views, and schedule posts seamlessly. Ideal for businesses looking to save time and enhance their social media presence, SocialRails allows setting up a week's content in one session, optimizing posts with built-in AI, and securely connecting to social platforms.",
   "pros": [
-    "Automates and schedules posts efficiently",
-    "Supports multiple workspaces and platforms",
-    "Offers AI-driven content optimization"
+    "Automate and schedule posts across multiple platforms",
+    "Built-in AI tools for optimizing content",
+    "Supports managing multiple workspaces"
   ],
   "cons": [
-    "Limited to 9 social platforms",
-    "No open source version available",
-    "Higher costs for multiple platforms"
+    "Limited to 9 social media platforms",
+    "No short-form video creation tools",
+    "Higher costs for multiple platform management"
   ],
   "alternatives": [
-    "Hootsuite [hootsuite.com]",
     "Buffer [buffer.com]",
+    "Hootsuite [hootsuite.com]",
     "Sprout Social [sproutsocial.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Hootsuite",
-      "url": "hootsuite.com",
-      "reason": "Offers comprehensive social media management"
-    },
-    {
       "name": "Buffer",
       "url": "buffer.com",
-      "reason": "Focuses on simplicity and usability"
+      "reason": "Offers similar multi-platform scheduling"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Comprehensive social media management"
     },
     {
       "name": "Sprout Social",
       "url": "sproutsocial.com",
-      "reason": "Provides advanced analytics features"
+      "reason": "Advanced analytics and engagement tools"
     }
   ],
   "tags": [
-    "social media",
+    "social media management",
     "content automation",
-    "scheduling",
-    "marketing tools"
+    "AI optimization",
+    "multi-platform"
   ],
   "apiUsed": false,
   "department": "Marketing",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=socialrails&type=repositories",
   "twitterUrl": "https://x.com/socialrails",
-  "screenshot": "/screenshots/socialrails_com.png",
-  "screenshot_640": "/screenshots/socialrails_com_640.png",
-  "screenshot_400": "/screenshots/socialrails_com_400.png",
-  "updatedAt": "2025-05-13T04:45:44.579Z"
+  "screenshot": "https://share.appsfor.us/screenshots/socialrails_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/socialrails_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/socialrails_com_400.png",
+  "updatedAt": "2025-06-11T10:18:45.445Z"
 }

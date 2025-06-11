@@ -1,18 +1,18 @@
 {
   "sourceUrl": "https://siter.io/",
-  "name": "Siter",
+  "name": "Siter.io",
   "title": "siter.io",
-  "payoff": "Craft websites with no coding!",
-  "shortDescription": "Siter.io is a no-code website builder designed for individuals and teams to create websites quickly without coding skills. Users can design, launch, and share websites with features like a freehand editor and Figma plugin integration. Ideal for creating portfolios, landing pages, and presentation websites, it simplifies the web design process, saving time and resources.",
+  "payoff": "Craft websites in minutes!",
+  "shortDescription": "Siter.io is a no-code website builder designed for individuals and teams who want to create websites quickly without coding. Users can design, launch, and share websites with ease, utilizing features like a freehand editor and Figma plugin. It's ideal for creating portfolios, landing pages, and more.",
   "pros": [
     "Intuitive no-code interface",
     "Integration with Figma for design import",
-    "Offers a free domain for publishing"
+    "Free domain and hosting options"
   ],
   "cons": [
     "Limited customization compared to traditional coding",
-    "Potential privacy concerns with cookie usage",
-    "Dependence on third-party services like Cloudflare and YouTube"
+    "May not handle complex backend tasks",
+    "Dependent on third-party services for some features"
   ],
   "alternatives": [
     "Wix [wix.com]",
@@ -23,23 +23,23 @@
     {
       "name": "Webflow",
       "url": "webflow.com",
-      "reason": "Offers visual CMS and higher customizability"
-    },
-    {
-      "name": "Adobe Dreamweaver",
-      "url": "adobe.com/products/dreamweaver.html",
-      "reason": "Combines visual design with code editing"
+      "reason": "Offers more advanced design controls"
     },
     {
       "name": "Elementor",
       "url": "elementor.com",
-      "reason": "WordPress integration and extensive plugins"
+      "reason": "WordPress integration for flexibility"
+    },
+    {
+      "name": "Carrd",
+      "url": "carrd.co",
+      "reason": "Simpler, more focused on one-page sites"
     }
   ],
   "tags": [
     "no-code",
     "website builder",
-    "web design",
+    "design tools",
     "SaaS"
   ],
   "apiUsed": false,
@@ -50,10 +50,10 @@
   "releasedYear": 2020,
   "websiteUrl": "https://siter.io/",
   "documentationUrl": "https://help.siter.io/",
-  "githubUrl": "https://github.com/search?q=siter&type=repositories",
+  "githubUrl": "https://github.com/search?q=siter%20io&type=repositories",
   "twitterUrl": "https://twitter.com/getsiter",
-  "screenshot": "/screenshots/siter_io.png",
-  "screenshot_640": "/screenshots/siter_io_640.png",
-  "screenshot_400": "/screenshots/siter_io_400.png",
-  "updatedAt": "2025-05-10T04:16:37.015Z"
+  "screenshot": "https://share.appsfor.us/screenshots/siter_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/siter_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/siter_io_400.png",
+  "updatedAt": "2025-06-11T10:17:11.242Z"
 }

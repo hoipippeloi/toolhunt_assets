@@ -2,17 +2,17 @@
   "sourceUrl": "https://snapchat.com/",
   "name": "Snapchat",
   "title": "snapchat.com",
-  "payoff": "较少社交媒体。更多 Snapchat。",
-  "shortDescription": "Snapchat is a multimedia messaging app that allows users to share moments with friends and family through ephemeral photos and videos. It's designed for a younger audience looking for quick, fun ways to communicate. Users can enhance their interactions with a variety of Lenses and Filters, making each snap unique. An example use case is sharing a quick video update with personalized filters to a group of friends.",
+  "payoff": "Mehr Snapchat, weniger Social Media.",
+  "shortDescription": "Snapchat ist eine beliebte App, die es Nutzern ermöglicht, Fotos und Videos zu teilen, die nach kurzer Zeit automatisch gelöscht werden. Die Plattform richtet sich hauptsächlich an junge Menschen, die spontane und authentische Kommunikation schätzen. Ein typischer Anwendungsfall ist das Teilen von Momentaufnahmen aus dem Alltag mit Freunden und Familie, ergänzt durch eine Vielzahl von Linsen und Filtern, die die Kreativität fördern.",
   "pros": [
-    "Fun and engaging user interface",
-    "Wide variety of filters and lenses",
-    "Strong focus on privacy with ephemeral messages"
+    "Fördert kreative Ausdrucksformen durch Filter und Linsen",
+    "Starke Nutzerbasis, insbesondere unter jungen Menschen",
+    "Funktionen zur Wahrung der Privatsphäre wie das automatische Löschen von Nachrichten"
   ],
   "cons": [
-    "Primarily appeals to a younger demographic",
-    "Limited functionality for professional communication",
-    "Potential for misuse with privacy features"
+    "Inhalte sind nur kurzzeitig verfügbar",
+    "Kann zu unbedachtem Teilen von Informationen führen",
+    "Eingeschränkte Funktionalität für professionelle oder geschäftliche Nutzung"
   ],
   "alternatives": [
     "Instagram [instagram.com]",
@@ -23,24 +23,24 @@
     {
       "name": "Instagram",
       "url": "instagram.com",
-      "reason": "Offers stories and filters like Snapchat."
+      "reason": "Offers similar photo and video sharing features."
     },
     {
       "name": "TikTok",
       "url": "tiktok.com",
-      "reason": "Short video format appeals to similar users."
+      "reason": "Focuses on short video content with high engagement."
     },
     {
       "name": "Facebook",
       "url": "facebook.com",
-      "reason": "Broader social network with similar features."
+      "reason": "Provides a broader social networking experience."
     }
   ],
   "tags": [
     "social media",
-    "messaging",
-    "multimedia",
-    "privacy"
+    "photo sharing",
+    "video sharing",
+    "messaging"
   ],
   "apiUsed": true,
   "department": "Marketing",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2011,
   "websiteUrl": "https://snapchat.com/",
-  "documentationUrl": "https://snapchat.com",
+  "documentationUrl": "https://help.snapchat.com/",
   "githubUrl": "https://github.com/search?q=snapchat&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/snapchat_com.png",
-  "screenshot_640": "/screenshots/snapchat_com_640.png",
-  "screenshot_400": "/screenshots/snapchat_com_400.png",
-  "updatedAt": "2025-05-23T07:15:49.795Z"
+  "screenshot": "https://share.appsfor.us/screenshots/snapchat_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/snapchat_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/snapchat_com_400.png",
+  "updatedAt": "2025-06-11T10:18:21.038Z"
 }

@@ -2,17 +2,17 @@
   "sourceUrl": "https://sona.wtf/",
   "name": "Sona",
   "title": "sona.wtf",
-  "payoff": "Record and Summarize Meetings with AI",
-  "shortDescription": "Sona is designed to enhance productivity by recording, transcribing, and summarizing conversations. It is ideal for professionals who engage in frequent meetings and require accurate records and insights. Users can operate Sona across multiple devices including Apple Watch, iPhone, and Desktop, ensuring seamless integration into various work environments. An example use case is a team using Sona during meetings to capture discussions and automatically generate summaries and action items.",
+  "payoff": "Record Meetings, Summarize with AI",
+  "shortDescription": "Sona is designed to enhance productivity by capturing and summarizing conversations. Ideal for professionals across various fields, it supports recording, transcribing, and summarizing discussions. Whether it's a casual chat during a coffee walk or a structured online meeting, Sona works seamlessly across Apple Watch, iPhone, and Desktop. An example use case is using Sona during sales calls to ensure all details are captured without the presence of intrusive bots.",
   "pros": [
     "Supports over 99 languages",
-    "Works across multiple devices",
-    "Operates discreetly without meeting bots"
+    "Operates across multiple devices",
+    "No visible bots or extra devices needed"
   ],
   "cons": [
     "Limited to Apple devices and desktop",
     "No clear pricing information available",
-    "May have privacy concerns with background operation"
+    "Potential privacy concerns with conversation recording"
   ],
   "alternatives": [
     "Otter.ai [otter.ai]",
@@ -23,24 +23,24 @@
     {
       "name": "Otter.ai",
       "url": "otter.ai",
-      "reason": "Offers live transcription and collaboration."
+      "reason": "Offers real-time transcription and AI summarization"
     },
     {
       "name": "Fireflies.ai",
       "url": "fireflies.ai",
-      "reason": "Focuses on AI meeting assistance."
+      "reason": "Automated meeting capture and notes"
     },
     {
       "name": "Descript",
       "url": "descript.com",
-      "reason": "Provides transcription with editing tools."
+      "reason": "Combines transcription, editing & collaboration"
     }
   ],
   "tags": [
     "AI",
     "productivity",
-    "meeting transcription",
-    "summarization"
+    "transcription",
+    "meeting summary"
   ],
   "apiUsed": false,
   "department": "Sales",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=sona&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/sona_wtf.png",
-  "screenshot_640": "/screenshots/sona_wtf_640.png",
-  "screenshot_400": "/screenshots/sona_wtf_400.png",
-  "updatedAt": "2025-05-10T02:48:24.581Z"
+  "screenshot": "https://share.appsfor.us/screenshots/sona_wtf.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sona_wtf_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sona_wtf_400.png",
+  "updatedAt": "2025-06-11T10:19:46.062Z"
 }
