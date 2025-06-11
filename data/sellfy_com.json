@@ -2,58 +2,58 @@
   "sourceUrl": "https://sellfy.com/",
   "name": "Sellfy",
   "title": "sellfy.com",
-  "payoff": "Sell products online effortlessly",
-  "shortDescription": "Sellfy is an all-in-one platform designed for creators and online businesses looking to sell digital products, merchandise, and more without the complexity of traditional e-commerce solutions. With features like store customization, email marketing, and an affiliate program, Sellfy simplifies the setup and management of online stores. Creators can start selling within minutes and benefit from powerful marketing tools to boost their sales.",
+  "payoff": "Sell products online hassle-free",
+  "shortDescription": "Sellfy is an e-commerce platform designed for creators and online businesses looking to sell digital products, merchandise, and more without the complexity of traditional e-commerce solutions. It offers tools for store customization, email marketing, and upselling, making it ideal for small to medium-sized enterprises aiming to expand their online presence. Creators can start selling within minutes with minimal setup.",
   "pros": [
-    "Easy store setup and management",
+    "Easy setup and user-friendly interface",
     "Integrated marketing and upselling tools",
-    "No initial fees with a free 14-day trial"
+    "No need for external e-commerce or email marketing services"
   ],
   "cons": [
     "Limited customization options compared to larger platforms",
     "May not scale well for very large businesses",
-    "Lacks some advanced analytics features"
+    "Fees associated with payment processing"
   ],
   "alternatives": [
     "Shopify [shopify.com]",
     "BigCommerce [bigcommerce.com]",
-    "Gumroad [gumroad.com]"
+    "WooCommerce [woocommerce.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Shopify",
       "url": "shopify.com",
-      "reason": "Offers extensive store customization"
+      "reason": "Offers extensive store customization and scalability."
     },
     {
       "name": "WooCommerce",
       "url": "woocommerce.com",
-      "reason": "Flexible, open-source platform"
+      "reason": "Flexible, open-source platform with many plugins."
     },
     {
       "name": "BigCommerce",
       "url": "bigcommerce.com",
-      "reason": "Scales well for large businesses"
+      "reason": "Supports large-scale businesses with robust features."
     }
   ],
   "tags": [
     "e-commerce",
-    "digital sales",
+    "digital products",
     "marketing tools",
     "store customization"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Sales",
   "function": "E-commerce",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2011,
   "websiteUrl": "https://sellfy.com/",
-  "documentationUrl": "https://docs.sellfy.com/#contact",
+  "documentationUrl": "https://sellfy.com/support/",
   "githubUrl": "https://github.com/search?q=sellfy&type=repositories",
   "twitterUrl": "https://twitter.com/Sellfy",
-  "screenshot": "/screenshots/sellfy_com.png",
-  "screenshot_640": "/screenshots/sellfy_com_640.png",
-  "screenshot_400": "/screenshots/sellfy_com_400.png",
-  "updatedAt": "2025-05-21T02:57:27.291Z"
+  "screenshot": "https://share.appsfor.us/screenshots/sellfy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sellfy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sellfy_com_400.png",
+  "updatedAt": "2025-06-11T09:00:46.055Z"
 }

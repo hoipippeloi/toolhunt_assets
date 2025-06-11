@@ -3,37 +3,37 @@
   "name": "Sherloq",
   "title": "sherloqdata.io",
   "payoff": "AI for your SQL",
-  "shortDescription": "Sherloq is designed to enhance SQL database management through AI. It targets developers and data analysts by simplifying query writing and management. The tool integrates as a plugin, directly importing SQL queries from various sources, making it easy to build an AI-ready SQL repository. An example use case is a developer struggling with complex SQL queries; Sherloq can assist by generating context-aware SQL, fixing syntax, and optimizing queries.",
+  "shortDescription": "Sherloq is an innovative tool designed to enhance SQL database management through AI-driven interactions. It targets developers and data analysts, providing a seamless integration that imports SQL queries directly from existing environments. An example use case includes optimizing SQL queries through AI suggestions, thereby improving database performance and query handling efficiency.",
   "pros": [
-    "Simplifies complex SQL query management",
-    "No integration needed, works as a plugin",
-    "Generates context-aware SQL adjustments"
+    "Enhances SQL query optimization",
+    "Easy integration with existing SQL environments",
+    "AI-driven suggestions for query improvements"
   ],
   "cons": [
-    "Limited to SQL databases",
-    "May not support all SQL editors",
-    "Dependent on the quality of existing queries"
+    "Dependent on quality of existing SQL queries",
+    "Potential privacy concerns with data handling",
+    "Limited to SQL databases only"
   ],
   "alternatives": [
-    "DataGrip [jetbrains.com]",
-    "SQL Server Management Studio [microsoft.com]",
-    "HeidiSQL [heidisql.com]"
+    "Retool [retool.com]",
+    "Airtable [airtable.com]",
+    "TablePlus [tableplus.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "DataGrip",
-      "url": "jetbrains.com",
-      "reason": "Rich SQL editor and database manager"
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for SQL"
     },
     {
-      "name": "SQL Server Management Studio",
-      "url": "microsoft.com",
-      "reason": "Comprehensive tool for managing SQL Server"
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database with spreadsheet"
     },
     {
-      "name": "HeidiSQL",
-      "url": "heidisql.com",
-      "reason": "Free and open source SQL management"
+      "name": "TablePlus",
+      "url": "tableplus.com",
+      "reason": "Native tool with SQL GUI"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://sherloqdata.io/",
-  "documentationUrl": "https://docs.sherloqdata.io/allintegrations",
+  "documentationUrl": "https://sherloqdata.io/docs",
   "githubUrl": "https://github.com/search?q=sherloq&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/sherloqdata_io.png",
-  "screenshot_640": "/screenshots/sherloqdata_io_640.png",
-  "screenshot_400": "/screenshots/sherloqdata_io_400.png",
-  "updatedAt": "2025-05-21T01:10:20.182Z"
+  "screenshot": "https://share.appsfor.us/screenshots/sherloqdata_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sherloqdata_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sherloqdata_io_400.png",
+  "updatedAt": "2025-06-11T09:02:56.960Z"
 }
