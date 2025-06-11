@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://itsperfect.io/",
+  "name": "Itsperfect",
+  "title": "itsperfect.io",
+  "payoff": "Smart ERP for Fashion Brands",
+  "shortDescription": "Itsperfect offers a comprehensive ERP solution tailored for the fashion industry. It facilitates efficient management of product data, warehouse operations, and customer returns. The platform integrates seamlessly with various marketplaces and supports wholesale and retail operations, making it ideal for fashion brands looking to streamline their supply chain and sales processes.",
+  "pros": [
+    "Integrated fashion-specific features",
+    "Seamless marketplace integrations",
+    "In-house inventory and returns management"
+  ],
+  "cons": [
+    "May be complex for small businesses",
+    "Potentially high cost for full features",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "NetSuite [netsuite.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]",
+    "SAP Business ByDesign [sap.com/products/business-bydesign.html]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NetSuite",
+      "url": "netsuite.com",
+      "reason": "Broad ERP features with strong customization"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "Integrates deeply with other MS services"
+    },
+    {
+      "name": "SAP Business ByDesign",
+      "url": "sap.com/products/business-bydesign.html",
+      "reason": "Scalable cloud ERP for mid-sized companies"
+    }
+  ],
+  "tags": [
+    "ERP",
+    "fashion industry",
+    "supply chain management",
+    "inventory management"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Enterprise Planning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://itsperfect.io/",
+  "documentationUrl": "https://itsperfect.io/documentation",
+  "githubUrl": "https://github.com/search?q=itsperfect&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/itsperfect_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/itsperfect_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/itsperfect_io_400.png",
+  "updatedAt": "2025-06-11T12:29:19.633Z"
+}

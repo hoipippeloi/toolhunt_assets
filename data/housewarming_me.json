@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://housewarming.me/",
+  "name": "Housewarming",
+  "title": "housewarming.me",
+  "payoff": "Warm up your new home effortlessly",
+  "shortDescription": "Housewarming simplifies the process of setting up a new home by providing users with tailored recommendations for furniture, decor, and essentials. It's designed for new homeowners or renters who want to quickly feel at home. Users can input their style preferences and get personalized suggestions, making the move-in process smoother and more enjoyable.",
+  "pros": [
+    "Personalized home setup recommendations",
+    "Easy to use interface",
+    "Saves time and effort in home decoration"
+  ],
+  "cons": [
+    "Limited to certain regions",
+    "May not support all home sizes",
+    "Dependent on third-party supplier availability"
+  ],
+  "alternatives": [
+    "IKEA [ikea.com]",
+    "Wayfair [wayfair.com]",
+    "HomeGoods [homegoods.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "IKEA",
+      "url": "ikea.com",
+      "reason": "Wide range of affordable home goods"
+    },
+    {
+      "name": "Wayfair",
+      "url": "wayfair.com",
+      "reason": "Extensive online catalog of home items"
+    },
+    {
+      "name": "HomeGoods",
+      "url": "homegoods.com",
+      "reason": "Physical and online store for home decor"
+    }
+  ],
+  "tags": [
+    "home setup",
+    "interior design",
+    "personalization",
+    "home essentials"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://housewarming.me/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=housewarming&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/housewarming_me.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/housewarming_me_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/housewarming_me_400.png",
+  "updatedAt": "2025-06-11T12:29:47.241Z"
+}
