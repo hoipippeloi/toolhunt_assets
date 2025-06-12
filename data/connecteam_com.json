@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://connecteam.com/",
+  "name": "Connecteam",
+  "title": "connecteam.com",
+  "payoff": "Manage your team in one app",
+  "shortDescription": "Connecteam is a comprehensive employee management app designed to streamline daily operations from scheduling to payroll. It serves various industries, making it ideal for businesses seeking efficient staff management. An example use case includes real-time task delegation and progress tracking in field services.",
+  "pros": [
+    "Comprehensive features from time tracking to payroll",
+    "Free tier available for up to 10 users",
+    "Supports a wide range of industries"
+  ],
+  "cons": [
+    "May be complex for small teams",
+    "Limited customization options",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Monday.com [monday.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers broader project management features"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task and workflow management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Simpler, card-based task management"
+    }
+  ],
+  "tags": [
+    "employee management",
+    "task management",
+    "communication tools",
+    "HR software"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://connecteam.com/",
+  "documentationUrl": "https://help.connecteam.com/en/",
+  "githubUrl": "https://github.com/search?q=connecteam&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/connecteam_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/connecteam_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/connecteam_com_400.png",
+  "updatedAt": "2025-06-12T04:22:58.958Z"
+}
