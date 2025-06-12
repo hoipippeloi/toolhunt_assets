@@ -3,21 +3,21 @@
   "name": "Storylane",
   "title": "storylane.io",
   "payoff": "Close deals faster with demos",
-  "shortDescription": "Storylane offers an interactive demo automation platform designed to enhance sales and marketing efforts. It allows users to create immersive, personalized product demos without coding. Key features include AI-generated content, HTML editor for screen customization, and integration with sales tools. Ideal for marketing and sales teams aiming to streamline their demo processes and improve engagement.",
+  "shortDescription": "Storylane offers an interactive product demo software designed to enhance sales and marketing efforts. It automates demo creation, integrates seamlessly with marketing tools, and provides personalized experiences. Ideal for GTM teams, it allows instant demo setups with no coding, tracks engagement, and accelerates sales cycles. Example use case: Sales teams use Storylane to create and share personalized demos to close deals quickly.",
   "pros": [
-    "No-code demo creation",
-    "AI-generated content and personalization",
-    "Seamless integration with CRM systems"
+    "Automates demo creation",
+    "Integrates with sales and marketing stacks",
+    "Tracks and analyzes demo performance"
   ],
   "cons": [
-    "Dependent on digital product interface",
-    "May require training to optimize use",
-    "Potential privacy concerns with data tracking"
+    "May require initial setup time",
+    "Dependent on quality of input data",
+    "Potential learning curve for non-tech users"
   ],
   "alternatives": [
     "DemoStack [demostack.com]",
     "Walnut.io [walnut.io]",
-    "Consensus [goconsensus.com]"
+    "Reprise [reprise.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -28,32 +28,32 @@
     {
       "name": "Walnut.io",
       "url": "walnut.io",
-      "reason": "Focuses on personalization and analytics"
+      "reason": "Focuses on personalization of demos"
     },
     {
-      "name": "Consensus",
-      "url": "goconsensus.com",
-      "reason": "Automates interactive video demos"
+      "name": "Reprise",
+      "url": "reprise.com",
+      "reason": "Provides no-code demo creation tools"
     }
   ],
   "tags": [
     "demo automation",
     "sales enablement",
-    "marketing tools",
-    "product demos"
+    "product demos",
+    "marketing tools"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Sales",
   "function": "Automation",
   "freeTier": false,
   "openSource": false,
   "releasedYear": 2020,
   "websiteUrl": "https://storylane.io/",
-  "documentationUrl": "https://storylane.io/docs",
+  "documentationUrl": "https://docs.storylane.io/storylane-knowledge-base",
   "githubUrl": "https://github.com/search?q=storylane&type=repositories",
   "twitterUrl": "https://twitter.com/storylaneio",
-  "screenshot": "/screenshots/storylane_io.png",
-  "screenshot_640": "/screenshots/storylane_io_640.png",
-  "screenshot_400": "/screenshots/storylane_io_400.png",
-  "updatedAt": "2025-05-23T08:20:45.105Z"
+  "screenshot": "https://share.appsfor.us/screenshots/storylane_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/storylane_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/storylane_io_400.png",
+  "updatedAt": "2025-06-12T03:15:38.275Z"
 }

@@ -1,39 +1,39 @@
 {
   "sourceUrl": "https://starlight.astro.build/",
   "name": "Starlight",
-  "title": "starlight.astro.build",
-  "payoff": "Build docs sites with Astro easily",
-  "shortDescription": "Starlight is a documentation site builder powered by Astro, designed to enhance the way developers create and manage their documentation. It supports various markup languages like Markdown, Markdoc, and MDX, and integrates seamlessly with TypeScript for type-safety. Users can extend Starlight with their preferred UI components from frameworks like React, Vue, and more. It's ideal for developers looking to streamline documentation processes without compromising on design or functionality.",
+  "title": "astro.build",
+  "payoff": "Build documentation sites with ease",
+  "shortDescription": "Starlight is a comprehensive solution for creating documentation websites powered by Astro. It supports various markup languages and offers features like site navigation, search, and SEO. Users can extend Starlight with their favorite UI components and enjoy benefits such as dark mode and code highlighting. Ideal for developers looking to streamline documentation processes.",
   "pros": [
     "Supports multiple markup languages",
-    "Framework-agnostic with extensive integrations",
-    "Built-in frontmatter validation and type-safety"
+    "Framework-agnostic with extensible UI components",
+    "Built-in frontmatter validation and TypeScript type-safety"
   ],
   "cons": [
-    "May require familiarity with Astro",
-    "Limited by the extensibility of the underlying framework",
-    "Potential learning curve for non-technical users"
+    "Requires familiarity with Astro",
+    "Limited to documentation sites",
+    "Potential learning curve for new users"
   ],
   "alternatives": [
     "Docusaurus [docusaurus.io]",
-    "ReadTheDocs [readthedocs.io]",
+    "Read the Docs [readthedocs.org]",
     "MkDocs [mkdocs.org]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Docusaurus",
       "url": "docusaurus.io",
-      "reason": "Offers similar site building with React"
+      "reason": "Offers similar doc site generation with React"
     },
     {
-      "name": "ReadTheDocs",
-      "url": "readthedocs.io",
-      "reason": "Strong focus on technical documentation"
+      "name": "Read the Docs",
+      "url": "readthedocs.org",
+      "reason": "Hosts and manages documentation online"
     },
     {
       "name": "MkDocs",
       "url": "mkdocs.org",
-      "reason": "Markdown-centric, simple and lightweight"
+      "reason": "Simple, markdown-based static site generator"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2021,
   "websiteUrl": "https://starlight.astro.build/",
-  "documentationUrl": "https://starlight.astro.build/docs",
+  "documentationUrl": "https://starlight.astro.build/",
   "githubUrl": "https://github.com/withastro/starlight",
   "twitterUrl": "https://twitter.com/astrodotbuild/status/1724934718745915558",
-  "screenshot": "/screenshots/starlight_astro_build.png",
-  "screenshot_640": "/screenshots/starlight_astro_build_640.png",
-  "screenshot_400": "/screenshots/starlight_astro_build_400.png",
-  "updatedAt": "2025-05-21T04:44:59.090Z"
+  "screenshot": "https://share.appsfor.us/screenshots/starlight_astro_build.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/starlight_astro_build_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/starlight_astro_build_400.png",
+  "updatedAt": "2025-06-12T03:13:58.198Z"
 }

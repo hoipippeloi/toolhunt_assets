@@ -2,45 +2,45 @@
   "sourceUrl": "https://static.devdojo.com/",
   "name": "Static",
   "title": "devdojo.com",
-  "payoff": "Fast and elegant static websites",
-  "shortDescription": "Static is a NodeJS-based site generator designed to simplify the creation of static websites. It's perfect for developers who need a lightweight, yet powerful tool for building fast-loading pages. Users can easily integrate TailwindCSS, create dynamic routes, and utilize live reloading to enhance their development experience. An ideal use case is a developer looking to deploy a small to medium-sized website with high performance and minimal hosting requirements.",
+  "payoff": "Fast, elegant static site generation",
+  "shortDescription": "Static is a NodeJS-based static site generator designed to simplify the creation of fast, elegant static websites. It is ideal for developers who prefer a streamlined workflow and for those looking to host their sites on platforms like GitHub Pages. An example use case would be a developer quickly setting up a blog or a small business website using Static's command-line tools and enjoying features like live reloading and TailwindCSS integration.",
   "pros": [
-    "Easy integration with TailwindCSS",
-    "Automatic route creation for new pages",
-    "Live reloading for instant updates"
+    "Simple command-line interface",
+    "Live reloading for real-time updates",
+    "TailwindCSS integration for styling"
   ],
   "cons": [
-    "Limited to static content generation",
-    "May require NodeJS knowledge",
-    "Less suitable for large-scale dynamic sites"
+    "Limited to static content",
+    "Requires NodeJS knowledge",
+    "Less flexible than full CMS platforms"
   ],
   "alternatives": [
     "Jekyll [jekyllrb.com]",
     "Hugo [gohugo.io]",
-    "Next.js [nextjs.org]"
+    "Gatsby [gatsbyjs.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Jekyll",
       "url": "jekyllrb.com",
-      "reason": "Ruby-based, simple to use"
+      "reason": "Popular Ruby-based static site generator"
     },
     {
       "name": "Hugo",
       "url": "gohugo.io",
-      "reason": "Fast and flexible, Go-based"
+      "reason": "Fast and flexible, supports large sites"
     },
     {
-      "name": "Next.js",
-      "url": "nextjs.org",
-      "reason": "Supports static & server-side rendering"
+      "name": "Gatsby",
+      "url": "gatsbyjs.com",
+      "reason": "React-based, rich plugin ecosystem"
     }
   ],
   "tags": [
     "static site generator",
     "web development",
     "NodeJS",
-    "site building"
+    "site hosting"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://devdojo.com/documentation",
   "githubUrl": "https://github.com/thedevdojo/static",
   "twitterUrl": null,
-  "screenshot": "/screenshots/static_devdojo_com.png",
-  "screenshot_640": "/screenshots/static_devdojo_com_640.png",
-  "screenshot_400": "/screenshots/static_devdojo_com_400.png",
-  "updatedAt": "2025-05-18T04:49:16.002Z"
+  "screenshot": "https://share.appsfor.us/screenshots/static_devdojo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/static_devdojo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/static_devdojo_com_400.png",
+  "updatedAt": "2025-06-12T03:14:23.658Z"
 }

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stagehand.dev/",
+  "name": "Stagehand",
+  "title": "stagehand.dev",
+  "payoff": "Reliable browser automation SDK",
+  "shortDescription": "Stagehand is a cutting-edge browser automation SDK designed for developers and LLMs. It allows for easy control and automation of browser tasks with a natural language interface and intuitive APIs. Example use case includes automating data extraction for research or verifying broker registrations efficiently.",
+  "pros": [
+    "Natural language interface",
+    "Full compatibility with Playwright",
+    "Deterministic and repeatable automation"
+  ],
+  "cons": [
+    "Requires coding knowledge",
+    "Limited to browser-based tasks",
+    "Potential compatibility issues with non-standard web elements"
+  ],
+  "alternatives": [
+    "Selenium [selenium.dev]",
+    "Puppeteer [pptr.dev]",
+    "Cypress [cypress.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Widely used for browser automation"
+    },
+    {
+      "name": "Puppeteer",
+      "url": "pptr.dev",
+      "reason": "Node library for browser tasks"
+    },
+    {
+      "name": "Cypress",
+      "url": "cypress.io",
+      "reason": "Fast, easy and reliable testing"
+    }
+  ],
+  "tags": [
+    "browser automation",
+    "SDK",
+    "developer tools",
+    "AI integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://stagehand.dev/",
+  "documentationUrl": "https://stagehand.dev/docs",
+  "githubUrl": "https://github.com/browserbase/stagehand",
+  "twitterUrl": "https://x.com/Stagehanddev",
+  "screenshot": "https://share.appsfor.us/screenshots/stagehand_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stagehand_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stagehand_dev_400.png",
+  "updatedAt": "2025-06-12T03:13:37.610Z"
+}

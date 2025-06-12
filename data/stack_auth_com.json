@@ -3,15 +3,15 @@
   "name": "Stack Auth",
   "title": "stack-auth.com",
   "payoff": "Do auth in minutes.",
-  "shortDescription": "Stack Auth is an open-source suite of tools designed for seamless authentication and user management. It is ideal for developers and businesses looking to integrate authentication solutions quickly and efficiently. Users can manage B2B customers with organizational and team support, access third-party OAuth APIs, and utilize beautifully styled components for rapid deployment. An example use case is a tech startup integrating Stack Auth to handle all user authentication processes, enhancing security and user experience without extensive development.",
+  "shortDescription": "Stack Auth offers a comprehensive suite of tools for authentication and user management, tailored for developers and businesses. It simplifies integration with features like orgs & teams management, permission settings, and third-party OAuth APIs. Ideal for apps requiring robust authentication solutions, Stack Auth can be deployed quickly, allowing developers to focus on core functionalities rather than security concerns.",
   "pros": [
-    "Open-source flexibility",
-    "Rapid integration capabilities",
-    "Extensive OAuth and JWT support"
+    "Easy integration with existing systems",
+    "Support for a wide range of authentication features",
+    "Open-source with community support"
   ],
   "cons": [
-    "Requires technical knowledge to implement",
-    "Potentially limited support compared to paid solutions",
+    "May require technical knowledge to customize",
+    "Limited support compared to paid solutions",
     "Dependent on community contributions for updates"
   ],
   "alternatives": [
@@ -23,17 +23,17 @@
     {
       "name": "Auth0",
       "url": "auth0.com",
-      "reason": "Popular for custom authentication flows"
+      "reason": "Popular for customizable auth workflows"
     },
     {
       "name": "Okta",
       "url": "okta.com",
-      "reason": "Enterprise-focused with extensive integrations"
+      "reason": "Enterprise-focused with extensive features"
     },
     {
       "name": "Firebase Authentication",
       "url": "firebase.google.com",
-      "reason": "Ideal for mobile and web app developers"
+      "reason": "Integrates well with other Firebase services"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Authentication",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://stack-auth.com/",
   "documentationUrl": "https://stack-auth.com/docs",
-  "githubUrl": "https://github.com/stack-auth/stack-auth",
+  "githubUrl": "https://github.com/stack-auth/stack",
   "twitterUrl": null,
-  "screenshot": "/screenshots/stack_auth_com.png",
-  "screenshot_640": "/screenshots/stack_auth_com_640.png",
-  "screenshot_400": "/screenshots/stack_auth_com_400.png",
-  "updatedAt": "2025-05-08T10:27:57.245Z"
+  "screenshot": "https://share.appsfor.us/screenshots/stack_auth_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stack_auth_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stack_auth_com_400.png",
+  "updatedAt": "2025-06-12T03:13:14.438Z"
 }
