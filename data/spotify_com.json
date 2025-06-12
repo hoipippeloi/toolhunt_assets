@@ -2,57 +2,58 @@
   "sourceUrl": "https://spotify.com/",
   "name": "Spotify",
   "title": "spotify.com",
-  "payoff": "Music for everyone",
-  "shortDescription": "Spotify offers a vast library of music and podcasts accessible from anywhere. Catering to music lovers and podcast enthusiasts, it allows users to explore new and trending content across various genres. Users can sign up for free with occasional ads, or opt for a premium subscription for uninterrupted access. Ideal for everyday listening, workout playlists, or discovering new artists.",
+  "payoff": "Stream music and podcasts anywhere",
+  "shortDescription": "Spotify is a digital music service that gives you access to millions of songs and podcasts. It is designed for music lovers and podcast enthusiasts who want to enjoy streaming audio content on various devices. Users can explore a vast library, create playlists, and discover new music tailored to their tastes.",
   "pros": [
     "Extensive music and podcast library",
-    "User-friendly interface",
-    "Regularly updated content"
+    "Personalized playlists and recommendations",
+    "Cross-platform compatibility"
   ],
   "cons": [
-    "Ads in the free version",
-    "Limited offline playback for free users",
-    "Variable audio quality"
+    "Requires internet connection",
+    "Ads in free version",
+    "Limited control in free tier"
   ],
   "alternatives": [
     "Apple Music [apple.com/music]",
-    "Tidal [tidal.com]",
+    "Amazon Music [music.amazon.com]",
     "Deezer [deezer.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Apple Music",
       "url": "apple.com/music",
-      "reason": "Offers exclusive content and high-quality audio"
+      "reason": "Offers exclusive content and integration with Apple ecosystem"
     },
     {
-      "name": "Tidal",
-      "url": "tidal.com",
-      "reason": "Focus on high-fidelity sound and video"
+      "name": "Amazon Music",
+      "url": "music.amazon.com",
+      "reason": "Includes features for Amazon Prime members"
     },
     {
       "name": "Deezer",
       "url": "deezer.com",
-      "reason": "Wide range of features with unique Flow playlist"
+      "reason": "Available in more countries than Spotify"
     }
   ],
   "tags": [
-    "music streaming",
+    "streaming service",
+    "music",
     "podcasts",
-    "media player"
+    "media"
   ],
   "apiUsed": true,
   "department": "Content",
-  "function": "Media Player",
+  "function": "Streaming",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2008,
   "websiteUrl": "https://spotify.com/",
   "documentationUrl": "https://developer.spotify.com/documentation/web-api/",
   "githubUrl": "https://github.com/search?q=spotify&type=repositories",
-  "twitterUrl": "https://twitter.com/spotify",
-  "screenshot": "/screenshots/spotify_com.png",
-  "screenshot_640": "/screenshots/spotify_com_640.png",
-  "screenshot_400": "/screenshots/spotify_com_400.png",
-  "updatedAt": "2025-05-16T08:23:37.950Z"
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/spotify_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/spotify_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/spotify_com_400.png",
+  "updatedAt": "2025-06-12T01:07:56.681Z"
 }

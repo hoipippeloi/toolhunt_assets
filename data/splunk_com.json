@@ -2,45 +2,45 @@
   "sourceUrl": "https://splunk.com/",
   "name": "Splunk",
   "title": "splunk.com",
-  "payoff": "Enterprise Resilience with AI",
-  "shortDescription": "Splunk provides a platform for security and observability, integrating AI to enhance enterprise resilience. It is designed for IT and security teams, enabling them to manage complex digital ecosystems efficiently. An example use case is its ability to detect and respond to security threats rapidly, ensuring minimal downtime and enhanced operational performance.",
+  "payoff": "Enterprise resilience through data",
+  "shortDescription": "Splunk provides a platform for monitoring, searching, analyzing, and visualizing machine-generated data. It is designed for IT and security professionals, offering solutions like security information and event management (SIEM) and IT operations analytics. An example use case is a company using Splunk to detect and respond to security threats in real time, enhancing their cybersecurity posture.",
   "pros": [
-    "Advanced AI integration for threat detection",
-    "Comprehensive observability across systems",
-    "Scalable and flexible for large enterprises"
+    "Comprehensive security and observability",
+    "Scalable data analytics platform",
+    "Real-time data processing"
   ],
   "cons": [
-    "Can be complex to set up and manage",
-    "Potentially high cost for smaller organizations",
-    "Requires technical expertise to maximize benefits"
+    "Complex setup and maintenance",
+    "Can be resource-intensive",
+    "Higher cost for larger data volumes"
   ],
   "alternatives": [
-    "Datadog [datadog.com]",
-    "New Relic [newrelic.com]",
-    "Elastic [elastic.co]"
+    "Datadog [datadoghq.com]",
+    "Elasticsearch [elastic.co]",
+    "Sumo Logic [sumologic.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Datadog",
-      "url": "datadog.com",
+      "url": "datadoghq.com",
       "reason": "Offers extensive monitoring and security features"
     },
     {
-      "name": "New Relic",
-      "url": "newrelic.com",
-      "reason": "Focuses on real-time observability and analytics"
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Focuses on searchable data insights and analytics"
     },
     {
-      "name": "Elastic",
-      "url": "elastic.co",
-      "reason": "Known for searchable data and visualizations"
+      "name": "Sumo Logic",
+      "url": "sumologic.com",
+      "reason": "Cloud-native, machine data analytics platform"
     }
   ],
   "tags": [
+    "data analytics",
     "security",
-    "observability",
-    "AI",
-    "enterprise"
+    "IT operations",
+    "real-time"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.splunk.com/Documentation",
   "githubUrl": "https://github.com/search?q=splunk&type=repositories",
   "twitterUrl": "https://twitter.com/splunk",
-  "screenshot": "/screenshots/splunk_com.png",
-  "screenshot_640": "/screenshots/splunk_com_640.png",
-  "screenshot_400": "/screenshots/splunk_com_400.png",
-  "updatedAt": "2025-05-15T04:21:39.931Z"
+  "screenshot": "https://share.appsfor.us/screenshots/splunk_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/splunk_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/splunk_com_400.png",
+  "updatedAt": "2025-06-12T01:07:26.877Z"
 }

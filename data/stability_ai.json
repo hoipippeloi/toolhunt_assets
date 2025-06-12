@@ -3,27 +3,27 @@
   "name": "Stability AI",
   "title": "stability.ai",
   "payoff": "Empowering creativity with AI",
-  "shortDescription": "Stability AI offers advanced AI-driven tools for generating high-quality images, videos, audio, and 3D models. Designed for creative professionals and businesses, it enables seamless integration into existing workflows. A notable use case is Mercado Libre using Stable Diffusion for scalable product advertisements.",
+  "shortDescription": "Stability AI specializes in developing advanced AI-driven tools for generating professional-grade media across images, video, audio, and 3D content. Targeting creative professionals and businesses, it offers solutions like Stable Diffusion for high-quality visual creation. A notable use case includes helping Mercado Libre generate advertisements at scale.",
   "pros": [
     "High-quality media generation",
-    "Flexible deployment options",
-    "Supports a variety of media types"
+    "Supports multiple media types (image, video, audio, 3D)",
+    "Flexible deployment options (API, cloud, self-hosted)"
   ],
   "cons": [
-    "Requires technical knowledge for setup",
+    "May require technical expertise to integrate",
     "Potential high computational costs",
-    "Limited by the quality of input data"
+    "Dependent on quality of input data"
   ],
   "alternatives": [
     "DeepAI [deepai.org]",
     "RunwayML [runwayml.com]",
-    "Artbreeder [artbreeder.com]"
+    "D-ID [d-id.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "DeepAI",
       "url": "deepai.org",
-      "reason": "Offers diverse AI tools"
+      "reason": "Offers diverse AI APIs"
     },
     {
       "name": "RunwayML",
@@ -31,29 +31,29 @@
       "reason": "Creative AI for artists"
     },
     {
-      "name": "Artbreeder",
-      "url": "artbreeder.com",
-      "reason": "AI-driven art creation"
+      "name": "D-ID",
+      "url": "d-id.com",
+      "reason": "Specializes in video reenactment"
     }
   ],
   "tags": [
     "AI",
     "media generation",
     "creative tools",
-    "SaaS"
+    "technology"
   ],
   "apiUsed": true,
   "department": "Creative",
   "function": "AI & ML",
   "freeTier": false,
-  "openSource": false,
-  "releasedYear": 2021,
+  "openSource": true,
+  "releasedYear": 2022,
   "websiteUrl": "https://stability.ai/",
   "documentationUrl": "https://stability.ai/docs",
   "githubUrl": "https://github.com/search?q=stability%20ai&type=repositories",
   "twitterUrl": "https://x.com/StabilityAI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-  "screenshot": "/screenshots/stability_ai.png",
-  "screenshot_640": "/screenshots/stability_ai_640.png",
-  "screenshot_400": "/screenshots/stability_ai_400.png",
-  "updatedAt": "2025-05-16T05:16:36.358Z"
+  "screenshot": "https://share.appsfor.us/screenshots/stability_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stability_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stability_ai_400.png",
+  "updatedAt": "2025-06-12T01:09:57.350Z"
 }
