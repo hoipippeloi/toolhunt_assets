@@ -3,48 +3,48 @@
   "name": "Synthesia",
   "title": "synthesia.io",
   "payoff": "Create AI Videos in Minutes",
-  "shortDescription": "Synthesia is an AI-powered video generation tool designed to help professionals in training, marketing, and sales create engaging videos quickly and efficiently. Users can turn text into videos, generate voiceovers in multiple languages, and integrate AI avatars to make content as diverse as their audience. An example use case includes creating multilingual training videos for global teams without the need for extensive video production resources.",
+  "shortDescription": "Synthesia is an AI-driven platform that allows users to create multilingual videos quickly using AI avatars and voiceovers. It is designed for training, marketing, and sales professionals to produce engaging video content without the need for filming or extensive resources. An example use case is a company creating training videos in multiple languages to ensure all employees understand their roles and compliance requirements.",
   "pros": [
-    "Supports 140+ languages for global reach",
-    "Rapid video creation from text",
-    "Diverse AI avatars for personalized content"
+    "Supports 140+ languages",
+    "Quick video production with AI",
+    "Extensive customization with 230+ AI avatars"
   ],
   "cons": [
     "Dependence on AI might limit creative control",
-    "Potential privacy concerns with AI-generated content",
-    "Requires internet connection for all functionalities"
+    "Potential privacy concerns with voice cloning",
+    "May not handle complex animations or effects"
   ],
   "alternatives": [
     "Lumen5 [lumen5.com]",
     "Animoto [animoto.com]",
-    "Biteable [biteable.com]"
+    "Vyond [vyond.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Lumen5",
       "url": "lumen5.com",
-      "reason": "Offers similar AI video creation tools"
+      "reason": "Offers AI-driven video creation with a focus on marketing"
     },
     {
       "name": "Animoto",
       "url": "animoto.com",
-      "reason": "Easy-to-use video maker with templates"
+      "reason": "Provides easy video making for slideshows and marketing"
     },
     {
-      "name": "Biteable",
-      "url": "biteable.com",
-      "reason": "Focus on quick, professional video content"
+      "name": "Vyond",
+      "url": "vyond.com",
+      "reason": "Focuses on animated video content for businesses"
     }
   ],
   "tags": [
-    "AI video generation",
-    "content creation",
+    "AI",
+    "video generation",
     "multilingual",
-    "video marketing"
+    "training tools"
   ],
   "apiUsed": true,
   "department": "Marketing",
-  "function": "Content Management",
+  "function": "User Engagement",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2017,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.synthesia.io/",
   "githubUrl": "https://github.com/search?q=synthesia&type=repositories",
   "twitterUrl": "https://twitter.com/synthesiaio?lang=en",
-  "screenshot": "/screenshots/synthesia_io.png",
-  "screenshot_640": "/screenshots/synthesia_io_640.png",
-  "screenshot_400": "/screenshots/synthesia_io_400.png",
-  "updatedAt": "2025-05-12T08:25:38.950Z"
+  "screenshot": "https://share.appsfor.us/screenshots/synthesia_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/synthesia_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/synthesia_io_400.png",
+  "updatedAt": "2025-06-13T03:16:19.297Z"
 }

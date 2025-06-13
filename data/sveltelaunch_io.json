@@ -1,59 +1,59 @@
 {
   "sourceUrl": "https://sveltelaunch.io/",
-  "name": "SvelteLaunch",
+  "name": "sveltelaunch",
   "title": "sveltelaunch.io",
-  "payoff": "Launch Apps Fast with Svelte",
-  "shortDescription": "SvelteLaunch accelerates the development of SaaS, AI, or business apps using its Svelte 5 boilerplate and development services. Ideal for developers looking to skip the initial setup and dive straight into customization, it's perfect for creating everything from simple landing pages to complex SaaS platforms. Save development time and bring ideas to life swiftly.",
+  "payoff": "Launch your projects effortlessly!",
+  "shortDescription": "Sveltelaunch is a tool designed to streamline the deployment and management of web projects. It is ideal for developers and small to medium-sized businesses looking to simplify their project launches. An example use case is a developer using Sveltelaunch to quickly deploy and manage multiple web applications, reducing the time and complexity involved in manual setups.",
   "pros": [
-    "Saves months of development time",
-    "Highly customizable SaaS boilerplate",
-    "Supports various integrations (Stripe, SendGrid, etc.)"
+    "Simplifies project deployment",
+    "Supports multiple frameworks",
+    "User-friendly interface"
   ],
   "cons": [
-    "May be too Svelte-specific for some users",
-    "Limited to web applications",
-    "Requires familiarity with Svelte framework"
+    "Limited customization options",
+    "May not support all programming languages",
+    "Dependent on third-party integrations"
   ],
   "alternatives": [
-    "Bubble [bubble.io]",
-    "Webflow [webflow.com]",
-    "Retool [retool.com]"
+    "Heroku [heroku.com]",
+    "Netlify [netlify.com]",
+    "Vercel [vercel.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Bubble",
-      "url": "bubble.io",
-      "reason": "No-code platform for web apps"
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Offers robust cloud platform services"
     },
     {
-      "name": "Webflow",
-      "url": "webflow.com",
-      "reason": "Visual site building with CMS"
+      "name": "Netlify",
+      "url": "netlify.com",
+      "reason": "Focuses on frontend project deployments"
     },
     {
-      "name": "Retool",
-      "url": "retool.com",
-      "reason": "Build internal tools rapidly"
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Optimized for static sites and Jamstack"
     }
   ],
   "tags": [
-    "SaaS",
-    "development",
-    "boilerplate",
-    "Svelte"
+    "project management",
+    "web deployment",
+    "automation",
+    "SaaS"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Development",
-  "function": "Site Builder",
-  "freeTier": false,
-  "openSource": true,
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://sveltelaunch.io/",
-  "documentationUrl": "https://sveltelaunch.io/documentation",
-  "githubUrl": "https://github.com/sveltelaunch",
-  "twitterUrl": "https://x.com/sveltelaunch",
-  "screenshot": "/screenshots/sveltelaunch_io.png",
-  "screenshot_640": "/screenshots/sveltelaunch_io_640.png",
-  "screenshot_400": "/screenshots/sveltelaunch_io_400.png",
-  "updatedAt": "2025-05-12T08:50:07.234Z"
+  "documentationUrl": "https://sveltelaunch.io/docs",
+  "githubUrl": "https://github.com/search?q=sveltelaunch&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sveltelaunch_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sveltelaunch_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sveltelaunch_io_400.png",
+  "updatedAt": "2025-06-13T03:15:03.652Z"
 }

@@ -3,16 +3,16 @@
   "name": "Teachfloor",
   "title": "teachfloor.com",
   "payoff": "Leading social learning platform",
-  "shortDescription": "Teachfloor is a social learning platform designed to enhance online academies by fostering engagement and collaboration among students. It allows educators to create, manage, and deliver interactive courses with features like live classes, peer reviews, and automated content embedding. Ideal for educators aiming to build vibrant learning communities, it supports both synchronous and asynchronous learning environments.",
+  "shortDescription": "Teachfloor is a social learning platform designed to enhance online education. It allows educators to create engaging courses, manage student communities, and deliver collaborative learning experiences. Users can easily integrate multimedia content, automate processes, and conduct live classes via Zoom. Ideal for educational institutions and corporate training, Teachfloor helps in building interactive and community-driven learning environments.",
   "pros": [
-    "Customizable white-label platform",
+    "Customizable and white-label platform",
     "Integration with Zoom for live classes",
-    "Automated course management features"
+    "Automation of enrollment and content delivery"
   ],
   "cons": [
-    "May require familiarity with third-party integrations",
-    "Potential complexity in initial setup",
-    "Dependent on external platforms like Zoom"
+    "May require technical setup for customization",
+    "Dependent on third-party integrations",
+    "Limited to online learning environments"
   ],
   "alternatives": [
     "Moodle [moodle.org]",
@@ -23,7 +23,7 @@
     {
       "name": "Moodle",
       "url": "moodle.org",
-      "reason": "Open-source platform with customization"
+      "reason": "Open-source and highly customizable"
     },
     {
       "name": "Blackboard",
@@ -33,7 +33,7 @@
     {
       "name": "Canvas",
       "url": "instructure.com",
-      "reason": "Flexible and scalable for institutions"
+      "reason": "Offers extensive integrations"
     }
   ],
   "tags": [
@@ -52,8 +52,8 @@
   "documentationUrl": "https://teachfloor.com/docs",
   "githubUrl": "https://github.com/search?q=teachfloor&type=repositories",
   "twitterUrl": "https://twitter.com/teachfloor",
-  "screenshot": "/screenshots/teachfloor_com.png",
-  "screenshot_640": "/screenshots/teachfloor_com_640.png",
-  "screenshot_400": "/screenshots/teachfloor_com_400.png",
-  "updatedAt": "2025-05-14T05:43:04.719Z"
+  "screenshot": "https://share.appsfor.us/screenshots/teachfloor_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/teachfloor_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/teachfloor_com_400.png",
+  "updatedAt": "2025-06-13T03:17:49.691Z"
 }

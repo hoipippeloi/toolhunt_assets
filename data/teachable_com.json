@@ -3,44 +3,44 @@
   "name": "Teachable",
   "title": "teachable.com",
   "payoff": "Create and Sell Anything",
-  "shortDescription": "Teachable allows creators to share their knowledge through various digital products like online courses, coaching, and digital downloads. It's designed for educators, coaches, and entrepreneurs who want to monetize their expertise. Users can start with basic features and upgrade as their business grows, making it ideal for both new and expanding businesses.",
+  "shortDescription": "Teachable enables creators to share knowledge via online courses, coaching, and digital downloads. It's designed for educators and entrepreneurs looking to monetize their skills. Users can start with basic features and scale up as their business grows, making it ideal for various stages of business development.",
   "pros": [
-    "No-code platform for easy setup",
-    "Supports multiple types of digital products",
-    "Scalable with business growth"
+    "No-code platform",
+    "Scalable pricing plans",
+    "Wide range of product options"
   ],
   "cons": [
     "Limited customization options",
-    "Dependent on platform's pricing changes",
-    "May require marketing knowledge to drive sales"
+    "Dependent on platform's rules",
+    "Potential transaction fees"
   ],
   "alternatives": [
-    "Kajabi [kajabi.com]",
-    "Podia [podia.com]",
-    "Thinkific [thinkific.com]"
+    "Udemy [udemy.com]",
+    "Coursera [coursera.org]",
+    "Podia [podia.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Kajabi",
-      "url": "kajabi.com",
-      "reason": "Offers similar course creation tools"
+      "name": "Udemy",
+      "url": "udemy.com",
+      "reason": "Offers a wide range of courses"
+    },
+    {
+      "name": "Coursera",
+      "url": "coursera.org",
+      "reason": "Partners with universities"
     },
     {
       "name": "Podia",
       "url": "podia.com",
-      "reason": "Focuses on digital downloads and memberships"
-    },
-    {
-      "name": "Thinkific",
-      "url": "thinkific.com",
-      "reason": "Provides extensive course building features"
+      "reason": "Similar features with more tools"
     }
   ],
   "tags": [
     "E-Learning",
+    "Course Creation",
     "Digital Products",
-    "No-code",
-    "Online Courses"
+    "Coaching"
   ],
   "apiUsed": false,
   "department": "Education",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2014,
   "websiteUrl": "https://teachable.com/",
-  "documentationUrl": "https://teachable.com/documentation",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=teachable&type=repositories",
   "twitterUrl": "https://twitter.com/teachable/",
-  "screenshot": "/screenshots/teachable_com.png",
-  "screenshot_640": "/screenshots/teachable_com_640.png",
-  "screenshot_400": "/screenshots/teachable_com_400.png",
-  "updatedAt": "2025-05-23T06:49:44.973Z"
+  "screenshot": "https://share.appsfor.us/screenshots/teachable_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/teachable_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/teachable_com_400.png",
+  "updatedAt": "2025-06-13T03:17:30.024Z"
 }
