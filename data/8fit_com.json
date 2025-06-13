@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://8fit.com/",
+  "name": "8fit",
+  "title": "8fit.com",
+  "payoff": "Healthy Habits Made Simple",
+  "shortDescription": "8fit offers a comprehensive fitness and nutrition app designed to help users achieve their personal health goals. The app provides customized workout plans, including HIIT, boxing, Pilates, and yoga, as well as meditation sessions. Additionally, 8fit offers healthy, personalized meal planning with recipes that cater to various dietary needs. An example use case is someone looking to improve their fitness and dietary habits by following structured, easy-to-integrate plans from the comfort of their home.",
+  "pros": [
+    "Customized fitness and meal plans",
+    "Variety of workouts and dietary options",
+    "Accessible from home via website and app"
+  ],
+  "cons": [
+    "Requires consistent internet access",
+    "Subscription may be needed for full features",
+    "Limited face-to-face interaction"
+  ],
+  "alternatives": [
+    "MyFitnessPal [myfitnesspal.com]",
+    "Fitbit [fitbit.com]",
+    "DailyBurn [dailyburn.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Tracks diet and exercise, offers food database"
+    },
+    {
+      "name": "Fitbit",
+      "url": "fitbit.com",
+      "reason": "Provides wearable fitness tracking devices"
+    },
+    {
+      "name": "DailyBurn",
+      "url": "dailyburn.com",
+      "reason": "Offers a variety of video workout programs"
+    }
+  ],
+  "tags": [
+    "fitness app",
+    "nutrition planning",
+    "health and wellness",
+    "personalized coaching"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://8fit.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=8fit&type=repositories",
+  "twitterUrl": "https://twitter.com/8fit/",
+  "screenshot": "https://share.appsfor.us/screenshots/8fit_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/8fit_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/8fit_com_400.png",
+  "updatedAt": "2025-06-13T04:24:18.629Z"
+}

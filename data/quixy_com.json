@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://quixy.com/",
+  "name": "Quixy",
+  "title": "quixy.com",
+  "payoff": "AI-Powered App Development",
+  "shortDescription": "Quixy is a no-code platform that enables businesses to develop applications and automate workflows without extensive coding knowledge. It's designed for companies across various industries, helping them to streamline operations, enhance productivity, and foster innovation. An example use case is automating HR processes, from recruitment to onboarding, without needing IT support.",
+  "pros": [
+    "Rapid application development",
+    "Cross-industry applicability",
+    "Award-winning platform"
+  ],
+  "cons": [
+    "Limited customization for complex needs",
+    "Potential dependency on vendor",
+    "Learning curve for new users"
+  ],
+  "alternatives": [
+    "OutSystems [outsystems.com]",
+    "Mendix [mendix.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OutSystems",
+      "url": "outsystems.com",
+      "reason": "Offers broader integration options"
+    },
+    {
+      "name": "Mendix",
+      "url": "mendix.com",
+      "reason": "Focuses on enterprise-level solutions"
+    },
+    {
+      "name": "Microsoft PowerApps",
+      "url": "powerapps.microsoft.com",
+      "reason": "Integrates deeply with Microsoft ecosystem"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "app development",
+    "business process automation",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://quixy.com/",
+  "documentationUrl": "https://quixy.com/documentation",
+  "githubUrl": "https://github.com/search?q=quixy&type=repositories",
+  "twitterUrl": "https://twitter.com/quixyofficial",
+  "screenshot": "https://share.appsfor.us/screenshots/quixy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/quixy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/quixy_com_400.png",
+  "updatedAt": "2025-06-13T04:23:54.610Z"
+}
