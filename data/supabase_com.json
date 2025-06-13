@@ -2,45 +2,45 @@
   "sourceUrl": "https://supabase.com/",
   "name": "Supabase",
   "title": "supabase.com",
-  "payoff": "Open Source Firebase Alternative",
-  "shortDescription": "Supabase is an open source platform that offers a suite of tools to build and scale applications efficiently. It provides a Postgres database, Authentication, Edge Functions, Realtime subscriptions, Storage, and more. Ideal for developers and companies looking to create scalable, secure applications quickly. Example use case includes building a scalable e-commerce platform with real-time user data synchronization.",
+  "payoff": "Scale your project with ease",
+  "shortDescription": "Supabase is a platform that provides developers with a comprehensive suite of tools to build scalable applications quickly. It integrates a Postgres database with features like Authentication, Realtime subscriptions, and instant APIs. Ideal for startups and enterprises alike, Supabase can help a bootstrapped founder scale an AI app to significant revenue in months or enable large companies to manage millions of users securely.",
   "pros": [
-    "Fully integrated platform with multiple services",
-    "Open source with active community support",
-    "Scalable from prototype to enterprise level"
+    "Integrated suite of development tools",
+    "Scalability from prototype to enterprise",
+    "Supports real-time data synchronization"
   ],
   "cons": [
-    "May require PostgreSQL familiarity",
-    "Limited third-party integrations compared to Firebase",
-    "Potentially steep learning curve for beginners"
+    "Limited to PostgreSQL database",
+    "May require advanced skills for custom functions",
+    "Potential vendor lock-in risks"
   ],
   "alternatives": [
     "Firebase [firebase.google.com]",
-    "Parse [parseplatform.org]",
-    "Backendless [backendless.com]"
+    "Heroku [heroku.com]",
+    "AWS Amplify [aws.amazon.com/amplify]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Firebase",
       "url": "firebase.google.com",
-      "reason": "Popular BaaS with extensive features"
+      "reason": "Offers real-time database and authentication"
     },
     {
-      "name": "Parse",
-      "url": "parseplatform.org",
-      "reason": "Flexible, open-source backend framework"
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Easy scaling and supports multiple languages"
     },
     {
-      "name": "Backendless",
-      "url": "backendless.com",
-      "reason": "Codeless app development platform"
+      "name": "AWS Amplify",
+      "url": "aws.amazon.com/amplify",
+      "reason": "Extensive integrations with AWS services"
     }
   ],
   "tags": [
-    "open source",
-    "database",
-    "real-time",
-    "authentication"
+    "PostgreSQL",
+    "real-time data",
+    "authentication",
+    "API"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://supabase.com/docs",
   "githubUrl": "https://github.com/supabase/supabase",
   "twitterUrl": "https://twitter.com/thatguy_tex/status/1497602628410388480",
-  "screenshot": "/screenshots/supabase_com.png",
-  "screenshot_640": "/screenshots/supabase_com_640.png",
-  "screenshot_400": "/screenshots/supabase_com_400.png",
-  "updatedAt": "2025-05-11T03:42:30.788Z"
+  "screenshot": "https://share.appsfor.us/screenshots/supabase_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/supabase_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/supabase_com_400.png",
+  "updatedAt": "2025-06-13T01:05:54.156Z"
 }

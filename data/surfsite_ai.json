@@ -2,58 +2,58 @@
   "sourceUrl": "https://surfsite.ai/",
   "name": "Surfsite",
   "title": "surfsite.ai",
-  "payoff": "Enhance your web experience",
-  "shortDescription": "Surfsite is a cutting-edge tool designed to optimize web interactions for businesses and individual users alike. It offers features like real-time analytics, user behavior tracking, and customized content delivery. Ideal for marketers and web developers, Surfsite can be used to increase user engagement and conversion rates through tailored web experiences.",
+  "payoff": "Enhance your web experience effortlessly",
+  "shortDescription": "Surfsite is a cutting-edge tool designed to optimize web interactions for businesses and individuals alike. It offers robust features for enhancing website navigation, improving user engagement, and analyzing web traffic. An example use case includes businesses using Surfsite to streamline their customer journey on their platforms, leading to increased satisfaction and conversions.",
   "pros": [
-    "Real-time user behavior tracking",
-    "Customizable content features",
-    "Robust analytics dashboard"
+    "Improves website navigation",
+    "Enhances user engagement",
+    "Provides detailed analytics"
   ],
   "cons": [
-    "Requires technical setup",
-    "May be costly for small businesses",
-    "Limited third-party integrations"
+    "May require technical setup",
+    "Subscription can be expensive",
+    "Limited customization options"
   ],
   "alternatives": [
-    "Google Analytics [analytics.google.com]",
-    "Mixpanel [mixpanel.com]",
-    "Hotjar [hotjar.com]"
+    "Google Analytics [google.com/analytics]",
+    "Hotjar [hotjar.com]",
+    "Crazy Egg [crazyegg.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Google Analytics",
-      "url": "analytics.google.com",
-      "reason": "Comprehensive analytics suite"
-    },
-    {
-      "name": "Mixpanel",
-      "url": "mixpanel.com",
-      "reason": "Advanced user tracking features"
+      "url": "google.com/analytics",
+      "reason": "Comprehensive web analytics tool"
     },
     {
       "name": "Hotjar",
       "url": "hotjar.com",
-      "reason": "Focus on user interaction and feedback"
+      "reason": "Focuses on user behavior and feedback"
+    },
+    {
+      "name": "Crazy Egg",
+      "url": "crazyegg.com",
+      "reason": "Visual analytics and heatmaps"
     }
   ],
   "tags": [
-    "web analytics",
+    "web enhancement",
     "user engagement",
-    "behavior tracking",
-    "content customization"
+    "analytics",
+    "website optimization"
   ],
   "apiUsed": true,
   "department": "Marketing",
   "function": "Site Analytics",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2018,
   "websiteUrl": "https://surfsite.ai/",
   "documentationUrl": "https://surfsite.ai/docs",
   "githubUrl": "https://github.com/search?q=surfsite&type=repositories",
   "twitterUrl": "https://x.com/SurfsiteAI",
-  "screenshot": "/screenshots/surfsite_ai.png",
-  "screenshot_640": "/screenshots/surfsite_ai_640.png",
-  "screenshot_400": "/screenshots/surfsite_ai_400.png",
-  "updatedAt": "2025-05-08T08:52:03.101Z"
+  "screenshot": "https://share.appsfor.us/screenshots/surfsite_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/surfsite_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/surfsite_ai_400.png",
+  "updatedAt": "2025-06-13T01:08:20.395Z"
 }

@@ -2,17 +2,17 @@
   "sourceUrl": "https://supernormal.com/",
   "name": "Supernormal",
   "title": "supernormal.com",
-  "payoff": "AI-Powered meetings",
-  "shortDescription": "Supernormal enhances meeting productivity by automating note-taking and generating actionable insights. It integrates seamlessly with platforms like Google Meet, Zoom, and Microsoft Teams, catering to professionals who require efficient meeting management. Example use case: A project team uses Supernormal to capture discussion points and action items during their weekly meetings, ensuring nothing is missed and everyone stays aligned.",
+  "payoff": "Enhance meetings with AI",
+  "shortDescription": "Supernormal is an AI-powered tool designed to optimize meeting productivity by automating note-taking and generating actionable insights. It integrates with popular meeting platforms like Google Meet, Zoom, and Microsoft Teams. Ideal for businesses looking to streamline meeting processes, Supernormal can help teams focus on discussions, ensure data security, and sync notes across various platforms like Salesforce and Asana.",
   "pros": [
-    "Automates note-taking and insights generation",
+    "Automates meeting notes and insights",
     "Supports multiple meeting platforms",
-    "Offers enterprise-grade security"
+    "Enterprise-grade security features"
   ],
   "cons": [
-    "Dependent on third-party platform compatibility",
-    "May not capture nuances of conversation accurately",
-    "Potential privacy concerns with automated note-taking"
+    "Dependent on third-party platforms",
+    "May not capture nuances of live interactions",
+    "Potential privacy concerns with AI note-taking"
   ],
   "alternatives": [
     "Otter.ai [otter.ai]",
@@ -23,7 +23,7 @@
     {
       "name": "Otter.ai",
       "url": "otter.ai",
-      "reason": "Offers real-time transcription and sharing."
+      "reason": "Offers live transcription and sharing."
     },
     {
       "name": "Fireflies.ai",
@@ -39,7 +39,7 @@
   "tags": [
     "AI",
     "productivity",
-    "meeting management",
+    "meeting tools",
     "note-taking"
   ],
   "apiUsed": false,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://help.supernormal.com/en/",
   "githubUrl": "https://github.com/search?q=supernormal&type=repositories",
   "twitterUrl": "https://twitter.com/supernormalapp",
-  "screenshot": "/screenshots/supernormal_com.png",
-  "screenshot_640": "/screenshots/supernormal_com_640.png",
-  "screenshot_400": "/screenshots/supernormal_com_400.png",
-  "updatedAt": "2025-05-20T03:41:42.249Z"
+  "screenshot": "https://share.appsfor.us/screenshots/supernormal_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/supernormal_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/supernormal_com_400.png",
+  "updatedAt": "2025-06-13T01:07:48.814Z"
 }

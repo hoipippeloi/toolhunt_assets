@@ -2,58 +2,58 @@
   "sourceUrl": "https://superhuman.com/ai",
   "name": "Superhuman",
   "title": "superhuman.com",
-  "payoff": "AI-powered email for high performance",
-  "shortDescription": "Superhuman enhances email management with AI, targeting high-performing teams to streamline their communication. Features like Auto Labels and Instant Reply help users organize their inbox and respond quickly. For instance, marketing emails can be automatically archived, while important client emails are prioritized, ensuring nothing crucial is missed.",
+  "payoff": "AI-native email for high-performing teams",
+  "shortDescription": "Superhuman is an AI-native email tool designed to enhance productivity for high-performing teams. It features capabilities like automatically organizing inboxes, writing emails with AI, and scheduling with ease. Users can focus on important emails, thanks to features like Auto Labels and Auto Archive, making email management efficient and less time-consuming.",
   "pros": [
     "Automatically organizes and prioritizes emails",
-    "AI-generated responses to save time",
-    "Customizable labels and reminders"
+    "AI-powered email drafting and scheduling",
+    "Privacy and data protection features"
   ],
   "cons": [
-    "Potential privacy concerns with AI",
-    "Dependence on AI accuracy for tasks",
-    "May not integrate with all email platforms"
+    "May be overly complex for casual users",
+    "Potential privacy concerns with AI integration",
+    "Dependence on AI for basic functionalities"
   ],
   "alternatives": [
     "Gmail [gmail.com]",
-    "Microsoft Outlook [outlook.com]",
+    "Outlook [outlook.com]",
     "ProtonMail [protonmail.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Gmail",
       "url": "gmail.com",
-      "reason": "Offers extensive email management"
+      "reason": "Offers comprehensive email services with AI features."
     },
     {
       "name": "Outlook",
       "url": "outlook.com",
-      "reason": "Integrated with Microsoft Office"
+      "reason": "Integrated with Microsoft's ecosystem for productivity."
     },
     {
       "name": "ProtonMail",
       "url": "protonmail.com",
-      "reason": "Focuses on security and privacy"
+      "reason": "Focuses on security and privacy for email communication."
     }
   ],
   "tags": [
     "AI",
-    "email management",
+    "email tools",
     "productivity",
-    "automation"
+    "data protection"
   ],
   "apiUsed": false,
-  "department": "Operations",
+  "department": "Information Technology",
   "function": "Email Tools",
-  "freeTier": true,
+  "freeTier": false,
   "openSource": false,
   "releasedYear": 2019,
   "websiteUrl": "https://superhuman.com/ai",
   "documentationUrl": "https://help.superhuman.com/",
   "githubUrl": "https://github.com/search?q=superhuman&type=repositories",
   "twitterUrl": "https://twitter.com/superhuman",
-  "screenshot": "/screenshots/superhuman_com.png",
-  "screenshot_640": "/screenshots/superhuman_com_640.png",
-  "screenshot_400": "/screenshots/superhuman_com_400.png",
-  "updatedAt": "2025-05-12T15:45:02.666Z"
+  "screenshot": "https://share.appsfor.us/screenshots/superhuman_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/superhuman_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/superhuman_com_400.png",
+  "updatedAt": "2025-06-13T01:06:58.271Z"
 }

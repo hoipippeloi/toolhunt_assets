@@ -3,48 +3,48 @@
   "name": "Kortix Suna",
   "title": "suna.so",
   "payoff": "Your AI Employee",
-  "shortDescription": "Suna by Kortix is a versatile AI agent designed to perform a variety of tasks on behalf of users. It's ideal for businesses and individuals seeking to automate complex tasks such as market analysis, data scraping, and report generation. An example use case includes generating detailed market research reports autonomously.",
+  "shortDescription": "Suna by Kortix is a versatile AI agent designed to perform a wide range of tasks autonomously. It is particularly suited for businesses and individuals needing complex data analysis, market research, and automated task handling. Example use case: Suna can analyze market trends, identify key players, and generate detailed reports, making it an invaluable tool for strategic planning.",
   "pros": [
     "Fully open source",
-    "Supports complex autonomous tasks",
-    "Customizable to user needs"
+    "Handles complex autonomous tasks",
+    "Customizable to specific needs"
   ],
   "cons": [
     "May require technical skill to deploy",
-    "Limited to tasks it's programmed for",
-    "Dependent on external data sources"
+    "Dependent on external data sources",
+    "Potential privacy concerns with data handling"
   ],
   "alternatives": [
     "OpenAI GPT [openai.com]",
-    "DeepMind AI [deepmind.com]",
+    "DeepMind [deepmind.com]",
     "IBM Watson [ibm.com/watson]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "OpenAI GPT",
       "url": "openai.com",
-      "reason": "Advanced language models for diverse tasks"
-    },
-    {
-      "name": "DeepMind AI",
-      "url": "deepmind.com",
-      "reason": "Leading in AI research and complex problem solving"
+      "reason": "Leading AI with advanced capabilities"
     },
     {
       "name": "IBM Watson",
       "url": "ibm.com/watson",
       "reason": "Strong in enterprise AI solutions"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Innovative AI research and applications"
     }
   ],
   "tags": [
     "AI",
-    "automation",
     "open source",
-    "data analysis"
+    "data analysis",
+    "task automation"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Research & Development",
-  "function": "Automation",
+  "function": "AI & ML",
   "freeTier": true,
   "openSource": true,
   "releasedYear": 2023,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://suna.so/documentation",
   "githubUrl": "https://github.com/kortix-ai/suna",
   "twitterUrl": "https://x.com/kortixai",
-  "screenshot": "/screenshots/suna_so.png",
-  "screenshot_640": "/screenshots/suna_so_640.png",
-  "screenshot_400": "/screenshots/suna_so_400.png",
-  "updatedAt": "2025-05-12T09:37:17.962Z"
+  "screenshot": "https://share.appsfor.us/screenshots/suna_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/suna_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/suna_so_400.png",
+  "updatedAt": "2025-06-13T01:05:30.337Z"
 }
