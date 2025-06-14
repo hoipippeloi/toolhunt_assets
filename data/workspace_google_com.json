@@ -1,58 +1,59 @@
 {
-  "sourceUrl": "https://workspace.google.com/products/slides/",
-  "name": "Google Slides",
-  "title": "workspace.google.com/products/slides",
-  "payoff": "Build beautiful presentations together",
-  "shortDescription": "Google Slides allows users to create, manage, and share presentations directly from their browser without any installations. It's designed for individuals, teams, and enterprises who need to collaborate effectively, regardless of location. An example use case includes a team collaborating on a sales presentation, utilizing real-time editing and content-rich slides with videos and animations.",
+  "sourceUrl": "https://workspace.google.com/products/docs/",
+  "name": "Google Docs",
+  "title": "workspace.google.com",
+  "payoff": "Efficient online document editing",
+  "shortDescription": "Google Docs is a powerful online document editor that facilitates real-time collaboration across teams and organizations. It allows users to create, edit, and share documents from anywhere, using any device. An example use case includes teams working remotely to simultaneously edit a project proposal, using features like comments and real-time editing to streamline the process.",
   "pros": [
     "Real-time collaboration across devices",
     "Integration with other Google Workspace tools",
-    "Rich content options including videos and animations"
+    "Extensive add-on and template library"
   ],
   "cons": [
     "Dependent on internet connectivity",
-    "Some features limited to premium plans",
-    "Less advanced than some desktop alternatives"
+    "Limited offline functionality",
+    "Can be less feature-rich than desktop alternatives"
   ],
   "alternatives": [
-    "Microsoft PowerPoint [microsoft.com]",
-    "Prezi [prezi.com]",
-    "Keynote [apple.com]"
+    "Microsoft Word [microsoft.com]",
+    "Zoho Writer [zoho.com]",
+    "LibreOffice Writer [libreoffice.org]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Microsoft PowerPoint",
+      "name": "Microsoft Word",
       "url": "microsoft.com",
-      "reason": "Industry standard with extensive features"
+      "reason": "Feature-rich, widely used document editor"
     },
     {
-      "name": "Prezi",
-      "url": "prezi.com",
-      "reason": "Dynamic, non-linear presentation style"
+      "name": "Zoho Writer",
+      "url": "zoho.com",
+      "reason": "Cloud-based with extensive collaboration features"
     },
     {
-      "name": "Keynote",
-      "url": "apple.com",
-      "reason": "Sleek design, exclusive to Apple devices"
+      "name": "LibreOffice Writer",
+      "url": "libreoffice.org",
+      "reason": "Open-source and offline capabilities"
     }
   ],
   "tags": [
-    "presentation",
+    "document editing",
     "collaboration",
-    "cloud-based"
+    "cloud-based",
+    "productivity"
   ],
   "apiUsed": false,
   "department": "General",
-  "function": "Design Tools",
+  "function": "Documents",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2006,
-  "websiteUrl": "https://workspace.google.com/products/slides/",
-  "documentationUrl": "https://support.google.com/a/users/answer/9282720",
-  "githubUrl": "https://github.com/search?q=google%20slides&type=repositories",
-  "twitterUrl": "https://x.com/GoogleCloud_SG",
+  "websiteUrl": "https://workspace.google.com/products/docs/",
+  "documentationUrl": "https://support.google.com/docs/",
+  "githubUrl": "https://github.com/search?q=google%20docs&type=repositories",
+  "twitterUrl": "https://x.com/googleworkspace",
   "screenshot": "https://share.appsfor.us/screenshots/workspace_google_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/workspace_google_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/workspace_google_com_400.png",
-  "updatedAt": "2025-06-08T04:07:47.123Z"
+  "updatedAt": "2025-06-14T04:19:03.139Z"
 }

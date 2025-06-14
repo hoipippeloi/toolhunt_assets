@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tyce.ai/",
+  "name": "Tyce",
+  "title": "tyce.ai",
+  "payoff": "Smarter Contract Management",
+  "shortDescription": "Tyce is a cutting-edge tool designed to transform documents into strategic assets for business growth. It serves professionals who manage contracts and documents, enabling them to generate, search, and analyze content efficiently. For example, a legal team can use Tyce to auto-generate draft contracts based on previous documents, ensuring consistency and saving time.",
+  "pros": [
+    "AI-powered document generation",
+    "Advanced search across multiple formats",
+    "Seamless integration with existing tools"
+  ],
+  "cons": [
+    "Potential learning curve for new users",
+    "Dependence on digital document formats",
+    "Possible privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "DocuSign [docusign.com]",
+    "Adobe Sign [adobe.com]",
+    "HelloSign [hellosign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DocuSign",
+      "url": "docusign.com",
+      "reason": "Widely used for e-signatures and document management"
+    },
+    {
+      "name": "Adobe Sign",
+      "url": "adobe.com",
+      "reason": "Strong integration with Adobe products"
+    },
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Simple interface and efficient workflow"
+    }
+  ],
+  "tags": [
+    "document management",
+    "AI",
+    "contract management",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tyce.ai/",
+  "documentationUrl": "https://tyce.ai/docs",
+  "githubUrl": "https://github.com/search?q=tyce&type=repositories",
+  "twitterUrl": "https://x.com/Tyce_AI",
+  "screenshot": "https://share.appsfor.us/screenshots/tyce_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tyce_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tyce_ai_400.png",
+  "updatedAt": "2025-06-14T04:18:39.404Z"
+}
