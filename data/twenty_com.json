@@ -3,16 +3,16 @@
   "name": "Twenty",
   "title": "twenty.com",
   "payoff": "Manage customer relationships effectively",
-  "shortDescription": "Twenty is a modern, powerful CRM platform designed for fast-growing companies. It allows businesses to manage their customer relationships efficiently with customizable workflows and extensive data fields. Ideal for companies looking to maintain control over their customer data, Twenty offers a flexible solution adaptable to unique business needs.",
+  "shortDescription": "Twenty is an open-source CRM platform designed to manage and adapt to your customer data seamlessly. It is ideal for fast-growing companies looking to streamline their customer relationship management without the constraints of traditional CRMs. Users can customize their workspace with up to 105 fields, making it adaptable to various business requirements. An example use case could be a tech startup using Twenty to track customer interactions and sales conversions effectively.",
   "pros": [
-    "Highly customizable",
-    "Open-source flexibility",
-    "Backed by Y Combinator"
+    "Highly customizable with 105 fields",
+    "Open-source and adaptable to unique workflows",
+    "Backed by Y Combinator, ensuring reliability and support"
   ],
   "cons": [
-    "May require technical setup",
-    "Less support compared to paid CRMs",
-    "Dependent on community contributions"
+    "May require technical skill to deploy and customize",
+    "Limited third-party integrations compared to competitors",
+    "Open-source can mean less predictable updates and support"
   ],
   "alternatives": [
     "Salesforce [salesforce.com]",
@@ -23,23 +23,23 @@
     {
       "name": "Salesforce",
       "url": "salesforce.com",
-      "reason": "Industry leader with extensive features"
+      "reason": "Offers extensive integrations and cloud-based solutions"
     },
     {
       "name": "HubSpot CRM",
       "url": "hubspot.com",
-      "reason": "Offers free CRM with marketing tools"
+      "reason": "Provides inbound marketing tools along with CRM"
     },
     {
       "name": "Zoho CRM",
       "url": "zoho.com",
-      "reason": "Good for small to medium businesses"
+      "reason": "Features AI-powered sales assistant"
     }
   ],
   "tags": [
     "CRM",
     "open source",
-    "customer management",
+    "customer relations",
     "data management"
   ],
   "apiUsed": true,
@@ -47,13 +47,13 @@
   "function": "Customer Relations",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://twenty.com/",
   "documentationUrl": "https://twenty.com/docs",
   "githubUrl": "https://github.com/twentyhq/twenty",
   "twitterUrl": "https://twitter.com/twentycrm",
-  "screenshot": "/screenshots/twenty_com.png",
-  "screenshot_640": "/screenshots/twenty_com_640.png",
-  "screenshot_400": "/screenshots/twenty_com_400.png",
-  "updatedAt": "2025-05-13T03:40:46.985Z"
+  "screenshot": "https://share.appsfor.us/screenshots/twenty_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/twenty_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/twenty_com_400.png",
+  "updatedAt": "2025-06-14T03:11:25.277Z"
 }

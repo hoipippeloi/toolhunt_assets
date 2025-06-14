@@ -3,16 +3,16 @@
   "name": "TradingView",
   "title": "tradingview.com",
   "payoff": "Track All Markets",
-  "shortDescription": "TradingView is a comprehensive platform for traders and investors to analyze financial markets. It offers tools for charting, screening, and trading across various asset classes including stocks, forex, and cryptocurrencies. Users can collaborate, share strategies, and access a wealth of market data and insights. Example use case: A trader uses TradingView to analyze cryptocurrency trends and execute trades directly through the platform.",
+  "shortDescription": "TradingView is a platform for traders and investors to track and analyze financial markets. It offers tools for charting, analysis, and trading directly from charts. Users can explore various markets including stocks, forex, cryptocurrencies, and futures. An example use case is a financial analyst monitoring and predicting market trends to make informed trading decisions.",
   "pros": [
-    "Extensive charting capabilities",
-    "Supports social sharing of trading ideas",
-    "Direct trading through integrated brokers"
+    "Comprehensive charting tools",
+    "Wide range of supported markets",
+    "Community-driven insights and strategies"
   ],
   "cons": [
     "Can be overwhelming for beginners",
     "Premium features require subscription",
-    "Limited customer support options"
+    "Limited broker integrations in some regions"
   ],
   "alternatives": [
     "MetaTrader [metatrader4.com]",
@@ -23,12 +23,12 @@
     {
       "name": "MetaTrader",
       "url": "metatrader4.com",
-      "reason": "Popular for forex and CFD trading"
+      "reason": "Popular for forex and CFDs trading"
     },
     {
       "name": "Thinkorswim",
       "url": "tdameritrade.com/tools-and-platforms/thinkorswim",
-      "reason": "Advanced tools for U.S. markets"
+      "reason": "Advanced tools for stock trading"
     },
     {
       "name": "eToro",
@@ -39,8 +39,8 @@
   "tags": [
     "financial markets",
     "trading platform",
-    "investment tools",
-    "market analysis"
+    "market analysis",
+    "investment tools"
   ],
   "apiUsed": true,
   "department": "Finance & Accounting",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2011,
   "websiteUrl": "https://tradingview.com/",
-  "documentationUrl": "https://www.tradingview.com/support/",
+  "documentationUrl": "https://www.tradingview.com/rest-api-spec/",
   "githubUrl": "https://github.com/search?q=tradingview&type=repositories",
   "twitterUrl": "https://x.com/tradingview/",
-  "screenshot": "/screenshots/tradingview_com.png",
-  "screenshot_640": "/screenshots/tradingview_com_640.png",
-  "screenshot_400": "/screenshots/tradingview_com_400.png",
-  "updatedAt": "2025-05-13T01:09:11.525Z"
+  "screenshot": "https://share.appsfor.us/screenshots/tradingview_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tradingview_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tradingview_com_400.png",
+  "updatedAt": "2025-06-14T03:09:50.399Z"
 }

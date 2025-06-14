@@ -3,16 +3,16 @@
   "name": "Chroma",
   "title": "trychroma.com",
   "payoff": "Serverless architecture for cloud solutions",
-  "shortDescription": "Chroma Cloud leverages an open-source, distributed, and serverless architecture to provide cloud services. It's designed for developers and businesses seeking scalable cloud solutions. An example use case is a tech startup using Chroma Cloud to manage their app's backend efficiently without managing servers.",
+  "shortDescription": "Chroma Cloud leverages an innovative open-source, distributed, and serverless architecture to provide cloud solutions. It is designed for businesses seeking scalable cloud infrastructure without the complexity of traditional setups. An example use case is a tech startup that needs to quickly deploy and scale its applications globally without investing in physical servers.",
   "pros": [
-    "Open-source framework",
     "Scalable serverless architecture",
-    "Private preview for production"
+    "Open-source flexibility",
+    "Regular updates via newsletter"
   ],
   "cons": [
     "Currently in private preview",
-    "Limited public information",
-    "No clear pricing available"
+    "Limited information available",
+    "No clear pricing structure"
   ],
   "alternatives": [
     "AWS Lambda [aws.amazon.com/lambda]",
@@ -23,26 +23,26 @@
     {
       "name": "AWS Lambda",
       "url": "aws.amazon.com/lambda",
-      "reason": "AWS Lambda offers flexible serverless computing."
+      "reason": "AWS offers extensive integration options."
     },
     {
       "name": "Google Cloud Functions",
       "url": "cloud.google.com/functions",
-      "reason": "Easy integration with other Google services."
+      "reason": "Google's tool excels in AI integration."
     },
     {
       "name": "Azure Functions",
       "url": "azure.microsoft.com/en-us/services/functions",
-      "reason": "Great for integrating with other Azure services."
+      "reason": "Microsoft's solution for enterprise-level users."
     }
   ],
   "tags": [
-    "cloud services",
-    "open source",
+    "cloud solutions",
     "serverless",
+    "open source",
     "scalability"
   ],
-  "apiUsed": true,
+  "apiUsed": false,
   "department": "Information Technology",
   "function": "Cloud Platform",
   "freeTier": false,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.trychroma.com/",
   "githubUrl": "https://github.com/chroma-core/chroma",
   "twitterUrl": "https://x.com/trychroma",
-  "screenshot": "/screenshots/trychroma_com.png",
-  "screenshot_640": "/screenshots/trychroma_com_640.png",
-  "screenshot_400": "/screenshots/trychroma_com_400.png",
-  "updatedAt": "2025-05-22T02:56:28.432Z"
+  "screenshot": "https://share.appsfor.us/screenshots/trychroma_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/trychroma_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/trychroma_com_400.png",
+  "updatedAt": "2025-06-14T03:10:11.696Z"
 }

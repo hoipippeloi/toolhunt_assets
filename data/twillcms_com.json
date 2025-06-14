@@ -2,17 +2,17 @@
   "sourceUrl": "https://twillcms.com/",
   "name": "Twill",
   "title": "twillcms.com",
-  "payoff": "Flexible CMS for Laravel",
-  "shortDescription": "Twill is an open-source CMS toolkit designed for Laravel, making it ideal for developers and content managers. It offers an intuitive interface for creating and managing digital content with ease. Users can enjoy features like a visual editor, responsive previewing, and a hi-res media library. An example use case is a digital agency using Twill to streamline content management across multiple client websites, ensuring design consistency and efficient workflows.",
+  "payoff": "Powerful CMS toolkit for Laravel",
+  "shortDescription": "Twill is an open-source CMS toolkit designed for Laravel, providing developers with robust tools for content management. It's tailored for web developers and content teams who need a flexible and intuitive platform to manage digital content efficiently. Twill offers features like a visual editor, responsive previewing, and a high-resolution media library, making it ideal for dynamic and engaging digital experiences.",
   "pros": [
-    "Intuitive content management",
-    "Flexible design controls",
-    "Robust features for developers"
+    "Intuitive content management interface",
+    "Extensive customization options",
+    "Strong integration with Laravel"
   ],
   "cons": [
-    "Limited to Laravel framework",
-    "May require developer skills",
-    "Potentially steep learning curve for non-developers"
+    "Requires Laravel knowledge",
+    "Potentially steep learning curve for non-developers",
+    "Limited community compared to larger CMS platforms"
   ],
   "alternatives": [
     "WordPress [wordpress.org]",
@@ -23,24 +23,24 @@
     {
       "name": "WordPress",
       "url": "wordpress.org",
-      "reason": "Widely used, highly customizable CMS"
+      "reason": "Popular CMS with extensive plugins"
     },
     {
       "name": "Drupal",
       "url": "drupal.org",
-      "reason": "Strong in security and scalability"
+      "reason": "Flexible CMS with strong community"
     },
     {
       "name": "Joomla",
       "url": "joomla.org",
-      "reason": "Good for social networking sites"
+      "reason": "User-friendly with diverse extensions"
     }
   ],
   "tags": [
     "CMS",
     "open source",
-    "Laravel",
-    "content management"
+    "content management",
+    "Laravel"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://twill.io/docs/",
   "githubUrl": "https://github.com/area17/twill",
   "twitterUrl": "https://twitter.com/twillcms",
-  "screenshot": "/screenshots/twillcms_com.png",
-  "screenshot_640": "/screenshots/twillcms_com_640.png",
-  "screenshot_400": "/screenshots/twillcms_com_400.png",
-  "updatedAt": "2025-05-18T04:27:15.122Z"
+  "screenshot": "https://share.appsfor.us/screenshots/twillcms_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/twillcms_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/twillcms_com_400.png",
+  "updatedAt": "2025-06-14T03:11:46.839Z"
 }

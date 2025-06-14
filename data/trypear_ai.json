@@ -2,45 +2,45 @@
   "sourceUrl": "https://trypear.ai/",
   "name": "PearAI",
   "title": "trypear.ai",
-  "payoff": "Supercharge your project development",
-  "shortDescription": "PearAI integrates leading AI tools into a single code editor, designed to enhance project development from inception to scale. It's ideal for developers seeking to streamline their coding process with AI-powered features like bug fixes, code suggestions, and context-aware assistance. Example use: A developer uses PearAI to quickly adapt to Swift iOS, improving productivity significantly within a month.",
+  "payoff": "AI Code Editor For Your Projects",
+  "shortDescription": "PearAI is an advanced AI code editor designed to enhance coding efficiency and accuracy for developers. It integrates with various AI models to provide real-time coding assistance, bug fixes, and project management. Ideal for developers looking to streamline their coding process, PearAI offers context-aware AI assistance, making it easier to work with complex codebases. An example use case is a developer using PearAI to automatically generate and debug code in a Swift iOS project, significantly reducing development time.",
   "pros": [
-    "Integrates multiple AI tools in one editor",
-    "Contextual understanding of codebase",
-    "Open source and supports various programming languages"
+    "Context-aware AI coding assistance",
+    "Automatic bug fixes and feature coding",
+    "Single subscription access to multiple AI models"
   ],
   "cons": [
-    "May be overwhelming for beginners",
-    "Dependent on third-party AI integrations",
-    "Potential privacy concerns with development environment access"
+    "Dependence on external AI models",
+    "Potential privacy concerns with codebase access",
+    "Subscription cost may be a barrier for some users"
   ],
   "alternatives": [
-    "Visual Studio Code [code.visualstudio.com]",
-    "Sublime Text [sublimetext.com]",
-    "Atom [atom.io]"
+    "GitHub Copilot [copilot.github.com]",
+    "Tabnine [tabnine.com]",
+    "Kite [kite.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Visual Studio Code",
-      "url": "code.visualstudio.com",
-      "reason": "Extensive plugin support, highly customizable"
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer that suggests code"
     },
     {
-      "name": "Sublime Text",
-      "url": "sublimetext.com",
-      "reason": "Fast and lightweight with powerful API"
+      "name": "Tabnine",
+      "url": "tabnine.com",
+      "reason": "AI code completion tool for developers"
     },
     {
-      "name": "Atom",
-      "url": "atom.io",
-      "reason": "Open source and community-driven development"
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "AI-powered code completion and snippets"
     }
   ],
   "tags": [
     "AI",
     "code editor",
-    "open source",
-    "software development"
+    "software development",
+    "automation"
   ],
   "apiUsed": false,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://trypear.ai/documentation",
   "githubUrl": "https://github.com/trypear/pearai-master",
   "twitterUrl": "https://x.com/trypearai",
-  "screenshot": "/screenshots/trypear_ai.png",
-  "screenshot_640": "/screenshots/trypear_ai_640.png",
-  "screenshot_400": "/screenshots/trypear_ai_400.png",
-  "updatedAt": "2025-05-10T01:05:55.505Z"
+  "screenshot": "https://share.appsfor.us/screenshots/trypear_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/trypear_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/trypear_ai_400.png",
+  "updatedAt": "2025-06-14T03:11:00.899Z"
 }
