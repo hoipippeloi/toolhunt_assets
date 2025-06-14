@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getmailbird.com/",
+  "name": "Mailbird",
+  "title": "getmailbird.com",
+  "payoff": "Manage multiple email accounts",
+  "shortDescription": "Mailbird consolidates multiple email accounts into a single app, enhancing productivity and streamlining communication. It supports integration with popular apps like Slack and Dropbox, making it ideal for professionals and businesses. An example use case is a company using Mailbird to manage communications across various departments efficiently.",
+  "pros": [
+    "Centralized email management",
+    "Seamless app integration",
+    "Supports both PC and Mac platforms"
+  ],
+  "cons": [
+    "Limited to email management",
+    "May be redundant with existing email clients",
+    "Potential privacy concerns with app integrations"
+  ],
+  "alternatives": [
+    "Outlook [microsoft.com]",
+    "Thunderbird [thunderbird.net]",
+    "eM Client [emclient.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Outlook",
+      "url": "microsoft.com",
+      "reason": "Comprehensive email and calendar tool"
+    },
+    {
+      "name": "Thunderbird",
+      "url": "thunderbird.net",
+      "reason": "Open-source and customizable email client"
+    },
+    {
+      "name": "eM Client",
+      "url": "emclient.com",
+      "reason": "Focus on simplicity and user interface"
+    }
+  ],
+  "tags": [
+    "email management",
+    "productivity",
+    "app integration",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://getmailbird.com/",
+  "documentationUrl": "https://help.getmailbird.com/",
+  "githubUrl": "https://github.com/search?q=mailbird&type=repositories",
+  "twitterUrl": "https://twitter.com/mailbird",
+  "screenshot": "https://share.appsfor.us/screenshots/getmailbird_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getmailbird_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getmailbird_com_400.png",
+  "updatedAt": "2025-06-14T10:14:23.202Z"
+}
