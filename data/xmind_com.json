@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://xmind.com/",
+  "name": "Xmind",
+  "title": "xmind.com",
+  "payoff": "All-in-one mind mapping tool",
+  "shortDescription": "Xmind is a versatile mind mapping tool designed to facilitate brainstorming, project planning, and collaboration. It integrates mind mapping with AI generation and real-time collaboration features, making it ideal for students, professionals, and teams. Users can create mind maps, convert them into presentations or to-do lists, and share them across formats like PDF and PNG. An example use case is using Xmind in a meeting to capture and organize ideas and then turning those maps into actionable tasks.",
+  "pros": [
+    "Supports real-time collaboration",
+    "Integrates AI for enhanced mapping",
+    "Offers extensive export options"
+  ],
+  "cons": [
+    "May be complex for new users",
+    "No clear pricing on the main page",
+    "Limited customization in free version"
+  ],
+  "alternatives": [
+    "MindMeister [mindmeister.com]",
+    "Lucidchart [lucidchart.com]",
+    "Coggle [coggle.it]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MindMeister",
+      "url": "mindmeister.com",
+      "reason": "Cloud-based mind mapping tool"
+    },
+    {
+      "name": "Lucidchart",
+      "url": "lucidchart.com",
+      "reason": "Offers diagramming and data visualization"
+    },
+    {
+      "name": "Coggle",
+      "url": "coggle.it",
+      "reason": "Simple, collaborative mind mapping"
+    }
+  ],
+  "tags": [
+    "mind mapping",
+    "project management",
+    "collaboration",
+    "brainstorming"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2007,
+  "websiteUrl": "https://xmind.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=xmind&type=repositories",
+  "twitterUrl": "https://twitter.com/XmindHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/xmind_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/xmind_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/xmind_com_400.png",
+  "updatedAt": "2025-06-14T12:24:39.488Z"
+}
