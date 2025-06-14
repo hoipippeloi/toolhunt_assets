@@ -3,16 +3,16 @@
   "name": "Topicflow",
   "title": "topicflow.com",
   "payoff": "Reimagined Performance Management",
-  "shortDescription": "Topicflow revolutionizes performance management by integrating advanced AI to assist managers in driving team performance. Designed for managers and team leaders, it provides tools to analyze productivity, set goals, and track progress effectively. An example use case is a manager using Topicflow to set quarterly objectives and receive AI-driven insights to improve team output.",
+  "shortDescription": "Topicflow revolutionizes performance management by integrating advanced AI technologies. Designed for managers and teams, it enhances decision-making and productivity through real-time analytics and automated feedback systems. An example use case involves a team leader using Topicflow to track team performance metrics, identify areas for improvement, and receive AI-driven suggestions for team development.",
   "pros": [
-    "AI-driven insights enhance decision making",
-    "Intuitive user interface for easy adoption",
-    "Robust analytics for performance tracking"
+    "AI-driven insights for better decision making",
+    "Real-time performance tracking",
+    "Automated feedback mechanisms"
   ],
   "cons": [
-    "Potentially high learning curve for new users",
-    "May require integration with existing systems",
-    "Limited customization options"
+    "Potential privacy concerns with data handling",
+    "May require training to fully utilize AI features",
+    "Dependence on digital infrastructure"
   ],
   "alternatives": [
     "Lattice [lattice.com]",
@@ -23,37 +23,37 @@
     {
       "name": "Lattice",
       "url": "lattice.com",
-      "reason": "Similar focus on performance management"
+      "reason": "Focuses on people management and growth"
     },
     {
       "name": "Betterworks",
       "url": "betterworks.com",
-      "reason": "Offers continuous performance tracking"
+      "reason": "Comprehensive enterprise goal setting"
     },
     {
       "name": "15Five",
       "url": "15five.com",
-      "reason": "Focuses on feedback and employee growth"
+      "reason": "Strengthens communication and feedback loops"
     }
   ],
   "tags": [
-    "AI",
     "performance management",
+    "AI",
     "analytics",
     "productivity"
   ],
   "apiUsed": true,
   "department": "Human Resources",
   "function": "Performance",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://topicflow.com/",
   "documentationUrl": "https://topicflow.com/docs",
   "githubUrl": "https://github.com/search?q=topicflow&type=repositories",
   "twitterUrl": "https://www.twitter.com/topicflowapp",
-  "screenshot": "/screenshots/topicflow_com.png",
-  "screenshot_640": "/screenshots/topicflow_com_640.png",
-  "screenshot_400": "/screenshots/topicflow_com_400.png",
-  "updatedAt": "2025-05-18T05:14:33.440Z"
+  "screenshot": "https://share.appsfor.us/screenshots/topicflow_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/topicflow_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/topicflow_com_400.png",
+  "updatedAt": "2025-06-14T01:05:22.318Z"
 }

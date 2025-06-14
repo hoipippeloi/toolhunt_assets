@@ -2,17 +2,17 @@
   "sourceUrl": "https://tiktok.com/",
   "name": "TikTok",
   "title": "tiktok.com",
-  "payoff": "Explore trending videos easily",
-  "shortDescription": "TikTok is a global video-sharing social networking service where users can create, share, and discover short videos. The platform is designed for the everyday user to showcase their creativity through singing, dancing, comedy, and more. An example use case is a brand promoting its products through creative video content to engage with a younger audience.",
+  "payoff": "Discover and share videos easily",
+  "shortDescription": "TikTok is a leading destination for short-form mobile video, offering content that is exciting, spontaneous, and genuine. Whether you're a sports fanatic, a pet enthusiast, or just looking for a laugh, there's something for everyone on TikTok. Users can watch, create, and share videos expressing themselves with filters, music, and other creative elements.",
   "pros": [
-    "Vast user base",
+    "Vast user-generated content",
     "High engagement rates",
-    "Creative content freedom"
+    "Robust creator tools"
   ],
   "cons": [
     "Privacy concerns",
-    "Short content format",
-    "Algorithm opacity"
+    "Algorithm transparency",
+    "Potential for addictive use"
   ],
   "alternatives": [
     "YouTube [youtube.com]",
@@ -23,12 +23,12 @@
     {
       "name": "YouTube",
       "url": "youtube.com",
-      "reason": "Larger video lengths and diverse content"
+      "reason": "Larger platform for video sharing"
     },
     {
       "name": "Instagram",
       "url": "instagram.com",
-      "reason": "Strong focus on visuals and stories"
+      "reason": "Focus on photo and video stories"
     },
     {
       "name": "Snapchat",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://developers.tiktok.com/doc",
   "githubUrl": "https://github.com/search?q=tiktok&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/tiktok_com.png",
-  "screenshot_640": "/screenshots/tiktok_com_640.png",
-  "screenshot_400": "/screenshots/tiktok_com_400.png",
-  "updatedAt": "2025-05-13T06:23:24.295Z"
+  "screenshot": "https://share.appsfor.us/screenshots/tiktok_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tiktok_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tiktok_com_400.png",
+  "updatedAt": "2025-06-14T01:04:05.056Z"
 }

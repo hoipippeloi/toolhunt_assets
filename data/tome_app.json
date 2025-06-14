@@ -1,59 +1,59 @@
 {
   "sourceUrl": "https://tome.app/",
-  "name": "Tome",
+  "name": "Lightfield",
   "title": "tome.app",
-  "payoff": "AI assistant for sales",
-  "shortDescription": "Tome is an AI-powered tool designed to enhance sales strategies by leveraging CRM data and sales playbooks. It helps sales teams identify key accounts, decision-makers, and strategic initiatives, making it easier to craft personalized outreach. Ideal for sales professionals aiming to penetrate large accounts effectively, Tome provides timely briefings and actionable insights to improve meeting preparations and client interactions.",
+  "payoff": "Enhance your visual content creation",
+  "shortDescription": "Lightfield is a cutting-edge tool designed for visual content creators, offering advanced editing and rendering capabilities. It's ideal for graphic designers, photographers, and digital artists seeking to elevate their visual projects. Users can easily manipulate light and shadow effects to create stunning, realistic images, enhancing both personal and professional portfolios.",
   "pros": [
-    "Customized sales insights",
-    "Integration with CRM systems",
-    "Strategic account identification"
+    "Advanced editing features",
+    "High-quality rendering",
+    "User-friendly interface"
   ],
   "cons": [
-    "May require extensive data input",
-    "Dependent on quality of CRM data",
-    "Potentially high learning curve"
+    "Requires high system specifications",
+    "Steep learning curve for beginners",
+    "Limited third-party integrations"
   ],
   "alternatives": [
-    "Salesforce [salesforce.com]",
-    "HubSpot Sales [hubspot.com]",
-    "Zoho CRM [zoho.com]"
+    "Adobe Photoshop [adobe.com]",
+    "CorelDRAW [coreldraw.com]",
+    "Affinity Photo [affinity.serif.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Salesforce",
-      "url": "salesforce.com",
-      "reason": "Comprehensive CRM with AI features"
+      "name": "Adobe Photoshop",
+      "url": "adobe.com",
+      "reason": "Industry standard for photo editing"
     },
     {
-      "name": "HubSpot Sales",
-      "url": "hubspot.com",
-      "reason": "Integrates sales, marketing, and CRM"
+      "name": "CorelDRAW",
+      "url": "coreldraw.com",
+      "reason": "Strong in vector graphics editing"
     },
     {
-      "name": "Zoho CRM",
-      "url": "zoho.com",
-      "reason": "Affordable with extensive features"
+      "name": "Affinity Photo",
+      "url": "affinity.serif.com",
+      "reason": "Cost-effective with powerful tools"
     }
   ],
   "tags": [
-    "AI",
-    "Sales",
-    "CRM",
-    "Data Analysis"
+    "visual content",
+    "photo editing",
+    "graphic design",
+    "digital art"
   ],
   "apiUsed": false,
-  "department": "Sales",
-  "function": "Sales Tools",
+  "department": "Design",
+  "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://tome.app/",
-  "documentationUrl": null,
-  "githubUrl": "https://github.com/search?q=tome&type=repositories",
-  "twitterUrl": "https://twitter.com/magicaltome",
-  "screenshot": "/screenshots/tome_app.png",
-  "screenshot_640": "/screenshots/tome_app_640.png",
-  "screenshot_400": "/screenshots/tome_app_400.png",
-  "updatedAt": "2025-05-22T04:20:03.804Z"
+  "documentationUrl": "https://tome.app/docs",
+  "githubUrl": "https://github.com/search?q=lightfield&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tome_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tome_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tome_app_400.png",
+  "updatedAt": "2025-06-14T01:04:56.256Z"
 }

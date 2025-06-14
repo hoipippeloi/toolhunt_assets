@@ -3,44 +3,44 @@
   "name": "Telegram Messenger",
   "title": "telegram.org",
   "payoff": "A new era of messaging",
-  "shortDescription": "Telegram is a messaging app focused on speed and security, making it a top choice for personal and professional communication. Users can send messages, photos, videos, and files of any type, and create large groups or channels for broadcasting to unlimited audiences. An example use case is a company using Telegram for internal team communications and file sharing.",
+  "shortDescription": "Telegram Messenger is a widely used communication platform that focuses on speed and security. It allows users to send messages, photos, videos, and files of any type. Telegram also provides encrypted voice calls and group chats, making it ideal for personal and professional communication. Example use case: A company uses Telegram for internal team communication and file sharing.",
   "pros": [
     "Highly secure with end-to-end encryption",
-    "Supports large groups and channels",
-    "Fast message delivery even on weak connections"
+    "Supports large groups and broadcasting",
+    "Free to use with no ads"
   ],
   "cons": [
-    "Potential privacy concerns",
-    "Can be overwhelming due to feature richness",
-    "Requires phone number for signup"
+    "Not as widely adopted as some competitors",
+    "Requires phone number for signup",
+    "Potential privacy concerns from centralized control"
   ],
   "alternatives": [
     "WhatsApp [whatsapp.com]",
     "Signal [signal.org]",
-    "Viber [viber.com]"
+    "WeChat [wechat.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "WhatsApp",
       "url": "whatsapp.com",
-      "reason": "Widely used for personal and business chats."
+      "reason": "Offers similar messaging and call features."
     },
     {
       "name": "Signal",
       "url": "signal.org",
-      "reason": "Focuses on privacy and security."
+      "reason": "Focuses on privacy with end-to-end encryption."
     },
     {
-      "name": "Discord",
-      "url": "discord.com",
-      "reason": "Popular for community and group chats."
+      "name": "WeChat",
+      "url": "wechat.com",
+      "reason": "Integrates social media and payment features."
     }
   ],
   "tags": [
     "messaging",
     "communication",
-    "secure",
-    "multi-platform"
+    "secure chat",
+    "encrypted calls"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://core.telegram.org/bots/api",
   "githubUrl": "https://github.com/search?q=telegram%20messenger&type=repositories",
   "twitterUrl": "https://twitter.com/telegram",
-  "screenshot": "/screenshots/telegram_org.png",
-  "screenshot_640": "/screenshots/telegram_org_640.png",
-  "screenshot_400": "/screenshots/telegram_org_400.png",
-  "updatedAt": "2025-05-21T04:19:07.476Z"
+  "screenshot": "https://share.appsfor.us/screenshots/telegram_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/telegram_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/telegram_org_400.png",
+  "updatedAt": "2025-06-14T01:03:12.193Z"
 }
