@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://activitywatch.net/",
+  "name": "ActivityWatch",
+  "title": "activitywatch.net",
+  "payoff": "Open-source time tracker",
+  "shortDescription": "ActivityWatch is an open-source, privacy-first time tracking application that runs on multiple platforms including Windows, macOS, Linux, and Android. It helps users monitor productivity, manage screen habits, and track time spent on various projects. Ideal for individuals looking to gain insights into their digital habits, it serves as a useful tool for both personal self-awareness and professional productivity management.",
+  "pros": [
+    "Privacy-first with local data storage",
+    "Cross-platform compatibility",
+    "Open-source and community-driven"
+  ],
+  "cons": [
+    "Lacks enterprise-level support",
+    "No built-in API for developers",
+    "Synchronization still under development"
+  ],
+  "alternatives": [
+    "RescueTime [rescuetime.com]",
+    "ManicTime [manictime.com]",
+    "WakaTime [wakatime.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Offers detailed analytics and focus tools"
+    },
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Simple interface with powerful reporting"
+    },
+    {
+      "name": "Clockify",
+      "url": "clockify.me",
+      "reason": "Free for teams, with advanced features"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "productivity",
+    "open source",
+    "privacy"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://activitywatch.net/",
+  "documentationUrl": "https://docs.activitywatch.net",
+  "githubUrl": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.13.2/activitywatch-v0.13.2-linux-x86_64.zip",
+  "twitterUrl": "https://twitter.com/ActivityWatchIt",
+  "screenshot": "https://share.appsfor.us/screenshots/activitywatch_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/activitywatch_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/activitywatch_net_400.png",
+  "updatedAt": "2025-06-15T04:25:50.057Z"
+}

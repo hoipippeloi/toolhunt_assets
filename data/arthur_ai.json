@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://arthur.ai/",
+  "name": "Arthur",
+  "title": "arthur.ai",
+  "payoff": "Ship AI Applications Fast.",
+  "shortDescription": "Arthur is a leading AI platform designed to streamline the deployment, monitoring, and management of AI models. It caters to AI developers and enterprises, transforming AI pilots into robust applications. An example use case is deploying AI securely to prevent data leaks and optimize model performance across various industries.",
+  "pros": [
+    "Supports a wide range of AI models",
+    "Real-time AI evaluation and monitoring",
+    "High scalability and flexible integrations"
+  ],
+  "cons": [
+    "Potentially complex for beginners",
+    "May be costly for small businesses",
+    "Limited information on specific pricing"
+  ],
+  "alternatives": [
+    "DataRobot [datarobot.com]",
+    "H2O.ai [h2o.ai]",
+    "RapidMiner [rapidminer.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DataRobot",
+      "url": "datarobot.com",
+      "reason": "Offers automated machine learning"
+    },
+    {
+      "name": "H2O.ai",
+      "url": "h2o.ai",
+      "reason": "Focuses on open-source AI tools"
+    },
+    {
+      "name": "RapidMiner",
+      "url": "rapidminer.com",
+      "reason": "Provides a robust data science platform"
+    }
+  ],
+  "tags": [
+    "AI",
+    "machine learning",
+    "model management",
+    "data security"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://arthur.ai/",
+  "documentationUrl": "https://arthur.ai/docs",
+  "githubUrl": "https://github.com/arthur-ai/arthur-engine",
+  "twitterUrl": "https://twitter.com/itsArthurAI",
+  "screenshot": "https://share.appsfor.us/screenshots/arthur_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/arthur_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/arthur_ai_400.png",
+  "updatedAt": "2025-06-15T04:25:26.477Z"
+}
