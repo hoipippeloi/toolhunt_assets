@@ -2,45 +2,45 @@
   "sourceUrl": "https://usemoonshine.com/",
   "name": "Moonshine",
   "title": "usemoonshine.com",
-  "payoff": "Video Intelligence Simplified",
-  "shortDescription": "Moonshine is a cutting-edge video intelligence tool designed for developers and businesses seeking to integrate advanced video analysis capabilities into their applications. With just three lines of code, users can access powerful APIs that enable real-time video processing and analysis. Example use case includes enhancing security systems with automated surveillance and behavior detection.",
+  "payoff": "Video Intelligence",
+  "shortDescription": "Moonshine is a cutting-edge video intelligence tool designed for developers and businesses seeking to enhance their video analytics capabilities. With just three lines of code, users can integrate Moonshine's APIs into their applications, enabling advanced video analysis features. An example use case includes real-time video content analysis for security systems, where Moonshine can detect and alert on specific activities or anomalies.",
   "pros": [
-    "Easy integration with minimal code",
-    "Real-time video processing",
-    "Scalable for enterprise use"
+    "Easy integration with minimal coding",
+    "Advanced video analysis features",
+    "Supports real-time video processing"
   ],
   "cons": [
-    "Limited to video-related features",
-    "May require technical knowledge to implement",
+    "Limited to video-related functionalities",
+    "May require technical expertise to implement",
     "Potential privacy concerns with video data"
   ],
   "alternatives": [
-    "Clarifai [clarifai.com]",
-    "DeepVision [deepvision.ai]",
-    "Google Cloud Video AI [cloud.google.com/video-intelligence]"
+    "IBM Watson Media [ibm.com/watson/media]",
+    "Google Video Intelligence API [cloud.google.com/video-intelligence]",
+    "Amazon Rekognition Video [aws.amazon.com/rekognition]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Clarifai",
-      "url": "clarifai.com",
-      "reason": "Offers broad AI video analysis"
+      "name": "IBM Watson Media",
+      "url": "ibm.com/watson/media",
+      "reason": "Offers AI-driven video analytics"
     },
     {
-      "name": "DeepVision",
-      "url": "deepvision.ai",
-      "reason": "Focuses on real-time video AI"
-    },
-    {
-      "name": "Google Cloud Video AI",
+      "name": "Google Video Intelligence API",
       "url": "cloud.google.com/video-intelligence",
-      "reason": "Powerful cloud-based video AI"
+      "reason": "Provides video annotation features"
+    },
+    {
+      "name": "Amazon Rekognition Video",
+      "url": "aws.amazon.com/rekognition",
+      "reason": "Supports video and image analysis"
     }
   ],
   "tags": [
     "video intelligence",
     "API",
     "real-time processing",
-    "scalability"
+    "security"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -49,11 +49,11 @@
   "openSource": false,
   "releasedYear": 2021,
   "websiteUrl": "https://usemoonshine.com/",
-  "documentationUrl": "https://usemoonshine.com/docs",
+  "documentationUrl": "http://docs.usemoonshine.com/",
   "githubUrl": "https://github.com/search?q=moonshine&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/usemoonshine_com.png",
-  "screenshot_640": "/screenshots/usemoonshine_com_640.png",
-  "screenshot_400": "/screenshots/usemoonshine_com_400.png",
-  "updatedAt": "2025-05-15T01:07:11.725Z"
+  "screenshot": "https://share.appsfor.us/screenshots/usemoonshine_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usemoonshine_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usemoonshine_com_400.png",
+  "updatedAt": "2025-06-15T03:22:49.807Z"
 }

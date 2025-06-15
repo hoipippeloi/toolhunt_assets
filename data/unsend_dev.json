@@ -2,38 +2,38 @@
   "sourceUrl": "https://unsend.dev/",
   "name": "Unsend",
   "title": "unsend.dev",
-  "payoff": "Effortless sending infrastructure",
-  "shortDescription": "Unsend provides a comprehensive solution for developers to send transactional and marketing emails, SMSes, and push notifications. It simplifies integration, allowing developers to set up in minutes and focus on content creation while handling subscriptions. Ideal for businesses looking to engage customers without the hassle of complex setups. Example use case: E-commerce stores sending order confirmations and promotional campaigns.",
+  "payoff": "Open source sending infrastructure",
+  "shortDescription": "Unsend is an open-source platform designed for developers to send transactional and marketing emails, SMSes, and push notifications effortlessly. It serves as an alternative to tools like Resend, Mailgun, Sendgrid, and Postmark, offering easy integration and no-code solutions. Ideal for businesses looking to manage their communication channels efficiently, Unsend allows users to focus on content while handling subscriptions and engagement tracking.",
   "pros": [
-    "Easy integration and setup",
+    "Easy integration and simple to use",
     "Supports multiple communication channels",
-    "Open source flexibility"
+    "Open source and customizable"
   ],
   "cons": [
     "Limited brand recognition",
-    "Potential lack of advanced features",
-    "Dependence on community support"
+    "Dependent on community support",
+    "May lack advanced features of competitors"
   ],
   "alternatives": [
-    "Sendgrid [sendgrid.com]",
+    "SendGrid [sendgrid.com]",
     "Mailgun [mailgun.com]",
     "Postmark [postmarkapp.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Sendgrid",
+      "name": "SendGrid",
       "url": "sendgrid.com",
-      "reason": "Widely used for scalable email solutions"
+      "reason": "Well-established with robust features"
     },
     {
       "name": "Mailgun",
       "url": "mailgun.com",
-      "reason": "Strong API for developers"
+      "reason": "Focuses on developer-friendly email service"
     },
     {
       "name": "Postmark",
       "url": "postmarkapp.com",
-      "reason": "Focus on transactional emails"
+      "reason": "High deliverability and transactional focus"
     }
   ],
   "tags": [
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2023,
   "websiteUrl": "https://unsend.dev/",
-  "documentationUrl": "https://docs.unsend.dev/",
+  "documentationUrl": "https://unsend.dev/docs",
   "githubUrl": "https://github.com/unsend-dev/unsend",
   "twitterUrl": "https://twitter.com/unsend_dev",
-  "screenshot": "/screenshots/unsend_dev.png",
-  "screenshot_640": "/screenshots/unsend_dev_640.png",
-  "screenshot_400": "/screenshots/unsend_dev_400.png",
-  "updatedAt": "2025-05-11T03:42:54.210Z"
+  "screenshot": "https://share.appsfor.us/screenshots/unsend_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/unsend_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/unsend_dev_400.png",
+  "updatedAt": "2025-06-15T03:21:39.433Z"
 }

@@ -3,44 +3,44 @@
   "name": "Void Analytics",
   "title": "voidanalytics.com",
   "payoff": "Privacy-focused website analytics",
-  "shortDescription": "Void Analytics offers a privacy-centric, cookie-free alternative to traditional web analytics like Google Analytics. It complies with GDPR, CCPA, and PECR, making it ideal for businesses prioritizing user privacy. Users can integrate it effortlessly with existing CMS or frameworks, track user interactions, and analyze traffic without infringing on user privacy.",
+  "shortDescription": "Void Analytics offers a cookie-free solution for tracking website metrics, adhering to GDPR, CCPA, and PECR. It's designed for businesses seeking compliance and privacy in data handling. Users can integrate it easily with existing tools like WordPress and Vue.JS, making it ideal for those transitioning from other platforms like Google Analytics.",
   "pros": [
-    "Complies with major privacy regulations",
-    "Easy integration with existing tools",
-    "No personal data collection"
+    "Fully compliant with major privacy regulations",
+    "Easy integration with existing tech stacks",
+    "No cookies or personal data collection"
   ],
   "cons": [
     "Limited third-party integrations",
-    "May lack some advanced analytics features",
-    "Dependent on JavaScript for tracking"
+    "No IP address tracking might limit location data",
+    "Potential learning curve for users new to analytics"
   ],
   "alternatives": [
+    "Google Analytics [google.com/analytics]",
     "Matomo [matomo.org]",
-    "Fathom Analytics [usefathom.com]",
     "Plausible Analytics [plausible.io]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Matomo",
-      "url": "matomo.org",
-      "reason": "Offers full data ownership and privacy"
+      "name": "Google Analytics",
+      "url": "google.com/analytics",
+      "reason": "Widely used with extensive features"
     },
     {
-      "name": "Fathom Analytics",
-      "url": "usefathom.com",
-      "reason": "Simple, privacy-focused analytics tool"
+      "name": "Matomo",
+      "url": "matomo.org",
+      "reason": "Open-source with strong privacy focus"
     },
     {
       "name": "Plausible Analytics",
       "url": "plausible.io",
-      "reason": "Lightweight and open-source analytics"
+      "reason": "Lightweight and privacy-centric"
     }
   ],
   "tags": [
     "analytics",
     "privacy",
     "GDPR compliance",
-    "web tracking"
+    "website tracking"
   ],
   "apiUsed": false,
   "department": "Data & Analytics",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=void%20analytics&type=repositories",
   "twitterUrl": "https://x.com/",
-  "screenshot": "/screenshots/voidanalytics_com.png",
-  "screenshot_640": "/screenshots/voidanalytics_com_640.png",
-  "screenshot_400": "/screenshots/voidanalytics_com_400.png",
-  "updatedAt": "2025-05-19T03:02:58.899Z"
+  "screenshot": "https://share.appsfor.us/screenshots/voidanalytics_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/voidanalytics_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/voidanalytics_com_400.png",
+  "updatedAt": "2025-06-15T03:25:11.297Z"
 }
