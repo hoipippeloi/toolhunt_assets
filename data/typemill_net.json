@@ -3,16 +3,16 @@
   "name": "Typemill",
   "title": "typemill.net",
   "payoff": "CMS for Manuals and Documentation",
-  "shortDescription": "Typemill is a self-hosted, open-source CMS designed specifically for creating user manuals, documentation, and knowledge bases. It is ideal for small businesses and teams needing a flexible and intuitive solution. Users can easily manage content with markdown files, generate eBooks, and integrate with external systems through an API.",
+  "shortDescription": "Typemill is a self-hosted, open-source CMS designed specifically for creating user manuals, documentation, and knowledge bases. It is ideal for small businesses and teams needing a flexible, easy-to-manage solution. Users can generate PDFs and ePUBs directly from their content, manage media files, and control access with predefined roles.",
   "pros": [
-    "Markdown and YAML based content management",
-    "Extendable with plugins and themes",
-    "API for external integrations"
+    "Markdown and YAML based storage",
+    "Extensible with plugins and themes",
+    "No database required"
   ],
   "cons": [
-    "Requires self-hosting",
-    "Limited to markdown and YAML",
-    "May need technical skills for setup"
+    "Self-hosted might require technical setup",
+    "Limited by markdown capabilities",
+    "Premium features require payment"
   ],
   "alternatives": [
     "WordPress [wordpress.org]",
@@ -23,7 +23,7 @@
     {
       "name": "WordPress",
       "url": "wordpress.org",
-      "reason": "Widely used CMS with extensive plugins"
+      "reason": "Popular CMS with extensive plugins"
     },
     {
       "name": "Confluence",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://typemill.net/documentation",
   "githubUrl": "https://github.com/typemill/typemill",
   "twitterUrl": null,
-  "screenshot": "/screenshots/typemill_net.png",
-  "screenshot_640": "/screenshots/typemill_net_640.png",
-  "screenshot_400": "/screenshots/typemill_net_400.png",
-  "updatedAt": "2025-05-21T04:19:32.237Z"
+  "screenshot": "https://share.appsfor.us/screenshots/typemill_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typemill_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typemill_net_400.png",
+  "updatedAt": "2025-06-15T01:12:58.201Z"
 }

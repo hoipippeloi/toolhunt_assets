@@ -3,42 +3,42 @@
   "name": "unDraw",
   "title": "undraw.co",
   "payoff": "Free customizable illustrations",
-  "shortDescription": "unDraw offers a vast collection of open-source illustrations that can be customized to match any brand's color scheme. It is designed for designers, developers, and content creators who need high-quality visuals without the hassle of licensing or fees. Users can easily browse, customize, and download illustrations for use in web projects, presentations, or marketing materials.",
+  "shortDescription": "unDraw offers a vast collection of open-source illustrations that can be customized to match any brand identity. Ideal for designers, developers, and content creators, unDraw provides an easy-to-use platform where users can select, customize, and download illustrations for various projects. Whether you're enhancing a website, creating marketing materials, or developing educational content, unDraw's seamless integration and customization features make it a valuable resource.",
   "pros": [
-    "Customizable color schemes",
-    "High-quality, open-source illustrations",
-    "No licensing or fees required"
+    "Wide range of customizable illustrations",
+    "Free to use under open-source license",
+    "No account required for downloading images"
   ],
   "cons": [
-    "Limited to illustrations only",
-    "No API for automated integration",
-    "May not cover all thematic needs"
+    "Limited to only illustrations",
+    "No premium content or features",
+    "No API for automated integration"
   ],
   "alternatives": [
-    "Freepik [freepik.com]",
     "Flaticon [flaticon.com]",
-    "Pixabay [pixabay.com]"
+    "Freepik [freepik.com]",
+    "Vecteezy [vecteezy.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Freepik",
-      "url": "freepik.com",
-      "reason": "Offers a wider range of graphics"
-    },
-    {
       "name": "Flaticon",
       "url": "flaticon.com",
-      "reason": "Focus on icons, extensive library"
+      "reason": "Offers a wide range of icons and stickers"
     },
     {
-      "name": "Pixabay",
-      "url": "pixabay.com",
-      "reason": "Free images and illustrations"
+      "name": "Freepik",
+      "url": "freepik.com",
+      "reason": "Provides extensive graphic resources"
+    },
+    {
+      "name": "Vecteezy",
+      "url": "vecteezy.com",
+      "reason": "Features vector graphics and illustrations"
     }
   ],
   "tags": [
-    "illustrations",
     "design tools",
+    "illustrations",
     "open source",
     "customizable"
   ],
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=undraw&type=repositories",
   "twitterUrl": "https://twitter.com/unDraw_co",
-  "screenshot": "/screenshots/undraw_co.png",
-  "screenshot_640": "/screenshots/undraw_co_640.png",
-  "screenshot_400": "/screenshots/undraw_co_400.png",
-  "updatedAt": "2025-05-19T01:12:40.064Z"
+  "screenshot": "https://share.appsfor.us/screenshots/undraw_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/undraw_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/undraw_co_400.png",
+  "updatedAt": "2025-06-15T01:13:23.844Z"
 }

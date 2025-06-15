@@ -2,58 +2,58 @@
   "sourceUrl": "https://typebot.io",
   "name": "Typebot",
   "title": "typebot.io",
-  "payoff": "Build smarter, deploy seamlessly",
-  "shortDescription": "Typebot is a no-code platform that simplifies the creation and integration of chatbots across various platforms like websites and WhatsApp. It's designed for businesses looking to enhance customer interactions through advanced chat experiences. Users can build bots with features like text, images, videos, and various input options, and integrate with services like OpenAI and Google Sheets. An ideal tool for marketing, sales, and support to engage users and convert leads.",
+  "payoff": "Build and deploy chatbots easily",
+  "shortDescription": "Typebot is a no-code platform designed to simplify the creation and integration of chatbots across various platforms like websites and WhatsApp. It's ideal for businesses looking to enhance customer interactions through automated, smart conversations. Users can craft custom chat experiences using a visual editor with over 45 building blocks, making it suitable for marketing, sales, and support.",
   "pros": [
-    "Multichannel deployment options",
-    "Powerful integration capabilities",
-    "Extensive customization with no code"
+    "No-code chatbot building",
+    "Multichannel deployment",
+    "Advanced analytics and customization"
   ],
   "cons": [
-    "May require learning for non-technical users",
-    "Dependent on third-party integrations",
-    "Limited by the capabilities of no-code"
+    "Limited to chatbot functionalities",
+    "May require technical knowledge for advanced features",
+    "Dependent on third-party integrations"
   ],
   "alternatives": [
-    "ManyChat [manychat.com]",
     "Chatfuel [chatfuel.com]",
+    "ManyChat [manychat.com]",
     "MobileMonkey [mobilemonkey.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "ManyChat",
-      "url": "manychat.com",
-      "reason": "Offers similar chatbot services with a focus on social media."
-    },
-    {
       "name": "Chatfuel",
       "url": "chatfuel.com",
-      "reason": "Provides extensive AI chatbot functionalities."
+      "reason": "Offers easy chatbot building with AI"
+    },
+    {
+      "name": "ManyChat",
+      "url": "manychat.com",
+      "reason": "Focuses on social media bots"
     },
     {
       "name": "MobileMonkey",
       "url": "mobilemonkey.com",
-      "reason": "Features omnichannel chatbot solutions."
+      "reason": "Strong in SMS and Facebook bots"
     }
   ],
   "tags": [
     "chatbots",
     "no-code",
     "customer engagement",
-    "multichannel"
+    "automation"
   ],
   "apiUsed": true,
   "department": "Marketing",
   "function": "Chat & Calls",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2019,
+  "releasedYear": 2020,
   "websiteUrl": "https://typebot.io",
-  "documentationUrl": "https://typebot.io/docs",
+  "documentationUrl": "https://typebot.io/documentation",
   "githubUrl": "https://github.com/baptisteArno/typebot.io",
   "twitterUrl": null,
-  "screenshot": "/screenshots/typebot_io.png",
-  "screenshot_640": "/screenshots/typebot_io_640.png",
-  "screenshot_400": "/screenshots/typebot_io_400.png",
-  "updatedAt": "2025-05-08T09:07:26.928Z"
+  "screenshot": "https://share.appsfor.us/screenshots/typebot_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typebot_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typebot_io_400.png",
+  "updatedAt": "2025-06-15T01:12:36.993Z"
 }

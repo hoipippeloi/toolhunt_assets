@@ -3,16 +3,16 @@
   "name": "Union",
   "title": "union.build",
   "payoff": "Next-gen chain abstraction",
-  "shortDescription": "Union is pioneering the future of blockchain technology with its advanced protocol for subsecond messaging and application-specific intents. It is designed for developers and enterprises looking to integrate various execution environments like EVMs, SVMs, and altVMs seamlessly. An example use case would be a fintech company utilizing Union to ensure real-time, secure transactions across different blockchain platforms.",
+  "shortDescription": "Union is pioneering the future of blockchain technology with its advanced aggregation, interoperability, and chain abstraction solutions. Designed for developers and enterprises, Union enhances the efficiency of blockchain applications by supporting multiple virtual machines including EVMs, SVMs, and altVMs. An example use case is a fintech company utilizing Union's subsecond messaging protocol to ensure rapid, secure cross-chain transactions.",
   "pros": [
-    "Supports multiple VMs",
-    "Real-time processing capabilities",
-    "High interoperability"
+    "Supports multiple execution environments",
+    "Subsecond messaging protocol",
+    "Enhances blockchain interoperability"
   ],
   "cons": [
     "Complex for beginners",
     "Limited user community",
-    "Potential scalability issues"
+    "Focused primarily on blockchain technology"
   ],
   "alternatives": [
     "Ethereum [ethereum.org]",
@@ -23,27 +23,27 @@
     {
       "name": "Ethereum",
       "url": "ethereum.org",
-      "reason": "Widely used blockchain platform"
+      "reason": "Leading smart contract platform"
     },
     {
       "name": "Polkadot",
       "url": "polkadot.network",
-      "reason": "Enables cross-blockchain transfers"
+      "reason": "Inter-chain connectivity focus"
     },
     {
       "name": "Cosmos",
       "url": "cosmos.network",
-      "reason": "Focus on interoperability"
+      "reason": "Modular framework for blockchains"
     }
   ],
   "tags": [
     "blockchain",
     "interoperability",
-    "real-time",
-    "protocol"
+    "messaging protocol",
+    "chain abstraction"
   ],
   "apiUsed": true,
-  "department": "Research & Development",
+  "department": "Information Technology",
   "function": "Backend Services",
   "freeTier": false,
   "openSource": true,
@@ -52,8 +52,8 @@
   "documentationUrl": "https://union.build/docs",
   "githubUrl": "https://github.com/unionlabs/union",
   "twitterUrl": "https://x.com/union_build",
-  "screenshot": "/screenshots/union_build.png",
-  "screenshot_640": "/screenshots/union_build_640.png",
-  "screenshot_400": "/screenshots/union_build_400.png",
-  "updatedAt": "2025-05-12T10:18:28.937Z"
+  "screenshot": "https://share.appsfor.us/screenshots/union_build.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/union_build_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/union_build_400.png",
+  "updatedAt": "2025-06-15T01:13:57.784Z"
 }

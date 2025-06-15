@@ -2,17 +2,17 @@
   "sourceUrl": "https://twoshot.app/",
   "name": "TwoShot",
   "title": "twoshot.app",
-  "payoff": "Inspiration for music producers",
-  "shortDescription": "TwoShot is an AI-powered tool designed for music producers to transform creative ideas into tangible sounds. Users can instruct TwoShot to generate specific music loops or samples, such as 'fast drum & bass jungle-style drum loop' or 'layered flutes inspired by nature'. The platform offers a vast library of over 200,000 samples, ranging from old-school chops to hyper-pop melodies. It's ideal for both amateur and professional producers looking to expedite their creative process.",
+  "payoff": "Infinite inspiration for music producers",
+  "shortDescription": "TwoShot is a cutting-edge platform designed for music producers seeking endless inspiration and powerful tools. Leveraging AI, TwoShot allows users to create, manipulate, and discover unique sounds effortlessly. Whether you're a hobbyist or a professional, you can instruct TwoShot to generate specific sounds or use its vast library of over 200,000 samples. For example, a user might request a 'fast drum & bass loop' and receive a perfectly tailored sound.",
   "pros": [
-    "Extensive sample library with 200,000+ sounds",
-    "AI-powered tools for custom sound creation",
-    "Automated music licensing system"
+    "AI-powered sound creation and manipulation",
+    "Extensive library of over 200,000 samples",
+    "Automated music licensing and sample clearance"
   ],
   "cons": [
     "May require a learning curve for new users",
-    "Dependent on internet connectivity",
-    "Potential limitations in AI-generated sound authenticity"
+    "Dependence on AI might limit unique creativity",
+    "Potential for high subscription costs"
   ],
   "alternatives": [
     "Splice [splice.com]",
@@ -23,28 +23,28 @@
     {
       "name": "Splice",
       "url": "splice.com",
-      "reason": "Offers a vast library of samples and loops"
+      "reason": "Wide range of samples and loops"
     },
     {
       "name": "Loopcloud",
       "url": "loopcloud.com",
-      "reason": "Cloud-based music sample and loop library"
+      "reason": "Offers cloud-based sample management"
     },
     {
-      "name": "LANDR",
-      "url": "landr.com",
-      "reason": "Provides AI mastering and digital distribution"
+      "name": "Sounds.com",
+      "url": "sounds.com",
+      "reason": "Subscription service for loops and samples"
     }
   ],
   "tags": [
-    "AI",
     "music production",
-    "sample library",
-    "sound design"
+    "AI",
+    "sound samples",
+    "licensing"
   ],
-  "apiUsed": false,
+  "apiUsed": true,
   "department": "Creative",
-  "function": "AI & ML",
+  "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2025,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=twoshot&type=repositories",
   "twitterUrl": "https://twitter.com/twoshotapp",
-  "screenshot": "/screenshots/twoshot_app.png",
-  "screenshot_640": "/screenshots/twoshot_app_640.png",
-  "screenshot_400": "/screenshots/twoshot_app_400.png",
-  "updatedAt": "2025-05-22T03:40:43.091Z"
+  "screenshot": "https://share.appsfor.us/screenshots/twoshot_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/twoshot_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/twoshot_app_400.png",
+  "updatedAt": "2025-06-15T01:12:14.487Z"
 }
