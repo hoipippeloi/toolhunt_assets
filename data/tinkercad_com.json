@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tinkercad.com/",
+  "name": "Tinkercad",
+  "title": "tinkercad.com",
+  "payoff": "Free 3D design and coding web app",
+  "shortDescription": "Tinkercad is a free, user-friendly web application for 3D design, electronics, and coding, serving over 75 million users globally. It's designed for educators and students, enhancing STEM education through project-based learning. Users can start creating instantly without any downloads, making it ideal for classroom integration. Example use cases include designing 3D models, electronic circuits, and coding projects to bring designs to life.",
+  "pros": [
+    "No downloads required",
+    "Ad-free and kidSAFE-certified",
+    "Supports hands-on STEM education"
+  ],
+  "cons": [
+    "Limited to basic 3D designs",
+    "No advanced professional tools",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "SketchUp [sketchup.com]",
+    "Fusion 360 [autodesk.com/products/fusion-360]",
+    "Blender [blender.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SketchUp",
+      "url": "sketchup.com",
+      "reason": "Offers 3D modeling with a freemium model"
+    },
+    {
+      "name": "Fusion 360",
+      "url": "autodesk.com/products/fusion-360",
+      "reason": "Professional CAD/CAM tool with free options"
+    },
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Open source and comprehensive 3D creation suite"
+    }
+  ],
+  "tags": [
+    "3D design",
+    "coding",
+    "education",
+    "electronics"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://tinkercad.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tinkercad&type=repositories",
+  "twitterUrl": "https://www.twitter.com/tinkercad",
+  "screenshot": "https://share.appsfor.us/screenshots/tinkercad_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tinkercad_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tinkercad_com_400.png",
+  "updatedAt": "2025-06-16T06:22:33.032Z"
+}

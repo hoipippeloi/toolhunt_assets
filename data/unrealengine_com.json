@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://unrealengine.com/en-US",
+  "name": "Unreal Engine",
+  "title": "unrealengine.com",
+  "payoff": "Powerful real-time 3D creation tool",
+  "shortDescription": "Unreal Engine is a premier software for developers looking to create immersive 3D experiences. Whether you're building games, simulations, or broadcast events, Unreal Engine provides the tools necessary for high-quality production. It's designed for a range of creators from indie game developers to large studios, offering access to source code and a supportive community.",
+  "pros": [
+    "Highly advanced 3D creation capabilities",
+    "Support for all major platforms and features",
+    "Strong community and developer support"
+  ],
+  "cons": [
+    "Steep learning curve for beginners",
+    "Resource-intensive, requiring powerful hardware",
+    "Royalty fees on commercial products after certain revenue thresholds"
+  ],
+  "alternatives": [
+    "Unity [unity.com]",
+    "Godot Engine [godotengine.org]",
+    "CryEngine [cryengine.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Unity",
+      "url": "unity.com",
+      "reason": "Popular for game dev with a flexible engine"
+    },
+    {
+      "name": "Godot Engine",
+      "url": "godotengine.org",
+      "reason": "Open source and versatile for various platforms"
+    },
+    {
+      "name": "CryEngine",
+      "url": "cryengine.com",
+      "reason": "Strong in graphics, good for demanding 3D projects"
+    }
+  ],
+  "tags": [
+    "3D modeling",
+    "game development",
+    "real-time rendering",
+    "interactive content"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1998,
+  "websiteUrl": "https://unrealengine.com/en-US",
+  "documentationUrl": "https://docs.unrealengine.com/",
+  "githubUrl": "https://github.com/search?q=unreal%20engine&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/unrealengine_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/unrealengine_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/unrealengine_com_400.png",
+  "updatedAt": "2025-06-16T06:23:08.978Z"
+}
