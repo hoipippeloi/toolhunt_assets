@@ -2,45 +2,45 @@
   "sourceUrl": "https://wakapi.dev/",
   "name": "Wakapi",
   "title": "wakapi.dev",
-  "payoff": "Track coding time efficiently",
-  "shortDescription": "Wakapi is an open-source tool designed to help developers monitor the time spent on various coding projects across different programming languages. It's ideal for statistics enthusiasts and provides insights into coding habits. Users can benefit from detailed statistics, visual plots, and even public leaderboards to compare progress.",
+  "payoff": "Track your coding time efficiently",
+  "shortDescription": "Wakapi is an open-source tool designed for developers to monitor the time spent on coding across various projects and programming languages. It's ideal for statistics enthusiasts and provides insights through fancy statistics and plots. Users can benefit from features like public leaderboards, cool badges for readmes, and weekly email reports.",
   "pros": [
     "100% free and open-source",
-    "Detailed statistics and visual plots",
+    "Intuitive REST API for integration",
     "Compatible with Wakatime"
   ],
   "cons": [
-    "Limited to coding time tracking",
-    "No direct support for non-coding activities",
-    "Self-hosted setup might be complex for some users"
+    "Limited to coding activities",
+    "Self-hosted setup required",
+    "No direct support for non-developer users"
   ],
   "alternatives": [
-    "Wakatime [wakatime.com]",
-    "Toggl Track [toggl.com]",
+    "WakaTime [wakatime.com]",
+    "Code::Stats [codestats.net]",
     "RescueTime [rescuetime.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Wakatime",
+      "name": "WakaTime",
       "url": "wakatime.com",
-      "reason": "Offers comprehensive developer metrics"
+      "reason": "Offers comprehensive dev time tracking"
     },
     {
       "name": "Toggl Track",
-      "url": "toggl.com",
-      "reason": "Features time tracking across tasks"
+      "url": "toggl.com/track",
+      "reason": "Widely used for time tracking across tasks"
     },
     {
-      "name": "RescueTime",
-      "url": "rescuetime.com",
-      "reason": "Provides automated time tracking"
+      "name": "TimeCamp",
+      "url": "timecamp.com",
+      "reason": "Provides detailed reports and invoicing"
     }
   ],
   "tags": [
-    "time tracking",
-    "productivity",
     "open source",
-    "developer tools"
+    "time tracking",
+    "developer tools",
+    "productivity"
   ],
   "apiUsed": true,
   "department": "Development",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://wakapi.dev/docs",
   "githubUrl": "https://github.com/muety/wakapi#%EF%B8%8F-how-to-use",
   "twitterUrl": null,
-  "screenshot": "/screenshots/wakapi_dev.png",
-  "screenshot_640": "/screenshots/wakapi_dev_640.png",
-  "screenshot_400": "/screenshots/wakapi_dev_400.png",
-  "updatedAt": "2025-05-10T04:43:48.229Z"
+  "screenshot": "https://share.appsfor.us/screenshots/wakapi_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wakapi_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wakapi_dev_400.png",
+  "updatedAt": "2025-06-16T01:08:19.169Z"
 }

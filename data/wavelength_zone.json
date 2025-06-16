@@ -3,47 +3,47 @@
   "name": "Wavelength",
   "title": "wavelength.zone",
   "payoff": "A mind-reading party game",
-  "shortDescription": "Wavelength is a party game that challenges players to sync up their thinking. Participants guess where a clue fits on a spectrum, such as 'hot or cold' or 'soft or hard'. It's designed for group entertainment, making it ideal for social gatherings or game nights. Originally a tabletop game, it features a physical component that enhances the gaming experience.",
+  "shortDescription": "Wavelength is a party game that challenges players to sync up their thinking on various spectrums like 'hot or cold' and 'soft or hard'. It's designed for groups looking for a fun and engaging way to spend time together, making it ideal for game nights. Originally a tabletop game, it includes a physical device that sets up in seconds, enhancing the gaming experience.",
   "pros": [
     "Enhances social interactions",
     "Quick setup and easy to play",
-    "Physical component adds to the fun"
+    "Engaging and fun for groups"
   ],
   "cons": [
     "Requires multiple players",
-    "Limited replay value",
-    "Physical game may not be portable"
+    "Physical setup might not suit all occasions",
+    "Limited replay value with the same group"
   ],
   "alternatives": [
-    "Codenames [czechgames.com]",
+    "Codenames [codenamesgame.com]",
     "Exploding Kittens [explodingkittens.com]",
     "Cards Against Humanity [cardsagainsthumanity.com]"
   ],
   "aiSuggestedAlternatives": [
     {
       "name": "Codenames",
-      "url": "czechgames.com",
+      "url": "codenamesgame.com",
       "reason": "Popular word-based party game"
     },
     {
       "name": "Exploding Kittens",
       "url": "explodingkittens.com",
-      "reason": "Fast-paced card game with unique theme"
+      "reason": "Fast-paced and humorous card game"
     },
     {
       "name": "Cards Against Humanity",
       "url": "cardsagainsthumanity.com",
-      "reason": "Card game for humorous and mature content"
+      "reason": "Card game for mature audiences"
     }
   ],
   "tags": [
     "party game",
     "board game",
-    "social gaming",
-    "entertainment"
+    "group entertainment",
+    "mind-reading game"
   ],
   "apiUsed": false,
-  "department": "Creative",
+  "department": "Personal",
   "function": "User Engagement",
   "freeTier": false,
   "openSource": false,
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=wavelength&type=repositories",
   "twitterUrl": "https://twitter.com/cmyk_games",
-  "screenshot": "/screenshots/wavelength_zone.png",
-  "screenshot_640": "/screenshots/wavelength_zone_640.png",
-  "screenshot_400": "/screenshots/wavelength_zone_400.png",
-  "updatedAt": "2025-05-22T03:41:10.847Z"
+  "screenshot": "https://share.appsfor.us/screenshots/wavelength_zone.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wavelength_zone_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wavelength_zone_400.png",
+  "updatedAt": "2025-06-16T01:09:32.539Z"
 }

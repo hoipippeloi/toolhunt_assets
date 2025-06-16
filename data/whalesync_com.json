@@ -3,15 +3,15 @@
   "name": "Whalesync",
   "title": "whalesync.com",
   "payoff": "Sync content from a spreadsheet",
-  "shortDescription": "Whalesync allows users to update their website, CRM, or app directly from a spreadsheet like Airtable, Notion, or Google Sheets. It is designed for businesses of all sizes, enabling seamless two-way synchronization without needing technical skills. For example, marketing teams can create and update pages using just their spreadsheets, seeing changes reflected in real-time across platforms.",
+  "shortDescription": "Whalesync allows users to update their website, CRM, or app content directly from a spreadsheet like Airtable, Notion, or Google Sheets. It's designed for businesses of all sizes, from startups to enterprises, enabling them to manage data through two-way synchronization without needing technical skills. Example use case: A marketing team updates promotional content on their website by simply editing a linked spreadsheet.",
   "pros": [
-    "Real-time two-way data sync",
-    "No technical skills required",
-    "Integrates with popular tools like Airtable and Notion"
+    "Real-time two-way data synchronization",
+    "No technical skills required for setup",
+    "Supports popular platforms like Airtable and Notion"
   ],
   "cons": [
     "Dependent on third-party spreadsheet tools",
-    "Potential issues with large data sets",
+    "Potential issues with data consistency",
     "Limited customization options"
   ],
   "alternatives": [
@@ -23,17 +23,17 @@
     {
       "name": "Zapier",
       "url": "zapier.com",
-      "reason": "Offers broader automation with many apps"
-    },
-    {
-      "name": "Airtable",
-      "url": "airtable.com",
-      "reason": "Combines database and spreadsheet functions"
+      "reason": "Offers broader automation with various apps"
     },
     {
       "name": "Integromat",
       "url": "integromat.com",
       "reason": "Visual approach to app integration"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database and spreadsheet functions"
     }
   ],
   "tags": [
@@ -47,13 +47,13 @@
   "function": "Data Sync",
   "freeTier": true,
   "openSource": false,
-  "releasedYear": 2021,
+  "releasedYear": 2020,
   "websiteUrl": "https://whalesync.com/",
   "documentationUrl": "https://whalesync.com/docs",
   "githubUrl": "https://github.com/search?q=whalesync&type=repositories",
   "twitterUrl": "https://twitter.com/WhalesyncData",
-  "screenshot": "/screenshots/whalesync_com.png",
-  "screenshot_640": "/screenshots/whalesync_com_640.png",
-  "screenshot_400": "/screenshots/whalesync_com_400.png",
-  "updatedAt": "2025-05-11T04:44:13.687Z"
+  "screenshot": "https://share.appsfor.us/screenshots/whalesync_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/whalesync_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/whalesync_com_400.png",
+  "updatedAt": "2025-06-16T01:10:12.276Z"
 }
