@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://autodraw.com/",
+  "name": "AutoDraw",
+  "title": "autodraw.com",
+  "payoff": "Enhance drawings with AI assistance",
+  "shortDescription": "AutoDraw is a web-based tool that leverages machine learning to help users quickly create neat drawings. It's ideal for individuals who lack drawing skills but want to produce clean and professional-looking illustrations. Users can start with a rough sketch, and AutoDraw suggests refined drawings to replace it, making it perfect for creating quick visuals for presentations, educational content, or personal use.",
+  "pros": [
+    "AI-powered drawing suggestions",
+    "Easy to use interface",
+    "Quick conversion from sketches to polished graphics"
+  ],
+  "cons": [
+    "Limited to simple drawings",
+    "No advanced editing tools",
+    "Dependent on predefined drawing suggestions"
+  ],
+  "alternatives": [
+    "Sketchpad [sketch.io]",
+    "Adobe Illustrator [adobe.com/products/illustrator.html]",
+    "CorelDRAW [coreldraw.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sketchpad",
+      "url": "sketch.io",
+      "reason": "Offers freehand drawing with various tools"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com/products/illustrator.html",
+      "reason": "Professional vector graphics editor"
+    },
+    {
+      "name": "CorelDRAW",
+      "url": "coreldraw.com",
+      "reason": "Comprehensive graphic design suite"
+    }
+  ],
+  "tags": [
+    "AI",
+    "design tools",
+    "drawing",
+    "creative"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://autodraw.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=autodraw&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/autodraw_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/autodraw_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/autodraw_com_400.png",
+  "updatedAt": "2025-06-16T04:30:36.760Z"
+}

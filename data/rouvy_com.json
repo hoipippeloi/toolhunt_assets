@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rouvy.com/",
+  "name": "ROUVY",
+  "title": "rouvy.com",
+  "payoff": "Realistic indoor cycling app",
+  "shortDescription": "ROUVY is an indoor cycling app that offers a realistic cycling experience by allowing users to ride, race, and train on virtual routes worldwide. It's designed for cycling enthusiasts who want to maintain their training routine indoors. Users can explore routes on six continents and integrate with leading fitness-tracking platforms like Strava and Garmin Connect. An ideal use case is for cyclists looking to train for specific events or maintain fitness in off-seasons without leaving home.",
+  "pros": [
+    "Realistic virtual cycling routes",
+    "Integration with major fitness platforms",
+    "Available on multiple devices"
+  ],
+  "cons": [
+    "Subscription required for full access",
+    "Dependent on internet connection",
+    "Limited to cycling training"
+  ],
+  "alternatives": [
+    "Zwift [zwift.com]",
+    "TrainerRoad [trainerroad.com]",
+    "Peloton [onepeloton.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zwift",
+      "url": "zwift.com",
+      "reason": "Offers interactive cycling races"
+    },
+    {
+      "name": "TrainerRoad",
+      "url": "trainerroad.com",
+      "reason": "Focuses on structured training plans"
+    },
+    {
+      "name": "Peloton",
+      "url": "onepeloton.com",
+      "reason": "Includes live classes and community"
+    }
+  ],
+  "tags": [
+    "fitness",
+    "virtual cycling",
+    "training app",
+    "indoor cycling"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://rouvy.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=rouvy&type=repositories",
+  "twitterUrl": "https://twitter.com/en/privacy",
+  "screenshot": "https://share.appsfor.us/screenshots/rouvy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rouvy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rouvy_com_400.png",
+  "updatedAt": "2025-06-16T04:27:55.327Z"
+}

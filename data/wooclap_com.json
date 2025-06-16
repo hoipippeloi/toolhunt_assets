@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wooclap.com/",
+  "name": "Wooclap",
+  "title": "wooclap.com",
+  "payoff": "Engage with interactive presentations",
+  "shortDescription": "Wooclap is an interactive questioning platform designed for educators to enhance classroom engagement. It allows users to create engaging presentations with over 20 different question types, integrating seamlessly with tools like Moodle, PowerPoint, and Microsoft Teams. Ideal for higher education and K-12, Wooclap is used in classrooms to facilitate peer learning, game-based learning, and real-time assessments.",
+  "pros": [
+    "Supports 20+ question types for varied engagement",
+    "Seamless integration with popular educational tools",
+    "GDPR compliant ensuring data privacy"
+  ],
+  "cons": [
+    "Limited to educational use cases",
+    "May require learning curve for new users",
+    "Dependent on external platforms for full functionality"
+  ],
+  "alternatives": [
+    "Kahoot [kahoot.com]",
+    "Poll Everywhere [polleverywhere.com]",
+    "Socrative [socrative.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot",
+      "url": "kahoot.com",
+      "reason": "Game-based learning with real-time feedback"
+    },
+    {
+      "name": "Poll Everywhere",
+      "url": "polleverywhere.com",
+      "reason": "Offers live audience polling"
+    },
+    {
+      "name": "Socrative",
+      "url": "socrative.com",
+      "reason": "Focuses on classroom engagement tools"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "interactive presentations",
+    "educational technology",
+    "classroom engagement"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://wooclap.com/",
+  "documentationUrl": "https://docs.wooclap.com/en/",
+  "githubUrl": "https://github.com/search?q=wooclap&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/wooclap_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wooclap_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wooclap_com_400.png",
+  "updatedAt": "2025-06-16T04:30:58.523Z"
+}

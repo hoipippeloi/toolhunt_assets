@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gigasheet.com/",
+  "name": "Gigasheet",
+  "title": "gigasheet.com",
+  "payoff": "Healthcare data, spreadsheet easy",
+  "shortDescription": "Gigasheet simplifies the handling of massive healthcare price transparency datasets, making them accessible and manageable in a spreadsheet-style interface. It is designed for healthcare providers, insurers, and MedTech companies to enhance contract negotiations, network development, and pricing strategies. Users can explore, compare, and act on data without the constraints of pre-built dashboards or opaque databases.",
+  "pros": [
+    "Easy to use with spreadsheet-like interface",
+    "Direct access to extensive healthcare datasets",
+    "Enables dynamic data product delivery"
+  ],
+  "cons": [
+    "Limited to healthcare industry applications",
+    "May require basic data handling skills",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Google Sheets [google.com/sheets]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Advanced visualization capabilities"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Integration with Microsoft products"
+    },
+    {
+      "name": "Google Sheets",
+      "url": "google.com/sheets",
+      "reason": "Free and easy to use for collaboration"
+    }
+  ],
+  "tags": [
+    "data analysis",
+    "healthcare",
+    "price transparency",
+    "spreadsheet"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://gigasheet.com/",
+  "documentationUrl": "https://gigasheet.com/docs",
+  "githubUrl": "https://github.com/search?q=gigasheet&type=repositories",
+  "twitterUrl": "https://twitter.com/gigasheet",
+  "screenshot": "https://share.appsfor.us/screenshots/gigasheet_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gigasheet_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gigasheet_com_400.png",
+  "updatedAt": "2025-06-16T04:31:32.454Z"
+}

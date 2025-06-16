@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://helloclue.com/",
+  "name": "Clue",
+  "title": "helloclue.com",
+  "payoff": "Decode your menstrual cycle",
+  "shortDescription": "Clue is a menstrual and reproductive health app designed to help users understand their body, periods, and ovulation. It offers insights into overall health and fertility, supporting those trying to conceive, managing perimenopause, or tracking menstrual symptoms. Clue serves as a companion through various life stages, providing science-based, data-driven insights.",
+  "pros": [
+    "Science-based, data-driven insights",
+    "Strict data privacy policies",
+    "Supports multiple reproductive stages"
+  ],
+  "cons": [
+    "Limited to reproductive health",
+    "Potential data privacy concerns",
+    "Requires continuous data input"
+  ],
+  "alternatives": [
+    "Flo Health [flo.health]",
+    "Natural Cycles [naturalcycles.com]",
+    "Eve by Glow [glowing.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Flo Health",
+      "url": "flo.health",
+      "reason": "Offers similar period and fertility tracking"
+    },
+    {
+      "name": "Natural Cycles",
+      "url": "naturalcycles.com",
+      "reason": "Focuses on natural birth control methods"
+    },
+    {
+      "name": "Eve by Glow",
+      "url": "glowing.com",
+      "reason": "Includes community and health insights"
+    }
+  ],
+  "tags": [
+    "health tracking",
+    "fertility monitoring",
+    "menstrual cycle tracking"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://helloclue.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=clue&type=repositories",
+  "twitterUrl": "http://www.twitter.com/clue",
+  "screenshot": "https://share.appsfor.us/screenshots/helloclue_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/helloclue_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/helloclue_com_400.png",
+  "updatedAt": "2025-06-16T04:29:02.594Z"
+}

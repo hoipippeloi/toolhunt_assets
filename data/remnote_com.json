@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://remnote.com/",
+  "name": "RemNote",
+  "title": "remnote.com",
+  "payoff": "All-in-One Tool for Learning",
+  "shortDescription": "RemNote is a versatile tool designed for students and learners to enhance their study efficiency. It integrates features like flashcards, spaced repetition, and AI-powered summaries to streamline learning processes. Users can create flashcards directly from notes or images and even annotate PDFs. The tool is ideal for students preparing for exams, allowing offline access across devices and offering exclusive study materials.",
+  "pros": [
+    "Integrates flashcards with note-taking",
+    "Supports spaced repetition for effective learning",
+    "Works offline across multiple devices"
+  ],
+  "cons": [
+    "May have a learning curve for new users",
+    "Limited customization options",
+    "Dependent on digital format for all features"
+  ],
+  "alternatives": [
+    "Anki [ankiweb.net]",
+    "Quizlet [quizlet.com]",
+    "Cram [cram.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Anki",
+      "url": "ankiweb.net",
+      "reason": "Offers customizable flashcards and spacing algorithms"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Provides various study modes and games"
+    },
+    {
+      "name": "Cram",
+      "url": "cram.com",
+      "reason": "Simple flashcard creation and testing"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Study Tools",
+    "Note-Taking",
+    "Flashcards"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://remnote.com/",
+  "documentationUrl": "https://help.remnote.com/en/",
+  "githubUrl": "https://github.com/search?q=remnote&type=repositories",
+  "twitterUrl": "https://twitter.com/remnote",
+  "screenshot": "https://share.appsfor.us/screenshots/remnote_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/remnote_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/remnote_com_400.png",
+  "updatedAt": "2025-06-16T04:30:09.690Z"
+}
