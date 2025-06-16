@@ -3,21 +3,21 @@
   "name": "Winamp Player",
   "title": "winamp.com",
   "payoff": "Craft your personalized listening experience",
-  "shortDescription": "Winamp Player is a versatile media player that allows users to manage and play their locally stored audio content. It supports various playback modes including by artist, album, playlist, and folder. Users can customize their listening journey by configuring the player settings and designing custom skins. This tool is ideal for music enthusiasts and creators who want to personalize their music experience and express their creativity through unique visuals.",
+  "shortDescription": "Winamp Player is a versatile audio player that allows users to manage and listen to locally stored content. It supports various playback modes including artist, album, playlist, and folder. Users can customize their listening journey by configuring the player settings and designing custom skins. Ideal for music enthusiasts and creators, Winamp offers a platform to express individuality and enhance the music experience.",
   "pros": [
-    "Customizable listening experience",
+    "Customizable user interface with skins",
     "Supports various audio file types",
-    "Ability to design custom skins"
+    "Personalized playback settings"
   ],
   "cons": [
     "Limited to locally stored content",
     "No clear integration with streaming services",
-    "May require technical skill to fully customize"
+    "May require technical knowledge for customization"
   ],
   "alternatives": [
     "VLC Media Player [videolan.org]",
     "Foobar2000 [foobar2000.org]",
-    "MusicBee [getmusicbee.com]"
+    "iTunes [apple.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -31,16 +31,16 @@
       "reason": "Highly customizable and lightweight"
     },
     {
-      "name": "MusicBee",
-      "url": "getmusicbee.com",
-      "reason": "Great for managing large music libraries"
+      "name": "iTunes",
+      "url": "apple.com",
+      "reason": "Integrates with Apple ecosystem"
     }
   ],
   "tags": [
-    "media player",
-    "audio management",
+    "audio player",
+    "music management",
     "customization",
-    "music"
+    "media playback"
   ],
   "apiUsed": false,
   "department": "Creative",
@@ -52,8 +52,8 @@
   "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=winamp%20player&type=repositories",
   "twitterUrl": "https://twitter.com/winamp",
-  "screenshot": "/screenshots/winamp_com.png",
-  "screenshot_640": "/screenshots/winamp_com_640.png",
-  "screenshot_400": "/screenshots/winamp_com_400.png",
-  "updatedAt": "2025-05-18T01:12:34.463Z"
+  "screenshot": "https://share.appsfor.us/screenshots/winamp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/winamp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/winamp_com_400.png",
+  "updatedAt": "2025-06-16T03:19:25.426Z"
 }

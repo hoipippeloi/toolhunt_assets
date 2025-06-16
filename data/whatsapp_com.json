@@ -3,16 +3,16 @@
   "name": "WhatsApp",
   "title": "whatsapp.com",
   "payoff": "Free Private Messaging and Calling",
-  "shortDescription": "WhatsApp offers secure, reliable messaging and calling for free*, available globally. It allows users to communicate privately with end-to-end encryption, ensuring that only the communicating users can access messages. Ideal for personal use, staying in touch with family and friends, or managing business communications through WhatsApp Business. From individual chats to group conversations and video calls, WhatsApp facilitates easy and private communication across borders.",
+  "shortDescription": "WhatsApp provides secure and reliable messaging and calling services globally. It allows users to communicate privately with end-to-end encryption, ensuring that only the communicating users can access the messages. Ideal for personal use and business communications, WhatsApp facilitates group chats, voice, and video calls. An example use case includes coordinating events or daily communications among friends, family, or teams.",
   "pros": [
-    "End-to-end encryption for privacy",
-    "Free global messaging and calling",
-    "Supports multimedia and group chats"
+    "End-to-end encryption for security",
+    "Free messaging and calling globally",
+    "Supports multimedia and group communication"
   ],
   "cons": [
     "Data charges may apply",
     "Dependent on internet connectivity",
-    "Potential privacy concerns from parent company"
+    "Limited to smartphone users"
   ],
   "alternatives": [
     "Telegram [telegram.org]",
@@ -23,37 +23,37 @@
     {
       "name": "Telegram",
       "url": "telegram.org",
-      "reason": "Offers similar messaging and security features"
+      "reason": "Offers cloud-based, encrypted messaging"
     },
     {
       "name": "Signal",
       "url": "signal.org",
-      "reason": "Focuses on privacy and open-source"
+      "reason": "Focuses on privacy with strong encryption"
     },
     {
       "name": "Viber",
       "url": "viber.com",
-      "reason": "Provides messaging and call services"
+      "reason": "Provides similar messaging and calling features"
     }
   ],
   "tags": [
     "messaging",
     "communication",
     "privacy",
-    "video calls"
+    "encryption"
   ],
-  "apiUsed": true,
-  "department": "Customer Service",
-  "function": "Chat & Calls",
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Messaging",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2009,
   "websiteUrl": "https://whatsapp.com/",
-  "documentationUrl": "https://www.whatsapp.com/faq/",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=whatsapp&type=repositories",
   "twitterUrl": "https://x.com/whatsapp",
-  "screenshot": "/screenshots/whatsapp_com.png",
-  "screenshot_640": "/screenshots/whatsapp_com_640.png",
-  "screenshot_400": "/screenshots/whatsapp_com_400.png",
-  "updatedAt": "2025-05-13T06:24:05.755Z"
+  "screenshot": "https://share.appsfor.us/screenshots/whatsapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/whatsapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/whatsapp_com_400.png",
+  "updatedAt": "2025-06-16T03:19:03.361Z"
 }

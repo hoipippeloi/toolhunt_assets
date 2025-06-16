@@ -3,16 +3,16 @@
   "name": "WorkOS",
   "title": "workos.com",
   "payoff": "Your app, Enterprise Ready.",
-  "shortDescription": "WorkOS is a powerful solution designed to help developers make their applications enterprise-ready with minimal effort. It offers features like single sign-on, directory sync, and multi-factor authentication, enabling integration with various enterprise services. Ideal for developers aiming to cater to large businesses, WorkOS simplifies the integration of complex enterprise features, allowing for quicker adaptation to the demanding corporate IT environment.",
+  "shortDescription": "WorkOS is a developer-first platform that enables apps to quickly integrate enterprise features such as single sign-on, directory sync, and multi-factor authentication. Designed for developers, it simplifies the process of making applications enterprise-ready with minimal coding, targeting software developers and businesses aiming to scale into larger corporate environments. An example use case is a SaaS provider looking to offer enterprise-grade security features to their clients efficiently.",
   "pros": [
-    "Quick integration with enterprise features",
+    "Quick integration of enterprise features",
     "Supports a wide range of identity providers",
     "Developer-friendly APIs and SDKs"
   ],
   "cons": [
-    "May be overkill for smaller applications",
-    "Potentially complex pricing structure",
-    "Limited customization options for certain features"
+    "May be complex for non-developers",
+    "Potential dependency on a third-party service",
+    "Limited customization in certain areas"
   ],
   "alternatives": [
     "Auth0 [auth0.com]",
@@ -28,32 +28,32 @@
     {
       "name": "Okta",
       "url": "okta.com",
-      "reason": "Widely used for enterprise security"
+      "reason": "Widely used for enterprise identity solutions"
     },
     {
-      "name": "OneLogin",
-      "url": "onelogin.com",
-      "reason": "Focuses on unified access management"
+      "name": "Ping Identity",
+      "url": "pingidentity.com",
+      "reason": "Strong focus on secure identity management"
     }
   ],
   "tags": [
     "Authentication",
     "Enterprise Integration",
     "Developer Tools",
-    "SSO"
+    "SaaS"
   ],
   "apiUsed": true,
   "department": "Information Technology",
   "function": "Authentication",
-  "freeTier": false,
+  "freeTier": true,
   "openSource": true,
   "releasedYear": 2020,
   "websiteUrl": "https://workos.com/",
   "documentationUrl": "https://workos.com/docs",
   "githubUrl": "https://github.com/workos",
   "twitterUrl": "https://twitter.com/workos",
-  "screenshot": "/screenshots/workos_com.png",
-  "screenshot_640": "/screenshots/workos_com_640.png",
-  "screenshot_400": "/screenshots/workos_com_400.png",
-  "updatedAt": "2025-05-17T09:09:07.991Z"
+  "screenshot": "https://share.appsfor.us/screenshots/workos_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/workos_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/workos_com_400.png",
+  "updatedAt": "2025-06-16T03:21:35.563Z"
 }
