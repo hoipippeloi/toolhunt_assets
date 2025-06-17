@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bigo.tv/",
+  "name": "BIGO LIVE",
+  "title": "bigo.tv",
+  "payoff": "Live Stream, Live Games, Chat Rooms",
+  "shortDescription": "BIGO LIVE is a streaming platform that offers live broadcasting, gaming, and chat rooms. It caters to a global audience, providing a space for real-time interaction, entertainment, and community building. Users can watch top streams, participate in game lives, and engage in various chat rooms. An example use case is for gamers who stream their gameplay to interact with fans and build a following.",
+  "pros": [
+    "Real-time user interaction",
+    "Diverse content offerings",
+    "Global community engagement"
+  ],
+  "cons": [
+    "Potential for inappropriate content",
+    "Data privacy concerns",
+    "Dependence on internet connectivity"
+  ],
+  "alternatives": [
+    "Twitch [twitch.tv]",
+    "YouTube Live [youtube.com]",
+    "Facebook Live [facebook.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Twitch",
+      "url": "twitch.tv",
+      "reason": "Popular platform for game streaming"
+    },
+    {
+      "name": "YouTube Live",
+      "url": "youtube.com",
+      "reason": "Wide-reaching video streaming service"
+    },
+    {
+      "name": "Facebook Live",
+      "url": "facebook.com",
+      "reason": "Integrates with social media experience"
+    }
+  ],
+  "tags": [
+    "live streaming",
+    "video games",
+    "social networking",
+    "entertainment"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://bigo.tv/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=bigo%20live&type=repositories",
+  "twitterUrl": "https://twitter.com/BIGOLIVEapp",
+  "screenshot": "https://share.appsfor.us/screenshots/bigo_tv.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bigo_tv_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bigo_tv_400.png",
+  "updatedAt": "2025-06-17T06:22:50.886Z"
+}

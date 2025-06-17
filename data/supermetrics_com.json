@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://supermetrics.com/",
+  "name": "Supermetrics",
+  "title": "supermetrics.com",
+  "payoff": "Optimize marketing on your terms",
+  "shortDescription": "Supermetrics streamlines data integration from various marketing platforms into a single repository, making it easier for marketers to analyze, visualize, and report. Suitable for agencies and brands, it supports data from over 150 sources like Google Ads and Facebook. An example use case is a marketing agency consolidating ad spend data across multiple platforms to optimize campaigns.",
+  "pros": [
+    "Supports over 150 data sources",
+    "Seamless integration with popular BI tools",
+    "Robust data management features"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Potentially expensive for small businesses",
+    "Limited customization in data handling"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "PowerBI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Advanced visualization capabilities"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong BI with deep data modeling"
+    },
+    {
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products"
+    }
+  ],
+  "tags": [
+    "marketing intelligence",
+    "data integration",
+    "analytics",
+    "reporting"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://supermetrics.com/",
+  "documentationUrl": "https://supermetrics.com/docs",
+  "githubUrl": "https://github.com/search?q=supermetrics&type=repositories",
+  "twitterUrl": "https://www.openx.com/legal/privacy-policy/",
+  "screenshot": "https://share.appsfor.us/screenshots/supermetrics_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/supermetrics_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/supermetrics_com_400.png",
+  "updatedAt": "2025-06-17T06:22:20.581Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://streamyard.com/",
+  "name": "StreamYard",
+  "title": "streamyard.com",
+  "payoff": "Easy live stream and recording",
+  "shortDescription": "StreamYard is a browser-based live streaming and recording studio, designed for content creators and businesses. It allows users to broadcast live to platforms like Facebook, YouTube, and more, or record studio-quality content. Features include multistreaming, audience engagement, and custom branding without needing design skills. Ideal for podcasts, webinars, and interactive shows.",
+  "pros": [
+    "Multistream to various platforms simultaneously",
+    "No downloads required for guests to join",
+    "Custom branding options available"
+  ],
+  "cons": [
+    "Dependent on internet connection quality",
+    "Limited editing features",
+    "Potential privacy concerns with live streaming"
+  ],
+  "alternatives": [
+    "OBS Studio [obsproject.com]",
+    "Zoom [zoom.us]",
+    "Restream [restream.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OBS Studio",
+      "url": "obsproject.com",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "Zoom",
+      "url": "zoom.us",
+      "reason": "Widely used for video conferencing"
+    },
+    {
+      "name": "Restream",
+      "url": "restream.io",
+      "reason": "Supports multistreaming to 30+ platforms"
+    }
+  ],
+  "tags": [
+    "live streaming",
+    "video recording",
+    "content creation",
+    "multistreaming"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://streamyard.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=streamyard&type=repositories",
+  "twitterUrl": "https://twitter.com/streamyardapp",
+  "screenshot": "https://share.appsfor.us/screenshots/streamyard_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/streamyard_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/streamyard_com_400.png",
+  "updatedAt": "2025-06-17T06:23:30.145Z"
+}

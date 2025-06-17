@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://talkwalker.com/",
+  "name": "Talkwalker",
+  "title": "talkwalker.com",
+  "payoff": "Leading consumer intelligence platform",
+  "shortDescription": "Talkwalker is a powerful consumer intelligence platform that leverages advanced analytics to help brands understand and engage with their customers. It provides tools for social listening, media monitoring, and market analysis, making it ideal for marketers, PR professionals, and brand managers. Example use case: A brand uses Talkwalker to monitor customer sentiment and track competitor activities to adjust their marketing strategies effectively.",
+  "pros": [
+    "Comprehensive social listening capabilities",
+    "Advanced analytics for market insights",
+    "Supports multiple languages and regions"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Brandwatch [brandwatch.com]",
+    "Meltwater [meltwater.com]",
+    "Hootsuite [hootsuite.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Brandwatch",
+      "url": "brandwatch.com",
+      "reason": "Offers similar social media analytics."
+    },
+    {
+      "name": "Meltwater",
+      "url": "meltwater.com",
+      "reason": "Focuses on media monitoring and PR."
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Provides broad social media management."
+    }
+  ],
+  "tags": [
+    "consumer intelligence",
+    "social listening",
+    "media monitoring",
+    "market analysis"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://talkwalker.com/",
+  "documentationUrl": "https://talkwalker.com/documentation",
+  "githubUrl": "https://github.com/search?q=talkwalker&type=repositories",
+  "twitterUrl": "https://twitter.com/Talkwalker",
+  "screenshot": "https://share.appsfor.us/screenshots/talkwalker_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/talkwalker_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/talkwalker_com_400.png",
+  "updatedAt": "2025-06-17T06:23:54.788Z"
+}
