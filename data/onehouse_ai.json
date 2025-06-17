@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://onehouse.ai/",
+  "name": "Onehouse",
+  "title": "onehouse.ai",
+  "payoff": "Universal Data Lakehouse Platform",
+  "shortDescription": "Onehouse offers a comprehensive data lakehouse solution, designed to enhance data management and performance across various platforms. It integrates with popular cloud services like Databricks, Google BigQuery, and Amazon Redshift, offering features like automated table maintenance and intelligent workload optimization. Ideal for large-scale data operations, Onehouse is used by businesses to streamline data workflows, enhance real-time analytics, and support machine learning applications.",
+  "pros": [
+    "Supports all major open table formats",
+    "Automated performance tuning and optimizations",
+    "Seamless integration with major cloud platforms"
+  ],
+  "cons": [
+    "May require technical expertise to fully leverage",
+    "Potential vendor lock-in with advanced features",
+    "Cost implications for smaller organizations"
+  ],
+  "alternatives": [
+    "Databricks [databricks.com]",
+    "Snowflake [snowflake.com]",
+    "Google BigQuery [cloud.google.com/bigquery]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Databricks",
+      "url": "databricks.com",
+      "reason": "Offers a unified analytics platform"
+    },
+    {
+      "name": "Apache Hudi",
+      "url": "hudi.apache.org",
+      "reason": "Open-source storage layer for data lakes"
+    },
+    {
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Cloud-based data warehousing service"
+    }
+  ],
+  "tags": [
+    "data lakehouse",
+    "data management",
+    "cloud integration",
+    "performance optimization"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://onehouse.ai/",
+  "documentationUrl": "https://docs.onehouse.ai",
+  "githubUrl": "https://github.com/search?q=onehouse&type=repositories",
+  "twitterUrl": "https://twitter.com/Onehousehq",
+  "screenshot": "https://share.appsfor.us/screenshots/onehouse_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/onehouse_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/onehouse_ai_400.png",
+  "updatedAt": "2025-06-17T03:19:00.159Z"
+}

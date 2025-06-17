@@ -2,17 +2,17 @@
   "sourceUrl": "https://zight.com/",
   "name": "Zight",
   "title": "zight.com",
-  "payoff": "AI-powered visual communication",
-  "shortDescription": "Zight is a versatile screen recording and management tool designed to enhance productivity for individuals and teams. It allows users to easily capture screens, create videos, and manage files with AI-driven features. Ideal for educators, developers, and corporate teams, Zight simplifies creating tutorials, demos, and collaborative projects. All content is instantly stored in the cloud, facilitating easy access and organization.",
+  "payoff": "AI-powered visual communication tools",
+  "shortDescription": "Zight is a versatile screen recording and management tool designed to enhance productivity for individuals and teams. It allows users to record screens, manage files, and utilize AI for automatic transcription and note-taking. Ideal for educators, developers, and corporate teams, Zight helps in creating tutorials, product demos, and effective team communications, storing all content in the cloud for easy access and collaboration.",
   "pros": [
-    "AI-driven features for automatic transcription",
-    "Cloud-based storage for easy file management",
-    "Intuitive video and screenshot editing tools"
+    "AI features automate routine tasks",
+    "Cloud-based file storage",
+    "Intuitive video editing tools"
   ],
   "cons": [
-    "May require a learning curve for new users",
-    "Potential privacy concerns with cloud storage",
-    "Limited customization options for advanced users"
+    "Limited free trial period",
+    "No offline functionality",
+    "Potential privacy concerns with cloud storage"
   ],
   "alternatives": [
     "Loom [loom.com]",
@@ -23,21 +23,21 @@
     {
       "name": "Loom",
       "url": "loom.com",
-      "reason": "Offers video messaging for work"
+      "reason": "Offers easy video sharing"
     },
     {
       "name": "OBS Studio",
       "url": "obsproject.com",
-      "reason": "Free and open-source software"
+      "reason": "Free and open-source option"
     },
     {
-      "name": "Snagit",
-      "url": "techsmith.com/snagit.html",
-      "reason": "Powerful screen capture tool"
+      "name": "Camtasia",
+      "url": "techsmith.com/camtasia.html",
+      "reason": "Advanced editing features"
     }
   ],
   "tags": [
-    "screen capture",
+    "screen recording",
     "video editing",
     "AI",
     "cloud storage"
@@ -52,8 +52,8 @@
   "documentationUrl": "https://zight.com/docs",
   "githubUrl": "https://github.com/search?q=zight&type=repositories",
   "twitterUrl": null,
-  "screenshot": "/screenshots/zight_com.png",
-  "screenshot_640": "/screenshots/zight_com_640.png",
-  "screenshot_400": "/screenshots/zight_com_400.png",
-  "updatedAt": "2025-05-17T09:49:30.705Z"
+  "screenshot": "https://share.appsfor.us/screenshots/zight_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zight_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zight_com_400.png",
+  "updatedAt": "2025-06-17T03:15:39.036Z"
 }

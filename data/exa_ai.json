@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://exa.ai/search?c=all",
+  "name": "Exa",
+  "title": "exa.ai",
+  "payoff": "Revolutionize your search with AI",
+  "shortDescription": "Exa is an AI-powered search engine designed to enhance the search experience by providing more relevant, context-aware results. It caters to researchers, data analysts, and anyone in need of precise information retrieval. Example use case: A data scientist uses Exa to quickly find datasets for machine learning projects, significantly reducing research time.",
+  "pros": [
+    "AI-enhanced search capabilities",
+    "Fast and accurate results",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not support all languages",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "Google Search [google.com]",
+    "Bing [bing.com]",
+    "DuckDuckGo [duckduckgo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Search",
+      "url": "google.com",
+      "reason": "Widely used with extensive data indexing"
+    },
+    {
+      "name": "Bing",
+      "url": "bing.com",
+      "reason": "Integrated with Microsoft products"
+    },
+    {
+      "name": "DuckDuckGo",
+      "url": "duckduckgo.com",
+      "reason": "Focuses on user privacy and security"
+    }
+  ],
+  "tags": [
+    "AI",
+    "search engine",
+    "data retrieval",
+    "information technology"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Search",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://exa.ai/search?c=all",
+  "documentationUrl": "https://exa.ai/docs",
+  "githubUrl": "https://github.com/search?q=exa&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/exa_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/exa_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/exa_ai_400.png",
+  "updatedAt": "2025-06-17T03:17:57.822Z"
+}
