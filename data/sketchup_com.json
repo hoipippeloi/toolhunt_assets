@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sketchup.com/en",
+  "name": "SketchUp",
+  "title": "sketchup.com",
+  "payoff": "3D Modeling & Drawing Simplified",
+  "shortDescription": "SketchUp is a 3D modeling software designed for architects, engineers, and designers. It allows users to create, edit, and share 3D models with ease. An example use case is an architect using SketchUp to visualize a new building design before construction begins, enabling adjustments in real-time.",
+  "pros": [
+    "Intuitive user interface",
+    "Wide range of design tools",
+    "Strong community and support"
+  ],
+  "cons": [
+    "Can be resource-intensive",
+    "Limited advanced features in free version",
+    "Steep learning curve for complex models"
+  ],
+  "alternatives": [
+    "AutoCAD [autodesk.com]",
+    "Blender [blender.org]",
+    "Tinkercad [tinkercad.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AutoCAD",
+      "url": "autodesk.com",
+      "reason": "Industry standard for CAD design"
+    },
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Open source and highly versatile"
+    },
+    {
+      "name": "Tinkercad",
+      "url": "tinkercad.com",
+      "reason": "Simpler interface, good for beginners"
+    }
+  ],
+  "tags": [
+    "3D modeling",
+    "design tools",
+    "architecture",
+    "engineering"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2000,
+  "websiteUrl": "https://sketchup.com/en",
+  "documentationUrl": "https://help.sketchup.com/en/sketchup/sketchup",
+  "githubUrl": "https://github.com/search?q=sketchup&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sketchup_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sketchup_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sketchup_com_400.png",
+  "updatedAt": "2025-06-17T04:25:39.540Z"
+}

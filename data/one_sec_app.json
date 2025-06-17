@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://one-sec.app/",
+  "name": "one sec",
+  "title": "one-sec.app",
+  "payoff": "Stop mindless scrolling scientifically",
+  "shortDescription": "one sec helps users manage their time on social media by creating intentional pauses before app usage. It's designed for individuals who find themselves frequently distracted by social media, offering a moment to reconsider the necessity of opening an app. Example use: When attempting to open Instagram, one sec prompts a pause, allowing the user to reflect if they really need to scroll or if it was just an impulsive action.",
+  "pros": [
+    "Reduces social media usage by 57% on average",
+    "Promotes mental health by reducing depression and anxiety symptoms",
+    "Offers healthy alternatives to replace bad habits"
+  ],
+  "cons": [
+    "May be perceived as intrusive or annoying",
+    "Requires consistent user engagement to be effective",
+    "Potential privacy concerns if not handled properly"
+  ],
+  "alternatives": [
+    "Freedom [freedom.to]",
+    "RescueTime [rescuetime.com]",
+    "Forest [forestapp.cc]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Freedom",
+      "url": "freedom.to",
+      "reason": "Blocks distracting sites across devices"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Tracks time spent on apps and sites"
+    },
+    {
+      "name": "Forest",
+      "url": "forestapp.cc",
+      "reason": "Uses a gamified approach to focus"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "time management",
+    "mental health",
+    "habit forming"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://one-sec.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=one%20sec&type=repositories",
+  "twitterUrl": "https://twitter.com/one_sec_app",
+  "screenshot": "https://share.appsfor.us/screenshots/one_sec_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/one_sec_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/one_sec_app_400.png",
+  "updatedAt": "2025-06-17T04:25:59.346Z"
+}

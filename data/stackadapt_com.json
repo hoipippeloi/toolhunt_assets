@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stackadapt.com/",
+  "name": "StackAdapt",
+  "title": "stackadapt.com",
+  "payoff": "AI-Powered Marketing Platform",
+  "shortDescription": "StackAdapt is a sophisticated AI-powered marketing platform designed to enhance digital advertising strategies. It connects advertisers with audiences, facilitating the planning, execution, and analysis of marketing campaigns. Agencies and brands trust StackAdapt for its ability to drive conversions through premium ad inventory across various channels like native, video, and connected TV. An example use case is a brand using StackAdapt to optimize ad placements and increase campaign performance metrics.",
+  "pros": [
+    "Extensive premium ad inventory",
+    "AI-powered optimization features",
+    "Supports multiple ad channels"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "The Trade Desk [thetradedesk.com]",
+    "AdRoll [adroll.com]",
+    "Criteo [criteo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "The Trade Desk",
+      "url": "thetradedesk.com",
+      "reason": "Offers a broader ad buying suite"
+    },
+    {
+      "name": "AdRoll",
+      "url": "adroll.com",
+      "reason": "Focuses on retargeting ads"
+    },
+    {
+      "name": "Criteo",
+      "url": "criteo.com",
+      "reason": "Strong in machine learning for ads"
+    }
+  ],
+  "tags": [
+    "marketing",
+    "advertising",
+    "AI",
+    "digital campaigns"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://stackadapt.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=stackadapt&type=repositories",
+  "twitterUrl": "https://x.com/StackAdapt",
+  "screenshot": "https://share.appsfor.us/screenshots/stackadapt_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stackadapt_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stackadapt_com_400.png",
+  "updatedAt": "2025-06-17T04:27:03.153Z"
+}

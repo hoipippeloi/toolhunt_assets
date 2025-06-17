@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fitbod.me/",
+  "name": "Fitbod",
+  "title": "fitbod.me",
+  "payoff": "Effortless Workout Planning",
+  "shortDescription": "Fitbod is a fitness app designed to help users achieve their workout goals through customized exercise plans. It utilizes smart tracking and monitored recovery to tailor workouts that fit individual needs and recovery states. Ideal for fitness enthusiasts and beginners alike, Fitbod makes it easy to stay on track with your fitness journey, whether at home or in the gym.",
+  "pros": [
+    "Customized workout plans",
+    "Smart recovery monitoring",
+    "Featured in major media outlets"
+  ],
+  "cons": [
+    "May require in-app purchases",
+    "Limited to fitness tracking",
+    "Dependent on user input for accuracy"
+  ],
+  "alternatives": [
+    "MyFitnessPal [myfitnesspal.com]",
+    "Strava [strava.com]",
+    "Nike Training Club [nike.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Tracks nutrition & exercise"
+    },
+    {
+      "name": "Strava",
+      "url": "strava.com",
+      "reason": "Focus on running and cycling"
+    },
+    {
+      "name": "Nike Training Club",
+      "url": "nike.com",
+      "reason": "Includes training & coaching"
+    }
+  ],
+  "tags": [
+    "fitness",
+    "workout planning",
+    "health tracking",
+    "personal training"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://fitbod.me/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=fitbod&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/fitbod_me.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fitbod_me_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fitbod_me_400.png",
+  "updatedAt": "2025-06-17T04:24:10.676Z"
+}

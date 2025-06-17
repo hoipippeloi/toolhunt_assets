@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pollo.ai/",
+  "name": "Pollo AI",
+  "title": "pollo.ai",
+  "payoff": "AI Video & Image Creation Platform",
+  "shortDescription": "Pollo AI is an all-in-one platform for generating AI-driven videos and images, catering to creatives and marketers. Users can animate still images, maintain consistency in videos, and transform text into videos. Ideal for creating dynamic content in various styles like anime and cartoons, it simplifies content creation with user-friendly tools and templates.",
+  "pros": [
+    "Supports multiple languages",
+    "Offers both video and image AI models",
+    "User-friendly interface with templates"
+  ],
+  "cons": [
+    "Limited information on pricing",
+    "No clear API availability",
+    "Potential privacy concerns with cookie usage"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers extensive design tools and templates"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional-grade design and video tools"
+    },
+    {
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Similar features with a focus on design simplicity"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "image processing",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://pollo.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=pollo%20ai&type=repositories",
+  "twitterUrl": "https://x.com/itsPolloAI",
+  "screenshot": "https://share.appsfor.us/screenshots/pollo_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pollo_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pollo_ai_400.png",
+  "updatedAt": "2025-06-17T04:24:38.550Z"
+}
