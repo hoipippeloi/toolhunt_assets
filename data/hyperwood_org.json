@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hyperwood.org/",
+  "name": "Hyperwood",
+  "title": "hyperwood.org",
+  "payoff": "Open-source furniture crafting system",
+  "shortDescription": "Hyperwood is an innovative open-source platform that enables users to craft furniture from simple wooden slats. Inspired by E.F. Schumacher and Enzo Mari, it targets DIY enthusiasts, designers, and small manufacturers. Users can create robust and beautiful furniture with minimal tools and locally sourced materials. An example use case is building a bench or a decorative trough using the platform's algorithms, which provide optimized plans and material lists.",
+  "pros": [
+    "Empowers local production and creativity",
+    "Minimizes waste through optimized material use",
+    "Supports customization and scalability"
+  ],
+  "cons": [
+    "Currently requires programming knowledge",
+    "Limited to wooden slat materials",
+    "GUI not yet developed for broader accessibility"
+  ],
+  "alternatives": [
+    "SketchUp [sketchup.com]",
+    "AutoCAD [autodesk.com]",
+    "Fusion 360 [autodesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SketchUp",
+      "url": "sketchup.com",
+      "reason": "Offers 3D modeling for various design projects"
+    },
+    {
+      "name": "AutoCAD",
+      "url": "autodesk.com",
+      "reason": "Advanced design and engineering software"
+    },
+    {
+      "name": "Fusion 360",
+      "url": "autodesk.com",
+      "reason": "Integrates CAD, CAM, and CAE in one platform"
+    }
+  ],
+  "tags": [
+    "open source",
+    "design tools",
+    "sustainability",
+    "DIY furniture"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://hyperwood.org/",
+  "documentationUrl": "https://hyperwood.org/documentation",
+  "githubUrl": "https://github.com/jo/hyperwood-bench",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/hyperwood_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hyperwood_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hyperwood_org_400.png",
+  "updatedAt": "2025-06-18T01:07:03.337Z"
+}

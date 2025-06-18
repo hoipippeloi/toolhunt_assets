@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ithy.com/",
+  "name": "Ithy",
+  "title": "ithy.com",
+  "payoff": "Combine AIs for smarter answers",
+  "shortDescription": "Ithy revolutionizes AI interaction by combining inputs from the world's leading AIs to provide enhanced, comprehensive responses. It's designed for researchers, analysts, and anyone in need of deep, multifaceted insights. Users can switch between quick analyses or in-depth research, making it versatile for various informational needs.",
+  "pros": [
+    "Combines multiple AI technologies",
+    "Interactive articles with multimedia",
+    "Rewards program for user engagement"
+  ],
+  "cons": [
+    "May be slower than single-model AIs",
+    "Complexity might overwhelm new users",
+    "Dependent on external AI services"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Google AI [ai.google]",
+    "DeepMind [deepmind.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leader in AI research and tools"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Comprehensive AI solutions"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Advanced AI research"
+    }
+  ],
+  "tags": [
+    "AI",
+    "research",
+    "data analysis",
+    "multimodal"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://ithy.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=ithy&type=repositories",
+  "twitterUrl": "https://x.com/IthyAI",
+  "screenshot": "https://share.appsfor.us/screenshots/ithy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ithy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ithy_com_400.png",
+  "updatedAt": "2025-06-18T01:05:03.746Z"
+}

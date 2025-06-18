@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usedash.ai/",
+  "name": "Dash AI Chat",
+  "title": "usedash.ai",
+  "payoff": "AI agent for productivity apps",
+  "shortDescription": "Dash AI Chat is designed to enhance productivity by integrating with tools like Gmail, Calendar, and Notion. It automates routine tasks such as email management and meeting summaries, making it ideal for busy professionals. For example, it can automatically create a sprint plan in Linear based on your upcoming tasks.",
+  "pros": [
+    "Integrates with multiple platforms",
+    "Automates routine tasks",
+    "Enhances productivity for professionals"
+  ],
+  "cons": [
+    "Limited to certain apps",
+    "May require setup time",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "IFTTT [ifttt.com]",
+    "Automate.io [automate.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers broader app integration"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple automation for personal use"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focuses on business process automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "automation",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://usedash.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=dash%20ai%20chat&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/usedash_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usedash_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usedash_ai_400.png",
+  "updatedAt": "2025-06-18T01:05:59.894Z"
+}

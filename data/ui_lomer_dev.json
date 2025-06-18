@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ui.lomer.dev/",
+  "name": "Lomer UI",
+  "title": "ui.lomer.dev",
+  "payoff": "Craft project-specific UI components",
+  "shortDescription": "Lomer UI is an open-source tool designed for developers looking to create custom UI components specifically tailored to their projects. It leverages technologies like Svelte v5 and Tailwind CSS v4, allowing for more control, custom designs, and enhanced performance. Ideal for developers who prefer not to use standard libraries, Lomer UI enables the creation of unique components such as alerts, avatars, and scroll areas, enhancing both the design and functionality of web applications.",
+  "pros": [
+    "More control over UI components",
+    "Supports custom designs",
+    "Optimized for better performance"
+  ],
+  "cons": [
+    "Requires knowledge of Svelte and Tailwind",
+    "Less community support compared to popular libraries",
+    "Potentially higher initial development time"
+  ],
+  "alternatives": [
+    "Material-UI [mui.com]",
+    "Bootstrap [getbootstrap.com]",
+    "Ant Design [ant.design]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Popular for ready-to-use components"
+    },
+    {
+      "name": "Tailwind UI",
+      "url": "tailwindui.com",
+      "reason": "Offers Tailwind CSS based components"
+    },
+    {
+      "name": "Chakra UI",
+      "url": "chakra-ui.com",
+      "reason": "Focus on simplicity and accessibility"
+    }
+  ],
+  "tags": [
+    "UI components",
+    "open source",
+    "web development",
+    "customizable"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://ui.lomer.dev/",
+  "documentationUrl": "https://ui.lomer.dev/docs",
+  "githubUrl": "https://github.com/sponsors/clios",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/ui_lomer_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ui_lomer_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ui_lomer_dev_400.png",
+  "updatedAt": "2025-06-18T01:06:43.382Z"
+}

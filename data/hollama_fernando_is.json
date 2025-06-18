@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hollama.fernando.is/",
+  "name": "Hollama",
+  "title": "hollama.fernando.is",
+  "payoff": "Manage server settings efficiently",
+  "shortDescription": "Hollama is designed for IT professionals and system administrators who need a centralized platform to manage server settings and connections. Users can easily add server connections, manage data, and configure preferences. An example use case includes a network manager using Hollama to streamline the configuration and monitoring of multiple server sessions.",
+  "pros": [
+    "Centralized server management",
+    "Easy to configure and use",
+    "Supports multiple server sessions"
+  ],
+  "cons": [
+    "Limited to server settings",
+    "No clear integration options",
+    "May not support all server types"
+  ],
+  "alternatives": [
+    "cPanel [cpanel.net]",
+    "Plesk [plesk.com]",
+    "Webmin [webmin.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "cPanel",
+      "url": "cpanel.net",
+      "reason": "Popular web hosting control panel"
+    },
+    {
+      "name": "Plesk",
+      "url": "plesk.com",
+      "reason": "Offers web ops and hosting automation"
+    },
+    {
+      "name": "Webmin",
+      "url": "webmin.com",
+      "reason": "Free, open-source server tool"
+    }
+  ],
+  "tags": [
+    "server management",
+    "data management",
+    "IT",
+    "system administration"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Admin Panel",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hollama.fernando.is/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/fmaclen/hollama",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/hollama_fernando_is.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hollama_fernando_is_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hollama_fernando_is_400.png",
+  "updatedAt": "2025-06-18T01:06:23.186Z"
+}

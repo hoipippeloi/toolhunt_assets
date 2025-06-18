@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fiveonefour.com/",
+  "name": "fiveonefour",
+  "title": "fiveonefour.com",
+  "payoff": "Data engineering done right",
+  "shortDescription": "Fiveonefour provides a modern data engineering framework designed to enhance development speed and efficiency in handling analytical workloads. It is tailored for high-velocity teams looking to operationalize or productize their data effectively. An example use case could be a tech company leveraging Fiveonefour to streamline their data pipeline and improve real-time data analysis capabilities.",
+  "pros": [
+    "Tailored for analytical workloads",
+    "Enhances development speed",
+    "Enterprise-grade architecture"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost",
+    "Limited third-party integrations"
+  ],
+  "alternatives": [
+    "Talend [talend.com]",
+    "Apache Nifi [nifi.apache.org]",
+    "StreamSets [streamsets.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Offers robust data integration tools"
+    },
+    {
+      "name": "Apache Nifi",
+      "url": "nifi.apache.org",
+      "reason": "Focuses on automated data flow"
+    },
+    {
+      "name": "StreamSets",
+      "url": "streamsets.com",
+      "reason": "Simplifies building continuous dataflows"
+    }
+  ],
+  "tags": [
+    "data engineering",
+    "data pipelining",
+    "AI",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://fiveonefour.com/",
+  "documentationUrl": "https://fiveonefour.com/docs",
+  "githubUrl": "https://github.com/514-labs/moose",
+  "twitterUrl": "https://x.com/514hq",
+  "screenshot": "https://share.appsfor.us/screenshots/fiveonefour_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fiveonefour_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fiveonefour_com_400.png",
+  "updatedAt": "2025-06-18T01:08:07.705Z"
+}
