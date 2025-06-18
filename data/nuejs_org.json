@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nuejs.org/",
+  "name": "Nue",
+  "title": "nuejs.org",
+  "payoff": "Break the limits of Web",
+  "shortDescription": "Nue is designed to optimize web development by leveraging HTML, CSS, JS, and WASM. It's ideal for developers aiming to build large-scale applications with minimal code. Nue simplifies the stack, enhances build speeds, and integrates tools like Rust, promoting a faster and cleaner coding experience.",
+  "pros": [
+    "Lightweight applications",
+    "Faster build and HMR speeds",
+    "Simpler and cleaner codebase"
+  ],
+  "cons": [
+    "Limited community and support",
+    "New and less tested in production",
+    "Potential compatibility issues with existing tools"
+  ],
+  "alternatives": [
+    "React [reactjs.org]",
+    "Vue.js [vuejs.org]",
+    "Svelte [svelte.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "React",
+      "url": "reactjs.org",
+      "reason": "Popular JS library for UI building"
+    },
+    {
+      "name": "Vue.js",
+      "url": "vuejs.org",
+      "reason": "Incremental adoptable JS framework"
+    },
+    {
+      "name": "Svelte",
+      "url": "svelte.dev",
+      "reason": "Compiler-based JS framework"
+    }
+  ],
+  "tags": [
+    "web development",
+    "frontend",
+    "optimization",
+    "tooling"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://nuejs.org/",
+  "documentationUrl": "https://nuejs.org/docs",
+  "githubUrl": "https://github.com/nuejs/nue",
+  "twitterUrl": "https://twitter.com/snowcode/status/1747705814679167200",
+  "screenshot": "https://share.appsfor.us/screenshots/nuejs_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nuejs_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nuejs_org_400.png",
+  "updatedAt": "2025-06-18T03:15:03.814Z"
+}

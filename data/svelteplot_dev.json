@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://svelteplot.dev/",
+  "name": "SveltePlot",
+  "title": "svelteplot.dev",
+  "payoff": "Visualize data with Svelte components",
+  "shortDescription": "SveltePlot is a visualization tool designed for developers using the Svelte framework. It provides a simple way to create and integrate interactive charts into Svelte applications. Ideal for data analysts and developers, it can be used to display real-time data, enhance dashboards, or improve reporting features in web applications.",
+  "pros": [
+    "Seamless integration with Svelte",
+    "Interactive and dynamic charts",
+    "Lightweight with fast performance"
+  ],
+  "cons": [
+    "Limited to Svelte framework",
+    "May lack some advanced features",
+    "Smaller community support compared to major libraries"
+  ],
+  "alternatives": [
+    "D3.js [d3js.org]",
+    "Chart.js [chartjs.org]",
+    "Highcharts [highcharts.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "D3.js",
+      "url": "d3js.org",
+      "reason": "Highly customizable, widely used"
+    },
+    {
+      "name": "Chart.js",
+      "url": "chartjs.org",
+      "reason": "Simple to use, great for beginners"
+    },
+    {
+      "name": "Highcharts",
+      "url": "highcharts.com",
+      "reason": "Offers extensive chart types and options"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "Svelte",
+    "charts",
+    "web development"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://svelteplot.dev/",
+  "documentationUrl": "https://svelteplot.dev/docs",
+  "githubUrl": "https://github.com/svelteplot/svelteplot",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/svelteplot_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/svelteplot_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/svelteplot_dev_400.png",
+  "updatedAt": "2025-06-18T03:15:26.810Z"
+}

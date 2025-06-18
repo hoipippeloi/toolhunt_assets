@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://veo3.ai/",
+  "name": "Veo 3",
+  "title": "veo3.ai",
+  "payoff": "AI Video Generation with Realistic Sound",
+  "shortDescription": "Veo 3 is an advanced AI video generator that synchronizes audio with visual content, making it ideal for content creators and marketers. It allows users to generate videos from text descriptions or image references, complete with sound effects, dialogue, and ambient noise. An example use case is creating promotional videos for social media platforms like TikTok, where users can showcase products in dynamic, engaging scenarios.",
+  "pros": [
+    "Generates videos with perfectly synced audio",
+    "Supports complex scenarios with realistic sound effects",
+    "Easy integration with Google's Flow video editor"
+  ],
+  "cons": [
+    "May require high computational power",
+    "Potential privacy concerns with AI-generated content",
+    "Limited customization options for enterprise users"
+  ],
+  "alternatives": [
+    "Synthesia [synthesia.io]",
+    "Descript [descript.com]",
+    "DeepBrain AI [deepbrainai.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Synthesia",
+      "url": "synthesia.io",
+      "reason": "AI video creation with customizable avatars"
+    },
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Offers video editing and AI tools"
+    },
+    {
+      "name": "DeepBrain AI",
+      "url": "deepbrainai.io",
+      "reason": "Real-time AI video synthesis"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "content creation",
+    "multimedia"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://veo3.ai/",
+  "documentationUrl": "https://veo3.ai/docs",
+  "githubUrl": "https://github.com/search?q=veo%203&type=repositories",
+  "twitterUrl": "https://x.com/nmatares/status/1924931844879134804",
+  "screenshot": "https://share.appsfor.us/screenshots/veo3_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/veo3_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/veo3_ai_400.png",
+  "updatedAt": "2025-06-18T03:14:37.623Z"
+}

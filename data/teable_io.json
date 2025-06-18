@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://teable.io/",
+  "name": "Teable",
+  "title": "teable.io",
+  "payoff": "AI no-code database, Full-automatic",
+  "shortDescription": "Teable is an AI-driven no-code database platform designed to simplify database management and application development. It caters to both small teams and large enterprises, allowing users to turn documents and spreadsheets into powerful applications effortlessly. Users can automate repetitive tasks, integrate various systems, and manage data with enterprise-grade security. An example use case is a company using Teable to streamline data processes and enhance real-time collaboration across departments.",
+  "pros": [
+    "AI integration for smarter automation",
+    "No-code platform enhances ease of use",
+    "Robust data security and governance"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential limitations in custom coding",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Retool [retool.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Flexible no-code platform with similar features"
+    },
+    {
+      "name": "Knack",
+      "url": "knack.com",
+      "reason": "Focuses on easy database building with no-code"
+    },
+    {
+      "name": "Caspio",
+      "url": "caspio.com",
+      "reason": "Offers extensive integrations and customizability"
+    }
+  ],
+  "tags": [
+    "AI",
+    "no-code",
+    "database",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2022,
+  "websiteUrl": "https://teable.io/",
+  "documentationUrl": "https://help.teable.io/en/deploy/docker",
+  "githubUrl": "https://github.com/teableio/teable",
+  "twitterUrl": "https://x.com/teableio",
+  "screenshot": "https://share.appsfor.us/screenshots/teable_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/teable_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/teable_io_400.png",
+  "updatedAt": "2025-06-18T03:16:09.728Z"
+}

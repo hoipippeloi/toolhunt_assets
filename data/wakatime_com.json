@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wakatime.com/",
+  "name": "WakaTime",
+  "title": "wakatime.com",
+  "payoff": "Dashboards for developers",
+  "shortDescription": "WakaTime offers fully automatic code statistics to streamline the development process. It is designed for developers seeking insights into their coding activities. Users can track time spent on projects, compare coding versus meeting times, and identify bottlenecks. This tool is ideal for enhancing productivity and optimizing code efficiency.",
+  "pros": [
+    "Automatic time tracking for coding",
+    "Integration with various IDEs",
+    "Open source plugins available"
+  ],
+  "cons": [
+    "May have privacy concerns",
+    "Dependent on IDE compatibility",
+    "Potential for inaccuracies in tracking"
+  ],
+  "alternatives": [
+    "Time Doctor [timedoctor.com]",
+    "RescueTime [rescuetime.com]",
+    "Toggl Track [toggl.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Time Doctor",
+      "url": "timedoctor.com",
+      "reason": "Offers detailed productivity tracking"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Focuses on automatic time tracking"
+    },
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Simple interface with powerful reports"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "productivity",
+    "developer tools",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2013,
+  "websiteUrl": "https://wakatime.com/",
+  "documentationUrl": "https://wakatime.com/docs",
+  "githubUrl": "https://github.com/tj",
+  "twitterUrl": "https://x.com/intent/user?screen_name=WakaTime",
+  "screenshot": "https://share.appsfor.us/screenshots/wakatime_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wakatime_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wakatime_com_400.png",
+  "updatedAt": "2025-06-18T03:15:47.644Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sli.dev/",
+  "name": "Slidev",
+  "title": "sli.dev",
+  "payoff": "Presentation Slides for Developers",
+  "shortDescription": "Slidev is a tool designed to create presentation slides specifically tailored for developers. It offers a user-friendly interface that allows developers to quickly write and customize their presentations using markdown. Slidev is ideal for tech conferences, team meetings, or educational purposes where clear, concise, and technical presentation material is required.",
+  "pros": [
+    "Built-in customization options",
+    "Developer-friendly interface",
+    "Open source with MIT License"
+  ],
+  "cons": [
+    "Limited to developer use cases",
+    "No built-in audience interaction features",
+    "Requires markdown knowledge"
+  ],
+  "alternatives": [
+    "Reveal.js [revealjs.com]",
+    "Google Slides [slides.google.com]",
+    "Prezi [prezi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Reveal.js",
+      "url": "revealjs.com",
+      "reason": "Open-source HTML presentation framework"
+    },
+    {
+      "name": "Google Slides",
+      "url": "slides.google.com",
+      "reason": "Popular, easy-to-use online presentations"
+    },
+    {
+      "name": "Prezi",
+      "url": "prezi.com",
+      "reason": "Dynamic, zoomable presentation interface"
+    }
+  ],
+  "tags": [
+    "presentation",
+    "development",
+    "open source",
+    "customization"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://sli.dev/",
+  "documentationUrl": "https://sli.dev/docs",
+  "githubUrl": "https://github.com/slidevjs/slidev/releases",
+  "twitterUrl": "https://twitter.com/slidevjs",
+  "screenshot": "https://share.appsfor.us/screenshots/sli_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sli_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sli_dev_400.png",
+  "updatedAt": "2025-06-18T03:14:10.283Z"
+}
