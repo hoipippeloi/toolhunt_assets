@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://webflow.com/",
+  "name": "Webflow",
+  "title": "webflow.com",
+  "payoff": "Build custom websites visually",
+  "shortDescription": "Webflow is a visual website building platform that allows designers and marketers to create custom websites without coding. Users can design, publish, and scale sites using a drag-and-drop interface and CMS. An example use case is a marketing team quickly deploying a promotional site with integrated analytics and SEO tools.",
+  "pros": [
+    "Visual design without coding",
+    "Integrated CMS and SEO tools",
+    "Scalable hosting solutions"
+  ],
+  "cons": [
+    "Steep learning curve for new users",
+    "Limited customization without coding",
+    "Higher cost compared to basic site builders"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Squarespace [squarespace.com]",
+    "Wix [wix.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Easier for beginners with less flexibility."
+    },
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "More customizable with plugins."
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Similar visual builder with more templates."
+    }
+  ],
+  "tags": [
+    "website builder",
+    "CMS",
+    "design tools",
+    "visual builder"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://webflow.com/",
+  "documentationUrl": "https://university.webflow.com/",
+  "githubUrl": "https://github.com/search?q=webflow&type=repositories",
+  "twitterUrl": "https://twitter.com/webflow",
+  "screenshot": "https://share.appsfor.us/screenshots/webflow_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/webflow_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/webflow_com_400.png",
+  "updatedAt": "2025-06-18T04:24:30.629Z"
+}

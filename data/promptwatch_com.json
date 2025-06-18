@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://promptwatch.com/",
+  "name": "Promptwatch",
+  "title": "promptwatch.com",
+  "payoff": "Boost AI search visibility",
+  "shortDescription": "Promptwatch helps businesses enhance their visibility across AI search platforms like ChatGPT, Claude, and others. It provides tools for monitoring mentions and optimizing content to stay relevant in AI-driven search results. Ideal for marketers aiming to capture traffic from AI searches, an example use case could be a company using Promptwatch to track how often they're mentioned by AI models and adjusting their content strategy based on analytics.",
+  "pros": [
+    "Enhances visibility on AI platforms",
+    "Monitors and tracks AI mentions effectively",
+    "Provides strategic content optimization"
+  ],
+  "cons": [
+    "May require constant content updates",
+    "Dependent on external AI model updates",
+    "Potentially high competition in AI search niches"
+  ],
+  "alternatives": [
+    "Moz [moz.com]",
+    "SEMrush [semrush.com]",
+    "Ahrefs [ahrefs.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Moz",
+      "url": "moz.com",
+      "reason": "Offers broader SEO tools and analytics"
+    },
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Comprehensive digital marketing toolkit"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Strong backlink analysis and SEO tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "search optimization",
+    "marketing",
+    "analytics"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Search",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://promptwatch.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=promptwatch&type=repositories",
+  "twitterUrl": "https://x.com/promptwatchcom",
+  "screenshot": "https://share.appsfor.us/screenshots/promptwatch_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/promptwatch_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/promptwatch_com_400.png",
+  "updatedAt": "2025-06-18T04:26:24.750Z"
+}

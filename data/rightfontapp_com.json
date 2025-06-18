@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rightfontapp.com/",
+  "name": "RightFont",
+  "title": "rightfontapp.com",
+  "payoff": "Maximize your font management",
+  "shortDescription": "RightFont is a powerful font manager designed specifically for Mac users. It integrates seamlessly with macOS, supporting features like Dark Mode and Apple Silicon. Users can manage and sync a vast selection of Google fonts, effortlessly use tags for organization, and share fonts with teammates via cloud services. Ideal for designers and teams, RightFont enhances productivity by automating font activation and simplifying font changes in design apps like Photoshop and Illustrator.",
+  "pros": [
+    "Seamless integration with macOS",
+    "Automatic font activation and syncing",
+    "Supports cloud sharing and collaboration"
+  ],
+  "cons": [
+    "Available only for Mac",
+    "No API for developer integration",
+    "Limited to font management functionalities"
+  ],
+  "alternatives": [
+    "FontBase [fontba.se]",
+    "Suitcase Fusion [extensis.com]",
+    "SkyFonts [skyfonts.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "FontBase",
+      "url": "fontba.se",
+      "reason": "Offers similar font management"
+    },
+    {
+      "name": "Suitcase Fusion",
+      "url": "extensis.com",
+      "reason": "Advanced font management features"
+    },
+    {
+      "name": "SkyFonts",
+      "url": "skyfonts.com",
+      "reason": "Easy font syncing and management"
+    }
+  ],
+  "tags": [
+    "font management",
+    "macOS software",
+    "design tools",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://rightfontapp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=rightfont&type=repositories",
+  "twitterUrl": "https://x.com/rightfontapp",
+  "screenshot": "https://share.appsfor.us/screenshots/rightfontapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rightfontapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rightfontapp_com_400.png",
+  "updatedAt": "2025-06-18T04:26:44.992Z"
+}

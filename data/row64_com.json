@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://row64.com/",
+  "name": "Row64",
+  "title": "row64.com",
+  "payoff": "Real-Time Business Intelligence",
+  "shortDescription": "Row64 is a powerful visualization tool designed for real-time business intelligence. It leverages GPU and CPU accelerated computing to update data at sub-millisecond speeds. Ideal for enterprises, it supports interactive dashboards that handle billion-record datasets. Use cases include real-time adjustments to economic models and infrastructure management, enhancing decision-making and operational efficiency.",
+  "pros": [
+    "Real-time data updates at sub-millisecond speeds",
+    "Supports interactive, GPU-rendered dashboards",
+    "Flexible deployment across IT environments"
+  ],
+  "cons": [
+    "May require advanced technical skills for setup",
+    "Potentially high cost for small businesses",
+    "Intensive hardware requirements for full performance"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.microsoft.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for interactive data visualization"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates well with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers robust data exploration capabilities"
+    }
+  ],
+  "tags": [
+    "business intelligence",
+    "data visualization",
+    "real-time analytics",
+    "GPU acceleration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://row64.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=row64&type=repositories",
+  "twitterUrl": "https://twitter.com/row64software",
+  "screenshot": "https://share.appsfor.us/screenshots/row64_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/row64_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/row64_com_400.png",
+  "updatedAt": "2025-06-18T04:25:04.077Z"
+}

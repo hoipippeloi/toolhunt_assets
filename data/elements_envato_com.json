@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://elements.envato.com/",
+  "name": "Envato Elements",
+  "title": "elements.envato.com",
+  "payoff": "Unlimited creative assets",
+  "shortDescription": "Envato Elements offers a comprehensive library of creative assets for various projects, catering to designers, marketers, and content creators. Users can access a wide range of resources including graphics, templates, and stock photos, making it ideal for enhancing visual content and streamlining design processes. Example use case: A graphic designer uses Envato to quickly find and utilize high-quality images and templates for client projects.",
+  "pros": [
+    "Extensive library of creative assets",
+    "One subscription for multiple resources",
+    "Regularly updated content"
+  ],
+  "cons": [
+    "Subscription-based model may be costly",
+    "May have more assets than needed",
+    "Limited customization for certain assets"
+  ],
+  "alternatives": [
+    "Adobe Stock [stock.adobe.com]",
+    "Shutterstock [shutterstock.com]",
+    "Canva [canva.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Stock",
+      "url": "stock.adobe.com",
+      "reason": "Offers high-quality stock images and videos."
+    },
+    {
+      "name": "Shutterstock",
+      "url": "shutterstock.com",
+      "reason": "Extensive collection of images and assets."
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Provides easy-to-use design tools and assets."
+    }
+  ],
+  "tags": [
+    "creative assets",
+    "design tools",
+    "stock photos",
+    "templates"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://elements.envato.com/",
+  "documentationUrl": "https://elements.envato.com/support",
+  "githubUrl": "https://github.com/search?q=envato%20elements&type=repositories",
+  "twitterUrl": "https://twitter.com/en/privacy",
+  "screenshot": "https://share.appsfor.us/screenshots/elements_envato_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/elements_envato_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/elements_envato_com_400.png",
+  "updatedAt": "2025-06-18T04:25:35.353Z"
+}
