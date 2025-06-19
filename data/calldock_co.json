@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://calldock.co/",
+  "name": "Calldock",
+  "title": "calldock.co",
+  "payoff": "AI Voice Agents for Sales Teams",
+  "shortDescription": "Calldock leverages AI voice agents to enhance sales processes by instantly contacting leads. It's designed for sales teams looking to improve lead response times and qualification without increasing headcount. Example use case: A company uses Calldock to reduce the time from lead capture to initial contact, ensuring that every lead is contacted within seconds, thereby increasing the chances of conversion.",
+  "pros": [
+    "Rapid lead contact within 10 seconds",
+    "Automated qualification of leads",
+    "Simple setup and integration"
+  ],
+  "cons": [
+    "Dependence on technology for initial lead contact",
+    "Potential issues with AI understanding complex queries",
+    "Limited to voice interactions"
+  ],
+  "alternatives": [
+    "Chorus.ai [chorus.ai]",
+    "Gong.io [gong.io]",
+    "Outreach.io [outreach.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Chorus.ai",
+      "url": "chorus.ai",
+      "reason": "Focuses on conversation intelligence"
+    },
+    {
+      "name": "Gong.io",
+      "url": "gong.io",
+      "reason": "Provides insights using AI on sales calls"
+    },
+    {
+      "name": "Outreach.io",
+      "url": "outreach.io",
+      "reason": "Streamlines customer engagement processes"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Sales Automation",
+    "Lead Management",
+    "Voice Agents"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://calldock.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=calldock&type=repositories",
+  "twitterUrl": "https://x.com/calldock_co",
+  "screenshot": "https://share.appsfor.us/screenshots/calldock_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/calldock_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/calldock_co_400.png",
+  "updatedAt": "2025-06-19T04:24:26.313Z"
+}

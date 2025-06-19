@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jitter.video/",
+  "name": "Jitter",
+  "title": "jitter.video",
+  "payoff": "Fast, simple motion design tool",
+  "shortDescription": "Jitter is a web-based motion design tool designed for speed and simplicity. It allows teams to create animations quickly with an intuitive interface that avoids complex keyframes. Users can import designs from Figma, animate using presets, and export in various formats like 4K, GIF, and Lottie. Ideal for marketing, ads, and brand content, Jitter is used by creative teams worldwide to enhance their digital presence.",
+  "pros": [
+    "Intuitive and fast animation creation",
+    "Seamless integration with Figma",
+    "Exports in multiple high-quality formats"
+  ],
+  "cons": [
+    "Limited to web-based interface",
+    "May not support advanced animation needs",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "Adobe After Effects [adobe.com]",
+    "Canva [canva.com]",
+    "Animaker [animaker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe After Effects",
+      "url": "adobe.com",
+      "reason": "Industry standard for professional animations"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Simpler interface and broad design options"
+    },
+    {
+      "name": "Animaker",
+      "url": "animaker.com",
+      "reason": "Focus on animated video creation"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "motion design",
+    "web-based",
+    "animation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://jitter.video/",
+  "documentationUrl": "https://help.jitter.video/",
+  "githubUrl": "https://github.com/search?q=jitter&type=repositories",
+  "twitterUrl": "https://x.com/jittervideo/",
+  "screenshot": "https://share.appsfor.us/screenshots/jitter_video.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jitter_video_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jitter_video_400.png",
+  "updatedAt": "2025-06-19T04:24:03.786Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://visualcv.com/",
+  "name": "VisualCV",
+  "title": "visualcv.com",
+  "payoff": "Build Professional Resumes Online",
+  "shortDescription": "VisualCV is an online tool designed to help users create professional-looking resumes and CVs quickly and efficiently. It caters to job seekers across various industries, offering over 30+ customizable templates and AI-powered editing tools. Users can start from scratch or import existing resumes, enhancing them with industry-specific skills and designs. An ideal use case is for a job applicant in tech or marketing looking to craft a standout resume that captures attention.",
+  "pros": [
+    "AI-powered resume editing",
+    "Wide range of templates and designs",
+    "Real-time content suggestions and analytics"
+  ],
+  "cons": [
+    "Limited free version features",
+    "No offline functionality",
+    "Subscription required for premium features"
+  ],
+  "alternatives": [
+    "Resume.io [resume.io]",
+    "Zety [zety.com]",
+    "Canva [canva.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Resume.io",
+      "url": "resume.io",
+      "reason": "Offers a range of resume templates."
+    },
+    {
+      "name": "Zety",
+      "url": "zety.com",
+      "reason": "Features extensive resume customization."
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Provides creative resume designs."
+    }
+  ],
+  "tags": [
+    "resume builder",
+    "CV maker",
+    "job application",
+    "career development"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://visualcv.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=visualcv&type=repositories",
+  "twitterUrl": "https://x.com/visualcv",
+  "screenshot": "https://share.appsfor.us/screenshots/visualcv_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/visualcv_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/visualcv_com_400.png",
+  "updatedAt": "2025-06-19T04:24:45.870Z"
+}
