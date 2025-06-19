@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://breezedoc.com/",
+  "name": "BreezeDoc",
+  "title": "breezedoc.com",
+  "payoff": "Simple e-signature solutions",
+  "shortDescription": "BreezeDoc offers a streamlined platform for secure and efficient document signing. It is designed for businesses and individuals who need a straightforward solution for e-signatures without complex features. Users can quickly upload and prepare documents, send them to multiple recipients, and track the signing process in real-time. Ideal for small to medium businesses looking to reduce paperwork and enhance workflow.",
+  "pros": [
+    "Easy to use with an intuitive dashboard",
+    "Supports multiple document formats",
+    "Real-time tracking of document signing"
+  ],
+  "cons": [
+    "Limited advanced features",
+    "No clear API for integration",
+    "Less known compared to competitors"
+  ],
+  "alternatives": [
+    "DocuSign [docusign.com]",
+    "HelloSign [hellosign.com]",
+    "Adobe Sign [adobe.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DocuSign",
+      "url": "docusign.com",
+      "reason": "Widely recognized leader in e-signatures"
+    },
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Offers a user-friendly interface"
+    },
+    {
+      "name": "Adobe Sign",
+      "url": "adobe.com",
+      "reason": "Integrated with Adobe's product suite"
+    }
+  ],
+  "tags": [
+    "E-Signatures",
+    "Document Management",
+    "Productivity",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Legal & Compliance",
+  "function": "E-Signatures",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://breezedoc.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=breezedoc&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/breezedoc_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/breezedoc_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/breezedoc_com_400.png",
+  "updatedAt": "2025-06-19T10:15:46.040Z"
+}
