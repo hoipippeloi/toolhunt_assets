@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://portable.io/",
+  "name": "Portable",
+  "title": "portable.io",
+  "payoff": "Premium ELT with simple pricing",
+  "shortDescription": "Portable offers ELT solutions with a focus on simplicity and cost-effectiveness. It is designed for data teams who need reliable data integration without complex pricing structures. Users can migrate data sources easily, with support for custom integrations and real-time monitoring. An example use case is integrating Shopify data into a data warehouse for enhanced analytics.",
+  "pros": [
+    "Fixed-fee pricing with no volume limits",
+    "Quick custom integration development",
+    "Highly responsive customer support"
+  ],
+  "cons": [
+    "Limited brand recognition compared to giants",
+    "May lack some advanced features",
+    "Dependent on team for custom integrations"
+  ],
+  "alternatives": [
+    "Fivetran [fivetran.com]",
+    "Stitch Data [stitchdata.com]",
+    "Talend [talend.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Fivetran",
+      "url": "fivetran.com",
+      "reason": "Offers similar ELT services with more integrations"
+    },
+    {
+      "name": "Stitch",
+      "url": "stitchdata.com",
+      "reason": "Flexible, scalable ELT tool with wide adoption"
+    },
+    {
+      "name": "Airbyte",
+      "url": "airbyte.com",
+      "reason": "Open-source and customizable ELT platform"
+    }
+  ],
+  "tags": [
+    "ELT",
+    "data integration",
+    "SaaS",
+    "customer support"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Sync",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://portable.io/",
+  "documentationUrl": "https://portable.io/api-documentation",
+  "githubUrl": "https://github.com/search?q=portable&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/portable_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/portable_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/portable_io_400.png",
+  "updatedAt": "2025-06-19T03:17:40.901Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://quizado.com/",
+  "name": "Quizado",
+  "title": "quizado.com",
+  "payoff": "Fun team building game experiences",
+  "shortDescription": "Quizado offers a platform for hosting interactive game shows like Jeopardy and Family Feud, tailored for team building. It's designed for managers and employees to enhance engagement and teamwork. Users can customize games with their branding, choose from various questions, or create their own. Ideal for both online and in-person events, it provides a unique way to connect and have fun in corporate settings.",
+  "pros": [
+    "Customizable branding and questions",
+    "Supports multiple operating systems",
+    "Engaging graphics and sound effects"
+  ],
+  "cons": [
+    "Limited to game show formats",
+    "May not suit all corporate cultures",
+    "Requires setup and familiarization"
+  ],
+  "alternatives": [
+    "Kahoot! [kahoot.com]",
+    "Jackbox Games [jackboxgames.com]",
+    "Quizlet [quizlet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot!",
+      "url": "kahoot.com",
+      "reason": "Interactive quiz games for learning and fun"
+    },
+    {
+      "name": "Jackbox Games",
+      "url": "jackboxgames.com",
+      "reason": "Party games for team bonding and entertainment"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Tools for learning and engagement through quizzes"
+    }
+  ],
+  "tags": [
+    "team building",
+    "game-based learning",
+    "employee engagement",
+    "interactive games"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://quizado.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=quizado&type=repositories",
+  "twitterUrl": "https://quizado.com/netflix.com",
+  "screenshot": "https://share.appsfor.us/screenshots/quizado_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/quizado_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/quizado_com_400.png",
+  "updatedAt": "2025-06-19T03:15:47.528Z"
+}

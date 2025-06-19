@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://github.com/",
-  "name": "GitHub",
-  "title": "github.com",
-  "payoff": "Collaborative platform for software development",
-  "shortDescription": "GitHub is a development platform where millions of developers and companies build, ship, and maintain their software. It offers features like code review, issue tracking, and GitHub Actions for CI/CD to streamline development processes. An example use case is a software team using GitHub to manage version control and automate their deployment pipeline.",
+  "sourceUrl": "https://github.com/selfspy",
+  "name": "selfspy",
+  "title": "github.com/selfspy",
+  "payoff": "Log all computer activities",
+  "shortDescription": "Selfspy is a tool designed to log all user activities on a computer, capturing data for statistical analysis, future reference, and fun. It's primarily aimed at individuals interested in personal data tracking and productivity insights. An example use case is tracking time spent on various applications to optimize workflow efficiency.",
   "pros": [
-    "Integrated project management tools",
-    "Extensive marketplace with thousands of apps",
-    "Robust community and collaboration features"
+    "Comprehensive activity logging",
+    "Useful for personal analytics",
+    "Open-source flexibility"
   ],
   "cons": [
-    "Can be overwhelming for beginners",
-    "High cost for private repositories in organizations",
-    "Limited control over server-side operations"
+    "Privacy concerns",
+    "Potential performance impact",
+    "Setup complexity for non-technical users"
   ],
   "alternatives": [
-    "GitLab [gitlab.com]",
-    "Bitbucket [bitbucket.org]",
-    "SourceForge [sourceforge.net]"
+    "RescueTime [rescuetime.com]",
+    "ManicTime [manictime.com]",
+    "ActivityWatch [activitywatch.net]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "GitLab",
-      "url": "gitlab.com",
-      "reason": "Offers integrated CI/CD and DevOps features"
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Offers detailed reports and goal setting"
     },
     {
-      "name": "Bitbucket",
-      "url": "bitbucket.org",
-      "reason": "Focuses on integration with Jira and Trello"
+      "name": "ManicTime",
+      "url": "manictime.com",
+      "reason": "Provides automatic time tracking"
     },
     {
-      "name": "SourceForge",
-      "url": "sourceforge.net",
-      "reason": "Provides a directory of open source projects"
+      "name": "ActivityWatch",
+      "url": "activitywatch.net",
+      "reason": "Open source with privacy focus"
     }
   ],
   "tags": [
-    "version control",
-    "collaboration",
-    "code management",
-    "CI/CD"
+    "productivity",
+    "time tracking",
+    "open source",
+    "personal analytics"
   ],
-  "apiUsed": true,
-  "department": "Development",
-  "function": "Code-Free",
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Time Logger",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2008,
-  "websiteUrl": "https://github.com/",
-  "documentationUrl": "https://docs.github.com/",
-  "githubUrl": "https://github.com/#start-of-content",
-  "twitterUrl": "https://x.com/github",
+  "releasedYear": 2011,
+  "websiteUrl": "https://github.com/selfspy",
+  "documentationUrl": "https://github.com/gurgeh/selfspy/blob/master/README.rst",
+  "githubUrl": "https://github.com/selfspy#start-of-content",
+  "twitterUrl": null,
   "screenshot": "https://share.appsfor.us/screenshots/github_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/github_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/github_com_400.png",
-  "updatedAt": "2025-05-28T02:58:36.023Z"
+  "updatedAt": "2025-06-19T03:16:08.349Z"
 }

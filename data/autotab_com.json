@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://autotab.com/",
+  "name": "Autotab",
+  "title": "autotab.com",
+  "payoff": "Ease your data collection and actions",
+  "shortDescription": "Autotab is a versatile tool designed for automating data collection and actions across various platforms. It seamlessly integrates with systems like ERP, RMS, and TMS, allowing users to enter data, send messages, and trigger refunds efficiently. Ideal for businesses needing to automate interactions with complex applications, an example use case could be automating data entry for government forms or managing customer refunds.",
+  "pros": [
+    "Seamless integration with existing systems",
+    "Automates complex tasks efficiently",
+    "Quick response time for inquiries"
+  ],
+  "cons": [
+    "May require initial setup and configuration",
+    "Dependent on the compatibility with other systems",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Offers robust automation capabilities"
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Focuses on cloud-based solutions"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Strong in enterprise automation"
+    }
+  ],
+  "tags": [
+    "automation",
+    "data entry",
+    "task management",
+    "system integration"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://autotab.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=autotab&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/autotab_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/autotab_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/autotab_com_400.png",
+  "updatedAt": "2025-06-19T03:16:37.033Z"
+}

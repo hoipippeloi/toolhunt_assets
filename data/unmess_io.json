@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://unmess.io/",
+  "name": "unmess",
+  "title": "unmess.io",
+  "payoff": "AI for chores, starting with shopping",
+  "shortDescription": "unmess is a personal AI tool designed to simplify daily chores, starting with shopping. It helps users manage grocery shopping by automatically generating purchase lists based on personal preferences, dietary needs, and past purchases. For example, if you encounter dust, unmess suggests a self-care session to mitigate its effects. It also assists in fashion shopping by finding or inspiring new purchases based on items you see.",
+  "pros": [
+    "Saves time on routine shopping tasks",
+    "Personalizes shopping experience based on user preferences",
+    "Offers self-care recommendations based on environmental factors"
+  ],
+  "cons": [
+    "Limited to shopping and self-care tasks",
+    "Dependence on accurate user data input",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Google Lens [lens.google.com]",
+    "Amazon Alexa Shopping [amazon.com]",
+    "Pinterest Lens [pinterest.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Lens",
+      "url": "lens.google.com",
+      "reason": "Visual search and shopping tool"
+    },
+    {
+      "name": "Amazon Alexa Shopping",
+      "url": "amazon.com",
+      "reason": "Voice shopping and automation"
+    },
+    {
+      "name": "Pinterest Lens",
+      "url": "pinterest.com",
+      "reason": "Image-based search and shopping"
+    }
+  ],
+  "tags": [
+    "AI",
+    "shopping",
+    "personal assistant",
+    "self-care"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://unmess.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=unmess&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/unmess_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/unmess_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/unmess_io_400.png",
+  "updatedAt": "2025-06-19T03:15:24.337Z"
+}
