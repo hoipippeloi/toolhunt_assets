@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hashboard.com/",
+  "name": "Hashboard",
+  "title": "hashboard.com",
+  "payoff": "BI that will make you love data",
+  "shortDescription": "Hashboard simplifies business intelligence by allowing teams to define metrics directly on their data warehouse. Users can search, explore, and find insights that drive business decisions effectively. Example use case includes deploying data models seamlessly to live environments, ensuring data accuracy and team collaboration.",
+  "pros": [
+    "Easy exploration of data",
+    "Seamless deployment of data models",
+    "Facilitates team collaboration"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on external data warehousing",
+    "Requires technical know-how for setup"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrated with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong embedding capabilities"
+    }
+  ],
+  "tags": [
+    "business intelligence",
+    "data analytics",
+    "collaboration",
+    "data exploration"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://hashboard.com/",
+  "documentationUrl": "https://docs.hashboard.com/product-roadmap",
+  "githubUrl": "https://github.com/hashboard-hq",
+  "twitterUrl": "https://twitter.com/hashboardhq",
+  "screenshot": "https://share.appsfor.us/screenshots/hashboard_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hashboard_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hashboard_com_400.png",
+  "updatedAt": "2025-06-19T01:06:47.806Z"
+}

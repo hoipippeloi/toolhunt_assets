@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://val.town/",
+  "name": "Val Town",
+  "title": "val.town",
+  "payoff": "Deploy APIs and automation quickly",
+  "shortDescription": "Val Town is a platform designed for engineers to collaboratively write and deploy TypeScript applications. It simplifies the process of creating API endpoints and automations, making it ideal for developers looking to streamline their workflows. Users can schedule and publish content from databases to social platforms, implement passwordless authentication, and track online content with notifications.",
+  "pros": [
+    "Rapid deployment of API endpoints",
+    "Support for collaborative development",
+    "Integration with popular services like Slack and Discord"
+  ],
+  "cons": [
+    "Limited to TypeScript",
+    "May require programming knowledge",
+    "Focused mainly on developers"
+  ],
+  "alternatives": [
+    "Heroku [heroku.com]",
+    "Netlify [netlify.com]",
+    "Vercel [vercel.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Offers easy app deployment and scaling"
+    },
+    {
+      "name": "Netlify",
+      "url": "netlify.com",
+      "reason": "Focuses on frontend projects and JAMstack"
+    },
+    {
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Optimized for React and modern web frameworks"
+    }
+  ],
+  "tags": [
+    "TypeScript",
+    "API",
+    "automation",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://val.town/",
+  "documentationUrl": "https://val.town/docs",
+  "githubUrl": "https://github.com/val-town/val-town-product/discussions/",
+  "twitterUrl": "https://twitter.com/ValDotTown",
+  "screenshot": "https://share.appsfor.us/screenshots/val_town.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/val_town_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/val_town_400.png",
+  "updatedAt": "2025-06-19T01:05:05.286Z"
+}

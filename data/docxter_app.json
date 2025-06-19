@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://docxter.app/",
+  "name": "DocXter",
+  "title": "docxter.app",
+  "payoff": "Interact with Any Document",
+  "shortDescription": "DocXter is an AI-powered tool designed to enhance document interaction capabilities. It is tailored for businesses, teams, and professionals, especially in legal sectors. Users can transform their knowledge into valuable assets by leveraging AI to bridge gaps in information processing and decision-making. An example use case involves legal teams using DocXter to quickly analyze and extract pertinent information from vast document archives, boosting productivity and reducing manual effort.",
+  "pros": [
+    "AI-enhanced document interaction",
+    "No credit card required for trial",
+    "Supports multiple business sectors"
+  ],
+  "cons": [
+    "Limited to document interactions",
+    "May require technical setup",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Notion [notion.so]",
+    "Google Docs [docs.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Note-taking and archiving with AI features."
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "All-in-one workspace for note-taking and collaboration."
+    },
+    {
+      "name": "Google Docs",
+      "url": "docs.google.com",
+      "reason": "Free, collaborative document editing and management."
+    }
+  ],
+  "tags": [
+    "AI",
+    "document management",
+    "productivity",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Legal & Compliance",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://docxter.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=docxter&type=repositories",
+  "twitterUrl": "https://twitter.com/docxter_app",
+  "screenshot": "https://share.appsfor.us/screenshots/docxter_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/docxter_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/docxter_app_400.png",
+  "updatedAt": "2025-06-19T01:05:57.764Z"
+}

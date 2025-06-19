@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zenlytic.com/",
+  "name": "Zenlytic",
+  "title": "zenlytic.com",
+  "payoff": "Intelligent Analytics Simplified",
+  "shortDescription": "Zenlytic leverages AI to transform data analysis into a simple, conversational experience. Designed for both data experts and novices, it allows users to ask questions in natural language to receive insights quickly. For example, companies like LOLA use Zenlytic to detect changes in subscription revenue and reduce churn, enhancing customer satisfaction and operational efficiency.",
+  "pros": [
+    "Natural language querying for ease of use",
+    "Rapid insights with AI-driven analytics",
+    "Reduces dependency on data teams"
+  ],
+  "cons": [
+    "May require initial setup and training",
+    "Potential data privacy concerns",
+    "Dependent on data quality and integration"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in data modeling"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates with Microsoft products"
+    }
+  ],
+  "tags": [
+    "AI",
+    "analytics",
+    "data visualization",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://zenlytic.com/",
+  "documentationUrl": "https://docs.zenlytic.com/docs/intro",
+  "githubUrl": "https://github.com/Zenlytic/metrics_layer",
+  "twitterUrl": "https://twitter.com/zenlytic",
+  "screenshot": "https://share.appsfor.us/screenshots/zenlytic_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zenlytic_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zenlytic_com_400.png",
+  "updatedAt": "2025-06-19T01:07:50.641Z"
+}
