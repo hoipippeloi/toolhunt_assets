@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://typefully.com/",
+  "name": "Typefully",
+  "title": "typefully.com",
+  "payoff": "Grow on social media faster",
+  "shortDescription": "Typefully is a powerful tool designed for creators and businesses aiming to enhance their social media presence. It allows users to efficiently queue content, manage collaborations, and analyze social media performance. An example use case is a marketing team using Typefully to schedule and analyze a month's worth of content across different platforms, ensuring consistent engagement without daily manual input.",
+  "pros": [
+    "Queue and manage content easily",
+    "Analytics for social media performance",
+    "AI features to combat writer's block"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential privacy concerns with data handling",
+    "Dependent on social media platform changes"
+  ],
+  "alternatives": [
+    "Buffer [buffer.com]",
+    "Hootsuite [hootsuite.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Simpler interface, also supports scheduling"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "More platforms supported, extensive tools"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Advanced analytics and team features"
+    }
+  ],
+  "tags": [
+    "social media",
+    "content management",
+    "analytics",
+    "AI"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://typefully.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=typefully&type=repositories",
+  "twitterUrl": "https://x.com/marc_louvion",
+  "screenshot": "https://share.appsfor.us/screenshots/typefully_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typefully_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typefully_com_400.png",
+  "updatedAt": "2025-06-20T04:23:40.747Z"
+}

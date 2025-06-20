@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vocable.ai/",
+  "name": "Vocable AI",
+  "title": "vocable.ai",
+  "payoff": "Automate Your Content Marketing",
+  "shortDescription": "Vocable AI simplifies content marketing by automating the creation and distribution of content across multiple channels. Users input their goals or topics, and the platform generates a 30-day content plan tailored to their business needs. Ideal for marketers, creators, and businesses overwhelmed by content creation, Vocable AI offers a streamlined solution to maintain consistent brand messaging and strategic content flow.",
+  "pros": [
+    "Generates a full 30-day content plan with one click",
+    "Supports multiple channels and maintains brand consistency",
+    "Offers customization and AI-assisted content refinement"
+  ],
+  "cons": [
+    "May not fully capture unique brand nuances without customization",
+    "Dependent on user input for initial content direction",
+    "Potential limitations in creativity compared to human copywriters"
+  ],
+  "alternatives": [
+    "HubSpot [hubspot.com]",
+    "ContentStudio [contentstudio.io]",
+    "Hootsuite [hootsuite.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers comprehensive marketing tools"
+    },
+    {
+      "name": "ContentStudio",
+      "url": "contentstudio.io",
+      "reason": "Focuses on social media content management"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Strong in social media scheduling and analytics"
+    }
+  ],
+  "tags": [
+    "content marketing",
+    "AI",
+    "automation",
+    "multi-channel management"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://vocable.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=vocable%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/vocable_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vocable_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vocable_ai_400.png",
+  "updatedAt": "2025-06-20T04:23:14.182Z"
+}

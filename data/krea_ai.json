@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://krea.ai/krea-1",
+  "name": "Krea 1",
+  "title": "krea.ai",
+  "payoff": "Free high-quality AI image generator",
+  "shortDescription": "Krea 1 is a state-of-the-art AI image generator designed for artists, designers, and creatives seeking to produce high-quality images without extensive prompting. It offers tools for fine-tuning and training models to match specific aesthetic preferences. Users can generate images like cinematic portraits, detailed character sketches, or vibrant animated scenes, making it ideal for both professional and personal projects.",
+  "pros": [
+    "Highly expressive and detailed image generation",
+    "Ability to fine-tune and train the AI model",
+    "Free to use with powerful features"
+  ],
+  "cons": [
+    "Limited to image generation",
+    "Requires training for custom styles",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "DeepArt [deepart.io]",
+    "Artbreeder [artbreeder.com]",
+    "Daz 3D [daz3d.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DeepArt",
+      "url": "deepart.io",
+      "reason": "Uses AI for artistic image transformation"
+    },
+    {
+      "name": "Artbreeder",
+      "url": "artbreeder.com",
+      "reason": "Blends images to create new visuals"
+    },
+    {
+      "name": "Daz 3D",
+      "url": "daz3d.com",
+      "reason": "Offers detailed 3D character modeling"
+    }
+  ],
+  "tags": [
+    "AI",
+    "image generation",
+    "creative tools",
+    "model training"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://krea.ai/krea-1",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=krea%201&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/krea_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/krea_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/krea_ai_400.png",
+  "updatedAt": "2025-06-20T04:24:11.610Z"
+}
