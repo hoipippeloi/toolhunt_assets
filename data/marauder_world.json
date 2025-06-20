@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://marauder.world/",
+  "name": "Marauder",
+  "title": "marauder.world",
+  "payoff": "Keep your location history private.",
+  "shortDescription": "Marauder is a privacy-focused tool designed to manage and secure users' location histories directly on their devices. It ensures that all data remains private and never leaves the user's device. Ideal for individuals concerned about their digital privacy, Marauder can be used by travelers, remote workers, and anyone else who values keeping their location data confidential.",
+  "pros": [
+    "Enhanced privacy for location data",
+    "Data stored exclusively on-device",
+    "Simple and user-friendly interface"
+  ],
+  "cons": [
+    "Lacks cloud backup options",
+    "No cross-device synchronization",
+    "Limited features beyond location privacy"
+  ],
+  "alternatives": [
+    "Google Maps [google.com/maps]",
+    "Apple Maps [apple.com/maps]",
+    "Foursquare [foursquare.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Maps",
+      "url": "google.com/maps",
+      "reason": "Offers comprehensive map services with privacy options."
+    },
+    {
+      "name": "Apple Maps",
+      "url": "apple.com/maps",
+      "reason": "Provides privacy-focused navigation tools."
+    },
+    {
+      "name": "Foursquare",
+      "url": "foursquare.com",
+      "reason": "Location-based service with different features."
+    }
+  ],
+  "tags": [
+    "privacy",
+    "location tracking",
+    "data security"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://marauder.world/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=marauder&type=repositories",
+  "twitterUrl": "https://twitter.com/studiolanes",
+  "screenshot": "https://share.appsfor.us/screenshots/marauder_world.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/marauder_world_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/marauder_world_400.png",
+  "updatedAt": "2025-06-20T03:15:40.282Z"
+}

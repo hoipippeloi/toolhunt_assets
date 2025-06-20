@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://logseq.com/",
+  "name": "Logseq",
+  "title": "logseq.com",
+  "payoff": "Privacy-first open-source knowledge base",
+  "shortDescription": "Logseq is a versatile tool designed to help individuals manage their knowledge efficiently. It serves students, academics, writers, project managers, and developers by allowing them to capture, structure, and review notes. Users can also memorize facts with flashcards and outline essays or projects. An example use case is a student using Logseq to organize class notes and study materials for exams.",
+  "pros": [
+    "Open source and privacy-focused",
+    "Supports markdown and offers mobile apps",
+    "Extensive plugin and theme ecosystem"
+  ],
+  "cons": [
+    "May have a learning curve for new users",
+    "Relies on community for updates and support",
+    "Limited enterprise support compared to commercial tools"
+  ],
+  "alternatives": [
+    "Obsidian [obsidian.md]",
+    "Notion [notion.so]",
+    "Roam Research [roamresearch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Obsidian",
+      "url": "obsidian.md",
+      "reason": "Offers a similar markdown-based note system"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Provides a more visual approach to note-taking"
+    },
+    {
+      "name": "Roam Research",
+      "url": "roamresearch.com",
+      "reason": "Focuses on networked thought and bi-directional links"
+    }
+  ],
+  "tags": [
+    "knowledge base",
+    "note-taking",
+    "open source",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Knowledge Base",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://logseq.com/",
+  "documentationUrl": "https://logseq.github.io/#/",
+  "githubUrl": "https://github.com/logseq",
+  "twitterUrl": "https://twitter.com/logseq",
+  "screenshot": "https://share.appsfor.us/screenshots/logseq_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/logseq_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/logseq_com_400.png",
+  "updatedAt": "2025-06-20T03:16:24.661Z"
+}

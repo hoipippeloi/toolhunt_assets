@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gamifyeverything.com/",
+  "name": "Gamify Everything",
+  "title": "gamifyeverything.com",
+  "payoff": "Gamify your app in 5 minutes!",
+  "shortDescription": "Gamify Everything offers APIs to integrate gamification features into applications swiftly, targeting developers and product managers. It enables features like streaks, XP levels, and in-app currency to enhance user engagement and retention. Example use case: A fitness app uses the API to reward users with coins for daily workouts, increasing user activity.",
+  "pros": [
+    "Quick integration with APIs",
+    "Enhances user engagement",
+    "Supports multiple gamification features"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not suit non-gaming apps",
+    "Potential dependency on external service"
+  ],
+  "alternatives": [
+    "Badgeville [badgeville.com]",
+    "Bunchball [bunchball.com]",
+    "Playlyfe [playlyfe.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Badgeville",
+      "url": "badgeville.com",
+      "reason": "Offers tailored gamification tools"
+    },
+    {
+      "name": "Bunchball",
+      "url": "bunchball.com",
+      "reason": "Focuses on data-driven engagement"
+    },
+    {
+      "name": "Playlyfe",
+      "url": "playlyfe.com",
+      "reason": "Provides versatile gamification SDK"
+    }
+  ],
+  "tags": [
+    "gamification",
+    "user engagement",
+    "API",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://gamifyeverything.com/",
+  "documentationUrl": "https://gamifyeverything.com/docs",
+  "githubUrl": "https://github.com/search?q=gamify%20everything&type=repositories",
+  "twitterUrl": "https://x.com/timkonie",
+  "screenshot": "https://share.appsfor.us/screenshots/gamifyeverything_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gamifyeverything_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gamifyeverything_com_400.png",
+  "updatedAt": "2025-06-20T03:16:01.837Z"
+}

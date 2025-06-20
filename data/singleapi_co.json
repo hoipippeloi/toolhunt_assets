@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://singleapi.co/",
+  "name": "SingleAPI",
+  "title": "singleapi.co",
+  "payoff": "Convert websites to API in seconds",
+  "shortDescription": "SingleAPI allows users to transform any website into a usable API instantly, leveraging GPT-4 technology to navigate and extract data as JSON. This tool is ideal for developers, researchers, and businesses looking to automate data extraction and integration. Example use case: A developer uses SingleAPI to scrape product data from e-commerce sites to monitor pricing changes automatically.",
+  "pros": [
+    "Easy to use with powerful capabilities",
+    "Supports a wide range of use cases",
+    "Includes features like proxy rotation and API diagnostics"
+  ],
+  "cons": [
+    "Limited free tier with only 100 requests",
+    "Custom pricing may be expensive for high volume users",
+    "Dependent on external websites' structure and availability"
+  ],
+  "alternatives": [
+    "Scrapy [scrapy.org]",
+    "Import.io [import.io]",
+    "Octoparse [octoparse.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Scrapy",
+      "url": "scrapy.org",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "Import.io",
+      "url": "import.io",
+      "reason": "User-friendly interface with visual scraping"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "No-code setup and cloud-based"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "API",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://singleapi.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=singleapi&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/singleapi_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/singleapi_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/singleapi_co_400.png",
+  "updatedAt": "2025-06-20T03:14:57.821Z"
+}

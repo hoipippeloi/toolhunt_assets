@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://formbricks.com/",
+  "name": "Formbricks",
+  "title": "formbricks.com",
+  "payoff": "Privacy-first Experience Management",
+  "shortDescription": "Formbricks is an open-source experience management platform designed to collect and analyze customer feedback across various digital interfaces. It is ideal for businesses looking to understand user interactions without compromising on privacy. Users can easily integrate it into websites or apps, and start gathering insights within minutes. For example, e-commerce sites can use Formbricks to track customer satisfaction and improve user experience.",
+  "pros": [
+    "Open source and fully customizable",
+    "Privacy-focused with GDPR compliance",
+    "Quick setup with minimal coding required"
+  ],
+  "cons": [
+    "May require technical knowledge for customization",
+    "Limited support compared to paid tools",
+    "Dependent on community for updates and features"
+  ],
+  "alternatives": [
+    "Qualtrics [qualtrics.com]",
+    "Typeform [typeform.com]",
+    "Google Forms [google.com/forms]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SurveyMonkey",
+      "url": "surveymonkey.com",
+      "reason": "Wide range of survey tools and analytics"
+    },
+    {
+      "name": "JotForm",
+      "url": "jotform.com",
+      "reason": "Offers more form customization options"
+    },
+    {
+      "name": "Zoho Survey",
+      "url": "zoho.com/survey",
+      "reason": "Integrates with Zoho's CRM products"
+    }
+  ],
+  "tags": [
+    "open source",
+    "customer feedback",
+    "experience management",
+    "survey tool"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "User Feedback",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://formbricks.com/",
+  "documentationUrl": "https://formbricks.com/docs",
+  "githubUrl": "https://github.com/formbricks/formbricks",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/formbricks_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/formbricks_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/formbricks_com_400.png",
+  "updatedAt": "2025-06-20T03:14:13.212Z"
+}

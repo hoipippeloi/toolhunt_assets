@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://thenile.dev/",
+  "name": "The Nile",
+  "title": "thenile.dev",
+  "payoff": "Re-engineered Postgres for B2B apps",
+  "shortDescription": "The Nile transforms PostgreSQL into a powerful solution tailored for multi-tenant B2B applications. It allows developers to manage a single Postgres database while providing the illusion of unlimited virtual tenant databases. This is ideal for SaaS providers needing scalable, secure data isolation and efficient management of customer-specific data. Example use case includes SaaS platforms that require rapid scaling and data isolation for each client.",
+  "pros": [
+    "Scalable to millions of tenants",
+    "Secure data isolation",
+    "Cost-effective data management"
+  ],
+  "cons": [
+    "Limited to PostgreSQL compatibility",
+    "Potential complexity in initial setup",
+    "May require specific technical expertise"
+  ],
+  "alternatives": [
+    "Citus Data [citusdata.com]",
+    "Aiven for PostgreSQL [aiven.io]",
+    "TimescaleDB [timescale.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Citus Data",
+      "url": "citusdata.com",
+      "reason": "Offers scalable PostgreSQL clustering"
+    },
+    {
+      "name": "Aiven for PostgreSQL",
+      "url": "aiven.io",
+      "reason": "Cloud-based PostgreSQL with high availability"
+    },
+    {
+      "name": "TimescaleDB",
+      "url": "timescale.com",
+      "reason": "Optimized for time-series data on PostgreSQL"
+    }
+  ],
+  "tags": [
+    "PostgreSQL",
+    "multi-tenant",
+    "SaaS",
+    "database"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://thenile.dev/",
+  "documentationUrl": "https://thenile.dev/docs",
+  "githubUrl": "https://github.com/niledatabase/niledatabase",
+  "twitterUrl": "https://x.com/i/status/1717203591944089762",
+  "screenshot": "https://share.appsfor.us/screenshots/thenile_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/thenile_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/thenile_dev_400.png",
+  "updatedAt": "2025-06-20T03:14:34.522Z"
+}
