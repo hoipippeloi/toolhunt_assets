@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mathesar.org/",
+  "name": "Mathesar",
+  "title": "mathesar.org",
+  "payoff": "Spreadsheet-like tool for Postgres",
+  "shortDescription": "Mathesar is an open-source user interface designed to manage Postgres databases with ease. It offers a spreadsheet-like UI that is intuitive for both database administrators and business users. Users can view, edit, and query data without needing additional coding. An example use case includes managing assets like books or inventory, where users can update records and track levels efficiently.",
+  "pros": [
+    "Easy to deploy with robust access control",
+    "Integrates directly with Postgres permissions",
+    "Self-hosted, ensuring data privacy"
+  ],
+  "cons": [
+    "Limited to Postgres databases",
+    "No cloud hosting option",
+    "May require technical knowledge for setup"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Airtable [airtable.com]",
+    "TablePlus [tableplus.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual development for apps"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database and spreadsheet"
+    },
+    {
+      "name": "TablePlus",
+      "url": "tableplus.com",
+      "reason": "Database management with a GUI"
+    }
+  ],
+  "tags": [
+    "open source",
+    "database management",
+    "UI for databases",
+    "Postgres"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mathesar.org/",
+  "documentationUrl": "https://docs.mathesar.org/",
+  "githubUrl": "https://github.com/mathesar-foundation/mathesar",
+  "twitterUrl": "https://twitter.com/mathesar_org",
+  "screenshot": "https://share.appsfor.us/screenshots/mathesar_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mathesar_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mathesar_org_400.png",
+  "updatedAt": "2025-06-20T08:19:56.482Z"
+}
