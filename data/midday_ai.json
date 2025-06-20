@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://midday.ai/",
+  "name": "Midday",
+  "title": "midday.ai",
+  "payoff": "Run your business smarter",
+  "shortDescription": "Midday is a versatile business management tool designed for entrepreneurs seeking to streamline their operations. It offers features like invoicing, time tracking, and financial overview, all centralized in one platform. An example use case is a small business owner using Midday to automate invoice reconciliation, saving significant time and gaining better financial insights.",
+  "pros": [
+    "Integrates with over 20,000 banks",
+    "User-friendly interface",
+    "Automated financial processes"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially overwhelming for new users",
+    "Dependent on third-party bank integrations"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "FreshBooks [freshbooks.com]",
+    "Xero [xero.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used for accounting and finance"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Focus on small business invoicing"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong in cloud-based financial management"
+    }
+  ],
+  "tags": [
+    "Finance",
+    "Invoicing",
+    "Time Tracking",
+    "Entrepreneurship"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://midday.ai/",
+  "documentationUrl": "https://midday.ai/docs",
+  "githubUrl": "https://github.com/search?q=midday&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/midday_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/midday_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/midday_ai_400.png",
+  "updatedAt": "2025-06-20T01:05:34.236Z"
+}

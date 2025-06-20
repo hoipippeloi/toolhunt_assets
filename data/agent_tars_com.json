@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://agent-tars.com/",
+  "name": "Agent TARS",
+  "title": "agent-tars.com",
+  "payoff": "Seamless multimodal AI integration",
+  "shortDescription": "Agent TARS is an open-source multimodal AI agent designed to enhance software development processes by integrating with various tools like search engines, file editors, and command lines. It's ideal for developers looking to automate tasks and streamline workflows. An example use case could be automating data analysis and file management tasks to improve efficiency and reduce manual errors.",
+  "pros": [
+    "Open-source flexibility",
+    "Integrates with multiple tools",
+    "Continuous learning and adaptation"
+  ],
+  "cons": [
+    "Requires technical expertise",
+    "Dependent on community contributions",
+    "Limited customer support"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Microsoft Power Automate [powerautomate.com]",
+    "Node-RED [nodered.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for rapid development"
+    },
+    {
+      "name": "Node-RED",
+      "url": "nodered.org",
+      "reason": "Provides a flow-based development environment"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Focuses on easy automation for busy people"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "integration",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://agent-tars.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/bytedance/UI-TARS-desktop",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/agent_tars_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/agent_tars_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/agent_tars_com_400.png",
+  "updatedAt": "2025-06-20T01:06:34.634Z"
+}

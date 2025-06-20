@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://superlist.com/",
+  "name": "Superlist",
+  "title": "superlist.com",
+  "payoff": "Streamline work, increase accountability",
+  "shortDescription": "Superlist is an AI-powered tool designed to enhance productivity by automating note-taking and task management. It is ideal for teams looking to streamline their workflows and improve collaboration. Users can generate meeting notes, manage tasks, and follow up on action items seamlessly. An example use case is a project team using Superlist to convert discussion points into tasks during a meeting, ensuring nothing gets missed and everyone is accountable.",
+  "pros": [
+    "AI-powered meeting notes",
+    "Real-time list sharing and collaboration",
+    "Integrates with Slack, GitHub, and more"
+  ],
+  "cons": [
+    "May be overly complex for small teams",
+    "Potential privacy concerns with AI note-taking",
+    "Dependence on voice input accuracy"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with integrated notes"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Well-known for task and project management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Simple, card-based task management"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "AI",
+    "task management",
+    "note-taking"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://superlist.com/",
+  "documentationUrl": "https://help.superlist.com/en/",
+  "githubUrl": "https://github.com/superlistapp",
+  "twitterUrl": "https://x.com/Superlist",
+  "screenshot": "https://share.appsfor.us/screenshots/superlist_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/superlist_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/superlist_com_400.png",
+  "updatedAt": "2025-06-20T01:08:29.676Z"
+}

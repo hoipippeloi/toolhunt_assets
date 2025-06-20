@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ticktick.com/",
+  "name": "TickTick",
+  "title": "ticktick.com",
+  "payoff": "Organize tasks and calendars efficiently",
+  "shortDescription": "TickTick is a versatile task management tool designed to help individuals and teams organize their daily activities, manage schedules, and track habits. It offers a variety of views like calendar, Kanban, and timeline to suit different planning needs. Users can also utilize the Pomodoro timer for focused work sessions and habit tracking features to maintain good practices. Ideal for students, professionals, and anyone looking to streamline their productivity.",
+  "pros": [
+    "Cross-platform syncing",
+    "Intuitive user interface",
+    "Rich feature set including Pomodoro and habit tracking"
+  ],
+  "cons": [
+    "Premium features require subscription",
+    "May be overwhelming for new users",
+    "Limited customization in free version"
+  ],
+  "alternatives": [
+    "Todoist [todoist.com]",
+    "Microsoft To Do [todo.microsoft.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Offers more integrations and collaboration features."
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Focuses on Kanban-style project management."
+    },
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Strong note-taking and organization features."
+    }
+  ],
+  "tags": [
+    "task management",
+    "productivity",
+    "calendar",
+    "Pomodoro"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://ticktick.com/",
+  "documentationUrl": "https://support.ticktick.com/hc/en-us",
+  "githubUrl": "https://github.com/search?q=ticktick&type=repositories",
+  "twitterUrl": "https://twitter.com/intent/user?screen_name=ticktick",
+  "screenshot": "https://share.appsfor.us/screenshots/ticktick_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ticktick_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ticktick_com_400.png",
+  "updatedAt": "2025-06-20T01:06:06.706Z"
+}

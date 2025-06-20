@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://revid.ai/",
+  "name": "Revid AI",
+  "title": "revid.ai",
+  "payoff": "Ideate, Publish, Go Viral",
+  "shortDescription": "Revid AI simplifies video creation for social media platforms like TikTok, Instagram, and YouTube. Users can generate attention-grabbing videos with minimal effort using AI-driven tools. Ideal for content creators aiming to increase their reach and engagement, the tool automates scriptwriting, voice selection, and video editing. An example use case is a social media influencer creating daily content to grow their audience.",
+  "pros": [
+    "Automates video creation process",
+    "Supports multiple languages and platforms",
+    "No editing skills required"
+  ],
+  "cons": [
+    "Dependence on AI might limit creative control",
+    "May not handle complex video editing tasks",
+    "Potential privacy concerns with AI-generated content"
+  ],
+  "alternatives": [
+    "Lumen5 [lumen5.com]",
+    "Animoto [animoto.com]",
+    "InVideo [invideo.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Offers similar AI-driven video creation"
+    },
+    {
+      "name": "Animoto",
+      "url": "animoto.com",
+      "reason": "Focuses on easy video editing for marketers"
+    },
+    {
+      "name": "InVideo",
+      "url": "invideo.io",
+      "reason": "Provides extensive video editing features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "content creation",
+    "social media"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://revid.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=revid%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/tibo_maker",
+  "screenshot": "https://share.appsfor.us/screenshots/revid_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/revid_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/revid_ai_400.png",
+  "updatedAt": "2025-06-20T01:07:41.813Z"
+}
