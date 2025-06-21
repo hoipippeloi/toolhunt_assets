@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://firefly.adobe.com/",
+  "name": "Adobe Firefly",
+  "title": "firefly.adobe.com",
+  "payoff": "Create with AI-powered tools",
+  "shortDescription": "Adobe Firefly is a cutting-edge creative tool designed for artists, designers, and content creators. It leverages AI to generate high-quality images, videos, and SVGs from text descriptions. Users can start with an image and generate videos, remix images on a board, or create using 3D shapes. An example use case is a graphic designer generating promotional materials quickly without starting from scratch.",
+  "pros": [
+    "Generates multimedia content from text",
+    "Integrates with Adobe products",
+    "Supports image and video creation"
+  ],
+  "cons": [
+    "May require high computational power",
+    "Potential learning curve for new users",
+    "Limited to Adobe ecosystem"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "DALL-E [openai.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers easy design tools with templates"
+    },
+    {
+      "name": "DALL-E",
+      "url": "openai.com",
+      "reason": "AI tool for generating images from text"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Collaborative interface design tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "design tools",
+    "content creation",
+    "multimedia"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://firefly.adobe.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=adobe%20firefly&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/firefly_adobe_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/firefly_adobe_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/firefly_adobe_com_400.png",
+  "updatedAt": "2025-06-21T03:10:55.007Z"
+}

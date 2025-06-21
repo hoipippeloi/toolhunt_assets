@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datazip.io/",
+  "name": "DataZip",
+  "title": "datazip.io",
+  "payoff": "Composable Lakehouse Platform",
+  "shortDescription": "DataZip offers a composable lakehouse platform designed to streamline data management and analytics. It is tailored for businesses looking to integrate diverse data sources into a unified repository for advanced analytics. An example use case includes enterprises leveraging DataZip to enhance decision-making capabilities by consolidating data from various departments into a single, accessible platform.",
+  "pros": [
+    "Unified data repository",
+    "Enhanced analytics capabilities",
+    "Flexible data integration"
+  ],
+  "cons": [
+    "Complex setup for beginners",
+    "Potential high cost for large data volumes",
+    "Requires technical expertise to manage"
+  ],
+  "alternatives": [
+    "Databricks [databricks.com]",
+    "Snowflake [snowflake.com]",
+    "Google BigQuery [cloud.google.com/bigquery]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Databricks",
+      "url": "databricks.com",
+      "reason": "Offers a unified analytics platform"
+    },
+    {
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Cloud-based data warehousing"
+    },
+    {
+      "name": "Google BigQuery",
+      "url": "cloud.google.com/bigquery",
+      "reason": "Managed data warehouse for large-scale data"
+    }
+  ],
+  "tags": [
+    "data management",
+    "analytics",
+    "lakehouse",
+    "data integration"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://datazip.io/",
+  "documentationUrl": "https://datazip.io/docs",
+  "githubUrl": "https://github.com/search?q=datazip&type=repositories",
+  "twitterUrl": "https://twitter.com/datazipio",
+  "screenshot": "https://share.appsfor.us/screenshots/datazip_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datazip_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datazip_io_400.png",
+  "updatedAt": "2025-06-21T03:12:50.419Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zenstack.dev/",
+  "name": "ZenStack",
+  "title": "zenstack.dev",
+  "payoff": "Simplified Full-Stack Development",
+  "shortDescription": "ZenStack is a TypeScript toolkit that leverages Prisma ORM to enhance full-stack development. It integrates flexible authorization and auto-generates type-safe APIs and hooks, making it ideal for developers seeking to streamline their workflow. By embedding access control policies within the data model, ZenStack simplifies security and reduces the need for complex code. An example use case is a developer quickly setting up secure CRUD APIs for a web application, significantly cutting down development time.",
+  "pros": [
+    "Auto-generates type-safe APIs and hooks",
+    "Integrates flexible authorization directly in the data model",
+    "Supports multiple frameworks and tools"
+  ],
+  "cons": [
+    "Dependent on Prisma ORM",
+    "May not support all database types",
+    "Potentially steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Hasura [hasura.io]",
+    "PostgREST [postgrest.org]",
+    "Supabase [supabase.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hasura",
+      "url": "hasura.io",
+      "reason": "GraphQL APIs over new or existing databases"
+    },
+    {
+      "name": "PostgREST",
+      "url": "postgrest.org",
+      "reason": "Turns PostgreSQL database into a REST API"
+    },
+    {
+      "name": "Supabase",
+      "url": "supabase.com",
+      "reason": "Open source Firebase alternative"
+    }
+  ],
+  "tags": [
+    "full-stack development",
+    "ORM",
+    "TypeScript",
+    "API generation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://zenstack.dev/",
+  "documentationUrl": "https://zenstack.dev/docs",
+  "githubUrl": "https://github.com/zenstackhq/zenstack",
+  "twitterUrl": "https://twitter.com/sorenbs/status/1709924686635892917",
+  "screenshot": "https://share.appsfor.us/screenshots/zenstack_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zenstack_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zenstack_dev_400.png",
+  "updatedAt": "2025-06-21T03:11:25.010Z"
+}

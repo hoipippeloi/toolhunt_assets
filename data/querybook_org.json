@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://querybook.org/",
+  "name": "Querybook",
+  "title": "querybook.org",
+  "payoff": "Open-source big data IDE",
+  "shortDescription": "Querybook is an open-source IDE designed for big data analysis, primarily used by engineers and data scientists. It supports a variety of databases and cloud platforms, and is easily deployable via Docker or Kubernetes. Users can start a demo instance within minutes, making it ideal for collaborative, scalable data analysis. A notable use case is by Pinterest's Advertiser Growth Team for sizing new experiments and performing analysis.",
+  "pros": [
+    "Supports multiple databases and cloud platforms",
+    "Collaborative features for real-time updates",
+    "Easy deployment with Docker and Kubernetes"
+  ],
+  "cons": [
+    "May require technical knowledge to set up",
+    "Limited to data analysis and management",
+    "Dependent on external databases and platforms"
+  ],
+  "alternatives": [
+    "Jupyter Notebook [jupyter.org]",
+    "Apache Zeppelin [zeppelin.apache.org]",
+    "Databricks [databricks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jupyter Notebook",
+      "url": "jupyter.org",
+      "reason": "Popular for interactive data science"
+    },
+    {
+      "name": "Apache Zeppelin",
+      "url": "zeppelin.apache.org",
+      "reason": "Similar features with a focus on collaboration"
+    },
+    {
+      "name": "Databricks",
+      "url": "databricks.com",
+      "reason": "Offers cloud-based big data processing"
+    }
+  ],
+  "tags": [
+    "open source",
+    "data analysis",
+    "big data",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://querybook.org/",
+  "documentationUrl": "https://querybook.org/docs/",
+  "githubUrl": "https://github.com/pinterest/querybook",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/querybook_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/querybook_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/querybook_org_400.png",
+  "updatedAt": "2025-06-21T03:12:19.480Z"
+}

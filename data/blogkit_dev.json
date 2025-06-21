@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blogkit.dev/",
+  "name": "Blogkit",
+  "title": "blogkit.dev",
+  "payoff": "Fast & SEO-ready Blogging Platform",
+  "shortDescription": "Blogkit is a comprehensive blogging platform designed for professionals seeking to create, monitor, and grow their blogs. It integrates features like Tailwind CSS and React.js for customization, built-in SEO tools for better ranking, and email newsletter capabilities. Ideal for bloggers who need efficient, scalable solutions to reach a wider audience and engage effectively.",
+  "pros": [
+    "Built-in SEO and analytics tools",
+    "Customizable with Tailwind CSS and React.js",
+    "Email newsletters integrated"
+  ],
+  "cons": [
+    "Limited design templates",
+    "Potentially steep learning curve for beginners",
+    "No clear pricing structure mentioned"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Ghost [ghost.org]",
+    "Wix [wix.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Extensive customization and plugin ecosystem"
+    },
+    {
+      "name": "Ghost",
+      "url": "ghost.org",
+      "reason": "Focus on professional publishing"
+    },
+    {
+      "name": "Medium",
+      "url": "medium.com",
+      "reason": "Simplified blogging with built-in audience"
+    }
+  ],
+  "tags": [
+    "blogging",
+    "SEO",
+    "email marketing",
+    "analytics"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://blogkit.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=blogkit&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/blogkit_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/blogkit_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/blogkit_dev_400.png",
+  "updatedAt": "2025-06-21T03:10:20.519Z"
+}

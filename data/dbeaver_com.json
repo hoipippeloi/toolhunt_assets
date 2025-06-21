@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dbeaver.com/",
+  "name": "DBeaver PRO",
+  "title": "dbeaver.com",
+  "payoff": "Manage 100+ Data Sources",
+  "shortDescription": "DBeaver PRO is a professional data management software designed for technical and business users who need to handle SQL, NoSQL, and cloud data sources. It offers a professional SQL Editor and a suite of tools for database administration, making it suitable for tasks like financial analysis, software development, and data collaboration across teams.",
+  "pros": [
+    "Supports over 100 data sources",
+    "Advanced SQL editing capabilities",
+    "Role-based collaboration tools"
+  ],
+  "cons": [
+    "Pricing can be unclear",
+    "May be complex for beginners",
+    "Limited customizability in certain areas"
+  ],
+  "alternatives": [
+    "Navicat [navicat.com]",
+    "SQL Server Management Studio [microsoft.com]",
+    "HeidiSQL [heidisql.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Navicat",
+      "url": "navicat.com",
+      "reason": "Offers visual SQL builder and data modeling"
+    },
+    {
+      "name": "SQL Server Management Studio",
+      "url": "microsoft.com",
+      "reason": "Integrated environment for managing SQL infra"
+    },
+    {
+      "name": "HeidiSQL",
+      "url": "heidisql.com",
+      "reason": "Free and open source with a simple interface"
+    }
+  ],
+  "tags": [
+    "data management",
+    "SQL editor",
+    "database administration",
+    "data collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://dbeaver.com/",
+  "documentationUrl": "https://dbeaver.com/documentation/",
+  "githubUrl": "https://github.com/search?q=dbeaver%20pro&type=repositories",
+  "twitterUrl": "https://twitter.com/dbeaver_news",
+  "screenshot": "https://share.appsfor.us/screenshots/dbeaver_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dbeaver_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dbeaver_com_400.png",
+  "updatedAt": "2025-06-21T03:11:54.800Z"
+}
