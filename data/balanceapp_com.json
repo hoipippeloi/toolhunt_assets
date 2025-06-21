@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://balanceapp.com/",
+  "name": "Balance",
+  "title": "balanceapp.com",
+  "payoff": "Personalized meditation experience",
+  "shortDescription": "Balance app offers a unique, personalized approach to meditation by adapting its content based on user feedback. It's designed for individuals looking to improve their mental health through tailored meditation sessions. Users can enhance their daily life by engaging with custom meditations guided by experts, leveraging a vast library of meditation audio files.",
+  "pros": [
+    "Personalized meditation sessions",
+    "Guidance from experienced experts",
+    "Extensive meditation audio library"
+  ],
+  "cons": [
+    "Requires continuous interaction for personalization",
+    "Potential privacy concerns with data handling",
+    "Limited to meditation and mental health"
+  ],
+  "alternatives": [
+    "Headspace [headspace.com]",
+    "Calm [calm.com]",
+    "Insight Timer [insighttimer.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Headspace",
+      "url": "headspace.com",
+      "reason": "Offers guided meditations for relaxation"
+    },
+    {
+      "name": "Calm",
+      "url": "calm.com",
+      "reason": "Focuses on sleep and meditation"
+    },
+    {
+      "name": "Insight Timer",
+      "url": "insighttimer.com",
+      "reason": "Large library of free meditations"
+    }
+  ],
+  "tags": [
+    "meditation",
+    "mental health",
+    "personal development",
+    "wellness"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://balanceapp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=balance&type=repositories",
+  "twitterUrl": "https://www.dropbox.com/sh/lvoxe72p5xpcrah/AACVxvGNAJiSnziU82WC74Upa?dl=0",
+  "screenshot": "https://share.appsfor.us/screenshots/balanceapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/balanceapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/balanceapp_com_400.png",
+  "updatedAt": "2025-06-21T04:19:05.347Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://horilla.com/",
+  "name": "Horilla",
+  "title": "horilla.com",
+  "payoff": "Free Comprehensive HR Software",
+  "shortDescription": "Horilla is an open-source HRMS solution designed to streamline HR operations for businesses of all sizes. It centralizes employee management, enhances payroll processing, and supports customizable HR workflows. Ideal for companies looking to manage HR tasks efficiently without cost, Horilla offers flexibility in hosting and extensive customization, making it suitable for diverse business needs.",
+  "pros": [
+    "Completely free and open-source",
+    "Customizable to fit various business needs",
+    "Supports self-hosting on local or live servers"
+  ],
+  "cons": [
+    "May require technical skill to deploy and customize",
+    "Limited support compared to paid products",
+    "Dependent on community for updates and features"
+  ],
+  "alternatives": [
+    "BambooHR [bamboohr.com]",
+    "Zoho People [zoho.com/people]",
+    "Gusto [gusto.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "BambooHR",
+      "url": "bamboohr.com",
+      "reason": "Offers comprehensive HR tools with support"
+    },
+    {
+      "name": "Zoho People",
+      "url": "zoho.com/people",
+      "reason": "Integrates with other Zoho services"
+    },
+    {
+      "name": "Gusto",
+      "url": "gusto.com",
+      "reason": "Focuses on payroll and HR benefits"
+    }
+  ],
+  "tags": [
+    "HRMS",
+    "open source",
+    "employee management",
+    "payroll processing"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Human Resources Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://horilla.com/",
+  "documentationUrl": "https://horilla.com/documentation",
+  "githubUrl": "https://github.com/horilla-opensource/horilla/",
+  "twitterUrl": "https://twitter.com/horillahrms",
+  "screenshot": "https://share.appsfor.us/screenshots/horilla_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/horilla_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/horilla_com_400.png",
+  "updatedAt": "2025-06-21T04:20:43.736Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://splice.com/",
+  "name": "Splice",
+  "title": "splice.com",
+  "payoff": "Royalty-Free Sounds & More",
+  "shortDescription": "Splice offers a vast library of samples, loops, and effects tailored for music producers and songwriters. Users can access millions of sounds and utilize tools like Create mode for matching loops, enhancing the music creation process. Ideal for musicians looking to explore new sounds or find inspiration, Splice allows integration with DAWs for seamless workflow. An example use case is a producer sketching out a new track using Splice's curated sounds and presets.",
+  "pros": [
+    "Extensive sound library",
+    "Seamless DAW integration",
+    "Affordable plugin payment plans"
+  ],
+  "cons": [
+    "Requires internet connection",
+    "Subscription-based model",
+    "Limited to audio production"
+  ],
+  "alternatives": [
+    "Loopmasters [loopmasters.com]",
+    "Native Instruments [native-instruments.com]",
+    "Sounds.com [sounds.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Loopmasters",
+      "url": "loopmasters.com",
+      "reason": "Wide range of music samples"
+    },
+    {
+      "name": "Native Instruments",
+      "url": "native-instruments.com",
+      "reason": "Comprehensive audio tools"
+    },
+    {
+      "name": "Sounds.com",
+      "url": "sounds.com",
+      "reason": "Subscription-based sound library"
+    }
+  ],
+  "tags": [
+    "music production",
+    "sound library",
+    "DAW integration",
+    "subscription service"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://splice.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=splice&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/splice_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/splice_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/splice_com_400.png",
+  "updatedAt": "2025-06-21T04:20:15.372Z"
+}

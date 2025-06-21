@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://switcherstudio.com/",
+  "name": "Switcher",
+  "title": "switcherstudio.com",
+  "payoff": "Multi Camera Live Streaming",
+  "shortDescription": "Switcher Studio transforms your iPhones, iPads, and cameras into a multi-camera streaming studio, allowing you to capture events from multiple angles. It's designed for creators, educators, and event organizers who want to enhance their live streaming capabilities without investing in expensive equipment. Users can stream simultaneously to platforms like Facebook, YouTube, and Instagram, integrate multimedia assets, and engage with their audience in real-time.",
+  "pros": [
+    "Supports multi-camera streaming",
+    "Streams to multiple platforms simultaneously",
+    "No need for expensive equipment"
+  ],
+  "cons": [
+    "Limited to iOS devices and cameras",
+    "Subscription-based with transaction fees",
+    "May require high bandwidth for multiple streams"
+  ],
+  "alternatives": [
+    "OBS Studio [obsproject.com]",
+    "Wirecast [telestream.net]",
+    "vMix [vmix.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OBS Studio",
+      "url": "obsproject.com",
+      "reason": "Free and open-source streaming tool"
+    },
+    {
+      "name": "Wirecast",
+      "url": "telestream.net",
+      "reason": "Professional live video streaming production"
+    },
+    {
+      "name": "vMix",
+      "url": "vmix.com",
+      "reason": "Offers live mixing, switching, and streaming"
+    }
+  ],
+  "tags": [
+    "live streaming",
+    "video production",
+    "multimedia",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://switcherstudio.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=switcher&type=repositories",
+  "twitterUrl": "https://twitter.com/switcherStudio",
+  "screenshot": "https://share.appsfor.us/screenshots/switcherstudio_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/switcherstudio_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/switcherstudio_com_400.png",
+  "updatedAt": "2025-06-21T04:19:43.112Z"
+}
