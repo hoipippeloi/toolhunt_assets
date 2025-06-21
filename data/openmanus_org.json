@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://openmanus.org/",
+  "name": "OpenManus Online",
+  "title": "openmanus.org",
+  "payoff": "AI Agent as a Service",
+  "shortDescription": "OpenManus Online provides a web-based AI agent service designed to simplify the integration and use of AI capabilities across various applications. Targeted towards developers and businesses, it enables easy access to advanced AI features without the need for extensive setup. An example use case is automating customer service interactions using the AI agent to handle common queries efficiently.",
+  "pros": [
+    "Simplified AI integration",
+    "Web-based access from any device",
+    "Continuous updates and improvements"
+  ],
+  "cons": [
+    "Dependence on internet connectivity",
+    "Potential privacy concerns with data handling",
+    "Limited customization options in early stages"
+  ],
+  "alternatives": [
+    "Google AI Platform [cloud.google.com/ai-platform]",
+    "IBM Watson [ibm.com/watson]",
+    "Microsoft Azure AI [azure.microsoft.com/en-us/services/cognitive-services/]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Azure AI",
+      "url": "azure.microsoft.com/en-us/services/cognitive-services/",
+      "reason": "Comprehensive cloud AI services"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Strong on enterprise AI solutions"
+    },
+    {
+      "name": "Google Cloud AI",
+      "url": "cloud.google.com/ai-platform",
+      "reason": "Wide range of AI tools and APIs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "SaaS",
+    "AI agent",
+    "Data management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://openmanus.org/",
+  "documentationUrl": "https://openmanus.org/documentation",
+  "githubUrl": "https://github.com/openmanus-ai",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/openmanus_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/openmanus_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/openmanus_org_400.png",
+  "updatedAt": "2025-06-21T01:05:40.777Z"
+}

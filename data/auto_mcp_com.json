@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://auto-mcp.com/",
+  "name": "Naptha Auto MCP",
+  "title": "auto-mcp.com",
+  "payoff": "Deploy MCP servers instantly!",
+  "shortDescription": "Naptha Auto MCP enables rapid deployment of MCP servers, transforming agents, tools, or orchestrators into fully functional MCP servers within seconds. This tool is ideal for developers looking to integrate multi-agent capabilities into applications like Cursor without dealing with complex infrastructure. Example use case: A developer can enter their Github repository link, and deploy their agent as an MCP server instantly, making it ready to use in platforms like Cursor or Claude Desktop.",
+  "pros": [
+    "Instant deployment of MCP servers",
+    "No complex infrastructure required",
+    "Seamless integration with tools like Cursor"
+  ],
+  "cons": [
+    "Limited to MCP server functionalities",
+    "Dependent on external repositories like Github",
+    "May not support all types of agents or tools"
+  ],
+  "alternatives": [
+    "Vercel [vercel.com]",
+    "Heroku [heroku.com]",
+    "Netlify [netlify.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Offers similar instant deployment features"
+    },
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Supports a wide range of development needs"
+    },
+    {
+      "name": "Netlify",
+      "url": "netlify.com",
+      "reason": "Focuses on easy web app deployments"
+    }
+  ],
+  "tags": [
+    "MCP servers",
+    "deployment",
+    "integration",
+    "cloud services"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Cloud Platform",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://auto-mcp.com/",
+  "documentationUrl": "https://auto-mcp.com/docs",
+  "githubUrl": "https://github.com/NapthaAI/auto-mcp",
+  "twitterUrl": "https://x.com/napthaai?lang=ar",
+  "screenshot": "https://share.appsfor.us/screenshots/auto_mcp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/auto_mcp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/auto_mcp_com_400.png",
+  "updatedAt": "2025-06-21T01:04:37.154Z"
+}

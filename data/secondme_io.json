@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://secondme.io/",
+  "name": "Second Me",
+  "title": "secondme.io",
+  "payoff": "Empower your AI identity",
+  "shortDescription": "Second Me is an open-source AI tool designed to create personalized AI agents that represent users authentically. It ensures privacy and individuality by running locally and forming a decentralized network. Ideal for anyone looking to maintain control over their digital identity, Second Me can be used to navigate digital spaces autonomously, making it perfect for creating AI-driven personal assistants.",
+  "pros": [
+    "100% privacy with local data control",
+    "Deep personalization of AI behavior",
+    "Decentralized network enhancing security"
+  ],
+  "cons": [
+    "Requires technical knowledge to setup",
+    "Potential complexity in managing AI",
+    "Limited mainstream adoption"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepMind [deepmind.com]",
+    "Hugging Face [huggingface.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and applications"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Advanced AI research and development"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Community-driven AI models"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "privacy",
+    "personalization"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://secondme.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/mindverse/Second-Me",
+  "twitterUrl": "https://x.com/SecondMe_AI1",
+  "screenshot": "https://share.appsfor.us/screenshots/secondme_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/secondme_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/secondme_io_400.png",
+  "updatedAt": "2025-06-21T01:05:14.657Z"
+}

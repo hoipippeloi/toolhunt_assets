@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://meetearnie.com/",
+  "name": "Earnie",
+  "title": "meetearnie.com",
+  "payoff": "Unlock your child's academic potential",
+  "shortDescription": "Earnie is an AI-powered learning companion designed to enhance the educational experience of children. It offers personalized learning tools such as summaries, suggestions, and quizzes to help children engage and grow academically. Parents can track progress with weekly summaries, ensuring a safe and effective learning journey.",
+  "pros": [
+    "Personalized learning experience",
+    "Weekly progress summaries for parents",
+    "Safe and designed specifically for children"
+  ],
+  "cons": [
+    "Limited to educational use",
+    "May not replace traditional tutoring completely",
+    "Dependent on technology access"
+  ],
+  "alternatives": [
+    "Khan Academy [khanacademy.org]",
+    "Coursera [coursera.org]",
+    "Duolingo [duolingo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Khan Academy",
+      "url": "khanacademy.org",
+      "reason": "Offers a broad range of free courses"
+    },
+    {
+      "name": "Coursera",
+      "url": "coursera.org",
+      "reason": "Provides professional courses and certificates"
+    },
+    {
+      "name": "Duolingo",
+      "url": "duolingo.com",
+      "reason": "Interactive language learning platform"
+    }
+  ],
+  "tags": [
+    "AI",
+    "E-Learning",
+    "Child Education",
+    "Personalized Learning"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://meetearnie.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=earnie&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/meetearnie_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/meetearnie_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/meetearnie_com_400.png",
+  "updatedAt": "2025-06-21T01:06:15.961Z"
+}

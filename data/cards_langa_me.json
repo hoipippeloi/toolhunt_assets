@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cards.langa.me/",
+  "name": "Cards",
+  "title": "cards.langa.me",
+  "payoff": "Enjoy AI-generated card games",
+  "shortDescription": "Cards allows users to create a personalized deck of conversation cards to enjoy with friends and family. By simply swiping, users can select which cards to include in their deck, tailoring the game experience to their preferences. Ideal for social gatherings, this tool enhances interactions and provides a fun, engaging way to converse.",
+  "pros": [
+    "Customizable card decks",
+    "Enhances social interactions",
+    "Easy to use with simple swiping mechanism"
+  ],
+  "cons": [
+    "Limited to card-based games",
+    "Requires internet connection",
+    "May not appeal to all age groups"
+  ],
+  "alternatives": [
+    "Tabletopia [tabletopia.com]",
+    "Jackbox Games [jackboxgames.com]",
+    "PlayingCards.io [playingcards.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tabletopia",
+      "url": "tabletopia.com",
+      "reason": "Offers a wide range of board games online"
+    },
+    {
+      "name": "Jackbox Games",
+      "url": "jackboxgames.com",
+      "reason": "Interactive party games for digital platforms"
+    },
+    {
+      "name": "PlayingCards.io",
+      "url": "playingcards.io",
+      "reason": "Customizable virtual card and board games"
+    }
+  ],
+  "tags": [
+    "gaming",
+    "social interaction",
+    "AI",
+    "entertainment"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://cards.langa.me/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=cards&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/cards_langa_me.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cards_langa_me_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cards_langa_me_400.png",
+  "updatedAt": "2025-06-21T01:06:38.936Z"
+}

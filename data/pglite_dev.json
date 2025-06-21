@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pglite.dev/",
+  "name": "PGlite",
+  "title": "pglite.dev",
+  "payoff": "Full local Postgres in WASM under 3MB",
+  "shortDescription": "PGlite offers an embeddable, lightweight version of Postgres that runs entirely in your browser using WASM. It's designed for developers needing local databases with capabilities like live sync and dynamic extension loading. An ideal use case is for testing or development environments where quick setup and low overhead are crucial. PGlite's small footprint and built-in features make it a practical choice for projects requiring efficient data handling without server dependencies.",
+  "pros": [
+    "Lightweight and embeddable",
+    "Support for dynamic extensions",
+    "Built-in data synchronization"
+  ],
+  "cons": [
+    "Limited by browser capabilities",
+    "Potential security concerns",
+    "May not handle large data sets well"
+  ],
+  "alternatives": [
+    "PostgreSQL [postgresql.org]",
+    "SQLite [sqlite.org]",
+    "Supabase [supabase.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SQLite",
+      "url": "sqlite.org",
+      "reason": "Lightweight DB, no server needed"
+    },
+    {
+      "name": "Supabase",
+      "url": "supabase.com",
+      "reason": "Open source Firebase alternative"
+    },
+    {
+      "name": "CockroachDB",
+      "url": "cockroachlabs.com",
+      "reason": "Scalable SQL database"
+    }
+  ],
+  "tags": [
+    "databases",
+    "WASM",
+    "data sync",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://pglite.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/electric-sql/pglite",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/pglite_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pglite_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pglite_dev_400.png",
+  "updatedAt": "2025-06-21T01:03:59.843Z"
+}
