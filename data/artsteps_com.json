@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://artsteps.com/",
+  "name": "artsteps",
+  "title": "artsteps.com",
+  "payoff": "Make your own VR Exhibitions",
+  "shortDescription": "Artsteps allows users to create immersive VR exhibitions easily. It is designed for artists, educators, and marketers who wish to showcase digital content in a virtual space. Users can upload images, videos, and 3D models, add music, and narrate to craft unique VR experiences. An example use case is a museum creating a virtual tour of their latest exhibits.",
+  "pros": [
+    "Easy to use VR creation tools",
+    "Supports multimedia and 3D models",
+    "Options for social sharing and community engagement"
+  ],
+  "cons": [
+    "Requires VR compatible hardware for full experience",
+    "May have limited customization in free tier",
+    "Premium services necessary for advanced features"
+  ],
+  "alternatives": [
+    "Virtually [virtually.com]",
+    "Matterport [matterport.com]",
+    "Sketchfab [sketchfab.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Virtually",
+      "url": "virtually.com",
+      "reason": "Focuses on VR for education and training"
+    },
+    {
+      "name": "Matterport",
+      "url": "matterport.com",
+      "reason": "Specializes in 3D space capture and VR tours"
+    },
+    {
+      "name": "Sketchfab",
+      "url": "sketchfab.com",
+      "reason": "Platform for publishing and sharing 3D content"
+    }
+  ],
+  "tags": [
+    "VR",
+    "exhibition design",
+    "virtual tours",
+    "3D modeling"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://artsteps.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=artsteps&type=repositories",
+  "twitterUrl": "https://twitter.com/artsteps_?lang=en",
+  "screenshot": "https://share.appsfor.us/screenshots/artsteps_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/artsteps_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/artsteps_com_400.png",
+  "updatedAt": "2025-06-22T10:15:56.896Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://omnitools.app/",
+  "name": "Omni Tools",
+  "title": "omnitools.app",
+  "payoff": "Boost your productivity quickly!",
+  "shortDescription": "Omni Tools offers a comprehensive suite of utilities designed to enhance productivity directly from your browser. Catering to a wide range of needs, it includes tools for image editing, text manipulation, PDF operations, video editing, and more. Ideal for professionals and casual users alike, one can easily compress images, sort lists, or convert PDFs efficiently.",
+  "pros": [
+    "Wide range of tools in one platform",
+    "User-friendly interface",
+    "No installation required"
+  ],
+  "cons": [
+    "Dependent on internet connectivity",
+    "Limited advanced features",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Zamzar [zamzar.com]",
+    "Smallpdf [smallpdf.com]",
+    "CloudConvert [cloudconvert.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zamzar",
+      "url": "zamzar.com",
+      "reason": "Supports various file conversions"
+    },
+    {
+      "name": "Smallpdf",
+      "url": "smallpdf.com",
+      "reason": "Focuses on PDF tools and services"
+    },
+    {
+      "name": "CloudConvert",
+      "url": "cloudconvert.com",
+      "reason": "Offers extensive file conversion options"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "browser-based",
+    "multifunctional",
+    "toolkit"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://omnitools.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=omni%20tools&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/omnitools_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/omnitools_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/omnitools_app_400.png",
+  "updatedAt": "2025-06-22T06:21:44.107Z"
+}
