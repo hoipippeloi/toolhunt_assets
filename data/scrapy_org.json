@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://scrapy.org/",
+  "name": "Scrapy",
+  "title": "scrapy.org",
+  "payoff": "Most-used data extraction framework",
+  "shortDescription": "Scrapy is an open-source framework designed for extracting data from websites. It allows users to write rules to extract specific data, automating the process with its powerful capabilities. Primarily used by developers and data scientists, Scrapy is ideal for creating data-driven applications or performing market analysis. For example, a user can quickly set up a Scrapy project to scrape product pricing and details from e-commerce sites for competitive analysis.",
+  "pros": [
+    "Fast and efficient data extraction",
+    "Highly customizable with Python",
+    "Strong community support"
+  ],
+  "cons": [
+    "Requires Python knowledge",
+    "Not suitable for non-coders",
+    "Limited to web scraping"
+  ],
+  "alternatives": [
+    "Beautiful Soup [crummy.com]",
+    "ParseHub [parsehub.com]",
+    "Octoparse [octoparse.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Beautiful Soup",
+      "url": "crummy.com",
+      "reason": "Popular for simpler scraping tasks"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Visual scraping with no coding"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "Automated scraping without coding"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "open source",
+    "Python"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2008,
+  "websiteUrl": "https://scrapy.org/",
+  "documentationUrl": "https://docs.scrapy.org/en/latest/",
+  "githubUrl": "https://github.com/scrapy/scrapy",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/scrapy_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/scrapy_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/scrapy_org_400.png",
+  "updatedAt": "2025-06-22T10:15:06.244Z"
+}
