@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://leemons.io/",
+  "name": "Leemons",
+  "title": "leemons.io",
+  "payoff": "Data-driven learning platform",
+  "shortDescription": "Leemons is a versatile learning platform designed to enhance educational outcomes by adapting to various teaching models. It integrates a suite of productivity tools tailored for the academic environment, promoting collaboration and digital skill acquisition. Key features include a Kanban board for task management, a comprehensive library system, and advanced data analytics to monitor student engagement and progress.",
+  "pros": [
+    "Adaptable to different teaching styles",
+    "Comprehensive productivity tools",
+    "Advanced data analytics for education"
+  ],
+  "cons": [
+    "May be complex to set up",
+    "Potential learning curve for new users",
+    "Limited information on integration with other platforms"
+  ],
+  "alternatives": [
+    "Canvas [instructure.com]",
+    "Blackboard [blackboard.com]",
+    "Moodle [moodle.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canvas",
+      "url": "instructure.com",
+      "reason": "Widely used in academic institutions"
+    },
+    {
+      "name": "Blackboard",
+      "url": "blackboard.com",
+      "reason": "Offers comprehensive LMS features"
+    },
+    {
+      "name": "Moodle",
+      "url": "moodle.org",
+      "reason": "Open source and highly customizable"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Data Analytics",
+    "Education Technology"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://leemons.io/",
+  "documentationUrl": "https://leemons.io/docs",
+  "githubUrl": "https://github.com/leemonade",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/leemons_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/leemons_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/leemons_io_400.png",
+  "updatedAt": "2025-06-22T03:25:01.473Z"
+}

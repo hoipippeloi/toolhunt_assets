@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://talknotes.io/",
+  "name": "Talknotes",
+  "title": "talknotes.io",
+  "payoff": "AI voice note app",
+  "shortDescription": "Talknotes is an AI-powered voice transcription and note-taking app designed to enhance productivity for professionals. It allows users to record their thoughts and automatically transcribes them into organized notes. Ideal for meetings, interviews, and personal journaling, Talknotes ensures that every detail is captured and accessible, turning spoken ideas into actionable notes.",
+  "pros": [
+    "Saves time with AI transcription",
+    "Customizable note templates",
+    "Supports both iOS and Android platforms"
+  ],
+  "cons": [
+    "Dependent on voice clarity",
+    "Limited to a 7-day free trial",
+    "May require internet connection"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Evernote [evernote.com]",
+    "Notion [notion.so]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers live transcription"
+    },
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Note-taking with more features"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Extensive note organization"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "note-taking",
+    "voice transcription"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://talknotes.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=talknotes&type=repositories",
+  "twitterUrl": "https://twitter.com/TalkNotesApp",
+  "screenshot": "https://share.appsfor.us/screenshots/talknotes_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/talknotes_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/talknotes_io_400.png",
+  "updatedAt": "2025-06-22T03:23:09.629Z"
+}

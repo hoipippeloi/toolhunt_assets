@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://livebook.dev/",
+  "name": "Livebook",
+  "title": "livebook.dev",
+  "payoff": "Automate workflows with notebooks",
+  "shortDescription": "Livebook is an interactive notebook tool designed to automate code and data workflows. It is ideal for developers and data scientists who need a flexible and efficient environment for experimentation and development. Users can install Livebook quickly on various platforms including Linux and Docker, and run it either locally or in the cloud. An example use case is using Livebook for real-time data analysis and visualization in a collaborative team setting.",
+  "pros": [
+    "Easy installation and setup",
+    "Supports both local and cloud execution",
+    "Collaborative features for teams"
+  ],
+  "cons": [
+    "Requires familiarity with Elixir",
+    "Limited third-party integrations",
+    "Beta features may have issues"
+  ],
+  "alternatives": [
+    "Jupyter Notebook [jupyter.org]",
+    "Google Colab [colab.research.google.com]",
+    "Observable [observablehq.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jupyter Notebook",
+      "url": "jupyter.org",
+      "reason": "Popular for data science projects"
+    },
+    {
+      "name": "Google Colab",
+      "url": "colab.research.google.com",
+      "reason": "Offers free access to GPUs"
+    },
+    {
+      "name": "Observable",
+      "url": "observablehq.com",
+      "reason": "Interactive data visualization"
+    }
+  ],
+  "tags": [
+    "interactive notebooks",
+    "data analysis",
+    "collaboration",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://livebook.dev/",
+  "documentationUrl": "https://github.com/livebook-dev/livebook#readme",
+  "githubUrl": "https://github.com/livebook-dev/livebook",
+  "twitterUrl": "https://twitter.com/livebookdev",
+  "screenshot": "https://share.appsfor.us/screenshots/livebook_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/livebook_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/livebook_dev_400.png",
+  "updatedAt": "2025-06-22T03:24:07.707Z"
+}

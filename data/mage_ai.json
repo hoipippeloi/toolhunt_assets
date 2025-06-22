@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mage.ai/",
+  "name": "Mage AI",
+  "title": "mage.ai",
+  "payoff": "Magical Data Engineering Workflows",
+  "shortDescription": "Mage AI is a powerful tool designed for developers to build, deploy, and manage data pipelines efficiently. It offers an intuitive interface that allows users to handle data operations from simple transformations to complex workflows. An example use case is moving data from Google Cloud to an analytics platform, ensuring data is deduplicated and ready for analysis.",
+  "pros": [
+    "Intuitive interface for easy use",
+    "AI-enhanced coding and debugging",
+    "Scalable to any size instantly with Mage Pro"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Dependent on cloud connectivity",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Airflow [airflow.apache.org]",
+    "Prefect [prefect.io]",
+    "Talend [talend.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apache Airflow",
+      "url": "airflow.apache.org",
+      "reason": "Popular open-source workflow automation tool"
+    },
+    {
+      "name": "Prefect",
+      "url": "prefect.io",
+      "reason": "Modern data workflow management with a UI"
+    },
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Comprehensive data integration platform"
+    }
+  ],
+  "tags": [
+    "data engineering",
+    "AI",
+    "data pipelines",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mage.ai/",
+  "documentationUrl": "https://mage.ai/docs",
+  "githubUrl": "https://github.com/search?q=mage%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/mage_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mage_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mage_ai_400.png",
+  "updatedAt": "2025-06-22T03:23:42.008Z"
+}

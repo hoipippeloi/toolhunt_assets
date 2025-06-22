@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://userdoc.fyi/",
+  "name": "Userdoc",
+  "title": "userdoc.fyi",
+  "payoff": "Build better software requirements",
+  "shortDescription": "Userdoc accelerates the creation of software requirements by leveraging AI. It is designed for software development teams to generate user stories, personas, and documentation swiftly. An example use case is a development team using Userdoc to transform code into understandable documentation, integrating seamlessly with existing project management tools.",
+  "pros": [
+    "AI-driven requirements generation",
+    "Integration with existing project management tools",
+    "Supports compliance and audits"
+  ],
+  "cons": [
+    "May not replace detailed manual documentation",
+    "Dependent on AI accuracy",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Confluence [atlassian.com/software/confluence]",
+    "Jira [atlassian.com/software/jira]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Robust collaboration and documentation"
+    },
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Comprehensive project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Flexible project tracking and management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "documentation",
+    "project management",
+    "software development"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://userdoc.fyi/",
+  "documentationUrl": "https://userdoc.fyi/documentation",
+  "githubUrl": "https://github.com/search?q=userdoc&type=repositories",
+  "twitterUrl": "https://twitter.com/@chrisrickard",
+  "screenshot": "https://share.appsfor.us/screenshots/userdoc_fyi.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/userdoc_fyi_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/userdoc_fyi_400.png",
+  "updatedAt": "2025-06-22T03:24:28.505Z"
+}

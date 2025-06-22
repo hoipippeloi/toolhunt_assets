@@ -1,0 +1,60 @@
+{
+  "sourceUrl": "https://airparser.com/",
+  "name": "Airparser",
+  "title": "airparser.com",
+  "payoff": "Automate data extraction in minutes.",
+  "shortDescription": "Airparser leverages LLM technology to simplify data extraction from various document types including emails, PDFs, and handwritten texts. It's designed for businesses of all sizes looking to automate their data handling processes. An example use case is extracting order details from emails to streamline order processing.",
+  "pros": [
+    "Quick setup within 5 minutes",
+    "Supports a wide range of document types",
+    "Integration with major automation platforms"
+  ],
+  "cons": [
+    "May struggle with very poor handwriting",
+    "Dependent on clear input data quality",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Docparser [docparser.com]",
+    "Mailparser [mailparser.io]",
+    "Parsio [parsio.io]",
+    "Nanonets [nanonets.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Docparser",
+      "url": "docparser.com",
+      "reason": "Offers robust parsing options."
+    },
+    {
+      "name": "Mailparser",
+      "url": "mailparser.io",
+      "reason": "Focuses on email data extraction."
+    },
+    {
+      "name": "Parsio",
+      "url": "parsio.io",
+      "reason": "Targets email and PDF parsing."
+    }
+  ],
+  "tags": [
+    "data extraction",
+    "document parsing",
+    "automation",
+    "LLM technology"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://airparser.com/",
+  "documentationUrl": "https://help.airparser.com/",
+  "githubUrl": "https://github.com/search?q=airparser&type=repositories",
+  "twitterUrl": "https://x.com/airparser",
+  "screenshot": "https://share.appsfor.us/screenshots/airparser_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/airparser_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/airparser_com_400.png",
+  "updatedAt": "2025-06-22T03:22:43.265Z"
+}
