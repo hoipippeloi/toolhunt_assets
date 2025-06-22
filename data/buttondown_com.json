@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://buttondown.com/",
+  "name": "Buttondown",
+  "title": "buttondown.com",
+  "payoff": "Simplify your newsletter experience",
+  "shortDescription": "Buttondown is an email platform designed for both individual creators and large enterprises, focusing on simplicity and reliability. It offers features like one-click concierge migration, ensuring a seamless transition for users migrating from other platforms. Ideal for anyone looking to manage newsletters without the hassle of complex features or unreliable service.",
+  "pros": [
+    "One-click concierge migration",
+    "Supports both individuals and enterprises",
+    "Focus on essential email features"
+  ],
+  "cons": [
+    "Limited customization options",
+    "No advanced marketing tools",
+    "Potentially higher cost for premium features"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "Sendinblue [sendinblue.com]",
+    "ConvertKit [convertkit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers extensive marketing tools"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Includes SMS and chat features"
+    },
+    {
+      "name": "ConvertKit",
+      "url": "convertkit.com",
+      "reason": "Focused on creators with automation"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "newsletter management",
+    "SaaS",
+    "user engagement"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://buttondown.com/",
+  "documentationUrl": "https://docs.buttondown.com/",
+  "githubUrl": "https://github.com/buttondown",
+  "twitterUrl": "https://twitter.com/mefkansec",
+  "screenshot": "https://share.appsfor.us/screenshots/buttondown_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/buttondown_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/buttondown_com_400.png",
+  "updatedAt": "2025-06-22T01:12:11.017Z"
+}

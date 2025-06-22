@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://3daistudio.com/",
+  "name": "3D AI Studio",
+  "title": "3daistudio.com",
+  "payoff": "Generate 3D Models Instantly",
+  "shortDescription": "3D AI Studio revolutionizes the creation of 3D models by allowing users to generate models from text or images within seconds. Targeted at professionals like game developers and website developers, it simplifies workflows by automating the texturing and remeshing processes. For example, a game developer can transform an idea into a fully-textured game asset rapidly, enhancing productivity and creativity.",
+  "pros": [
+    "Fast generation of 3D models",
+    "High-quality texturing and remeshing",
+    "User-friendly interface suitable for non-experts"
+  ],
+  "cons": [
+    "Dependence on AI might limit customizability",
+    "Potential privacy concerns with uploaded images",
+    "Requires internet connection"
+  ],
+  "alternatives": [
+    "Blender [blender.org]",
+    "SketchUp [sketchup.com]",
+    "Autodesk Tinkercad [tinkercad.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Open-source and feature-rich 3D creation suite"
+    },
+    {
+      "name": "SketchUp",
+      "url": "sketchup.com",
+      "reason": "User-friendly 3D modeling tool with a free version"
+    },
+    {
+      "name": "Autodesk Tinkercad",
+      "url": "tinkercad.com",
+      "reason": "Simple, online 3D design and 3D printing app"
+    }
+  ],
+  "tags": [
+    "3D modeling",
+    "AI",
+    "image processing",
+    "design tools"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://3daistudio.com/",
+  "documentationUrl": "https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy",
+  "githubUrl": "https://github.com/search?q=3d%20ai%20studio&type=repositories",
+  "twitterUrl": "https://twitter.com/nickfloats/status/1857520389146214495",
+  "screenshot": "https://share.appsfor.us/screenshots/3daistudio_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/3daistudio_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/3daistudio_com_400.png",
+  "updatedAt": "2025-06-22T01:13:05.098Z"
+}

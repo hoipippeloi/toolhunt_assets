@@ -1,46 +1,46 @@
 {
-  "sourceUrl": "https://mistral.ai/",
-  "name": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/products/le-chat",
+  "name": "Le Chat",
   "title": "mistral.ai",
-  "payoff": "Frontier AI in Your Hands",
-  "shortDescription": "Mistral AI provides a platform for building, customizing, and deploying AI solutions tailored to specific needs. It offers tools for training, fine-tuning, and deploying AI models on various platforms including cloud and edge devices. Users can maintain control over their data with a privacy-first approach. Example use case: A tech company uses Mistral AI to develop a multilingual customer service agent that operates across different devices.",
+  "payoff": "AI assistant for meaningful work",
+  "shortDescription": "Le Chat is an enterprise AI assistant designed to enhance productivity across various departments. It offers customizable AI agents that can be deployed at scale to suit specific organizational needs. Users can leverage these agents for deep research, generating insights from complex data, and creating content. An example use case is in a marketing department where Le Chat can analyze consumer data to provide strategic insights.",
   "pros": [
-    "Customizable AI solutions",
-    "Privacy-first approach",
-    "Supports multilingual and multimodal AI"
+    "Customizable AI capabilities",
+    "Privacy and control maintained",
+    "Multimodal AI integration"
   ],
   "cons": [
-    "May require technical expertise",
-    "Potentially high cost for enterprise features",
-    "Limited information on user support"
+    "May require technical expertise to deploy",
+    "Potential high cost for enterprise scale",
+    "Dependence on data quality and availability"
   ],
   "alternatives": [
-    "OpenAI [openai.com]",
+    "OpenAI GPT [openai.com]",
     "IBM Watson [ibm.com/watson]",
-    "Google AI [ai.google]"
+    "Google Cloud AI [cloud.google.com/ai]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "OpenAI",
+      "name": "OpenAI GPT",
       "url": "openai.com",
-      "reason": "Leading AI research and tools"
+      "reason": "Offers advanced language models"
     },
     {
       "name": "IBM Watson",
       "url": "ibm.com/watson",
-      "reason": "Enterprise AI with strong analytics"
+      "reason": "Strong in enterprise AI solutions"
     },
     {
-      "name": "Google AI",
-      "url": "ai.google",
-      "reason": "Advanced AI technologies and tools"
+      "name": "Google Cloud AI",
+      "url": "cloud.google.com/ai",
+      "reason": "Wide range of AI tools and APIs"
     }
   ],
   "tags": [
     "AI",
-    "machine learning",
-    "data privacy",
-    "customization"
+    "enterprise",
+    "customization",
+    "privacy"
   ],
   "apiUsed": true,
   "department": "Research & Development",
@@ -48,12 +48,12 @@
   "freeTier": false,
   "openSource": false,
   "releasedYear": 2021,
-  "websiteUrl": "https://mistral.ai/",
+  "websiteUrl": "https://mistral.ai/products/le-chat",
   "documentationUrl": "https://mistral.ai/docs",
-  "githubUrl": "https://github.com/search?q=mistral%20ai&type=repositories",
+  "githubUrl": "https://github.com/search?q=le%20chat&type=repositories",
   "twitterUrl": "https://x.com/mistralai",
   "screenshot": "https://share.appsfor.us/screenshots/mistral_ai.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/mistral_ai_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/mistral_ai_400.png",
-  "updatedAt": "2025-06-04T01:13:50.953Z"
+  "updatedAt": "2025-06-22T01:12:36.238Z"
 }
