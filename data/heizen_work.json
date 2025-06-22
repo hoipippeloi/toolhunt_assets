@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://heizen.work/",
+  "name": "Heizen",
+  "title": "heizen.work",
+  "payoff": "Software Delivery at Lightspeed",
+  "shortDescription": "Heizen accelerates software delivery by combining AI and top-tier engineers. It targets enterprises needing rapid, reliable software deployment. Users benefit from AI agents handling tasks from coding to compliance, significantly reducing the development lifecycle. An example use case is a tech company needing to scale software production without compromising quality.",
+  "pros": [
+    "Significantly speeds up software delivery",
+    "Integrates AI with human expertise",
+    "Covers comprehensive development tasks"
+  ],
+  "cons": [
+    "Potentially high cost for small businesses",
+    "Dependence on AI might limit custom solutions",
+    "Requires high technical proficiency to manage"
+  ],
+  "alternatives": [
+    "Jira Software [atlassian.com]",
+    "GitLab [gitlab.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira Software",
+      "url": "atlassian.com",
+      "reason": "Comprehensive project management tool"
+    },
+    {
+      "name": "GitLab",
+      "url": "gitlab.com",
+      "reason": "Complete DevOps platform, open source"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Project tracking with integrated features"
+    }
+  ],
+  "tags": [
+    "software delivery",
+    "AI",
+    "enterprise software",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://heizen.work/",
+  "documentationUrl": "https://heizen.work/documentation",
+  "githubUrl": "https://github.com/search?q=heizen&type=repositories",
+  "twitterUrl": "https://x.com/HeizenOfficial",
+  "screenshot": "https://share.appsfor.us/screenshots/heizen_work.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/heizen_work_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/heizen_work_400.png",
+  "updatedAt": "2025-06-22T18:18:19.799Z"
+}
