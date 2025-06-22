@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zen-browser.app/",
+  "name": "Zen Browser",
+  "title": "zen-browser.app",
+  "payoff": "A calmer, productive internet experience",
+  "shortDescription": "Zen Browser is designed to enhance productivity and focus by minimizing distractions. It's ideal for users who need to manage multiple projects without losing concentration. Features like Workspaces and Compact Mode help organize and streamline your browsing experience. For example, a project manager can use Workspaces to separate different project tabs and use Split View for simultaneous comparisons.",
+  "pros": [
+    "Privacy-focused design",
+    "Features to boost productivity",
+    "Customizable user interface"
+  ],
+  "cons": [
+    "Limited browser extensions",
+    "Potentially smaller user community",
+    "Less integration with external services"
+  ],
+  "alternatives": [
+    "Google Chrome [google.com/chrome]",
+    "Mozilla Firefox [mozilla.org]",
+    "Microsoft Edge [microsoft.com/edge]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Widely used with extensive support"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "url": "mozilla.org",
+      "reason": "Strong privacy features and customization"
+    },
+    {
+      "name": "Opera",
+      "url": "opera.com",
+      "reason": "Innovative features like built-in VPN"
+    }
+  ],
+  "tags": [
+    "web browser",
+    "productivity",
+    "privacy",
+    "user experience"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://zen-browser.app/",
+  "documentationUrl": "https://zen-browser.app/documentation",
+  "githubUrl": "https://github.com/zen-browser",
+  "twitterUrl": "https://x.com/zen_browser",
+  "screenshot": "https://share.appsfor.us/screenshots/zen_browser_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zen_browser_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zen_browser_app_400.png",
+  "updatedAt": "2025-06-22T08:20:24.716Z"
+}

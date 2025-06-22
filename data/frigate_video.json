@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://frigate.video/",
+  "name": "Frigate NVR",
+  "title": "frigate.video",
+  "payoff": "Locally processed AI security",
+  "shortDescription": "Frigate NVR is an open source network video recorder that leverages real-time AI object detection to monitor security cameras. It processes all data locally, ensuring privacy and eliminating cloud dependencies. Ideal for home automation enthusiasts, Frigate can detect objects like people or cars, enhancing security without false positives. It integrates seamlessly with Home Assistant and other platforms, making it a versatile tool for smart home setups.",
+  "pros": [
+    "Real-time AI object detection",
+    "Local processing for enhanced privacy",
+    "Seamless integration with home automation platforms"
+  ],
+  "cons": [
+    "Requires supported AI accelerator hardware",
+    "Potentially complex setup for non-technical users",
+    "Limited to local network without cloud support"
+  ],
+  "alternatives": [
+    "Blue Iris [blueirissoftware.com]",
+    "ZoneMinder [zoneminder.com]",
+    "Shinobi [shinobi.video]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Blue Iris",
+      "url": "blueirissoftware.com",
+      "reason": "Offers advanced video management"
+    },
+    {
+      "name": "ZoneMinder",
+      "url": "zoneminder.com",
+      "reason": "Open source and feature-rich"
+    },
+    {
+      "name": "Shinobi",
+      "url": "shinobi.video",
+      "reason": "Flexible and modern NVR solution"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "security",
+    "home automation"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://frigate.video/",
+  "documentationUrl": "https://docs.frigate.video/",
+  "githubUrl": "https://github.com/blakeblackshear/frigate",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/frigate_video.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/frigate_video_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/frigate_video_400.png",
+  "updatedAt": "2025-06-22T08:18:51.278Z"
+}

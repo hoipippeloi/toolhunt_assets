@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://unsloth.ai/",
+  "name": "Unsloth AI",
+  "title": "unsloth.ai",
+  "payoff": "Fine-Tuning LLMs Made Easy",
+  "shortDescription": "Unsloth AI revolutionizes the process of fine-tuning large language models (LLMs) by providing tools that speed up training on GPUs. Targeted at developers and AI researchers, Unsloth AI offers a scalable solution to train custom models more efficiently. Example use case includes training AI models for natural language processing tasks in significantly reduced time.",
+  "pros": [
+    "Significantly faster training times",
+    "Supports a wide range of GPUs",
+    "Offers both free and enterprise versions"
+  ],
+  "cons": [
+    "Limited multi-GPU support in free version",
+    "No clear information on customer support quality",
+    "Potential compatibility issues with non-NVIDIA GPUs"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Hugging Face [huggingface.co]",
+    "DeepAI [deepai.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and tools provider"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Popular platform for ML models"
+    },
+    {
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "Wide range of AI tools and APIs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "machine learning",
+    "GPU acceleration",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://unsloth.ai/",
+  "documentationUrl": "https://docs.unsloth.ai/",
+  "githubUrl": "https://github.com/unslothai/unsloth",
+  "twitterUrl": "https://x.com/unslothai",
+  "screenshot": "https://share.appsfor.us/screenshots/unsloth_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/unsloth_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/unsloth_ai_400.png",
+  "updatedAt": "2025-06-22T08:18:05.763Z"
+}

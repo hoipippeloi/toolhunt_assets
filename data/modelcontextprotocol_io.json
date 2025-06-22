@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://modelcontextprotocol.io",
+  "name": "Model Context Protocol",
+  "title": "modelcontextprotocol.io",
+  "payoff": "Standardize AI application contexts",
+  "shortDescription": "Model Context Protocol (MCP) is an open protocol designed to standardize how applications provide context to large language models (LLMs). It functions similarly to a USB-C port, offering a universal connection interface for AI models to interact with various data sources and tools. This protocol is particularly useful for developers looking to build complex AI-driven workflows and agents, integrating seamlessly with servers and clients across different platforms.",
+  "pros": [
+    "Standardized integration with LLMs",
+    "Supports multiple programming languages",
+    "Facilitates complex AI-driven workflows"
+  ],
+  "cons": [
+    "Requires understanding of client-server architecture",
+    "Potential complexity in initial setup",
+    "Dependent on community contributions for growth"
+  ],
+  "alternatives": [
+    "OpenAI API [openai.com]",
+    "Microsoft Azure AI [azure.microsoft.com]",
+    "IBM Watson [ibm.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI API",
+      "url": "openai.com",
+      "reason": "Offers comprehensive AI APIs"
+    },
+    {
+      "name": "Google Cloud AI",
+      "url": "cloud.google.com",
+      "reason": "Wide range of AI tools and APIs"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com",
+      "reason": "Pioneering AI services and APIs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "protocol",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://modelcontextprotocol.io",
+  "documentationUrl": "https://modelcontextprotocol.io/docs",
+  "githubUrl": "https://github.com/modelcontextprotocol",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/modelcontextprotocol_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/modelcontextprotocol_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/modelcontextprotocol_io_400.png",
+  "updatedAt": "2025-06-22T08:19:42.232Z"
+}
