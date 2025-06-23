@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://browsermcp.io/",
+  "name": "Browser MCP",
+  "title": "browsermcp.io",
+  "payoff": "Automate your browser with AI",
+  "shortDescription": "Browser MCP enables AI-driven automation directly in your web browser. It's designed for developers and tech enthusiasts who need to automate repetitive web-based tasks such as form filling, data collection, and workflow automation. An example use case is enabling an AI editor to automatically test code, ensuring applications function correctly across various scenarios.",
+  "pros": [
+    "Automation happens locally for enhanced performance",
+    "Keeps browser activity private by not sending data remotely",
+    "Uses real browser fingerprint to avoid detection and CAPTCHAs"
+  ],
+  "cons": [
+    "Requires installation of both a browser extension and server",
+    "Limited to the capabilities of the connected AI applications",
+    "Potential compatibility issues with different browser versions"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Selenium [selenium.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Offers robust enterprise automation."
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Focuses on scalable automation solutions."
+    },
+    {
+      "name": "Selenium",
+      "url": "selenium.dev",
+      "reason": "Open source tool for web browser automation."
+    }
+  ],
+  "tags": [
+    "browser automation",
+    "AI integration",
+    "web scraping",
+    "task automation"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://browsermcp.io/",
+  "documentationUrl": "https://docs.browsermcp.io/welcome",
+  "githubUrl": "https://github.com/browsermcp/mcp",
+  "twitterUrl": "https://x.com/roadtoramen",
+  "screenshot": "https://share.appsfor.us/screenshots/browsermcp_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/browsermcp_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/browsermcp_io_400.png",
+  "updatedAt": "2025-06-23T06:24:36.405Z"
+}
