@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://swipeone.com/",
+  "name": "Swipe One",
+  "title": "swipeone.com",
+  "payoff": "Grow your business on Auto Pilot",
+  "shortDescription": "Swipe One is a CRM and marketing automation platform designed for agile businesses looking to scale efficiently. It offers tools for managing audiences, automating marketing, and creating personalized email campaigns. Ideal for digital businesses, Swipe One helps convert leads into loyal customers with less effort, providing a 360-degree view of customer interactions and integrating with numerous apps like Shopify and Calendly.",
+  "pros": [
+    "Automated marketing and CRM functionalities",
+    "Integration with numerous third-party apps",
+    "Real-time insights and customizable workflows"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential high cost for full features",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "HubSpot [hubspot.com]",
+    "Salesforce [salesforce.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers comprehensive CRM and marketing tools"
+    },
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Widely used CRM with extensive features"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Strong in email marketing automation"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "marketing automation",
+    "email marketing",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://swipeone.com/",
+  "documentationUrl": "https://docs.swipeone.com/en/",
+  "githubUrl": "https://github.com/search?q=swipe%20one&type=repositories",
+  "twitterUrl": "https://x.com/swipeoneapp",
+  "screenshot": "https://share.appsfor.us/screenshots/swipeone_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/swipeone_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/swipeone_com_400.png",
+  "updatedAt": "2025-06-23T01:11:32.561Z"
+}
