@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://code2prompt.dev/",
+  "name": "Code2Prompt",
+  "title": "code2prompt.dev",
+  "payoff": "Optimize code into AI prompts quickly!",
+  "shortDescription": "Code2Prompt is a tool designed to transform code repositories into structured prompts for AI and automation. It caters to developers and programmers, enabling efficient interaction between AI models and code. An example use case is integrating Code2Prompt into Python applications to automate code analysis and enhance AI interactions.",
+  "pros": [
+    "Rapid conversion of code to AI prompts",
+    "Supports integration into Python applications",
+    "Reduces noise and increases AI performance"
+  ],
+  "cons": [
+    "May require technical knowledge to integrate",
+    "Limited to code-based applications",
+    "Potential dependency on specific programming environments"
+  ],
+  "alternatives": [
+    "OpenAI Codex [openai.com]",
+    "GitHub Copilot [github.com]",
+    "DeepCode [deepcode.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI Codex",
+      "url": "openai.com",
+      "reason": "Offers AI-driven code suggestions."
+    },
+    {
+      "name": "GitHub Copilot",
+      "url": "github.com",
+      "reason": "AI pair programmer that helps write code."
+    },
+    {
+      "name": "DeepCode",
+      "url": "deepcode.ai",
+      "reason": "Analyzes code for bugs and improvements."
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "code analysis",
+    "developer tools"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://code2prompt.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/mufeedvh/code2prompt/tree/main/crates/code2prompt",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/code2prompt_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/code2prompt_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/code2prompt_dev_400.png",
+  "updatedAt": "2025-06-23T06:22:32.487Z"
+}

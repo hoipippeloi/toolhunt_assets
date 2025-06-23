@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://redditinc.com/",
+  "name": "Reddit",
+  "title": "redditinc.com",
+  "payoff": "The heart of the internet",
+  "shortDescription": "Reddit connects people around the world through communities based on shared interests. Users can engage in discussions, share content, and participate in upvoting or downvoting posts. Ideal for anyone interested in diverse topics from sports to TV fan theories. For example, a sports enthusiast can join a community to discuss the latest games and share insights.",
+  "pros": [
+    "Vast range of communities",
+    "User-driven content curation",
+    "Real-time discussion and feedback"
+  ],
+  "cons": [
+    "Potential for misinformation",
+    "Can be overwhelming due to content volume",
+    "Variable moderation quality across communities"
+  ],
+  "alternatives": [
+    "Quora [quora.com]",
+    "Stack Exchange [stackexchange.com]",
+    "Discourse [discourse.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Quora",
+      "url": "quora.com",
+      "reason": "Q&A platform with expert insights"
+    },
+    {
+      "name": "Stack Exchange",
+      "url": "stackexchange.com",
+      "reason": "Community-driven Q&A for various topics"
+    },
+    {
+      "name": "Discourse",
+      "url": "discourse.org",
+      "reason": "Open-source discussion platform"
+    }
+  ],
+  "tags": [
+    "community",
+    "social media",
+    "content sharing",
+    "discussion"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2005,
+  "websiteUrl": "https://redditinc.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=reddit&type=repositories",
+  "twitterUrl": "https://www.twitter.com/reddit",
+  "screenshot": "https://share.appsfor.us/screenshots/redditinc_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/redditinc_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/redditinc_com_400.png",
+  "updatedAt": "2025-06-23T06:25:12.088Z"
+}
