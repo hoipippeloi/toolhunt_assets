@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://to-teach.ai/",
+  "name": "to teach",
+  "title": "to-teach.ai",
+  "payoff": "AI for your classroom needs",
+  "shortDescription": "to teach is an AI-powered educational tool designed to assist teachers in planning lessons, creating exercises, and generating worksheets. It aligns with educational curriculums, providing materials and solutions to enhance teaching efficiency. For example, a teacher can use to teach to create up to 200 exercises, 50 worksheets, and 25 lesson plans monthly, significantly reducing preparation time.",
+  "pros": [
+    "Aligned with educational curriculums",
+    "Includes comprehensive teaching materials",
+    "Offers scalable plans for different needs"
+  ],
+  "cons": [
+    "Limited free plan features",
+    "No API for developer integration",
+    "Could be complex for tech-averse users"
+  ],
+  "alternatives": [
+    "Kahoot [kahoot.com]",
+    "Quizlet [quizlet.com]",
+    "Edmodo [edmodo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot",
+      "url": "kahoot.com",
+      "reason": "Interactive learning with gamification"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers diverse study tools and games"
+    },
+    {
+      "name": "Edmodo",
+      "url": "edmodo.com",
+      "reason": "Connects teachers, students, and parents"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "AI",
+    "Education",
+    "Lesson Planning"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://to-teach.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=to%20teach&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/to_teach_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/to_teach_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/to_teach_ai_400.png",
+  "updatedAt": "2025-06-23T03:25:57.322Z"
+}

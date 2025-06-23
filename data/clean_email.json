@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://clean.email/",
+  "name": "Clean Email",
+  "title": "clean.email",
+  "payoff": "Organize and clean emails easily",
+  "shortDescription": "Clean Email is designed to help manage overloaded mailboxes by organizing emails into smart folders and bundles. It automates tasks like unsubscribing from unwanted lists and archiving old emails. Ideal for individuals and businesses alike, it simplifies email management across all devices and email providers. An example use case is achieving Inbox Zero by automating the cleaning of social network notifications.",
+  "pros": [
+    "Automates repetitive email management tasks",
+    "Supports all major email providers and devices",
+    "Enhances privacy and security of email data"
+  ],
+  "cons": [
+    "Requires a paid upgrade for full functionality",
+    "May not support very specific email providers",
+    "Potential privacy concerns with email access"
+  ],
+  "alternatives": [
+    "Unroll.me [unroll.me]",
+    "Cleanfox [cleanfox.io]",
+    "Sanebox [sanebox.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Unroll.me",
+      "url": "unroll.me",
+      "reason": "Simplifies unsubscribing from emails"
+    },
+    {
+      "name": "Cleanfox",
+      "url": "cleanfox.io",
+      "reason": "Cleans and unsubscribes efficiently"
+    },
+    {
+      "name": "Sanebox",
+      "url": "sanebox.com",
+      "reason": "Offers advanced filtering options"
+    }
+  ],
+  "tags": [
+    "email management",
+    "productivity",
+    "automation",
+    "email security"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://clean.email/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=clean%20email&type=repositories",
+  "twitterUrl": "https://x.com/clean_email",
+  "screenshot": "https://share.appsfor.us/screenshots/clean_email.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/clean_email_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/clean_email_400.png",
+  "updatedAt": "2025-06-23T03:25:03.826Z"
+}
