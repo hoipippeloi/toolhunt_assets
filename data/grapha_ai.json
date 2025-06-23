@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://grapha.ai/",
+  "name": "Grapha.ai",
+  "title": "grapha.ai",
+  "payoff": "Assisted data exploration for all",
+  "shortDescription": "Grapha.ai is a tool designed to simplify data exploration, making it accessible to a wide range of users, from professionals to casual data enthusiasts. It provides an intuitive interface that helps users quickly understand complex data sets and uncover valuable insights. For example, a marketing analyst could use Grapha.ai to identify trends in customer behavior and adjust strategies accordingly.",
+  "pros": [
+    "User-friendly interface",
+    "Fast data processing",
+    "Insightful data visualization"
+  ],
+  "cons": [
+    "Limited customizability",
+    "May not support all data types",
+    "Requires internet connection"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers in-depth data modeling"
+    }
+  ],
+  "tags": [
+    "data exploration",
+    "analytics",
+    "visualization",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://grapha.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=grapha%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/grapha_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/grapha_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/grapha_ai_400.png",
+  "updatedAt": "2025-06-23T01:18:57.173Z"
+}

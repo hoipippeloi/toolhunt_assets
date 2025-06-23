@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://graphext.com/",
+  "name": "Graphext",
+  "title": "graphext.com",
+  "payoff": "Advanced Data Science & Analytics",
+  "shortDescription": "Graphext is an advanced analytics platform designed to transform data into actionable insights. It serves businesses looking to enhance their data-driven decision-making processes. Users can import data easily, apply predictive models, and generate visual dashboards. An example use case is a company using Graphext to predict customer churn and increase retention through data insights.",
+  "pros": [
+    "Easy data import from various sources",
+    "Advanced predictive modeling capabilities",
+    "Interactive dashboards for data visualization"
+  ],
+  "cons": [
+    "May require a steep learning curve",
+    "Potentially high cost for premium features",
+    "Limited integration with third-party tools"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Integrates well with Google Cloud"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Strong in enterprise BI solutions"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "predictive modeling",
+    "data visualization",
+    "business intelligence"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://graphext.com/",
+  "documentationUrl": "https://graphext.com/docs",
+  "githubUrl": "https://github.com/search?q=graphext&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/graphext_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/graphext_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/graphext_com_400.png",
+  "updatedAt": "2025-06-23T01:18:25.141Z"
+}
