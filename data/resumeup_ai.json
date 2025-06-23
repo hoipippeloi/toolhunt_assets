@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://resumeup.ai/",
+  "name": "ResumeUp",
+  "title": "resumeup.ai",
+  "payoff": "AI-driven resume optimization",
+  "shortDescription": "ResumeUp is an AI-powered tool designed to help job seekers create standout resumes and cover letters. It offers features like ATS optimization, LinkedIn profile enhancement, and job tracking. Users can build resumes from scratch or enhance existing ones using AI suggestions, making it ideal for anyone looking to improve their job application process.",
+  "pros": [
+    "AI-powered resume customization",
+    "ATS optimization features",
+    "Comprehensive job application tracking"
+  ],
+  "cons": [
+    "Limited template variety",
+    "No offline functionality",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Zety [zety.com]",
+    "VisualCV [visualcv.com]",
+    "ResumeGenius [resumegenius.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zety",
+      "url": "zety.com",
+      "reason": "Offers extensive resume templates"
+    },
+    {
+      "name": "VisualCV",
+      "url": "visualcv.com",
+      "reason": "Visual resume tools and analytics"
+    },
+    {
+      "name": "ResumeGenius",
+      "url": "resumegenius.com",
+      "reason": "Simple, fast resume creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "resume builder",
+    "job search",
+    "career development"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://resumeup.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=resumeup&type=repositories",
+  "twitterUrl": "https://twitter.com/resumeup_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/resumeup_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/resumeup_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/resumeup_ai_400.png",
+  "updatedAt": "2025-06-23T03:25:28.536Z"
+}
