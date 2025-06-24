@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://joplinapp.org/",
+  "name": "Joplin",
+  "title": "joplinapp.org",
+  "payoff": "Free your notes",
+  "shortDescription": "Joplin is an open-source note-taking application designed to capture, organize, and share multimedia notes across devices. It supports images, videos, PDFs, and audio files, and includes functionalities like math expressions and diagrams. Users can synchronize their notes across multiple platforms such as Windows, macOS, Linux, Android, and iOS using services like Dropbox and OneDrive. A key feature is its end-to-end encryption, ensuring data privacy and security.",
+  "pros": [
+    "Supports multimedia notes",
+    "End-to-end encryption for security",
+    "Cross-platform synchronization"
+  ],
+  "cons": [
+    "May require technical knowledge for customization",
+    "Limited customer support typical of open-source projects",
+    "Dependent on third-party services for synchronization"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Microsoft OneNote [onenote.com]",
+    "Notion [notion.so]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Popular for rich note-taking features"
+    },
+    {
+      "name": "OneNote",
+      "url": "onenote.com",
+      "reason": "Integrated with Microsoft Office suite"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with database features"
+    }
+  ],
+  "tags": [
+    "note-taking",
+    "open source",
+    "data security",
+    "cross-platform"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://joplinapp.org/",
+  "documentationUrl": "https://joplinapp.org",
+  "githubUrl": "https://github.com/laurent22/joplin/",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/joplinapp_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/joplinapp_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/joplinapp_org_400.png",
+  "updatedAt": "2025-06-24T01:13:48.829Z"
+}
