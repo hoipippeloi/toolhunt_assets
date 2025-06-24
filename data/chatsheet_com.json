@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chatsheet.com/",
+  "name": "Chatsheet",
+  "title": "chatsheet.com",
+  "payoff": "Scale Without the Headcount",
+  "shortDescription": "Chatsheet revolutionizes how teams work by automating tasks like research, content creation, and data analysis using a spreadsheet interface. It's designed for professionals seeking efficient automation without complex setups. Example use case: Sales teams can automate prospect analysis and personalized outreach, enhancing productivity and competitive intelligence.",
+  "pros": [
+    "Automates complex workflows easily",
+    "No technical skills required",
+    "Integrates with favorite tools"
+  ],
+  "cons": [
+    "May not support all types of data",
+    "Potential learning curve for non-technical users",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Smartsheet [smartsheet.com]",
+    "Zapier [zapier.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers flexible database and automation"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Combines spreadsheets with project management"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Connects apps and automates workflows"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "spreadsheet",
+    "data analysis"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://chatsheet.com/",
+  "documentationUrl": "https://chatsheet.com/docs",
+  "githubUrl": "https://github.com/search?q=chatsheet&type=repositories",
+  "twitterUrl": "https://x.com/chatsheetai",
+  "screenshot": "https://share.appsfor.us/screenshots/chatsheet_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chatsheet_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chatsheet_com_400.png",
+  "updatedAt": "2025-06-23T10:18:01.440Z"
+}
