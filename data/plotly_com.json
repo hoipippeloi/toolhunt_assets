@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://plotly.com/",
+  "name": "Plotly",
+  "title": "plotly.com",
+  "payoff": "Create stunning data apps with AI",
+  "shortDescription": "Plotly empowers users to transform datasets into interactive data applications quickly and efficiently. It's designed for both developers and non-developers, allowing for the creation of professional-grade data visualizations and apps without extensive coding. Example use case includes businesses leveraging Plotly to visualize sales data and enhance decision-making processes.",
+  "pros": [
+    "AI-assisted app development",
+    "One-click deployment",
+    "Robust security measures"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Potentially high cost for enterprise features",
+    "Limited customization in free tier"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.microsoft.com]",
+    "D3.js [d3js.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for interactive data visualization"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Comprehensive business intelligence tools"
+    },
+    {
+      "name": "D3.js",
+      "url": "d3js.org",
+      "reason": "Flexible for custom data-driven visualizations"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "AI",
+    "interactive apps",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://plotly.com/",
+  "documentationUrl": "https://plotly.com/dash/",
+  "githubUrl": "https://github.com/plotly",
+  "twitterUrl": "https://twitter.com/plotlygraphs",
+  "screenshot": "https://share.appsfor.us/screenshots/plotly_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/plotly_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/plotly_com_400.png",
+  "updatedAt": "2025-06-24T01:13:27.471Z"
+}
