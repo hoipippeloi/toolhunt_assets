@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://signal.org/",
+  "name": "Signal",
+  "title": "signal.org",
+  "payoff": "Secure, private messaging for everyone",
+  "shortDescription": "Signal is a secure messaging app that emphasizes privacy and security with end-to-end encryption. It allows users to send text, voice messages, photos, videos, and files without SMS fees. Perfect for individuals who value privacy, it's used globally for personal chats and group communications. An example use case is a family using Signal to stay connected securely across different countries.",
+  "pros": [
+    "End-to-end encryption for all communications",
+    "No ads, no trackers, completely free",
+    "Open source with a focus on privacy"
+  ],
+  "cons": [
+    "Limited user base compared to other messengers",
+    "Dependent on donations for development",
+    "No revenue model which might affect sustainability"
+  ],
+  "alternatives": [
+    "WhatsApp [whatsapp.com]",
+    "Telegram [telegram.org]",
+    "Wire [wire.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WhatsApp",
+      "url": "whatsapp.com",
+      "reason": "Widely used with similar messaging features"
+    },
+    {
+      "name": "Telegram",
+      "url": "telegram.org",
+      "reason": "Offers both public and private chat options"
+    },
+    {
+      "name": "Wire",
+      "url": "wire.com",
+      "reason": "Focuses on privacy with strong encryption"
+    }
+  ],
+  "tags": [
+    "messaging",
+    "privacy",
+    "open source",
+    "encryption"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
+  "websiteUrl": "https://signal.org/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/signalapp",
+  "twitterUrl": "https://x.com/signalapp",
+  "screenshot": "https://share.appsfor.us/screenshots/signal_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/signal_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/signal_org_400.png",
+  "updatedAt": "2025-06-24T03:17:20.452Z"
+}

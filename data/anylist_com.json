@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://anylist.com/",
+  "name": "AnyList",
+  "title": "anylist.com",
+  "payoff": "Efficient grocery shopping list sharing",
+  "shortDescription": "AnyList simplifies grocery shopping by allowing users to create, share, and manage lists effortlessly. It is designed for individuals and families looking to coordinate their shopping and meal planning. Users can add items using voice commands, share lists for real-time updates, and integrate recipes from various sources into their planning. An example use case is a family preparing for a week's meals, using AnyList to collect recipes, plan meals, and shop efficiently.",
+  "pros": [
+    "Real-time list sharing and updates",
+    "Voice command integration for easy list additions",
+    "Recipe integration and meal planning features"
+  ],
+  "cons": [
+    "Premium features require subscription",
+    "Limited functionality without internet",
+    "May not support all international grocery items"
+  ],
+  "alternatives": [
+    "Bring! Shopping List [getbring.com]",
+    "Out of Milk [outofmilk.com]",
+    "Grocery IQ [groceryiq.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bring! Shopping List",
+      "url": "getbring.com",
+      "reason": "Offers shared grocery lists with a modern interface"
+    },
+    {
+      "name": "Out of Milk",
+      "url": "outofmilk.com",
+      "reason": "Features list sharing and pantry management"
+    },
+    {
+      "name": "Grocery IQ",
+      "url": "groceryiq.com",
+      "reason": "Includes barcode scanning and list sharing"
+    }
+  ],
+  "tags": [
+    "grocery list",
+    "meal planning",
+    "recipe management",
+    "list sharing"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://anylist.com/",
+  "documentationUrl": "https://help.anylist.com/",
+  "githubUrl": "https://github.com/search?q=anylist&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/anylist_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/anylist_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/anylist_com_400.png",
+  "updatedAt": "2025-06-24T03:16:51.557Z"
+}

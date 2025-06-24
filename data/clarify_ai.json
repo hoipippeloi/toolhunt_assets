@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://clarify.ai/",
+  "name": "Clarify",
+  "title": "clarify.ai",
+  "payoff": "Autonomous CRM to boost sales",
+  "shortDescription": "Clarify is an autonomous CRM designed to streamline sales processes by automating pipeline creation, meeting administration, and CRM updates. It's ideal for sales teams looking to reduce manual data entry and enhance productivity. For example, a salesperson can use Clarify to automatically track emails and meetings, ensuring all interactions are logged without manual effort.",
+  "pros": [
+    "Automates repetitive CRM tasks",
+    "Integrates seamlessly with other tools",
+    "Provides real-time sales insights"
+  ],
+  "cons": [
+    "May have a learning curve for new users",
+    "Dependent on data quality input",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Leading CRM with extensive features"
+    },
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Free tier available, good for SMBs"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with broad functionality"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "Sales Automation",
+    "AI",
+    "Data Integration"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://clarify.ai/",
+  "documentationUrl": "https://clarify.ai/documentation",
+  "githubUrl": "https://github.com/clarifyhq",
+  "twitterUrl": "https://x.com/getclarify",
+  "screenshot": "https://share.appsfor.us/screenshots/clarify_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/clarify_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/clarify_ai_400.png",
+  "updatedAt": "2025-06-24T03:16:26.802Z"
+}

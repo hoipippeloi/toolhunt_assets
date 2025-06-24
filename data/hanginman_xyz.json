@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hanginman.xyz/",
+  "name": "Hangin' Man",
+  "title": "hanginman.xyz",
+  "payoff": "Race against time in word puzzles!",
+  "shortDescription": "Hangin' Man is an online game that revitalizes the classic Hangman puzzle. Players race against a 5-minute timer to guess words, earning points for each correct guess while avoiding mistakes that build a stickman. It's designed for anyone who enjoys word games and offers a nostalgic yet challenging experience. Perfect for quick brain exercises or competitive play.",
+  "pros": [
+    "Nostalgic and engaging gameplay",
+    "Hints and skips enhance user experience",
+    "Rewards quick thinking and accuracy"
+  ],
+  "cons": [
+    "Limited to word puzzle gameplay",
+    "Time penalty for skipping words",
+    "Potential repetition of words"
+  ],
+  "alternatives": [
+    "Words With Friends [zynga.com]",
+    "Wordle [nytimes.com]",
+    "Scrabble Go [scopely.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Words With Friends",
+      "url": "zynga.com",
+      "reason": "Social word puzzle game"
+    },
+    {
+      "name": "Wordle",
+      "url": "nytimes.com",
+      "reason": "Daily word challenge game"
+    },
+    {
+      "name": "Scrabble Go",
+      "url": "scopely.com",
+      "reason": "Digital version of classic Scrabble"
+    }
+  ],
+  "tags": [
+    "gaming",
+    "puzzle",
+    "entertainment",
+    "education"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://hanginman.xyz/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=hangin%20%20man&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/hanginman_xyz.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hanginman_xyz_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hanginman_xyz_400.png",
+  "updatedAt": "2025-06-24T03:18:53.698Z"
+}
