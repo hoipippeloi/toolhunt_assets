@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://syncly.app/",
+  "name": "Syncly",
+  "title": "syncly.app",
+  "payoff": "Turn Feedback into Actionable Insights",
+  "shortDescription": "Syncly is a platform designed to transform customer feedback into actionable insights, catering to teams across various industries. It features a customizable taxonomy and personalized dashboards for effective sentiment analysis and AI-powered intelligence. An example use case is a company using Syncly to quickly identify and address customer experience issues, thereby boosting customer retention and accelerating growth.",
+  "pros": [
+    "Customizable dashboards and alerts",
+    "AI-powered sentiment analysis",
+    "Real-time customer feedback processing"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Potential complexity in integration",
+    "Dependence on consistent user feedback"
+  ],
+  "alternatives": [
+    "Medallia [medallia.com]",
+    "Qualtrics [qualtrics.com]",
+    "SurveyMonkey [surveymonkey.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Medallia",
+      "url": "medallia.com",
+      "reason": "Offers broad CX insights and analytics"
+    },
+    {
+      "name": "Qualtrics",
+      "url": "qualtrics.com",
+      "reason": "Comprehensive experience management"
+    },
+    {
+      "name": "SurveyMonkey",
+      "url": "surveymonkey.com",
+      "reason": "Widely used for survey-based feedback"
+    }
+  ],
+  "tags": [
+    "customer feedback",
+    "AI",
+    "sentiment analysis",
+    "real-time analytics"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "User Feedback",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://syncly.app/",
+  "documentationUrl": "https://syncly.app/documentation",
+  "githubUrl": "https://github.com/search?q=syncly&type=repositories",
+  "twitterUrl": "https://twitter.com/synclyhq",
+  "screenshot": "https://share.appsfor.us/screenshots/syncly_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/syncly_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/syncly_app_400.png",
+  "updatedAt": "2025-06-24T01:06:46.439Z"
+}

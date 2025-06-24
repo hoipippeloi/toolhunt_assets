@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datagram.live/",
+  "name": "Datagram",
+  "title": "datagram.live",
+  "payoff": "Beautiful data on your mobile",
+  "shortDescription": "Datagram simplifies data distribution by allowing users to send and receive data directly on their mobile devices through a simple API and the Datagram App. It is designed for businesses and individuals who need real-time data access and visualization. For example, a sales team can instantly receive updated revenue numbers, enhancing decision-making and responsiveness.",
+  "pros": [
+    "Real-time data access on mobile",
+    "Simple API integration",
+    "Beautiful, easy-to-use data widgets"
+  ],
+  "cons": [
+    "Limited to mobile platforms",
+    "Potentially complex for non-technical users",
+    "Beta phase may have stability issues"
+  ],
+  "alternatives": [
+    "Tableau Mobile [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Google Data Studio [datastudio.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau Mobile",
+      "url": "tableau.com",
+      "reason": "Advanced visualization and BI tools"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Comprehensive data integration options"
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with Google services"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "mobile apps",
+    "API",
+    "real-time data"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Mobile Apps",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://datagram.live/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=datagram&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/datagram_live.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datagram_live_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datagram_live_400.png",
+  "updatedAt": "2025-06-24T01:07:15.043Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://5ire.app/",
+  "name": "5ire",
+  "title": "5ire.app",
+  "payoff": "Desktop AI Assistant & MCP Client",
+  "shortDescription": "5ire is a desktop AI assistant and MCP (Model Context Protocol) client designed to enhance the interaction with large language models. It's built for both novices and experienced users, providing tools to access file systems, databases, and remote data. An example use case is using 5ire to manage and vectorize documents for enhanced data retrieval capabilities.",
+  "pros": [
+    "Intuitive user interface",
+    "Supports multiple document types",
+    "Open marketplace for MCP servers"
+  ],
+  "cons": [
+    "Limited to desktop use",
+    "Requires understanding of MCP",
+    "No mobile version available"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Google AI [ai.google]",
+    "Anthropic [anthropic.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Alfred",
+      "url": "alfredapp.com",
+      "reason": "Powerful workflow optimization"
+    },
+    {
+      "name": "Raycast",
+      "url": "raycast.com",
+      "reason": "Streamlines daily tasks"
+    },
+    {
+      "name": "Cerebro",
+      "url": "cerebroapp.com",
+      "reason": "Open source and extensible"
+    }
+  ],
+  "tags": [
+    "AI",
+    "desktop software",
+    "open source",
+    "data management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://5ire.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/nanbingxyz/5ire?tab=License-1-ov-file",
+  "twitterUrl": "https://x.com/intent/follow?screen_name=1ronben",
+  "screenshot": "https://share.appsfor.us/screenshots/5ire_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/5ire_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/5ire_app_400.png",
+  "updatedAt": "2025-06-24T01:06:19.058Z"
+}
