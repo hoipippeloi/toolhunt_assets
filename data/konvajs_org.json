@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://konvajs.org/",
+  "name": "Konva",
+  "title": "konvajs.org",
+  "payoff": "Intuitive 2D canvas manipulation",
+  "shortDescription": "Konva is a JavaScript library that bridges the gap between Vue applications and canvas graphics. It offers an object-oriented API that supports various shapes, making canvas manipulation intuitive and flexible. Ideal for developers looking to create interactive, cross-platform canvas applications, Konva enables features like animations, event handling, and high-quality exports. Use cases include designing interactive graphics, building data visualization tools, and developing game interfaces.",
+  "pros": [
+    "Supports both desktop and mobile platforms",
+    "Built-in animation and tween capabilities",
+    "Extensive framework integration options"
+  ],
+  "cons": [
+    "May require JavaScript knowledge",
+    "Limited to canvas-based applications",
+    "Potentially steep learning curve for beginners"
+  ],
+  "alternatives": [
+    "Fabric.js [fabricjs.com]",
+    "Paper.js [paperjs.org]",
+    "PixiJS [pixijs.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Fabric.js",
+      "url": "fabricjs.com",
+      "reason": "Offers similar canvas manipulation features"
+    },
+    {
+      "name": "Paper.js",
+      "url": "paperjs.org",
+      "reason": "Focuses on vector graphics and scripting"
+    },
+    {
+      "name": "PixiJS",
+      "url": "pixijs.com",
+      "reason": "Optimized for 2D WebGL rendering"
+    }
+  ],
+  "tags": [
+    "JavaScript",
+    "Canvas Library",
+    "Web Development",
+    "UI Design"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://konvajs.org/",
+  "documentationUrl": "https://konvajs.org/docs/",
+  "githubUrl": "https://github.com/konvajs/konva",
+  "twitterUrl": "https://twitter.com/lavrton",
+  "screenshot": "https://share.appsfor.us/screenshots/konvajs_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/konvajs_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/konvajs_org_400.png",
+  "updatedAt": "2025-06-25T01:07:00.338Z"
+}
