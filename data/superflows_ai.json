@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://superflows.ai/",
+  "name": "Superflows",
+  "title": "superflows.ai",
+  "payoff": "Launch your product's AI assistant",
+  "shortDescription": "Superflows enables software products to integrate AI-driven assistants without needing an in-house AI team. Targeted at SaaS companies, it allows the AI to access product APIs, perform data analysis, and execute actions, all while ensuring user confirmation. An example use case is a CRM tool where Superflows automates data queries and updates, significantly speeding up user operations.",
+  "pros": [
+    "Rapid integration and deployment",
+    "No need for in-house AI expertise",
+    "Direct API interaction for dynamic responses"
+  ],
+  "cons": [
+    "Dependence on external service for core functionality",
+    "Potential privacy and security concerns",
+    "Limited customization options compared to in-house solutions"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "IBM Watson Assistant [ibm.com/watson]",
+    "Rasa [rasa.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers extensive NLP capabilities"
+    },
+    {
+      "name": "IBM Watson Assistant",
+      "url": "ibm.com/watson",
+      "reason": "Strong enterprise integration options"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source with advanced customization"
+    }
+  ],
+  "tags": [
+    "AI",
+    "SaaS",
+    "Customer Service",
+    "Automation"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://superflows.ai/",
+  "documentationUrl": "https://superflows.ai/documentation",
+  "githubUrl": "https://github.com/Superflows-AI/superflows",
+  "twitterUrl": "https://twitter.com/SuperflowsAI",
+  "screenshot": "https://share.appsfor.us/screenshots/superflows_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/superflows_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/superflows_ai_400.png",
+  "updatedAt": "2025-06-25T03:20:29.310Z"
+}
