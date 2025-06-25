@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wasabi.com/",
+  "name": "Wasabi",
+  "title": "wasabi.com",
+  "payoff": "Store more, worry less",
+  "shortDescription": "Wasabi provides high-performance cloud storage solutions at a fraction of the cost of traditional providers. It is designed for businesses of all sizes needing reliable and affordable data storage. An example use case is the Boston Red Sox using Wasabi for storing and analyzing high-volume video content for advanced analytics.",
+  "pros": [
+    "No fees for egress or API requests",
+    "Pricing up to 80% less than competitors",
+    "Enterprise-grade multi-layered security"
+  ],
+  "cons": [
+    "Limited to cloud storage solutions",
+    "No broader range of cloud services",
+    "Potential dependency on a single provider"
+  ],
+  "alternatives": [
+    "Amazon S3 [aws.amazon.com/s3]",
+    "Google Cloud Storage [cloud.google.com/storage]",
+    "Microsoft Azure Blob Storage [azure.microsoft.com/en-us/services/storage/blobs]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Amazon S3",
+      "url": "aws.amazon.com/s3",
+      "reason": "Widely used with extensive features"
+    },
+    {
+      "name": "Google Cloud Storage",
+      "url": "cloud.google.com/storage",
+      "reason": "Offers deep integration with Google services"
+    },
+    {
+      "name": "Microsoft Azure Blob Storage",
+      "url": "azure.microsoft.com/en-us/services/storage/blobs",
+      "reason": "Great for enterprise-level solutions"
+    }
+  ],
+  "tags": [
+    "cloud storage",
+    "data management",
+    "security",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Data Storage",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://wasabi.com/",
+  "documentationUrl": "https://wasabi.com/documentation",
+  "githubUrl": "https://github.com/search?q=wasabi&type=repositories",
+  "twitterUrl": "https://twitter.com/wasabi_cloud",
+  "screenshot": "https://share.appsfor.us/screenshots/wasabi_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wasabi_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wasabi_com_400.png",
+  "updatedAt": "2025-06-25T03:18:11.888Z"
+}

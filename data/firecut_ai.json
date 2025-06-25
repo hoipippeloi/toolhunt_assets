@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://firecut.ai/",
+  "name": "FireCut",
+  "title": "firecut.ai",
+  "payoff": "Lightning-Fast AI Video Editor",
+  "shortDescription": "FireCut is an AI-powered video editing tool designed to streamline the video production process for creators and professionals. It offers features like silence cutting, automatic captions, and zoom cuts, making it ideal for podcasters, marketers, and content creators. An example use case is a YouTube creator using FireCut to reduce editing time by automatically cutting silences and adding captions, thereby increasing their content output.",
+  "pros": [
+    "Reduces video editing time significantly",
+    "Automates repetitive tasks like captioning",
+    "Supports major editing software like Adobe Premiere Pro"
+  ],
+  "cons": [
+    "Requires existing video editing software",
+    "Limited to certain versions of software",
+    "May not handle complex editing tasks"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "DaVinci Resolve [blackmagicdesign.com]",
+    "Final Cut Pro [apple.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry standard with extensive features"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Strong color correction and audio capabilities"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Optimized for Apple hardware with unique tools"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "AI",
+    "automation",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2022,
+  "websiteUrl": "https://firecut.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=firecut&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/firecut_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/firecut_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/firecut_ai_400.png",
+  "updatedAt": "2025-06-25T03:20:10.013Z"
+}
