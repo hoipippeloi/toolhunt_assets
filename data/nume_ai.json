@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nume.ai/",
+  "name": "Nume",
+  "title": "nume.ai",
+  "payoff": "The AI CFO For Founders",
+  "shortDescription": "Nume is designed to automate and simplify financial management for business founders. By integrating directly with your accounting systems, Nume provides real-time insights, automatic report generation, and proactive alerts about financial deadlines and anomalies. An example use case is a founder using Nume to prepare and send a board report automatically, ensuring accuracy and saving time.",
+  "pros": [
+    "Automates financial reporting and oversight",
+    "Provides real-time financial insights",
+    "Easy integration and setup"
+  ],
+  "cons": [
+    "Dependent on digital financial data inputs",
+    "May not replace human financial advisors completely",
+    "Potential privacy concerns with financial data"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "FreshBooks [freshbooks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used for financial management"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Offers strong accounting features"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Simplifies invoicing and tracking"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Finance Management",
+    "Automation",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://nume.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=nume&type=repositories",
+  "twitterUrl": "https://x.com/NumeAI",
+  "screenshot": "https://share.appsfor.us/screenshots/nume_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nume_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nume_ai_400.png",
+  "updatedAt": "2025-06-25T01:09:03.410Z"
+}
