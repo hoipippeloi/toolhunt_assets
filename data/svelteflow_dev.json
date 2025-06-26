@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://svelteflow.dev/",
+  "name": "Svelte Flow",
+  "title": "svelteflow.dev",
+  "payoff": "Wire your ideas with Svelte Flow",
+  "shortDescription": "Svelte Flow is a customizable Svelte component designed for building node-based editors and interactive diagrams. It is ideal for developers and designers looking to create advanced user interfaces with features like dragging nodes, zooming, and panning. An example use case could be developing an interactive tool for visual data processing or workflow management, enhancing user engagement and operational efficiency.",
+  "pros": [
+    "Customizable components for unique designs",
+    "Supports nested graphs and various edge types",
+    "Integration with CSS frameworks like Tailwind"
+  ],
+  "cons": [
+    "Requires familiarity with Svelte",
+    "Limited to web-based applications",
+    "May require additional plugins for extended features"
+  ],
+  "alternatives": [
+    "React Flow [reactflow.dev]",
+    "GoJS [gojs.net]",
+    "jsPlumb [jsplumbtoolkit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "React Flow",
+      "url": "reactflow.dev",
+      "reason": "Similar node-based UI tool but for React"
+    },
+    {
+      "name": "GoJS",
+      "url": "gojs.net",
+      "reason": "Comprehensive diagramming library"
+    },
+    {
+      "name": "jsPlumb",
+      "url": "jsplumbtoolkit.com",
+      "reason": "Visual connectivity for web apps"
+    }
+  ],
+  "tags": [
+    "node-based UI",
+    "Svelte",
+    "interactive diagrams",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://svelteflow.dev/",
+  "documentationUrl": "https://svelteflow.dev/docs",
+  "githubUrl": "https://github.com/xyflow/xyflow",
+  "twitterUrl": "https://x.com/xyflowdev",
+  "screenshot": "https://share.appsfor.us/screenshots/svelteflow_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/svelteflow_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/svelteflow_dev_400.png",
+  "updatedAt": "2025-06-26T03:15:37.193Z"
+}

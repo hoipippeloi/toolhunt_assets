@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://contiguity.co/",
+  "name": "Contiguity",
+  "title": "contiguity.co",
+  "payoff": "Unlimited, wallet-friendly communications",
+  "shortDescription": "Contiguity offers a comprehensive suite of communication tools including SMS, email, and call services, aimed at developers and businesses of all sizes. It simplifies the integration of communication capabilities into applications with a promise of high deliverability and uptime. An example use case is a startup integrating SMS notifications for transaction confirmations.",
+  "pros": [
+    "High deliverability and uptime",
+    "Simple integration process",
+    "Generous free tier available"
+  ],
+  "cons": [
+    "Limited customer support options",
+    "Some features still in development",
+    "No clear global compliance features"
+  ],
+  "alternatives": [
+    "Twilio [twilio.com]",
+    "SendGrid [sendgrid.com]",
+    "Nexmo [nexmo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Twilio",
+      "url": "twilio.com",
+      "reason": "Broad feature set and global reach"
+    },
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Focused on scalable email solutions"
+    },
+    {
+      "name": "Nexmo",
+      "url": "nexmo.com",
+      "reason": "Strong in voice and SMS services"
+    }
+  ],
+  "tags": [
+    "communications",
+    "API",
+    "SaaS",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://contiguity.co/",
+  "documentationUrl": "https://docs.contiguity.co/#/",
+  "githubUrl": "https://github.com/search?q=contiguity&type=repositories",
+  "twitterUrl": "https://x.com/useContiguity",
+  "screenshot": "https://share.appsfor.us/screenshots/contiguity_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/contiguity_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/contiguity_co_400.png",
+  "updatedAt": "2025-06-26T03:17:43.822Z"
+}

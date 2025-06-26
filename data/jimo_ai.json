@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jimo.ai/",
+  "name": "Jimo",
+  "title": "jimo.ai",
+  "payoff": "Best No-Code User Onboarding",
+  "shortDescription": "Jimo offers a no-code platform for creating personalized user onboarding experiences. It is designed to help product teams increase conversion rates, enhance user retention, and minimize support tickets. An example use case is a tech startup using Jimo to design onboarding flows that guide new users through their app's features, ensuring they understand the product quickly and effectively.",
+  "pros": [
+    "Personalized onboarding flows",
+    "Reduces need for developer involvement",
+    "Fastest flow editor on the market"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Limited to digital products",
+    "Potential dependency on platform updates"
+  ],
+  "alternatives": [
+    "WalkMe [walkme.com]",
+    "Appcues [appcues.com]",
+    "Pendo [pendo.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WalkMe",
+      "url": "walkme.com",
+      "reason": "Offers extensive user onboarding tools"
+    },
+    {
+      "name": "Appcues",
+      "url": "appcues.com",
+      "reason": "Focuses on personalized user flows"
+    },
+    {
+      "name": "Pendo",
+      "url": "pendo.io",
+      "reason": "Provides in-depth analytics and guidance"
+    }
+  ],
+  "tags": [
+    "user onboarding",
+    "no-code",
+    "user engagement",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://jimo.ai/",
+  "documentationUrl": "https://help.usejimo.com/help-center/v/for-developers/for-developers/install-our-sdk",
+  "githubUrl": "https://github.com/search?q=jimo&type=repositories",
+  "twitterUrl": "https://twitter.com/usejimo",
+  "screenshot": "https://share.appsfor.us/screenshots/jimo_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jimo_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jimo_ai_400.png",
+  "updatedAt": "2025-06-26T03:17:09.751Z"
+}

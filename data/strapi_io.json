@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://strapi.io/",
+  "name": "Strapi",
+  "title": "strapi.io",
+  "payoff": "Customizable Node.js Headless CMS",
+  "shortDescription": "Strapi is an open-source, Node.js based headless CMS designed for developers to build modern, customizable websites quickly. It supports REST and GraphQL APIs, allowing easy integration with various frontends like React and Vue.js. Strapi is ideal for developers looking to streamline content management and API creation, with use cases ranging from blogs to e-commerce platforms.",
+  "pros": [
+    "Highly customizable and extensible",
+    "Supports both REST and GraphQL APIs",
+    "Rich ecosystem with plugins and community support"
+  ],
+  "cons": [
+    "Requires Node.js knowledge",
+    "Can be complex for beginners",
+    "Self-hosting might require infrastructure management"
+  ],
+  "alternatives": [
+    "Contentful [contentful.com]",
+    "WordPress [wordpress.org]",
+    "Ghost [ghost.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Contentful",
+      "url": "contentful.com",
+      "reason": "Cloud-native headless CMS platform"
+    },
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Extensive plugin ecosystem and community"
+    },
+    {
+      "name": "Ghost",
+      "url": "ghost.org",
+      "reason": "Focused on publishing and simplicity"
+    }
+  ],
+  "tags": [
+    "headless CMS",
+    "open source",
+    "API development",
+    "content management"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://strapi.io/",
+  "documentationUrl": "https://docs.strapi.io",
+  "githubUrl": "https://github.com/strapi/strapi",
+  "twitterUrl": "https://x.com/strapijs",
+  "screenshot": "https://share.appsfor.us/screenshots/strapi_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/strapi_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/strapi_io_400.png",
+  "updatedAt": "2025-06-26T03:16:09.970Z"
+}

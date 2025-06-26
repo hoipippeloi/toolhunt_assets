@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://trevor.io/",
+  "name": "Trevor",
+  "title": "trevor.io",
+  "payoff": "Your team's favorite data tool",
+  "shortDescription": "Trevor.io is a versatile data analysis tool designed for teams across various industries. It allows users to connect directly to databases, create and share dashboards, and automate workflows. An example use case is a marketing team using Trevor to track campaign performance in real-time and automate reports.",
+  "pros": [
+    "5-minute setup with no credit card required",
+    "Supports real-time data streaming and alerts",
+    "GDPR compliant and secure"
+  ],
+  "cons": [
+    "May require technical knowledge to set up and use",
+    "Limited customization options for advanced users",
+    "Dependent on database connectivity"
+  ],
+  "alternatives": [
+    "Looker [looker.com]",
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive data visualization options"
+    },
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Widely used for interactive data visualization"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Strong integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "dashboard creation",
+    "workflow automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://trevor.io/",
+  "documentationUrl": "https://trevor.io/docs",
+  "githubUrl": "https://github.com/search?q=trevor&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/trevor_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/trevor_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/trevor_io_400.png",
+  "updatedAt": "2025-06-26T03:15:12.854Z"
+}
