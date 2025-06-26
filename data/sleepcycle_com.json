@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sleepcycle.com/",
+  "name": "Sleep Cycle",
+  "title": "sleepcycle.com",
+  "payoff": "Improve sleep with science",
+  "shortDescription": "Sleep Cycle is a leading sleep analysis app designed to enhance sleep quality through science-backed methods. It tracks sleep patterns, stages, and disturbances to provide personalized insights and recommendations. Ideal for individuals seeking to improve their sleep and overall health, the app offers features like sound analysis, sleep phase alarms, and insights from sleep experts. Users can explore their sleep patterns and make informed adjustments for better rest.",
+  "pros": [
+    "Tracks detailed sleep patterns",
+    "Science-based insights and recommendations",
+    "User-friendly interface with sound analysis"
+  ],
+  "cons": [
+    "Requires nightly device operation",
+    "Potential privacy concerns with data collection",
+    "Limited functionality without premium subscription"
+  ],
+  "alternatives": [
+    "Calm [calm.com]",
+    "Headspace [headspace.com]",
+    "Pzizz [pzizz.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Calm",
+      "url": "calm.com",
+      "reason": "Offers guided meditations for sleep"
+    },
+    {
+      "name": "Headspace",
+      "url": "headspace.com",
+      "reason": "Includes sleep sounds and meditations"
+    },
+    {
+      "name": "Pzizz",
+      "url": "pzizz.com",
+      "reason": "Uses sound sequences for sleep improvement"
+    }
+  ],
+  "tags": [
+    "sleep tracking",
+    "health app",
+    "personal wellness",
+    "sleep improvement"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://sleepcycle.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=sleep%20cycle&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sleepcycle_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sleepcycle_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sleepcycle_com_400.png",
+  "updatedAt": "2025-06-26T04:24:56.031Z"
+}
