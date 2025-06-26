@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://browseragent.dev/",
+  "name": "Browseragent",
+  "title": "browseragent.dev",
+  "payoff": "Automate browser tasks without code",
+  "shortDescription": "Browseragent simplifies browser-based automation by allowing users to create AI agents that perform tasks directly in their browser. It's designed for users who need to automate repetitive tasks without coding skills. Example use cases include summarizing email threads, generating blog posts, and extracting LinkedIn company data. The tool is built on the open-source BrowserAI library, making it adaptable and community-driven.",
+  "pros": [
+    "No coding required for automation",
+    "Runs directly within the browser",
+    "Free tier available with generous limits"
+  ],
+  "cons": [
+    "Limited to browser-based tasks",
+    "Dependent on browser performance",
+    "May require frequent updates for browser compatibility"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Automate.io [automate.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Wide range of app integrations"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focus on business workflows"
+    }
+  ],
+  "tags": [
+    "automation",
+    "AI",
+    "no-code",
+    "browser-extension"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://browseragent.dev/",
+  "documentationUrl": "https://docs.browserai.dev/",
+  "githubUrl": "https://github.com/Cloud-Code-AI/browserai",
+  "twitterUrl": "https://x.com/browserai_dev",
+  "screenshot": "https://share.appsfor.us/screenshots/browseragent_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/browseragent_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/browseragent_dev_400.png",
+  "updatedAt": "2025-06-26T01:05:40.775Z"
+}

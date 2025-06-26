@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sigmabrowser.com/",
+  "name": "Sigma AI Browser",
+  "title": "sigmabrowser.com",
+  "payoff": "Enhance your browsing with AI",
+  "shortDescription": "Sigma AI Browser integrates advanced AI tools directly into your browsing experience, making it ideal for researchers, developers, and anyone looking to leverage AI for enhanced productivity. Users can enjoy features like AI-powered search enhancements, secure browsing, and easy access to AI tools for everyday tasks.",
+  "pros": [
+    "Integrated AI tools enhance productivity",
+    "Focus on user security and data protection",
+    "Customizable AI features for personalized use"
+  ],
+  "cons": [
+    "May have higher resource requirements",
+    "Potential privacy concerns with AI integration",
+    "Limited browser compatibility"
+  ],
+  "alternatives": [
+    "Google Chrome [google.com/chrome]",
+    "Mozilla Firefox [mozilla.org]",
+    "Microsoft Edge [microsoft.com/edge]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Brave",
+      "url": "brave.com",
+      "reason": "Focuses on privacy and ad-blocking"
+    },
+    {
+      "name": "Vivaldi",
+      "url": "vivaldi.com",
+      "reason": "Highly customizable user interface"
+    },
+    {
+      "name": "Opera",
+      "url": "opera.com",
+      "reason": "Integrated social media and VPN"
+    }
+  ],
+  "tags": [
+    "AI",
+    "web browser",
+    "security",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Browsers",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sigmabrowser.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=sigma%20ai%20browser&type=repositories",
+  "twitterUrl": "https://x.com/Sigma_Browser",
+  "screenshot": "https://share.appsfor.us/screenshots/sigmabrowser_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sigmabrowser_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sigmabrowser_com_400.png",
+  "updatedAt": "2025-06-26T01:06:00.316Z"
+}

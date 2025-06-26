@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kater.ai/",
+  "name": "Kater",
+  "title": "kater.ai",
+  "payoff": "Turn Data Into Decisions",
+  "shortDescription": "Kater.ai is designed to enhance decision-making processes for data teams and stakeholders. It integrates seamlessly with existing data stacks, offering structured decision trees for clear insights and actions. An example use case involves data professionals using Kater to generate reports that highlight actionable insights, without the complexity of traditional dashboards.",
+  "pros": [
+    "Real-time data updates for proactive decision-making",
+    "Strong emphasis on data security and compliance",
+    "Quick setup and user-friendly integration"
+  ],
+  "cons": [
+    "Limited to certain data warehouses without custom connectors",
+    "No AI-generated SQL for non-technical users",
+    "Dependent on external AI APIs for some functionalities"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "PowerBI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics and BI tools"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers robust BI and big data analytics"
+    },
+    {
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates well with Microsoft products"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "decision making",
+    "data security",
+    "AI integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://kater.ai/",
+  "documentationUrl": "https://kater.ai/documentation",
+  "githubUrl": "https://github.com/search?q=kater&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/kater_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kater_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kater_ai_400.png",
+  "updatedAt": "2025-06-26T01:07:41.468Z"
+}

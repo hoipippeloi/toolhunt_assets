@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zoko.io/",
+  "name": "Zoko",
+  "title": "zoko.io",
+  "payoff": "Better Business on WhatsApp",
+  "shortDescription": "Zoko is a tool designed to enhance business operations on WhatsApp, specifically tailored for Shopify stores. It enables merchants to manage customer interactions, marketing, and sales directly through WhatsApp, providing a seamless experience for both the business and its customers. An example use case would be a Shopify store using Zoko to send product updates and handle customer service inquiries through WhatsApp.",
+  "pros": [
+    "Tailored for Shopify integration",
+    "Enhances customer interaction on WhatsApp",
+    "Supports direct marketing and sales"
+  ],
+  "cons": [
+    "Limited to WhatsApp platform",
+    "May not support non-Shopify stores",
+    "Dependent on WhatsApp's API changes"
+  ],
+  "alternatives": [
+    "MessageBird [messagebird.com]",
+    "Twilio [twilio.com]",
+    "Sendinblue [sendinblue.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MessageBird",
+      "url": "messagebird.com",
+      "reason": "Offers broader communication solutions"
+    },
+    {
+      "name": "Twilio",
+      "url": "twilio.com",
+      "reason": "Provides extensive API for messaging"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Includes email marketing features"
+    }
+  ],
+  "tags": [
+    "E-commerce",
+    "Messaging",
+    "Customer Relations",
+    "Shopify"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Messaging",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://zoko.io/",
+  "documentationUrl": "https://docs.zoko.io/",
+  "githubUrl": "https://github.com/search?q=zoko&type=repositories",
+  "twitterUrl": "https://twitter.com/zokoofficial",
+  "screenshot": "https://share.appsfor.us/screenshots/zoko_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zoko_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zoko_io_400.png",
+  "updatedAt": "2025-06-26T01:06:30.470Z"
+}

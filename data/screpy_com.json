@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://screpy.com/",
+  "name": "Screpy",
+  "title": "screpy.com",
+  "payoff": "Smarter SEO with AI",
+  "shortDescription": "Screpy offers advanced SEO tools powered by AI, designed for businesses looking to enhance their online presence. Users can generate SEO-friendly content, track keyword performance, and conduct comprehensive website audits. An example use case is a digital marketing agency using Screpy to optimize client websites for better search engine rankings.",
+  "pros": [
+    "AI-driven insights for SEO",
+    "Multiple language support for content generation",
+    "Comprehensive tracking and analytics"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Limited customization options",
+    "Potentially high cost for premium features"
+  ],
+  "alternatives": [
+    "Ahrefs [ahrefs.com]",
+    "SEMrush [semrush.com]",
+    "Moz Pro [moz.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Comprehensive SEO toolset"
+    },
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Broad digital marketing suite"
+    },
+    {
+      "name": "Moz Pro",
+      "url": "moz.com",
+      "reason": "SEO-focused tools and resources"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "content generation",
+    "website analytics",
+    "AI"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://screpy.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=screpy&type=repositories",
+  "twitterUrl": "https://x.com/_screpy",
+  "screenshot": "https://share.appsfor.us/screenshots/screpy_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/screpy_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/screpy_com_400.png",
+  "updatedAt": "2025-06-26T01:05:16.225Z"
+}

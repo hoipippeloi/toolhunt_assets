@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://budgetgpt.io/",
+  "name": "BudgetGPT",
+  "title": "budgetgpt.io",
+  "payoff": "AI Financial Coach in Your Pocket",
+  "shortDescription": "BudgetGPT is your AI-powered financial coach designed to simplify personal budgeting. It helps users build personalized budget plans, track spending, and receive expert financial guidance through conversational AI. Ideal for individuals who struggle with traditional budgeting methods, BudgetGPT offers a user-friendly alternative that connects to your financial accounts, providing categorized insights and a comprehensive dashboard for a clearer financial overview.",
+  "pros": [
+    "Personalized budgeting assistance",
+    "Easy tracking of expenses",
+    "Comprehensive financial dashboard"
+  ],
+  "cons": [
+    "Dependence on digital connectivity",
+    "Potential privacy concerns",
+    "Limited to English-speaking users"
+  ],
+  "alternatives": [
+    "Mint [mint.com]",
+    "YNAB (You Need A Budget) [youneedabudget.com]",
+    "PocketGuard [pocketguard.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mint",
+      "url": "mint.com",
+      "reason": "Offers budgeting with real-time tracking"
+    },
+    {
+      "name": "YNAB",
+      "url": "youneedabudget.com",
+      "reason": "Focuses on budget planning and education"
+    },
+    {
+      "name": "PocketGuard",
+      "url": "pocketguard.com",
+      "reason": "Simplifies spending tracking and budgeting"
+    }
+  ],
+  "tags": [
+    "personal finance",
+    "AI",
+    "budgeting",
+    "financial tracking"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Personal Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://budgetgpt.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=budgetgpt&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/budgetgpt_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/budgetgpt_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/budgetgpt_io_400.png",
+  "updatedAt": "2025-06-26T01:06:55.429Z"
+}
