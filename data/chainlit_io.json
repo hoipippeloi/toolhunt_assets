@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chainlit.io/",
+  "name": "Chainlit",
+  "title": "chainlit.io",
+  "payoff": "Build AI applications easily",
+  "shortDescription": "Chainlit is a platform designed to empower developers and enterprises to develop, deploy, and manage AI applications efficiently. It focuses on conversational AI apps and large language model operations (LLMOps). An example use case is for businesses looking to integrate advanced AI capabilities into their customer service to enhance interaction quality and response times.",
+  "pros": [
+    "Supports large language models",
+    "Focused on conversational AI",
+    "Tools for logging and improving AI apps"
+  ],
+  "cons": [
+    "Limited to AI applications",
+    "May require technical expertise",
+    "Potentially high learning curve"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "Rasa [rasa.com]",
+    "Microsoft Bot Framework [dev.botframework.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers extensive NLP capabilities"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source with strong community"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "url": "dev.botframework.com",
+      "reason": "Integrates with Microsoft products"
+    }
+  ],
+  "tags": [
+    "AI",
+    "LLMOps",
+    "Conversational AI",
+    "Application Development"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://chainlit.io/",
+  "documentationUrl": "https://docs.chainlit.io/advanced-features/mcp",
+  "githubUrl": "https://github.com/Chainlit/chainlit",
+  "twitterUrl": "https://twitter.com/chainlit_io",
+  "screenshot": "https://share.appsfor.us/screenshots/chainlit_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chainlit_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chainlit_io_400.png",
+  "updatedAt": "2025-06-27T22:15:50.385Z"
+}
