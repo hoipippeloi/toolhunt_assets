@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://leaderr.io/",
+  "name": "Leaderr",
+  "title": "leaderr.io",
+  "payoff": "Empower Business Growth",
+  "shortDescription": "Leaderr offers a comprehensive suite of tools for B2B lead generation and business intelligence. It is designed for sales and marketing teams looking to enhance their outreach strategies with AI-powered data enrichment and verification. Users can access real-time insights, verify contact details, and use advanced filters to improve conversion rates.",
+  "pros": [
+    "AI-driven lead generation and verification",
+    "Real-time data enrichment from verified sources",
+    "Customizable dashboards and predictive analytics"
+  ],
+  "cons": [
+    "Limited to B2B data",
+    "Potential high cost for premium features",
+    "May require technical knowledge for integration"
+  ],
+  "alternatives": [
+    "ZoomInfo [zoominfo.com]",
+    "Clearbit [clearbit.com]",
+    "DiscoverOrg [discoverorg.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ZoomInfo",
+      "url": "zoominfo.com",
+      "reason": "Offers broader data coverage"
+    },
+    {
+      "name": "Clearbit",
+      "url": "clearbit.com",
+      "reason": "Focuses on real-time data updates"
+    },
+    {
+      "name": "DiscoverOrg",
+      "url": "discoverorg.com",
+      "reason": "Specializes in IT and tech data"
+    }
+  ],
+  "tags": [
+    "lead generation",
+    "business intelligence",
+    "data verification",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Marketing Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://leaderr.io/",
+  "documentationUrl": "https://leaderr.io/documentation",
+  "githubUrl": "https://github.com/search?q=leaderr&type=repositories",
+  "twitterUrl": "https://x.com/leaderr_io",
+  "screenshot": "https://share.appsfor.us/screenshots/leaderr_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/leaderr_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/leaderr_io_400.png",
+  "updatedAt": "2025-06-27T01:08:56.305Z"
+}

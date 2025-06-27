@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://attio.com/",
+  "name": "Attio",
+  "title": "attio.com",
+  "payoff": "Next gen of CRM",
+  "shortDescription": "Attio is an AI-native CRM designed to elevate business operations through automation and data integration. It's tailored for businesses looking to scale their operations with AI-driven workflows and powerful reporting tools. Example use case: A company uses Attio to automate its lead routing and upsell processes, enhancing efficiency and precision in customer relationship management.",
+  "pros": [
+    "AI-driven automation",
+    "Powerful data integration capabilities",
+    "Scalable for any business size"
+  ],
+  "cons": [
+    "May be complex for small businesses",
+    "Potentially high learning curve",
+    "Limited information on pricing tiers"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot [hubspot.com]",
+    "Pipedrive [pipedrive.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM with extensive features"
+    },
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers a free CRM with marketing tools"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Cost-effective with broad functionality"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "automation",
+    "AI",
+    "data integration"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://attio.com/",
+  "documentationUrl": "https://attio.com/docs",
+  "githubUrl": "https://github.com/search?q=attio&type=repositories",
+  "twitterUrl": "https://twitter.com/attio",
+  "screenshot": "https://share.appsfor.us/screenshots/attio_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/attio_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/attio_com_400.png",
+  "updatedAt": "2025-06-27T01:09:35.896Z"
+}

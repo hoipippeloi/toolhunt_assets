@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://genaimo.ailive.world/",
+  "name": "Genaimo",
+  "title": "genaimo.ailive.world",
+  "payoff": "Unlock endless motion possibilities",
+  "shortDescription": "Genaimo is a powerful tool designed for animators and developers to create and integrate motion graphics seamlessly into various platforms such as games and VR applications. With over 500 motion assets, users can bring characters to life and enhance their projects. An example use case is integrating Genaimo's motions into a Unity-based game to provide realistic character movements.",
+  "pros": [
+    "Extensive library of motion assets",
+    "API support for integration",
+    "Supports major platforms like Unity and Unreal"
+  ],
+  "cons": [
+    "May require technical knowledge to integrate",
+    "Limited to motion graphics",
+    "Potential compatibility issues with different platforms"
+  ],
+  "alternatives": [
+    "Adobe Mixamo [mixamo.com]",
+    "Cascadeur [cascadeur.com]",
+    "Autodesk MotionBuilder [autodesk.com/products/motionbuilder]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Mixamo",
+      "url": "mixamo.com",
+      "reason": "Offers auto-rigging and animation tools"
+    },
+    {
+      "name": "Cascadeur",
+      "url": "cascadeur.com",
+      "reason": "Focuses on physics-based animation"
+    },
+    {
+      "name": "Autodesk MotionBuilder",
+      "url": "autodesk.com/products/motionbuilder",
+      "reason": "Professional 3D character animation"
+    }
+  ],
+  "tags": [
+    "animation",
+    "motion graphics",
+    "API",
+    "game development"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://genaimo.ailive.world/",
+  "documentationUrl": "https://docs.ailive.world/docs/intro",
+  "githubUrl": "https://github.com/search?q=genaimo&type=repositories",
+  "twitterUrl": "https://x.com/ailiveworld",
+  "screenshot": "https://share.appsfor.us/screenshots/genaimo_ailive_world.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/genaimo_ailive_world_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/genaimo_ailive_world_400.png",
+  "updatedAt": "2025-06-27T01:08:33.443Z"
+}

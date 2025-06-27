@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://lume.io/",
+  "name": "Lume",
+  "title": "lume.io",
+  "payoff": "Illuminate Your Data Insights",
+  "shortDescription": "Lume is a powerful analytics platform designed for data-driven businesses seeking to enhance their decision-making capabilities. It integrates seamlessly with various data sources, providing real-time insights and visualizations. Ideal for marketing teams, Lume helps in tracking campaign performance and optimizing strategies effectively.",
+  "pros": [
+    "Real-time data analysis",
+    "User-friendly interface",
+    "Robust integration capabilities"
+  ],
+  "cons": [
+    "Potentially high cost",
+    "Steep learning curve for new users",
+    "Limited customizability"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "PowerBI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Offers extensive visualization tools"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Integrates well with big data"
+    },
+    {
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Strong in enterprise environments"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "data visualization",
+    "business intelligence"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://lume.io/",
+  "documentationUrl": "https://docs.lume.io",
+  "githubUrl": "https://github.com/search?q=lume&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/lume_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lume_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lume_io_400.png",
+  "updatedAt": "2025-06-27T01:07:25.559Z"
+}

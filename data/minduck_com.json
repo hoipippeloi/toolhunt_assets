@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://minduck.com/",
+  "name": "Minduck",
+  "title": "minduck.com",
+  "payoff": "AI-powered mind-map generation",
+  "shortDescription": "Minduck is a unique AI-powered platform that leverages visual mind maps to help users generate and organize their ideas. It is designed for individuals who struggle with technology, providing a simple, visual method to turn abstract concepts into structured plans. Users can easily navigate the tool to brainstorm, plan, and execute projects, making it ideal for innovators and creative thinkers.",
+  "pros": [
+    "Visual mind-mapping aids in idea organization",
+    "AI integration enhances creative processes",
+    "User-friendly interface for tech novices"
+  ],
+  "cons": [
+    "May not suit users preferring text-based tools",
+    "Limited to AI and mind-mapping functionalities",
+    "Possibly higher learning curve for non-visual thinkers"
+  ],
+  "alternatives": [
+    "Lucidchart [lucidchart.com]",
+    "Coggle [coggle.it]",
+    "MindMeister [mindmeister.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lucidchart",
+      "url": "lucidchart.com",
+      "reason": "Offers advanced diagramming tools"
+    },
+    {
+      "name": "Coggle",
+      "url": "coggle.it",
+      "reason": "Focuses on collaborative mind-mapping"
+    },
+    {
+      "name": "MindMeister",
+      "url": "mindmeister.com",
+      "reason": "Integrates with various productivity apps"
+    }
+  ],
+  "tags": [
+    "AI",
+    "mind-mapping",
+    "idea generation",
+    "visual thinking"
+  ],
+  "apiUsed": false,
+  "department": "Innovation",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://minduck.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=minduck&type=repositories",
+  "twitterUrl": "https://x.com/Minduck1001",
+  "screenshot": "https://share.appsfor.us/screenshots/minduck_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/minduck_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/minduck_com_400.png",
+  "updatedAt": "2025-06-27T01:07:56.795Z"
+}

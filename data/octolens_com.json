@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://octolens.com/",
+  "name": "Octolens",
+  "title": "octolens.com",
+  "payoff": "AI social listening for B2B SaaS",
+  "shortDescription": "Octolens leverages AI to provide comprehensive social listening tools specifically designed for B2B SaaS companies. It scans multiple platforms like LinkedIn, Twitter, and GitHub to alert users about brand mentions and competitor activities. This enables businesses to stay informed about relevant discussions, enhancing engagement and market awareness. Ideal for marketers and growth experts, Octolens simplifies monitoring and responding to critical conversations online.",
+  "pros": [
+    "Covers all major B2B channels in one place",
+    "AI-filtered alerts to ensure relevance",
+    "Simple and transparent pricing"
+  ],
+  "cons": [
+    "Limited to social listening and mentions",
+    "May not cover all niche platforms",
+    "Free trial limited to 7 days"
+  ],
+  "alternatives": [
+    "Brandwatch [brandwatch.com]",
+    "Mention [mention.com]",
+    "Talkwalker [talkwalker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Brandwatch",
+      "url": "brandwatch.com",
+      "reason": "Offers broader social media insights"
+    },
+    {
+      "name": "Mention",
+      "url": "mention.com",
+      "reason": "Real-time monitoring across the web"
+    },
+    {
+      "name": "Talkwalker",
+      "url": "talkwalker.com",
+      "reason": "Advanced analytics and reporting"
+    }
+  ],
+  "tags": [
+    "social media",
+    "AI",
+    "B2B",
+    "marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://octolens.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=octolens&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/octolens_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/octolens_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/octolens_com_400.png",
+  "updatedAt": "2025-06-27T01:06:46.185Z"
+}
