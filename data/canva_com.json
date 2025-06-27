@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://canva.com/",
+  "sourceUrl": "https://canva.com/video-editor/",
   "name": "Canva",
   "title": "canva.com",
-  "payoff": "Visual Suite for Everyone",
-  "shortDescription": "Canva is a comprehensive design tool that caters to both individuals and businesses. It allows users to create various visual content such as presentations, social media graphics, and print materials. The platform is equipped with an extensive range of templates and design features, making it accessible for non-designers while also robust enough for professional use. An example use case is a small business creating marketing materials to promote their services.",
+  "payoff": "Empower creativity with ease",
+  "shortDescription": "Canva's online video editor is designed for ease of use, enabling users to create professional-quality videos with a simple drag-and-drop interface. It caters to a wide range of users, from businesses to educators, offering tools for marketing, learning, and personal enjoyment. Users can leverage thousands of templates and advanced features like AI magic and sound editing to produce engaging content from anywhere.",
   "pros": [
+    "Intuitive drag-and-drop interface",
     "Extensive template library",
-    "User-friendly interface",
-    "Integration with multiple platforms"
+    "Advanced features like AI editing"
   ],
   "cons": [
     "Limited customization for advanced users",
-    "Can be slow with complex designs",
-    "Premium features require subscription"
+    "Dependent on internet connectivity",
+    "Can be expensive for premium features"
   ],
   "alternatives": [
-    "Adobe Spark [adobe.com/products/spark.html]",
-    "Piktochart [piktochart.com]",
-    "Visme [visme.co]"
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "Filmora [filmora.wondershare.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Adobe Spark",
-      "url": "adobe.com/products/spark.html",
-      "reason": "Offers storytelling templates"
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry-standard video editing software"
     },
     {
-      "name": "Piktochart",
-      "url": "piktochart.com",
-      "reason": "Focuses on infographics and reports"
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Professional video editing for macOS"
     },
     {
-      "name": "Visme",
-      "url": "visme.co",
-      "reason": "Strong data visualization tools"
+      "name": "Filmora",
+      "url": "filmora.wondershare.com",
+      "reason": "User-friendly with rich effects library"
     }
   ],
   "tags": [
-    "design tools",
-    "visual content",
-    "template-based",
-    "collaboration"
+    "video editing",
+    "content creation",
+    "SaaS",
+    "design tools"
   ],
-  "apiUsed": true,
-  "department": "Design",
+  "apiUsed": false,
+  "department": "Marketing",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2013,
-  "websiteUrl": "https://canva.com/",
-  "documentationUrl": "https://www.canva.com/help/",
+  "websiteUrl": "https://canva.com/video-editor/",
+  "documentationUrl": null,
   "githubUrl": "https://github.com/search?q=canva&type=repositories",
   "twitterUrl": "https://x.com/canva",
   "screenshot": "https://share.appsfor.us/screenshots/canva_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/canva_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/canva_com_400.png",
-  "updatedAt": "2025-05-24T11:03:48.148Z"
+  "updatedAt": "2025-06-27T03:17:20.148Z"
 }

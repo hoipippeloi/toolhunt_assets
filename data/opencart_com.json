@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://opencart.com/",
+  "name": "OpenCart",
+  "title": "opencart.com",
+  "payoff": "Free eCommerce platform",
+  "shortDescription": "OpenCart is an open-source eCommerce platform designed to help businesses of all sizes create and manage their online store. It offers a range of customizable modules and themes, allowing users to tailor their sites to meet specific needs. The platform supports various payment gateways and shipping methods, making it ideal for businesses looking to expand globally. OpenCart is particularly beneficial for small to medium-sized enterprises looking to launch their eCommerce operations without significant upfront investment.",
+  "pros": [
+    "Open source with zero monthly fees",
+    "Extensive selection of modules and themes",
+    "Supports multiple payment and shipping methods"
+  ],
+  "cons": [
+    "May require technical knowledge to customize",
+    "Limited scalability compared to some paid solutions",
+    "Community support can vary in quality"
+  ],
+  "alternatives": [
+    "Magento [magento.com]",
+    "Shopify [shopify.com]",
+    "WooCommerce [woocommerce.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Magento",
+      "url": "magento.com",
+      "reason": "Offers extensive customization"
+    },
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Hosted with extensive support"
+    },
+    {
+      "name": "WooCommerce",
+      "url": "woocommerce.com",
+      "reason": "Integrates with WordPress"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "open source",
+    "shopping cart",
+    "scalability"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 1999,
+  "websiteUrl": "https://opencart.com/",
+  "documentationUrl": "https://docs.opencart.com/",
+  "githubUrl": "https://github.com/opencart/opencart/issues",
+  "twitterUrl": "https://twitter.com/opencart",
+  "screenshot": "https://share.appsfor.us/screenshots/opencart_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/opencart_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/opencart_com_400.png",
+  "updatedAt": "2025-06-27T03:18:12.350Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://arvow.com/",
+  "name": "Arvow",
+  "title": "arvow.com",
+  "payoff": "AI-driven SEO content creation",
+  "shortDescription": "Arvow is an AI-powered tool designed to generate SEO-optimized articles for businesses aiming to enhance their online presence. It automates content creation and publishing, making it ideal for business owners looking to scale their SEO efforts without intensive manual input. Users can input specific keywords, manage article structures, and publish directly to platforms like WordPress and Shopify.",
+  "pros": [
+    "Automates SEO content generation",
+    "Integrates with major CMS platforms",
+    "Supports multiple languages and customization"
+  ],
+  "cons": [
+    "Dependence on AI might limit creative control",
+    "Potential SEO risks with AI-generated content",
+    "Requires technical setup for full integration"
+  ],
+  "alternatives": [
+    "Copy.ai [copy.ai]",
+    "Writesonic [writesonic.com]",
+    "Articoolo [articoolo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Copy.ai",
+      "url": "copy.ai",
+      "reason": "Offers creative AI writing tools"
+    },
+    {
+      "name": "Writesonic",
+      "url": "writesonic.com",
+      "reason": "Focuses on marketing content"
+    },
+    {
+      "name": "Articoolo",
+      "url": "articoolo.com",
+      "reason": "Provides quick content creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "SEO",
+    "content generation",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://arvow.com/",
+  "documentationUrl": "https://docs.arvow.com/reference",
+  "githubUrl": "https://github.com/search?q=arvow&type=repositories",
+  "twitterUrl": "https://x.com/vascoabm",
+  "screenshot": "https://share.appsfor.us/screenshots/arvow_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/arvow_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/arvow_com_400.png",
+  "updatedAt": "2025-06-27T03:20:05.313Z"
+}

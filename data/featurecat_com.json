@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://featurecat.com/",
+  "name": "FeatureCat",
+  "title": "featurecat.com",
+  "payoff": "Build better products with feedback",
+  "shortDescription": "FeatureCat is a feature management tool designed to help software teams collect user feedback, organize feature requests, and build products that align with customer needs. It streamlines the feedback process, allowing users to vote on features, and provides insights to prioritize development. Ideal for teams looking to engage users directly in the product development lifecycle.",
+  "pros": [
+    "Streamlines user feedback collection",
+    "Enables feature voting and prioritization",
+    "Integrates seamlessly into apps and websites"
+  ],
+  "cons": [
+    "May require initial setup and customization",
+    "Dependent on user engagement for effectiveness",
+    "Limited to feedback and feature management"
+  ],
+  "alternatives": [
+    "Aha! [aha.io]",
+    "Productboard [productboard.com]",
+    "UserVoice [uservoice.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Offers broader product strategy planning"
+    },
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Focuses on product management and roadmap"
+    },
+    {
+      "name": "UserVoice",
+      "url": "uservoice.com",
+      "reason": "Strong in gathering and analyzing user feedback"
+    }
+  ],
+  "tags": [
+    "user feedback",
+    "feature management",
+    "product development",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://featurecat.com/",
+  "documentationUrl": "https://featurecat.com/documentation",
+  "githubUrl": "https://github.com/search?q=featurecat&type=repositories",
+  "twitterUrl": "https://twitter.com/feature_cat",
+  "screenshot": "https://share.appsfor.us/screenshots/featurecat_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/featurecat_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/featurecat_com_400.png",
+  "updatedAt": "2025-06-27T03:18:40.634Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://transcript.lol/",
+  "name": "Transcript LOL",
+  "title": "transcript.lol",
+  "payoff": "Convert audio to text in seconds",
+  "shortDescription": "Transcript LOL is designed to transform audio and video content into text, summaries, and insights swiftly, catering to businesses and content creators. It supports a variety of languages and boasts high accuracy. Users can benefit from features like speaker detection and multiple download formats, making it ideal for reviewing content from popular creators like Joe Rogan and Lex Fridman.",
+  "pros": [
+    "High accuracy of 99%",
+    "Supports over 70 languages",
+    "Fast processing of audio to text"
+  ],
+  "cons": [
+    "Limited to audio and video content",
+    "May not capture nuanced speech perfectly",
+    "Dependent on audio quality"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Rev.com [rev.com]",
+    "Scribie [scribie.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers real-time transcription"
+    },
+    {
+      "name": "Rev.com",
+      "url": "rev.com",
+      "reason": "Provides professional transcription"
+    },
+    {
+      "name": "Scribie",
+      "url": "scribie.com",
+      "reason": "Affordable manual transcription"
+    }
+  ],
+  "tags": [
+    "audio transcription",
+    "video transcription",
+    "AI insights",
+    "content processing"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://transcript.lol/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=transcript%20lol&type=repositories",
+  "twitterUrl": "https://x.com/transcriptlol",
+  "screenshot": "https://share.appsfor.us/screenshots/transcript_lol.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/transcript_lol_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/transcript_lol_400.png",
+  "updatedAt": "2025-06-27T03:20:31.945Z"
+}
