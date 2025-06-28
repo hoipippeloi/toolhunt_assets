@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://labs.google/doppl",
+  "name": "Doppl",
+  "title": "labs.google/doppl",
+  "payoff": "Explore your style virtually",
+  "shortDescription": "Doppl is an experimental app from Google Labs designed for virtual try-ons. It allows users to upload photos and see how different outfits look on them. Ideal for fashion enthusiasts, the app provides a platform to experiment with styles before making a purchase. Users can also animate their looks to see them in motion.",
+  "pros": [
+    "Visualize outfits on your own image",
+    "Animate looks to see them in motion",
+    "Upload images from personal collections"
+  ],
+  "cons": [
+    "Currently limited to U.S. users",
+    "Does not support all clothing types",
+    "Potential inaccuracies in AI-generated images"
+  ],
+  "alternatives": [
+    "YouCam Makeup [perfectcorp.com]",
+    "Style My Hair [lorealprofessionnel.com]",
+    "Looklet [looklet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "YouCam Makeup",
+      "url": "perfectcorp.com",
+      "reason": "Offers virtual makeup try-ons"
+    },
+    {
+      "name": "Style My Hair",
+      "url": "lorealprofessionnel.com",
+      "reason": "Focuses on hair style visualizations"
+    },
+    {
+      "name": "Looklet",
+      "url": "looklet.com",
+      "reason": "Provides fashion imaging solutions"
+    }
+  ],
+  "tags": [
+    "virtual styling",
+    "fashion tech",
+    "AI",
+    "image processing"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://labs.google/doppl",
+  "documentationUrl": "https://docs.google.com/document/d/18kjJTYxqmTAs9anDf5GAYyYIJPtGbCUNYEOLPHPq6LE/edit?tab=t.0#bookmark=id.hma6vxqkb8ca",
+  "githubUrl": "https://github.com/search?q=doppl&type=repositories",
+  "twitterUrl": "https://x.com/googlelabs",
+  "screenshot": "https://share.appsfor.us/screenshots/labs_google.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/labs_google_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/labs_google_400.png",
+  "updatedAt": "2025-06-28T04:20:48.559Z"
+}

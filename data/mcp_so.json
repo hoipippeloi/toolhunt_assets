@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mcp.so/",
+  "name": "MCP Servers",
+  "title": "mcp.so",
+  "payoff": "Connect the world with MCP",
+  "shortDescription": "MCP Servers facilitate the integration and management of various software applications and data platforms through the Model Context Protocol. It's designed for developers and businesses looking to streamline their operations by enabling AI-driven automation and data interactions. For example, using MCP Servers, a developer can quickly integrate payment solutions or access real-time data from multiple sources.",
+  "pros": [
+    "Facilitates seamless integration",
+    "Supports a wide range of applications",
+    "Enhances AI-driven automation"
+  ],
+  "cons": [
+    "Requires technical expertise",
+    "Potentially high setup costs",
+    "Limited user community"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "IFTTT [ifttt.com]",
+    "Microsoft Power Automate [powerautomate.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Wide range of integrations and automation"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple conditional statements for tasks"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Deep integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "API",
+    "integration",
+    "data management",
+    "AI automation"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "APIs",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mcp.so/",
+  "documentationUrl": "https://mcp.so/docs",
+  "githubUrl": "https://github.com/search?q=mcp%20servers&type=repositories",
+  "twitterUrl": "https://x.com/chatmcp",
+  "screenshot": "https://share.appsfor.us/screenshots/mcp_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mcp_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mcp_so_400.png",
+  "updatedAt": "2025-06-28T04:20:26.751Z"
+}

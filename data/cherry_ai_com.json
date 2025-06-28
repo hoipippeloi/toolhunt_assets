@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cherry-ai.com/",
+  "name": "Cherry Studio",
+  "title": "cherry-ai.com",
+  "payoff": "All-in-One AI Assistant",
+  "shortDescription": "Cherry Studio is a versatile AI client designed for Windows, macOS, and Linux, with future plans for mobile support. Since its inception in July 2024, it has undergone hundreds of iterations to enhance efficiency, security, and user-friendliness. Users can start using it by simply entering an API key, making it accessible for both creators and general users. The active community provides robust support, helping users tackle various issues swiftly.",
+  "pros": [
+    "Supports multiple platforms including Windows, macOS, and Linux",
+    "Simple configuration using just an API key",
+    "Active community for user support"
+  ],
+  "cons": [
+    "Mobile support not yet available",
+    "May require technical knowledge for advanced features",
+    "Limited information on pricing and enterprise use"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "Microsoft Bot Framework [botframework.com]",
+    "Rasa [rasa.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers extensive NLP capabilities"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "url": "botframework.com",
+      "reason": "Integrates with Microsoft products"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source with strong community"
+    }
+  ],
+  "tags": [
+    "AI",
+    "multi-platform",
+    "user-friendly",
+    "community-supported"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2024,
+  "websiteUrl": "https://cherry-ai.com/",
+  "documentationUrl": "https://cherry-ai.com/docs",
+  "githubUrl": "https://github.com/CherryHQ/cherry-studio",
+  "twitterUrl": "https://x.com/kangfenmao",
+  "screenshot": "https://share.appsfor.us/screenshots/cherry_ai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cherry_ai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cherry_ai_com_400.png",
+  "updatedAt": "2025-06-28T04:21:18.103Z"
+}
