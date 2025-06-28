@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://capcut.com/",
+  "name": "CapCut",
+  "title": "capcut.com",
+  "payoff": "AI-driven video and graphic editor",
+  "shortDescription": "CapCut is an all-in-one video editor and graphic design tool powered by artificial intelligence, designed to simplify and enhance the creative process for users of all skill levels. With features like text-to-speech, AI voice generation, and auto-captioning, it's ideal for content creators looking to produce high-quality videos quickly. Example use case: A marketer uses CapCut to create engaging video ads with automated voiceovers and captions, significantly reducing production time.",
+  "pros": [
+    "AI-powered features simplify complex editing tasks",
+    "Supports multiple languages and voice options",
+    "Accessible across various platforms and devices"
+  ],
+  "cons": [
+    "May require internet connection for all features",
+    "AI-generated content might lack uniqueness",
+    "Potential learning curve for advanced features"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "DaVinci Resolve [blackmagicdesign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry-standard video editing software"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "High-performance editing for Mac users"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Advanced color correction and audio post-production"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "AI",
+    "graphic design",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://capcut.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=capcut&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/capcut_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/capcut_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/capcut_com_400.png",
+  "updatedAt": "2025-06-28T01:06:53.322Z"
+}

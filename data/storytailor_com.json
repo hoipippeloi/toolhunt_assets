@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://storytailor.com/",
+  "name": "Storytailor",
+  "title": "storytailor.com",
+  "payoff": "Imagination has a home address",
+  "shortDescription": "Storytailor offers a creative platform where users can craft expansive narratives and develop characters for their storytelling needs. Ideal for writers and content creators, the tool provides a structured environment to explore and build complex story arcs and character development before they make their public debut. An example use case is an author using Storytailor to outline a fantasy novel, creating detailed character backstories and plot twists.",
+  "pros": [
+    "Enhances creative writing",
+    "Structured narrative development",
+    "Supports character creation"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Limited to narrative content",
+    "No offline capabilities"
+  ],
+  "alternatives": [
+    "Scrivener [literatureandlatte.com]",
+    "Final Draft [finaldraft.com]",
+    "Plot Factory [plotfactory.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Scrivener",
+      "url": "literatureandlatte.com",
+      "reason": "Offers robust writing and editing tools"
+    },
+    {
+      "name": "Final Draft",
+      "url": "finaldraft.com",
+      "reason": "Focused on scriptwriting with formatting tools"
+    },
+    {
+      "name": "Plot Factory",
+      "url": "plotfactory.com",
+      "reason": "Online story planner with analytics"
+    }
+  ],
+  "tags": [
+    "creative writing",
+    "content development",
+    "storytelling",
+    "character development"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://storytailor.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=storytailor&type=repositories",
+  "twitterUrl": "https://x.com/withstorytailor",
+  "screenshot": "https://share.appsfor.us/screenshots/storytailor_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/storytailor_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/storytailor_com_400.png",
+  "updatedAt": "2025-06-28T01:05:45.993Z"
+}

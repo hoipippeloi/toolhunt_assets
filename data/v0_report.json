@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://v0.report/",
+  "name": "v0 report",
+  "title": "v0.report",
+  "payoff": "Automate report generation effortlessly",
+  "shortDescription": "v0 Report is an advanced AI document generator designed to streamline the process of creating high-quality documents. Ideal for businesses and academics, it allows users to quickly generate reports, essays, and research papers. Example use case: A university research team uses v0 Report to automate the creation of literature reviews and research findings.",
+  "pros": [
+    "Supports integration with Google Docs",
+    "Advanced AI writing and research capabilities",
+    "Variety of document types supported"
+  ],
+  "cons": [
+    "May require technical knowledge to maximize use",
+    "Limited customization options for advanced users",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Grammarly [grammarly.com]",
+    "QuillBot [quillbot.com]",
+    "Scrivener [literatureandlatte.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Grammarly",
+      "url": "grammarly.com",
+      "reason": "Offers advanced writing assistance"
+    },
+    {
+      "name": "QuillBot",
+      "url": "quillbot.com",
+      "reason": "Provides paraphrasing and summarizing"
+    },
+    {
+      "name": "Scrivener",
+      "url": "literatureandlatte.com",
+      "reason": "Focused on long-form writing projects"
+    }
+  ],
+  "tags": [
+    "AI",
+    "document generation",
+    "report automation",
+    "content management"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://v0.report/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=v0%20report&type=repositories",
+  "twitterUrl": "https://twitter.com/v0report",
+  "screenshot": "https://share.appsfor.us/screenshots/v0_report.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/v0_report_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/v0_report_400.png",
+  "updatedAt": "2025-06-28T01:07:20.626Z"
+}

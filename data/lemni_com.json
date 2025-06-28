@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lemni.com/",
+  "name": "Lemni",
+  "title": "lemni.com",
+  "payoff": "Custom Ai agents in minutes",
+  "shortDescription": "Lemni enables businesses to quickly set up custom Ai agents tailored to their specific customer interaction needs. This tool is designed for companies looking to enhance their customer service without increasing headcount, providing a scalable solution that keeps personalization at the forefront. An example use case would be a retail business implementing an Ai agent to handle customer inquiries and purchases, thereby reducing the load on human staff.",
+  "pros": [
+    "Quick setup of Ai agents",
+    "Scalable customer interaction solutions",
+    "Maintains personalization as business grows"
+  ],
+  "cons": [
+    "May require initial training data",
+    "Potential dependency on AI technology",
+    "Limited human oversight in interactions"
+  ],
+  "alternatives": [
+    "Intercom [intercom.com]",
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Offers personalized customer communications"
+    },
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Widely used for customer support solutions"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Integrates with multiple business tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "customer service",
+    "scalability",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://lemni.com/",
+  "documentationUrl": "https://lemni.com/docs",
+  "githubUrl": "https://github.com/lemni",
+  "twitterUrl": "https://x.com/lemni",
+  "screenshot": "https://share.appsfor.us/screenshots/lemni_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lemni_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lemni_com_400.png",
+  "updatedAt": "2025-06-28T01:04:40.986Z"
+}

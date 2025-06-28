@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://emailit.com/",
+  "name": "Emailit",
+  "title": "emailit.com",
+  "payoff": "Email API for developers",
+  "shortDescription": "Emailit offers a straightforward API designed for developers to send transactional and marketing emails efficiently. Users can integrate the service quickly using SMTP or Rest API, suitable for businesses of all sizes. Example use case: A startup can manage their email campaigns, track performance, and adjust strategies based on detailed analytics provided by Emailit.",
+  "pros": [
+    "Quick integration with SMTP or Rest API",
+    "Pay only for emails sent, maximizing budget",
+    "Detailed analytics and domain management"
+  ],
+  "cons": [
+    "No free tier mentioned",
+    "Limited to email functionalities",
+    "No open source flexibility"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "Mailgun [mailgun.com]",
+    "Postmark [postmarkapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Offers scalable email delivery and marketing tools"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Provides broader marketing automation features"
+    },
+    {
+      "name": "Amazon SES",
+      "url": "aws.amazon.com/ses",
+      "reason": "Cost-effective solution for large volume sending"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "API",
+    "marketing",
+    "transactional emails"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://emailit.com/",
+  "documentationUrl": "https://emailit.com/documentation",
+  "githubUrl": "https://github.com/emailit-sdk",
+  "twitterUrl": "https://twitter.com/emailitcom",
+  "screenshot": "https://share.appsfor.us/screenshots/emailit_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/emailit_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/emailit_com_400.png",
+  "updatedAt": "2025-06-28T01:04:05.151Z"
+}
