@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://omnisend.com/",
+  "name": "Omnisend",
+  "title": "omnisend.com",
+  "payoff": "Grow with Email & SMS Marketing",
+  "shortDescription": "Omnisend is an ecommerce marketing platform that integrates email marketing and SMS to help businesses build better customer relationships. It offers tools for automation, audience growth, and campaign management, making it ideal for ecommerce brands looking to enhance their marketing efforts. Users can quickly set up campaigns and track their effectiveness to drive sales.",
+  "pros": [
+    "Integrated email and SMS marketing",
+    "Pre-built automations for ease of use",
+    "Extensive integration capabilities"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost for advanced features",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "Klaviyo [klaviyo.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers broader marketing tools"
+    },
+    {
+      "name": "Klaviyo",
+      "url": "klaviyo.com",
+      "reason": "Focused on ecommerce integration"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Advanced automation and CRM features"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "SMS marketing",
+    "ecommerce",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://omnisend.com/",
+  "documentationUrl": "https://omnisend.com/features",
+  "githubUrl": "https://github.com/search?q=omnisend&type=repositories",
+  "twitterUrl": "https://twitter.com/en/privacy",
+  "screenshot": "https://share.appsfor.us/screenshots/omnisend_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/omnisend_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/omnisend_com_400.png",
+  "updatedAt": "2025-06-28T03:12:05.217Z"
+}

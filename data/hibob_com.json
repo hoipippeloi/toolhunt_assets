@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hibob.com/",
+  "name": "HiBob",
+  "title": "hibob.com",
+  "payoff": "Modern HR for modern business",
+  "shortDescription": "HiBob offers a comprehensive HR platform designed to enhance productivity, engagement, and retention across organizations. It serves modern, fast-growing, global businesses with features like onboarding, performance management, and payroll integration. An example use case is a multinational company streamlining its HR processes and improving compliance across different countries.",
+  "pros": [
+    "User-friendly interface",
+    "Customizable to specific company needs",
+    "Strong analytics for data-driven decisions"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Potentially overwhelming features for small teams",
+    "Limited information on pricing transparency"
+  ],
+  "alternatives": [
+    "Workday [workday.com]",
+    "BambooHR [bamboohr.com]",
+    "Gusto [gusto.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Workday",
+      "url": "workday.com",
+      "reason": "Comprehensive enterprise HR suite"
+    },
+    {
+      "name": "BambooHR",
+      "url": "bamboohr.com",
+      "reason": "Popular for small to medium businesses"
+    },
+    {
+      "name": "Gusto",
+      "url": "gusto.com",
+      "reason": "Focuses on payroll and benefits"
+    }
+  ],
+  "tags": [
+    "HRIS",
+    "performance management",
+    "payroll integration",
+    "employee engagement"
+  ],
+  "apiUsed": true,
+  "department": "Human Resources",
+  "function": "HR Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://hibob.com/",
+  "documentationUrl": "https://hibob.com/docs",
+  "githubUrl": "https://github.com/search?q=hibob&type=repositories",
+  "twitterUrl": "https://twitter.com/Hibob_hr",
+  "screenshot": "https://share.appsfor.us/screenshots/hibob_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hibob_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hibob_com_400.png",
+  "updatedAt": "2025-06-28T03:12:29.219Z"
+}

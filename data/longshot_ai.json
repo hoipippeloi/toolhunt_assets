@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://longshot.ai/",
+  "name": "LongShot AI",
+  "title": "longshot.ai",
+  "payoff": "Highlight Articles on Search Engines",
+  "shortDescription": "LongShot AI specializes in generating and optimizing content for search engines and AI platforms like Google and ChatGPT. It's designed for marketers and content creators who need to produce SEO-friendly, high-quality articles efficiently. Users can create various types of content, such as how-to guides and listicles, with minimal clicks and optimize them using tools like Semantic SEO.",
+  "pros": [
+    "Optimizes content for top search engines",
+    "Supports multiple content types and workflows",
+    "Integrates real-time fact-checking features"
+  ],
+  "cons": [
+    "May require SEO knowledge to maximize use",
+    "Potentially limited customization options",
+    "Dependent on external platforms like GSC for insights"
+  ],
+  "alternatives": [
+    "Marketmuse [marketmuse.com]",
+    "Jasper AI [jasper.ai]",
+    "Surfer SEO [surferseo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Marketmuse",
+      "url": "marketmuse.com",
+      "reason": "Offers in-depth content analysis"
+    },
+    {
+      "name": "Jasper AI",
+      "url": "jasper.ai",
+      "reason": "Focuses on creative content generation"
+    },
+    {
+      "name": "Surfer SEO",
+      "url": "surferseo.com",
+      "reason": "Provides detailed SEO audit tools"
+    }
+  ],
+  "tags": [
+    "content generation",
+    "SEO",
+    "AI writing assistant",
+    "marketing tool"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://longshot.ai/",
+  "documentationUrl": "https://help.longshot.ai/",
+  "githubUrl": "https://github.com/search?q=longshot%20ai&type=repositories",
+  "twitterUrl": "https://x.com/prayanks/status/1893968762497564953",
+  "screenshot": "https://share.appsfor.us/screenshots/longshot_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/longshot_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/longshot_ai_400.png",
+  "updatedAt": "2025-06-28T03:14:30.831Z"
+}

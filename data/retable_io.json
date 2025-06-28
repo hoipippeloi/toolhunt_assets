@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://retable.io/",
+  "name": "Retable",
+  "title": "retable.io",
+  "payoff": "Smart no-code data management",
+  "shortDescription": "Retable offers a no-code platform that transforms spreadsheets into smart database apps, catering to businesses of all sizes. Users can manage data, automate workflows, and collaborate in real-time. An example use case is a small business optimizing project management and HR processes through customizable databases and automated data syncing.",
+  "pros": [
+    "No-code platform for easy use",
+    "Real-time collaboration features",
+    "Extensive integration options"
+  ],
+  "cons": [
+    "May have a learning curve for new users",
+    "Limited customization in free tier",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Google Sheets [google.com/sheets]",
+    "Smartsheet [smartsheet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Flexible database with strong API"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Advanced project management features"
+    },
+    {
+      "name": "Google Sheets",
+      "url": "google.com/sheets",
+      "reason": "Widely used and integrates with Google Workspace"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "data management",
+    "collaboration",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://retable.io/",
+  "documentationUrl": "https://retable.io/docs",
+  "githubUrl": "https://github.com/search?q=retable&type=repositories",
+  "twitterUrl": "https://twitter.com/retableio",
+  "screenshot": "https://share.appsfor.us/screenshots/retable_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/retable_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/retable_io_400.png",
+  "updatedAt": "2025-06-28T03:12:58.713Z"
+}
