@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beacons.ai/",
+  "name": "Beacons",
+  "title": "beacons.ai",
+  "payoff": "Power your creator growth",
+  "shortDescription": "Beacons is a versatile platform designed for content creators across various social media platforms, including Instagram, TikTok, and YouTube. It offers tools for building customizable 'Link in Bio' websites, managing affiliate links, and securing brand deals. Creators can sell digital products, manage their audience with email lists and automated DMs, and enhance their monetization strategies. An example use case is a digital marketer like @niuviews using Beacons to grow her content business and streamline income streams.",
+  "pros": [
+    "Customizable Link in Bio websites",
+    "Integrated tools for sales and audience management",
+    "Quick monetization through affiliate and brand deals"
+  ],
+  "cons": [
+    "May require digital marketing knowledge to fully utilize",
+    "Potentially overwhelming for new creators",
+    "Dependent on third-party platform policies"
+  ],
+  "alternatives": [
+    "Linktree [linktr.ee]",
+    "Taplink [taplink.at]",
+    "Shorby [shorby.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Linktree",
+      "url": "linktr.ee",
+      "reason": "Popular for simple link aggregation"
+    },
+    {
+      "name": "Taplink",
+      "url": "taplink.at",
+      "reason": "Offers advanced sales features"
+    },
+    {
+      "name": "Shorby",
+      "url": "shorby.com",
+      "reason": "Focuses on optimizing social traffic"
+    }
+  ],
+  "tags": [
+    "content management",
+    "e-commerce",
+    "marketing tools",
+    "social media"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://beacons.ai/",
+  "documentationUrl": "https://help.beacons.ai/en/",
+  "githubUrl": "https://github.com/search?q=beacons&type=repositories",
+  "twitterUrl": "https://twitter.com/beaconsai",
+  "screenshot": "https://share.appsfor.us/screenshots/beacons_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/beacons_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/beacons_ai_400.png",
+  "updatedAt": "2025-06-29T01:16:15.028Z"
+}

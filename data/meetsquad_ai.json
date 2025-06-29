@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://meetsquad.ai/",
+  "name": "Squad AI",
+  "title": "meetsquad.ai",
+  "payoff": "AI-driven product strategy platform",
+  "shortDescription": "Squad AI is a platform designed to streamline product management by integrating customer feedback directly into strategic planning. It helps product teams align their goals with customer needs, enhancing decision-making and prioritization. An example use case is a software development team using Squad AI to automate the generation of product requirement documents and roadmaps based on real user feedback.",
+  "pros": [
+    "Aligns product goals with customer feedback",
+    "Automates generation of product documents",
+    "Integrates with existing workflows"
+  ],
+  "cons": [
+    "May be complex for small teams",
+    "Dependent on quality of input data",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Aha! [aha.io]",
+    "Productboard [productboard.com]",
+    "Jira [atlassian.com/software/jira]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Offers detailed roadmapping and strategy tools"
+    },
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Focuses on product management and prioritization"
+    },
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Widely used for project and issue tracking"
+    }
+  ],
+  "tags": [
+    "AI",
+    "product management",
+    "customer feedback",
+    "roadmapping"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://meetsquad.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=squad%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/meetsquadai",
+  "screenshot": "https://share.appsfor.us/screenshots/meetsquad_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/meetsquad_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/meetsquad_ai_400.png",
+  "updatedAt": "2025-06-29T01:16:43.274Z"
+}

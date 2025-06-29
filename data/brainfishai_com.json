@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://brainfishai.com/",
+  "name": "Brainfish",
+  "title": "brainfishai.com",
+  "payoff": "AI Agents for Customer Support",
+  "shortDescription": "Brainfish revolutionizes customer support through ambient AI agents embedded directly within products. These agents utilize APIs and third-party integrations to provide real-time solutions and support, learning continuously to adapt to new product features and user behaviors. Ideal for businesses aiming to enhance customer self-service capabilities, Brainfish can increase self-service success rates to up to 90%, exemplified by Smokeball's achievement of 83% self-service rates.",
+  "pros": [
+    "High self-service success rates",
+    "Continuous learning and adaptation",
+    "Seamless integration with existing tools"
+  ],
+  "cons": [
+    "Dependence on quality of existing APIs",
+    "Potential privacy concerns with continuous learning",
+    "May require frequent updates and maintenance"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Intercom [intercom.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Popular customer support tool"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Feature-rich support platform"
+    },
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Offers personalized communication"
+    }
+  ],
+  "tags": [
+    "customer support",
+    "AI",
+    "ambient intelligence",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://brainfishai.com/",
+  "documentationUrl": "https://brainfishai.com/docs",
+  "githubUrl": "https://github.com/search?q=brainfish&type=repositories",
+  "twitterUrl": "https://twitter.com/brainfishai",
+  "screenshot": "https://share.appsfor.us/screenshots/brainfishai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/brainfishai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/brainfishai_com_400.png",
+  "updatedAt": "2025-06-29T01:13:57.213Z"
+}

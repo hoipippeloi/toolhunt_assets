@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://undb.io/",
+  "name": "Undb",
+  "title": "undb.io",
+  "payoff": "Open Source Airtable Alternative",
+  "shortDescription": "Undb is a private first open source No-code platform and Backend as a Service (BaaS) that you can host yourself. It is designed for developers and businesses seeking to build applications quickly using a variety of view options like grid, kanban, and calendar. Example use case: A startup could use Undb to manage their sales pipeline and customer relationships efficiently without relying on third-party services.",
+  "pros": [
+    "Host on your own server for privacy",
+    "Variety of data view options",
+    "Open source with community support"
+  ],
+  "cons": [
+    "Self-hosting might require technical setup",
+    "Limited third-party integrations",
+    "Basic support in free tier"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "NocoDB [nocodb.com]",
+    "Baserow [baserow.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Popular no-code platform with rich features."
+    },
+    {
+      "name": "NocoDB",
+      "url": "nocodb.com",
+      "reason": "Open-source Airtable alternative with APIs."
+    },
+    {
+      "name": "Baserow",
+      "url": "baserow.io",
+      "reason": "Self-hosted open-source database tool."
+    }
+  ],
+  "tags": [
+    "open source",
+    "no-code",
+    "BaaS",
+    "data management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://undb.io/",
+  "documentationUrl": "https://undb.io/docs",
+  "githubUrl": "https://github.com/undb-io/undb",
+  "twitterUrl": "https://x.com/unified_undb",
+  "screenshot": "https://share.appsfor.us/screenshots/undb_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/undb_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/undb_io_400.png",
+  "updatedAt": "2025-06-29T01:14:38.874Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://featureshift.com/",
+  "name": "FeatureShift",
+  "title": "featureshift.com",
+  "payoff": "Collect customer feedback effectively",
+  "shortDescription": "FeatureShift helps businesses gather customer feedback, feature requests, and bug reports efficiently. It is designed for product managers and development teams to maintain a clear product roadmap and keep customers informed about updates. An example use case is a tech startup using FeatureShift to prioritize feature development based on user votes and feedback.",
+  "pros": [
+    "Unlimited user feedback collection",
+    "Customizable feedback categories and tags",
+    "No limitations on submissions or tracked users"
+  ],
+  "cons": [
+    "Lacks advanced analytics features",
+    "No clear integration with popular CRM tools",
+    "Limited customization options for larger enterprises"
+  ],
+  "alternatives": [
+    "UserVoice [uservoice.com]",
+    "Canny [canny.io]",
+    "Productboard [productboard.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UserVoice",
+      "url": "uservoice.com",
+      "reason": "Focuses on user feedback and feature requests"
+    },
+    {
+      "name": "Canny",
+      "url": "canny.io",
+      "reason": "Similar features with a modern interface"
+    },
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Comprehensive product management suite"
+    }
+  ],
+  "tags": [
+    "customer feedback",
+    "product management",
+    "user engagement",
+    "roadmapping"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://featureshift.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=featureshift&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/featureshift_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/featureshift_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/featureshift_com_400.png",
+  "updatedAt": "2025-06-29T01:13:06.540Z"
+}

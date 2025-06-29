@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stacklist.app/",
+  "name": "Stacklist",
+  "title": "stacklist.app",
+  "payoff": "Organize and share your favorite things",
+  "shortDescription": "Stacklist allows users to curate, organize, and share collections of their favorite items, such as apps, books, and places, in a visually appealing way. Ideal for influencers, educators, or anyone who wants to share their tastes and discoveries. Users can create 'Stacks' which are groups of saved items, share them publicly or privately, and access them from any device.",
+  "pros": [
+    "Cross-platform accessibility",
+    "User-friendly interface for organizing",
+    "Sharing capabilities without account requirements"
+  ],
+  "cons": [
+    "Dependence on internet connectivity",
+    "Potential privacy concerns with shared lists",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Pinterest [pinterest.com]",
+    "Evernote [evernote.com]",
+    "Pocket [getpocket.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pinterest",
+      "url": "pinterest.com",
+      "reason": "Visual bookmarking with social features"
+    },
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Note-taking and organization"
+    },
+    {
+      "name": "Pocket",
+      "url": "getpocket.com",
+      "reason": "Save content for later access"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "organization",
+    "sharing",
+    "bookmarking"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://stacklist.app/",
+  "documentationUrl": "https://help.stacklist.app/en/",
+  "githubUrl": "https://github.com/search?q=stacklist&type=repositories",
+  "twitterUrl": "https://x.com/stacklist_app",
+  "screenshot": "https://share.appsfor.us/screenshots/stacklist_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stacklist_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stacklist_app_400.png",
+  "updatedAt": "2025-06-29T01:15:04.287Z"
+}
