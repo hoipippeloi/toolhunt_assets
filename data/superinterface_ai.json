@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://superinterface.ai/",
+  "name": "Superinterface",
+  "title": "superinterface.ai",
+  "payoff": "Build interactive AI UI easily",
+  "shortDescription": "Superinterface allows developers to create interactive AI-powered user interfaces for their products. It integrates seamlessly with existing tools, enabling features like voice chats, function activations, and more. Ideal for developers looking to enhance user engagement without extensive coding, an example use case could be integrating AI assistants into e-commerce platforms to improve customer interaction.",
+  "pros": [
+    "Open-source software",
+    "Quick setup process",
+    "No middleman fees for AI usage"
+  ],
+  "cons": [
+    "Limited user community",
+    "Requires technical knowledge",
+    "Potential integration complexities"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "Rasa [rasa.com]",
+    "Microsoft Bot Framework [botframework.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers extensive NLP capabilities"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open-source with strong community"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "url": "botframework.com",
+      "reason": "Integrates well with Microsoft products"
+    }
+  ],
+  "tags": [
+    "AI",
+    "user interface",
+    "open source",
+    "voice interaction"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://superinterface.ai/",
+  "documentationUrl": "https://superinterface.ai/docs",
+  "githubUrl": "https://github.com/supercorp-ai/superinterface",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/superinterface_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/superinterface_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/superinterface_ai_400.png",
+  "updatedAt": "2025-06-29T04:31:24.826Z"
+}

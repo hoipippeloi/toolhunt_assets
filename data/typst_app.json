@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://typst.app/",
+  "name": "Typst",
+  "title": "typst.app",
+  "payoff": "Compose papers faster",
+  "shortDescription": "Typst is a web-based tool designed to simplify the process of composing academic and scientific papers. It offers dynamic templates that adjust to content in real-time, ensuring formatting is consistent without manual adjustments. Ideal for students, researchers, and academics, Typst allows users to focus on writing while it handles the layout. An example use case is a research team collaboratively writing a paper with complex mathematical formulas, easily managed through Typst's intuitive interface.",
+  "pros": [
+    "Real-time content-reactive templates",
+    "Runs in browser, facilitating collaboration",
+    "Open source with no lock-in"
+  ],
+  "cons": [
+    "Requires internet connection",
+    "Limited offline functionality",
+    "May have a learning curve for non-technical users"
+  ],
+  "alternatives": [
+    "LaTeX [latex-project.org]",
+    "Google Docs [docs.google.com]",
+    "Microsoft Word [microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Overleaf",
+      "url": "overleaf.com",
+      "reason": "Cloud-based LaTeX editor with real-time collab."
+    },
+    {
+      "name": "Scribus",
+      "url": "scribus.net",
+      "reason": "Open source desktop publishing tool."
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with docs and collaboration."
+    }
+  ],
+  "tags": [
+    "document creation",
+    "academic writing",
+    "open source",
+    "collaboration tools"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2022,
+  "websiteUrl": "https://typst.app/",
+  "documentationUrl": "https://typst.app/docs",
+  "githubUrl": "https://github.com/typst/",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/typst_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typst_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typst_app_400.png",
+  "updatedAt": "2025-06-29T04:31:43.788Z"
+}
