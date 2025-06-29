@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cravingless.com/",
+  "name": "Cravingless",
+  "title": "cravingless.com",
+  "payoff": "Healthy recipes for your cravings",
+  "shortDescription": "Cravingless offers a variety of healthy and delicious recipes to satisfy different food cravings. Whether you're looking for a snack or a full meal, this platform caters to those seeking nutritious alternatives to traditional dishes. For example, users can find recipes for sweet potato wedges as a healthier alternative to regular fries.",
+  "pros": [
+    "Offers healthy recipe alternatives",
+    "Recipes for various types of cravings",
+    "Focus on nutritious ingredients"
+  ],
+  "cons": [
+    "Limited to food recipes only",
+    "No mobile app available",
+    "Subscription required for full access"
+  ],
+  "alternatives": [
+    "Allrecipes [allrecipes.com]",
+    "Epicurious [epicurious.com]",
+    "Food Network [foodnetwork.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Allrecipes",
+      "url": "allrecipes.com",
+      "reason": "Wide range of recipes, including healthy options"
+    },
+    {
+      "name": "Epicurious",
+      "url": "epicurious.com",
+      "reason": "Focus on gourmet and healthy recipes"
+    },
+    {
+      "name": "Food Network",
+      "url": "foodnetwork.com",
+      "reason": "Extensive food content and recipes"
+    }
+  ],
+  "tags": [
+    "recipes",
+    "healthy eating",
+    "food",
+    "nutrition"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://cravingless.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=cravingless&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/cravingless_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cravingless_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cravingless_com_400.png",
+  "updatedAt": "2025-06-29T03:28:14.727Z"
+}

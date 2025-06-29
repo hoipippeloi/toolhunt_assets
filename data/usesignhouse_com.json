@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usesignhouse.com/",
+  "name": "SignHouse",
+  "title": "usesignhouse.com",
+  "payoff": "Simpler, faster eSignature solution",
+  "shortDescription": "SignHouse offers a streamlined alternative to traditional eSignature software like DocuSign, focusing on simplicity and efficiency. It allows users to send unlimited documents for signing, create multiple workspaces, and offers a lifetime deal for early adopters. Ideal for businesses looking to improve document handling and signing processes without recurring costs.",
+  "pros": [
+    "Unlimited document sending and signatures",
+    "One-time payment option available",
+    "Highly simplified user interface"
+  ],
+  "cons": [
+    "Newer in the market, less proven",
+    "Limited third-party integrations",
+    "No clear API availability for developers"
+  ],
+  "alternatives": [
+    "DocuSign [docusign.com]",
+    "HelloSign [hellosign.com]",
+    "Adobe Sign [adobe.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DocuSign",
+      "url": "docusign.com",
+      "reason": "Established leader in eSignature space"
+    },
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Known for user-friendly interfaces"
+    },
+    {
+      "name": "Adobe Sign",
+      "url": "adobe.com",
+      "reason": "Part of Adobe's extensive software suite"
+    }
+  ],
+  "tags": [
+    "eSignatures",
+    "document management",
+    "SaaS",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Legal & Compliance",
+  "function": "E-Signatures",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://usesignhouse.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=signhouse&type=repositories",
+  "twitterUrl": "https://twitter.com/chddaniel",
+  "screenshot": "https://share.appsfor.us/screenshots/usesignhouse_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usesignhouse_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usesignhouse_com_400.png",
+  "updatedAt": "2025-06-29T03:26:19.112Z"
+}

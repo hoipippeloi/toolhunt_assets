@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://softr.io/",
+  "name": "Softr",
+  "title": "softr.io",
+  "payoff": "Build apps fast without code",
+  "shortDescription": "Softr allows users to create custom business software without any coding knowledge. It integrates with existing data and offers numerous templates to customize applications for various workflows. Users can build databases, manage permissions, and even turn web apps into mobile versions quickly. Ideal for businesses looking to streamline operations and reduce reliance on costly software solutions.",
+  "pros": [
+    "Rapid development and deployment",
+    "No coding required",
+    "Extensive integration options"
+  ],
+  "cons": [
+    "Limited customization compared to coded solutions",
+    "Dependent on third-party integrations",
+    "May not handle very complex workflows"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]",
+    "Retool [retool.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Visual programming for web apps"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Design and develop at the same time"
+    },
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Custom internal tools quickly"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "app development",
+    "business software",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://softr.io/",
+  "documentationUrl": "https://docs.softr.io/",
+  "githubUrl": "https://github.com/search?q=softr&type=repositories",
+  "twitterUrl": "https://x.com/softr_io",
+  "screenshot": "https://share.appsfor.us/screenshots/softr_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/softr_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/softr_io_400.png",
+  "updatedAt": "2025-06-29T03:25:58.532Z"
+}

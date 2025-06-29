@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://coolors.co/",
+  "name": "Coolors",
+  "title": "coolors.co",
+  "payoff": "Fast color palettes generator!",
+  "shortDescription": "Coolors is a rapid color palette generator designed for designers and artists seeking inspiration and efficient tools. Users can create custom palettes in seconds, explore trending schemes, or generate palettes from images. Ideal for graphic designers needing quick color solutions for their projects.",
+  "pros": [
+    "Instant palette creation",
+    "Extensive library of color schemes",
+    "Interactive tools for design"
+  ],
+  "cons": [
+    "Ads required for free use",
+    "Limited features without subscription",
+    "No offline mode"
+  ],
+  "alternatives": [
+    "Adobe Color [color.adobe.com]",
+    "Paletton [paletton.com]",
+    "Color Hunt [colorhunt.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Color",
+      "url": "color.adobe.com",
+      "reason": "Offers color theory integration"
+    },
+    {
+      "name": "Paletton",
+      "url": "paletton.com",
+      "reason": "Focuses on color relationships"
+    },
+    {
+      "name": "Color Hunt",
+      "url": "colorhunt.co",
+      "reason": "Curated color palette collections"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "color palettes",
+    "graphic design",
+    "creativity"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://coolors.co/",
+  "documentationUrl": "https://help.coolors.co/",
+  "githubUrl": "https://github.com/search?q=coolors&type=repositories",
+  "twitterUrl": "https://netflix.com/",
+  "screenshot": "https://share.appsfor.us/screenshots/coolors_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/coolors_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/coolors_co_400.png",
+  "updatedAt": "2025-06-29T03:27:20.389Z"
+}

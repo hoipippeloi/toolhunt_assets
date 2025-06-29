@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://animateai.pro/",
+  "name": "AnimateAI",
+  "title": "animateai.pro",
+  "payoff": "AI-driven animated video creation",
+  "shortDescription": "AnimateAI revolutionizes the creation of animated videos using advanced AI technologies. It's designed for content creators, marketers, and educators who need to produce engaging video content quickly and cost-effectively. Users can generate characters, storyboards, and complete videos with minimal effort. Example use case: An educator creates a series of animated videos for children's bedtime stories, enhancing learning with captivating visuals and narratives.",
+  "pros": [
+    "Rapid video creation with AI assistance",
+    "Cost-effective production process",
+    "No technical skills required for users"
+  ],
+  "cons": [
+    "Limited customization options for advanced users",
+    "Dependence on AI might limit creative control",
+    "Potential privacy concerns with AI-generated content"
+  ],
+  "alternatives": [
+    "Toonly [toonly.com]",
+    "Vyond [vyond.com]",
+    "Animaker [animaker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Toonly",
+      "url": "toonly.com",
+      "reason": "Simple drag-and-drop video maker"
+    },
+    {
+      "name": "Vyond",
+      "url": "vyond.com",
+      "reason": "Offers detailed character animations"
+    },
+    {
+      "name": "Animaker",
+      "url": "animaker.com",
+      "reason": "Supports 4K video quality"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "content creation",
+    "animation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://animateai.pro/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=animateai&type=repositories",
+  "twitterUrl": "https://x.com/AnimateAIVideo",
+  "screenshot": "https://share.appsfor.us/screenshots/animateai_pro.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/animateai_pro_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/animateai_pro_400.png",
+  "updatedAt": "2025-06-29T03:27:43.727Z"
+}
