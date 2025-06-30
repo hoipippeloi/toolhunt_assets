@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://maibrain.ai/",
+  "name": "Maibrain",
+  "title": "maibrain.ai",
+  "payoff": "Preserve knowledge with AI",
+  "shortDescription": "Maibrain helps businesses and individuals preserve and enhance their knowledge through AI-driven digital agents. These agents support various functions such as process optimization and continuous presence, making daily tasks easier and keeping ideas alive. An example use case is a company using Maibrain to maintain a legacy of professional knowledge and improve business relationships.",
+  "pros": [
+    "Customizable digital agents",
+    "Supports multimedia information upload",
+    "Real-time AI interaction capabilities"
+  ],
+  "cons": [
+    "Limited information on pricing",
+    "Potential privacy concerns with data handling",
+    "No clear API availability for developers"
+  ],
+  "alternatives": [
+    "Replica Studios [replicastudios.com]",
+    "Cognigy [cognigy.com]",
+    "Rasa [rasa.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Replica Studios",
+      "url": "replicastudios.com",
+      "reason": "Offers AI voice creation for digital agents"
+    },
+    {
+      "name": "Cognigy",
+      "url": "cognigy.com",
+      "reason": "Provides advanced conversational AI tools"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open source tool for building AI assistants"
+    }
+  ],
+  "tags": [
+    "AI",
+    "knowledge preservation",
+    "digital agents",
+    "memory enhancement"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://maibrain.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/maibrainbase",
+  "twitterUrl": "https://x.com/maibrainsol",
+  "screenshot": "https://share.appsfor.us/screenshots/maibrain_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/maibrain_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/maibrain_ai_400.png",
+  "updatedAt": "2025-06-30T01:12:07.369Z"
+}

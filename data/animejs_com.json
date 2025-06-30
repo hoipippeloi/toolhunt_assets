@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://animejs.com/",
+  "name": "Anime.js",
+  "title": "animejs.com",
+  "payoff": "Animate anything with JavaScript",
+  "shortDescription": "Anime.js is a versatile JavaScript library designed for creating animations across web applications. It caters to developers looking to implement complex animations with ease, using a powerful API that allows for animating CSS properties, SVGs, and more. Example use cases include animating graphics on a webpage, creating interactive user interfaces, or developing animated sequences for web-based applications.",
+  "pros": [
+    "Lightweight and modular API",
+    "Advanced features like stagger and draggable",
+    "Free with extensive documentation"
+  ],
+  "cons": [
+    "Requires JavaScript knowledge",
+    "May be overkill for simple animations",
+    "Limited support for older browsers"
+  ],
+  "alternatives": [
+    "GSAP [greensock.com]",
+    "Velocity.js [velocityjs.org]",
+    "Mo.js [mojs.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GSAP",
+      "url": "greensock.com",
+      "reason": "Offers robust timeline controls"
+    },
+    {
+      "name": "Velocity.js",
+      "url": "velocityjs.org",
+      "reason": "Focus on performance and SVG"
+    },
+    {
+      "name": "Mo.js",
+      "url": "mojs.io",
+      "reason": "Emphasizes motion graphics"
+    }
+  ],
+  "tags": [
+    "JavaScript",
+    "animation",
+    "web development",
+    "SVG"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://animejs.com/",
+  "documentationUrl": "https://animejs.com/documentation/",
+  "githubUrl": "https://github.com/juliangarnier/anime",
+  "twitterUrl": "https://x.com/juliangarnier",
+  "screenshot": "https://share.appsfor.us/screenshots/animejs_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/animejs_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/animejs_com_400.png",
+  "updatedAt": "2025-06-30T01:11:17.795Z"
+}

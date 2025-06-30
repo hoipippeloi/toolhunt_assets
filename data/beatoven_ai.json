@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beatoven.ai/",
+  "name": "Beatoven.ai",
+  "title": "beatoven.ai",
+  "payoff": "Royalty Free AI Music Generator",
+  "shortDescription": "Beatoven.ai is an AI-driven platform designed to generate unique, royalty-free background music tailored to various content needs. It serves creators from fields like YouTube videos, podcasts, and games, allowing them to enhance their projects with customized music tracks. Users can input their music ideas, modify the compositions, and download them in different formats, ensuring their creative vision is perfectly matched with the output.",
+  "pros": [
+    "Customizable AI-generated music",
+    "Supports multiple formats like MP3 and WAV",
+    "Offers a monetizable license with each download"
+  ],
+  "cons": [
+    "Non-exclusive license limits ownership rights",
+    "Potential for copyright claims despite licensing",
+    "Subscription required for full benefits"
+  ],
+  "alternatives": [
+    "AIVA [aiva.ai]",
+    "Amper Music [ampermusic.com]",
+    "Soundraw.io [soundraw.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AIVA",
+      "url": "aiva.ai",
+      "reason": "AI music composition for various media"
+    },
+    {
+      "name": "Amper Music",
+      "url": "ampermusic.com",
+      "reason": "AI tool for creating and customizing music"
+    },
+    {
+      "name": "Soundraw.io",
+      "url": "soundraw.io",
+      "reason": "Generates unique music for content creators"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Music Generation",
+    "Royalty Free",
+    "Content Creation"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://beatoven.ai/",
+  "documentationUrl": "https://beatoven.ai/documentation",
+  "githubUrl": "https://github.com/search?q=beatoven%20ai&type=repositories",
+  "twitterUrl": "https://www.twitter.com/beatovenai",
+  "screenshot": "https://share.appsfor.us/screenshots/beatoven_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/beatoven_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/beatoven_ai_400.png",
+  "updatedAt": "2025-06-30T01:11:44.385Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://octokit.co/",
+  "name": "Octokit",
+  "title": "octokit.co",
+  "payoff": "Gamify marketing campaigns easily",
+  "shortDescription": "Octokit enables users to create engaging games and AR filters for marketing purposes. It offers a drag-and-drop interface, allowing for full customization without requiring coding skills. Ideal for marketers, Octokit helps in creating gamified content that can boost customer engagement and data collection. Example use cases include promotional campaigns, event activations, and interactive advertisements.",
+  "pros": [
+    "Easy to use with drag & drop interface",
+    "Supports multiple game types and AR filters",
+    "Integrates gamification with marketing campaigns"
+  ],
+  "cons": [
+    "May require creative skills to design games",
+    "Limited to gamification within marketing",
+    "Potential high cost for advanced features"
+  ],
+  "alternatives": [
+    "Buildbox [buildbox.com]",
+    "GameSalad [gamesalad.com]",
+    "Unity [unity.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Buildbox",
+      "url": "buildbox.com",
+      "reason": "Offers drag-and-drop game creation"
+    },
+    {
+      "name": "GameSalad",
+      "url": "gamesalad.com",
+      "reason": "Focuses on educational game making"
+    },
+    {
+      "name": "Unity",
+      "url": "unity.com",
+      "reason": "Advanced game development platform"
+    }
+  ],
+  "tags": [
+    "gamification",
+    "marketing",
+    "game development",
+    "AR filters"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://octokit.co/",
+  "documentationUrl": "https://octokit.co/docs",
+  "githubUrl": "https://github.com/search?q=octokit&type=repositories",
+  "twitterUrl": "https://twitter.com/octokit_co",
+  "screenshot": "https://share.appsfor.us/screenshots/octokit_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/octokit_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/octokit_co_400.png",
+  "updatedAt": "2025-06-30T01:13:37.774Z"
+}

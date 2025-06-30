@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://shortcut.com/",
+  "name": "Shortcut",
+  "title": "shortcut.com",
+  "payoff": "Project Management for Software Teams",
+  "shortDescription": "Shortcut is a project management platform designed specifically for software teams. It integrates features like issue tracking, sprints, and roadmaps to streamline the development process. Teams can customize workflows, track progress from planning to release, and align projects with company objectives. An example use case is a software development team using Shortcut to manage their daily tasks, track sprint progress, and ensure all development aligns with strategic goals.",
+  "pros": [
+    "Customizable workflows and tracking",
+    "Integration with the entire software development cycle",
+    "Built-in scalability and security features"
+  ],
+  "cons": [
+    "May be overly complex for small projects",
+    "Potentially high learning curve for new users",
+    "Limited to software development teams"
+  ],
+  "alternatives": [
+    "Jira [atlassian.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira",
+      "url": "atlassian.com",
+      "reason": "Popular for agile software development"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task and project management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual project management with boards"
+    }
+  ],
+  "tags": [
+    "project management",
+    "software development",
+    "team collaboration",
+    "issue tracking"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://shortcut.com/",
+  "documentationUrl": "https://shortcut.com/api/rest/v3",
+  "githubUrl": "https://github.com/useshortcut",
+  "twitterUrl": "https://x.com/shortcut",
+  "screenshot": "https://share.appsfor.us/screenshots/shortcut_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/shortcut_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/shortcut_com_400.png",
+  "updatedAt": "2025-06-30T01:14:40.632Z"
+}

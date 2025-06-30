@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://brandcrowd.com/",
+  "name": "BrandCrowd",
+  "title": "brandcrowd.com",
+  "payoff": "Create logos easily with BrandCrowd",
+  "shortDescription": "BrandCrowd is an online logo maker tool that helps individuals and businesses create unique logos without needing design skills. It offers a wide range of customizable templates to suit various industries and styles. An example use case is a startup looking to quickly establish a visual identity without the high costs associated with professional design services.",
+  "pros": [
+    "User-friendly interface",
+    "Wide range of templates",
+    "Affordable pricing options"
+  ],
+  "cons": [
+    "Limited customization in cheaper plans",
+    "Can be generic without customization",
+    "No offline functionality"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Looka [looka.com]",
+    "Tailor Brands [tailorbrands.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers broader design features"
+    },
+    {
+      "name": "Looka",
+      "url": "looka.com",
+      "reason": "AI-powered logo design"
+    },
+    {
+      "name": "Tailor Brands",
+      "url": "tailorbrands.com",
+      "reason": "Focuses on full branding solutions"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "logo maker",
+    "branding",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://brandcrowd.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=brandcrowd&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/brandcrowd_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/brandcrowd_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/brandcrowd_com_400.png",
+  "updatedAt": "2025-06-30T01:14:09.129Z"
+}
