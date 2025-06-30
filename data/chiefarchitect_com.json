@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chiefarchitect.com/",
+  "name": "Chief Architect",
+  "title": "chiefarchitect.com",
+  "payoff": "Top 3D CAD software for designers",
+  "shortDescription": "Chief Architect is a leading home design software tailored for professionals in the building industry, including architects, builders, and interior designers. It features automatic generation of building elements like roofs and foundations, and provides comprehensive tools for creating detailed 3D models and construction documents. Ideal for designing residential homes and light commercial projects, it helps users visualize projects and make informed decisions quickly.",
+  "pros": [
+    "Automatically generates building components",
+    "Real-time 3D rendering and visualization",
+    "Extensive library of materials and tools"
+  ],
+  "cons": [
+    "High cost for professional versions",
+    "Steep learning curve for new users",
+    "Primarily focused on residential projects"
+  ],
+  "alternatives": [
+    "AutoCAD Architecture [autodesk.com]",
+    "SketchUp [sketchup.com]",
+    "Revit [autodesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AutoCAD Architecture",
+      "url": "autodesk.com",
+      "reason": "Industry standard for architectural design"
+    },
+    {
+      "name": "SketchUp",
+      "url": "sketchup.com",
+      "reason": "User-friendly interface and 3D warehouse"
+    },
+    {
+      "name": "Revit",
+      "url": "autodesk.com",
+      "reason": "Advanced BIM and rendering capabilities"
+    }
+  ],
+  "tags": [
+    "3D modeling",
+    "CAD software",
+    "home design",
+    "architectural tools"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 1992,
+  "websiteUrl": "https://chiefarchitect.com/",
+  "documentationUrl": "https://www.chiefarchitect.com/support/documentation.html",
+  "githubUrl": "https://github.com/search?q=chief%20architect&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/chiefarchitect_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chiefarchitect_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chiefarchitect_com_400.png",
+  "updatedAt": "2025-06-30T03:24:31.232Z"
+}

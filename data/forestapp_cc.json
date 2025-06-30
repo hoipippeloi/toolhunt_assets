@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://forestapp.cc/",
+  "name": "Forest",
+  "title": "forestapp.cc",
+  "payoff": "Stay focused, be present",
+  "shortDescription": "Forest is a unique productivity app designed to help users stay focused by incentivizing them with a virtual tree planting feature. When users focus on their tasks without using their phones, they earn the ability to plant real trees on Earth. This tool is especially useful for students, professionals, and anyone looking to enhance their concentration and productivity. A typical use case involves setting a timer to focus on a task, during which the app discourages phone usage, helping users stay on track.",
+  "pros": [
+    "Encourages productivity through gamification",
+    "Helps reduce phone usage",
+    "Contributes to real-world reforestation"
+  ],
+  "cons": [
+    "Dependent on self-discipline",
+    "Limited to mobile device usage",
+    "May not suit all types of tasks"
+  ],
+  "alternatives": [
+    "Focus@Will [focusatwill.com]",
+    "Freedom [freedom.to]",
+    "RescueTime [rescuetime.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Focus@Will",
+      "url": "focusatwill.com",
+      "reason": "Offers music to boost concentration"
+    },
+    {
+      "name": "Freedom",
+      "url": "freedom.to",
+      "reason": "Blocks distracting websites and apps"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Tracks time spent on applications"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "time management",
+    "environmental impact"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://forestapp.cc/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=forest&type=repositories",
+  "twitterUrl": "https://twitter.com/forestapp_cc",
+  "screenshot": "https://share.appsfor.us/screenshots/forestapp_cc.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/forestapp_cc_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/forestapp_cc_400.png",
+  "updatedAt": "2025-06-30T03:23:34.251Z"
+}

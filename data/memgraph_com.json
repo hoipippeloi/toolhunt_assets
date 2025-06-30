@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://memgraph.com/",
+  "name": "Memgraph",
+  "title": "memgraph.com",
+  "payoff": "Fastest, Most Affordable Graph Database",
+  "shortDescription": "Memgraph is a high-performance graph database designed to handle large-scale data networks. It is tailored for organizations needing to analyze and visualize complex relationships in real-time. For example, financial institutions like Capitec Bank use Memgraph for fraud detection and risk assessment, leveraging its speed and integrative capabilities to enhance network security and operational efficiency.",
+  "pros": [
+    "High performance and real-time analysis",
+    "Supports complex, large-scale data networks",
+    "Integrates with various data tools and platforms"
+  ],
+  "cons": [
+    "May require technical expertise to deploy effectively",
+    "Potentially high cost for large-scale deployments",
+    "Limited community compared to larger databases"
+  ],
+  "alternatives": [
+    "Neo4j [neo4j.com]",
+    "ArangoDB [arangodb.com]",
+    "OrientDB [orientdb.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Neo4j",
+      "url": "neo4j.com",
+      "reason": "Popular graph database with strong community"
+    },
+    {
+      "name": "ArangoDB",
+      "url": "arangodb.com",
+      "reason": "Multi-model DB with graph & document store"
+    },
+    {
+      "name": "OrientDB",
+      "url": "orientdb.org",
+      "reason": "Offers multi-model capabilities and flexibility"
+    }
+  ],
+  "tags": [
+    "graph database",
+    "data analysis",
+    "real-time",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://memgraph.com/",
+  "documentationUrl": "https://memgraph.com/docs",
+  "githubUrl": "https://github.com/memgraph",
+  "twitterUrl": "https://twitter.com/memgraphdb",
+  "screenshot": "https://share.appsfor.us/screenshots/memgraph_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/memgraph_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/memgraph_com_400.png",
+  "updatedAt": "2025-06-30T03:22:23.215Z"
+}

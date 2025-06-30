@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://yworks.com/",
+  "name": "yWorks",
+  "title": "yworks.com",
+  "payoff": "Visualize and analyze graphs",
+  "shortDescription": "yWorks specializes in graph visualization software, offering tools like yFiles for creating, editing, and analyzing complex diagrams. Suitable for developers and non-developers alike, it supports multiple platforms including HTML and Java. Use cases range from academic research to enterprise data analysis, making it versatile for various industries.",
+  "pros": [
+    "Supports multiple platforms",
+    "High-quality automatic layout algorithms",
+    "Extensive documentation and support"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Limited customization in free tools",
+    "Potentially high learning curve"
+  ],
+  "alternatives": [
+    "Graphviz [graphviz.org]",
+    "Neo4j [neo4j.com]",
+    "Microsoft Visio [microsoft.com/microsoft-365/visio]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Graphviz",
+      "url": "graphviz.org",
+      "reason": "Open-source graph visualization software"
+    },
+    {
+      "name": "Neo4j",
+      "url": "neo4j.com",
+      "reason": "Graph database with visualization features"
+    },
+    {
+      "name": "Microsoft Visio",
+      "url": "microsoft.com/microsoft-365/visio",
+      "reason": "Comprehensive diagramming tool"
+    }
+  ],
+  "tags": [
+    "graph visualization",
+    "data analysis",
+    "software development",
+    "diagram editing"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2000,
+  "websiteUrl": "https://yworks.com/",
+  "documentationUrl": "https://docs.yworks.com/yfileshtml/",
+  "githubUrl": "https://github.com/yworks",
+  "twitterUrl": "https://x.com/yworks",
+  "screenshot": "https://share.appsfor.us/screenshots/yworks_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/yworks_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/yworks_com_400.png",
+  "updatedAt": "2025-06-30T03:22:47.060Z"
+}

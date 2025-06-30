@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lookverse.ai/",
+  "name": "LookVerse",
+  "title": "lookverse.ai",
+  "payoff": "Shop outfits with AI guidance",
+  "shortDescription": "LookVerse utilizes artificial intelligence to personalize fashion shopping experiences. It learns users' preferences through interactions to tailor outfit suggestions, making it easier to find styles that resonate personally. Ideal for fashion enthusiasts looking for unique brands and diverse price ranges, it simplifies discovering and purchasing outfits that align with individual tastes and values.",
+  "pros": [
+    "Personalized fashion recommendations",
+    "Wide range of brands and prices",
+    "Supports discovery of niche brands"
+  ],
+  "cons": [
+    "Limited to fashion industry",
+    "Dependent on user data for accuracy",
+    "May not cover all global brands"
+  ],
+  "alternatives": [
+    "Stitch Fix [stitchfix.com]",
+    "Moda Operandi [modaoperandi.com]",
+    "ASOS [asos.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Stitch Fix",
+      "url": "stitchfix.com",
+      "reason": "Offers personalized outfit choices"
+    },
+    {
+      "name": "Moda Operandi",
+      "url": "modaoperandi.com",
+      "reason": "Curates high-end fashion pieces"
+    },
+    {
+      "name": "ASOS",
+      "url": "asos.com",
+      "reason": "Wide variety, including budget options"
+    }
+  ],
+  "tags": [
+    "AI",
+    "E-commerce",
+    "Fashion",
+    "Personalization"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lookverse.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=lookverse&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/lookverse_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lookverse_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lookverse_ai_400.png",
+  "updatedAt": "2025-06-30T03:23:08.049Z"
+}

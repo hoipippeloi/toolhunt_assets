@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://affinity.serif.com/en-us/designer/",
+  "name": "Affinity Designer",
+  "title": "affinity.serif.com",
+  "payoff": "Powerful graphic design software",
+  "shortDescription": "Affinity Designer is a cutting-edge vector graphics software designed for professionals in illustration, web design, and game development. It offers a robust set of features for creating high-quality concept art, logos, UI designs, and more. Available on macOS, Windows, and iPad, it allows seamless collaboration across devices with a consistent file format. Ideal for designers looking to produce detailed, scalable graphics without subscription fees.",
+  "pros": [
+    "No subscription required",
+    "Cross-platform compatibility",
+    "High-performance with complex documents"
+  ],
+  "cons": [
+    "No free tier available",
+    "Limited third-party integrations",
+    "Steep learning curve for beginners"
+  ],
+  "alternatives": [
+    "Adobe Illustrator [adobe.com]",
+    "CorelDRAW [coreldraw.com]",
+    "Sketch [sketch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com",
+      "reason": "Industry-standard vector tool"
+    },
+    {
+      "name": "CorelDRAW",
+      "url": "coreldraw.com",
+      "reason": "Versatile graphic design software"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular among UI/UX designers"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "vector graphics",
+    "illustration software",
+    "graphic design"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://affinity.serif.com/en-us/designer/",
+  "documentationUrl": "https://affinity.serif.com/support/",
+  "githubUrl": "https://github.com/search?q=affinity%20designer&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/affinity_serif_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/affinity_serif_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/affinity_serif_com_400.png",
+  "updatedAt": "2025-06-30T03:23:58.411Z"
+}
