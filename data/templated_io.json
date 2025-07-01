@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://templated.io/",
+  "name": "Templated",
+  "title": "templated.io",
+  "payoff": "Automate image & PDF creation",
+  "shortDescription": "Templated offers a powerful solution for automating the generation of images and PDFs using dynamic templates. It is designed for marketers, developers, and content creators who need to produce high volumes of personalized content quickly. Users can integrate via API or no-code platforms like Zapier to automate workflows, making it ideal for marketing campaigns, e-commerce, and social media.",
+  "pros": [
+    "Easy-to-use drag & drop editor",
+    "Supports API and no-code integrations",
+    "Scalable image and PDF rendering"
+  ],
+  "cons": [
+    "Limited template customization options",
+    "Dependent on third-party integrations",
+    "May require coding knowledge for advanced features"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Vistacreate [vistacreate.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers extensive design tools"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional design suite"
+    },
+    {
+      "name": "Vistacreate",
+      "url": "vistacreate.com",
+      "reason": "Similar features with a creative focus"
+    }
+  ],
+  "tags": [
+    "template generation",
+    "PDF rendering",
+    "image processing",
+    "no-code integration"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://templated.io/",
+  "documentationUrl": "https://templated.io/api-documentation",
+  "githubUrl": "https://github.com/search?q=templated&type=repositories",
+  "twitterUrl": "https://x.com/templatedio",
+  "screenshot": "https://share.appsfor.us/screenshots/templated_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/templated_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/templated_io_400.png",
+  "updatedAt": "2025-07-01T01:14:28.269Z"
+}

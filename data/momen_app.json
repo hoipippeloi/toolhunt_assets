@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://momen.app/",
+  "name": "Momen",
+  "title": "momen.app",
+  "payoff": "Build Web Apps with No-Code",
+  "shortDescription": "Momen is a no-code platform that enables users to build full-stack web applications from front to back without any coding knowledge. It's designed for entrepreneurs, small businesses, and project managers who need to rapidly deploy functional web apps. An example use case could be a small business creating an internal tool to manage inventory and process orders efficiently.",
+  "pros": [
+    "Rapid application development",
+    "No coding required",
+    "Full-stack capabilities"
+  ],
+  "cons": [
+    "Limited customization compared to code solutions",
+    "Potential performance issues with complex apps",
+    "Dependence on vendor for updates and features"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]",
+    "Adalo [adalo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Visual programming for web apps"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Design and develop at the same time"
+    },
+    {
+      "name": "Adalo",
+      "url": "adalo.com",
+      "reason": "Build mobile and web apps"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "web app builder",
+    "full-stack",
+    "rapid development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://momen.app/",
+  "documentationUrl": "https://momen.app/docs",
+  "githubUrl": "https://github.com/search?q=momen&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/momen_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/momen_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/momen_app_400.png",
+  "updatedAt": "2025-07-01T01:15:45.107Z"
+}

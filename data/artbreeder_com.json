@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://artbreeder.com/",
+  "name": "Artbreeder",
+  "title": "artbreeder.com",
+  "payoff": "Create AI-powered artworks effortlessly",
+  "shortDescription": "Artbreeder is a revolutionary platform that allows users to create unique characters, artworks, and more using advanced AI technology. With a user base of over 14 million, it provides tools like splicer and collage for mixing and editing images. Ideal for artists, designers, and creatives, Artbreeder enables users to generate images from simple shapes and text, remix images, and engage with a vibrant community. Example use case: A graphic designer uses Artbreeder to quickly generate and iterate on character designs for a game.",
+  "pros": [
+    "Intuitive AI-powered editing tools",
+    "Large and active user community",
+    "Highly customizable image generation"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Potential privacy concerns with image data",
+    "Limited to visual creative outputs"
+  ],
+  "alternatives": [
+    "DeepArt [deepart.io]",
+    "RunwayML [runwayml.com]",
+    "Daz 3D [daz3d.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DeepArt",
+      "url": "deepart.io",
+      "reason": "Focuses on transforming photos into artworks"
+    },
+    {
+      "name": "RunwayML",
+      "url": "runwayml.com",
+      "reason": "Offers creative AI tools for video and images"
+    },
+    {
+      "name": "Daz 3D",
+      "url": "daz3d.com",
+      "reason": "3D content creation with rich community"
+    }
+  ],
+  "tags": [
+    "AI",
+    "image editing",
+    "creative platform",
+    "community"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://artbreeder.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=artbreeder&type=repositories",
+  "twitterUrl": "https://twitter.com/artbreeder",
+  "screenshot": "https://share.appsfor.us/screenshots/artbreeder_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/artbreeder_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/artbreeder_com_400.png",
+  "updatedAt": "2025-07-01T01:16:06.914Z"
+}

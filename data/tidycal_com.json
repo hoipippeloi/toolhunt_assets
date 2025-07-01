@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tidycal.com/",
+  "name": "TidyCal",
+  "title": "tidycal.com",
+  "payoff": "Simple calendar management solution",
+  "shortDescription": "TidyCal provides a streamlined solution for scheduling and managing appointments, making it ideal for professionals and businesses alike. Users can easily integrate their existing calendars, set availability, and allow clients to book meetings effortlessly. An example use case includes a consultant using TidyCal to manage client sessions, reducing administrative overhead and focusing more on client service.",
+  "pros": [
+    "Easy integration with existing calendars",
+    "User-friendly interface for scheduling",
+    "Lifetime deal with extra features"
+  ],
+  "cons": [
+    "Limited customization options",
+    "No advanced analytics features",
+    "Potentially limited third-party integrations"
+  ],
+  "alternatives": [
+    "Calendly [calendly.com]",
+    "Doodle [doodle.com]",
+    "Acuity Scheduling [acuityscheduling.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Calendly",
+      "url": "calendly.com",
+      "reason": "Popular for its flexible scheduling options"
+    },
+    {
+      "name": "Doodle",
+      "url": "doodle.com",
+      "reason": "Offers quick poll-based scheduling"
+    },
+    {
+      "name": "Acuity Scheduling",
+      "url": "acuityscheduling.com",
+      "reason": "Includes robust business features"
+    }
+  ],
+  "tags": [
+    "calendar management",
+    "scheduling",
+    "booking solution",
+    "time management"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Calendar",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tidycal.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tidycal&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tidycal_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tidycal_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tidycal_com_400.png",
+  "updatedAt": "2025-07-01T01:16:37.873Z"
+}

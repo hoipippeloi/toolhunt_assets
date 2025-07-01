@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://swatle.ai/",
+  "name": "Swatle",
+  "title": "swatle.ai",
+  "payoff": "AI Powered Project Management",
+  "shortDescription": "Swatle enhances project management through AI, focusing on reducing completion times and streamlining communication. It integrates project planning, messaging, and AI assistance to deliver results faster and more efficiently. Ideal for teams looking to automate mundane tasks and optimize decision-making, Swatle offers tools like Kanban boards, Gantt charts, and AI-generated summaries. An example use case is for software development teams aiming to manage sprints and stakeholder communication effectively.",
+  "pros": [
+    "Reduces project completion time by up to 50%",
+    "Provides AI-driven task management and insights",
+    "Supports various project views and instant messaging"
+  ],
+  "cons": [
+    "May have a learning curve for new users",
+    "Dependent on AI accuracy for task management",
+    "Potential privacy concerns with AI handling data"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Monday.com [monday.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers flexible project management tools"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Features robust workflow automation"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Simple, card-based task management"
+    }
+  ],
+  "tags": [
+    "project management",
+    "AI",
+    "collaboration",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://swatle.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=swatle&type=repositories",
+  "twitterUrl": "https://x.com/Swatle_AI",
+  "screenshot": "https://share.appsfor.us/screenshots/swatle_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/swatle_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/swatle_ai_400.png",
+  "updatedAt": "2025-07-01T01:14:03.224Z"
+}
