@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pfp.fm/",
+  "name": "pfp.fm",
+  "title": "pfp.fm",
+  "payoff": "Upgrade Your Profile Picture",
+  "shortDescription": "pfp.fm transforms your standard photos into artistic avatars using advanced AI technology. Ideal for individuals looking to enhance their online presence, the tool offers a variety of styles including 3D, anime, and sketches. Simply upload a photo, choose a style, and download a high-resolution avatar. This is perfect for social media enthusiasts wanting to stand out with a unique profile picture.",
+  "pros": [
+    "Instant high-quality avatar generation",
+    "Multiple artistic styles available",
+    "Simple and user-friendly interface"
+  ],
+  "cons": [
+    "No free tier available",
+    "Limited to profile picture transformations",
+    "Each generation incurs a cost"
+  ],
+  "alternatives": [
+    "Avatarify [avatarify.ai]",
+    "Deep Dream Generator [deepdreamgenerator.com]",
+    "This Person Does Not Exist [thispersondoesnotexist.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Avatarify",
+      "url": "avatarify.ai",
+      "reason": "Offers AI-driven live avatar animations"
+    },
+    {
+      "name": "Deep Dream Generator",
+      "url": "deepdreamgenerator.com",
+      "reason": "Creates artistic images using deep learning"
+    },
+    {
+      "name": "This Person Does Not Exist",
+      "url": "thispersondoesnotexist.com",
+      "reason": "Generates realistic human faces via AI"
+    }
+  ],
+  "tags": [
+    "AI",
+    "avatar creation",
+    "profile enhancement",
+    "digital art"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://pfp.fm/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=pfp%20fm&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/pfp_fm.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pfp_fm_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pfp_fm_400.png",
+  "updatedAt": "2025-07-01T03:28:46.572Z"
+}

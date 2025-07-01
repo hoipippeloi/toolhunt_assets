@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://appwrite.io/",
+  "name": "Appwrite",
+  "title": "appwrite.io",
+  "payoff": "Build like a team of hundreds",
+  "shortDescription": "Appwrite is an open-source platform that simplifies backend development for web, mobile, and Flutter applications. It provides developers with essential tools such as databases, authentication, and real-time capabilities, enabling them to build and scale applications efficiently. Ideal for developers looking to reduce development time and costs, Appwrite serves as a versatile backend solution.",
+  "pros": [
+    "Open-source and free to use",
+    "Supports multiple programming languages",
+    "Scalable and integrates various functionalities"
+  ],
+  "cons": [
+    "Requires self-hosting or cloud setup",
+    "May have a learning curve for beginners",
+    "Limited third-party integrations compared to larger platforms"
+  ],
+  "alternatives": [
+    "Firebase [firebase.google.com]",
+    "Parse [parseplatform.org]",
+    "Backendless [backendless.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Firebase",
+      "url": "firebase.google.com",
+      "reason": "Offers robust backend services with Google support"
+    },
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Easy deployment and scaling for apps"
+    },
+    {
+      "name": "AWS Amplify",
+      "url": "aws.amazon.com/amplify",
+      "reason": "Extensive integration with AWS services"
+    }
+  ],
+  "tags": [
+    "open source",
+    "backend services",
+    "authentication",
+    "databases"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://appwrite.io/",
+  "documentationUrl": "https://appwrite.io/docs",
+  "githubUrl": "https://github.com/appwrite/appwrite",
+  "twitterUrl": "https://twitter.com/intent/follow?screen_name=appwrite",
+  "screenshot": "https://share.appsfor.us/screenshots/appwrite_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/appwrite_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/appwrite_io_400.png",
+  "updatedAt": "2025-07-01T03:29:22.056Z"
+}

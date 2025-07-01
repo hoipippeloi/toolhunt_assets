@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://outrank.so/",
+  "name": "Outrank",
+  "title": "outrank.so",
+  "payoff": "Grow Organic Traffic on Auto-Pilot",
+  "shortDescription": "Outrank automates the creation of SEO-optimized content to boost organic traffic for businesses. It's designed for busy entrepreneurs who need to stay ahead of competitors without daily SEO efforts. Users can enjoy features like keyword discovery, automatic article publishing, and integration with platforms like WordPress and Shopify.",
+  "pros": [
+    "Automates daily content creation",
+    "Integrates with multiple platforms",
+    "Offers backlink exchange for domain rating"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not replace specialized SEO tools",
+    "Dependent on algorithm updates"
+  ],
+  "alternatives": [
+    "Semrush [semrush.com]",
+    "Ahrefs [ahrefs.com]",
+    "Moz [moz.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Semrush",
+      "url": "semrush.com",
+      "reason": "Comprehensive SEO toolset"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Strong backlink analysis"
+    },
+    {
+      "name": "Moz",
+      "url": "moz.com",
+      "reason": "Well-rounded SEO features"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "content generation",
+    "marketing automation",
+    "backlink management"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://outrank.so/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/",
+  "twitterUrl": "https://dropbox.com/",
+  "screenshot": "https://share.appsfor.us/screenshots/outrank_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/outrank_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/outrank_so_400.png",
+  "updatedAt": "2025-07-01T03:29:57.149Z"
+}

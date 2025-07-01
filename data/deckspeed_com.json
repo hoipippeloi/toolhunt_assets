@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://deckspeed.com/en",
+  "name": "DeckSpeed",
+  "title": "deckspeed.com",
+  "payoff": "Create AI slides efficiently",
+  "shortDescription": "DeckSpeed revolutionizes presentation creation by using AI to generate personalized slides from conversations. It's designed for professionals who need to create impactful presentations without relying on generic templates. Simply discuss your presentation's theme, purpose, and audience with DeckSpeed, and it will craft a tailored draft for your review, allowing for adjustments based on your feedback.",
+  "pros": [
+    "Saves time with AI-driven creation",
+    "Fully personalized presentation content",
+    "Easy feedback integration for revisions"
+  ],
+  "cons": [
+    "Dependent on user's input clarity",
+    "May require multiple iterations for perfection",
+    "Limited to presentation creation"
+  ],
+  "alternatives": [
+    "Prezi [prezi.com]",
+    "Canva [canva.com]",
+    "Slidebean [slidebean.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Prezi",
+      "url": "prezi.com",
+      "reason": "Offers dynamic, zoomable presentations"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Wide range of design features"
+    },
+    {
+      "name": "Slidebean",
+      "url": "slidebean.com",
+      "reason": "Automates design for faster setup"
+    }
+  ],
+  "tags": [
+    "AI",
+    "presentation tool",
+    "productivity",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://deckspeed.com/en",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=deckspeed&type=repositories",
+  "twitterUrl": "https://x.com/CoreSpeed_Inc",
+  "screenshot": "https://share.appsfor.us/screenshots/deckspeed_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/deckspeed_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/deckspeed_com_400.png",
+  "updatedAt": "2025-07-01T03:28:19.096Z"
+}

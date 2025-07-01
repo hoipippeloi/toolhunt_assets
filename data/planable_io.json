@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://planable.io/",
+  "name": "Planable",
+  "title": "planable.io",
+  "payoff": "Social Media Management Done Right",
+  "shortDescription": "Planable is a comprehensive tool designed for social media management, targeting agencies, multi-location brands, and content teams. It offers a visual interface for planning, scheduling, and collaborating on social media content across various platforms. Users can preview posts in a calendar view, manage approvals seamlessly, and engage with audiences effectively. An example use case involves a marketing team using Planable to coordinate and approve a multi-channel campaign.",
+  "pros": [
+    "Visual content planning and previews",
+    "Multi-channel scheduling and management",
+    "Collaborative features for team feedback"
+  ],
+  "cons": [
+    "May be overwhelming for small teams",
+    "Potentially expensive for startups",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Offers comprehensive social media tools"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Focuses on simplicity and usability"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Advanced analytics and engagement tools"
+    }
+  ],
+  "tags": [
+    "social media",
+    "content management",
+    "collaboration",
+    "scheduling"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://planable.io/",
+  "documentationUrl": "https://help.planable.io/en/?_gl=1*1la8r7z*_gcl_au*MjAzMjE0ODAzMi4xNzQ2NDE5NDM2",
+  "githubUrl": "https://github.com/search?q=planable&type=repositories",
+  "twitterUrl": "https://twitter.com/planableapp",
+  "screenshot": "https://share.appsfor.us/screenshots/planable_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/planable_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/planable_io_400.png",
+  "updatedAt": "2025-07-01T03:27:24.856Z"
+}
