@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://versium.com/",
+  "name": "Versium",
+  "title": "versium.com",
+  "payoff": "Supercharge your marketing campaigns",
+  "shortDescription": "Versium is a marketing platform designed to enhance audience targeting and omni-channel marketing. It utilizes a comprehensive B2B2C identity graph to help marketers identify, understand, and reach their ideal prospects effectively. An example use case is a marketer using Versium to create targeted lists for a specific product launch, gaining insights to tailor messages and reach audiences across multiple online platforms.",
+  "pros": [
+    "Robust B2B2C identity graph",
+    "Easy integration across multiple ad platforms",
+    "Instant audience insights for targeted marketing"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Limited to digital marketing channels"
+  ],
+  "alternatives": [
+    "HubSpot [hubspot.com]",
+    "Salesforce Pardot [pardot.com]",
+    "Marketo [marketo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers a broader CRM integration"
+    },
+    {
+      "name": "Salesforce Pardot",
+      "url": "pardot.com",
+      "reason": "Focus on B2B marketing automation"
+    },
+    {
+      "name": "Marketo",
+      "url": "marketo.com",
+      "reason": "Advanced lead management features"
+    }
+  ],
+  "tags": [
+    "marketing tools",
+    "audience targeting",
+    "data analytics",
+    "omni-channel marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://versium.com/",
+  "documentationUrl": "https://versium.com/documentation",
+  "githubUrl": "https://github.com/search?q=versium&type=repositories",
+  "twitterUrl": "https://twitter.com/versiumsocial",
+  "screenshot": "https://share.appsfor.us/screenshots/versium_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/versium_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/versium_com_400.png",
+  "updatedAt": "2025-07-02T04:25:45.632Z"
+}

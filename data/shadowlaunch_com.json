@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://shadowlaunch.com/",
+  "name": "Shadowrocket",
+  "title": "shadowlaunch.com",
+  "payoff": "Rule based proxy utility client",
+  "shortDescription": "Shadowrocket is a versatile proxy utility client designed for iOS devices including iPhone, iPad, and Apple TV. It allows users to manage and switch between multiple proxies efficiently, enhancing internet privacy and security. Ideal for individuals concerned with data privacy or those needing to bypass geo-restrictions, an example use case is a journalist securing their internet connection while reporting from different regions.",
+  "pros": [
+    "Enhances internet privacy",
+    "Supports multiple proxy types",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited to iOS devices",
+    "No free version available",
+    "Can be complex for beginners"
+  ],
+  "alternatives": [
+    "NordVPN [nordvpn.com]",
+    "ExpressVPN [expressvpn.com]",
+    "Surfshark [surfshark.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NordVPN",
+      "url": "nordvpn.com",
+      "reason": "Offers a wide range of privacy tools"
+    },
+    {
+      "name": "ExpressVPN",
+      "url": "expressvpn.com",
+      "reason": "Known for fast speeds and security"
+    },
+    {
+      "name": "Surfshark",
+      "url": "surfshark.com",
+      "reason": "Affordable with unlimited device support"
+    }
+  ],
+  "tags": [
+    "privacy",
+    "security",
+    "iOS",
+    "proxy"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Mobile Apps",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://shadowlaunch.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=shadowrocket&type=repositories",
+  "twitterUrl": "https://twitter.com/ShadowrocketApp",
+  "screenshot": "https://share.appsfor.us/screenshots/shadowlaunch_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/shadowlaunch_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/shadowlaunch_com_400.png",
+  "updatedAt": "2025-07-02T04:26:07.837Z"
+}
