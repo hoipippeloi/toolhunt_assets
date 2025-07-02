@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://readdy.ai/",
+  "name": "Readdy",
+  "title": "readdy.ai",
+  "payoff": "AI Website Builder",
+  "shortDescription": "Readdy allows users to build and launch professional websites by simply chatting with an AI. No coding or design skills are needed. Users can describe their business and vision, and the AI instantly generates a website. Adjustments like changing colors, adding sections, or creating additional pages can be easily made through AI commands. Once satisfied, users can publish their site with a single click, making it ready for visitors.",
+  "pros": [
+    "No coding skills required",
+    "Instant website generation",
+    "Easy customization via AI"
+  ],
+  "cons": [
+    "Limited design flexibility",
+    "Dependence on AI understanding",
+    "Potential generic designs"
+  ],
+  "alternatives": [
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]",
+    "Weebly [weebly.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Offers extensive design options"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "High-quality, customizable templates"
+    },
+    {
+      "name": "Weebly",
+      "url": "weebly.com",
+      "reason": "User-friendly interface and features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "website builder",
+    "no-code",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://readdy.ai/",
+  "documentationUrl": "https://help.readdy.ai/",
+  "githubUrl": "https://github.com/search?q=readdy&type=repositories",
+  "twitterUrl": "https://x.com/ReaddyAI",
+  "screenshot": "https://share.appsfor.us/screenshots/readdy_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/readdy_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/readdy_ai_400.png",
+  "updatedAt": "2025-07-02T01:06:36.975Z"
+}

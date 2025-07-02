@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://finchat.io/",
+  "name": "Fiscal.ai",
+  "title": "finchat.io",
+  "payoff": "AI Powered Stock Research",
+  "shortDescription": "Fiscal.ai offers a comprehensive AI-powered platform for stock research, targeting investors and financial analysts. It provides tools for screening investments, visualizing data, and organizing dashboards. Users can quickly access global financial data, automate repetitive tasks, and build portfolios with ease. Ideal for those needing fast, reliable insights into public equities.",
+  "pros": [
+    "Comprehensive financial data sets",
+    "AI-driven insights and automation",
+    "Customizable dashboards and notifications"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential data overload without proper filters",
+    "High dependency on AI accuracy"
+  ],
+  "alternatives": [
+    "Bloomberg Terminal [bloomberg.com]",
+    "Morningstar Direct [morningstar.com]",
+    "Yahoo Finance [finance.yahoo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bloomberg Terminal",
+      "url": "bloomberg.com",
+      "reason": "Industry standard for financial data"
+    },
+    {
+      "name": "Morningstar Direct",
+      "url": "morningstar.com",
+      "reason": "Deep investment research tools"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "finance.yahoo.com",
+      "reason": "Free financial news and data"
+    }
+  ],
+  "tags": [
+    "financial analysis",
+    "stock research",
+    "AI",
+    "data visualization"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://finchat.io/",
+  "documentationUrl": "https://finchat.io/api-docs",
+  "githubUrl": "https://github.com/search?q=fiscal%20ai&type=repositories",
+  "twitterUrl": "https://x.com/fiscal_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/finchat_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/finchat_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/finchat_io_400.png",
+  "updatedAt": "2025-07-02T01:08:31.746Z"
+}

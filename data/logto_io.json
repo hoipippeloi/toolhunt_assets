@@ -3,16 +3,16 @@
   "name": "Logto",
   "title": "logto.io",
   "payoff": "Modern auth infrastructure for developers",
-  "shortDescription": "Logto simplifies authentication for developers by integrating multi-tenancy, enterprise SSO, and RBAC into SaaS or AI apps. It supports OIDC and OAuth 2.1, ensuring a developer-friendly approach that scales from local to cloud and web to mobile. Ideal for developers tired of complex auth systems, Logto offers a straightforward, token-based, pay-as-you-go model with a robust free tier.",
+  "shortDescription": "Logto simplifies authentication for developers by integrating multi-tenancy, enterprise SSO, and RBAC into SaaS or AI apps. It supports OIDC and OAuth 2.1, ensuring a developer-friendly approach that scales from local to cloud and web to mobile. Ideal for developers tired of rebuilding auth systems, Logto offers a token-based, pay-as-you-go model with a free tier up to 50K MAUs.",
   "pros": [
-    "Supports 20+ frameworks with a clean Management API",
-    "Offers multi-tenancy and enterprise-grade SSO",
-    "Open-source with a strong focus on security"
+    "Supports 20+ frameworks and clean Management API",
+    "Offers multi-tenancy and enterprise SSO",
+    "Open-source with fast integration"
   ],
   "cons": [
-    "May require technical knowledge to integrate",
-    "Limited customization options for larger enterprises",
-    "Dependent on community for some support aspects"
+    "May require technical knowledge to set up and manage",
+    "Pay-as-you-go model can become expensive at scale",
+    "Limited customization options compared to bespoke solutions"
   ],
   "alternatives": [
     "Auth0 [auth0.com]",
@@ -28,19 +28,19 @@
     {
       "name": "Okta",
       "url": "okta.com",
-      "reason": "Widely used for enterprise SSO solutions"
+      "reason": "Enterprise-focused with strong security features"
     },
     {
       "name": "OneLogin",
       "url": "onelogin.com",
-      "reason": "Offers strong multi-factor authentication"
+      "reason": "Simplifies user access with single sign-on"
     }
   ],
   "tags": [
     "authentication",
     "security",
     "open source",
-    "developer tools"
+    "scalability"
   ],
   "apiUsed": true,
   "department": "Information Technology",
@@ -52,8 +52,8 @@
   "documentationUrl": "https://docs.logto.io/",
   "githubUrl": "https://github.com/logto-io/logto",
   "twitterUrl": "https://twitter.com/logto_io",
-  "screenshot": "/screenshots/logto_io.png",
-  "screenshot_640": "/screenshots/logto_io_640.png",
-  "screenshot_400": "/screenshots/logto_io_400.png",
-  "updatedAt": "2025-06-02T03:07:18.503Z"
+  "screenshot": "https://share.appsfor.us/screenshots/logto_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/logto_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/logto_io_400.png",
+  "updatedAt": "2025-07-02T01:05:56.650Z"
 }

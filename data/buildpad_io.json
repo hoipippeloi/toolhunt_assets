@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://buildpad.io/",
+  "name": "Buildpad",
+  "title": "buildpad.io",
+  "payoff": "Build products people want",
+  "shortDescription": "Buildpad is a platform designed to assist founders in creating market-driven products efficiently. It offers tools for market research, idea validation, and product development, catering to both seasoned and novice entrepreneurs. An example use case is a startup founder using Buildpad to validate a new app idea before development, ensuring it meets market needs.",
+  "pros": [
+    "Rapid market research capabilities",
+    "Structured product development guidance",
+    "Focus on product-market fit"
+  ],
+  "cons": [
+    "May not cover all industry specifics",
+    "Limited customization options",
+    "Dependent on user input quality"
+  ],
+  "alternatives": [
+    "ProductPlan [productplan.com]",
+    "Roadmunk [roadmunk.com]",
+    "Aha! [aha.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ProductPlan",
+      "url": "productplan.com",
+      "reason": "Visual product planning and roadmapping tool"
+    },
+    {
+      "name": "Roadmunk",
+      "url": "roadmunk.com",
+      "reason": "Roadmapping tool with focus on timeline visualization"
+    },
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Comprehensive product strategy platform"
+    }
+  ],
+  "tags": [
+    "product management",
+    "market research",
+    "idea validation",
+    "startup tools"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://buildpad.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=buildpad&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/buildpad_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/buildpad_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/buildpad_io_400.png",
+  "updatedAt": "2025-07-02T01:06:15.026Z"
+}

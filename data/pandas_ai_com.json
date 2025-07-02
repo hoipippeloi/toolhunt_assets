@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pandas-ai.com/",
+  "name": "PandasAI",
+  "title": "pandas-ai.com",
+  "payoff": "Build AI agents fast and simply",
+  "shortDescription": "PandasAI provides developers with powerful tools to create AI agents effortlessly. It offers simple APIs and requires no DevOps, enabling infinite scalability. Ideal for enterprises needing real-time data insights through natural language queries. Example use case: A developer quickly integrates general AI capabilities into their application to enhance data analysis and user interaction.",
+  "pros": [
+    "Simple APIs for easy integration",
+    "Zero DevOps required for operation",
+    "Supports infinite scalability"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not support all programming languages",
+    "Dependent on external data sources"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "IBM Watson [ibm.com/watson]",
+    "Google AI [ai.google]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers broader AI models and APIs"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com/watson",
+      "reason": "Focus on enterprise AI solutions"
+    },
+    {
+      "name": "Google AI",
+      "url": "ai.google",
+      "reason": "Advanced AI research and tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "development tools",
+    "data analysis",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://pandas-ai.com/",
+  "documentationUrl": "https://pandas-ai.com/docs",
+  "githubUrl": "https://github.com/sinaptik-ai/pandas-ai/stargazers",
+  "twitterUrl": "https://x.com/ai_pandas",
+  "screenshot": "https://share.appsfor.us/screenshots/pandas_ai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pandas_ai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pandas_ai_com_400.png",
+  "updatedAt": "2025-07-02T01:07:23.774Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://revisiondojo.com/",
+  "name": "RevisionDojo",
+  "title": "revisiondojo.com",
+  "payoff": "Supercharge learning with AI",
+  "shortDescription": "RevisionDojo revolutionizes exam preparation by integrating AI-driven tools to enhance learning efficiency. It is designed for students across various educational systems like IB, GCSE, and AP. Users can practice with exam-style questions, receive instant feedback from Jojo AI, and create mock exams to simulate test conditions. Ideal for students seeking a structured and interactive study experience.",
+  "pros": [
+    "Personalized AI feedback",
+    "Comprehensive practice questions",
+    "Supports multiple educational curriculums"
+  ],
+  "cons": [
+    "Potential dependency on AI",
+    "Limited to exam preparation",
+    "May not cover all subjects comprehensively"
+  ],
+  "alternatives": [
+    "Khan Academy [khanacademy.org]",
+    "Quizlet [quizlet.com]",
+    "Coursera [coursera.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Khan Academy",
+      "url": "khanacademy.org",
+      "reason": "Wide range of free courses"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Interactive flashcards and tests"
+    },
+    {
+      "name": "Coursera",
+      "url": "coursera.org",
+      "reason": "Courses from universities worldwide"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "AI",
+    "Exam Preparation",
+    "Educational Tools"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://revisiondojo.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=revisiondojo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/revisiondojo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/revisiondojo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/revisiondojo_com_400.png",
+  "updatedAt": "2025-07-02T01:07:04.731Z"
+}
