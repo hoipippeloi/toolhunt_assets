@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vic.ai/",
+  "name": "Vic.ai",
+  "title": "vic.ai",
+  "payoff": "AI-First Invoice Processing",
+  "shortDescription": "Vic.ai is an artificial intelligence platform designed to automate accounts payable processes. It is tailored for finance leaders looking to reduce operational costs and scale operations without increasing headcount. An example use case includes seamless integration with ERP systems to enhance invoice processing efficiency, making it ideal for mid to large-sized companies.",
+  "pros": [
+    "AI-driven automation reduces manual errors",
+    "Scalable solution for growing businesses",
+    "Seamless ERP system integration"
+  ],
+  "cons": [
+    "Potentially high implementation costs",
+    "Requires training for optimal use",
+    "Dependent on data quality for AI performance"
+  ],
+  "alternatives": [
+    "Bill.com [bill.com]",
+    "Concur [concur.com]",
+    "AvidXchange [avidxchange.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bill.com",
+      "url": "bill.com",
+      "reason": "Popular for automated bill payments"
+    },
+    {
+      "name": "Concur",
+      "url": "concur.com",
+      "reason": "Comprehensive travel and expense mgmt"
+    },
+    {
+      "name": "AvidXchange",
+      "url": "avidxchange.com",
+      "reason": "Strong in mid-market AP automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "finance",
+    "invoice processing"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://vic.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=vic%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/VicDotAi",
+  "screenshot": "https://share.appsfor.us/screenshots/vic_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vic_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vic_ai_400.png",
+  "updatedAt": "2025-07-02T03:17:12.928Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://inshot.com/",
+  "name": "InShot",
+  "title": "inshot.com",
+  "payoff": "Powerful mobile video editor",
+  "shortDescription": "InShot is a mobile application designed for video editing, catering to content creators and social media enthusiasts. Users can easily create videos with a variety of effects, music, and text options. It is ideal for quick edits and sharing on platforms like Instagram and YouTube. The app includes features for adding captions, using a rich materials library, and simple UI which makes it accessible even for beginners.",
+  "pros": [
+    "User-friendly interface",
+    "Extensive materials library",
+    "Multilingual caption support"
+  ],
+  "cons": [
+    "Limited advanced editing features",
+    "Potential in-app purchases",
+    "Mobile-only functionality"
+  ],
+  "alternatives": [
+    "Adobe Premiere Rush [adobe.com]",
+    "FilmoraGo [filmora.wondershare.com]",
+    "KineMaster [kinemaster.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Rush",
+      "url": "adobe.com",
+      "reason": "Offers cloud sync and advanced features"
+    },
+    {
+      "name": "FilmoraGo",
+      "url": "filmora.wondershare.com",
+      "reason": "Includes a wide range of effects and tools"
+    },
+    {
+      "name": "KineMaster",
+      "url": "kinemaster.com",
+      "reason": "Features multi-layer editing and asset store"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "mobile app",
+    "content creation",
+    "social media"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://inshot.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=inshot&type=repositories",
+  "twitterUrl": "https://x.com/InShot_App",
+  "screenshot": "https://share.appsfor.us/screenshots/inshot_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/inshot_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/inshot_com_400.png",
+  "updatedAt": "2025-07-02T03:16:48.410Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stitch.withgoogle.com/",
+  "name": "Stitch",
+  "title": "stitch.withgoogle.com",
+  "payoff": "Design with AI",
+  "shortDescription": "Stitch leverages AI to revolutionize the design process, making it faster and more intuitive. It is tailored for designers and creative teams seeking to enhance their workflow. An example use case is automating routine design tasks, allowing creatives to focus on innovation and aesthetics.",
+  "pros": [
+    "AI-driven design tools enhance creativity",
+    "Automates routine design tasks",
+    "Intuitive interface for all skill levels"
+  ],
+  "cons": [
+    "May require a learning curve",
+    "Potential privacy concerns with AI",
+    "Dependent on internet connectivity"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Express [adobe.com/express]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers easy-to-use design templates"
+    },
+    {
+      "name": "Adobe Express",
+      "url": "adobe.com/express",
+      "reason": "Rich features for professional designs"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Collaborative interface for teams"
+    }
+  ],
+  "tags": [
+    "AI",
+    "design",
+    "automation",
+    "creative"
+  ],
+  "apiUsed": true,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://stitch.withgoogle.com/",
+  "documentationUrl": "https://stitch.withgoogle.com/docs",
+  "githubUrl": "https://github.com/search?q=stitch&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/stitch_withgoogle_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stitch_withgoogle_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stitch_withgoogle_com_400.png",
+  "updatedAt": "2025-07-02T03:17:46.017Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://prompts.chat/",
+  "name": "prompts.chat",
+  "title": "prompts.chat",
+  "payoff": "AI prompts directory",
+  "shortDescription": "prompts.chat is the first and most comprehensive directory of AI prompts available online. It serves as a hub for developers, creative professionals, and AI enthusiasts to share and discover unique AI prompts. Users can submit their own prompts or explore the collection to enhance their projects or AI interactions.",
+  "pros": [
+    "First dedicated AI prompts directory",
+    "Supports community contributions",
+    "Wide variety of AI platform choices"
+  ],
+  "cons": [
+    "Limited to AI prompts only",
+    "No direct user interaction features",
+    "May require technical knowledge to contribute"
+  ],
+  "alternatives": [
+    "ChatGPT [openai.com]",
+    "Hugging Face [huggingface.co]",
+    "DeepAI [deepai.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ChatGPT",
+      "url": "openai.com",
+      "reason": "Wide range of AI models"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Large AI community & models"
+    },
+    {
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "Diverse AI APIs available"
+    }
+  ],
+  "tags": [
+    "AI",
+    "prompts",
+    "community-driven",
+    "creative tools"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://prompts.chat/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/f/awesome-chatgpt-prompts/stargazers",
+  "twitterUrl": "https://x.com/fkadev",
+  "screenshot": "https://share.appsfor.us/screenshots/prompts_chat.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/prompts_chat_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/prompts_chat_400.png",
+  "updatedAt": "2025-07-02T03:18:30.899Z"
+}

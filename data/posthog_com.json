@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://posthog.com/",
+  "name": "PostHog",
+  "title": "posthog.com",
+  "payoff": "Build successful products fast",
+  "shortDescription": "PostHog is a comprehensive platform designed for developers to analyze, test, observe, and deploy product features efficiently. It caters to those looking to streamline their product development process with tools like event-based analytics, auto capture, and SQL access. An example use case is a tech startup using PostHog to understand user behavior and improve product features rapidly.",
+  "pros": [
+    "Integrated platform with multiple tools",
+    "Fast deployment of new features",
+    "Open source with a strong community"
+  ],
+  "cons": [
+    "May be overwhelming for beginners",
+    "Potential over-reliance on one platform",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "Mixpanel [mixpanel.com]",
+    "Amplitude [amplitude.com]",
+    "Heap [heap.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mixpanel",
+      "url": "mixpanel.com",
+      "reason": "Offers advanced user analytics"
+    },
+    {
+      "name": "Amplitude",
+      "url": "amplitude.com",
+      "reason": "Focus on product intelligence"
+    },
+    {
+      "name": "Heap",
+      "url": "heap.io",
+      "reason": "Automates event tracking setup"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "product management",
+    "open source",
+    "event tracking"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://posthog.com/",
+  "documentationUrl": "https://posthog.com/docs",
+  "githubUrl": "https://github.com/com",
+  "twitterUrl": "https://x.com/posthog",
+  "screenshot": "https://share.appsfor.us/screenshots/posthog_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/posthog_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/posthog_com_400.png",
+  "updatedAt": "2025-07-02T03:18:10.626Z"
+}
