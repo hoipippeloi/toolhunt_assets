@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://phion.dev/",
+  "name": "Phion",
+  "title": "phion.dev",
+  "payoff": "Full-power AI coding, zero setup",
+  "shortDescription": "Phion simplifies the development process by eliminating the need for setup configurations. It's designed for developers who want to focus on building without the hassle of environment setup. Users can start projects instantly with one-click environments and deploy changes live immediately. An example use case is a developer quickly creating and deploying a web application without dealing with npm or git commands.",
+  "pros": [
+    "Zero setup required",
+    "Instant live deployments",
+    "Built-in AI error assistance"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependence on proprietary platform",
+    "Potential privacy concerns with AI assistance"
+  ],
+  "alternatives": [
+    "Lovable [lovable.com]",
+    "Bolt [bolt.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Netlify",
+      "url": "netlify.com",
+      "reason": "Offers similar instant deployment features"
+    },
+    {
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Provides zero-config deployments with a focus on frontend"
+    },
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Easy setup and scaling for developers"
+    }
+  ],
+  "tags": [
+    "AI",
+    "development",
+    "productivity",
+    "web application"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://phion.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=phion&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/phion_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/phion_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/phion_dev_400.png",
+  "updatedAt": "2025-07-03T04:28:16.784Z"
+}

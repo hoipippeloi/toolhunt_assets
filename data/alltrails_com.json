@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://alltrails.com/",
+  "name": "AllTrails",
+  "title": "alltrails.com",
+  "payoff": "Find your outside",
+  "shortDescription": "AllTrails offers a comprehensive guide to trails for hiking, camping, and running, tailored for outdoor enthusiasts. Users can discover local favorites, plan routes, and share experiences. The platform is ideal for adventurers looking to explore new areas or find the best trails suited to their preferences. With verified trails and a global community, AllTrails helps you pick the perfect trail for any adventure.",
+  "pros": [
+    "Trails verified by experts",
+    "Global community reviews",
+    "Offline maps and route customization"
+  ],
+  "cons": [
+    "Requires internet for initial setup",
+    "Limited trails in less popular regions",
+    "Subscription for full features"
+  ],
+  "alternatives": [
+    "Komoot [komoot.com]",
+    "Gaia GPS [gaiagps.com]",
+    "Hiking Project [hikingproject.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Komoot",
+      "url": "komoot.com",
+      "reason": "Offers detailed topographic maps"
+    },
+    {
+      "name": "Gaia GPS",
+      "url": "gaiagps.com",
+      "reason": "Focuses on backcountry navigation"
+    },
+    {
+      "name": "Hiking Project",
+      "url": "hikingproject.com",
+      "reason": "Community-driven trail database"
+    }
+  ],
+  "tags": [
+    "outdoor activities",
+    "trail mapping",
+    "hiking",
+    "nature exploration"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://alltrails.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=alltrails&type=repositories",
+  "twitterUrl": "https://www.x.com/alltrails",
+  "screenshot": "https://share.appsfor.us/screenshots/alltrails_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/alltrails_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/alltrails_com_400.png",
+  "updatedAt": "2025-07-03T04:27:58.275Z"
+}
