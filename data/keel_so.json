@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://keel.so/",
+  "name": "Keel",
+  "title": "keel.so",
+  "payoff": "The modern ERP for fast teams",
+  "shortDescription": "Keel revolutionizes ERP solutions for operations teams by offering speed, control, and integration without the need for consultants. Tailor systems quickly, integrate seamlessly, and scale confidently. Ideal for businesses seeking robust yet flexible operational tools without the complexity typically associated with traditional ERP systems.",
+  "pros": [
+    "Rapid deployment and customization",
+    "Seamless integration with existing tools",
+    "Designed specifically for operational efficiency"
+  ],
+  "cons": [
+    "May be less suitable for non-operational needs",
+    "Potential learning curve for new users",
+    "Limited information on pricing and support"
+  ],
+  "alternatives": [
+    "NetSuite [netsuite.com]",
+    "SAP ERP [sap.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NetSuite",
+      "url": "netsuite.com",
+      "reason": "Comprehensive ERP with strong financials"
+    },
+    {
+      "name": "Odoo",
+      "url": "odoo.com",
+      "reason": "Flexible, open-source ERP solution"
+    },
+    {
+      "name": "SAP ERP",
+      "url": "sap.com",
+      "reason": "Enterprise scale and deep feature set"
+    }
+  ],
+  "tags": [
+    "ERP",
+    "operations management",
+    "system integration",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Enterprise Planning",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://keel.so/",
+  "documentationUrl": "https://keel.so/docs",
+  "githubUrl": "https://github.com/teamkeel/keel",
+  "twitterUrl": "https://twitter.com/keelteam",
+  "screenshot": "https://share.appsfor.us/screenshots/keel_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/keel_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/keel_so_400.png",
+  "updatedAt": "2025-07-03T01:06:59.712Z"
+}

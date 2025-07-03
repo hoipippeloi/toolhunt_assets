@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://listmonk.app/",
+  "name": "listmonk",
+  "title": "listmonk.app",
+  "payoff": "Self-hosted newsletter manager",
+  "shortDescription": "listmonk is a versatile, self-hosted platform designed for managing newsletters and mailing lists. It supports transactional emails and offers extensive customization with SQL and JSON. Ideal for businesses of all sizes, it allows for efficient subscriber management and integration with external CRMs. An example use case is a company using listmonk to manage multi-million subscriber lists and send targeted campaigns.",
+  "pros": [
+    "Highly customizable with SQL and JSON",
+    "Supports large scale operations",
+    "Open source with a vibrant community"
+  ],
+  "cons": [
+    "Requires self-hosting and maintenance",
+    "Dependent on Postgres database",
+    "May require technical expertise to fully utilize"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "Sendinblue [sendinblue.com]",
+    "MailerLite [mailerlite.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Widely used with advanced features"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Offers SMS and email marketing"
+    },
+    {
+      "name": "MailerLite",
+      "url": "mailerlite.com",
+      "reason": "Simple UI and affordable pricing"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "newsletter management",
+    "open source",
+    "self-hosted"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://listmonk.app/",
+  "documentationUrl": "https://listmonk.app/docs/",
+  "githubUrl": "https://github.com/knadh/listmonk/releases/tag/v5.0.2",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/listmonk_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/listmonk_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/listmonk_app_400.png",
+  "updatedAt": "2025-07-03T01:08:09.784Z"
+}

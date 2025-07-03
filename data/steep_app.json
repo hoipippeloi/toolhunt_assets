@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://steep.app/",
+  "name": "Steep",
+  "title": "steep.app",
+  "payoff": "Transform data handling in organizations",
+  "shortDescription": "Steep revolutionizes how organizations manage and interact with data. It is designed for businesses seeking to enhance their data-driven decision-making processes. An example use case involves a marketing team using Steep to analyze customer behavior and improve campaign effectiveness.",
+  "pros": [
+    "Enhances data-driven decisions",
+    "User-friendly interface",
+    "Scalable for any organization size"
+  ],
+  "cons": [
+    "Potentially high learning curve",
+    "Limited integration options",
+    "Requires significant setup"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Offers advanced visualization tools"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates well with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in embedding analytics"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "business intelligence",
+    "data visualization",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://steep.app/",
+  "documentationUrl": "https://steep.app/docs",
+  "githubUrl": "https://github.com/search?q=steep&type=repositories",
+  "twitterUrl": "https://x.com/steepapp",
+  "screenshot": "https://share.appsfor.us/screenshots/steep_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/steep_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/steep_app_400.png",
+  "updatedAt": "2025-07-03T01:07:26.084Z"
+}

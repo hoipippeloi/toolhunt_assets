@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://math-gpt.org/",
+  "name": "MathGPT",
+  "title": "math-gpt.org",
+  "payoff": "Ultimate AI Math Solver & Tutor",
+  "shortDescription": "MathGPT is an AI-powered math solver designed to assist students across various educational levels. It offers solutions for algebra, calculus, physics, and more. Users can upload homework in different formats and receive step-by-step solutions, video explanations, and interactive quizzes. Ideal for students struggling with complex math concepts, MathGPT acts as a personal tutor, enhancing understanding and confidence in tackling difficult subjects.",
+  "pros": [
+    "Provides step-by-step problem solving",
+    "Interactive video explanations with animations",
+    "Supports a wide range of subjects including STEM"
+  ],
+  "cons": [
+    "Potential accuracy issues in solutions",
+    "Requires internet connection",
+    "Limited to mathematical and scientific subjects"
+  ],
+  "alternatives": [
+    "Wolfram Alpha [wolframalpha.com]",
+    "Photomath [photomath.com]",
+    "Symbolab [symbolab.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wolfram Alpha",
+      "url": "wolframalpha.com",
+      "reason": "Offers detailed step-by-step solutions"
+    },
+    {
+      "name": "Photomath",
+      "url": "photomath.com",
+      "reason": "Visual math solving with camera"
+    },
+    {
+      "name": "Symbolab",
+      "url": "symbolab.com",
+      "reason": "Covers a wide range of math topics"
+    }
+  ],
+  "tags": [
+    "AI",
+    "education",
+    "math solver",
+    "homework helper"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://math-gpt.org/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mathgpt&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/math_gpt_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/math_gpt_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/math_gpt_org_400.png",
+  "updatedAt": "2025-07-03T01:07:47.861Z"
+}

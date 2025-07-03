@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pushover.net/",
+  "name": "Pushover",
+  "title": "pushover.net",
+  "payoff": "Simple Notifications for Multiple Devices",
+  "shortDescription": "Pushover simplifies real-time notifications across Android, iPhone, iPad, and Desktop devices, including wearables like Android Wear and Apple Watch. It is designed for both individuals and teams, offering unlimited notifications from various services and applications. Teams can benefit from features like user management and automated onboarding, while individuals enjoy a one-time purchase model after a 30-day trial. Developers can easily integrate Pushover via an API, enhancing web apps, network monitors, and more.",
+  "pros": [
+    "Supports multiple platforms and devices",
+    "Simple one-time purchase for individuals",
+    "Robust API for easy integration"
+  ],
+  "cons": [
+    "Monthly subscription required for teams",
+    "Limited to notification functionalities",
+    "No built-in analytics or reporting tools"
+  ],
+  "alternatives": [
+    "OneSignal [onesignal.com]",
+    "Firebase Cloud Messaging [firebase.google.com]",
+    "Airship [airship.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OneSignal",
+      "url": "onesignal.com",
+      "reason": "Offers broader engagement tools"
+    },
+    {
+      "name": "Firebase Cloud Messaging",
+      "url": "firebase.google.com",
+      "reason": "Integrated with Google's ecosystem"
+    },
+    {
+      "name": "Airship",
+      "url": "airship.com",
+      "reason": "Focuses on customer engagement"
+    }
+  ],
+  "tags": [
+    "notifications",
+    "mobile apps",
+    "API",
+    "real-time"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Alerts",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://pushover.net/",
+  "documentationUrl": "https://pushover.net/api",
+  "githubUrl": "https://github.com/search?q=pushover&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/pushover_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pushover_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pushover_net_400.png",
+  "updatedAt": "2025-07-03T01:06:32.151Z"
+}

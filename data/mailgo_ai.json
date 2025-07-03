@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mailgo.ai/",
+  "name": "Mailgo",
+  "title": "mailgo.ai",
+  "payoff": "AI Cold Email With High Deliverability",
+  "shortDescription": "Mailgo leverages AI to enhance cold email campaigns with high deliverability rates. It's designed for businesses looking to scale their outreach without compromising on lead quality. The AI-powered lead discovery feature automatically identifies potential customers, making it ideal for sales teams aiming to increase their demo bookings and close more deals efficiently.",
+  "pros": [
+    "High deliverability of emails",
+    "AI-powered lead discovery",
+    "Automated CRM updates and follow-ups"
+  ],
+  "cons": [
+    "Dependence on AI accuracy",
+    "Potential privacy concerns with data handling",
+    "Limited customization options for advanced users"
+  ],
+  "alternatives": [
+    "Sendinblue [sendinblue.com]",
+    "Mailchimp [mailchimp.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Offers email marketing with automation"
+    },
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Widely used for email campaigns and marketing"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Combines email marketing with CRM"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "AI",
+    "lead generation",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Email Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mailgo.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mailgo&type=repositories",
+  "twitterUrl": "https://x.com/mailgo_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/mailgo_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mailgo_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mailgo_ai_400.png",
+  "updatedAt": "2025-07-03T01:06:08.398Z"
+}
