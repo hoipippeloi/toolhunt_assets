@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://pretty-prompt.com/",
+  "name": "Pretty Prompt",
+  "title": "pretty-prompt.com",
+  "payoff": "Grammarly for Prompting",
+  "shortDescription": "Pretty Prompt transforms any text into effective AI prompts with just one click. Designed for individuals, startups, and large organizations, it enhances AI interactions by refining prompts to yield better results. Example use case: Use within ChatGPT to save time and improve AI response accuracy without additional tabs or tools.",
+  "pros": [
+    "Improves AI prompt efficiency",
+    "Supports individual and organizational use",
+    "No credit card required for trial"
+  ],
+  "cons": [
+    "Limited free tier offering",
+    "No API for developer integration",
+    "Potentially limited customization options"
+  ],
+  "alternatives": [
+    "Copy.ai [copy.ai]",
+    "Writesonic [writesonic.com]",
+    "ChatGPT [openai.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Copy.ai",
+      "url": "copy.ai",
+      "reason": "Offers AI-driven content creation"
+    },
+    {
+      "name": "Writesonic",
+      "url": "writesonic.com",
+      "reason": "AI tool for marketing and content"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "openai.com",
+      "reason": "Direct AI conversational model"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "text transformation"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://pretty-prompt.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=pretty%20prompt&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/pretty_prompt_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pretty_prompt_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pretty_prompt_com_400.png",
+  "updatedAt": "2025-07-03T03:20:33.531Z"
+}

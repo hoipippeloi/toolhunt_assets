@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://helpscout.com/",
+  "name": "Help Scout",
+  "title": "helpscout.com",
+  "payoff": "Delightful support software",
+  "shortDescription": "Help Scout offers a suite of tools designed to improve customer support through shared inboxes, help centers, and live chat software. It is tailored for businesses looking to enhance their customer service experience with efficient, user-friendly solutions. Example use case: A retail company uses Help Scout to manage customer inquiries, ensuring quick and organized responses.",
+  "pros": [
+    "Integrated customer support tools",
+    "User-friendly interface",
+    "Scalable for various business sizes"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Pricing can be high for larger teams",
+    "May lack advanced features for large enterprises"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Zoho Desk [zoho.com/desk]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Offers more advanced analytics and customization"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Focuses on streamlining customer conversations"
+    },
+    {
+      "name": "Zoho Desk",
+      "url": "zoho.com/desk",
+      "reason": "Integrates deeply with other Zoho products"
+    }
+  ],
+  "tags": [
+    "customer support",
+    "help desk",
+    "live chat",
+    "shared inbox"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://helpscout.com/",
+  "documentationUrl": "https://docs.helpscout.com/",
+  "githubUrl": "https://github.com/search?q=help%20scout&type=repositories",
+  "twitterUrl": "https://twitter.com/helpscout",
+  "screenshot": "https://share.appsfor.us/screenshots/helpscout_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/helpscout_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/helpscout_com_400.png",
+  "updatedAt": "2025-07-03T03:18:58.981Z"
+}

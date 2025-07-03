@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sidequery.dev/",
+  "name": "Sidequery AI",
+  "title": "sidequery.dev",
+  "payoff": "Analytics entirely in your browser",
+  "shortDescription": "Sidequery is a browser-based analytics tool designed for users who need to analyze JSON and CSV data locally. It's currently in alpha, promising more features soon. Ideal for data analysts and developers, Sidequery ensures data privacy by processing data on your device without uploading it to external servers. Example use case: Analyzing sales data directly from your local files without data privacy concerns.",
+  "pros": [
+    "Runs entirely in your browser",
+    "Ensures data privacy",
+    "Supports JSON and CSV files"
+  ],
+  "cons": [
+    "Still in alpha, might be unstable",
+    "Requires a large screen for optimal use",
+    "Limited to browser capabilities"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers more robust app building features."
+    },
+    {
+      "name": "Google Data Studio",
+      "url": "datastudio.google.com",
+      "reason": "Free and integrates with other Google services."
+    },
+    {
+      "name": "Databox",
+      "url": "databox.com",
+      "reason": "Focuses on dashboarding and mobile analytics."
+    }
+  ],
+  "tags": [
+    "analytics",
+    "data privacy",
+    "browser-based",
+    "alpha version"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://sidequery.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/nicosuave/sidequery/?tab=readme-ov-file#privacy",
+  "twitterUrl": "https://twitter.com/sidequeryai",
+  "screenshot": "https://share.appsfor.us/screenshots/sidequery_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sidequery_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sidequery_dev_400.png",
+  "updatedAt": "2025-07-03T03:21:05.552Z"
+}

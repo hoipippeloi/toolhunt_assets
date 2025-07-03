@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vectorpodcast.com/",
+  "name": "Vector Podcast",
+  "title": "vectorpodcast.com",
+  "payoff": "Explore Cutting-Edge Tech Insights",
+  "shortDescription": "Vector Podcast delves into the world of search technology, open source, and emerging tech through engaging discussions with industry leaders. It's designed for tech enthusiasts, engineers, and entrepreneurs. An example use case is a tech professional using the podcast to stay updated on the latest trends and innovations in search technologies and open source projects.",
+  "pros": [
+    "In-depth tech discussions",
+    "Access on multiple platforms",
+    "Focus on emerging technologies"
+  ],
+  "cons": [
+    "Limited to podcast format",
+    "No interactive content",
+    "Focus primarily on search and open source"
+  ],
+  "alternatives": [
+    "Techmeme Ride Home [techmeme.com]",
+    "The Changelog [changelog.com]",
+    "Software Engineering Daily [softwareengineeringdaily.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Techmeme Ride Home",
+      "url": "techmeme.com",
+      "reason": "Daily tech news podcast"
+    },
+    {
+      "name": "The Changelog",
+      "url": "changelog.com",
+      "reason": "Focus on open source software"
+    },
+    {
+      "name": "Software Engineering Daily",
+      "url": "softwareengineeringdaily.com",
+      "reason": "Covers all aspects of software engineering"
+    }
+  ],
+  "tags": [
+    "podcast",
+    "technology",
+    "open source",
+    "search technology"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://vectorpodcast.com/",
+  "documentationUrl": "https://docs.google.com/forms/d/e/1FAIpQLScYzIbiYo8f9HoW8DXB6GPiOnrdusIaQP992wdl4M0Ep3ittg/viewform",
+  "githubUrl": "https://github.com/search?q=vector%20podcast&type=repositories",
+  "twitterUrl": "https://twitter.com/@DmitryKan",
+  "screenshot": "https://share.appsfor.us/screenshots/vectorpodcast_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vectorpodcast_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vectorpodcast_com_400.png",
+  "updatedAt": "2025-07-03T03:19:24.731Z"
+}

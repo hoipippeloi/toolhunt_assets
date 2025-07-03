@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pumble.com/",
+  "name": "Pumble",
+  "title": "pumble.com",
+  "payoff": "Free team communication app",
+  "shortDescription": "Pumble is a communication tool designed for teams to enhance collaboration and streamline conversations. It allows users to send messages, share files, and start video calls effortlessly. Teams can organize their discussions by topics, create dedicated channels for projects, and manage external communications with limited access options. An example use case is a remote team using Pumble to coordinate daily tasks, conduct meetings, and share project updates seamlessly.",
+  "pros": [
+    "Unlimited message history",
+    "Video conferencing with one click",
+    "Free to use forever"
+  ],
+  "cons": [
+    "Limited advanced features",
+    "Potentially less integration with other tools",
+    "No clear API for developers"
+  ],
+  "alternatives": [
+    "Slack [slack.com]",
+    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]",
+    "Discord [discord.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Offers extensive integrations and bots"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "reason": "Part of Office 365 suite with advanced features"
+    },
+    {
+      "name": "Discord",
+      "url": "discord.com",
+      "reason": "Popular for community and voice channels"
+    }
+  ],
+  "tags": [
+    "chat",
+    "communication",
+    "team collaboration",
+    "video conferencing"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://pumble.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=pumble&type=repositories",
+  "twitterUrl": "https://twitter.com/pumblechat?lang=en",
+  "screenshot": "https://share.appsfor.us/screenshots/pumble_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pumble_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pumble_com_400.png",
+  "updatedAt": "2025-07-03T03:17:53.297Z"
+}

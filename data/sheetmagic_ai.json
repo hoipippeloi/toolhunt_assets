@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sheetmagic.ai/",
+  "name": "SheetMagic",
+  "title": "sheetmagic.ai",
+  "payoff": "Unlimited AI Web Scraping",
+  "shortDescription": "SheetMagic integrates AI and web scraping capabilities directly into Google Sheets, allowing users to automate data extraction and content generation. Ideal for marketers and sales teams, it enables the creation of bulk product descriptions, personalized sales emails, and SEO-optimized content without coding. Example use case: Automatically generate sales emails by scraping lead data.",
+  "pros": [
+    "Integrates directly with Google Sheets",
+    "Unlimited AI and web scraping",
+    "No coding required for setup"
+  ],
+  "cons": [
+    "Dependent on Google Sheets",
+    "Limited to web data",
+    "Potential API cost implications"
+  ],
+  "alternatives": [
+    "Import.io [import.io]",
+    "ParseHub [parsehub.com]",
+    "Octoparse [octoparse.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Import.io",
+      "url": "import.io",
+      "reason": "Offers advanced web scraping tools"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Supports complex data extraction"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "Visual scraping with AI features"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "AI",
+    "Google Sheets",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Web Scraping",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sheetmagic.ai/",
+  "documentationUrl": "https://sheetmagic.ai/documentation",
+  "githubUrl": "https://github.com/search?q=sheetmagic&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sheetmagic_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sheetmagic_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sheetmagic_ai_400.png",
+  "updatedAt": "2025-07-03T03:21:37.389Z"
+}
