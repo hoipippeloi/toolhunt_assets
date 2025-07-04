@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://double.cloud/",
+  "name": "DoubleCloud",
+  "title": "double.cloud",
+  "payoff": "Build analytics infrastructure fast",
+  "shortDescription": "DoubleCloud offers a platform to develop and manage data analytics solutions efficiently. Designed for engineers, it provides managed services for popular open-source tools like ClickHouse, Kafka, and Airflow. Users can quickly deploy data clusters, streamline data pipelines, and enjoy high-speed data processing and visualization. An example use case is real-time analytics for financial transactions.",
+  "pros": [
+    "Managed services save time and resources",
+    "High performance and scalability",
+    "Strong focus on security and compliance"
+  ],
+  "cons": [
+    "Limited to certain open-source tools",
+    "Dependent on third-party cloud providers",
+    "May be less flexible than custom solutions"
+  ],
+  "alternatives": [
+    "Snowflake [snowflake.com]",
+    "Google BigQuery [cloud.google.com/bigquery]",
+    "Amazon Redshift [aws.amazon.com/redshift]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Offers scalable cloud data warehousing"
+    },
+    {
+      "name": "Google BigQuery",
+      "url": "cloud.google.com/bigquery",
+      "reason": "Fully-managed, serverless data analytics"
+    },
+    {
+      "name": "Amazon Redshift",
+      "url": "aws.amazon.com/redshift",
+      "reason": "Managed data warehouse service"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "managed services",
+    "open source",
+    "real-time"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://double.cloud/",
+  "documentationUrl": "https://double.cloud/documentation",
+  "githubUrl": "https://github.com/search?q=doublecloud&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/double_cloud.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/double_cloud_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/double_cloud_400.png",
+  "updatedAt": "2025-07-04T01:07:45.820Z"
+}

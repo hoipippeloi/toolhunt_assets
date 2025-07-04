@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://omakase.ai/",
+  "name": "Omakase Voice AI",
+  "title": "omakase.ai",
+  "payoff": "Voice-Powered Sales Agent",
+  "shortDescription": "Omakase Voice AI transforms websites into interactive sales platforms using advanced voice recognition technology. It is designed for businesses looking to enhance customer interaction and streamline sales processes. An example use case is an e-commerce site using Omakase to facilitate voice-driven product searches and purchases, improving user experience and boosting sales efficiency.",
+  "pros": [
+    "Enhances customer interaction",
+    "Streamlines sales processes",
+    "Improves user experience"
+  ],
+  "cons": [
+    "Dependent on voice recognition accuracy",
+    "May require user adaptation",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Google Dialogflow [dialogflow.com]",
+    "IBM Watson Assistant [ibm.com/watson/ai-assistant]",
+    "Microsoft Azure Bot Service [azure.microsoft.com/en-us/services/bot-service]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers extensive NLP capabilities"
+    },
+    {
+      "name": "IBM Watson Assistant",
+      "url": "ibm.com/watson/ai-assistant",
+      "reason": "Strong in enterprise integration"
+    },
+    {
+      "name": "Microsoft Azure Bot Service",
+      "url": "azure.microsoft.com/en-us/services/bot-service",
+      "reason": "Scalable with Azure infrastructure"
+    }
+  ],
+  "tags": [
+    "AI",
+    "voice recognition",
+    "sales automation",
+    "customer service"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://omakase.ai/",
+  "documentationUrl": "https://omakase.ai/docs",
+  "githubUrl": "https://github.com/search?q=omakase%20voice%20ai&type=repositories",
+  "twitterUrl": "https://sippinsnax.com/",
+  "screenshot": "https://share.appsfor.us/screenshots/omakase_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/omakase_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/omakase_ai_400.png",
+  "updatedAt": "2025-07-04T01:07:03.375Z"
+}

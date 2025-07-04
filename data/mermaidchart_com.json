@@ -2,16 +2,16 @@
   "sourceUrl": "https://mermaidchart.com/",
   "name": "Mermaid Chart",
   "title": "mermaidchart.com",
-  "payoff": "Smarter diagramming with AI & markdown",
-  "shortDescription": "Mermaid Chart leverages AI and markdown-style coding to facilitate rapid and efficient diagram creation. Designed for teams across various industries, it allows users to build complex visuals from simple text inputs. An ideal tool for engineers and project managers, it streamlines the process of creating flowcharts and other diagrams, enhancing team collaboration and project visualization.",
+  "payoff": "Smarter diagramming with AI",
+  "shortDescription": "Mermaid Chart is a versatile diagramming tool designed for teams and individuals to create complex visuals quickly using markdown-style code and AI. It is ideal for engineers, project managers, and developers who need to design systems, model business processes, or onboard new team members efficiently. Users can generate diagrams from text, design on a digital canvas, and enjoy live collaboration features.",
   "pros": [
-    "Supports markdown-style code for diagrams",
-    "AI-enhanced visual creation",
+    "AI-powered diagram generation",
+    "Supports markdown-style inputs",
     "Real-time collaboration features"
   ],
   "cons": [
     "May require learning markdown",
-    "Potentially limited customization",
+    "Limited customization options",
     "Dependent on web access for full functionality"
   ],
   "alternatives": [
@@ -23,31 +23,31 @@
     {
       "name": "Lucidchart",
       "url": "lucidchart.com",
-      "reason": "Offers advanced diagramming with collaboration."
+      "reason": "Offers intuitive visual workspace"
     },
     {
       "name": "Microsoft Visio",
       "url": "office.com",
-      "reason": "Integrated with Microsoft Office suite."
+      "reason": "Strong integration with MS Office"
     },
     {
       "name": "Draw.io",
       "url": "draw.io",
-      "reason": "Free and open source diagramming tool."
+      "reason": "Free and web-based diagram tool"
     }
   ],
   "tags": [
     "diagramming",
+    "AI",
     "collaboration",
-    "visualization",
-    "AI"
+    "visualization"
   ],
   "apiUsed": true,
   "department": "Information Technology",
   "function": "Design Tools",
   "freeTier": true,
   "openSource": true,
-  "releasedYear": 2020,
+  "releasedYear": 2014,
   "websiteUrl": "https://mermaidchart.com/",
   "documentationUrl": "https://mermaidchart.com/docs",
   "githubUrl": "https://github.com/mermaid-js/mermaid",
@@ -55,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/mermaidchart_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/mermaidchart_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/mermaidchart_com_400.png",
-  "updatedAt": "2025-06-03T03:01:53.206Z"
+  "updatedAt": "2025-07-04T01:05:53.466Z"
 }
