@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://joinhomebase.com/",
+  "name": "Homebase",
+  "title": "joinhomebase.com",
+  "payoff": "Manage teams efficiently",
+  "shortDescription": "Homebase is a comprehensive tool designed for small businesses to manage hourly teams. It integrates employee scheduling, time tracking, payroll, and communication in one platform. For instance, a restaurant can use Homebase to schedule shifts, track hours, and run payroll effortlessly, ensuring staff is always informed and management tasks are streamlined.",
+  "pros": [
+    "All-in-one workforce management solution",
+    "No credit card required for starting",
+    "Automates payroll and tax filing"
+  ],
+  "cons": [
+    "Primarily for small businesses",
+    "May not scale for large enterprises",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "When I Work [wheniwork.com]",
+    "Deputy [deputy.com]",
+    "TSheets [tsheets.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "When I Work",
+      "url": "wheniwork.com",
+      "reason": "Offers similar scheduling and time tracking features."
+    },
+    {
+      "name": "Deputy",
+      "url": "deputy.com",
+      "reason": "Focuses on scheduling and workforce management."
+    },
+    {
+      "name": "TSheets",
+      "url": "tsheets.com",
+      "reason": "Specializes in time tracking and employee scheduling."
+    }
+  ],
+  "tags": [
+    "employee management",
+    "time tracking",
+    "payroll",
+    "scheduling"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://joinhomebase.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=homebase&type=repositories",
+  "twitterUrl": "https://twitter.com/joinhomebase",
+  "screenshot": "https://share.appsfor.us/screenshots/joinhomebase_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/joinhomebase_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/joinhomebase_com_400.png",
+  "updatedAt": "2025-07-04T03:19:15.122Z"
+}

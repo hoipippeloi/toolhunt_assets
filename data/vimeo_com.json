@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vimeo.com/",
+  "name": "Vimeo",
+  "title": "vimeo.com",
+  "payoff": "AI-Powered Video Platform",
+  "shortDescription": "Vimeo offers a comprehensive video platform tailored for creatives, marketers, and businesses. It provides tools for hosting, managing, and sharing high-quality videos without ads or distractions. Users can monetize content, host live events, and utilize AI for video editing and SEO optimization. Ideal for enterprises and small businesses aiming to enhance their video strategy and reach.",
+  "pros": [
+    "High-quality, ad-free video hosting",
+    "Advanced privacy and security settings",
+    "AI-powered editing and SEO optimization"
+  ],
+  "cons": [
+    "Potentially high cost for premium features",
+    "Complex features may require a learning curve",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "YouTube [youtube.com]",
+    "Wistia [wistia.com]",
+    "Brightcove [brightcove.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "YouTube",
+      "url": "youtube.com",
+      "reason": "Larger audience and free hosting"
+    },
+    {
+      "name": "Wistia",
+      "url": "wistia.com",
+      "reason": "Focus on marketing tools and analytics"
+    },
+    {
+      "name": "Brightcove",
+      "url": "brightcove.com",
+      "reason": "Enterprise-level video solutions"
+    }
+  ],
+  "tags": [
+    "video hosting",
+    "video management",
+    "AI",
+    "live streaming"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2004,
+  "websiteUrl": "https://vimeo.com/",
+  "documentationUrl": "https://developer.vimeo.com",
+  "githubUrl": "https://github.com/search?q=vimeo&type=repositories",
+  "twitterUrl": "https://www.twitter.com/Vimeo/",
+  "screenshot": "https://share.appsfor.us/screenshots/vimeo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vimeo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vimeo_com_400.png",
+  "updatedAt": "2025-07-04T03:16:19.406Z"
+}

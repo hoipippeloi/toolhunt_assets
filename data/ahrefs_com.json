@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ahrefs.com/",
+  "name": "Ahrefs",
+  "title": "ahrefs.com",
+  "payoff": "Marketing Intelligence Tools",
+  "shortDescription": "Ahrefs is a comprehensive marketing intelligence platform designed to empower digital marketers with actionable data. It provides tools for SEO, competitor analysis, and web monitoring. Users can track search rankings, audit websites, and improve content strategies. Ideal for marketers aiming to enhance their online presence and understand market dynamics.",
+  "pros": [
+    "Comprehensive SEO tools",
+    "Extensive data analytics",
+    "Strong community support"
+  ],
+  "cons": [
+    "Can be expensive for beginners",
+    "Steep learning curve",
+    "Limited integrations with third-party tools"
+  ],
+  "alternatives": [
+    "SEMrush [semrush.com]",
+    "Moz [moz.com]",
+    "Majestic [majestic.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Offers broader digital marketing tools"
+    },
+    {
+      "name": "Moz",
+      "url": "moz.com",
+      "reason": "Focuses more on SEO education"
+    },
+    {
+      "name": "Majestic",
+      "url": "majestic.com",
+      "reason": "Specializes in link intelligence"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "marketing intelligence",
+    "data analytics",
+    "web monitoring"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Site Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://ahrefs.com/",
+  "documentationUrl": "https://ahrefs.com/documentation",
+  "githubUrl": "https://github.com/search?q=ahrefs&type=repositories",
+  "twitterUrl": "https://x.com/ahrefs",
+  "screenshot": "https://share.appsfor.us/screenshots/ahrefs_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ahrefs_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ahrefs_com_400.png",
+  "updatedAt": "2025-07-04T03:18:14.173Z"
+}

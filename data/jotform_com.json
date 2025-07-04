@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jotform.com/",
+  "name": "Jotform",
+  "title": "jotform.com",
+  "payoff": "Powerful forms made easy",
+  "shortDescription": "Jotform is an online form builder designed to simplify the creation of professional-looking forms. It's geared towards businesses and individuals needing to collect data, process payments, and automate workflows. Users can create forms with conditional logic, integrate with over 150 services, and accept payments directly through forms. An example use case is a small business using Jotform to manage event registrations and collect fees seamlessly.",
+  "pros": [
+    "No coding required for form creation",
+    "Extensive integration options with over 150 services",
+    "Supports direct payment collection through forms"
+  ],
+  "cons": [
+    "Can be overwhelming with too many features",
+    "Potential privacy concerns with extensive data collection",
+    "Limited customization options without coding"
+  ],
+  "alternatives": [
+    "Typeform [typeform.com]",
+    "Google Forms [google.com/forms]",
+    "Formstack [formstack.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Typeform",
+      "url": "typeform.com",
+      "reason": "Offers conversational form interfaces"
+    },
+    {
+      "name": "Google Forms",
+      "url": "google.com/forms",
+      "reason": "Free and integrates with Google Workspace"
+    },
+    {
+      "name": "Formstack",
+      "url": "formstack.com",
+      "reason": "Features advanced workflow automation"
+    }
+  ],
+  "tags": [
+    "form builder",
+    "data collection",
+    "automation",
+    "payment processing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Forms",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2006,
+  "websiteUrl": "https://jotform.com/",
+  "documentationUrl": "https://www.jotform.com/help/",
+  "githubUrl": "https://github.com/search?q=jotform&type=repositories",
+  "twitterUrl": "https://x.com/jotform",
+  "screenshot": "https://share.appsfor.us/screenshots/jotform_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jotform_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jotform_com_400.png",
+  "updatedAt": "2025-07-04T03:18:47.358Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mailchimp.com/",
+  "name": "Mailchimp",
+  "title": "mailchimp.com",
+  "payoff": "Turn Emails into Revenue",
+  "shortDescription": "Mailchimp is a comprehensive marketing platform designed for businesses looking to engage their audience through email marketing, social media, and other digital channels. It offers tools for email automation, audience segmentation, and analytics to optimize marketing efforts. An example use case is a small business using Mailchimp to automate email campaigns, track performance, and grow their customer base.",
+  "pros": [
+    "Advanced email automation features",
+    "Integrations with major e-commerce platforms",
+    "Generative AI for content creation"
+  ],
+  "cons": [
+    "Can be expensive for large contact lists",
+    "Complex features may require a learning curve",
+    "Limited customization in lower-tier plans"
+  ],
+  "alternatives": [
+    "Constant Contact [constantcontact.com]",
+    "Sendinblue [sendinblue.com]",
+    "Campaign Monitor [campaignmonitor.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Constant Contact",
+      "url": "constantcontact.com",
+      "reason": "Offers similar email marketing tools"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Includes SMS marketing features"
+    },
+    {
+      "name": "Campaign Monitor",
+      "url": "campaignmonitor.com",
+      "reason": "Focus on design and templates"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "automation",
+    "analytics",
+    "segmentation"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2001,
+  "websiteUrl": "https://mailchimp.com/",
+  "documentationUrl": "https://mailchimp.com/developer/",
+  "githubUrl": "https://github.com/search?q=mailchimp&type=repositories",
+  "twitterUrl": "https://x.com/Mailchimp",
+  "screenshot": "https://share.appsfor.us/screenshots/mailchimp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mailchimp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mailchimp_com_400.png",
+  "updatedAt": "2025-07-04T03:17:25.738Z"
+}
