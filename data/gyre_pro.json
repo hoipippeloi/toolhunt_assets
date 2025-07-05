@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gyre.pro/",
+  "name": "Gyre",
+  "title": "gyre.pro",
+  "payoff": "Stream pre-recorded videos 24/7",
+  "shortDescription": "Gyre enables seamless streaming of pre-recorded videos as live content on platforms like YouTube, Twitch, Instagram, and Facebook. It's designed for content creators and marketers who want to maximize their audience reach without constant live engagement. Users can upload videos to a Gyre server, schedule them, and stream continuously, even looping the playlist for uninterrupted broadcasting.",
+  "pros": [
+    "Increases channel traffic and watch time",
+    "Supports multiple social media platforms",
+    "Automated video looping for continuous streaming"
+  ],
+  "cons": [
+    "Requires subscription for full features",
+    "Limited free trial period",
+    "Potential platform dependency issues"
+  ],
+  "alternatives": [
+    "Restream [restream.io]",
+    "StreamYard [streamyard.com]",
+    "Wirecast [telestream.net]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Restream",
+      "url": "restream.io",
+      "reason": "Supports multistreaming to 30+ platforms"
+    },
+    {
+      "name": "StreamYard",
+      "url": "streamyard.com",
+      "reason": "Live streaming studio in your browser"
+    },
+    {
+      "name": "Wirecast",
+      "url": "telestream.net",
+      "reason": "Professional live video streaming production"
+    }
+  ],
+  "tags": [
+    "live streaming",
+    "video marketing",
+    "content distribution",
+    "social media tool"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://gyre.pro/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=gyre&type=repositories",
+  "twitterUrl": "https://twitter.com/GyreStream",
+  "screenshot": "https://share.appsfor.us/screenshots/gyre_pro.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gyre_pro_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gyre_pro_400.png",
+  "updatedAt": "2025-07-05T01:08:31.833Z"
+}

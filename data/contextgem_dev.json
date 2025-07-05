@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://contextgem.dev/",
+  "name": "ContextGem",
+  "title": "contextgem.dev",
+  "payoff": "Easily extract data from documents",
+  "shortDescription": "ContextGem is an open-source framework designed to simplify the extraction of structured data from documents using minimal code. It supports various data types and integrates with large language models for enhanced accuracy. Ideal for developers and researchers, it can be used to quickly pull specific information from large volumes of text, such as legal documents or technical manuals.",
+  "pros": [
+    "Supports multiple data types",
+    "Integrates with large language models",
+    "Open-source and free to use"
+  ],
+  "cons": [
+    "May require coding knowledge",
+    "Limited to document data extraction",
+    "Dependent on external LLM providers"
+  ],
+  "alternatives": [
+    "Beautiful Soup [crummy.com]",
+    "Scrapy [scrapy.org]",
+    "Apache Tika [tika.apache.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Beautiful Soup",
+      "url": "crummy.com",
+      "reason": "Popular for HTML/XML parsing"
+    },
+    {
+      "name": "Scrapy",
+      "url": "scrapy.org",
+      "reason": "Robust web crawling framework"
+    },
+    {
+      "name": "Apache Tika",
+      "url": "tika.apache.org",
+      "reason": "Extracts metadata and text"
+    }
+  ],
+  "tags": [
+    "data extraction",
+    "open source",
+    "document processing",
+    "LLM integration"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://contextgem.dev/",
+  "documentationUrl": "https://contextgem.dev/",
+  "githubUrl": "https://github.com/shcherbak-ai/contextgem",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/contextgem_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/contextgem_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/contextgem_dev_400.png",
+  "updatedAt": "2025-07-05T01:03:26.924Z"
+}

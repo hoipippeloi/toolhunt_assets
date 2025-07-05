@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bluegpt.app/",
+  "name": "BlueGPT",
+  "title": "bluegpt.app",
+  "payoff": "Boost Your Productivity with AI",
+  "shortDescription": "BlueGPT is an AI platform designed to enhance productivity by automating content generation, document analysis, and more. It's ideal for creatives and professionals looking to save time and increase efficiency. Users can create personalized AI agents, generate content, and analyze documents quickly. An example use case is a marketing team using BlueGPT to automate social media content creation, saving hours and improving engagement.",
+  "pros": [
+    "Saves time by automating repetitive tasks",
+    "Enhances content creation with AI tools",
+    "Supports multiple AI models for versatility"
+  ],
+  "cons": [
+    "May require a learning curve to use effectively",
+    "Potential dependency on AI for content generation",
+    "Cost could be prohibitive for small businesses"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepL [deepl.com]",
+    "Hugging Face [huggingface.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers advanced AI models"
+    },
+    {
+      "name": "DeepL",
+      "url": "deepl.com",
+      "reason": "Focuses on AI translation services"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Provides diverse AI tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "content generation",
+    "document analysis"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://bluegpt.app/",
+  "documentationUrl": "https://bluegpt.app/docs",
+  "githubUrl": "https://github.com/search?q=bluegpt&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/bluegpt_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bluegpt_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bluegpt_app_400.png",
+  "updatedAt": "2025-07-05T01:08:02.800Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://camelai.com/",
+  "name": "camelAI",
+  "title": "camelai.com",
+  "payoff": "SQL-Free Business Intelligence",
+  "shortDescription": "camelAI revolutionizes data analysis by offering a powerful, AI-driven tool that eliminates the need for SQL knowledge. It's designed for founders, data scientists, and non-technical users who require fast and accurate insights from large datasets. Users can ask questions in natural language and receive answers through intuitive text and visualizations. An example use case includes a founder analyzing user behavior to drive product decisions.",
+  "pros": [
+    "Fast and intuitive data queries",
+    "High-level data security and privacy",
+    "No SQL knowledge required"
+  ],
+  "cons": [
+    "Dependence on AI accuracy",
+    "Potential high cost for enterprise",
+    "Limited customization for advanced users"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Flexible, embeddable BI platform"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analysis",
+    "business intelligence",
+    "no-code"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://camelai.com/",
+  "documentationUrl": "https://camelai.com/docs",
+  "githubUrl": "https://github.com/qaml-ai",
+  "twitterUrl": "https://x.com/usecamelai",
+  "screenshot": "https://share.appsfor.us/screenshots/camelai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/camelai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/camelai_com_400.png",
+  "updatedAt": "2025-07-05T01:04:34.820Z"
+}

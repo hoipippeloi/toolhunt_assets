@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usefindr.com/",
+  "name": "Findr",
+  "title": "usefindr.com",
+  "payoff": "AI-powered knowledge management",
+  "shortDescription": "Findr is an AI-driven tool designed to enhance personal knowledge management. It integrates with various apps to organize, search, and utilize documents, links, notes, and more in one place. Ideal for researchers and thinkers, it allows users to capture ideas and research efficiently. Example use case: A researcher uses Findr to organize articles and notes for a new project, leveraging AI to find information quickly.",
+  "pros": [
+    "Integrates with multiple platforms like Google Drive and Notion",
+    "AI features for context-aware answers and summarization",
+    "Advanced search capabilities for fast information retrieval"
+  ],
+  "cons": [
+    "Limited file uploads in the free version",
+    "May require a learning curve to fully utilize AI features",
+    "Dependent on third-party app integrations for full functionality"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Notion [notion.so]",
+    "Roam Research [roamresearch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Popular for note-taking and organization"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with powerful integrations"
+    },
+    {
+      "name": "Roam Research",
+      "url": "roamresearch.com",
+      "reason": "Focuses on networked thought and linking ideas"
+    }
+  ],
+  "tags": [
+    "knowledge management",
+    "AI",
+    "personal productivity",
+    "information organization"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Knowledge Base",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://usefindr.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=findr&type=repositories",
+  "twitterUrl": "https://twitter.com/usefindr",
+  "screenshot": "https://share.appsfor.us/screenshots/usefindr_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usefindr_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usefindr_com_400.png",
+  "updatedAt": "2025-07-05T01:06:31.835Z"
+}
