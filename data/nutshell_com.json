@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nutshell.com/",
+  "name": "Nutshell CRM",
+  "title": "nutshell.com",
+  "payoff": "Simple Pipeline & Contact Management",
+  "shortDescription": "Nutshell CRM offers a comprehensive platform combining sales, marketing, and engagement software to help businesses grow efficiently. It is designed for teams looking to streamline their customer relationship management with tools like email automation, pipeline management, and advanced reporting. An example use case is a sales team using Nutshell to automate follow-up emails and manage leads more effectively, freeing up time to focus on closing deals.",
+  "pros": [
+    "User-friendly and intuitive interface",
+    "Comprehensive CRM features including automation",
+    "Seamless integration with other tools"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Can be pricey for larger teams",
+    "May have a learning curve for new users"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Offers extensive customization and scalability"
+    },
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Provides additional inbound marketing tools"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Cost-effective with a wide range of features"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "sales automation",
+    "contact management",
+    "marketing automation"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://nutshell.com/",
+  "documentationUrl": "https://nutshell.com/support",
+  "githubUrl": "https://github.com/search?q=nutshell%20crm&type=repositories",
+  "twitterUrl": "https://x.com/nutshell",
+  "screenshot": "https://share.appsfor.us/screenshots/nutshell_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nutshell_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nutshell_com_400.png",
+  "updatedAt": "2025-07-05T03:13:57.968Z"
+}

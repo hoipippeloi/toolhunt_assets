@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://workspace.google.com/products/sites/",
-  "name": "Google Sites",
+  "sourceUrl": "https://workspace.google.com/products/forms/",
+  "name": "Google Forms",
   "title": "workspace.google.com",
-  "payoff": "Easily create team websites",
-  "shortDescription": "Google Sites allows users to create and host websites optimized for all devices without needing programming skills. It offers drag-and-drop design, automatic grid layouts, and real-time collaboration similar to Google Docs and Slides. Users can embed content from other Workspace apps and manage access permissions efficiently. This tool is ideal for teams to share information centrally and handle high traffic without performance issues.",
+  "payoff": "Create forms and surveys easily",
+  "shortDescription": "Google Forms allows users to quickly create and distribute forms and surveys to gather data and insights on-the-go. Suitable for businesses of all sizes, it offers customizable templates and real-time analytics. Users can share forms via email, social media, or embed them on websites, making it ideal for collecting feedback, conducting research, or testing knowledge with quizzes.",
   "pros": [
-    "Drag-and-drop website creation",
-    "Real-time collaboration features",
-    "Optimized for all devices"
+    "Real-time data analytics and insights",
+    "Highly customizable form designs",
+    "Seamless integration with Google Workspace"
   ],
   "cons": [
-    "Limited design customizations",
-    "Dependent on Google ecosystem",
-    "Potential privacy concerns with Google hosting"
+    "Limited to Google ecosystem",
+    "Basic design options compared to specialized tools",
+    "Potential privacy concerns for sensitive data"
   ],
   "alternatives": [
-    "Wix [wix.com]",
-    "WordPress [wordpress.com]",
-    "Squarespace [squarespace.com]"
+    "Typeform [typeform.com]",
+    "SurveyMonkey [surveymonkey.com]",
+    "JotForm [jotform.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Wix",
-      "url": "wix.com",
-      "reason": "Offers extensive design flexibility"
+      "name": "Typeform",
+      "url": "typeform.com",
+      "reason": "Offers more engaging, design-focused forms"
     },
     {
-      "name": "WordPress",
-      "url": "wordpress.com",
-      "reason": "Provides extensive plugins"
+      "name": "SurveyMonkey",
+      "url": "surveymonkey.com",
+      "reason": "Features advanced survey tools and analytics"
     },
     {
-      "name": "Squarespace",
-      "url": "squarespace.com",
-      "reason": "High-quality design templates"
+      "name": "Microsoft Forms",
+      "url": "forms.office.com",
+      "reason": "Integrated with Office 365 for enterprise use"
     }
   ],
   "tags": [
-    "website builder",
-    "content management",
-    "collaboration",
-    "Google Workspace integration"
+    "forms",
+    "surveys",
+    "data collection",
+    "analytics"
   ],
-  "apiUsed": false,
-  "department": "Information Technology",
-  "function": "Site Builder",
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Forms",
   "freeTier": true,
   "openSource": false,
   "releasedYear": 2008,
-  "websiteUrl": "https://workspace.google.com/products/sites/",
-  "documentationUrl": "https://support.google.com/sites",
-  "githubUrl": "https://github.com/search?q=google%20sites&type=repositories",
+  "websiteUrl": "https://workspace.google.com/products/forms/",
+  "documentationUrl": "https://support.google.com/a/users/answer/9302964",
+  "githubUrl": "https://github.com/search?q=google%20forms&type=repositories",
   "twitterUrl": "https://x.com/googleworkspace",
   "screenshot": "https://share.appsfor.us/screenshots/workspace_google_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/workspace_google_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/workspace_google_com_400.png",
-  "updatedAt": "2025-06-25T04:25:52.583Z"
+  "updatedAt": "2025-07-05T03:14:21.459Z"
 }

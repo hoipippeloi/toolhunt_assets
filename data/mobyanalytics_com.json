@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mobyanalytics.com/en",
+  "name": "Moby Analytics",
+  "title": "mobyanalytics.com",
+  "payoff": "Unleash auditors' potential with AI",
+  "shortDescription": "Moby Analytics is an AI-driven platform designed specifically for financial auditors to streamline and enhance their audit processes. It automates routine audit tasks, such as document tracking and workflow management, using AI to classify and validate documents in real time. This tool is ideal for audit firms looking to increase efficiency and focus on higher-value activities.",
+  "pros": [
+    "Real-time document tracking and updates",
+    "Automated audit workflows",
+    "AI-enhanced efficiency and accuracy"
+  ],
+  "cons": [
+    "Dependence on digital document formats",
+    "Potential privacy and security concerns",
+    "Requires integration with SharePoint"
+  ],
+  "alternatives": [
+    "AuditBoard [auditboard.com]",
+    "CaseWare [caseware.com]",
+    "Galvanize [wearegalvanize.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AuditBoard",
+      "url": "auditboard.com",
+      "reason": "Comprehensive audit suite with compliance tools"
+    },
+    {
+      "name": "CaseWare",
+      "url": "caseware.com",
+      "reason": "Flexible software for audit management"
+    },
+    {
+      "name": "Galvanize",
+      "url": "wearegalvanize.com",
+      "reason": "Integrates AI for risk and compliance"
+    }
+  ],
+  "tags": [
+    "AI",
+    "audit automation",
+    "financial auditing",
+    "document management"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mobyanalytics.com/en",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=moby%20analytics&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/mobyanalytics_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mobyanalytics_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mobyanalytics_com_400.png",
+  "updatedAt": "2025-07-05T03:12:18.477Z"
+}

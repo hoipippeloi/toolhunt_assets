@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tailscale.com/",
+  "name": "Tailscale",
+  "title": "tailscale.com",
+  "payoff": "Secure Networks Made Simple",
+  "shortDescription": "Tailscale is a modern VPN solution designed to simplify secure network connectivity across devices and infrastructures. It utilizes WireGuard® technology to provide seamless, secure, and scalable networking solutions without the need for complex configurations. Ideal for businesses and IT professionals, Tailscale enables secure access to corporate networks, multi-cloud environments, and homelabs, enhancing productivity and security.",
+  "pros": [
+    "Easy to deploy with zero-config setup",
+    "End-to-end encryption with WireGuard®",
+    "Supports multi-cloud and on-premises integration"
+  ],
+  "cons": [
+    "Dependent on third-party infrastructure",
+    "Potential complexity in large-scale deployments",
+    "Limited customization options for advanced users"
+  ],
+  "alternatives": [
+    "NordVPN [nordvpn.com]",
+    "ExpressVPN [expressvpn.com]",
+    "OpenVPN [openvpn.net]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "NordVPN",
+      "url": "nordvpn.com",
+      "reason": "Offers a wide range of security features"
+    },
+    {
+      "name": "ExpressVPN",
+      "url": "expressvpn.com",
+      "reason": "Known for high-speed VPN services"
+    },
+    {
+      "name": "OpenVPN",
+      "url": "openvpn.net",
+      "reason": "Highly customizable open-source VPN"
+    }
+  ],
+  "tags": [
+    "VPN",
+    "network security",
+    "WireGuard",
+    "zero trust"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://tailscale.com/",
+  "documentationUrl": "https://tailscale.com/kb/",
+  "githubUrl": "https://github.com/search?q=tailscale&type=repositories",
+  "twitterUrl": "https://twitter.com/tailscale",
+  "screenshot": "https://share.appsfor.us/screenshots/tailscale_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tailscale_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tailscale_com_400.png",
+  "updatedAt": "2025-07-05T03:12:44.040Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://thunderbird.net/en-US/",
+  "name": "Thunderbird",
+  "title": "thunderbird.net",
+  "payoff": "Free Your Inbox",
+  "shortDescription": "Thunderbird is an email and productivity app designed to streamline your communication needs. It integrates email, calendar, and contacts into a single platform, allowing users to manage multiple accounts with ease. Whether you're a professional managing business communications or a student organizing academic schedules, Thunderbird provides a unified solution to access and organize your data efficiently.",
+  "pros": [
+    "Unified inbox for multiple accounts",
+    "Strong privacy and security features",
+    "Open source and customizable"
+  ],
+  "cons": [
+    "Limited marketing tools integration",
+    "No native mobile app for iOS",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Microsoft Outlook [outlook.com]",
+    "Apple Mail [apple.com]",
+    "eM Client [emclient.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Outlook",
+      "url": "outlook.com",
+      "reason": "Integrated with Office suite, widely used"
+    },
+    {
+      "name": "Apple Mail",
+      "url": "apple.com",
+      "reason": "Native integration with iOS and macOS"
+    },
+    {
+      "name": "eM Client",
+      "url": "emclient.com",
+      "reason": "Supports multiple platforms and features"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "productivity",
+    "open source",
+    "privacy"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2003,
+  "websiteUrl": "https://thunderbird.net/en-US/",
+  "documentationUrl": "https://support.mozilla.org/en-US/products/thunderbird",
+  "githubUrl": "https://github.com/thunderbird/thunderbird-website",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/thunderbird_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/thunderbird_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/thunderbird_net_400.png",
+  "updatedAt": "2025-07-05T03:14:43.387Z"
+}

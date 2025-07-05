@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://drip.com/",
+  "name": "Drip",
+  "title": "drip.com",
+  "payoff": "Easy-To-Use Marketing Automation",
+  "shortDescription": "Drip is a marketing automation platform designed to help businesses connect with customers more effectively. It offers tools for email marketing, customer segmentation, and automation with industry-specific templates. An example use case is an ecommerce store using Drip to automate email campaigns based on customer behavior and purchase history.",
+  "pros": [
+    "Advanced segmentation capabilities",
+    "Integration with multiple platforms like Shopify",
+    "Industry-specific email templates"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "HubSpot [hubspot.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers broader marketing tools"
+    },
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Includes CRM and sales features"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Strong in automation and CRM"
+    }
+  ],
+  "tags": [
+    "marketing automation",
+    "email marketing",
+    "customer engagement",
+    "e-commerce"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://drip.com/",
+  "documentationUrl": "https://drip.com/docs",
+  "githubUrl": "https://github.com/search?q=drip&type=repositories",
+  "twitterUrl": "https://twitter.com/getdrip",
+  "screenshot": "https://share.appsfor.us/screenshots/drip_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/drip_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/drip_com_400.png",
+  "updatedAt": "2025-07-05T03:11:46.970Z"
+}
