@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://umami.is/",
+  "name": "Umami",
+  "title": "umami.is",
+  "payoff": "Open source analytics platform",
+  "shortDescription": "Umami is a user-friendly analytics tool designed to help website owners understand their traffic and optimize growth. It offers insights into user behavior, such as page views, event tracking, and visitor demographics. Users can quickly set up Umami, making it ideal for those looking to switch from other analytics platforms like Google Analytics. With its open-source nature, Umami allows for community contributions, enhancing its features and reliability.",
+  "pros": [
+    "Easy to set up and use",
+    "Real-time traffic insights",
+    "Open source and community-driven"
+  ],
+  "cons": [
+    "Limited third-party integrations",
+    "May require technical knowledge to customize",
+    "Lesser-known compared to major competitors"
+  ],
+  "alternatives": [
+    "Google Analytics [analytics.google.com]",
+    "Matomo [matomo.org]",
+    "Plausible [plausible.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Analytics",
+      "url": "analytics.google.com",
+      "reason": "Widely used with advanced features"
+    },
+    {
+      "name": "Matomo",
+      "url": "matomo.org",
+      "reason": "Privacy-focused, open source alternative"
+    },
+    {
+      "name": "Plausible",
+      "url": "plausible.io",
+      "reason": "Lightweight and privacy-respecting"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "open source",
+    "website tracking",
+    "user behavior"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://umami.is/",
+  "documentationUrl": "https://umami.is/docs",
+  "githubUrl": "https://github.com/umami-software/umami",
+  "twitterUrl": "https://twitter.com/umami_software",
+  "screenshot": "https://share.appsfor.us/screenshots/umami_is.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/umami_is_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/umami_is_400.png",
+  "updatedAt": "2025-07-06T03:26:28.646Z"
+}

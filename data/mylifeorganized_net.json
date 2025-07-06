@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mylifeorganized.net/",
+  "name": "MyLifeOrganized",
+  "title": "mylifeorganized.net",
+  "payoff": "Organize tasks efficiently",
+  "shortDescription": "MyLifeOrganized (MLO) is a versatile task and project management software designed for individuals and professionals alike. It enables users to create detailed to-do lists, manage projects through hierarchical structures, and set location-based reminders. Ideal for planning events like business trips or weddings, MLO helps prioritize tasks using smart lists and syncs across all devices for seamless task management.",
+  "pros": [
+    "Flexible hierarchical task management",
+    "Location-based reminders enhance productivity",
+    "Cross-device synchronization"
+  ],
+  "cons": [
+    "Requires paid subscription for full features",
+    "Complex features may overwhelm new users",
+    "Limited to task and project management"
+  ],
+  "alternatives": [
+    "Todoist [todoist.com]",
+    "Trello [trello.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Popular for simple task management"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual board-based project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive team collaboration tool"
+    }
+  ],
+  "tags": [
+    "task management",
+    "project management",
+    "productivity",
+    "GTD"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2001,
+  "websiteUrl": "https://mylifeorganized.net/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mylifeorganized&type=repositories",
+  "twitterUrl": "https://twitter.com/MyLifeOrg",
+  "screenshot": "https://share.appsfor.us/screenshots/mylifeorganized_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mylifeorganized_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mylifeorganized_net_400.png",
+  "updatedAt": "2025-07-06T03:26:01.175Z"
+}

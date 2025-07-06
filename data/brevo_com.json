@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://brevo.com/",
+  "name": "Brevo",
+  "title": "brevo.com",
+  "payoff": "Smarter Email Marketing & CRM",
+  "shortDescription": "Brevo is an all-in-one marketing platform designed to enhance customer engagement through email, SMS, and WhatsApp using AI-driven automation. It caters to businesses looking to streamline their sales cycle, manage customer data effectively, and create personalized loyalty programs. An example use case is a retail business using Brevo to automate its marketing campaigns and track customer interactions to boost conversions.",
+  "pros": [
+    "Comprehensive multi-channel marketing",
+    "AI-driven insights and automation",
+    "Extensive integration options"
+  ],
+  "cons": [
+    "Potentially overwhelming for beginners",
+    "High dependency on AI might limit control",
+    "May be expensive for small businesses"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "HubSpot [hubspot.com]",
+    "ActiveCampaign [activecampaign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Wide range of marketing tools"
+    },
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Comprehensive CRM features"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Advanced automation capabilities"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "CRM",
+    "automation",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://brevo.com/",
+  "documentationUrl": "https://brevo.com/api-docs",
+  "githubUrl": "https://github.com/search?q=brevo&type=repositories",
+  "twitterUrl": "https://twitter.com/brevo_official",
+  "screenshot": "https://share.appsfor.us/screenshots/brevo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/brevo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/brevo_com_400.png",
+  "updatedAt": "2025-07-06T03:24:13.617Z"
+}

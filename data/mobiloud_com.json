@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mobiloud.com/",
+  "name": "MobiLoud",
+  "title": "mobiloud.com",
+  "payoff": "Convert website to mobile apps",
+  "shortDescription": "MobiLoud helps businesses transform their websites into native mobile apps with ease. It's designed for brands that want to enhance mobile user engagement without the complexities of app development. An example use case is an e-commerce site using MobiLoud to convert their online store into an app, increasing sales through improved mobile experiences.",
+  "pros": [
+    "Seamless integration with existing websites",
+    "Comprehensive push notification management",
+    "Supports third-party integrations"
+  ],
+  "cons": [
+    "Dependent on web functionalities",
+    "May not offer full customization",
+    "Potential privacy concerns with cookie use"
+  ],
+  "alternatives": [
+    "Appy Pie [appypie.com]",
+    "BuildFire [buildfire.com]",
+    "GoodBarber [goodbarber.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Appy Pie",
+      "url": "appypie.com",
+      "reason": "Offers drag-and-drop app building"
+    },
+    {
+      "name": "BuildFire",
+      "url": "buildfire.com",
+      "reason": "Customizable app templates"
+    },
+    {
+      "name": "GoodBarber",
+      "url": "goodbarber.com",
+      "reason": "Focus on beautiful design options"
+    }
+  ],
+  "tags": [
+    "mobile apps",
+    "app development",
+    "user engagement",
+    "e-commerce"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Mobile Apps",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://mobiloud.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mobiloud&type=repositories",
+  "twitterUrl": "https://twitter.com/mobiloud",
+  "screenshot": "https://share.appsfor.us/screenshots/mobiloud_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mobiloud_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mobiloud_com_400.png",
+  "updatedAt": "2025-07-06T03:25:03.854Z"
+}

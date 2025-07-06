@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://saleor.io/",
+  "name": "Saleor",
+  "title": "saleor.io",
+  "payoff": "Headless Ecommerce Platform",
+  "shortDescription": "Saleor is a modern, open-source e-commerce platform designed for flexibility and scalability. It offers a headless, composable architecture that allows developers to build custom e-commerce solutions. Saleor supports global operations with multi-currency and multi-channel capabilities, making it suitable for brands like Lush and Breitling to manage their global e-commerce efficiently.",
+  "pros": [
+    "Highly customizable and extensible",
+    "Supports global e-commerce operations",
+    "Open-source with a vibrant community"
+  ],
+  "cons": [
+    "Requires technical expertise to implement",
+    "Potentially high maintenance costs",
+    "Limited out-of-the-box features compared to SaaS platforms"
+  ],
+  "alternatives": [
+    "Shopify [shopify.com]",
+    "Magento [magento.com]",
+    "BigCommerce [bigcommerce.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Offers a more user-friendly interface"
+    },
+    {
+      "name": "Magento",
+      "url": "magento.com",
+      "reason": "Highly customizable with a strong community"
+    },
+    {
+      "name": "BigCommerce",
+      "url": "bigcommerce.com",
+      "reason": "Scales well for large enterprises"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "open source",
+    "headless",
+    "composable"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "E-commerce",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://saleor.io/",
+  "documentationUrl": "https://docs.saleor.io/",
+  "githubUrl": "https://github.com/saleor/saleor",
+  "twitterUrl": "https://twitter.com/getsaleor",
+  "screenshot": "https://share.appsfor.us/screenshots/saleor_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/saleor_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/saleor_io_400.png",
+  "updatedAt": "2025-07-06T03:26:55.380Z"
+}

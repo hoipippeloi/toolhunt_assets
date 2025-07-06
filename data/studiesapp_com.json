@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://studiesapp.com/",
+  "name": "Studies",
+  "title": "studiesapp.com",
+  "payoff": "Flashcards for serious learners",
+  "shortDescription": "Studies is a versatile flashcard app designed for students and professionals aiming to memorize important information. It supports various content types like text, images, audio, and video across devices such as Mac, iPhone, and iPad. Ideal for learning languages, preparing for tests, or mastering complex subjects, Studies enhances efficient learning through scientifically-based schedules and interactive study sessions.",
+  "pros": [
+    "Supports multimedia flashcards",
+    "Syncs across multiple Apple devices",
+    "Scientifically-based learning schedules"
+  ],
+  "cons": [
+    "Available only on Apple platforms",
+    "No free version, only a free trial",
+    "Limited to flashcard-based learning"
+  ],
+  "alternatives": [
+    "Anki [apps.ankiweb.net]",
+    "Quizlet [quizlet.com]",
+    "Cram [cram.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Anki",
+      "url": "ankiweb.net",
+      "reason": "Open-source and highly customizable"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers games and community features"
+    },
+    {
+      "name": "Cram",
+      "url": "cram.com",
+      "reason": "Simple interface with access to a large database"
+    }
+  ],
+  "tags": [
+    "e-learning",
+    "flashcards",
+    "study tool",
+    "education"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://studiesapp.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=studies&type=repositories",
+  "twitterUrl": "https://twitter.com/studiesapp",
+  "screenshot": "https://share.appsfor.us/screenshots/studiesapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/studiesapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/studiesapp_com_400.png",
+  "updatedAt": "2025-07-06T03:25:32.255Z"
+}
