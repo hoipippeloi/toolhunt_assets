@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getdynamiq.ai/",
+  "name": "Dynamiq",
+  "title": "getdynamiq.ai",
+  "payoff": "Streamline GenAI Application Development",
+  "shortDescription": "Dynamiq is a platform designed to accelerate the development of generative AI applications within an organization's own infrastructure. It offers tools for rapid prototyping, testing, and deployment, making it ideal for businesses looking to enhance productivity and reduce AI adoption costs. Example use case: A tech company uses Dynamiq to develop and deploy AI-driven customer service applications, significantly cutting down development time and maintaining data security.",
+  "pros": [
+    "Rapid prototyping and deployment",
+    "Bank-grade security and GDPR compliance",
+    "Low-code AI application builder"
+  ],
+  "cons": [
+    "Requires existing technical team",
+    "May be complex for non-technical users",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "Hugging Face [huggingface.co]",
+    "Peltarion [peltarion.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI research and deployment"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Community-driven AI model hub"
+    },
+    {
+      "name": "Peltarion",
+      "url": "peltarion.com",
+      "reason": "Focus on scalable AI solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "GenAI",
+    "low-code",
+    "data security"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getdynamiq.ai/",
+  "documentationUrl": "https://getdynamiq.ai/documentation",
+  "githubUrl": "https://github.com/dynamiq-ai/dynamiq",
+  "twitterUrl": "https://twitter.com/en/privacy",
+  "screenshot": "https://share.appsfor.us/screenshots/getdynamiq_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getdynamiq_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getdynamiq_ai_400.png",
+  "updatedAt": "2025-07-06T01:13:19.221Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://opencord.ai/",
+  "name": "Opencord AI",
+  "title": "opencord.ai",
+  "payoff": "24/7 Social Media Lead Generation",
+  "shortDescription": "Opencord AI specializes in automating social media interactions to generate leads around the clock. Targeting industries like Web3 marketing, e-commerce, and independent developers, it offers tools like OpenTwitter and OpenReddit for engaging potential customers. Example use case: A bikini e-commerce operator uses Opencord AI to automatically respond to potential buyers on Reddit, enhancing engagement and increasing sales conversions.",
+  "pros": [
+    "Continuous lead generation",
+    "Personalized customer interactions",
+    "Supports multiple social platforms"
+  ],
+  "cons": [
+    "Potential risk of social media account blocks",
+    "Limited refund policy",
+    "Rate limits could restrict usage"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Offers comprehensive social media management"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Focuses on scheduling and analytics"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Provides advanced listening and analytics tools"
+    }
+  ],
+  "tags": [
+    "lead generation",
+    "social media",
+    "AI",
+    "marketing"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://opencord.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=opencord%20ai&type=repositories",
+  "twitterUrl": "https://x.com/opencordai",
+  "screenshot": "https://share.appsfor.us/screenshots/opencord_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/opencord_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/opencord_ai_400.png",
+  "updatedAt": "2025-07-06T01:15:01.329Z"
+}

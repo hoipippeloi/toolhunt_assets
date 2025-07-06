@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spline.design/",
+  "name": "Spline",
+  "title": "spline.design",
+  "payoff": "Design and collaborate in 3D easily",
+  "shortDescription": "Spline is a web-based 3D design tool that enables real-time collaboration among teams. Users can create, edit, and export 3D designs directly in the browser. It supports interactive elements, physics simulations, and various export formats. Ideal for designers looking to integrate 3D elements into web projects or create interactive experiences. An example use case is a design team collaborating on a 3D model for a virtual reality application.",
+  "pros": [
+    "Real-time collaboration features",
+    "Extensive 3D modeling and animation tools",
+    "No installation required, fully web-based"
+  ],
+  "cons": [
+    "May require high internet bandwidth",
+    "Limited compared to native software",
+    "Potentially steep learning curve for beginners"
+  ],
+  "alternatives": [
+    "Blender [blender.org]",
+    "SketchUp [sketchup.com]",
+    "Tinkercad [tinkercad.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Open-source, comprehensive 3D creation suite"
+    },
+    {
+      "name": "SketchUp",
+      "url": "sketchup.com",
+      "reason": "User-friendly 3D modeling tool with a free version"
+    },
+    {
+      "name": "Autodesk Tinkercad",
+      "url": "tinkercad.com",
+      "reason": "Simple, online 3D design and 3D printing app"
+    }
+  ],
+  "tags": [
+    "3D design",
+    "collaboration",
+    "web-based",
+    "real-time"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://spline.design/",
+  "documentationUrl": "https://docs.spline.design/",
+  "githubUrl": "https://github.com/search?q=spline&type=repositories",
+  "twitterUrl": "https://twitter.com/splinetool",
+  "screenshot": "https://share.appsfor.us/screenshots/spline_design.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/spline_design_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/spline_design_400.png",
+  "updatedAt": "2025-07-06T01:12:15.242Z"
+}

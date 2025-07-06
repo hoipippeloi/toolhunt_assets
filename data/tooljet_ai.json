@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tooljet.ai/",
+  "name": "ToolJet",
+  "title": "tooljet.ai",
+  "payoff": "Build Internal Tools with AI",
+  "shortDescription": "ToolJet is an AI-native platform designed to help enterprises build internal tools efficiently. It leverages AI to interpret natural language inputs, turning them into functional applications. Ideal for companies needing rapid development without heavy coding, ToolJet can be used to automate workflows, manage databases, and integrate various APIs. An example use case is a company automating its inventory management system to reduce manual entry and increase accuracy.",
+  "pros": [
+    "Rapid development of apps with minimal coding",
+    "Integration capabilities with databases, APIs, and AI models",
+    "Strong compliance and security features"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Dependent on AI accuracy for app creation",
+    "Potential limitations in highly customized use cases"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Appsmith [appsmith.com]",
+    "Budibase [budibase.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers similar low-code app development features"
+    },
+    {
+      "name": "Appsmith",
+      "url": "appsmith.com",
+      "reason": "Open source alternative with customization"
+    },
+    {
+      "name": "Budibase",
+      "url": "budibase.com",
+      "reason": "Focuses on quick internal tool creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "low-code development",
+    "internal tools",
+    "app development"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Internal Apps",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tooljet.ai/",
+  "documentationUrl": "https://docs.tooljet.io/",
+  "githubUrl": "https://github.com/ToolJet/ToolJet",
+  "twitterUrl": "https://twitter.com/ToolJet#",
+  "screenshot": "https://share.appsfor.us/screenshots/tooljet_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tooljet_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tooljet_ai_400.png",
+  "updatedAt": "2025-07-06T01:14:32.390Z"
+}

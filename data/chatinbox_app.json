@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chatinbox.app/",
+  "name": "ChatInbox",
+  "title": "chatinbox.app",
+  "payoff": "Organize emails with ease",
+  "shortDescription": "ChatInbox is a revolutionary email management app designed to streamline your email interactions. It structures your inbox by linking messages with their senders and recipients, allowing for a chat-style interface. Users can tag emails, visualize them on a Kanban board, and convert them into tasks within a planner view. Ideal for professionals looking to enhance productivity and maintain privacy, as the app ensures data never leaves your device.",
+  "pros": [
+    "Enhanced email organization",
+    "Privacy-focused design",
+    "Integrates emails with tasks"
+  ],
+  "cons": [
+    "May have a learning curve",
+    "Limited third-party integrations",
+    "Dependent on user's email management habits"
+  ],
+  "alternatives": [
+    "Superhuman [superhuman.com]",
+    "Microsoft Outlook [outlook.com]",
+    "Mailbird [getmailbird.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Superhuman",
+      "url": "superhuman.com",
+      "reason": "Fast email client with productivity features"
+    },
+    {
+      "name": "Microsoft Outlook",
+      "url": "outlook.com",
+      "reason": "Widely used with extensive integrations"
+    },
+    {
+      "name": "Mailbird",
+      "url": "getmailbird.com",
+      "reason": "Supports multiple accounts and features"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "productivity",
+    "privacy",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Email Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://chatinbox.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=chatinbox&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/chatinbox_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chatinbox_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chatinbox_app_400.png",
+  "updatedAt": "2025-07-06T01:15:27.977Z"
+}
