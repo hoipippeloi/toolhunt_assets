@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getorchestra.com/",
+  "name": "Orchestra",
+  "title": "getorchestra.com",
+  "payoff": "Grow digital agencies easily",
+  "shortDescription": "Orchestra is a comprehensive platform designed to streamline the operations of digital agencies. It offers a white-labelled client portal where agencies can accept payments, manage tasks, and communicate with clients. An ideal tool for agencies specializing in productized services, Orchestra simplifies client interactions and agency management through a clean, fast user interface. Setup is quick, requiring only 5 minutes with no complicated steps, making it ready for use almost immediately.",
+  "pros": [
+    "Quick and easy setup",
+    "All-in-one platform for agency management",
+    "White-labelled client portal"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not support all types of services",
+    "Dependent on third-party services like Stripe"
+  ],
+  "alternatives": [
+    "Monday.com [monday.com]",
+    "Wrike [wrike.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers customizable workflows for agencies"
+    },
+    {
+      "name": "Wrike",
+      "url": "wrike.com",
+      "reason": "Features tailored for scalable project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Well-known for user-friendly project tracking"
+    }
+  ],
+  "tags": [
+    "agency management",
+    "client portal",
+    "task management",
+    "payment processing"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://getorchestra.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=orchestra&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/getorchestra_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getorchestra_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getorchestra_com_400.png",
+  "updatedAt": "2025-07-07T01:12:51.226Z"
+}

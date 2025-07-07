@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://planetscale.com/",
+  "name": "PlanetScale",
+  "title": "planetscale.com",
+  "payoff": "Scalable cloud databases",
+  "shortDescription": "PlanetScale offers highly scalable cloud databases utilizing Postgres and Vitess, designed for businesses requiring robust, high-performance data solutions. Key features include horizontal sharding with Vitess for scalability, NVMe drives for high IOPS, and a variety of deployment options for enhanced security. Ideal for companies like Attentive and Cash App, it's suitable for handling large-scale data across multiple industries.",
+  "pros": [
+    "High scalability with Vitess",
+    "Superior performance with NVMe drives",
+    "Comprehensive security and compliance options"
+  ],
+  "cons": [
+    "Complex setup for maximum scalability",
+    "Potentially higher cost for premium features",
+    "Limited to database management"
+  ],
+  "alternatives": [
+    "Amazon Aurora [aws.amazon.com/rds/aurora]",
+    "Google Cloud SQL [cloud.google.com/sql]",
+    "Microsoft Azure SQL Database [azure.microsoft.com/en-us/services/sql-database]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Amazon Aurora",
+      "url": "aws.amazon.com/rds/aurora",
+      "reason": "AWS managed database, high performance"
+    },
+    {
+      "name": "Google Cloud SQL",
+      "url": "cloud.google.com/sql",
+      "reason": "Fully managed relational database"
+    },
+    {
+      "name": "Microsoft Azure SQL Database",
+      "url": "azure.microsoft.com/en-us/services/sql-database",
+      "reason": "Scalable cloud database service"
+    }
+  ],
+  "tags": [
+    "cloud databases",
+    "data storage",
+    "scalability",
+    "database management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://planetscale.com/",
+  "documentationUrl": "https://planetscale.com/docs",
+  "githubUrl": "https://github.com/planetscale",
+  "twitterUrl": "https://twitter.com/planetscale",
+  "screenshot": "https://share.appsfor.us/screenshots/planetscale_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/planetscale_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/planetscale_com_400.png",
+  "updatedAt": "2025-07-07T01:11:17.099Z"
+}

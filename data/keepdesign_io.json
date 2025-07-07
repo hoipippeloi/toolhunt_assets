@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://keepdesign.io/",
+  "name": "Keep Design System",
+  "title": "keepdesign.io",
+  "payoff": "Perfect design in minutes",
+  "shortDescription": "Keep Design System offers a refined suite of tools for creating web designs and dashboards efficiently. It is tailored for designers and developers seeking to streamline their workflow and enhance productivity. An example use case is a developer using Keep's React components to quickly prototype and iterate on a new project.",
+  "pros": [
+    "Comprehensive design components",
+    "Open source React version available",
+    "Lifetime updates with purchase"
+  ],
+  "cons": [
+    "Limited to single user on personal license",
+    "Pricing might be prohibitive for some",
+    "Focused primarily on React, less so on other frameworks"
+  ],
+  "alternatives": [
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]",
+    "Bootstrap [getbootstrap.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Offers comprehensive React UI tools"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Rich in design features and React components"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "Widely used, flexible CSS framework"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "UI components",
+    "React",
+    "Figma"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://keepdesign.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/StaticMania/keep-react",
+  "twitterUrl": "https://twitter.com/_keepdesign",
+  "screenshot": "https://share.appsfor.us/screenshots/keepdesign_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/keepdesign_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/keepdesign_io_400.png",
+  "updatedAt": "2025-07-07T01:12:30.416Z"
+}

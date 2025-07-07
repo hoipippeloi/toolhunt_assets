@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://klingai.com/",
+  "name": "Kling AI",
+  "title": "klingai.com",
+  "payoff": "AI Creative Studio",
+  "shortDescription": "Kling AI is a next-generation creative studio that leverages artificial intelligence to generate videos, images, and sounds. It is designed for creators, marketers, and developers who seek to enhance their content with AI-powered tools. Example use case: A filmmaker uses Kling AI to create unique visual effects and soundtracks for their project.",
+  "pros": [
+    "Comprehensive AI creative tools",
+    "Support for multiple platforms including iOS and Android",
+    "Access to funding and global distribution"
+  ],
+  "cons": [
+    "Potentially high cost",
+    "Complexity of advanced features",
+    "Limited customization in automated outputs"
+  ],
+  "alternatives": [
+    "Adobe Creative Cloud [adobe.com]",
+    "Canva [canva.com]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Creative Cloud",
+      "url": "adobe.com",
+      "reason": "Wide range of creative tools"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Simpler interface and templates"
+    },
+    {
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Focus on easy video and image creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "creative studio",
+    "content generation",
+    "multimedia"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://klingai.com/",
+  "documentationUrl": "https://klingai.com/documents/api-documentation",
+  "githubUrl": "https://github.com/search?q=kling%20ai&type=repositories",
+  "twitterUrl": "https://x.com/Kling_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/klingai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/klingai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/klingai_com_400.png",
+  "updatedAt": "2025-07-07T01:12:04.151Z"
+}

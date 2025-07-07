@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://alexcodes.app/",
+  "name": "Alex",
+  "title": "alexcodes.app",
+  "payoff": "Boost Xcode productivity with AI",
+  "shortDescription": "Alex is an AI-powered coding assistant designed specifically for Xcode, enhancing the productivity of iOS developers. It automates tasks like bug fixing, adding Swift packages, and running apps in Simulator. Ideal for developers looking to speed up their coding process, Alex offers features like AI autocomplete and semantic search within projects, making it a valuable tool for building high-quality iOS apps quickly.",
+  "pros": [
+    "AI-powered error fixing and debugging",
+    "Seamless integration with Xcode",
+    "Supports local model runs for free"
+  ],
+  "cons": [
+    "Limited to Xcode and iOS development",
+    "May not replace detailed manual coding",
+    "Potential privacy concerns with AI integration"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "JetBrains AppCode [jetbrains.com/appcode]",
+    "Atom [atom.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Popular, versatile code editor"
+    },
+    {
+      "name": "JetBrains AppCode",
+      "url": "jetbrains.com/appcode",
+      "reason": "Full-featured, for various languages"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and customizable"
+    }
+  ],
+  "tags": [
+    "AI",
+    "iOS development",
+    "Xcode",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://alexcodes.app/",
+  "documentationUrl": "https://alexcodes.app/docs",
+  "githubUrl": "https://github.com/DanielEdrisian/AlexSideBar-Public/releases/download/prod/AlexSideBar.dmg",
+  "twitterUrl": "https://x.com/JohnAckeeseed/status/1897636265631023374",
+  "screenshot": "https://share.appsfor.us/screenshots/alexcodes_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/alexcodes_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/alexcodes_app_400.png",
+  "updatedAt": "2025-07-07T01:10:27.089Z"
+}
