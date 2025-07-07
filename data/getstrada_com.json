@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getstrada.com/",
+  "name": "Strada",
+  "title": "getstrada.com",
+  "payoff": "Endless AI-driven insurance calls",
+  "shortDescription": "Strada is a voice AI platform designed specifically for the insurance industry. It automates both sales and service calls, providing 24/7 support without hold times. The tool is built to handle insurance-specific terminology and integrates seamlessly with existing systems. An example use case includes boosting conversion rates by quickly connecting prospects to AI agents.",
+  "pros": [
+    "24/7 automated customer support",
+    "High accuracy with insurance-specific AI",
+    "Seamless integration with existing systems"
+  ],
+  "cons": [
+    "Limited to the insurance industry",
+    "Potential privacy concerns with voice data",
+    "Dependence on AI may reduce personal touch"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "IBM Watson Assistant [ibm.com/watson/assistant]",
+    "Twilio Autopilot [twilio.com/autopilot]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers customizable AI chat agents"
+    },
+    {
+      "name": "IBM Watson Assistant",
+      "url": "ibm.com/watson/assistant",
+      "reason": "Advanced AI with industry-specific options"
+    },
+    {
+      "name": "Twilio Autopilot",
+      "url": "twilio.com/autopilot",
+      "reason": "Flexible API for voice and messaging"
+    }
+  ],
+  "tags": [
+    "AI",
+    "customer service",
+    "insurance",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getstrada.com/",
+  "documentationUrl": "https://getstrada.com/docs",
+  "githubUrl": "https://github.com/search?q=strada&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/getstrada_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getstrada_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getstrada_com_400.png",
+  "updatedAt": "2025-07-07T03:23:35.846Z"
+}

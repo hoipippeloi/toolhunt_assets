@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tracecat.com/",
+  "name": "Tracecat",
+  "title": "tracecat.com",
+  "payoff": "Open source SOAR alternative",
+  "shortDescription": "Tracecat is an open-source automation platform designed specifically for security and IT engineers. It offers a robust alternative to Tines and Splunk SOAR, enabling users to automate their security playbooks without the need for costly add-ons. Users can trigger workflows via webhook or schedule them as cron jobs, enrich SIEM alerts, and ensure high availability with options for mission-critical alerting.",
+  "pros": [
+    "Unlimited workflows for all users",
+    "No add-ons required for full functionality",
+    "Open source and scalable"
+  ],
+  "cons": [
+    "Limited third-party integrations",
+    "No clear pricing structure provided",
+    "Potentially steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Tines [tines.com]",
+    "Splunk SOAR [splunk.com]",
+    "Shuffle [shuffle.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tines",
+      "url": "tines.com",
+      "reason": "Offers advanced automation with a visual builder"
+    },
+    {
+      "name": "Splunk SOAR",
+      "url": "splunk.com",
+      "reason": "Enterprise-level security automation and orchestration"
+    },
+    {
+      "name": "Shuffle",
+      "url": "shuffle.io",
+      "reason": "Open-source and community-driven SOAR platform"
+    }
+  ],
+  "tags": [
+    "automation",
+    "security",
+    "open source",
+    "IT engineering"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://tracecat.com/",
+  "documentationUrl": "https://docs.tracecat.com/",
+  "githubUrl": "https://github.com/TracecatHQ/tracecat",
+  "twitterUrl": "https://x.com/TracecatAI",
+  "screenshot": "https://share.appsfor.us/screenshots/tracecat_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tracecat_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tracecat_com_400.png",
+  "updatedAt": "2025-07-07T03:25:25.822Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wild.ai/",
+  "name": "Wild.AI",
+  "title": "wild.ai",
+  "payoff": "Turn Your Hormones Into Your Superpower",
+  "shortDescription": "Wild.AI is a health and fitness app designed specifically for women, leveraging hormonal data to optimize training and performance. It integrates with various wearables to provide tailored insights based on physiological data. Users can track their training, sleep, and heart rate, receiving personalized recommendations to enhance performance and prevent injuries. Ideal for athletes and active women seeking to train smarter.",
+  "pros": [
+    "Personalized insights based on hormonal data",
+    "Integrates with major health wearables",
+    "Tailored to improve women's training and recovery"
+  ],
+  "cons": [
+    "Limited to female physiology",
+    "Dependent on external wearable data",
+    "Temperature and activities data not available with Oura integration"
+  ],
+  "alternatives": [
+    "Fitbit [fitbit.com]",
+    "Garmin Connect [garmin.com]",
+    "Strava [strava.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Clue",
+      "url": "helloclue.com",
+      "reason": "Focuses on menstrual cycle tracking"
+    },
+    {
+      "name": "Flo",
+      "url": "flo.health",
+      "reason": "Offers comprehensive women's health tracking"
+    },
+    {
+      "name": "Natural Cycles",
+      "url": "naturalcycles.com",
+      "reason": "Tracks fertility using temperature data"
+    }
+  ],
+  "tags": [
+    "health tracking",
+    "fitness app",
+    "hormonal insights",
+    "wearable integration"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://wild.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=wild%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/wild_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wild_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wild_ai_400.png",
+  "updatedAt": "2025-07-07T03:24:32.995Z"
+}

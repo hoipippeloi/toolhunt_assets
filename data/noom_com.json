@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://noom.com/",
+  "name": "Noom",
+  "title": "noom.com",
+  "payoff": "Stop dieting. Get lifelong results.",
+  "shortDescription": "Noom focuses on helping users achieve long-term weight loss through psychological approaches and mindful eating. It's designed for individuals seeking sustainable health improvements rather than quick fixes. Users can expect to lose 1-2 lbs per week by following the Noom plan, which incorporates guidance from scientific research and personalized coaching.",
+  "pros": [
+    "Psychologically based approach to weight loss",
+    "Personalized coaching and support",
+    "Evidence-based results with references to scientific studies"
+  ],
+  "cons": [
+    "Results may vary significantly per individual",
+    "Requires consistent effort and engagement",
+    "Some parts of the website may not function without cookies"
+  ],
+  "alternatives": [
+    "Weight Watchers [weightwatchers.com]",
+    "MyFitnessPal [myfitnesspal.com]",
+    "Lose It! [loseit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Weight Watchers",
+      "url": "weightwatchers.com",
+      "reason": "Offers community support and personalized plans."
+    },
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Features comprehensive diet and exercise tracking."
+    },
+    {
+      "name": "Lose It!",
+      "url": "loseit.com",
+      "reason": "Focuses on calorie tracking and community engagement."
+    }
+  ],
+  "tags": [
+    "health",
+    "wellness",
+    "weight loss",
+    "mindful eating"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://noom.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=noom&type=repositories",
+  "twitterUrl": "https://twitter.com/noom?lang=en",
+  "screenshot": "https://share.appsfor.us/screenshots/noom_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/noom_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/noom_com_400.png",
+  "updatedAt": "2025-07-07T03:24:00.395Z"
+}

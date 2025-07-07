@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://freshbooks.com/",
+  "name": "FreshBooks",
+  "title": "freshbooks.com",
+  "payoff": "Accounting made easy for small businesses",
+  "shortDescription": "FreshBooks offers a streamlined accounting solution designed specifically for small businesses and freelancers. It simplifies invoicing, billing, and expense tracking, enabling users to create professional invoices quickly, automate payments, and manage expenses efficiently. Ideal for small business owners looking to save time on accounting and focus more on their business growth.",
+  "pros": [
+    "Easy to use interface",
+    "Comprehensive invoicing and payment solutions",
+    "Effective expense management tools"
+  ],
+  "cons": [
+    "May be costly for very small businesses",
+    "Limited customization options",
+    "Primarily suited for small to medium-sized businesses"
+  ],
+  "alternatives": [
+    "QuickBooks Online [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "Wave Accounting [waveapps.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks Online",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used with advanced features"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong integration capabilities"
+    },
+    {
+      "name": "Wave Accounting",
+      "url": "waveapps.com",
+      "reason": "Free and simple for small businesses"
+    }
+  ],
+  "tags": [
+    "accounting",
+    "invoicing",
+    "expense tracking",
+    "small business software"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2003,
+  "websiteUrl": "https://freshbooks.com/",
+  "documentationUrl": "https://freshbooks.com/api",
+  "githubUrl": "https://github.com/search?q=freshbooks&type=repositories",
+  "twitterUrl": "https://x.com/freshbooks",
+  "screenshot": "https://share.appsfor.us/screenshots/freshbooks_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/freshbooks_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/freshbooks_com_400.png",
+  "updatedAt": "2025-07-07T03:22:23.936Z"
+}

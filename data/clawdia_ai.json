@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://clawdia.ai/",
+  "name": "Clawdia AI",
+  "title": "clawdia.ai",
+  "payoff": "Automated Legal Solution You Can Trust",
+  "shortDescription": "Clawdia AI is a legal technology tool designed to simplify and expedite the legal processes for businesses. It offers 24/7 availability, providing instant assistance with legal documents and compliance. Ideal for startups and small businesses, Clawdia AI helps users create legal documents quickly, ensuring legal soundness without the high costs typically associated with legal services.",
+  "pros": [
+    "Available 24/7 for immediate legal assistance",
+    "Simplifies complex legal processes",
+    "Cost-effective solution for legal needs"
+  ],
+  "cons": [
+    "May not replace in-depth legal consultation",
+    "Limited to the scope of predefined legal templates",
+    "Potential privacy concerns with sensitive data"
+  ],
+  "alternatives": [
+    "Rocket Lawyer [rocketlawyer.com]",
+    "LegalZoom [legalzoom.com]",
+    "DocuSign [docusign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Rocket Lawyer",
+      "url": "rocketlawyer.com",
+      "reason": "Offers legal forms and advice"
+    },
+    {
+      "name": "LegalZoom",
+      "url": "legalzoom.com",
+      "reason": "Provides a wide range of legal services"
+    },
+    {
+      "name": "DocuSign",
+      "url": "docusign.com",
+      "reason": "Focuses on e-signature and document management"
+    }
+  ],
+  "tags": [
+    "legal tech",
+    "document automation",
+    "compliance",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Legal & Compliance",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://clawdia.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=clawdia%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/ClawdiaAI",
+  "screenshot": "https://share.appsfor.us/screenshots/clawdia_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/clawdia_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/clawdia_ai_400.png",
+  "updatedAt": "2025-07-07T03:25:01.478Z"
+}
