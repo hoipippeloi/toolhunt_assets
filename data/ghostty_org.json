@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ghostty.org/",
+  "name": "Ghostty",
+  "title": "ghostty.org",
+  "payoff": "Fast, GPU-accelerated terminal emulator",
+  "shortDescription": "Ghostty is a terminal emulator that leverages GPU acceleration and native UI components to deliver a high-performance experience across multiple platforms. It is designed for developers and IT professionals who require efficient and robust terminal operations. Example use case includes managing server environments and developing software in a terminal interface.",
+  "pros": [
+    "Uses GPU acceleration for high performance",
+    "Cross-platform compatibility",
+    "Leverages platform-native UI components"
+  ],
+  "cons": [
+    "May require modern hardware for best performance",
+    "Limited customization options",
+    "No explicit support for non-technical users"
+  ],
+  "alternatives": [
+    "Hyper [hyper.is]",
+    "Alacritty [alacritty.org]",
+    "Terminus [terminus.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hyper",
+      "url": "hyper.is",
+      "reason": "Offers extensibility with plugins"
+    },
+    {
+      "name": "Alacritty",
+      "url": "alacritty.org",
+      "reason": "Focuses on simplicity and performance"
+    },
+    {
+      "name": "Terminus",
+      "url": "terminus.com",
+      "reason": "Rich in features and customization"
+    }
+  ],
+  "tags": [
+    "terminal emulator",
+    "GPU acceleration",
+    "cross-platform",
+    "developer tools"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://ghostty.org/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=ghostty&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/ghostty_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ghostty_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ghostty_org_400.png",
+  "updatedAt": "2025-07-08T04:26:12.593Z"
+}
