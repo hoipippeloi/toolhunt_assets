@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usejolt.ai/",
+  "name": "Jolt AI",
+  "title": "usejolt.ai",
+  "payoff": "Instant expert on large codebases",
+  "shortDescription": "Jolt AI is designed to manage and understand large codebases ranging from 100K to multi-million lines of code efficiently. It automates the process of selecting relevant files and folders, integrating multiple repositories, and adhering to coding patterns and conventions. Jolt is ideal for developers working on enterprise software across various industries such as fintech and health. An example use case is a developer using Jolt to streamline code migration and documentation creation.",
+  "pros": [
+    "Automates codebase context understanding",
+    "Supports multi-repository integration",
+    "Adheres to existing coding patterns"
+  ],
+  "cons": [
+    "Limited to certain IDEs and platforms",
+    "May not support all programming languages",
+    "Potential privacy concerns despite assurances"
+  ],
+  "alternatives": [
+    "GitHub Copilot [copilot.github.com]",
+    "Sourcegraph [sourcegraph.com]",
+    "Codota [codota.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer that suggests code"
+    },
+    {
+      "name": "Sourcegraph",
+      "url": "sourcegraph.com",
+      "reason": "Universal code search tool"
+    },
+    {
+      "name": "Codota",
+      "url": "codota.com",
+      "reason": "AI code completions for developers"
+    }
+  ],
+  "tags": [
+    "AI",
+    "code management",
+    "software development",
+    "IDE plugins"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://usejolt.ai/",
+  "documentationUrl": "https://usejolt.ai/docs",
+  "githubUrl": "https://github.com/search?q=jolt%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/usejolt_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usejolt_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usejolt_ai_400.png",
+  "updatedAt": "2025-07-08T01:07:00.682Z"
+}

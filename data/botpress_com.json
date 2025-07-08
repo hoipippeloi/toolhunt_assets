@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://botpress.com/",
+  "name": "Botpress",
+  "title": "botpress.com",
+  "payoff": "Build AI agents easily",
+  "shortDescription": "Botpress is a comprehensive platform designed for creating AI agents, catering primarily to developers. It supports a multitude of integrations, making it adaptable for various workflows such as cancellations and authentications. The platform is known for its intuitive interface and a generous free tier, making it accessible for both novice and experienced developers. The strong community support enhances the user experience by facilitating knowledge sharing and best practices.",
+  "pros": [
+    "Intuitive user interface",
+    "Generous free tier",
+    "Strong developer community"
+  ],
+  "cons": [
+    "May require coding knowledge",
+    "Limited customization in free tier",
+    "Potentially steep learning curve for beginners"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "Microsoft Bot Framework [botframework.com]",
+    "Rasa [rasa.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers advanced NLP capabilities"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "url": "botframework.com",
+      "reason": "Integrates with Microsoft products"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Open-source and highly customizable"
+    }
+  ],
+  "tags": [
+    "AI",
+    "chatbots",
+    "automation",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://botpress.com/",
+  "documentationUrl": "https://botpress.com/docs",
+  "githubUrl": "https://github.com/botpress",
+  "twitterUrl": "https://twitter.com/getbotpress/",
+  "screenshot": "https://share.appsfor.us/screenshots/botpress_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/botpress_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/botpress_com_400.png",
+  "updatedAt": "2025-07-08T01:06:28.102Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fakeface.io/",
+  "name": "Fakeface",
+  "title": "fakeface.io",
+  "payoff": "Swap faces in videos, photos & GIFs",
+  "shortDescription": "Fakeface offers a seamless face-swapping experience for videos, photos, and GIFs. It supports various formats like MP4, JPEG, and PNG, catering to both casual users and professionals needing quick swaps in media files. Ideal for creating fun content or enhancing presentations with a personal touch, users can easily upload a face photo and swap it into their chosen media within seconds.",
+  "pros": [
+    "Supports multiple media formats",
+    "Free unlimited swaps",
+    "High-quality output"
+  ],
+  "cons": [
+    "Limited to first 5 seconds of videos",
+    "GIF size capped at 2MB",
+    "Only one face can be swapped at a time"
+  ],
+  "alternatives": [
+    "DeepArt [deepart.io]",
+    "Reflect [reflect.tech]",
+    "FaceSwap [faceswap.dev]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DeepArt",
+      "url": "deepart.io",
+      "reason": "Uses AI for artistic image transformation"
+    },
+    {
+      "name": "Reflect",
+      "url": "reflect.tech",
+      "reason": "Offers realistic face swap technology"
+    },
+    {
+      "name": "FaceSwap",
+      "url": "faceswap.dev",
+      "reason": "Open source and community-driven project"
+    }
+  ],
+  "tags": [
+    "AI",
+    "media editing",
+    "face swap",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://fakeface.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=fakeface&type=repositories",
+  "twitterUrl": "https://twitter.com/Fakeface_io",
+  "screenshot": "https://share.appsfor.us/screenshots/fakeface_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fakeface_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fakeface_io_400.png",
+  "updatedAt": "2025-07-08T01:09:36.055Z"
+}

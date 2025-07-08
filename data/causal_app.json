@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://causal.app/",
+  "name": "Causal",
+  "title": "causal.app",
+  "payoff": "Finance platform for startups",
+  "shortDescription": "Causal simplifies financial planning for startups by integrating with tools like QuickBooks, Xero, and Stripe. It offers a centralized platform for financial statements, ARR reporting, forecasts, budgets, and scenario planning. Users can pull data directly, compare forecasts with actuals, and automate financial processes without manual intervention. Ideal for startups needing detailed financial oversight and planning.",
+  "pros": [
+    "Integrates with multiple financial tools",
+    "Automates financial reporting and forecasting",
+    "User-friendly interface with customizable templates"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Dependent on external data sources",
+    "Potentially overwhelming for small businesses"
+  ],
+  "alternatives": [
+    "Float [float.com]",
+    "PlanGuru [planguru.com]",
+    "Scoro [scoro.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Float",
+      "url": "float.com",
+      "reason": "Offers cash flow forecasting"
+    },
+    {
+      "name": "PlanGuru",
+      "url": "planguru.com",
+      "reason": "Focuses on budgeting and forecasting"
+    },
+    {
+      "name": "Scoro",
+      "url": "scoro.com",
+      "reason": "Comprehensive business management suite"
+    }
+  ],
+  "tags": [
+    "finance",
+    "startup",
+    "forecasting",
+    "reporting"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Enterprise Planning",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://causal.app/",
+  "documentationUrl": "https://docs.causal.app",
+  "githubUrl": "https://github.com/causalhq",
+  "twitterUrl": "https://twitter.com/CausalHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/causal_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/causal_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/causal_app_400.png",
+  "updatedAt": "2025-07-08T01:08:12.040Z"
+}

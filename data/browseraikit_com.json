@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://browseraikit.com/",
+  "name": "Browser AI Kit",
+  "title": "browseraikit.com",
+  "payoff": "Run AI directly in your browser",
+  "shortDescription": "Browser AI Kit enables users to deploy AI tools directly within their web browsers. This tool is designed for developers, researchers, and tech enthusiasts who seek to utilize AI without the need for complex installations or high-end hardware. An example use case includes experimenting with AI models for quick testing or educational purposes.",
+  "pros": [
+    "Free and unlimited use",
+    "No installation required",
+    "Based on Transformers.js"
+  ],
+  "cons": [
+    "Limited number of tools",
+    "Newly launched, might have bugs",
+    "No API for developers"
+  ],
+  "alternatives": [
+    "TensorFlow.js [tensorflow.org/js]",
+    "ML5.js [ml5js.org]",
+    "RunwayML [runwayml.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "TensorFlow.js",
+      "url": "tensorflow.org/js",
+      "reason": "Popular JS library for AI models"
+    },
+    {
+      "name": "ML5.js",
+      "url": "ml5js.org",
+      "reason": "Friendly ML for the web"
+    },
+    {
+      "name": "RunwayML",
+      "url": "runwayml.com",
+      "reason": "Creative tools through AI"
+    }
+  ],
+  "tags": [
+    "AI",
+    "web tools",
+    "JavaScript",
+    "education"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://browseraikit.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=browser%20ai%20kit&type=repositories",
+  "twitterUrl": "https://x.com/arvin_xc",
+  "screenshot": "https://share.appsfor.us/screenshots/browseraikit_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/browseraikit_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/browseraikit_com_400.png",
+  "updatedAt": "2025-07-08T01:07:49.990Z"
+}
