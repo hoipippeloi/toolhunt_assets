@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mirage.app/",
+  "name": "Mirage Studio",
+  "title": "mirage.app",
+  "payoff": "Generate expressive performances",
+  "shortDescription": "Mirage Studio offers a platform to create realistic and expressive performances using virtual actors. It's designed for filmmakers, content creators, and digital artists who seek to produce high-quality video content without the need for physical actors. Users can customize the appearance, voice, and actions of these digital characters to fit their specific project needs, making it ideal for creating animations, short films, or interactive media.",
+  "pros": [
+    "Highly customizable digital actors",
+    "No need for physical casting",
+    "Suitable for various media projects"
+  ],
+  "cons": [
+    "Requires technical know-how",
+    "Potential privacy concerns",
+    "Limited to digital outputs"
+  ],
+  "alternatives": [
+    "Adobe Character Animator [adobe.com]",
+    "CrazyTalk Animator [reallusion.com]",
+    "Plotagon [plotagon.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Character Animator",
+      "url": "adobe.com",
+      "reason": "Offers live motion capture of animations"
+    },
+    {
+      "name": "CrazyTalk Animator",
+      "url": "reallusion.com",
+      "reason": "Focuses on easy facial animation"
+    },
+    {
+      "name": "Plotagon",
+      "url": "plotagon.com",
+      "reason": "Enables quick creation of animated videos"
+    }
+  ],
+  "tags": [
+    "digital media",
+    "content creation",
+    "virtual actors",
+    "performance generation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mirage.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mirage%20studio&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/mirage_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mirage_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mirage_app_400.png",
+  "updatedAt": "2025-07-08T03:17:43.923Z"
+}

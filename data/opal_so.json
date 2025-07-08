@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://opal.so/",
+  "name": "Opal",
+  "title": "opal.so",
+  "payoff": "The #1 Screen Time App",
+  "shortDescription": "Opal is designed to help users manage and reduce their screen time effectively. It's ideal for individuals seeking to enhance productivity and mental well-being by minimizing digital distractions. Users can set blocks on specific apps and track their focus, making it easier to maintain a healthy life balance. For example, a student might use Opal to block social media apps during study hours to prevent distractions.",
+  "pros": [
+    "Tracks and improves focus",
+    "Blocks distracting apps",
+    "Enhances mental well-being"
+  ],
+  "cons": [
+    "Limited to iOS devices",
+    "May not block all distractions",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Freedom [freedom.to]",
+    "RescueTime [rescuetime.com]",
+    "StayFocusd [stayfocusd.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Freedom",
+      "url": "freedom.to",
+      "reason": "Blocks digital distractions across devices"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Provides detailed productivity insights"
+    },
+    {
+      "name": "StayFocusd",
+      "url": "stayfocusd.com",
+      "reason": "Limits time spent on distracting sites"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "screen time management",
+    "focus enhancement",
+    "digital well-being"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://opal.so/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=opal&type=repositories",
+  "twitterUrl": "https://twitter.com/vivianphung/status/1354193262689579014?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Ecollection%3A1322428140166160385%7Ctwgr%5EeyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19%7Ctwcon%5Etimelinechrome&ref_url=https%3A%2F%2Fwww.opal.so%2Flove",
+  "screenshot": "https://share.appsfor.us/screenshots/opal_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/opal_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/opal_so_400.png",
+  "updatedAt": "2025-07-08T03:19:03.583Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://creators.snapchat.com/",
+  "name": "Snapchat",
+  "title": "creators.snapchat.com",
+  "payoff": "Create, grow, and monetize content",
+  "shortDescription": "Snapchat allows creators to produce and share content, engage with a large audience, and monetize their efforts. It's designed for individuals who want to express their authentic selves and connect with over 460 million daily active users. Creators can use features like augmented reality tools and gain insights into audience behaviors and trends.",
+  "pros": [
+    "Large, engaged user base",
+    "Augmented reality integration",
+    "Monetization opportunities"
+  ],
+  "cons": [
+    "Primarily younger demographic",
+    "Content visibility can be fleeting",
+    "Competitive platform"
+  ],
+  "alternatives": [
+    "Instagram [instagram.com]",
+    "TikTok [tiktok.com]",
+    "YouTube [youtube.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Instagram",
+      "url": "instagram.com",
+      "reason": "Offers similar social and creative tools"
+    },
+    {
+      "name": "TikTok",
+      "url": "tiktok.com",
+      "reason": "Focus on short, engaging video content"
+    },
+    {
+      "name": "YouTube",
+      "url": "youtube.com",
+      "reason": "Broad audience and monetization via video"
+    }
+  ],
+  "tags": [
+    "social media",
+    "content creation",
+    "audience engagement",
+    "monetization"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://creators.snapchat.com/",
+  "documentationUrl": "https://help.snapchat.com/hc?utm_source=creators_snapchat_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US",
+  "githubUrl": "https://github.com/search?q=snapchat&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/creators_snapchat_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/creators_snapchat_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/creators_snapchat_com_400.png",
+  "updatedAt": "2025-07-08T03:18:11.305Z"
+}

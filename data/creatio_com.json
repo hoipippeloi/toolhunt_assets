@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://creatio.com/",
+  "name": "Creatio",
+  "title": "creatio.com",
+  "payoff": "Automate CRM with No-Code AI",
+  "shortDescription": "Creatio offers a no-code platform that leverages AI to automate CRM and workflow processes. It is designed for businesses looking to enhance productivity and customer engagement without requiring extensive technical skills. An example use case is a marketing team automating their customer segmentation and outreach, significantly reducing manual effort and improving response times.",
+  "pros": [
+    "AI-native for advanced automation",
+    "No-code platform enhances accessibility",
+    "Rapid deployment and user adoption"
+  ],
+  "cons": [
+    "May be less flexible than code-based solutions",
+    "Potential high cost for full features",
+    "Limited customization for complex needs"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]",
+    "Zoho CRM [zoho.com/crm]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Offers free CRM with marketing tools"
+    },
+    {
+      "name": "Pipedrive",
+      "url": "pipedrive.com",
+      "reason": "Focus on sales pipeline management"
+    },
+    {
+      "name": "Freshsales",
+      "url": "freshworks.com/freshsales-crm",
+      "reason": "Integrates with Freshworks suite"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "no-code",
+    "workflow automation",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://creatio.com/",
+  "documentationUrl": "https://academy.creatio.com/documents",
+  "githubUrl": "https://github.com/search?q=creatio&type=repositories",
+  "twitterUrl": "https://twitter.com/en/privacy",
+  "screenshot": "https://share.appsfor.us/screenshots/creatio_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/creatio_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/creatio_com_400.png",
+  "updatedAt": "2025-07-08T03:16:53.537Z"
+}

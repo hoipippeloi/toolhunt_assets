@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://aide.dev/",
+  "name": "Aide",
+  "title": "aide.dev",
+  "payoff": "Better than D*vin.",
+  "shortDescription": "Aide is a software tool designed to enhance coding workflows through its integration with GitHub. It allows users to run agents in parallel, automating the pull request workflow and improving codebase management. Ideal for developers and teams seeking efficient coding solutions, Aide offers features like SWE-Bench #1 Agent and CodeStory, making it a top choice for those looking to streamline their development processes.",
+  "pros": [
+    "GitHub native integration",
+    "Automated PR workflow",
+    "Parallel agent execution"
+  ],
+  "cons": [
+    "Limited to GitHub",
+    "Potential learning curve for new users",
+    "May require adjustments for large teams"
+  ],
+  "alternatives": [
+    "GitLab [gitlab.com]",
+    "Bitbucket [bitbucket.org]",
+    "Jenkins [jenkins.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitLab",
+      "url": "gitlab.com",
+      "reason": "Offers comprehensive devops platform."
+    },
+    {
+      "name": "Bitbucket",
+      "url": "bitbucket.org",
+      "reason": "Integrates with other Atlassian tools."
+    },
+    {
+      "name": "Jenkins",
+      "url": "jenkins.io",
+      "reason": "Highly customizable with plugins."
+    }
+  ],
+  "tags": [
+    "development",
+    "automation",
+    "code management",
+    "GitHub"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://aide.dev/",
+  "documentationUrl": "https://aide.dev/docs",
+  "githubUrl": "https://github.com/search?q=aide&type=repositories",
+  "twitterUrl": "https://twitter.com/aide_dev",
+  "screenshot": "https://share.appsfor.us/screenshots/aide_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/aide_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/aide_dev_400.png",
+  "updatedAt": "2025-07-08T03:17:19.746Z"
+}

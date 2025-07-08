@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://typescale.io/",
+  "name": "Typescale",
+  "title": "typescale.io",
+  "payoff": "Harmonious typographic scales",
+  "shortDescription": "Typescale is a plugin designed for Figma, XD, and Penpot that allows users to generate a modular scale for typography with ease. Ideal for designers, this tool simplifies the process of creating a typographic scale by multiplying a base font size by a chosen ratio. Users can quickly adjust the scale to achieve subtle or dramatic differences in their design projects. An example use case is a designer working on a digital ad campaign who needs to establish a visually appealing hierarchy in text elements.",
+  "pros": [
+    "Easy integration with popular design tools",
+    "Quick generation of typographic scales",
+    "Flexible scaling options for different design needs"
+  ],
+  "cons": [
+    "Limited to certain design platforms",
+    "No advanced typographic features",
+    "Dependent on external software updates"
+  ],
+  "alternatives": [
+    "Fontjoy [fontjoy.com]",
+    "Typekit by Adobe [adobe.com]",
+    "Google Fonts [fonts.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Fontjoy",
+      "url": "fontjoy.com",
+      "reason": "Generates font pairings for design"
+    },
+    {
+      "name": "Typekit by Adobe",
+      "url": "adobe.com",
+      "reason": "Offers a wide range of fonts and tools"
+    },
+    {
+      "name": "Google Fonts",
+      "url": "fonts.google.com",
+      "reason": "Free, wide selection of web fonts"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "typography",
+    "plugin",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://typescale.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=typescale&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/typescale_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typescale_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typescale_io_400.png",
+  "updatedAt": "2025-07-08T03:18:30.715Z"
+}
