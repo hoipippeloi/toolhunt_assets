@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://capjs.js.org/",
+  "name": "Cap",
+  "title": "capjs.js.org",
+  "payoff": "Lightning-quick PoW captcha solution",
+  "shortDescription": "Cap is a modern, lightweight CAPTCHA solution that leverages proof-of-work (PoW) to enhance security and privacy. It is designed for developers looking to protect their websites from bots without compromising user experience. Cap is easy to integrate, supports multiple modes including invisible and floating, and is fully customizable. Ideal for securing forms, APIs, and login pages against automated threats.",
+  "pros": [
+    "Lightweight and fast",
+    "Enhanced privacy with no user tracking",
+    "Fully open-source and customizable"
+  ],
+  "cons": [
+    "Requires JavaScript and WASM support",
+    "May increase load times due to PoW",
+    "Limited to web applications"
+  ],
+  "alternatives": [
+    "reCAPTCHA [google.com/recaptcha]",
+    "hCaptcha [hcaptcha.com]",
+    "Cloudflare Turnstile [cloudflare.com/turnstile]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "reCAPTCHA",
+      "url": "google.com/recaptcha",
+      "reason": "Popular, with advanced risk analysis"
+    },
+    {
+      "name": "hCaptcha",
+      "url": "hcaptcha.com",
+      "reason": "Focuses on user privacy and rewards"
+    },
+    {
+      "name": "Cloudflare Turnstile",
+      "url": "cloudflare.com/turnstile",
+      "reason": "Non-interactive, seamless user experience"
+    }
+  ],
+  "tags": [
+    "CAPTCHA",
+    "security",
+    "open source",
+    "web development"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://capjs.js.org/",
+  "documentationUrl": "https://capjs.js.org/docs",
+  "githubUrl": "https://github.com/tiagorangel1/cap",
+  "twitterUrl": "https://x.com/0xtiago_",
+  "screenshot": "https://share.appsfor.us/screenshots/capjs_js_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/capjs_js_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/capjs_js_org_400.png",
+  "updatedAt": "2025-07-09T01:07:14.317Z"
+}

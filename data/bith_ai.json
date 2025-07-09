@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bith.ai/",
+  "name": "Bith.ai",
+  "title": "bith.ai",
+  "payoff": "Create Content Effortlessly",
+  "shortDescription": "Bith.ai revolutionizes content creation by enabling users to transform ideas into videos, images, and more with AI. It's designed for both beginners and professionals, offering features like AI-powered voiceovers in multiple languages and intuitive video editing tools. Ideal for marketers and content creators, Bith.ai simplifies the creation of engaging visual content.",
+  "pros": [
+    "AI-powered content creation tools",
+    "Supports multiple languages for voiceovers",
+    "User-friendly interface for all skill levels"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Dependent on AI accuracy and limitations",
+    "Potential privacy concerns with AI-generated content"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Lumen5 [lumen5.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers easy design tools with templates"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional templates and branding options"
+    },
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "AI-driven video creation platform"
+    }
+  ],
+  "tags": [
+    "content creation",
+    "AI",
+    "video editing",
+    "multimedia"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://bith.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=bith%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/BithTvOfficial",
+  "screenshot": "https://share.appsfor.us/screenshots/bith_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bith_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bith_ai_400.png",
+  "updatedAt": "2025-07-09T01:09:38.982Z"
+}

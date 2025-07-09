@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bolddesk.com/",
+  "name": "BoldDesk",
+  "title": "bolddesk.com",
+  "payoff": "Smarter Support for Teams",
+  "shortDescription": "BoldDesk is an AI-driven customer service software designed to enhance team collaboration and efficiency in handling support tickets. It is tailored for businesses of all sizes, allowing unlimited agent access without additional costs. An example use case includes enterprises integrating BoldDesk to streamline customer interactions and automate repetitive tasks, thereby improving response times and customer satisfaction.",
+  "pros": [
+    "Unlimited agent access on all plans",
+    "Real-time collaboration features",
+    "Free migration services offered"
+  ],
+  "cons": [
+    "May be complex to set up for smaller teams",
+    "Limited customization options",
+    "Dependent on third-party integrations for some features"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Help Scout [helpscout.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Offers extensive customization and integration"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Features gamification for agent motivation"
+    },
+    {
+      "name": "Help Scout",
+      "url": "helpscout.com",
+      "reason": "Focuses on simplicity and user-friendly design"
+    }
+  ],
+  "tags": [
+    "customer service",
+    "AI",
+    "ticket management",
+    "team collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2022,
+  "websiteUrl": "https://bolddesk.com/",
+  "documentationUrl": "https://bolddesk.com/documentation",
+  "githubUrl": "https://github.com/search?q=bolddesk&type=repositories",
+  "twitterUrl": "https://twitter.com/bolddesk",
+  "screenshot": "https://share.appsfor.us/screenshots/bolddesk_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bolddesk_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bolddesk_com_400.png",
+  "updatedAt": "2025-07-09T01:10:12.881Z"
+}

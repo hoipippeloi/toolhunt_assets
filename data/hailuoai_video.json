@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hailuoai.video/",
+  "name": "Hailuo AI",
+  "title": "hailuoai.video",
+  "payoff": "Transform Idea to Visual with AI",
+  "shortDescription": "Hailuo AI leverages artificial intelligence to transform simple image inputs into dynamic video content. It's designed for creatives, marketers, and content creators who need to quickly generate visual narratives from static images. For example, users can upload a photo of a car and get a video of it navigating through an animated cityscape.",
+  "pros": [
+    "Easy to use interface",
+    "High-quality video output",
+    "Rapid content generation"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Depends on image quality",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "DeepArt [deepart.io]",
+    "RunwayML [runwayml.com]",
+    "Artbreeder [artbreeder.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DeepArt",
+      "url": "deepart.io",
+      "reason": "Transforms photos into artworks"
+    },
+    {
+      "name": "RunwayML",
+      "url": "runwayml.com",
+      "reason": "Offers creative AI tools"
+    },
+    {
+      "name": "Artbreeder",
+      "url": "artbreeder.com",
+      "reason": "Blends images to create new visuals"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "content creation",
+    "image to video"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hailuoai.video/",
+  "documentationUrl": "https://hailuoai.video/docs",
+  "githubUrl": "https://github.com/search?q=hailuo%20ai&type=repositories",
+  "twitterUrl": "https://x.com/hailuo_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/hailuoai_video.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hailuoai_video_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hailuoai_video_400.png",
+  "updatedAt": "2025-07-09T01:08:27.116Z"
+}

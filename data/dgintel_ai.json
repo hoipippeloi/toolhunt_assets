@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dgintel.ai/",
+  "name": "DGi",
+  "title": "dgintel.ai",
+  "payoff": "AI-powered data platform",
+  "shortDescription": "DGi, powered by Datagran, is a revolutionary AI-driven data platform that enables users to build workflows, code, and BI dashboards without traditional backend or frontend structures. It's designed for data professionals and businesses looking to integrate and automate their data processes efficiently. Users can connect to databases, filter data, schedule jobs, and even create and share custom dashboards.",
+  "pros": [
+    "Fully AI-driven with no need for backend or frontend",
+    "Flexible data workflows and automation capabilities",
+    "Interactive UI generated on-demand for various tasks"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Experimental nature might pose reliability issues",
+    "Limited information on security and compliance"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Airtable [airtable.com]",
+    "Zapier [zapier.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database and spreadsheet"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Focuses on workflow automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data workflows",
+    "automation",
+    "dashboard creation"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://dgintel.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=dgi&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/dgintel_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dgintel_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dgintel_ai_400.png",
+  "updatedAt": "2025-07-09T01:07:52.512Z"
+}
