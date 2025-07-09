@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://storyblok.com/",
+  "name": "Storyblok",
+  "title": "storyblok.com",
+  "payoff": "Joyful Headless CMS",
+  "shortDescription": "Storyblok is a headless CMS that combines a visual editor with an API-first, component-based architecture. It is designed for developers, marketers, and content teams, enabling them to build and manage content-rich websites and digital experiences efficiently. Users can start a project with popular frameworks like React or Vue in just five minutes, making it ideal for rapid development and deployment.",
+  "pros": [
+    "Visual editor integrated with headless CMS",
+    "Supports multiple frameworks like React, Vue",
+    "Extensive API and customization options"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Potentially overwhelming for non-technical users",
+    "Higher learning curve compared to traditional CMS"
+  ],
+  "alternatives": [
+    "Contentful [contentful.com]",
+    "WordPress [wordpress.org]",
+    "Sanity.io [sanity.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Contentful",
+      "url": "contentful.com",
+      "reason": "API-driven, flexible content structure"
+    },
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Extensive plugins and themes available"
+    },
+    {
+      "name": "Sanity.io",
+      "url": "sanity.io",
+      "reason": "Real-time collaboration features"
+    }
+  ],
+  "tags": [
+    "headless CMS",
+    "content management",
+    "API",
+    "visual editor"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://storyblok.com/",
+  "documentationUrl": "https://www.storyblok.com/docs",
+  "githubUrl": "https://github.com/search?q=storyblok&type=repositories",
+  "twitterUrl": "https://www.twitter.com/storyblok",
+  "screenshot": "https://share.appsfor.us/screenshots/storyblok_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/storyblok_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/storyblok_com_400.png",
+  "updatedAt": "2025-07-09T03:19:14.174Z"
+}

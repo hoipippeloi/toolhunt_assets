@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://voice.google.com/u/0/about",
+  "name": "Google Voice",
+  "title": "voice.google.com",
+  "payoff": "Efficient cloud phone system",
+  "shortDescription": "Google Voice is a versatile cloud-based phone system designed for both individuals and businesses. It enables users to make and receive calls across various devices including mobiles, laptops, and supported deskphones. This tool integrates seamlessly with other Google services like Gmail, Google Meet, and Google Calendar, enhancing productivity and communication efficiency. Ideal for maintaining connectivity in remote work settings or while on-the-go.",
+  "pros": [
+    "Integrates with Google services",
+    "AI features to block spam and transcribe voicemails",
+    "Easy management through an admin console"
+  ],
+  "cons": [
+    "Limited to certain countries",
+    "Dependent on internet connectivity",
+    "May not support all external hardware natively"
+  ],
+  "alternatives": [
+    "RingCentral [ringcentral.com]",
+    "Nextiva [nextiva.com]",
+    "8x8 [8x8.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "RingCentral",
+      "url": "ringcentral.com",
+      "reason": "Offers broader device support"
+    },
+    {
+      "name": "Nextiva",
+      "url": "nextiva.com",
+      "reason": "Provides advanced CRM features"
+    },
+    {
+      "name": "8x8",
+      "url": "8x8.com",
+      "reason": "Strong international calling features"
+    }
+  ],
+  "tags": [
+    "cloud phone system",
+    "communication",
+    "AI",
+    "Google integration"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://voice.google.com/u/0/about",
+  "documentationUrl": "https://support.google.com/voice",
+  "githubUrl": "https://github.com/search?q=google%20voice&type=repositories",
+  "twitterUrl": "https://x.com/googleworkspace",
+  "screenshot": "https://share.appsfor.us/screenshots/voice_google_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/voice_google_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/voice_google_com_400.png",
+  "updatedAt": "2025-07-09T03:20:01.546Z"
+}

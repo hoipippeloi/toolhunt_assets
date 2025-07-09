@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fitiq.io/",
+  "name": "fitIQ",
+  "title": "fitiq.io",
+  "payoff": "Supercharge your WHOOP Analytics",
+  "shortDescription": "fitIQ enhances the analysis of WHOOP fitness tracker data, providing users with deep insights beyond daily metrics. It's designed for athletes, fitness enthusiasts, and health-conscious individuals who want to optimize their physical performance and recovery. Users can easily integrate their WHOOP data, enjoy enterprise-grade security, and benefit from clear, actionable insights. An example use case is a professional athlete using fitIQ to analyze long-term performance trends and recovery needs.",
+  "pros": [
+    "Advanced analytics on WHOOP data",
+    "Easy setup and user-friendly interface",
+    "Strong focus on data privacy and security"
+  ],
+  "cons": [
+    "Limited to WHOOP users",
+    "No mention of mobile app availability",
+    "Potential complexity in data interpretation for beginners"
+  ],
+  "alternatives": [
+    "Garmin Connect [garmin.com]",
+    "Polar Flow [polar.com]",
+    "Suunto App [suunto.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Garmin Connect",
+      "url": "garmin.com",
+      "reason": "Offers comprehensive fitness tracking"
+    },
+    {
+      "name": "Polar Flow",
+      "url": "polar.com",
+      "reason": "Focuses on detailed sports analytics"
+    },
+    {
+      "name": "Suunto App",
+      "url": "suunto.com",
+      "reason": "Provides robust outdoor sports features"
+    }
+  ],
+  "tags": [
+    "fitness analytics",
+    "data privacy",
+    "user engagement",
+    "health tracking"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://fitiq.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=fitiq&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/fitiq_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fitiq_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fitiq_io_400.png",
+  "updatedAt": "2025-07-09T03:19:36.619Z"
+}

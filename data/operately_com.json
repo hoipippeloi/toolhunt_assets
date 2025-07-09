@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://operately.com/",
+  "name": "Operately",
+  "title": "operately.com",
+  "payoff": "Open Source Startup Operating System",
+  "shortDescription": "Operately is an open-source platform designed to streamline startup operations by integrating projects, goals, and processes in one place. Ideal for startups struggling with fragmented systems like project management tools and Notion documents, Operately offers a structured approach with built-in accountability. An example use case is a startup using Operately to align their daily tasks with long-term goals, ensuring strategic alignment and operational efficiency.",
+  "pros": [
+    "Integrates projects, goals, and processes in one platform",
+    "Open source with built-in accountability features",
+    "Helps align long-term visions with daily operations"
+  ],
+  "cons": [
+    "May require technical skill to deploy and customize",
+    "Limited third-party integrations compared to competitors",
+    "Open source model might not suit all business needs"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Monday.com [monday.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Feature-rich project management tool"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Highly customizable workflow platform"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Simple, card-based task management"
+    }
+  ],
+  "tags": [
+    "open source",
+    "project management",
+    "startup management",
+    "operational efficiency"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://operately.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/operately/operately",
+  "twitterUrl": "https://x.com/operately",
+  "screenshot": "https://share.appsfor.us/screenshots/operately_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/operately_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/operately_com_400.png",
+  "updatedAt": "2025-07-09T03:21:00.840Z"
+}

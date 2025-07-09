@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rize.io/",
+  "name": "Rize",
+  "title": "rize.io",
+  "payoff": "Maximize Your Productivity",
+  "shortDescription": "Rize is an advanced AI-driven time tracking tool designed to enhance productivity for individuals and teams. It automates the tracking of time spent on projects, clients, and tasks, reducing the need for manual input. Ideal for freelancers, managers, and researchers, Rize helps users focus, manage distractions, and optimize time management through features like app blocking and focus music. An example use case is a freelancer using Rize to track time across various projects, ensuring accurate billing and efficient work habits.",
+  "pros": [
+    "AI-driven automatic time tracking",
+    "Real-time productivity insights",
+    "Features for focus and distraction management"
+  ],
+  "cons": [
+    "Limited data retention in free version",
+    "Primarily suitable for desktop use",
+    "Annual billing required for lower monthly rates"
+  ],
+  "alternatives": [
+    "Toggl Track [toggl.com]",
+    "Harvest [getharvest.com]",
+    "Time Doctor [timedoctor.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Offers flexible time tracking with a simple interface"
+    },
+    {
+      "name": "Harvest",
+      "url": "getharvest.com",
+      "reason": "Includes invoicing and expense tracking features"
+    },
+    {
+      "name": "Time Doctor",
+      "url": "timedoctor.com",
+      "reason": "Focuses on remote team monitoring and management"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "productivity",
+    "AI",
+    "task management"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://rize.io/",
+  "documentationUrl": "https://rize.io/user-guide",
+  "githubUrl": "https://github.com/search?q=rize&type=repositories",
+  "twitterUrl": "https://twitter.com/wrgoto",
+  "screenshot": "https://share.appsfor.us/screenshots/rize_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rize_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rize_io_400.png",
+  "updatedAt": "2025-07-09T03:21:30.380Z"
+}
