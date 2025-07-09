@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://picocss.com/",
+  "name": "Pico CSS",
+  "title": "picocss.com",
+  "payoff": "Minimal CSS for Semantic HTML",
+  "shortDescription": "Pico CSS is a minimalist and lightweight CSS framework designed for semantic HTML. It enhances HTML elements to be responsive and elegant by default without the need for extensive class usage. Ideal for developers seeking a clean design system, Pico CSS simplifies web styling by applying direct styles to HTML tags and offering a class-less version for purists. An example use case is building a responsive website quickly with semantic HTML and minimal CSS.",
+  "pros": [
+    "Lightweight with no dependencies",
+    "Supports responsive design natively",
+    "Offers class-less version for simplicity"
+  ],
+  "cons": [
+    "Limited styling options compared to larger frameworks",
+    "May not suit complex web applications",
+    "Less community support than more popular frameworks"
+  ],
+  "alternatives": [
+    "Bootstrap [getbootstrap.com]",
+    "Tailwind CSS [tailwindcss.com]",
+    "Bulma [bulma.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "More components and JS integration"
+    },
+    {
+      "name": "Tailwind CSS",
+      "url": "tailwindcss.com",
+      "reason": "Utility-first approach, highly customizable"
+    },
+    {
+      "name": "Foundation",
+      "url": "get.foundation",
+      "reason": "Flexible and enterprise-focused"
+    }
+  ],
+  "tags": [
+    "CSS framework",
+    "web design",
+    "responsive design",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://picocss.com/",
+  "documentationUrl": "https://picocss.com/docs/",
+  "githubUrl": "https://github.com/picocss/pico",
+  "twitterUrl": "https://x.com/picocss",
+  "screenshot": "https://share.appsfor.us/screenshots/picocss_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/picocss_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/picocss_com_400.png",
+  "updatedAt": "2025-07-09T04:32:07.110Z"
+}
