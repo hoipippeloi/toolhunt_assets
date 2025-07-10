@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://filetract.com/",
+  "name": "FileTract",
+  "title": "filetract.com",
+  "payoff": "AI Transaction Insights & Management",
+  "shortDescription": "FileTract leverages AI to enhance document management and transaction insights for businesses. It automatically extracts, organizes, and analyzes financial documents, reducing manual data entry and improving efficiency. Ideal for companies looking to streamline financial workflows, FileTract integrates with accounting software like QuickBooks and offers robust security features. An example use case includes automating expense tracking and tax preparation, facilitating faster month-end closes.",
+  "pros": [
+    "Automates financial document management",
+    "Integrates with existing accounting software",
+    "Provides robust security and encryption"
+  ],
+  "cons": [
+    "Limited to financial documents",
+    "No clear pricing information available",
+    "Currently supports limited accounting platforms"
+  ],
+  "alternatives": [
+    "Expensify [expensify.com]",
+    "Hubdoc [hubdoc.com]",
+    "Receipt Bank [receipt-bank.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Expensify",
+      "url": "expensify.com",
+      "reason": "Focuses on expense reports and receipts"
+    },
+    {
+      "name": "Hubdoc",
+      "url": "hubdoc.com",
+      "reason": "Automates financial document collation"
+    },
+    {
+      "name": "Receipt Bank",
+      "url": "receipt-bank.com",
+      "reason": "Streamlines data extraction from receipts"
+    }
+  ],
+  "tags": [
+    "AI",
+    "document management",
+    "financial workflow",
+    "transaction insights"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://filetract.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=filetract&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/filetract_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/filetract_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/filetract_com_400.png",
+  "updatedAt": "2025-07-10T01:07:37.500Z"
+}

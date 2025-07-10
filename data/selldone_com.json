@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://selldone.com/",
+  "name": "Selldone",
+  "title": "selldone.com",
+  "payoff": "Replace infinite plugins with one",
+  "shortDescription": "Selldone is an enterprise-grade, no-code business operating system designed to streamline the management and scaling of businesses. It supports handling millions of orders and automates workflow processes. Ideal for non-technical founders, it allows users to focus on sales and operations without worrying about the technical complexities. Example use case: A startup can use Selldone to manage their entire online store operations, including order processing, inventory management, and customer relations, all from one platform.",
+  "pros": [
+    "No-code platform",
+    "Handles millions of orders",
+    "Automates workflow efficiently"
+  ],
+  "cons": [
+    "Potentially expensive for startups",
+    "May have a learning curve",
+    "Limited customization due to no-code nature"
+  ],
+  "alternatives": [
+    "Shopify [shopify.com]",
+    "BigCommerce [bigcommerce.com]",
+    "Wix [wix.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shopify",
+      "url": "shopify.com",
+      "reason": "Popular e-commerce platform with extensive features"
+    },
+    {
+      "name": "BigCommerce",
+      "url": "bigcommerce.com",
+      "reason": "Offers robust e-commerce tools for growing businesses"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Provides easy-to-use website and e-commerce builder"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "business OS",
+    "enterprise-grade",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "E-commerce",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://selldone.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=selldone&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/selldone_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/selldone_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/selldone_com_400.png",
+  "updatedAt": "2025-07-10T01:10:52.098Z"
+}

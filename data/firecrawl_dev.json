@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://firecrawl.dev/extract",
+  "name": "Extract",
+  "title": "firecrawl.dev",
+  "payoff": "Effortless web data extraction",
+  "shortDescription": "Extract transforms entire websites into structured data using AI, eliminating the need for manual web scraping. It is designed for businesses and developers who require reliable, scalable data extraction across various websites. An example use case is lead enrichment where users can integrate Extract with their CRM to automatically update and enrich contact data.",
+  "pros": [
+    "AI-driven data extraction adapts to site updates",
+    "Simple API integration",
+    "Scalable to thousands of pages"
+  ],
+  "cons": [
+    "Cost could be prohibitive for small businesses",
+    "May require technical knowledge to integrate",
+    "Limited customization options for data extraction"
+  ],
+  "alternatives": [
+    "Diffbot [diffbot.com]",
+    "Scrapy [scrapy.org]",
+    "ParseHub [parsehub.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Diffbot",
+      "url": "diffbot.com",
+      "reason": "Offers AI-driven data extraction"
+    },
+    {
+      "name": "Scrapy",
+      "url": "scrapy.org",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "User-friendly interface for non-coders"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "AI",
+    "API"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://firecrawl.dev/extract",
+  "documentationUrl": "https://firecrawl.dev/api-reference",
+  "githubUrl": "https://github.com/mendableai/firecrawl",
+  "twitterUrl": "https://x.com/firecrawl_dev",
+  "screenshot": "https://share.appsfor.us/screenshots/firecrawl_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/firecrawl_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/firecrawl_dev_400.png",
+  "updatedAt": "2025-07-10T01:08:12.827Z"
+}

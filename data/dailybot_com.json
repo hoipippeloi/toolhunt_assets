@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://dailybot.com/",
+  "name": "DailyBot",
+  "title": "dailybot.com",
+  "payoff": "Automated team check-ins",
+  "shortDescription": "DailyBot is a tool designed for software and product teams to streamline their daily check-ins and updates. It automates standups and other routine meetings, allowing teams to collaborate more efficiently without synchronous meetings. An example use case is using DailyBot for daily standup updates, where team members can asynchronously report their progress, blockers, and plans.",
+  "pros": [
+    "Automates routine updates and meetings",
+    "Supports multiple languages and time zones",
+    "Integrates AI for summarizing updates"
+  ],
+  "cons": [
+    "May reduce personal interaction",
+    "Dependent on chat platform integration",
+    "Potential for information overload"
+  ],
+  "alternatives": [
+    "Standuply [standuply.com]",
+    "Geekbot [geekbot.com]",
+    "ScrumGenius [scrumgenius.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Standuply",
+      "url": "standuply.com",
+      "reason": "Offers automated standup meetings"
+    },
+    {
+      "name": "Geekbot",
+      "url": "geekbot.com",
+      "reason": "Focuses on asynchronous standups"
+    },
+    {
+      "name": "ScrumGenius",
+      "url": "scrumgenius.com",
+      "reason": "Automates daily scrum meetings"
+    }
+  ],
+  "tags": [
+    "team collaboration",
+    "automation",
+    "asynchronous communication"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://dailybot.com/",
+  "documentationUrl": "https://dailybot.com/docs",
+  "githubUrl": "https://github.com/search?q=dailybot&type=repositories",
+  "twitterUrl": "https://x.com/dailybot",
+  "screenshot": "https://share.appsfor.us/screenshots/dailybot_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dailybot_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dailybot_com_400.png",
+  "updatedAt": "2025-07-10T01:09:49.114Z"
+}

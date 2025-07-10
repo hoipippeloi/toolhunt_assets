@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mitzu.io/",
+  "name": "Mitzu",
+  "title": "mitzu.io",
+  "payoff": "Analytics for high-volume datasets",
+  "shortDescription": "Mitzu provides advanced customer journey analytics tailored for handling high-volume datasets directly from your data warehouse. It is designed for businesses looking to gain deep insights into user behavior without compromising on data security. Example use case includes optimizing conversion rates by understanding user paths and behaviors in real-time.",
+  "pros": [
+    "Direct integration with data warehouses",
+    "Scalable analytics solutions",
+    "High data privacy and ownership"
+  ],
+  "cons": [
+    "May require technical setup",
+    "Limited to data warehouse integration",
+    "Potentially complex for beginners"
+  ],
+  "alternatives": [
+    "Heap Analytics [heap.io]",
+    "Mixpanel [mixpanel.com]",
+    "Amplitude [amplitude.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Heap Analytics",
+      "url": "heap.io",
+      "reason": "Offers automatic data capture"
+    },
+    {
+      "name": "Mixpanel",
+      "url": "mixpanel.com",
+      "reason": "Focuses on user interaction tracking"
+    },
+    {
+      "name": "Amplitude",
+      "url": "amplitude.com",
+      "reason": "Strong in product analytics"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "customer journey",
+    "data privacy",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mitzu.io/",
+  "documentationUrl": "https://mitzu.io/docs",
+  "githubUrl": "https://github.com/search?q=mitzu&type=repositories",
+  "twitterUrl": "https://www.beeswax.com/cookies/",
+  "screenshot": "https://share.appsfor.us/screenshots/mitzu_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mitzu_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mitzu_io_400.png",
+  "updatedAt": "2025-07-10T01:08:54.149Z"
+}

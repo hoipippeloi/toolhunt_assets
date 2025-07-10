@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://readpo.com",
+  "name": "ReadPo",
+  "title": "readpo.com",
+  "payoff": "Speed Up Reading & Writing",
+  "shortDescription": "ReadPo is an AI-powered tool designed to enhance the efficiency of reading and writing tasks. It helps users collect, curate, and create content quickly, making it ideal for knowledge workers, bloggers, and content creators. Example use case: A blogger uses ReadPo to quickly gather information and generate a summarized post on trending topics.",
+  "pros": [
+    "AI-powered efficiency",
+    "Supports content aggregation",
+    "Generates summaries and articles"
+  ],
+  "cons": [
+    "Limited free tier usage",
+    "API access not yet available",
+    "May require learning curve for new users"
+  ],
+  "alternatives": [
+    "Reader [reader.com]",
+    "ReadWise [readwise.io]",
+    "Notion [notion.so]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Feedly",
+      "url": "feedly.com",
+      "reason": "Popular RSS reader for content aggregation"
+    },
+    {
+      "name": "Copy.ai",
+      "url": "copy.ai",
+      "reason": "AI tool for generating marketing copy"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible content management system"
+    }
+  ],
+  "tags": [
+    "AI",
+    "content management",
+    "reading",
+    "writing"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://readpo.com",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=readpo&type=repositories",
+  "twitterUrl": "https://x.com/readpo_com",
+  "screenshot": "https://share.appsfor.us/screenshots/readpo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/readpo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/readpo_com_400.png",
+  "updatedAt": "2025-07-10T01:09:18.359Z"
+}
