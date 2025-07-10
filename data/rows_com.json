@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rows.com/about",
+  "name": "Rows",
+  "title": "rows.com",
+  "payoff": "Empower app creators with spreadsheets",
+  "shortDescription": "Rows transforms the traditional spreadsheet experience into a powerful tool for building applications without coding. It's designed for business professionals who wish to leverage their spreadsheet skills to create, share, and manage tools with rich data and intuitive interfaces. An example use case is a marketing team using Rows to develop custom reporting tools that integrate seamlessly with their existing data sources.",
+  "pros": [
+    "No coding required to build apps",
+    "Seamless integrations with other tools",
+    "Intuitive interface with advanced features"
+  ],
+  "cons": [
+    "May not replace complex coding for advanced needs",
+    "Limited by spreadsheet paradigms",
+    "Potential learning curve for advanced features"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Google Sheets [google.com/sheets]",
+    "Smartsheet [smartsheet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers a visual database with similar no-code features"
+    },
+    {
+      "name": "Google Sheets",
+      "url": "google.com/sheets",
+      "reason": "Widely used with extensive integration options"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "smartsheet.com",
+      "reason": "Focuses on project management with spreadsheet-like interface"
+    }
+  ],
+  "tags": [
+    "spreadsheets",
+    "no-code",
+    "data management",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Internal Apps",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://rows.com/about",
+  "documentationUrl": "https://rows.com/docs",
+  "githubUrl": "https://github.com/rows/hiring",
+  "twitterUrl": "https://twitter.com/RowsHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/rows_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rows_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rows_com_400.png",
+  "updatedAt": "2025-07-10T04:29:09.224Z"
+}

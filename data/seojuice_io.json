@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://seojuice.io/",
+  "name": "SEOJuice",
+  "title": "seojuice.io",
+  "payoff": "Automate your SEO tasks easily",
+  "shortDescription": "SEOJuice offers a comprehensive suite of tools designed to automate 95% of SEO tasks, making it ideal for non-tech founders and busy marketers. Users can enhance their website's SEO through features like AI-powered internal linking and automated meta tags. An example use case is a small business owner using SEOJuice to improve search rankings without needing deep technical knowledge.",
+  "pros": [
+    "Supports any CMS",
+    "No coding required",
+    "Cost-effective SEO automation"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on AI accuracy",
+    "Potential over-optimization risks"
+  ],
+  "alternatives": [
+    "Moz Pro [moz.com]",
+    "SEMrush [semrush.com]",
+    "Ahrefs [ahrefs.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Moz Pro",
+      "url": "moz.com",
+      "reason": "Comprehensive SEO toolkit"
+    },
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Broad digital marketing tools"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Strong backlink analysis tool"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "automation",
+    "AI-powered",
+    "internal linking"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://seojuice.io/",
+  "documentationUrl": "https://help.seojuice.io/",
+  "githubUrl": "https://github.com/search?q=seojuice&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/seojuice_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/seojuice_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/seojuice_io_400.png",
+  "updatedAt": "2025-07-10T04:28:48.170Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://moonvalley.com/",
+  "name": "moonvalley",
+  "title": "moonvalley.com",
+  "payoff": "Direct every detail of creation",
+  "shortDescription": "Moonvalley is a research company focused on enhancing creative processes in media production. It offers tools like MAREY and VOYAGER, designed for creators who need robust, licensed solutions for commercial projects. An example use case is a filmmaker using MAREY to streamline pre-production tasks while ensuring all content is ready for commercial use.",
+  "pros": [
+    "Fully licensed for commercial use",
+    "Designed specifically for media production",
+    "Offers advanced creative tools like MAREY"
+  ],
+  "cons": [
+    "Limited information on pricing",
+    "VOYAGER still in closed beta",
+    "API access on waitlist"
+  ],
+  "alternatives": [
+    "Adobe Creative Cloud [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "Avid Media Composer [avid.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Creative Cloud",
+      "url": "adobe.com",
+      "reason": "Comprehensive creative suite for professionals"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Popular video editing software for Mac users"
+    },
+    {
+      "name": "Avid Media Composer",
+      "url": "avid.com",
+      "reason": "Industry-standard for professional film editing"
+    }
+  ],
+  "tags": [
+    "media production",
+    "creative tools",
+    "commercial use",
+    "film making"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://moonvalley.com/",
+  "documentationUrl": "https://help.moonvalley.com/",
+  "githubUrl": "https://github.com/search?q=moonvalley&type=repositories",
+  "twitterUrl": "https://x.com/moonvalley",
+  "screenshot": "https://share.appsfor.us/screenshots/moonvalley_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/moonvalley_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/moonvalley_com_400.png",
+  "updatedAt": "2025-07-10T04:29:32.982Z"
+}
