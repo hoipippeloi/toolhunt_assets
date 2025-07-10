@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://umobix.com/",
+  "name": "uMobix",
+  "title": "umobix.com",
+  "payoff": "Cell Phone Tracker for Parents",
+  "shortDescription": "uMobix is a comprehensive mobile monitoring solution designed for modern parents who want to ensure their children's safety in the digital world. It allows parents to track over 40 apps, view call logs, read messages, and monitor social media interactions. Parents can also control device access, ensuring children are not exposed to harmful content. An example use case is a parent monitoring their child's interactions on social media to prevent cyberbullying.",
+  "pros": [
+    "Extensive monitoring of over 40 apps",
+    "Real-time location tracking",
+    "Remote control of device access"
+  ],
+  "cons": [
+    "Privacy concerns for monitored individuals",
+    "Potential misuse for unauthorized surveillance",
+    "Requires physical access for installation"
+  ],
+  "alternatives": [
+    "Qustodio [qustodio.com]",
+    "Net Nanny [netnanny.com]",
+    "Norton Family [us.norton.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Qustodio",
+      "url": "qustodio.com",
+      "reason": "Offers comprehensive parental control features."
+    },
+    {
+      "name": "Net Nanny",
+      "url": "netnanny.com",
+      "reason": "Focuses on web filtering and time management."
+    },
+    {
+      "name": "Norton Family",
+      "url": "us.norton.com",
+      "reason": "Includes location tracking and web supervision."
+    }
+  ],
+  "tags": [
+    "parental control",
+    "mobile monitoring",
+    "child safety",
+    "digital wellbeing"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Remote Control",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://umobix.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=umobix&type=repositories",
+  "twitterUrl": "https://umobix.com/iphone-tracker.html",
+  "screenshot": "https://share.appsfor.us/screenshots/umobix_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/umobix_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/umobix_com_400.png",
+  "updatedAt": "2025-07-10T03:21:29.165Z"
+}

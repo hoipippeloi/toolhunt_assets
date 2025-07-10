@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://uisnapper.xyz/",
+  "name": "UIsnapper",
+  "title": "uisnapper.xyz",
+  "payoff": "Transform UI Screenshots Into Prompts",
+  "shortDescription": "UIsnapper enables developers and vibe coders to quickly transform UI screenshots into detailed prompts for recreating interfaces using AI tools. This tool is ideal for speeding up frontend development by providing analysis on colors, typography, and spacing. Users can generate multi-page applications or complete landing pages without starting from scratch, making it a valuable asset in modern web development.",
+  "pros": [
+    "Speeds up frontend development",
+    "Detailed analysis of UI components",
+    "Supports multiple types of UI generation"
+  ],
+  "cons": [
+    "Limited to UI development",
+    "First 10 users only for early bird pricing",
+    "May not replace detailed human design insights"
+  ],
+  "alternatives": [
+    "Figma [figma.com]",
+    "Sketch [sketch.com]",
+    "Adobe XD [adobe.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Offers collaborative UI design tools"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Focused on vector UI design"
+    },
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Comprehensive UX/UI design platform"
+    }
+  ],
+  "tags": [
+    "UI development",
+    "AI tools",
+    "frontend development",
+    "screenshot analysis"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://uisnapper.xyz/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=uisnapper&type=repositories",
+  "twitterUrl": "https://x.com/TihamTahir",
+  "screenshot": "https://share.appsfor.us/screenshots/uisnapper_xyz.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/uisnapper_xyz_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/uisnapper_xyz_400.png",
+  "updatedAt": "2025-07-10T03:19:35.860Z"
+}

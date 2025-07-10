@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://buildchatbot.ai/",
+  "name": "Build Chatbot",
+  "title": "buildchatbot.ai",
+  "payoff": "Engage visitors with AI chatbots",
+  "shortDescription": "Build Chatbot enables businesses to create custom AI chatbots for their websites, enhancing user interaction and customer service. It's designed for businesses looking to improve engagement and automate responses. Users can quickly set up a chatbot, integrate it with mobile apps, and manage interactions on the go. An example use case is a retail website using Build Chatbot to handle customer inquiries, thereby increasing engagement and sales.",
+  "pros": [
+    "Quick and easy setup",
+    "Mobile app integration for on-the-go management",
+    "High customization to match brand identity"
+  ],
+  "cons": [
+    "May require technical skill for advanced features",
+    "Potential dependency on app updates",
+    "Limited to chat functionalities"
+  ],
+  "alternatives": [
+    "ManyChat [manychat.com]",
+    "Chatfuel [chatfuel.com]",
+    "MobileMonkey [mobilemonkey.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ManyChat",
+      "url": "manychat.com",
+      "reason": "Offers extensive bot customization"
+    },
+    {
+      "name": "Chatfuel",
+      "url": "chatfuel.com",
+      "reason": "Focuses on automation for Facebook"
+    },
+    {
+      "name": "MobileMonkey",
+      "url": "mobilemonkey.com",
+      "reason": "Strong in SMS marketing features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "chatbot",
+    "customer engagement",
+    "real-time communication"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://buildchatbot.ai/",
+  "documentationUrl": "https://buildchatbot.ai/docs",
+  "githubUrl": "https://github.com/search?q=build%20chatbot&type=repositories",
+  "twitterUrl": "https://twitter.com/buildchatbotAI",
+  "screenshot": "https://share.appsfor.us/screenshots/buildchatbot_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/buildchatbot_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/buildchatbot_ai_400.png",
+  "updatedAt": "2025-07-10T03:19:09.432Z"
+}

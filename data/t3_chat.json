@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://t3.chat/",
+  "name": "T3 Chat",
+  "title": "t3.chat",
+  "payoff": "Premium AI models for $8/month",
+  "shortDescription": "T3 Chat provides access to advanced AI models, including GPT-4 and Claude, at an affordable price. It's designed for users seeking powerful AI tools for enhancing productivity and creativity in various fields. An example use case is a small business leveraging AI for customer service automation and data analysis, improving response times and insights.",
+  "pros": [
+    "Access to premium AI models",
+    "Affordable monthly subscription",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependence on internet connectivity",
+    "Potential data privacy concerns"
+  ],
+  "alternatives": [
+    "ChatGPT [openai.com]",
+    "Claude AI [anthropic.com]",
+    "DeepSeek [deepseek.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ChatGPT",
+      "url": "openai.com",
+      "reason": "Popular AI chatbot with advanced capabilities."
+    },
+    {
+      "name": "Claude AI",
+      "url": "anthropic.com",
+      "reason": "AI tool focusing on ethical AI usage."
+    },
+    {
+      "name": "DeepSeek",
+      "url": "deepseek.ai",
+      "reason": "AI for deep content understanding."
+    }
+  ],
+  "tags": [
+    "AI chat",
+    "ChatGPT alternative",
+    "AI assistant",
+    "AI models"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://t3.chat/",
+  "documentationUrl": "https://t3.chat/docs",
+  "githubUrl": "https://github.com/search?q=t3%20chat&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/t3_chat.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/t3_chat_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/t3_chat_400.png",
+  "updatedAt": "2025-07-10T03:22:13.916Z"
+}

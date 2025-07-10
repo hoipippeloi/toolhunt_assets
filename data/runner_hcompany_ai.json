@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://runner.hcompany.ai/",
+  "name": "Runner H",
+  "title": "runner.hcompany.ai",
+  "payoff": "Automate anything",
+  "shortDescription": "Runner H is designed to help businesses automate repetitive tasks, enhancing efficiency and reducing manual errors. It is ideal for IT departments and developers looking to streamline operations. An example use case could be automating data entry tasks or scheduling regular data backups.",
+  "pros": [
+    "Enhances operational efficiency",
+    "Reduces manual errors",
+    "Easily integrates with existing systems"
+  ],
+  "cons": [
+    "May require technical knowledge to set up",
+    "Limited customization options",
+    "Potential compatibility issues with legacy systems"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Automate.io [automate.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers more app integrations and triggers"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simpler interface for non-tech users"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Deep integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "automation",
+    "task management",
+    "productivity",
+    "IT"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://runner.hcompany.ai/",
+  "documentationUrl": "https://runner.hcompany.ai/docs",
+  "githubUrl": "https://github.com/search?q=runner%20h&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/runner_hcompany_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/runner_hcompany_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/runner_hcompany_ai_400.png",
+  "updatedAt": "2025-07-10T03:20:01.180Z"
+}
