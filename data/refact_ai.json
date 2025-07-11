@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://refact.ai/",
+  "name": "Refact.ai",
+  "title": "refact.ai",
+  "payoff": "Transform software development with AI",
+  "shortDescription": "Refact.ai is an open-source, autonomous AI agent designed to assist developers by integrating directly into their IDEs. It automates coding tasks by predicting next lines of code and offering accurate autocompletions using advanced AI models like Qwen2.5-Coder and RAG. Ideal for developers looking to enhance productivity and precision in coding across multiple programming languages.",
+  "pros": [
+    "Supports 25+ programming languages",
+    "Integrates with GitHub, databases, CI/CD pipelines",
+    "Advanced AI models for code prediction and completion"
+  ],
+  "cons": [
+    "Limited free tier usage",
+    "Requires familiarity with IDE integration",
+    "Potential privacy concerns with codebase access"
+  ],
+  "alternatives": [
+    "GitHub Copilot [copilot.github.com]",
+    "Kite [kite.com]",
+    "Tabnine [tabnine.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer by GitHub"
+    },
+    {
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "Code faster with AI completions"
+    },
+    {
+      "name": "Tabnine",
+      "url": "tabnine.com",
+      "reason": "AI code completions for devs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "software development",
+    "IDE integration",
+    "open source"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://refact.ai/",
+  "documentationUrl": "https://refact.ai/docs",
+  "githubUrl": "https://github.com/smallcloudai",
+  "twitterUrl": "https://twitter.com/refact_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/refact_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/refact_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/refact_ai_400.png",
+  "updatedAt": "2025-07-11T06:22:24.413Z"
+}

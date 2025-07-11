@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://home-assistant.io/",
+  "name": "Home Assistant",
+  "title": "home-assistant.io",
+  "payoff": "Local control and privacy first automation",
+  "shortDescription": "Home Assistant is an open-source home automation platform that prioritizes local control and privacy. It supports integration with over a thousand devices and services, enabling users to manage their smart homes efficiently. Users can automate tasks like turning lights on at sunset or managing energy usage, all processed locally without relying on the cloud.",
+  "pros": [
+    "Highly customizable and flexible",
+    "Strong community support",
+    "Prioritizes local data processing for privacy"
+  ],
+  "cons": [
+    "Requires technical knowledge for setup",
+    "Limited cloud functionality",
+    "Dependent on community contributions for updates"
+  ],
+  "alternatives": [
+    "SmartThings [smartthings.com]",
+    "IFTTT [ifttt.com]",
+    "openHAB [openhab.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SmartThings",
+      "url": "smartthings.com",
+      "reason": "Offers broader device compatibility"
+    },
+    {
+      "name": "openHAB",
+      "url": "openhab.org",
+      "reason": "Similar open-source platform with flexibility"
+    },
+    {
+      "name": "Domoticz",
+      "url": "domoticz.com",
+      "reason": "Another open-source alternative with active community"
+    }
+  ],
+  "tags": [
+    "home automation",
+    "open source",
+    "privacy",
+    "smart home"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2013,
+  "websiteUrl": "https://home-assistant.io/",
+  "documentationUrl": "https://www.home-assistant.io/docs/",
+  "githubUrl": "https://github.com/home-assistant/",
+  "twitterUrl": "https://www.linux.com/news/home-assistant-python-approach-home-automation-video",
+  "screenshot": "https://share.appsfor.us/screenshots/home_assistant_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/home_assistant_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/home_assistant_io_400.png",
+  "updatedAt": "2025-07-11T06:21:56.703Z"
+}
