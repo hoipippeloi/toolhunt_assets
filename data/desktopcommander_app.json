@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://desktopcommander.app/",
+  "name": "Desktop Commander MCP",
+  "title": "desktopcommander.app",
+  "payoff": "All-in-one AI development tool",
+  "shortDescription": "Desktop Commander MCP integrates coding, file access, terminal commands, and automation into a single platform, specifically designed for developers using Claude Desktop. It eliminates the need for separate tools, ensuring a streamlined workflow. Example use case: A software engineer can manage code, automate tasks, and deploy updates directly through the platform.",
+  "pros": [
+    "Integrates multiple development tools into one platform",
+    "Subscription model more cost-effective than per-API token",
+    "Supports cross-platform compatibility (Windows, macOS, Linux)"
+  ],
+  "cons": [
+    "Limited to users of Claude Desktop",
+    "Daily usage limits based on subscription tier",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "Atom [atom.io]",
+    "Sublime Text [sublimetext.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Extensive plugin ecosystem"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and customizable"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and lightweight editor"
+    }
+  ],
+  "tags": [
+    "AI",
+    "development tools",
+    "automation",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://desktopcommander.app/",
+  "documentationUrl": "https://desktopcommander.app/docs",
+  "githubUrl": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "twitterUrl": "https://x.com/DCommander_MCP",
+  "screenshot": "https://share.appsfor.us/screenshots/desktopcommander_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/desktopcommander_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/desktopcommander_app_400.png",
+  "updatedAt": "2025-07-11T04:36:17.307Z"
+}

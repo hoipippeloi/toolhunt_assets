@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://superset.apache.org/",
+  "name": "Superset",
+  "title": "superset.apache.org",
+  "payoff": "Self-serve analytics for anyone",
+  "shortDescription": "Apache Superset is a powerful data exploration tool that enables users to visualize and analyze their data with ease. It supports a wide range of SQL-based databases, including cloud-native systems, and offers over 40 pre-installed visualization types. Users can create robust charts and dashboards through a drag-and-drop interface or by writing custom SQL queries. Ideal for data analysts and businesses looking to leverage existing data infrastructure without additional layers.",
+  "pros": [
+    "Supports a wide range of SQL databases",
+    "Over 40 pre-installed visualization types",
+    "Highly scalable and lightweight architecture"
+  ],
+  "cons": [
+    "Limited to SQL-based databases",
+    "Requires familiarity with SQL for advanced features",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.microsoft.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics and BI"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates deeply with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers advanced BI and big data analytics"
+    }
+  ],
+  "tags": [
+    "data visualization",
+    "analytics",
+    "open source",
+    "SQL"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://superset.apache.org/",
+  "documentationUrl": "https://superset.apache.org/docs/intro",
+  "githubUrl": "https://github.com/apache/superset",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/superset_apache_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/superset_apache_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/superset_apache_org_400.png",
+  "updatedAt": "2025-07-11T04:35:30.642Z"
+}

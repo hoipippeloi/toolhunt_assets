@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://storybook.app/",
+  "name": "Storybook",
+  "title": "storybook.app",
+  "payoff": "Magical Storytelling",
+  "shortDescription": "Storybook is a web-based editor designed for writers and storytellers to craft and share enchanting tales. It provides tools for writing, exporting, and sharing stories, making it ideal for authors, educators, and content creators. An example use case could be a teacher creating interactive stories for classroom activities.",
+  "pros": [
+    "Easy-to-use web-based editor",
+    "Export and share capabilities",
+    "Designed specifically for storytelling"
+  ],
+  "cons": [
+    "Limited to storytelling",
+    "No offline functionality",
+    "May lack advanced editing features"
+  ],
+  "alternatives": [
+    "Wattpad [wattpad.com]",
+    "Medium [medium.com]",
+    "Scribblitt [scribblitt.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wattpad",
+      "url": "wattpad.com",
+      "reason": "Popular platform for writers to publish stories"
+    },
+    {
+      "name": "Medium",
+      "url": "medium.com",
+      "reason": "Broader content platform with strong community"
+    },
+    {
+      "name": "Scribblitt",
+      "url": "scribblitt.com",
+      "reason": "Focuses on young writers and educational tools"
+    }
+  ],
+  "tags": [
+    "storytelling",
+    "content creation",
+    "education",
+    "writing"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://storybook.app/",
+  "documentationUrl": "https://help.storybook.app/",
+  "githubUrl": "https://github.com/search?q=storybook&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/storybook_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/storybook_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/storybook_app_400.png",
+  "updatedAt": "2025-07-11T04:34:29.334Z"
+}

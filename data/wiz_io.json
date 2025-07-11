@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://wiz.io/",
+  "name": "Wiz",
+  "title": "wiz.io",
+  "payoff": "Modern Cloud Protection",
+  "shortDescription": "Wiz is a comprehensive cloud security platform designed to enhance protection across multiple cloud environments. It's tailored for security, dev, and devops teams, promoting a unified approach to cloud security. By integrating seamlessly with existing cloud infrastructures, Wiz offers agentless visibility, risk prioritization, and runtime protection. Ideal for large enterprises, such as those in the Fortune 100, Wiz helps in managing security posture and responding to threats efficiently.",
+  "pros": [
+    "Unified cloud security platform",
+    "Agentless risk prioritization and visibility",
+    "Trusted by over 50% of Fortune 100 companies"
+  ],
+  "cons": [
+    "May be complex to integrate for smaller teams",
+    "Could be overkill for non-cloud environments",
+    "Potentially high cost for small businesses"
+  ],
+  "alternatives": [
+    "Palo Alto Networks Prisma Cloud [prismacloud.io]",
+    "McAfee MVISION Cloud [mcafee.com]",
+    "Trend Micro Cloud One [trendmicro.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Palo Alto Networks Prisma Cloud",
+      "url": "prismacloud.io",
+      "reason": "Offers comprehensive cloud security"
+    },
+    {
+      "name": "McAfee MVISION Cloud",
+      "url": "mcafee.com",
+      "reason": "Focuses on cloud security and compliance"
+    },
+    {
+      "name": "Trend Micro Cloud One",
+      "url": "trendmicro.com",
+      "reason": "Provides layered security services"
+    }
+  ],
+  "tags": [
+    "cloud security",
+    "risk management",
+    "threat detection",
+    "cloud protection"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://wiz.io/",
+  "documentationUrl": "https://wiz.io/documentation",
+  "githubUrl": "https://github.com/search?q=wiz&type=repositories",
+  "twitterUrl": "https://twitter.com/wiz_io",
+  "screenshot": "https://share.appsfor.us/screenshots/wiz_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wiz_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wiz_io_400.png",
+  "updatedAt": "2025-07-11T04:34:07.133Z"
+}

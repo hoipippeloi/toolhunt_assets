@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fitonapp.com/",
+  "name": "FitOn",
+  "title": "fitonapp.com",
+  "payoff": "Free Fitness App for Home Workouts",
+  "shortDescription": "FitOn offers unlimited access to a variety of fitness and wellness content including workouts, meditation, and nutrition plans. It's designed for individuals looking to improve their health without the need for gym equipment. Users can exercise with celebrity trainers and access personalized meal plans. An example use case is someone using the app to follow a custom fitness program to achieve personal health goals.",
+  "pros": [
+    "Unlimited access to diverse workout programs",
+    "No equipment needed for most workouts",
+    "Features celebrity trainers and personalized plans"
+  ],
+  "cons": [
+    "May require strong self-motivation",
+    "Limited offline functionality",
+    "Potential lack of in-depth personalized coaching"
+  ],
+  "alternatives": [
+    "Nike Training Club [nike.com]",
+    "Daily Burn [dailyburn.com]",
+    "Peloton [onepeloton.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Nike Training Club",
+      "url": "nike.com",
+      "reason": "Offers guided workouts and training plans"
+    },
+    {
+      "name": "Daily Burn",
+      "url": "dailyburn.com",
+      "reason": "Provides a variety of video workout programs"
+    },
+    {
+      "name": "Peloton",
+      "url": "onepeloton.com",
+      "reason": "Includes equipment-based and app-only workouts"
+    }
+  ],
+  "tags": [
+    "fitness app",
+    "wellness",
+    "home workout",
+    "nutrition tracking"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://fitonapp.com/",
+  "documentationUrl": "https://help.fitonapp.com/?ref=header",
+  "githubUrl": "https://github.com/search?q=fiton&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/fitonapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fitonapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fitonapp_com_400.png",
+  "updatedAt": "2025-07-11T04:34:58.402Z"
+}

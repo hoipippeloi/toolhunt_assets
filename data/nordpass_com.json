@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nordpass.com/",
+  "name": "NordPass",
+  "title": "nordpass.com",
+  "payoff": "Secure every login effortlessly",
+  "shortDescription": "NordPass serves as a comprehensive password management solution designed for both individual and corporate use. It offers robust security features to protect sensitive data across various industries, including IT, finance, and marketing. An example use case is a software development team utilizing NordPass to manage and share secure credentials efficiently, enhancing their operational security.",
+  "pros": [
+    "Industry-leading security standards",
+    "Supports team and enterprise plans",
+    "Extensive partner network"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially high cost for enterprise solutions",
+    "Complexity in initial setup for large teams"
+  ],
+  "alternatives": [
+    "LastPass [lastpass.com]",
+    "1Password [1password.com]",
+    "Dashlane [dashlane.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "LastPass",
+      "url": "lastpass.com",
+      "reason": "Offers similar password management features"
+    },
+    {
+      "name": "1Password",
+      "url": "1password.com",
+      "reason": "Highly reputed for user-friendly interface"
+    },
+    {
+      "name": "Dashlane",
+      "url": "dashlane.com",
+      "reason": "Known for advanced security features"
+    }
+  ],
+  "tags": [
+    "password management",
+    "security",
+    "credential management",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://nordpass.com/",
+  "documentationUrl": "https://nordpass.com/features/business-password-manager/",
+  "githubUrl": "https://github.com/search?q=nordpass&type=repositories",
+  "twitterUrl": "https://twitter.com/NordPass",
+  "screenshot": "https://share.appsfor.us/screenshots/nordpass_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nordpass_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nordpass_com_400.png",
+  "updatedAt": "2025-07-11T04:35:55.144Z"
+}
