@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://open.cx/",
+  "name": "Open",
+  "title": "open.cx",
+  "payoff": "AI-powered customer support",
+  "shortDescription": "Open is an advanced AI customer support platform designed to handle complex support requests across multiple channels including web, email, and phone. It integrates seamlessly with existing helpdesk systems or functions as a standalone solution. Ideal for enterprise companies looking to enhance their customer support with AI capabilities, Open allows for training AI agents easily and managing backend tasks efficiently.",
+  "pros": [
+    "Supports multiple communication channels",
+    "Integrates with existing helpdesk systems",
+    "Capability to train AI agents"
+  ],
+  "cons": [
+    "May require technical knowledge to setup",
+    "Potential high cost for enterprise use",
+    "Limited customization options reported"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Intercom [intercom.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Popular customer support tool with robust features"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Focus on streamlined user experience and automation"
+    },
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Strong in user engagement and messaging features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "customer support",
+    "enterprise",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://open.cx/",
+  "documentationUrl": "https://docs.open.cx/",
+  "githubUrl": "https://github.com/search?q=open&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/open_cx.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/open_cx_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/open_cx_400.png",
+  "updatedAt": "2025-07-11T03:25:52.068Z"
+}

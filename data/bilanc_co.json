@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bilanc.co/",
+  "name": "Bilanc",
+  "title": "bilanc.co",
+  "payoff": "Enhance AI-driven engineering productivity",
+  "shortDescription": "Bilanc leverages AI to enhance engineering productivity by analyzing and scoring the complexity of tasks, code quality, and engineers' codebase understanding. It is designed for engineering teams looking to optimize their workflows and resource allocation. An example use case is a software development company using Bilanc to receive weekly AI-driven insights and reports to improve project management and team performance.",
+  "pros": [
+    "AI-driven productivity scoring",
+    "Weekly insights and reports",
+    "Easy integration with existing projects"
+  ],
+  "cons": [
+    "May require adaptation for non-engineering contexts",
+    "Dependent on data quality for accurate insights",
+    "Potential privacy concerns with data handling"
+  ],
+  "alternatives": [
+    "Jira Software [atlassian.com/software/jira]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira Software",
+      "url": "atlassian.com/software/jira",
+      "reason": "Popular for project management and tracking"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task and project management"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers customizable workflow automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "engineering",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://bilanc.co/",
+  "documentationUrl": "https://bilanc.co/docs",
+  "githubUrl": "https://github.com/Bilanc",
+  "twitterUrl": "https://twitter.com/bilancfinance",
+  "screenshot": "https://share.appsfor.us/screenshots/bilanc_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bilanc_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bilanc_co_400.png",
+  "updatedAt": "2025-07-11T03:27:52.333Z"
+}

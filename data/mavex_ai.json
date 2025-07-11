@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mavex.ai/",
+  "name": "Mavy",
+  "title": "mavex.ai",
+  "payoff": "Smart Scheduling AI Assistant",
+  "shortDescription": "Mavy acts as an AI executive assistant specializing in smart scheduling. It integrates with your email to manage appointments by simply being added to CC. Users can set up their working hours, and Mavy handles all the scheduling details, including the back-and-forth of emails. Ideal for busy professionals, it streamlines the process of organizing meetings without additional software. Example: CC Mavy in an email to schedule a meeting effortlessly.",
+  "pros": [
+    "Automates scheduling by handling email communications",
+    "No additional software installation required",
+    "Integrates seamlessly with Gmail and Microsoft accounts"
+  ],
+  "cons": [
+    "Dependent on email usage for functionality",
+    "May not handle complex scheduling scenarios",
+    "Limited to Gmail and Microsoft email platforms"
+  ],
+  "alternatives": [
+    "Calendly [calendly.com]",
+    "Doodle [doodle.com]",
+    "x.ai [x.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Calendly",
+      "url": "calendly.com",
+      "reason": "Popular for easy scheduling integration"
+    },
+    {
+      "name": "Doodle",
+      "url": "doodle.com",
+      "reason": "Offers group scheduling options"
+    },
+    {
+      "name": "x.ai",
+      "url": "x.ai",
+      "reason": "AI-driven personal assistant for scheduling"
+    }
+  ],
+  "tags": [
+    "AI",
+    "scheduling",
+    "email tools",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Administration",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://mavex.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mavy&type=repositories",
+  "twitterUrl": "https://twitter.com/mavex_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/mavex_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mavex_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mavex_ai_400.png",
+  "updatedAt": "2025-07-11T03:28:26.500Z"
+}

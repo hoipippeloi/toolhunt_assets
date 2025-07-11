@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spring.new/",
+  "name": "spring.new",
+  "title": "spring.new",
+  "payoff": "Build Apps with AI",
+  "shortDescription": "spring.new enables users to create custom business applications quickly using AI. It is designed to cater to businesses needing rapid app development with seamless integrations. Users can transform their ideas into functional apps using natural language and deploy them in various environments. An example use case could be a small business automating their internal processes without extensive coding knowledge.",
+  "pros": [
+    "Rapid development of business apps",
+    "Seamless integration with various tools",
+    "Deployment in multiple environments"
+  ],
+  "cons": [
+    "May not offer deep customization",
+    "Potentially limited by AI understanding",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "AppSheet [appsheet.com]",
+    "Zapier [zapier.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers more control over UI and logic"
+    },
+    {
+      "name": "AppSheet",
+      "url": "appsheet.com",
+      "reason": "No-code platform with Google support"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Focuses on automation with app integration"
+    }
+  ],
+  "tags": [
+    "AI",
+    "app development",
+    "integration",
+    "rapid deployment"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2022,
+  "websiteUrl": "https://spring.new/",
+  "documentationUrl": "https://spring.new/docs",
+  "githubUrl": "https://github.com/springdotnew",
+  "twitterUrl": "https://x.com/springnewapp",
+  "screenshot": "https://share.appsfor.us/screenshots/spring_new.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/spring_new_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/spring_new_400.png",
+  "updatedAt": "2025-07-11T03:25:17.595Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://layouts.dev/",
+  "name": "Layouts.dev",
+  "title": "layouts.dev",
+  "payoff": "Build interfaces with Tailwind easily",
+  "shortDescription": "Layouts.dev is a notebook-style editor designed for building user interfaces using Tailwind CSS. It eliminates the need for setup, deployment, or server management, making it ideal for developers who want to focus on design without the overhead. Users can start for free, making it accessible for beginners and professionals who want to prototype quickly.",
+  "pros": [
+    "No setup or deployment required",
+    "Free to start building",
+    "Notebook-style interface for ease of use"
+  ],
+  "cons": [
+    "Limited to Tailwind CSS",
+    "No clear information on advanced features",
+    "Beta version may have bugs"
+  ],
+  "alternatives": [
+    "Framer [framer.com]",
+    "Webflow [webflow.com]",
+    "Tilda [tilda.cc]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Framer",
+      "url": "framer.com",
+      "reason": "Offers more interactive design features"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Includes CMS and hosting services"
+    },
+    {
+      "name": "Tilda",
+      "url": "tilda.cc",
+      "reason": "Focuses on content-heavy site design"
+    }
+  ],
+  "tags": [
+    "Design Tools",
+    "Web Development",
+    "CSS Framework",
+    "Interface Design"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://layouts.dev/",
+  "documentationUrl": "https://layouts.dev/docs",
+  "githubUrl": "https://github.com/search?q=layouts%20dev&type=repositories",
+  "twitterUrl": "https://x.com/layoutsdev",
+  "screenshot": "https://share.appsfor.us/screenshots/layouts_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/layouts_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/layouts_dev_400.png",
+  "updatedAt": "2025-07-11T03:26:26.988Z"
+}
