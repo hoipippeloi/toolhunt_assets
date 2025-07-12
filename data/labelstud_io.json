@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://labelstud.io/",
+  "name": "Label Studio",
+  "title": "labelstud.io",
+  "payoff": "Label every data type.",
+  "shortDescription": "Label Studio is a versatile open-source data labeling platform designed to fine-tune large language models, prepare training data, and validate AI models. It supports a wide range of applications including computer vision, audio processing, and NLP. Users can categorize images, detect objects, transcribe audio, and classify documents. An example use case is using Label Studio to optimize machine learning algorithms by pre-labeling images using integrated ML models.",
+  "pros": [
+    "Supports multiple data types",
+    "Community-driven with 17,000+ Slack members",
+    "Flexible and customizable"
+  ],
+  "cons": [
+    "May require technical expertise to set up",
+    "Limited enterprise support compared to paid tools",
+    "Dependent on community for updates and features"
+  ],
+  "alternatives": [
+    "Prodi.gy [prodi.gy]",
+    "DataRobot [datarobot.com]",
+    "Annotate.com [annotate.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Prodi.gy",
+      "url": "prodi.gy",
+      "reason": "Focused on active learning and NLP tasks."
+    },
+    {
+      "name": "DataRobot",
+      "url": "datarobot.com",
+      "reason": "Provides automated machine learning."
+    },
+    {
+      "name": "Annotate.com",
+      "url": "annotate.com",
+      "reason": "Offers cloud-based annotation tools."
+    }
+  ],
+  "tags": [
+    "data labeling",
+    "machine learning",
+    "open source",
+    "AI"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://labelstud.io/",
+  "documentationUrl": "https://labelstud.io/docs/",
+  "githubUrl": "https://github.com/HumanSignal/label-studio/",
+  "twitterUrl": "https://twitter.com/labelstudiohq",
+  "screenshot": "https://share.appsfor.us/screenshots/labelstud_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/labelstud_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/labelstud_io_400.png",
+  "updatedAt": "2025-07-12T04:27:17.996Z"
+}
