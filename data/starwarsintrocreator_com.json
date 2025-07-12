@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://starwarsintrocreator.com/",
+  "name": "Star Wars Intro Creator",
+  "title": "starwarsintrocreator.com",
+  "payoff": "Create custom Star Wars intros",
+  "shortDescription": "Star Wars Intro Creator is a web-based tool designed for Star Wars fans and content creators. It allows users to customize the iconic Star Wars intro sequence with their own text, including episode number, title, and crawl text. Ideal for personalizing video content for events or fan projects, users can instantly view their creation and share it via a unique URL.",
+  "pros": [
+    "Instant playback and editing",
+    "No registration required",
+    "Mobile-friendly interface"
+  ],
+  "cons": [
+    "No official affiliation with Star Wars",
+    "Limited to intro creation",
+    "No advanced video editing features"
+  ],
+  "alternatives": [
+    "IntroCave [introcave.com]",
+    "Renderforest [renderforest.com]",
+    "Biteable [biteable.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "IntroCave",
+      "url": "introcave.com",
+      "reason": "Offers customizable video intros"
+    },
+    {
+      "name": "Renderforest",
+      "url": "renderforest.com",
+      "reason": "Provides broader video editing tools"
+    },
+    {
+      "name": "Biteable",
+      "url": "biteable.com",
+      "reason": "Easy-to-use video maker for intros"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "content creation",
+    "fan engagement"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://starwarsintrocreator.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=star%20wars%20intro%20creator&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/starwarsintrocreator_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/starwarsintrocreator_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/starwarsintrocreator_com_400.png",
+  "updatedAt": "2025-07-12T03:25:38.848Z"
+}

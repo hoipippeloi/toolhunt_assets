@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://agentic.so/",
+  "name": "Agentic",
+  "title": "agentic.so",
+  "payoff": "The App Store for LLM Tools",
+  "shortDescription": "Agentic provides a suite of tools optimized for large language models (LLMs), offering seamless integration via MCP servers and HTTP APIs. Designed specifically for LLM applications, Agentic enhances user experience with easy-to-debug tools and production-ready reliability. Example use case: using @agentic/search to enable LLMs to access web content efficiently.",
+  "pros": [
+    "Optimized specifically for LLM use",
+    "Supports both MCP and HTTP API integrations",
+    "Production-tested tools with real SLAs"
+  ],
+  "cons": [
+    "May be overly specialized for non-LLM use cases",
+    "Dependent on external services like Cloudflare and Stripe",
+    "Limited information on scalability and handling high loads"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "LangChain [langchain.com]",
+    "Vercel AI SDK [vercel.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Leading AI tool provider with advanced APIs"
+    },
+    {
+      "name": "LangChain",
+      "url": "langchain.com",
+      "reason": "Focuses on LLM integration and applications"
+    },
+    {
+      "name": "Vercel AI SDK",
+      "url": "vercel.com",
+      "reason": "Offers seamless integration for developers"
+    }
+  ],
+  "tags": [
+    "LLM tools",
+    "open source",
+    "API",
+    "MCP"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://agentic.so/",
+  "documentationUrl": "https://docs.agentic.so/",
+  "githubUrl": "https://github.com/transitive-bullshit/agentic",
+  "twitterUrl": "https://x.com/transitive_bs",
+  "screenshot": "https://share.appsfor.us/screenshots/agentic_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/agentic_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/agentic_so_400.png",
+  "updatedAt": "2025-07-12T03:24:17.107Z"
+}

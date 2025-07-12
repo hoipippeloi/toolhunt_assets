@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tersa.ai/",
+  "name": "Tersa",
+  "title": "tersa.ai",
+  "payoff": "Visual AI workflow builder",
+  "shortDescription": "Tersa is an open source platform designed to simplify the creation of AI workflows. It utilizes a drag and drop interface allowing users to easily connect nodes and integrate various AI models from top providers like OpenAI. Ideal for developers and tech enthusiasts, Tersa can be used to automate tasks, analyze data, or enhance applications with AI capabilities. An example use case is building a workflow for automated image recognition and data processing.",
+  "pros": [
+    "User-friendly drag and drop interface",
+    "Supports 100 models from 27 top AI providers",
+    "Open source and customizable"
+  ],
+  "cons": [
+    "May require technical knowledge to maximize use",
+    "Limited support compared to commercial tools",
+    "Dependent on third-party AI services"
+  ],
+  "alternatives": [
+    "Node-RED [nodered.org]",
+    "RapidMiner [rapidminer.com]",
+    "KNIME [knime.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Node-RED",
+      "url": "nodered.org",
+      "reason": "Offers visual programming for IoT"
+    },
+    {
+      "name": "RapidMiner",
+      "url": "rapidminer.com",
+      "reason": "Advanced analytics platform"
+    },
+    {
+      "name": "KNIME",
+      "url": "knime.com",
+      "reason": "Data analytics via visual programming"
+    }
+  ],
+  "tags": [
+    "AI",
+    "workflow automation",
+    "open source",
+    "visual builder"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://tersa.ai/",
+  "documentationUrl": "https://help.x.com/en/x-for-websites-ads-info-and-privacy",
+  "githubUrl": "https://github.com/haydenbleasel/tersa",
+  "twitterUrl": "https://x.com/haydenbleasel/status/1923061663437291832",
+  "screenshot": "https://share.appsfor.us/screenshots/tersa_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tersa_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tersa_ai_400.png",
+  "updatedAt": "2025-07-12T03:25:20.214Z"
+}

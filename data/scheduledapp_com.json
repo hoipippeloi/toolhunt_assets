@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://scheduledapp.com/",
+  "name": "Scheduled",
+  "title": "scheduledapp.com",
+  "payoff": "Schedule messages and stay connected",
+  "shortDescription": "Scheduled is a versatile messaging tool designed to enhance communication by allowing users to schedule messages across multiple platforms including iMessage, WhatsApp, Telegram, SMS, and Email. It is ideal for individuals looking to manage personal and professional communications more effectively. Users can automate sending of messages, ensuring they never miss an important occasion or update.",
+  "pros": [
+    "Supports multiple messaging platforms",
+    "Automates message sending",
+    "Enhances personal and professional relationships"
+  ],
+  "cons": [
+    "Dependent on external messaging services",
+    "Potential privacy concerns with message scheduling",
+    "Limited to platforms that support API integration"
+  ],
+  "alternatives": [
+    "Boomerang for Gmail [boomeranggmail.com]",
+    "Later [later.com]",
+    "Zapier [zapier.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Schedules social media posts"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Broad platform support for scheduling"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Email and SMS marketing automation"
+    }
+  ],
+  "tags": [
+    "messaging",
+    "automation",
+    "communication",
+    "scheduling"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://scheduledapp.com/",
+  "documentationUrl": "https://scheduledapp.com/docs",
+  "githubUrl": "https://github.com/search?q=scheduled&type=repositories",
+  "twitterUrl": "https://twitter.com/scheduledappco",
+  "screenshot": "https://share.appsfor.us/screenshots/scheduledapp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/scheduledapp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/scheduledapp_com_400.png",
+  "updatedAt": "2025-07-12T03:23:44.867Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chat4data.ai/",
+  "name": "Chat4Data",
+  "title": "chat4data.ai",
+  "payoff": "Extract web data effortlessly",
+  "shortDescription": "Chat4Data is an AI-powered Chrome extension that simplifies data extraction from websites without requiring coding skills. Targeted at marketers, researchers, and e-commerce professionals, it allows users to gather data using natural language or simple clicks. For example, a marketer can quickly extract customer feedback from various product pages to analyze sentiments and trends.",
+  "pros": [
+    "No coding required for data extraction",
+    "Supports complex HTML structures",
+    "Automates pagination for comprehensive data collection"
+  ],
+  "cons": [
+    "Limited to Chrome extension",
+    "No historical data session storage",
+    "Currently only supports Excel file format"
+  ],
+  "alternatives": [
+    "Import.io [import.io]",
+    "Octoparse [octoparse.com]",
+    "ParseHub [parsehub.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Import.io",
+      "url": "import.io",
+      "reason": "Offers advanced data extraction"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "Automates web data extraction"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Supports complex data scraping"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "AI",
+    "Chrome extension"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://chat4data.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=chat4data&type=repositories",
+  "twitterUrl": "https://x.com/chat4data",
+  "screenshot": "https://share.appsfor.us/screenshots/chat4data_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chat4data_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chat4data_ai_400.png",
+  "updatedAt": "2025-07-12T03:24:49.623Z"
+}
