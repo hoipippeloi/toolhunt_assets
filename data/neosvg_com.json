@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://neosvg.com/",
+  "name": "neoSVG",
+  "title": "neosvg.com",
+  "payoff": "Create SVG from text prompts",
+  "shortDescription": "neoSVG leverages state-of-the-art AI to transform text prompts into scalable vector graphics (SVGs). Ideal for designers and developers, this tool supports applications in web design, mobile, print media, and more. Users can expect high-resolution outputs thanks to the use of Bezier curves, ensuring that images can be scaled infinitely without loss of quality. Generate complex SVGs in minutes, perfect for UI/UX design and logos.",
+  "pros": [
+    "High-resolution SVG outputs",
+    "Fast generation times",
+    "Supports multiple applications"
+  ],
+  "cons": [
+    "Limited to SVG format",
+    "Requires credits for operations",
+    "No explicit free tier mentioned"
+  ],
+  "alternatives": [
+    "Adobe Illustrator [adobe.com]",
+    "Inkscape [inkscape.org]",
+    "CorelDRAW [coreldraw.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com",
+      "reason": "Industry-standard vector graphic editor"
+    },
+    {
+      "name": "Inkscape",
+      "url": "inkscape.org",
+      "reason": "Open source vector graphics editor"
+    },
+    {
+      "name": "CorelDRAW",
+      "url": "coreldraw.com",
+      "reason": "Powerful graphic design software"
+    }
+  ],
+  "tags": [
+    "AI",
+    "SVG generation",
+    "design tools",
+    "vector graphics"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://neosvg.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=neosvg&type=repositories",
+  "twitterUrl": "https://twitter.com/neosvgofficial",
+  "screenshot": "https://share.appsfor.us/screenshots/neosvg_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/neosvg_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/neosvg_com_400.png",
+  "updatedAt": "2025-07-12T01:11:45.454Z"
+}

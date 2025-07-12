@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://corgea.com/",
+  "name": "Corgea",
+  "title": "corgea.com",
+  "payoff": "AI-driven, comprehensive AppSec",
+  "shortDescription": "Corgea leverages artificial intelligence to enhance application security across various development environments. It is designed for modern development teams aiming to identify and fix vulnerabilities such as exposed credentials and malicious code. An example use case involves integrating Corgea into a software development pipeline to automatically detect security issues and suggest fixes, thereby streamlining the security management process.",
+  "pros": [
+    "Reduces false positives by up to 90%",
+    "Generates ready-to-use code fixes",
+    "Supports over 30 languages and OS ecosystems"
+  ],
+  "cons": [
+    "May require initial setup and configuration",
+    "Dependent on AI accuracy for threat detection",
+    "Potential integration complexities with existing tools"
+  ],
+  "alternatives": [
+    "Snyk [snyk.io]",
+    "Veracode [veracode.com]",
+    "Checkmarx [checkmarx.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Snyk",
+      "url": "snyk.io",
+      "reason": "Offers similar AI-driven security tools"
+    },
+    {
+      "name": "Veracode",
+      "url": "veracode.com",
+      "reason": "Provides comprehensive app security"
+    },
+    {
+      "name": "Checkmarx",
+      "url": "checkmarx.com",
+      "reason": "Focuses on code analysis and security"
+    }
+  ],
+  "tags": [
+    "security",
+    "AI",
+    "appsec",
+    "software development"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://corgea.com/",
+  "documentationUrl": "https://corgea.com/docs",
+  "githubUrl": "https://github.com/search?q=corgea&type=repositories",
+  "twitterUrl": "https://twitter.com/CorgeaInc",
+  "screenshot": "https://share.appsfor.us/screenshots/corgea_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/corgea_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/corgea_com_400.png",
+  "updatedAt": "2025-07-12T01:10:11.438Z"
+}

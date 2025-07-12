@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fortune.app/",
+  "name": "Fortune",
+  "title": "fortune.app",
+  "payoff": "Simplify accounting with AI-driven insights",
+  "shortDescription": "Fortune is an AI-powered accounting software designed for business decision-makers. It automates essential accounting tasks such as report generation and data reconciliation, allowing users to focus on strategic decision-making. Ideal for small to medium-sized businesses, Fortune helps streamline financial processes without the need for manual intervention, making it easier to manage finances efficiently and effectively.",
+  "pros": [
+    "Automates report generation",
+    "Ensures data security",
+    "User-friendly analytics interface"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not support all international accounting standards",
+    "Dependent on data quality"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "FreshBooks [freshbooks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used for diverse accounting needs"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong in cloud-based financial management"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Focuses on invoicing and financial reporting"
+    }
+  ],
+  "tags": [
+    "AI accounting",
+    "financial software",
+    "business intelligence",
+    "data analytics"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://fortune.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=fortune&type=repositories",
+  "twitterUrl": "https://twitter.com/theFortuneApp",
+  "screenshot": "https://share.appsfor.us/screenshots/fortune_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fortune_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fortune_app_400.png",
+  "updatedAt": "2025-07-12T01:12:48.630Z"
+}

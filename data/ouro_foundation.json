@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ouro.foundation/",
+  "name": "Ouro",
+  "title": "ouro.foundation",
+  "payoff": "Earn from your digital work",
+  "shortDescription": "Ouro is a platform designed for the creator economy, focusing on the future of work. It serves creatives like designers, engineers, scientists, and artists who collaborate on impactful projects. Users can join existing teams or start new ones to tackle major challenges, using tools like AI and collaborative research. An example use case involves using Ouro's AI agents and APIs to build advanced forecasting models or develop new materials science solutions.",
+  "pros": [
+    "Supports a wide range of creative fields",
+    "Integrates AI for enhanced productivity",
+    "Facilitates collaboration on global challenges"
+  ],
+  "cons": [
+    "May have a steep learning curve for new users",
+    "Focused primarily on technical and creative fields",
+    "Limited information on pricing and plans"
+  ],
+  "alternatives": [
+    "GitHub [github.com]",
+    "Trello [trello.com]",
+    "Slack [slack.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Project management with a focus on tasks"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Combines notes, tasks, and database functions"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Database meets spreadsheet for project management"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "creator economy",
+    "AI",
+    "project management"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ouro.foundation/",
+  "documentationUrl": "https://ouro.foundation/docs",
+  "githubUrl": "https://github.com/ourofoundation",
+  "twitterUrl": "https://x.com/ourofoundation",
+  "screenshot": "https://share.appsfor.us/screenshots/ouro_foundation.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ouro_foundation_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ouro_foundation_400.png",
+  "updatedAt": "2025-07-12T01:11:08.687Z"
+}

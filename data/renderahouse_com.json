@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://renderahouse.com/",
+  "name": "Render a House",
+  "title": "renderahouse.com",
+  "payoff": "Instant photorealistic architectural renders",
+  "shortDescription": "Render a House transforms architectural drawings into stunning photorealistic renders quickly. It supports various drawing types including hand sketches and CAD. Ideal for architects and designers, the tool simplifies the visualization process, allowing for adjustments in lighting, materials, and environment. Users can see their designs come to life in seconds, enhancing client presentations and project planning.",
+  "pros": [
+    "Supports multiple drawing types",
+    "Instant rendering capabilities",
+    "Flexible subscription and payment options"
+  ],
+  "cons": [
+    "Limited to architectural rendering",
+    "May require high-quality inputs for best results",
+    "Subscription can be costly for infrequent users"
+  ],
+  "alternatives": [
+    "V-Ray [chaosgroup.com]",
+    "Lumion [lumion.com]",
+    "Twinmotion [twinmotion.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "V-Ray",
+      "url": "chaosgroup.com",
+      "reason": "Advanced rendering and simulation"
+    },
+    {
+      "name": "Lumion",
+      "url": "lumion.com",
+      "reason": "Real-time 3D visualization"
+    },
+    {
+      "name": "Twinmotion",
+      "url": "twinmotion.com",
+      "reason": "Quick architectural visualization"
+    }
+  ],
+  "tags": [
+    "architectural rendering",
+    "design tools",
+    "visualization",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://renderahouse.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=render%20a%20house&type=repositories",
+  "twitterUrl": "https://x.com/sebipaps",
+  "screenshot": "https://share.appsfor.us/screenshots/renderahouse_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/renderahouse_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/renderahouse_com_400.png",
+  "updatedAt": "2025-07-12T01:12:15.643Z"
+}
