@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tonari.no/",
+  "name": "tonari",
+  "title": "tonari.no",
+  "payoff": "Be together in-person, anywhere",
+  "shortDescription": "Tonari creates portals that simulate in-person interactions across different locations, enhancing communication for teams, families, and educational settings. It uses high-fidelity video and low latency to create a seamless experience that feels like teleportation. For example, companies use Tonari to maintain daily face-to-face contact, boosting decision-making and team morale.",
+  "pros": [
+    "High-fidelity 3K 60fps video enhances clarity",
+    "Sub-100ms latency for natural, real-time interaction",
+    "Seamless integration with existing video conferencing tools"
+  ],
+  "cons": [
+    "High initial purchase cost starting at $24,999",
+    "Requires dedicated space for installation",
+    "Limited by physical hardware requirements"
+  ],
+  "alternatives": [
+    "Zoom [zoom.us]",
+    "Microsoft Teams [microsoft.com/microsoft-teams]",
+    "Cisco Webex [webex.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zoom",
+      "url": "zoom.us",
+      "reason": "Popular for video calls and meetings"
+    },
+    {
+      "name": "Google Meet",
+      "url": "meet.google.com",
+      "reason": "Integrated with Google services"
+    },
+    {
+      "name": "Skype",
+      "url": "skype.com",
+      "reason": "Widely used for personal and business"
+    }
+  ],
+  "tags": [
+    "telepresence",
+    "video conferencing",
+    "collaboration technology",
+    "remote communication"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://tonari.no/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tonari&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tonari_no.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tonari_no_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tonari_no_400.png",
+  "updatedAt": "2025-07-13T01:16:01.657Z"
+}

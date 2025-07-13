@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://picmonkey.com/",
+  "name": "PicMonkey",
+  "title": "picmonkey.com",
+  "payoff": "Empower your brand with design",
+  "shortDescription": "PicMonkey is a comprehensive photo editing and graphic design tool designed for marketers, small businesses, and creatives. Users can create ads, logos, social media graphics, and more with ease. The platform offers a vast array of templates, stock photos, and design features like touch-up tools and artsy effects, making it ideal for enhancing brand identity and online presence.",
+  "pros": [
+    "Extensive template and design options",
+    "Integrated stock photo access",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Subscription required for full features",
+    "No offline functionality",
+    "Limited advanced editing tools"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Crello [crello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers more templates and design flexibility"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Focuses on storytelling and branded content"
+    },
+    {
+      "name": "Crello",
+      "url": "crello.com",
+      "reason": "Similar features with a focus on animation"
+    }
+  ],
+  "tags": [
+    "photo editing",
+    "graphic design",
+    "branding",
+    "social media"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://picmonkey.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=picmonkey&type=repositories",
+  "twitterUrl": "https://x.com/picmonkey",
+  "screenshot": "https://share.appsfor.us/screenshots/picmonkey_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/picmonkey_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/picmonkey_com_400.png",
+  "updatedAt": "2025-07-13T01:15:20.310Z"
+}

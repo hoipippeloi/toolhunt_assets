@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://microagents.io/",
+  "name": "Microagents",
+  "title": "microagents.io",
+  "payoff": "AI agent orchestration gateway",
+  "shortDescription": "Microagents is an open-source platform designed to streamline AI agent deployment and management. It provides tools for seamless communication, intelligent routing, and enterprise-grade reliability, catering to businesses looking to enhance their AI infrastructure. Example use case includes deploying multiple AI agents for real-time data analysis and optimization in large-scale enterprises.",
+  "pros": [
+    "Sub-millisecond routing and load balancing",
+    "Advanced security features including audit logs",
+    "Support for multiple AI protocols and APIs"
+  ],
+  "cons": [
+    "Open-source might require in-house expertise",
+    "May have a steep learning curve for new users",
+    "Limited information on customer support"
+  ],
+  "alternatives": [
+    "Kong Gateway [konghq.com]",
+    "Tyk API Gateway [tyk.io]",
+    "Apigee [apigee.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kong Gateway",
+      "url": "konghq.com",
+      "reason": "Offers extensive API management features"
+    },
+    {
+      "name": "Tyk API Gateway",
+      "url": "tyk.io",
+      "reason": "Flexible, open-source API gateway"
+    },
+    {
+      "name": "Apigee",
+      "url": "apigee.com",
+      "reason": "Enterprise focus with robust analytics"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "API management",
+    "infrastructure"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://microagents.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/microagents/gateway",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/microagents_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/microagents_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/microagents_io_400.png",
+  "updatedAt": "2025-07-13T01:14:16.516Z"
+}

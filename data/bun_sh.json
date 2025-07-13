@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bun.sh/",
+  "name": "Bun",
+  "title": "bun.sh",
+  "payoff": "Fast all-in-one JavaScript runtime",
+  "shortDescription": "Bun is a comprehensive JavaScript runtime and toolkit designed for high-speed operations, integrating a bundler, test runner, and a Node.js-compatible package manager. It targets developers seeking efficient tools for JavaScript & TypeScript projects. Example use case includes developing and deploying server-side applications with enhanced performance and reduced complexity.",
+  "pros": [
+    "High performance with fast start times",
+    "Complete toolkit including bundler and package manager",
+    "Node.js compatibility for seamless integration"
+  ],
+  "cons": [
+    "Relatively new, might have fewer integrations",
+    "Limited community support compared to established tools",
+    "Potential bugs and stability issues in early versions"
+  ],
+  "alternatives": [
+    "Node.js [nodejs.org]",
+    "Deno [deno.land]",
+    "Webpack [webpack.js.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Node.js",
+      "url": "nodejs.org",
+      "reason": "Widely adopted with extensive libraries"
+    },
+    {
+      "name": "Deno",
+      "url": "deno.land",
+      "reason": "Modern runtime with security focus"
+    },
+    {
+      "name": "Webpack",
+      "url": "webpack.js.org",
+      "reason": "Popular bundler with large ecosystem"
+    }
+  ],
+  "tags": [
+    "JavaScript",
+    "runtime",
+    "development",
+    "performance"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://bun.sh/",
+  "documentationUrl": "https://bun.sh/documentation",
+  "githubUrl": "https://github.com/oven-sh/bun",
+  "twitterUrl": "https://x.com/shlomiatar/status/1874234143971958831",
+  "screenshot": "https://share.appsfor.us/screenshots/bun_sh.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bun_sh_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bun_sh_400.png",
+  "updatedAt": "2025-07-13T01:16:56.633Z"
+}

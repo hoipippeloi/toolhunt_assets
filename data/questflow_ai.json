@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://questflow.ai/",
+  "name": "Questflow",
+  "title": "questflow.ai",
+  "payoff": "AI Agent Economy for Workflows",
+  "shortDescription": "Questflow is revolutionizing the way businesses operate by scaling the GDP of the multi-agent economy for Medi onchain. This tool is designed for companies looking to leverage AI to enhance their workflow efficiency. An example use case is automating complex, multi-step business processes to reduce manual oversight and increase throughput.",
+  "pros": [
+    "Enhances workflow efficiency",
+    "Leverages advanced AI technology",
+    "Tailored for complex business processes"
+  ],
+  "cons": [
+    "May require technical expertise to implement",
+    "Potentially high cost of entry",
+    "Focused primarily on Medi onchain, limiting versatility"
+  ],
+  "alternatives": [
+    "Automation Anywhere [automationanywhere.com]",
+    "UiPath [uipath.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Offers robust automation capabilities"
+    },
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Focuses on robotic process automation"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Known for enterprise robotic automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "workflow automation",
+    "multi-agent systems",
+    "onchain technology"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://questflow.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=questflow&type=repositories",
+  "twitterUrl": "https://x.com/questflow?utm_source=website&utm_medium=footer&utm_campaign=twitter",
+  "screenshot": "https://share.appsfor.us/screenshots/questflow_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/questflow_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/questflow_ai_400.png",
+  "updatedAt": "2025-07-13T01:16:33.883Z"
+}

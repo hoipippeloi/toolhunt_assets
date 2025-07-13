@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://corraldata.com/",
+  "name": "CorralData",
+  "title": "corraldata.com",
+  "payoff": "AI-powered Data and Analytics",
+  "shortDescription": "CorralData leverages AI to transform data into actionable insights for various industries. It offers a platform that integrates easily with 500+ tools, ensuring data-driven decisions without needing engineering skills. Example use: A healthcare provider can enhance patient care by making informed decisions using HIPAA-compliant AI analytics.",
+  "pros": [
+    "500+ prebuilt integrations",
+    "Fully-managed Reverse ETL",
+    "HIPAA-compliant for healthcare data"
+  ],
+  "cons": [
+    "May require initial setup assistance",
+    "Potential complexity in data management",
+    "Dependent on AI accuracy and data quality"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "PowerBI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive data modeling"
+    },
+    {
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates well with MS products"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analytics",
+    "SaaS",
+    "data integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://corraldata.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=corraldata&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/corraldata_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/corraldata_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/corraldata_com_400.png",
+  "updatedAt": "2025-07-13T01:14:51.651Z"
+}
