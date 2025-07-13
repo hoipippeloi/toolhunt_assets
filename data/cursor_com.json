@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cursor.com/",
+  "name": "Cursor",
+  "title": "cursor.com",
+  "payoff": "AI-powered code editor",
+  "shortDescription": "Cursor revolutionizes coding by integrating AI to enhance productivity. It's designed for developers seeking to streamline their coding process through AI assistance. Users can edit code using natural language, and the tool predicts and suggests edits, making coding faster and more intuitive. Ideal for both individual developers and teams, Cursor offers features like privacy mode, SOC 2 certification, and compatibility with existing extensions and themes.",
+  "pros": [
+    "AI-driven code suggestions improve productivity",
+    "Supports natural language editing of code",
+    "Privacy mode ensures code confidentiality"
+  ],
+  "cons": [
+    "Dependent on AI accuracy which may vary",
+    "Potential learning curve for new users",
+    "Requires internet connection for full functionality"
+  ],
+  "alternatives": [
+    "GitHub Copilot [copilot.github.com]",
+    "Kite [kite.com]",
+    "Tabnine [tabnine.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI code completion tool by GitHub"
+    },
+    {
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "AI-powered code completions in IDEs"
+    },
+    {
+      "name": "Tabnine",
+      "url": "tabnine.com",
+      "reason": "AI assistant for code suggestions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "code editor",
+    "software development",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://cursor.com/",
+  "documentationUrl": "https://cursor.com/docs",
+  "githubUrl": "https://github.com/getcursor/cursor",
+  "twitterUrl": "https://x.com/cursor_ai",
+  "screenshot": "/screenshots/cursor_com.png",
+  "screenshot_640": "/screenshots/cursor_com_640.png",
+  "screenshot_400": "/screenshots/cursor_com_400.png",
+  "updatedAt": "2025-07-13T03:31:44.148Z"
+}

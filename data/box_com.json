@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://box.com/",
+  "name": "Box",
+  "title": "box.com",
+  "payoff": "AI-Powered Content Management",
+  "shortDescription": "Box is a leading cloud content management and file sharing service for businesses. It offers secure collaboration across any device, enabling users to easily share and access files. For example, in industries like healthcare or finance, Box can be used to manage sensitive documents while complying with regulatory requirements.",
+  "pros": [
+    "End-to-end data protection",
+    "AI-driven business processes",
+    "Extensive integration options"
+  ],
+  "cons": [
+    "Can be expensive for small businesses",
+    "Complex features may require training",
+    "Potential privacy concerns with cloud storage"
+  ],
+  "alternatives": [
+    "Dropbox [dropbox.com]",
+    "Google Drive [drive.google.com]",
+    "Microsoft OneDrive [onedrive.live.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dropbox",
+      "url": "dropbox.com",
+      "reason": "Popular for file sharing and storage"
+    },
+    {
+      "name": "Google Drive",
+      "url": "drive.google.com",
+      "reason": "Integrated with Google Workspace"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "url": "onedrive.live.com",
+      "reason": "Integrated with Microsoft Office"
+    }
+  ],
+  "tags": [
+    "content management",
+    "collaboration",
+    "AI",
+    "cloud storage"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2005,
+  "websiteUrl": "https://box.com/",
+  "documentationUrl": "https://developer.box.com/",
+  "githubUrl": "https://github.com/search?q=box&type=repositories",
+  "twitterUrl": "https://boxworks.box.com/series/boxworks-2025/landing_page",
+  "screenshot": "https://share.appsfor.us/screenshots/box_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/box_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/box_com_400.png",
+  "updatedAt": "2025-07-13T03:30:05.915Z"
+}

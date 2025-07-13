@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://eesel.ai/",
+  "name": "eesel",
+  "title": "eesel.ai",
+  "payoff": "AI Agents for Enhanced CX",
+  "shortDescription": "eesel AI specializes in enhancing customer service through artificial intelligence. It integrates seamlessly with various helpdesks and supports real-time agent assistance and automated ticket handling. Example use case: A company uses eesel AI to automate responses and manage ticket routing, significantly reducing response times and improving customer satisfaction.",
+  "pros": [
+    "Seamless integration with existing apps",
+    "Real-time support and draft replies",
+    "Automated ticket management"
+  ],
+  "cons": [
+    "Potential privacy concerns",
+    "Dependence on AI accuracy",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Help Scout [helpscout.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Broad integration and customization options"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Focus on small to medium businesses"
+    },
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Strong user engagement features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "customer service",
+    "automation",
+    "ticket management"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://eesel.ai/",
+  "documentationUrl": "https://eesel.ai/documentation",
+  "githubUrl": "https://github.com/search?q=eesel&type=repositories",
+  "twitterUrl": "https://x.com/eeselai",
+  "screenshot": "https://share.appsfor.us/screenshots/eesel_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/eesel_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/eesel_ai_400.png",
+  "updatedAt": "2025-07-13T03:30:33.066Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hackmd.io/",
+  "name": "HackMD",
+  "title": "hackmd.io",
+  "payoff": "Collaborative Markdown Workspace",
+  "shortDescription": "HackMD is a collaborative Markdown editor designed to accelerate innovation, foster community, and enhance collaboration. It is ideal for teams and individuals who need a flexible, web-based platform for sharing knowledge and documentation. Users can create, manage, and share Markdown documents, integrate with GitHub, and utilize features like UML graphs and book mode for organizing content.",
+  "pros": [
+    "Real-time collaboration",
+    "Integration with GitHub",
+    "Supports UML graphs and templates"
+  ],
+  "cons": [
+    "Limited offline functionality",
+    "Can be overwhelming for Markdown beginners",
+    "Potential privacy concerns with cloud-based storage"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Confluence [atlassian.com/software/confluence]",
+    "Obsidian [obsidian.md]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with rich content support"
+    },
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Comprehensive team collaboration tool"
+    },
+    {
+      "name": "Obsidian",
+      "url": "obsidian.md",
+      "reason": "Local-first Markdown knowledge base"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "markdown editor",
+    "knowledge sharing",
+    "documentation"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://hackmd.io/",
+  "documentationUrl": "https://hackmd.io/docs",
+  "githubUrl": "https://github.com/search?q=hackmd&type=repositories",
+  "twitterUrl": "https://x.com/hackmdio",
+  "screenshot": "https://share.appsfor.us/screenshots/hackmd_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hackmd_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hackmd_io_400.png",
+  "updatedAt": "2025-07-13T03:32:18.060Z"
+}

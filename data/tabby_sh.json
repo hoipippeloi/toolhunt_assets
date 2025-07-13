@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tabby.sh/",
+  "name": "Tabby",
+  "title": "tabby.sh",
+  "payoff": "A terminal for the modern age",
+  "shortDescription": "Tabby is a modern terminal designed to enhance productivity for developers and IT professionals. It supports multiple platforms including Windows, Mac, and Linux, and integrates features like SSH client, serial terminal, and full Unicode support. Users can manage multiple sessions with ease, customize their environment, and even handle file transfers. Ideal for those who require a robust, customizable terminal experience.",
+  "pros": [
+    "Cross-platform support",
+    "Integrated SSH and serial terminal",
+    "Highly customizable interface"
+  ],
+  "cons": [
+    "May be overwhelming for beginners",
+    "Potential compatibility issues with some plugins",
+    "Higher resource usage than some lighter terminals"
+  ],
+  "alternatives": [
+    "PuTTY [putty.org]",
+    "Hyper [hyper.is]",
+    "ConEmu [conemu.github.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "PuTTY",
+      "url": "putty.org",
+      "reason": "Popular SSH and telnet client for Windows."
+    },
+    {
+      "name": "Hyper",
+      "url": "hyper.is",
+      "reason": "JS/HTML/CSS based terminal for modern developers."
+    },
+    {
+      "name": "ConEmu",
+      "url": "conemu.github.io",
+      "reason": "Customizable Windows terminal with tabs."
+    }
+  ],
+  "tags": [
+    "terminal",
+    "SSH client",
+    "customizable",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://tabby.sh/",
+  "documentationUrl": "https://tabby.sh/docs",
+  "githubUrl": "https://github.com/Eugeny/tabby/releases/latest",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tabby_sh.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tabby_sh_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tabby_sh_400.png",
+  "updatedAt": "2025-07-13T03:32:46.954Z"
+}

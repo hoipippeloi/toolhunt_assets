@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lifesum.com/",
+  "name": "Lifesum",
+  "title": "lifesum.com",
+  "payoff": "Healthy eating, simplified.",
+  "shortDescription": "Lifesum is a digital health platform that helps users manage their diet and nutrition through AI-driven tools. It offers personalized meal plans, nutrition tracking, and dietary advice tailored to individual lifestyles and health goals. Users can log meals via photos, voice, or barcode scanning for a seamless experience.",
+  "pros": [
+    "Personalized meal planning",
+    "Multimodal meal tracking options",
+    "Integration with fitness wearables"
+  ],
+  "cons": [
+    "Limited offline functionality",
+    "Potential privacy concerns with data handling",
+    "Subscription required for full features"
+  ],
+  "alternatives": [
+    "MyFitnessPal [myfitnesspal.com]",
+    "Noom [noom.com]",
+    "Yazio [yazio.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Extensive food database and community support"
+    },
+    {
+      "name": "Noom",
+      "url": "noom.com",
+      "reason": "Focuses on psychology for lasting health changes"
+    },
+    {
+      "name": "Yazio",
+      "url": "yazio.com",
+      "reason": "Offers fasting plans and detailed food analysis"
+    }
+  ],
+  "tags": [
+    "nutrition tracking",
+    "health and wellness",
+    "AI",
+    "meal planning"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://lifesum.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=lifesum&type=repositories",
+  "twitterUrl": "https://twitter.com/lifesum",
+  "screenshot": "https://share.appsfor.us/screenshots/lifesum_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lifesum_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lifesum_com_400.png",
+  "updatedAt": "2025-07-13T03:30:54.651Z"
+}
