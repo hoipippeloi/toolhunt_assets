@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://musicfy.lol/",
+  "name": "Musicfy AI",
+  "title": "musicfy.lol",
+  "payoff": "Create songs with AI in seconds",
+  "shortDescription": "Musicfy AI is an innovative tool designed for music creators to generate songs using artificial intelligence. It allows users to transform their vocal inputs into music tracks, mimicking various artists' styles. Ideal for producers and hobbyists, it simplifies music production by providing tools to isolate song tracks and integrate AI-generated vocals. An example use case is a solo artist creating a full-band song without hiring additional musicians.",
+  "pros": [
+    "Easy to use interface",
+    "No need for external vocalists",
+    "Quick music production"
+  ],
+  "cons": [
+    "Potential quality variability",
+    "Dependence on AI accuracy",
+    "Limited to vocal transformations"
+  ],
+  "alternatives": [
+    "Landr [landr.com]",
+    "Amper Music [ampermusic.com]",
+    "Soundation [soundation.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Landr",
+      "url": "landr.com",
+      "reason": "Offers AI mastering and music tools"
+    },
+    {
+      "name": "Amper Music",
+      "url": "ampermusic.com",
+      "reason": "AI tool for creating soundtracks"
+    },
+    {
+      "name": "Soundation",
+      "url": "soundation.com",
+      "reason": "Online studio for music creation"
+    }
+  ],
+  "tags": [
+    "AI music generation",
+    "music production",
+    "voice transformation",
+    "creative tools"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://musicfy.lol/",
+  "documentationUrl": "https://docs.musicfy.lol/#565ed63e-267e-438b-98ba-611ad9ef495e",
+  "githubUrl": "https://github.com/search?q=musicfy%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/aribk24",
+  "screenshot": "https://share.appsfor.us/screenshots/musicfy_lol.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/musicfy_lol_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/musicfy_lol_400.png",
+  "updatedAt": "2025-07-14T03:29:42.149Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getharker.com/",
+  "name": "Harker",
+  "title": "getharker.com",
+  "payoff": "Type Faster with Your Voice",
+  "shortDescription": "Harker is a speech-to-text widget designed for desktop use, ideal for individuals who prefer talking over typing. It caters to users needing quick text entry across various applications, from emailing to chatting with AI. Example use case: A professional can use Harker to compose emails or messages by simply speaking, significantly speeding up their workflow and reducing the reliance on traditional typing.",
+  "pros": [
+    "Supports 50+ languages with high accuracy",
+    "Works offline ensuring complete privacy",
+    "Minimal resource usage on Mac"
+  ],
+  "cons": [
+    "Currently only available for macOS",
+    "No free tier offered",
+    "Limited to desktop use"
+  ],
+  "alternatives": [
+    "Dragon NaturallySpeaking [nuance.com]",
+    "Google Voice Typing [google.com]",
+    "Speechnotes [speechnotes.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dragon NaturallySpeaking",
+      "url": "nuance.com",
+      "reason": "Industry leader in voice recognition software"
+    },
+    {
+      "name": "Google Voice Typing",
+      "url": "google.com",
+      "reason": "Free and integrates with Google Docs"
+    },
+    {
+      "name": "Speechnotes",
+      "url": "speechnotes.co",
+      "reason": "Free, web-based alternative"
+    }
+  ],
+  "tags": [
+    "speech-to-text",
+    "productivity",
+    "desktop software",
+    "privacy"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://getharker.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=harker&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/getharker_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getharker_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getharker_com_400.png",
+  "updatedAt": "2025-07-14T03:30:04.314Z"
+}

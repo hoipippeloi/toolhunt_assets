@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://fivetran.com/",
+  "name": "Fivetran",
+  "title": "fivetran.com",
+  "payoff": "Automated data movement platform",
+  "shortDescription": "Fivetran simplifies the complexities of data integration by automating data movement from various sources to destinations. It serves industries like healthcare, finance, and tech, enhancing operational efficiency and decision-making. Example use case: A company uses Fivetran to centralize data for real-time analytics, reducing costs and improving insights.",
+  "pros": [
+    "Automated data transformations",
+    "Built-in rigorous security",
+    "Supports real-time data access"
+  ],
+  "cons": [
+    "Potential high cost for large data volumes",
+    "Complexity in initial setup for specific cases",
+    "Dependence on external data sources' availability"
+  ],
+  "alternatives": [
+    "Stitch Data [stitchdata.com]",
+    "Talend [talend.com]",
+    "Informatica [informatica.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Stitch",
+      "url": "stitchdata.com",
+      "reason": "Offers simpler setup for smaller companies"
+    },
+    {
+      "name": "Airbyte",
+      "url": "airbyte.com",
+      "reason": "Open-source and customizable connectors"
+    },
+    {
+      "name": "Matillion",
+      "url": "matillion.com",
+      "reason": "Focuses on transformation within data warehouses"
+    }
+  ],
+  "tags": [
+    "data integration",
+    "automation",
+    "cloud platform"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Sync",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://fivetran.com/",
+  "documentationUrl": "https://fivetran.com/docs",
+  "githubUrl": "https://github.com/search?q=fivetran&type=repositories",
+  "twitterUrl": "https://twitter.com/fivetran",
+  "screenshot": "https://share.appsfor.us/screenshots/fivetran_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fivetran_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fivetran_com_400.png",
+  "updatedAt": "2025-07-14T03:29:10.978Z"
+}

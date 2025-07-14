@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://publora.com/",
+  "name": "Publora",
+  "title": "publora.com",
+  "payoff": "Win Social Media Without Overwhelm",
+  "shortDescription": "Publora is a comprehensive social media management platform designed to streamline the process of content creation, scheduling, and posting across multiple social networks. It is ideal for marketers and agencies looking to maintain a consistent online presence and engage their audience effectively. Users can benefit from AI-driven content suggestions, a powerful editing tool, and a centralized dashboard for managing multiple accounts.",
+  "pros": [
+    "AI-powered content creation and scheduling",
+    "Supports multiple social media platforms",
+    "Centralized dashboard for managing multiple accounts"
+  ],
+  "cons": [
+    "May be overwhelming for beginners",
+    "Potential privacy concerns with AI integration",
+    "Dependent on social network APIs, which can change"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Offers comprehensive social media tools"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Focus on simplicity and usability"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Advanced analytics and engagement features"
+    }
+  ],
+  "tags": [
+    "social media management",
+    "content scheduling",
+    "AI",
+    "marketing tools"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://publora.com/",
+  "documentationUrl": "https://publora.com/documentation",
+  "githubUrl": "https://github.com/search?q=publora&type=repositories",
+  "twitterUrl": "https://x.com/ElitzaVasileva/status/1886736890423882099",
+  "screenshot": "https://share.appsfor.us/screenshots/publora_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/publora_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/publora_com_400.png",
+  "updatedAt": "2025-07-14T03:30:40.941Z"
+}
