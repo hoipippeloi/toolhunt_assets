@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://product-lab.ai/",
+  "name": "Product Lab AI",
+  "title": "product-lab.ai",
+  "payoff": "Fast AI-driven product discovery",
+  "shortDescription": "Product Lab AI is an AI-first solution designed to streamline the product development process. It helps innovators and product teams to quickly ideate and validate product ideas, significantly reducing the time from conception to validation. By using AI to analyze market data and user feedback, teams can develop products that meet real user needs and preferences. Example use case: A startup uses Product Lab AI to validate their new app idea within minutes, saving weeks of research.",
+  "pros": [
+    "Significantly reduces product validation time",
+    "Leverages AI for market and user insights",
+    "Streamlines the entire development process"
+  ],
+  "cons": [
+    "May require technical expertise to interpret data",
+    "Potentially limited by the quality of input data",
+    "Dependent on AI accuracy and reliability"
+  ],
+  "alternatives": [
+    "Jira Product Discovery [atlassian.com]",
+    "ProdPad [prodpad.com]",
+    "Aha! [aha.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira Product Discovery",
+      "url": "atlassian.com",
+      "reason": "Offers structured agile product management"
+    },
+    {
+      "name": "ProdPad",
+      "url": "prodpad.com",
+      "reason": "Focuses on product roadmap and strategy"
+    },
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Comprehensive product lifecycle management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "product management",
+    "innovation",
+    "data analysis"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://product-lab.ai/",
+  "documentationUrl": "https://product-lab.ai/docs",
+  "githubUrl": "https://github.com/search?q=product%20lab%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/product_lab_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/product_lab_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/product_lab_ai_400.png",
+  "updatedAt": "2025-07-14T01:14:12.738Z"
+}

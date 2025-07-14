@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://twilio.com/",
+  "name": "Twilio",
+  "title": "twilio.com",
+  "payoff": "Build amazing customer experiences",
+  "shortDescription": "Twilio provides a cloud communications platform that enables developers to build, scale, and operate communications within software applications through the use of APIs. It supports various communication channels such as SMS, voice, video, and email. An example use case is a company integrating Twilio to send automated SMS notifications and conduct voice calls globally.",
+  "pros": [
+    "Supports multiple communication channels",
+    "Scalable and reliable global infrastructure",
+    "Extensive API for developers"
+  ],
+  "cons": [
+    "Can be complex for beginners",
+    "Pricing can be high for high volume usage",
+    "Dependent on external network providers"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "Nexmo [nexmo.com]",
+    "Plivo [plivo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Focused on email communications"
+    },
+    {
+      "name": "Nexmo",
+      "url": "nexmo.com",
+      "reason": "Strong in voice and SMS solutions"
+    },
+    {
+      "name": "Plivo",
+      "url": "plivo.com",
+      "reason": "Cost-effective for startups"
+    }
+  ],
+  "tags": [
+    "communications",
+    "APIs",
+    "cloud platform",
+    "multichannel"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2008,
+  "websiteUrl": "https://twilio.com/",
+  "documentationUrl": "https://www.twilio.com/docs",
+  "githubUrl": "https://github.com/search?q=twilio&type=repositories",
+  "twitterUrl": "https://x.com/twilio",
+  "screenshot": "https://share.appsfor.us/screenshots/twilio_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/twilio_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/twilio_com_400.png",
+  "updatedAt": "2025-07-14T01:13:44.249Z"
+}

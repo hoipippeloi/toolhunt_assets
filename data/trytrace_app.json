@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://trytrace.app/",
+  "name": "Trace",
+  "title": "trytrace.app",
+  "payoff": "Track your time effectively",
+  "shortDescription": "Trace is a time tracking tool designed to help individuals and teams gain insights into how they spend their time. It features built-in activity monitoring that tracks active apps and websites, allowing users to block distracting sites during work sessions. Users can visualize their app activity on a color-coded timeline, making it easy to digest and analyze. Ideal for freelancers and remote teams, Trace can be used to improve productivity and manage work hours more efficiently.",
+  "pros": [
+    "Built-in activity monitoring",
+    "Block apps and websites feature",
+    "Visual color-coded activity timeline"
+  ],
+  "cons": [
+    "Limited to desktop environments",
+    "One-time payment model may deter some users",
+    "No mention of mobile app support"
+  ],
+  "alternatives": [
+    "Toggl Track [toggl.com]",
+    "RescueTime [rescuetime.com]",
+    "Time Doctor [timedoctor.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Toggl Track",
+      "url": "toggl.com",
+      "reason": "Offers flexible tracking options"
+    },
+    {
+      "name": "RescueTime",
+      "url": "rescuetime.com",
+      "reason": "Provides detailed productivity insights"
+    },
+    {
+      "name": "Time Doctor",
+      "url": "timedoctor.com",
+      "reason": "Includes employee monitoring features"
+    }
+  ],
+  "tags": [
+    "time tracking",
+    "productivity tool",
+    "activity monitoring"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Time Logger",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://trytrace.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=trace&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/trytrace_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/trytrace_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/trytrace_app_400.png",
+  "updatedAt": "2025-07-14T01:12:39.180Z"
+}

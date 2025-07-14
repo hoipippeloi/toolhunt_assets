@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://circleback.ai/",
+  "name": "Circleback",
+  "title": "circleback.ai",
+  "payoff": "AI-powered meeting notes",
+  "shortDescription": "Circleback transforms the way meetings are documented by leveraging AI to create notes, action items, and automations. Designed for professionals who manage multiple meetings, it ensures no detail is missed. Example use case: A project manager uses Circleback to automatically generate meeting summaries and track action items, enhancing team productivity and accountability.",
+  "pros": [
+    "AI-powered note-taking",
+    "Automated action items",
+    "Backed by Y Combinator"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not capture nuances of conversation",
+    "Subscription required after trial"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Sonix [sonix.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers real-time transcription"
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Focuses on CRM integration"
+    },
+    {
+      "name": "Sonix",
+      "url": "sonix.ai",
+      "reason": "Strong in multilingual support"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "meeting notes",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://circleback.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=circleback&type=repositories",
+  "twitterUrl": "https://x.com/circlebackai",
+  "screenshot": "https://share.appsfor.us/screenshots/circleback_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/circleback_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/circleback_ai_400.png",
+  "updatedAt": "2025-07-14T01:12:14.804Z"
+}

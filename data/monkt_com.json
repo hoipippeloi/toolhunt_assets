@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://monkt.com/",
+  "name": "Monkt",
+  "title": "monkt.com",
+  "payoff": "Transform documents for AI use",
+  "shortDescription": "Monkt enables users to convert various document formats like PDF, Word, and Excel into AI-ready Markdown or structured JSON. It's designed for developers, data scientists, and content managers who need to integrate document processing into AI applications. Example use case: A company automates the extraction of data from financial reports to feed into their AI models for better predictive analytics.",
+  "pros": [
+    "Supports multiple document formats",
+    "API for easy integration",
+    "Custom JSON schema definitions"
+  ],
+  "cons": [
+    "File size limitations",
+    "Limited free tier offerings",
+    "May require technical knowledge to implement"
+  ],
+  "alternatives": [
+    "Docparser [docparser.com]",
+    "Zapier Parser [zapier.com]",
+    "ABBYY FlexiCapture [abbyy.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Docparser",
+      "url": "docparser.com",
+      "reason": "Offers robust document parsing"
+    },
+    {
+      "name": "Zapier Parser",
+      "url": "zapier.com",
+      "reason": "Integrates with multiple apps"
+    },
+    {
+      "name": "ABBYY FlexiCapture",
+      "url": "abbyy.com",
+      "reason": "Advanced OCR and document capture"
+    }
+  ],
+  "tags": [
+    "document processing",
+    "AI integration",
+    "data extraction",
+    "markdown conversion"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://monkt.com/",
+  "documentationUrl": "https://monkt.com/docs",
+  "githubUrl": "https://github.com/search?q=monkt&type=repositories",
+  "twitterUrl": "https://x.com/monkt_com",
+  "screenshot": "https://share.appsfor.us/screenshots/monkt_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/monkt_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/monkt_com_400.png",
+  "updatedAt": "2025-07-14T01:11:33.531Z"
+}
