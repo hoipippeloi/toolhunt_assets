@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tablextract.io/",
+  "name": "Tablextract",
+  "title": "tablextract.io",
+  "payoff": "Extract tables from anything",
+  "shortDescription": "Tablextract is an AI-powered tool designed to instantly extract tables from various document formats like PDFs, images, and more into Excel, CSV, or JSON. It's ideal for anyone from financial analysts to researchers who need to convert document data into a usable format without manual input. For example, a financial analyst can save hours on data entry tasks by extracting data directly from financial reports.",
+  "pros": [
+    "Saves hours of manual data entry",
+    "Supports multiple file formats",
+    "AI preserves complex document structures"
+  ],
+  "cons": [
+    "Potential accuracy issues with handwritten texts",
+    "Dependence on the quality of the original document",
+    "May require manual corrections for complex cases"
+  ],
+  "alternatives": [
+    "Tabula [tabula.technology]",
+    "PDFTables [pdftables.com]",
+    "Datawatch [datawatch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tabula",
+      "url": "tabula.technology",
+      "reason": "Focuses on PDF table extraction"
+    },
+    {
+      "name": "PDFTables",
+      "url": "pdftables.com",
+      "reason": "Converts PDF tables to Excel"
+    },
+    {
+      "name": "Datawatch",
+      "url": "datawatch.com",
+      "reason": "Offers advanced data preparation"
+    }
+  ],
+  "tags": [
+    "data extraction",
+    "AI",
+    "PDF processing",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tablextract.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tablextract&type=repositories",
+  "twitterUrl": "https://x.com/t4fita_",
+  "screenshot": "https://share.appsfor.us/screenshots/tablextract_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tablextract_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tablextract_io_400.png",
+  "updatedAt": "2025-07-15T01:10:51.097Z"
+}

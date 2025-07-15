@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mailmodo.com/",
+  "name": "Mailmodo",
+  "title": "mailmodo.com",
+  "payoff": "Interactive Email Marketing Software",
+  "shortDescription": "Mailmodo offers a platform for creating and sending interactive AMP emails designed to increase engagement and conversion rates. It is tailored for marketers looking to enhance their email campaigns with features like drag-and-drop editing, AI-driven copy suggestions, and robust segmentation tools. Example use case: E-commerce businesses can use Mailmodo to send personalized product recommendations and interactive promotions directly within emails.",
+  "pros": [
+    "Interactive AMP email capabilities",
+    "AI-powered email copy optimization",
+    "High deliverability with expert support"
+  ],
+  "cons": [
+    "Potentially complex for beginners",
+    "AMP emails may not render in all email clients",
+    "Higher cost compared to basic email tools"
+  ],
+  "alternatives": [
+    "Sendinblue [sendinblue.com]",
+    "ActiveCampaign [activecampaign.com]",
+    "HubSpot Email Marketing [hubspot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Offers email marketing with automation"
+    },
+    {
+      "name": "ActiveCampaign",
+      "url": "activecampaign.com",
+      "reason": "Advanced automation and CRM features"
+    },
+    {
+      "name": "HubSpot Email Marketing",
+      "url": "hubspot.com",
+      "reason": "Integrates with broader CRM and sales tools"
+    }
+  ],
+  "tags": [
+    "email marketing",
+    "marketing automation",
+    "AI",
+    "interactive content"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mailmodo.com/",
+  "documentationUrl": "https://mailmodo.com/docs",
+  "githubUrl": "https://github.com/search?q=mailmodo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/mailmodo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mailmodo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mailmodo_com_400.png",
+  "updatedAt": "2025-07-15T01:11:57.326Z"
+}

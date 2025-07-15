@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kraftful.com/",
+  "name": "Kraftful",
+  "title": "kraftful.com",
+  "payoff": "AI Copilot for User Feedback",
+  "shortDescription": "Kraftful is an AI-driven tool designed to help product teams efficiently analyze and manage user feedback across various sources like reviews, surveys, and support tickets. It automates the extraction of actionable insights, enabling teams to quickly respond to user needs and improve their products. An example use case is a tech company using Kraftful to analyze user feedback from their mobile app to enhance user experience and retention.",
+  "pros": [
+    "Automates feedback analysis",
+    "Integrates with multiple feedback sources",
+    "Exports insights to project management tools"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Dependent on quality of input data",
+    "Potential privacy concerns with user data"
+  ],
+  "alternatives": [
+    "UserVoice [uservoice.com]",
+    "Medallia [medallia.com]",
+    "Qualtrics [qualtrics.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UserVoice",
+      "url": "uservoice.com",
+      "reason": "Strong community features"
+    },
+    {
+      "name": "Medallia",
+      "url": "medallia.com",
+      "reason": "Focus on customer experience"
+    },
+    {
+      "name": "Qualtrics",
+      "url": "qualtrics.com",
+      "reason": "Advanced survey tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "user feedback",
+    "data analysis",
+    "product management"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Feedback",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://kraftful.com/",
+  "documentationUrl": "https://kraftful.com/docs",
+  "githubUrl": "https://github.com/search?q=kraftful&type=repositories",
+  "twitterUrl": "https://twitter.com/en/privacy",
+  "screenshot": "https://share.appsfor.us/screenshots/kraftful_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kraftful_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kraftful_com_400.png",
+  "updatedAt": "2025-07-15T01:12:27.757Z"
+}

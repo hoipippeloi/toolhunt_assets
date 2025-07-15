@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://qatalog.com/",
+  "name": "Qatalog",
+  "title": "qatalog.com",
+  "payoff": "AI that works with your data",
+  "shortDescription": "Qatalog is an AI-powered tool designed to enhance workplace productivity by integrating various data sources and knowledge bases. It is ideal for businesses looking to streamline data access and insights across departments such as HR, IT, and Sales. An example use case could be a sales team utilizing Qatalog to quickly access integrated customer data and insights, thereby speeding up the sales process and improving customer interactions.",
+  "pros": [
+    "Integrates with multiple data sources",
+    "Enhances data accessibility across teams",
+    "Supports a variety of business functions"
+  ],
+  "cons": [
+    "May require technical setup",
+    "Potential data privacy concerns",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Monday.com [monday.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers customizable workflows and team collaboration"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task and project management for teams"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Provides a visual board-based project management tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data integration",
+    "productivity",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Knowledge Base",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://qatalog.com/",
+  "documentationUrl": "https://help.qatalog.com/hc/en-us",
+  "githubUrl": "https://github.com/search?q=qatalog&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/qatalog_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/qatalog_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/qatalog_com_400.png",
+  "updatedAt": "2025-07-15T01:13:32.862Z"
+}

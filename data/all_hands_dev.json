@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://all-hands.dev/",
+  "name": "OpenHands",
+  "title": "all-hands.dev",
+  "payoff": "Hand off your coding tasks to AI",
+  "shortDescription": "OpenHands is an AI-powered coding assistant designed to streamline software development tasks. It helps developers by automating routine coding tasks such as summarizing pull requests, refactoring code, and generating tests. Ideal for teams looking to improve efficiency, OpenHands integrates with popular tools like GitHub and Slack. An example use case is a developer using OpenHands to automatically fix broken tests, allowing them to focus on more complex problems.",
+  "pros": [
+    "Automates routine coding tasks",
+    "Integrates with popular development tools",
+    "Open source for easy customization"
+  ],
+  "cons": [
+    "May require initial setup and learning",
+    "Dependent on community for updates",
+    "Potential integration complexities with existing workflows"
+  ],
+  "alternatives": [
+    "GitHub Copilot [copilot.github.com]",
+    "Kite [kite.com]",
+    "Codota [codota.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer that suggests code"
+    },
+    {
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "Code completion powered by AI"
+    },
+    {
+      "name": "Codota",
+      "url": "codota.com",
+      "reason": "AI tool for code completions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "software development",
+    "automation",
+    "open source"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://all-hands.dev/",
+  "documentationUrl": "https://all-hands.dev/docs",
+  "githubUrl": "https://github.com/All-Hands-AI/OpenHands",
+  "twitterUrl": "https://x.com/allhands_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/all_hands_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/all_hands_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/all_hands_dev_400.png",
+  "updatedAt": "2025-07-15T01:11:15.864Z"
+}
