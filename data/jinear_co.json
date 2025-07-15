@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jinear.co/",
+  "name": "Jinear",
+  "title": "jinear.co",
+  "payoff": "Streamline tasks and projects",
+  "shortDescription": "Jinear is a task management tool designed to help individuals and teams efficiently manage their projects and daily tasks. It integrates features like task lists, file management, and detailed calendars to ensure that every project detail is at your fingertips. Ideal for small to medium businesses, Jinear can be used to coordinate team activities, meet deadlines, and sync with existing tools like Google Calendar.",
+  "pros": [
+    "Integrates with existing calendars",
+    "Detailed task and file management",
+    "Helps in reducing misunderstandings in teams"
+  ],
+  "cons": [
+    "No free tier mentioned",
+    "Limited information on customization",
+    "No API for developers"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers more robust workflow customization"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual board-based project management"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Extensive integration options and features"
+    }
+  ],
+  "tags": [
+    "task management",
+    "project management",
+    "productivity",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://jinear.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=jinear&type=repositories",
+  "twitterUrl": "https://twitter.com/usejinear",
+  "screenshot": "https://share.appsfor.us/screenshots/jinear_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jinear_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jinear_co_400.png",
+  "updatedAt": "2025-07-15T03:28:52.441Z"
+}

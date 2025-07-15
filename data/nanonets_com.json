@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nanonets.com/",
+  "name": "Nanonets",
+  "title": "nanonets.com",
+  "payoff": "Workflow Automation with AI",
+  "shortDescription": "Nanonets leverages AI to automate complex document processing tasks, transforming unstructured data into actionable insights. It's designed for businesses looking to enhance efficiency in data handling through a no-code platform. Example use: Automating invoice processing to reduce manual errors and speed up transaction reconciliations.",
+  "pros": [
+    "High accuracy in data extraction (>95%)",
+    "No-code platform simplifies automation",
+    "Direct integration with systems like SAP"
+  ],
+  "cons": [
+    "May require initial setup and training",
+    "Dependent on quality of input data",
+    "Potential high cost for full features"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Offers robust RPA solutions"
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Focus on user-friendly RPA"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Strong in enterprise automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "document processing",
+    "workflow automation"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2016,
+  "websiteUrl": "https://nanonets.com/",
+  "documentationUrl": "https://nanonets.com/documentation",
+  "githubUrl": "https://github.com/search?q=nanonets&type=repositories",
+  "twitterUrl": "https://twitter.com/nanonets",
+  "screenshot": "https://share.appsfor.us/screenshots/nanonets_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nanonets_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nanonets_com_400.png",
+  "updatedAt": "2025-07-15T03:29:27.227Z"
+}

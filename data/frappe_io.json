@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://frappe.io/insights",
+  "name": "Frappe Insights",
+  "title": "frappe.io",
+  "payoff": "Smarter decisions, lower cost",
+  "shortDescription": "Frappe Insights is an open-source business intelligence tool designed for businesses aiming to leverage their data for growth and efficiency. It allows users to connect multiple data sources, build complex queries, and analyze data through insightful charts and dashboards. Ideal for small to medium enterprises, it helps in making informed decisions quickly, exemplified by its use in streamlining operations and enhancing customer insights.",
+  "pros": [
+    "Connect to multiple data sources",
+    "Easy to build complex queries",
+    "Powerful dashboards for organization"
+  ],
+  "cons": [
+    "Limited advanced analytics features",
+    "May require technical knowledge for setup",
+    "Potentially less support compared to commercial tools"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.microsoft.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Metabase",
+      "url": "metabase.com",
+      "reason": "User-friendly and open source"
+    },
+    {
+      "name": "Redash",
+      "url": "redash.io",
+      "reason": "Focus on visualization and collaboration"
+    },
+    {
+      "name": "Superset",
+      "url": "superset.apache.org",
+      "reason": "Advanced features and customization"
+    }
+  ],
+  "tags": [
+    "open source",
+    "business intelligence",
+    "data analytics",
+    "data-driven decisions"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://frappe.io/insights",
+  "documentationUrl": "https://frappe.io/docs",
+  "githubUrl": "https://github.com/frappe/wiki",
+  "twitterUrl": "https://twitter.com/frappetech",
+  "screenshot": "https://share.appsfor.us/screenshots/frappe_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/frappe_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/frappe_io_400.png",
+  "updatedAt": "2025-07-15T03:30:36.070Z"
+}

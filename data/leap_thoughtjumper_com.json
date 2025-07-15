@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://leap.thoughtjumper.com/",
+  "name": "Amazon UK",
+  "title": "leap.thoughtjumper.com",
+  "payoff": "Low Prices on Millions of Items",
+  "shortDescription": "Amazon UK offers a vast selection of products across multiple categories including electronics, books, and sports equipment. It caters to a diverse audience, from everyday consumers to specific hobbyists. For example, a family can purchase their entire back-to-school needs and summer essentials in one place, enjoying deals and fast shipping.",
+  "pros": [
+    "Wide range of products",
+    "Competitive pricing",
+    "Reliable shipping options"
+  ],
+  "cons": [
+    "Overwhelming product choices",
+    "Variable seller quality",
+    "Potential for high shipping costs"
+  ],
+  "alternatives": [
+    "eBay [ebay.com]",
+    "Walmart [walmart.com]",
+    "Target [target.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "eBay",
+      "url": "ebay.com",
+      "reason": "Auction-style sales, wide product variety"
+    },
+    {
+      "name": "Etsy",
+      "url": "etsy.com",
+      "reason": "Focus on handmade and vintage items"
+    },
+    {
+      "name": "AliExpress",
+      "url": "aliexpress.com",
+      "reason": "Direct from manufacturers, global shipping"
+    }
+  ],
+  "tags": [
+    "e-commerce",
+    "retail",
+    "online shopping",
+    "marketplace"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1998,
+  "websiteUrl": "https://leap.thoughtjumper.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=amazon%20uk&type=repositories",
+  "twitterUrl": "https://www.acx.com/",
+  "screenshot": "https://share.appsfor.us/screenshots/leap_thoughtjumper_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/leap_thoughtjumper_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/leap_thoughtjumper_com_400.png",
+  "updatedAt": "2025-07-15T03:27:57.464Z"
+}

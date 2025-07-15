@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://needle-ai.com/",
+  "name": "Needle",
+  "title": "needle-ai.com",
+  "payoff": "AI-powered instant search",
+  "shortDescription": "Needle is a Knowledge Threading Platform designed to unify company data for AI-powered, instant search capabilities across all tools. It's ideal for teams looking to eliminate information silos and enhance productivity through seamless information retrieval. Example use case: A user queries the platform for recent client interactions, and Needle instantly pulls relevant data from integrated tools like HubSpot or Slack.",
+  "pros": [
+    "Instant AI-powered search across tools",
+    "Automates workflows and saves time",
+    "Enterprise-grade security features"
+  ],
+  "cons": [
+    "Requires integration setup",
+    "Dependent on data quality of connected sources",
+    "Potential privacy concerns with data access"
+  ],
+  "alternatives": [
+    "Elasticsearch [elastic.co]",
+    "Algolia [algolia.com]",
+    "Apache Solr [lucene.apache.org/solr]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Scalable search engine for big data"
+    },
+    {
+      "name": "Algolia",
+      "url": "algolia.com",
+      "reason": "Provides real-time search capabilities"
+    },
+    {
+      "name": "Apache Solr",
+      "url": "lucene.apache.org/solr",
+      "reason": "Open source alternative for enterprise search"
+    }
+  ],
+  "tags": [
+    "AI",
+    "search",
+    "data integration",
+    "knowledge management"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Search",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://needle-ai.com/",
+  "documentationUrl": "https://needle-ai.com/docs",
+  "githubUrl": "https://github.com/oeken/needle-python",
+  "twitterUrl": "https://x.com/NeedlexAI",
+  "screenshot": "https://share.appsfor.us/screenshots/needle_ai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/needle_ai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/needle_ai_com_400.png",
+  "updatedAt": "2025-07-15T03:31:00.567Z"
+}
