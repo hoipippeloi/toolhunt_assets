@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://anti.space/",
+  "name": "Antispace",
+  "title": "anti.space",
+  "payoff": "AI-powered workspace enhancement",
+  "shortDescription": "Antispace is an artificially intelligent operating system designed to enhance productivity by integrating AI sidekicks into your workspace. These AI agents manage emails, calendars, and tasks with unique personalities and styles. Ideal for professionals looking to streamline decision-making and optimize work processes, Antispace predicts and executes actions efficiently. Users can customize their AI experience and rely on robust privacy measures, making it a secure choice for sensitive work environments.",
+  "pros": [
+    "Customizable AI sidekicks with unique personalities",
+    "Strong focus on privacy and data security",
+    "Free to use with no data used for advertising"
+  ],
+  "cons": [
+    "Limited information on integration with other tools",
+    "No clear information on support or community",
+    "Potential scalability and reliability unknown"
+  ],
+  "alternatives": [
+    "Microsoft Cortana [microsoft.com]",
+    "Google Assistant [google.com]",
+    "Apple Siri [apple.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Cortana",
+      "url": "microsoft.com",
+      "reason": "Integrated with Microsoft products"
+    },
+    {
+      "name": "Google Assistant",
+      "url": "google.com",
+      "reason": "Wide integration with Android devices"
+    },
+    {
+      "name": "Apple Siri",
+      "url": "apple.com",
+      "reason": "Native integration with iOS devices"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "privacy",
+    "customization"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://anti.space/",
+  "documentationUrl": "https://docs.anti.space/",
+  "githubUrl": "https://github.com/search?q=antispace&type=repositories",
+  "twitterUrl": "https://x.com/antispaceAI",
+  "screenshot": "https://share.appsfor.us/screenshots/anti_space.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/anti_space_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/anti_space_400.png",
+  "updatedAt": "2025-07-16T01:10:50.716Z"
+}

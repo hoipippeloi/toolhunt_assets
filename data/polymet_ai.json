@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://polymet.ai/",
+  "name": "Polymet",
+  "title": "polymet.ai",
+  "payoff": "Prototype within seconds",
+  "shortDescription": "Polymet is an AI-powered design tool that helps users transform ideas into prototypes rapidly. It integrates with tools like Figma and GitHub, allowing seamless design and code generation. Users can describe their needs in English, use images for reference, and receive production-ready code. It's ideal for managers and engineers without frontend experience, enabling them to bypass traditional design specs and directly prototype solutions.",
+  "pros": [
+    "Rapid prototyping from descriptions or images",
+    "Integration with Figma and GitHub",
+    "Production-ready code generation"
+  ],
+  "cons": [
+    "Limited support for languages other than React",
+    "Advanced features limited to Enterprise users",
+    "Mobile support still under development"
+  ],
+  "alternatives": [
+    "Figma [figma.com]",
+    "Sketch [sketch.com]",
+    "Adobe XD [adobe.com/products/xd.html]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Popular UI design tool with collaboration features"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Vector-based design tool for UX/UI projects"
+    },
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com/products/xd.html",
+      "reason": "Comprehensive tool for design and prototyping"
+    }
+  ],
+  "tags": [
+    "AI",
+    "prototyping",
+    "design tools",
+    "code generation"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://polymet.ai/",
+  "documentationUrl": "https://docs.polymet.ai/academy/terms-and-conditions",
+  "githubUrl": "https://github.com/search?q=polymet&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/polymet_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/polymet_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/polymet_ai_400.png",
+  "updatedAt": "2025-07-16T01:11:12.614Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://apps.apple.com/us/app/xplored-for-ios/id6470123108",
+  "name": "XploreD",
+  "title": "apps.apple.com",
+  "payoff": "Explore the world in AR!",
+  "shortDescription": "XploreD is an augmented reality (AR) lifestyle app designed for iOS users. It offers interactive 3D models and immersive 360-degree flyby videos, tailored for exploring historical landmarks and vibrant cityscapes. Ideal for users seeking educational and engaging experiences from their living spaces, XploreD transforms everyday surroundings into extraordinary adventures.",
+  "pros": [
+    "Interactive 3D models",
+    "Immersive 360-degree videos",
+    "Regular content updates"
+  ],
+  "cons": [
+    "iOS only",
+    "No data collection might limit personalization",
+    "Potential high battery usage"
+  ],
+  "alternatives": [
+    "ARKit [developer.apple.com/arkit]",
+    "Google ARCore [developers.google.com/ar]",
+    "Microsoft Mixed Reality [microsoft.com/mixed-reality]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ARKit",
+      "url": "developer.apple.com/arkit",
+      "reason": "Apple's own AR development platform"
+    },
+    {
+      "name": "Google ARCore",
+      "url": "developers.google.com/ar",
+      "reason": "Google's platform for building AR apps"
+    },
+    {
+      "name": "Snap AR",
+      "url": "ar.snap.com",
+      "reason": "Offers creative AR experiences"
+    }
+  ],
+  "tags": [
+    "AR",
+    "iOS app",
+    "educational",
+    "interactive"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://apps.apple.com/us/app/xplored-for-ios/id6470123108",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=xplored&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/apps_apple_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/apps_apple_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/apps_apple_com_400.png",
+  "updatedAt": "2025-07-16T01:11:59.648Z"
+}

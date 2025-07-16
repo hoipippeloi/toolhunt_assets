@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://deeptrue.org/",
+  "name": "Deeptrue",
+  "title": "deeptrue.org",
+  "payoff": "AI Translation for Global Meetings",
+  "shortDescription": "Deeptrue is designed for professionals engaging in global communications. It offers real-time AI translation and interpretation, enhancing fluency and confidence across different languages. Users can upload materials like sales scripts to tailor the AI's responses, making it ideal for various scenarios such as business meetings, customer support, and medical consultations. It integrates with platforms like Zoom and Google Meet, and even supports offline use.",
+  "pros": [
+    "Real-time translation and context memory",
+    "Customizable with user-provided scripts and materials",
+    "Supports multiple platforms and offline use"
+  ],
+  "cons": [
+    "Potential privacy concerns with sensitive data",
+    "Dependence on accurate input for effective suggestions",
+    "May not capture nuanced cultural expressions"
+  ],
+  "alternatives": [
+    "Google Translate [translate.google.com]",
+    "Microsoft Translator [microsoft.com/translator]",
+    "iTranslate [itranslate.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Translate",
+      "url": "translate.google.com",
+      "reason": "Widely used, supports many languages"
+    },
+    {
+      "name": "Microsoft Translator",
+      "url": "microsoft.com/translator",
+      "reason": "Integrates with Microsoft products"
+    },
+    {
+      "name": "iTranslate",
+      "url": "itranslate.com",
+      "reason": "Offers voice conversation features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "translation",
+    "real-time communication",
+    "global meetings"
+  ],
+  "apiUsed": false,
+  "department": "Customer Service",
+  "function": "Translation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://deeptrue.org/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=deeptrue&type=repositories",
+  "twitterUrl": "https://x.com/deeptrueorg",
+  "screenshot": "https://share.appsfor.us/screenshots/deeptrue_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/deeptrue_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/deeptrue_org_400.png",
+  "updatedAt": "2025-07-16T01:09:01.971Z"
+}

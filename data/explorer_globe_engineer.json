@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://explorer.globe.engineer/",
+  "name": "Globe Explorer",
+  "title": "explorer.globe.engineer",
+  "payoff": "Explore global data efficiently",
+  "shortDescription": "Globe Explorer is a tool designed for researchers, data analysts, and academics who need to access and analyze global data sets. It provides a user-friendly interface for exploring various data types across different regions and sectors. An example use case is a university research team using Globe Explorer to gather environmental data for a study on climate change impacts.",
+  "pros": [
+    "User-friendly interface",
+    "Access to diverse global datasets",
+    "Helpful for academic and research purposes"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May have slower data retrieval times",
+    "Subscription can be expensive for some users"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Qlik Sense [qlik.com]",
+    "Microsoft Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Offers powerful visual analytics"
+    },
+    {
+      "name": "Qlik Sense",
+      "url": "qlik.com",
+      "reason": "Flexible, scalable analytics platform"
+    },
+    {
+      "name": "Sisense",
+      "url": "sisense.com",
+      "reason": "Integrates data from multiple sources"
+    }
+  ],
+  "tags": [
+    "data analysis",
+    "research tool",
+    "global data",
+    "academic"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Data Storage",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://explorer.globe.engineer/",
+  "documentationUrl": "https://explorer.globe.engineer/docs",
+  "githubUrl": "https://github.com/search?q=globe%20explorer&type=repositories",
+  "twitterUrl": "https://twitter.com/globe_engineer",
+  "screenshot": "https://share.appsfor.us/screenshots/explorer_globe_engineer.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/explorer_globe_engineer_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/explorer_globe_engineer_400.png",
+  "updatedAt": "2025-07-16T01:11:37.335Z"
+}
