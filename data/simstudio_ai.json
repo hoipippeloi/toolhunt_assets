@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://simstudio.ai/",
+  "name": "Sim Studio",
+  "title": "simstudio.ai",
+  "payoff": "Drag-and-drop AI workflows",
+  "shortDescription": "Sim Studio provides a user-friendly environment for developers and agents to build and deploy agent workflows using a drag-and-drop interface. It is designed for developers who prefer to focus on creating agents rather than managing them. An example use case is automating routine tasks in customer service, where agents can handle queries more efficiently.",
+  "pros": [
+    "User-friendly drag-and-drop interface",
+    "Open source platform allows customization",
+    "Integrates with modern tools like Slack"
+  ],
+  "cons": [
+    "May require coding knowledge to fully utilize",
+    "Limited support due to open source nature",
+    "Potentially steep learning curve for non-devs"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Focuses on connecting apps and automation"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Provides complex workflow automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "workflow automation",
+    "open source",
+    "developer tools"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://simstudio.ai/",
+  "documentationUrl": "https://docs.simstudio.ai/",
+  "githubUrl": "https://github.com/simstudioai/sim",
+  "twitterUrl": "https://x.com/simstudioai",
+  "screenshot": "https://share.appsfor.us/screenshots/simstudio_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/simstudio_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/simstudio_ai_400.png",
+  "updatedAt": "2025-07-16T03:25:26.595Z"
+}

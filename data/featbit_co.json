@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://featbit.co/",
+  "name": "FeatBit",
+  "title": "featbit.co",
+  "payoff": "Manage feature flags effectively",
+  "shortDescription": "FeatBit provides an open-source platform for managing feature flags, enabling developers to deploy and test features safely. It allows for gradual rollout, targeted user experiences, and instant error recovery without redeployment. Ideal for teams looking to innovate quickly and safely, FeatBit supports environments like .NET and C#.",
+  "pros": [
+    "Open-source and customizable",
+    "Supports gradual rollout of features",
+    "Reduces need for developer involvement"
+  ],
+  "cons": [
+    "May require initial setup and configuration",
+    "Limited support compared to paid tools",
+    "Dependent on community contributions for updates"
+  ],
+  "alternatives": [
+    "LaunchDarkly [launchdarkly.com]",
+    "Split.io [split.io]",
+    "ConfigCat [configcat.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "LaunchDarkly",
+      "url": "launchdarkly.com",
+      "reason": "Offers advanced targeting and analytics"
+    },
+    {
+      "name": "Split.io",
+      "url": "split.io",
+      "reason": "Focuses on data-driven feature decisions"
+    },
+    {
+      "name": "ConfigCat",
+      "url": "configcat.com",
+      "reason": "Simple UI and SDKs for easier integration"
+    }
+  ],
+  "tags": [
+    "feature flags",
+    "open source",
+    "software development",
+    "deployment"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Feature Flags",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://featbit.co/",
+  "documentationUrl": "https://featbit.co/docs",
+  "githubUrl": "https://github.com/featbit/featbit",
+  "twitterUrl": "https://twitter.com/RealFeatBit",
+  "screenshot": "https://share.appsfor.us/screenshots/featbit_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/featbit_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/featbit_co_400.png",
+  "updatedAt": "2025-07-16T03:30:06.341Z"
+}

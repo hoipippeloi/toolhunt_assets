@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beam.cloud/",
+  "name": "Beam",
+  "title": "beam.cloud",
+  "payoff": "Scale AI workloads effortlessly",
+  "shortDescription": "Beam provides a high-performance AI infrastructure tailored for Python developers. It allows users to switch GPU resources with minimal code changes and offers a seamless transition from testing to production. Ideal for developers aiming to deploy AI models efficiently, Beam supports scaling from prototype to large-scale applications. Users can deploy apps quickly, monitor performance metrics, and integrate into existing CI/CD pipelines.",
+  "pros": [
+    "Easy GPU switching with one line of code",
+    "Integrated performance tracking and logs",
+    "Supports automatic API deployment"
+  ],
+  "cons": [
+    "Limited to Python-based environments",
+    "May be less known compared to major cloud providers",
+    "Focused primarily on AI and machine learning workloads"
+  ],
+  "alternatives": [
+    "AWS Sagemaker [aws.amazon.com/sagemaker]",
+    "Google Vertex AI [cloud.google.com/vertex-ai]",
+    "Azure Machine Learning [azure.microsoft.com/en-us/services/machine-learning]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS Sagemaker",
+      "url": "aws.amazon.com/sagemaker",
+      "reason": "Widely used, extensive features"
+    },
+    {
+      "name": "Google Vertex AI",
+      "url": "cloud.google.com/vertex-ai",
+      "reason": "Integrates with Google Cloud"
+    },
+    {
+      "name": "Azure Machine Learning",
+      "url": "azure.microsoft.com/en-us/services/machine-learning",
+      "reason": "Good for hybrid cloud environments"
+    }
+  ],
+  "tags": [
+    "AI",
+    "cloud platform",
+    "GPU computing",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Cloud Platform",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://beam.cloud/",
+  "documentationUrl": "https://beam.cloud/docs",
+  "githubUrl": "https://github.com/beam-cloud/beta9/",
+  "twitterUrl": "https://twitter.com/beam_cloud",
+  "screenshot": "https://share.appsfor.us/screenshots/beam_cloud.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/beam_cloud_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/beam_cloud_400.png",
+  "updatedAt": "2025-07-16T03:29:35.603Z"
+}

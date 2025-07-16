@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://visionar.dev/",
+  "name": "VisionAR",
+  "title": "visionar.dev",
+  "payoff": "Visualize Your Creations",
+  "shortDescription": "VisionAR transforms photos into high-quality 3D models, catering to game studios and e-commerce brands. The tool leverages AI to quickly create 3D assets from photos or sketches, ready in minutes. Users can generate models from textual descriptions or multiple photos, making it ideal for AR, VR, and digital content creation across various industries.",
+  "pros": [
+    "Quick transformation of photos to 3D models",
+    "Supports text-to-3D model generation",
+    "Mobile capture for instant product scans"
+  ],
+  "cons": [
+    "Limited to 3D modeling functionalities",
+    "Dependent on photo quality for model accuracy",
+    "Potentially high learning curve for new users"
+  ],
+  "alternatives": [
+    "Sketchfab [sketchfab.com]",
+    "Blender [blender.org]",
+    "Autodesk Tinkercad [tinkercad.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Sketchfab",
+      "url": "sketchfab.com",
+      "reason": "Offers 3D model sharing and viewing"
+    },
+    {
+      "name": "Blender",
+      "url": "blender.org",
+      "reason": "Free, open-source 3D creation suite"
+    },
+    {
+      "name": "Autodesk Tinkercad",
+      "url": "tinkercad.com",
+      "reason": "Simple, online 3D design and modeling"
+    }
+  ],
+  "tags": [
+    "3D modeling",
+    "AI",
+    "AR/VR",
+    "digital content creation"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://visionar.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=visionar&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/visionar_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/visionar_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/visionar_dev_400.png",
+  "updatedAt": "2025-07-16T03:31:26.152Z"
+}
