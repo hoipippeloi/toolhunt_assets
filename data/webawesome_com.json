@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://webawesome.com/",
+  "name": "Web Awesome",
+  "title": "webawesome.com",
+  "payoff": "Build with open-source web components",
+  "shortDescription": "Web Awesome offers a comprehensive library of open-source, framework-agnostic UI components designed for developers and designers. It enables the creation of customizable and inclusive websites with a focus on longevity and minimal bloat. Ideal for those looking to develop with a robust design system that adapts to various themes and accessibility standards.",
+  "pros": [
+    "Highly customizable UI components",
+    "Framework-agnostic and open-source",
+    "Focus on accessibility and inclusivity"
+  ],
+  "cons": [
+    "May require web development knowledge",
+    "Limited third-party integrations",
+    "Beta phase may have bugs"
+  ],
+  "alternatives": [
+    "Bootstrap [getbootstrap.com]",
+    "Material-UI [mui.com]",
+    "Ant Design [ant.design]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "Widely used, extensive components"
+    },
+    {
+      "name": "Material-UI",
+      "url": "mui.com",
+      "reason": "Google's design language"
+    },
+    {
+      "name": "Ant Design",
+      "url": "ant.design",
+      "reason": "Enterprise-level components"
+    }
+  ],
+  "tags": [
+    "web components",
+    "UI design",
+    "open source",
+    "customizable"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://webawesome.com/",
+  "documentationUrl": "https://webawesome.com/documentation",
+  "githubUrl": "https://github.com/shoelace-style/webawesome/discussions",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/webawesome_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/webawesome_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/webawesome_com_400.png",
+  "updatedAt": "2025-07-16T04:34:37.992Z"
+}
