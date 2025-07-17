@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cynapse.com/",
+  "name": "Cynapse",
+  "title": "cynapse.com",
+  "payoff": "Transforming Data into Actionable Insights",
+  "shortDescription": "Cynapse provides a dashboard application designed for decision makers to unify key metrics and maintain team alignment with a comprehensive view of their business operations. It is ideal for executives and managers who need to monitor and analyze data across various departments. An example use case includes a marketing team using Cynapse to track campaign performance metrics and adjust strategies in real-time.",
+  "pros": [
+    "Unified view of key metrics",
+    "Real-time data synchronization",
+    "Designed specifically for decision makers"
+  ],
+  "cons": [
+    "May be complex for non-technical users",
+    "Limited customization options",
+    "Potentially high cost for small businesses"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Microsoft Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics and BI capabilities"
+    },
+    {
+      "name": "Sisense",
+      "url": "sisense.com",
+      "reason": "Focuses on full-scope analytic functionality"
+    },
+    {
+      "name": "Domo",
+      "url": "domo.com",
+      "reason": "Integrates multiple data sources for real-time insights"
+    }
+  ],
+  "tags": [
+    "dashboard",
+    "analytics",
+    "data synchronization",
+    "business intelligence"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://cynapse.com/",
+  "documentationUrl": "https://cynapse.com/docs",
+  "githubUrl": "https://github.com/search?q=cynapse&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/cynapse_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cynapse_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cynapse_com_400.png",
+  "updatedAt": "2025-07-17T01:12:06.086Z"
+}

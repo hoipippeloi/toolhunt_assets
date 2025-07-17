@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://notice.studio/",
+  "name": "Notice",
+  "title": "notice.studio",
+  "payoff": "Create & publish web content easily",
+  "shortDescription": "Notice is a versatile web content creation tool designed for individuals and businesses looking to enhance their online presence. It simplifies the process of creating blogs, documentation, portfolios, and more with user-friendly templates and no coding required. An example use case is a small business using Notice to quickly set up a professional blog to share industry insights and attract more customers.",
+  "pros": [
+    "Easy to use with no coding required",
+    "Versatile templates for various content types",
+    "Free trial available to test features"
+  ],
+  "cons": [
+    "May lack advanced customization options",
+    "Limited integration with other platforms",
+    "Potential scalability issues for larger enterprises"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Offers extensive customization"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "User-friendly with rich templates"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "High-quality design focus"
+    }
+  ],
+  "tags": [
+    "content management",
+    "site builder",
+    "documentation",
+    "portfolio"
+  ],
+  "apiUsed": true,
+  "department": "Content",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://notice.studio/",
+  "documentationUrl": "https://notice.studio/documentation",
+  "githubUrl": "https://github.com/search?q=notice&type=repositories",
+  "twitterUrl": "https://twitter.com/intent/follow?screen_name=Did_U_Notice",
+  "screenshot": "https://share.appsfor.us/screenshots/notice_studio.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/notice_studio_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/notice_studio_400.png",
+  "updatedAt": "2025-07-17T01:12:27.756Z"
+}

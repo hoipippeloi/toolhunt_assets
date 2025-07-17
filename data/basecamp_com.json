@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://basecamp.com/",
+  "name": "Basecamp",
+  "title": "basecamp.com",
+  "payoff": "Simplify project management",
+  "shortDescription": "Basecamp is a project management software designed for smaller, agile businesses. It offers a straightforward interface to manage multiple projects, track progress with visual tools, and centralize communications. Users can pin important projects, manage tasks, and view comprehensive reports. Ideal for teams looking to streamline collaboration and maintain organization in a chaotic work environment.",
+  "pros": [
+    "User-friendly interface",
+    "Comprehensive project management features",
+    "Strong track record with 21 years in the market"
+  ],
+  "cons": [
+    "Primarily suited for smaller businesses",
+    "Lacks some advanced customization options",
+    "May not integrate with all third-party tools seamlessly"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Trello [trello.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers more robust task customization"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual card-based project management"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Highly customizable and scalable"
+    }
+  ],
+  "tags": [
+    "project management",
+    "collaboration",
+    "task management",
+    "team communication"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2004,
+  "websiteUrl": "https://basecamp.com/",
+  "documentationUrl": "https://3.basecamp-help.com/article/150-export-your-basecamp-data",
+  "githubUrl": "https://github.com/basecamp/bc3-api",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/basecamp_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/basecamp_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/basecamp_com_400.png",
+  "updatedAt": "2025-07-17T01:10:00.288Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://layer.cafe/",
+  "name": "Layer",
+  "title": "layer.cafe",
+  "payoff": "Visualize and achieve your goals",
+  "shortDescription": "Layer is an online tool designed to help individuals and teams visualize their goals and manage tasks effectively. Users can create mind maps in just a few clicks, track task effectiveness, and collaborate in real-time. An example use case is a project manager organizing tasks and deadlines to streamline project workflows and enhance team collaboration.",
+  "pros": [
+    "Easy and quick mind mapping",
+    "Real-time collaboration features",
+    "Effective task tracking and management"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potentially overwhelming for new users",
+    "No clear offline functionality"
+  ],
+  "alternatives": [
+    "MindMeister [mindmeister.com]",
+    "XMind [xmind.net]",
+    "Coggle [coggle.it]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MindMeister",
+      "url": "mindmeister.com",
+      "reason": "Offers extensive mind mapping features"
+    },
+    {
+      "name": "XMind",
+      "url": "xmind.net",
+      "reason": "Popular for its diagramming tools"
+    },
+    {
+      "name": "Coggle",
+      "url": "coggle.it",
+      "reason": "Simple, collaborative mind mapping"
+    }
+  ],
+  "tags": [
+    "mind mapping",
+    "task management",
+    "collaboration",
+    "project planning"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://layer.cafe/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=layer&type=repositories",
+  "twitterUrl": "http://x.com/layer4you",
+  "screenshot": "https://share.appsfor.us/screenshots/layer_cafe.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/layer_cafe_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/layer_cafe_400.png",
+  "updatedAt": "2025-07-17T01:10:26.496Z"
+}

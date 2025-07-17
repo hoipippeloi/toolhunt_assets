@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fleak.ai/",
+  "name": "Fleak",
+  "title": "fleak.ai",
+  "payoff": "Simplify AI Workflows & Serverless API",
+  "shortDescription": "Fleak is an AI-powered platform designed to streamline the creation and management of serverless APIs and AI workflows. It serves enterprises looking to reduce engineering time and maintain control over their systems. An example use case is transforming data inputs into a desired schema automatically, which is especially beneficial for large organizations dealing with diverse data systems.",
+  "pros": [
+    "Reduces engineering time by 90%",
+    "Automatically adapts to changes in data",
+    "Serverless architecture simplifies operations"
+  ],
+  "cons": [
+    "May require initial setup expertise",
+    "Potentially limited customization options",
+    "Dependent on continuous updates for new features"
+  ],
+  "alternatives": [
+    "Apache Flink [flink.apache.org]",
+    "AWS Lambda [aws.amazon.com/lambda]",
+    "Google Cloud Functions [cloud.google.com/functions]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS Lambda",
+      "url": "aws.amazon.com/lambda",
+      "reason": "Serverless computing service for flexible scaling"
+    },
+    {
+      "name": "Google Cloud Functions",
+      "url": "cloud.google.com/functions",
+      "reason": "Integrates with Google Cloud services"
+    },
+    {
+      "name": "Azure Functions",
+      "url": "azure.microsoft.com/en-us/services/functions",
+      "reason": "Supports multiple languages and integration options"
+    }
+  ],
+  "tags": [
+    "AI",
+    "serverless",
+    "API builder",
+    "data transformation"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "APIs",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://fleak.ai/",
+  "documentationUrl": "https://fleak.ai/docs",
+  "githubUrl": "https://github.com/search?q=fleak&type=repositories",
+  "twitterUrl": "https://x.com/getonfleak",
+  "screenshot": "https://share.appsfor.us/screenshots/fleak_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fleak_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fleak_ai_400.png",
+  "updatedAt": "2025-07-17T01:10:53.220Z"
+}
