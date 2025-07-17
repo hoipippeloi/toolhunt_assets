@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kiro.dev/",
+  "name": "Kiro",
+  "title": "kiro.dev",
+  "payoff": "AI IDE from prototype to production",
+  "shortDescription": "Kiro is an AI-powered Integrated Development Environment designed to streamline the coding process from prototype to production. It integrates spec-driven development, agent hooks, and multimodal inputs to enhance coding efficiency. Ideal for developers looking to implement complex features quickly, Kiro offers tools like native MCP integration and real-time code monitoring. An example use case is using Kiro to develop a software application by converting UI designs directly into functional code.",
+  "pros": [
+    "Spec-driven development enhances code quality",
+    "Multimodal inputs for versatile coding interactions",
+    "Real-time code monitoring and adjustments"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Dependent on continuous updates for new features",
+    "Potential privacy concerns with extensive data access"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "JetBrains IntelliJ IDEA [jetbrains.com/idea]",
+    "Atom [atom.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Popular, versatile IDE with extensive plugins"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Open source and customizable text editor"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast, lightweight, and cross-platform text editor"
+    }
+  ],
+  "tags": [
+    "AI",
+    "IDE",
+    "software development",
+    "spec-driven development"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://kiro.dev/",
+  "documentationUrl": "https://kiro.dev/docs",
+  "githubUrl": "https://github.com/igorsasovets",
+  "twitterUrl": "https://x.com/kirodotdev",
+  "screenshot": "https://share.appsfor.us/screenshots/kiro_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kiro_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kiro_dev_400.png",
+  "updatedAt": "2025-07-17T04:35:22.109Z"
+}
