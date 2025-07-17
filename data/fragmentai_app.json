@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fragmentai.app/",
+  "name": "Fragment AI",
+  "title": "fragmentai.app",
+  "payoff": "Optimize data operations with AI",
+  "shortDescription": "Fragment AI is a cutting-edge tool designed to enhance data operations through artificial intelligence. It is ideal for data analysts, IT departments, and developers seeking to automate and optimize data handling and analysis. An example use case includes automating data entry, analysis, and reporting processes, thereby reducing manual effort and increasing accuracy.",
+  "pros": [
+    "Enhances data accuracy",
+    "Automates repetitive tasks",
+    "Scalable to enterprise needs"
+  ],
+  "cons": [
+    "Requires technical setup",
+    "Potentially high learning curve",
+    "Limited integration with legacy systems"
+  ],
+  "alternatives": [
+    "DataRobot [datarobot.com]",
+    "RapidMiner [rapidminer.com]",
+    "Alteryx [alteryx.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "DataRobot",
+      "url": "datarobot.com",
+      "reason": "Offers automated machine learning"
+    },
+    {
+      "name": "RapidMiner",
+      "url": "rapidminer.com",
+      "reason": "Provides a visual workflow designer"
+    },
+    {
+      "name": "Alteryx",
+      "url": "alteryx.com",
+      "reason": "Focuses on analytic process automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data operations",
+    "automation",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://fragmentai.app/",
+  "documentationUrl": "https://fragmentai.app/docs",
+  "githubUrl": "https://github.com/search?q=fragment%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/fragmentai_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fragmentai_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fragmentai_app_400.png",
+  "updatedAt": "2025-07-17T03:26:00.270Z"
+}

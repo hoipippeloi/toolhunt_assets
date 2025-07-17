@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://foreplay.co/",
+  "name": "Foreplay",
+  "title": "foreplay.co",
+  "payoff": "Winning Ad Workflow Simplified",
+  "shortDescription": "Foreplay revolutionizes ad management by providing tools to save, share, and analyze ads effectively. It's designed for marketers and creative teams aiming to enhance ad performance. Users can explore over 80 million ads, track competitor strategies, and generate actionable insights. An example use case involves a marketing team using Foreplay to identify successful ad patterns and replicate them for their campaigns.",
+  "pros": [
+    "Comprehensive ad library and analytics",
+    "Seamless collaboration features",
+    "User-friendly interface with enterprise functionality"
+  ],
+  "cons": [
+    "May be overwhelming for beginners",
+    "Subscription might be expensive post-trial",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "AdEspresso [adespresso.com]",
+    "SpyFu [spyfu.com]",
+    "SEMrush [semrush.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AdEspresso",
+      "url": "adespresso.com",
+      "reason": "Offers ad optimization and management."
+    },
+    {
+      "name": "SpyFu",
+      "url": "spyfu.com",
+      "reason": "Focuses on competitor keyword research."
+    },
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Comprehensive digital marketing tool."
+    }
+  ],
+  "tags": [
+    "ad management",
+    "marketing tools",
+    "analytics",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://foreplay.co/",
+  "documentationUrl": "https://help.foreplay.co/",
+  "githubUrl": "https://github.com/search?q=foreplay&type=repositories",
+  "twitterUrl": "https://x.com/foreplay_co",
+  "screenshot": "https://share.appsfor.us/screenshots/foreplay_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/foreplay_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/foreplay_co_400.png",
+  "updatedAt": "2025-07-17T03:26:50.232Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://animatron.com/",
+  "name": "Animatron",
+  "title": "animatron.com",
+  "payoff": "Animated video marketing made easy",
+  "shortDescription": "Animatron offers a comprehensive video marketing platform designed to help small businesses and agencies create, edit, and repurpose marketing videos with ease. Users can leverage tools like a video editor, multistreaming capabilities, and a video recorder to enhance their marketing efforts. An example use case involves an agency creating animated explainer videos to boost client engagement and convey complex messages simply.",
+  "pros": [
+    "Easy-to-use interface",
+    "Comprehensive set of video tools",
+    "Supports HTML5 and video animation"
+  ],
+  "cons": [
+    "May be too basic for advanced users",
+    "Limited customization options",
+    "Potentially high cost for premium features"
+  ],
+  "alternatives": [
+    "Powtoon [powtoon.com]",
+    "Vyond [vyond.com]",
+    "Moovly [moovly.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Powtoon",
+      "url": "powtoon.com",
+      "reason": "Offers a similar easy-to-use interface for animations"
+    },
+    {
+      "name": "Vyond",
+      "url": "vyond.com",
+      "reason": "Focuses on professional animated video creation"
+    },
+    {
+      "name": "Moovly",
+      "url": "moovly.com",
+      "reason": "Provides extensive customization for videos"
+    }
+  ],
+  "tags": [
+    "video marketing",
+    "animation",
+    "video editing",
+    "marketing tools"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Marketing Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://animatron.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=animatron&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/animatron_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/animatron_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/animatron_com_400.png",
+  "updatedAt": "2025-07-17T03:25:21.120Z"
+}

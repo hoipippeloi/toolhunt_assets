@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://windsor.ai/",
+  "name": "Windsor.ai",
+  "title": "windsor.ai",
+  "payoff": "Sync data from 325+ sources fast",
+  "shortDescription": "Windsor.ai provides a no-code solution for automating data integration from various marketing and business platforms. It supports scalable ETL/ELT pipelines that connect to major data destinations quickly and securely. Ideal for data-driven companies looking to centralize their data sources into a single repository, Windsor.ai simplifies data management and enhances decision-making capabilities by transforming raw data into actionable insights.",
+  "pros": [
+    "Supports 325+ data sources",
+    "No-code data integration",
+    "Includes all connectors in every plan"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Limited customization options",
+    "Dependency on third-party data sources"
+  ],
+  "alternatives": [
+    "Fivetran [fivetran.com]",
+    "Stitch Data [stitchdata.com]",
+    "Talend [talend.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Fivetran",
+      "url": "fivetran.com",
+      "reason": "Offers similar ETL services with more integrations"
+    },
+    {
+      "name": "Stitch Data",
+      "url": "stitchdata.com",
+      "reason": "Focuses on simpler, faster data integration"
+    },
+    {
+      "name": "Talend",
+      "url": "talend.com",
+      "reason": "Provides broader data management solutions"
+    }
+  ],
+  "tags": [
+    "ETL/ELT",
+    "data integration",
+    "no-code",
+    "data connectors"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Sync",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://windsor.ai/",
+  "documentationUrl": "https://windsor.ai/documentation",
+  "githubUrl": "https://github.com/search?q=windsor%20ai&type=repositories",
+  "twitterUrl": "https://x.com/windsor_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/windsor_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/windsor_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/windsor_ai_400.png",
+  "updatedAt": "2025-07-17T03:24:54.030Z"
+}

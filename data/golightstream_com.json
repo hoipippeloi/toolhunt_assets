@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://golightstream.com/",
+  "name": "Lightstream",
+  "title": "golightstream.com",
+  "payoff": "Easy cloud-native live streaming",
+  "shortDescription": "Lightstream is a cloud-based live streaming software designed for gamers and content creators. It allows users to go live in minutes directly from their browsers, leveraging cloud technology. The platform supports console streaming with features like integrated overlays, alerts, and the ability to have up to 10 guests for multiplayer streams. Ideal for gamers looking to broadcast to platforms like Twitch or YouTube without heavy hardware.",
+  "pros": [
+    "Cloud-native streaming simplifies setup",
+    "Supports simulcasting to multiple platforms",
+    "Integrated overlays and alerts enhance streams"
+  ],
+  "cons": [
+    "Limited to 720p streaming on the free tier",
+    "10-hour streaming limit on the free tier",
+    "Advanced features locked behind premium tier"
+  ],
+  "alternatives": [
+    "OBS Studio [obsproject.com]",
+    "Streamlabs [streamlabs.com]",
+    "XSplit [xsplit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OBS Studio",
+      "url": "obsproject.com",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "Streamlabs",
+      "url": "streamlabs.com",
+      "reason": "Integrated with donations and alerts"
+    },
+    {
+      "name": "XSplit",
+      "url": "xsplit.com",
+      "reason": "Offers powerful production features"
+    }
+  ],
+  "tags": [
+    "live streaming",
+    "content creation",
+    "cloud software",
+    "gaming"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Streaming",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://golightstream.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=lightstream&type=repositories",
+  "twitterUrl": "http://x.com/lightstream",
+  "screenshot": "https://share.appsfor.us/screenshots/golightstream_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/golightstream_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/golightstream_com_400.png",
+  "updatedAt": "2025-07-17T03:27:31.036Z"
+}
