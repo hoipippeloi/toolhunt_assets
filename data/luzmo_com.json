@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://luzmo.com/",
+  "name": "Luzmo",
+  "title": "luzmo.com",
+  "payoff": "Analytics that work with your product",
+  "shortDescription": "Luzmo provides customer-facing analytics designed specifically for SaaS platforms. It enables product teams to create immersive, tailored dashboards with minimal effort. An example use case is a SaaS company using Luzmo to enhance their product with powerful, easy-to-integrate analytics, reducing development time and improving user satisfaction.",
+  "pros": [
+    "Reduces time to market for analytics features",
+    "Tailored and immersive analytics integration",
+    "Supports AI-driven insights"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "May require technical expertise to customize fully",
+    "Limited information on pricing"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive customization"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrates well with Microsoft products"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "SaaS",
+    "data visualization",
+    "customer engagement"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://luzmo.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=luzmo&type=repositories",
+  "twitterUrl": "https://twitter.com/luzmo_official",
+  "screenshot": "https://share.appsfor.us/screenshots/luzmo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/luzmo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/luzmo_com_400.png",
+  "updatedAt": "2025-07-18T01:10:29.756Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://delibr.com/",
+  "name": "Delibr AI",
+  "title": "delibr.com",
+  "payoff": "Harness AI for clearer product requirements",
+  "shortDescription": "Delibr AI is a document-writing tool designed for product teams. It integrates generative AI to help users from initial idea to creating detailed documents linked to Jira tickets. An example use case is a product manager using Delibr to organize feature requests and prioritize them using AI-enhanced templates and Product trees.",
+  "pros": [
+    "Generative AI enhances document quality",
+    "Bi-directional Jira integration",
+    "Customizable boards for task tracking"
+  ],
+  "cons": [
+    "Subscription cost per user",
+    "May require learning for full utilization",
+    "Dependent on Jira for some functionalities"
+  ],
+  "alternatives": [
+    "Aha! [aha.io]",
+    "Productboard [productboard.com]",
+    "Confluence [atlassian.com/software/confluence]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Offers roadmap and idea management"
+    },
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Focuses on product management and feedback"
+    },
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Widely used for team collaboration and docs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "product management",
+    "document automation",
+    "task management"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://delibr.com/",
+  "documentationUrl": "https://help.delibr.com/",
+  "githubUrl": "https://github.com/search?q=delibr%20ai&type=repositories",
+  "twitterUrl": "https://www.twitter.com/Delibr",
+  "screenshot": "https://share.appsfor.us/screenshots/delibr_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/delibr_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/delibr_com_400.png",
+  "updatedAt": "2025-07-18T01:11:48.766Z"
+}

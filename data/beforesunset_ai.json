@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beforesunset.ai/",
+  "name": "BeforeSunset AI",
+  "title": "beforesunset.ai",
+  "payoff": "AI that plans and prioritizes tasks",
+  "shortDescription": "BeforeSunset AI is an AI-powered planner designed to help individuals and teams efficiently manage their goals and daily tasks. It breaks down your thoughts into actionable tasks, plans your day, and helps maintain focus on important activities. Ideal for founders and busy professionals, it simplifies planning across various devices, ensuring your schedule is always synchronized.",
+  "pros": [
+    "AI-driven task management",
+    "Cross-platform synchronization",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Potential privacy concerns",
+    "Dependence on internet connectivity"
+  ],
+  "alternatives": [
+    "Todoist [todoist.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Offers flexible task management with integrations."
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Provides comprehensive project tracking features."
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Visual task management with board-based setup."
+    }
+  ],
+  "tags": [
+    "task management",
+    "AI",
+    "productivity",
+    "planning"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://beforesunset.ai/",
+  "documentationUrl": "https://help.beforesunset.ai/en",
+  "githubUrl": "https://github.com/search?q=beforesunset%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/BeforeSunsetAI",
+  "screenshot": "https://share.appsfor.us/screenshots/beforesunset_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/beforesunset_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/beforesunset_ai_400.png",
+  "updatedAt": "2025-07-18T01:12:13.148Z"
+}

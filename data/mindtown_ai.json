@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mindtown.ai/",
+  "name": "Mindtown",
+  "title": "mindtown.ai",
+  "payoff": "Enhance business with AI insights",
+  "shortDescription": "Mindtown.ai leverages artificial intelligence to provide actionable insights for businesses. It is designed for enterprises looking to optimize their operations through data-driven decisions. Example use case: A retail company uses Mindtown.ai to analyze customer behavior and improve product recommendations.",
+  "pros": [
+    "Advanced AI capabilities",
+    "User-friendly interface",
+    "Scalable solutions for enterprises"
+  ],
+  "cons": [
+    "Potentially high cost",
+    "Requires data integration",
+    "Complex features for beginners"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Strong in visual data analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Integrates well with Google Cloud"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Popular for Microsoft integration"
+    }
+  ],
+  "tags": [
+    "AI",
+    "data analytics",
+    "business intelligence",
+    "enterprise solutions"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://mindtown.ai/",
+  "documentationUrl": "https://mindtown.ai/docs",
+  "githubUrl": "https://github.com/search?q=mindtown&type=repositories",
+  "twitterUrl": "https://x.com/@mindtown_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/mindtown_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mindtown_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mindtown_ai_400.png",
+  "updatedAt": "2025-07-18T01:11:17.084Z"
+}

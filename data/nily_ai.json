@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nily.ai/",
+  "name": "Nily AI",
+  "title": "nily.ai",
+  "payoff": "Unified AI solutions for all needs!",
+  "shortDescription": "Nily AI offers a comprehensive suite of AI tools designed to enhance productivity across various tasks including writing, coding, reading, and translating. It's ideal for teams and individuals in diverse sectors. Example use: Marketers can generate ad content and verify its originality effortlessly.",
+  "pros": [
+    "Access to 20+ advanced AI tools in one platform",
+    "Supports multiple languages for broader usability",
+    "Highly accurate AI-generated content detection"
+  ],
+  "cons": [
+    "May be overwhelming due to numerous features",
+    "Potential privacy concerns with extensive data handling",
+    "Requires internet connection for all functionalities"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepL [deepl.com]",
+    "Canva [canva.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ChatGPT",
+      "url": "openai.com",
+      "reason": "Popular AI with advanced conversational abilities"
+    },
+    {
+      "name": "Grammarly",
+      "url": "grammarly.com",
+      "reason": "Enhances writing with AI-driven corrections"
+    },
+    {
+      "name": "Adobe Express",
+      "url": "adobe.com/express",
+      "reason": "Powerful AI tools for design and content creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "content generation",
+    "multilingual"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://nily.ai/",
+  "documentationUrl": "https://nily.ai/docs",
+  "githubUrl": "https://github.com/search?q=nily%20ai&type=repositories",
+  "twitterUrl": "https://x.com/nily_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/nily_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nily_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nily_ai_400.png",
+  "updatedAt": "2025-07-18T01:09:11.225Z"
+}
