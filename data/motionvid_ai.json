@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://motionvid.ai/",
+  "name": "motionvid.ai",
+  "title": "motionvid.ai",
+  "payoff": "Create video animations instantly",
+  "shortDescription": "Motionvid.ai leverages AI to transform text into engaging video animations quickly. It's designed for content creators, marketing teams, and creative professionals who need to produce high-quality motion graphics without extensive manual effort. Users start with templates and customize them to fit their needs, significantly reducing the time and skill required to create compelling video content.",
+  "pros": [
+    "Rapid video creation with AI",
+    "High-quality, customizable templates",
+    "Significant time savings for creators"
+  ],
+  "cons": [
+    "Limited control over creative aspects",
+    "Potential privacy concerns with data handling",
+    "Dependence on AI for output quality"
+  ],
+  "alternatives": [
+    "Animoto [animoto.com]",
+    "Canva [canva.com]",
+    "Biteable [biteable.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Animoto",
+      "url": "animoto.com",
+      "reason": "Offers easy video creation with templates"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Provides broader design features"
+    },
+    {
+      "name": "Biteable",
+      "url": "biteable.com",
+      "reason": "Focuses on quick, professional videos"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "AI",
+    "motion graphics",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://motionvid.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=motionvid%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/motionvid_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/motionvid_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/motionvid_ai_400.png",
+  "updatedAt": "2025-07-18T03:28:31.098Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://phantomconnect.online/",
+  "name": "PhantomConnect",
+  "title": "phantomconnect.online",
+  "payoff": "Automate and generate leads",
+  "shortDescription": "PhantomConnect specializes in automating tasks and generating leads from various networks and websites. It is designed for businesses looking to scale their online presence by automating repetitive tasks and sourcing qualified leads. An example use case is extracting and enriching lead data from top websites, then launching personalized outreach campaigns.",
+  "pros": [
+    "Automates repetitive tasks",
+    "Generates and enriches lead data",
+    "Supports personalized outreach campaigns"
+  ],
+  "cons": [
+    "Limited to Windows platform",
+    "No clear pricing information available",
+    "May require technical knowledge to set up"
+  ],
+  "alternatives": [
+    "PhantomBuster [phantombuster.com]",
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "PhantomBuster",
+      "url": "phantombuster.com",
+      "reason": "Offers similar automation and scraping tools"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Provides broader integration and automation"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation and integration"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "lead generation",
+    "automation",
+    "data enrichment"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://phantomconnect.online/",
+  "documentationUrl": "https://phantomconnect.notion.site/PhantomConnect-Documentation-45b39f55a55e4594ab6f5a8807fe99af",
+  "githubUrl": "https://github.com/search?q=phantomconnect&type=repositories",
+  "twitterUrl": "https://x.com/phantom_connect",
+  "screenshot": "https://share.appsfor.us/screenshots/phantomconnect_online.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/phantomconnect_online_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/phantomconnect_online_400.png",
+  "updatedAt": "2025-07-18T03:30:19.855Z"
+}

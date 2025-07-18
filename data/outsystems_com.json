@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://outsystems.com/",
+  "name": "OutSystems",
+  "title": "outsystems.com",
+  "payoff": "Low Code Development Meets AI",
+  "shortDescription": "OutSystems is a low-code platform that integrates artificial intelligence to streamline app development. It is designed for developers and businesses looking to quickly create custom applications. Example use case includes developing enterprise-grade applications with automated testing and AI-driven enhancements.",
+  "pros": [
+    "AI-driven development capabilities",
+    "Rapid deployment of applications",
+    "Extensive integration options"
+  ],
+  "cons": [
+    "Potentially steep learning curve",
+    "High cost for enterprise solutions",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "Mendix [mendix.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]",
+    "Appian [appian.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mendix",
+      "url": "mendix.com",
+      "reason": "Similar low-code platform with a focus on agility."
+    },
+    {
+      "name": "Microsoft PowerApps",
+      "url": "powerapps.microsoft.com",
+      "reason": "Integrates with Microsoft services for app development."
+    },
+    {
+      "name": "Appian",
+      "url": "appian.com",
+      "reason": "Offers low-code automation and workflow integration."
+    }
+  ],
+  "tags": [
+    "low-code",
+    "AI",
+    "app development",
+    "enterprise solutions"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Visual Builder",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2001,
+  "websiteUrl": "https://outsystems.com/",
+  "documentationUrl": "https://www.outsystems.com/documentation/",
+  "githubUrl": "https://github.com/search?q=outsystems&type=repositories",
+  "twitterUrl": "https://twitter.com/OutSystems",
+  "screenshot": "https://share.appsfor.us/screenshots/outsystems_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/outsystems_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/outsystems_com_400.png",
+  "updatedAt": "2025-07-18T03:27:11.253Z"
+}

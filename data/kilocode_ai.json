@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kilocode.ai/",
+  "name": "Kilo Code",
+  "title": "kilocode.ai",
+  "payoff": "Orchestrate complex AI workflows",
+  "shortDescription": "Kilo Code is an open source VS Code extension that enhances AI-driven development. It integrates features from Cline, Roo, and other tools to streamline coding tasks. Users can manage complex projects by breaking them into subtasks using Orchestrator Mode, design solutions with Architect Mode, and implement code with Code Mode. It's ideal for developers at innovative companies looking to optimize their workflow and focus on creative aspects of programming.",
+  "pros": [
+    "Integrates multiple coding tools",
+    "Supports complex workflow management",
+    "Open source with active community contributions"
+  ],
+  "cons": [
+    "May require learning curve for new users",
+    "Dependent on VS Code ecosystem",
+    "Limited to programming environments"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "Atom [atom.io]",
+    "Sublime Text [sublimetext.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Popular IDE with extensive plugin support"
+    },
+    {
+      "name": "Atom",
+      "url": "atom.io",
+      "reason": "Customizable text editor for developers"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and feature-rich code editor"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "VS Code",
+    "development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://kilocode.ai/",
+  "documentationUrl": "https://kilocode.ai/docs",
+  "githubUrl": "https://github.com/cline/cline",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/kilocode_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kilocode_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kilocode_ai_400.png",
+  "updatedAt": "2025-07-18T03:29:22.073Z"
+}

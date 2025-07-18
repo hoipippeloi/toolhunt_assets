@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://annotely.com/",
+  "name": "Annotely",
+  "title": "annotely.com",
+  "payoff": "Annotate images simply anywhere.",
+  "shortDescription": "Annotely is a web-based tool designed for easy screenshot annotation and markup, ideal for professionals needing to share visual ideas quickly. It operates directly from any modern browser without the need for installation, supporting both mobile and desktop devices. Users can draw, highlight, and annotate images using a comprehensive set of tools, making it perfect for tutorials, team collaborations, or personal note-taking.",
+  "pros": [
+    "No installation required",
+    "Works on all devices and browsers",
+    "Free to start without credit card"
+  ],
+  "cons": [
+    "No native app for offline use",
+    "Limited to image annotations",
+    "No advanced image editing features"
+  ],
+  "alternatives": [
+    "Snagit [techsmith.com]",
+    "LightShot [prntscr.com]",
+    "Greenshot [getgreenshot.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Snagit",
+      "url": "techsmith.com",
+      "reason": "Offers advanced editing and video capture."
+    },
+    {
+      "name": "LightShot",
+      "url": "prntscr.com",
+      "reason": "Simple, fast, and offers instant sharing."
+    },
+    {
+      "name": "Greenshot",
+      "url": "getgreenshot.org",
+      "reason": "Open source and highly customizable."
+    }
+  ],
+  "tags": [
+    "screenshot tool",
+    "image annotation",
+    "markup tool",
+    "web-based"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://annotely.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=annotely&type=repositories",
+  "twitterUrl": "https://x.com/@annotely",
+  "screenshot": "https://share.appsfor.us/screenshots/annotely_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/annotely_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/annotely_com_400.png",
+  "updatedAt": "2025-07-18T03:29:54.484Z"
+}

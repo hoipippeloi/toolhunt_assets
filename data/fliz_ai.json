@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fliz.ai/",
+  "name": "Fliz",
+  "title": "fliz.ai",
+  "payoff": "AI-Powered Video Creator",
+  "shortDescription": "Fliz is an AI-driven tool designed to create engaging videos from web content. Users simply paste a URL, and Fliz generates a video using AI. This tool is ideal for marketers and content creators looking to transform articles, product pages, or ads into professional videos quickly. Example: Convert a blog post into a video with custom voice-over and images.",
+  "pros": [
+    "Easy to use",
+    "Time saving",
+    "High quality content"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on original content quality",
+    "Potential privacy concerns with URL input"
+  ],
+  "alternatives": [
+    "Lumen5 [lumen5.com]",
+    "Animoto [animoto.com]",
+    "InVideo [invideo.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Offers AI-driven video creation"
+    },
+    {
+      "name": "Animoto",
+      "url": "animoto.com",
+      "reason": "Focuses on easy video making"
+    },
+    {
+      "name": "InVideo",
+      "url": "invideo.io",
+      "reason": "Provides video editing tools"
+    }
+  ],
+  "tags": [
+    "video creation",
+    "AI",
+    "marketing",
+    "content transformation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://fliz.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=fliz&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/fliz_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fliz_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fliz_ai_400.png",
+  "updatedAt": "2025-07-18T03:28:53.460Z"
+}
