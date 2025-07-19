@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://briefer.cloud/",
+  "name": "Briefer",
+  "title": "briefer.cloud",
+  "payoff": "Collaborative data platform",
+  "shortDescription": "Briefer is a versatile data platform designed for engineers and data scientists. It integrates SQL and Python capabilities, allowing users to create visualizations, run analyses, and share insights. Teams can collaborate in real-time, turning notebooks into interactive dashboards or full-fledged data apps. An example use case is a team using Briefer to streamline their data analysis process, enhancing productivity and insight generation.",
+  "pros": [
+    "Built-in AI analyst for automated tasks",
+    "Real-time collaboration features",
+    "Supports SQL and Python integration"
+  ],
+  "cons": [
+    "May require coding knowledge",
+    "Potentially steep learning curve for non-technical users",
+    "Limited information on custom integrations"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Microsoft Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Rich visualization and BI capabilities"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in data exploration and sharing"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Wide integration and enterprise focus"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "collaboration",
+    "AI",
+    "visualization"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://briefer.cloud/",
+  "documentationUrl": "https://briefer.cloud/docs",
+  "githubUrl": "https://github.com/briefercloud/briefer",
+  "twitterUrl": "https://twitter.com/briefercloud",
+  "screenshot": "https://share.appsfor.us/screenshots/briefer_cloud.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/briefer_cloud_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/briefer_cloud_400.png",
+  "updatedAt": "2025-07-19T01:07:59.121Z"
+}

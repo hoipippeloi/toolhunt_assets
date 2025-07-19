@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://skarbe.com/",
+  "name": "Skarbe",
+  "title": "skarbe.com",
+  "payoff": "Sell without a CRM",
+  "shortDescription": "Skarbe is designed for sales professionals seeking an efficient way to manage their sales processes without the complexity of traditional CRMs. It utilizes AI to read emails, meetings, and calls, automatically drafting follow-ups and reminders. This tool is ideal for sales teams looking to streamline deal tracking and enhance productivity without relying on extensive data entry or spreadsheets.",
+  "pros": [
+    "AI-driven automation of follow-ups",
+    "Zero need for manual data entry",
+    "Efficient tracking of every sales deal"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependence on AI accuracy",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Pipedrive [pipedrive.com]",
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pipedrive",
+      "url": "pipedrive.com",
+      "reason": "Offers visual sales pipelines"
+    },
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM features"
+    },
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Free CRM with marketing tools"
+    }
+  ],
+  "tags": [
+    "AI",
+    "sales automation",
+    "CRM",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://skarbe.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=skarbe&type=repositories",
+  "twitterUrl": "https://twitter.com/SkarbeAI",
+  "screenshot": "https://share.appsfor.us/screenshots/skarbe_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/skarbe_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/skarbe_com_400.png",
+  "updatedAt": "2025-07-19T01:07:15.410Z"
+}

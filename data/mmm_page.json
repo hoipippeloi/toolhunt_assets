@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mmm.page/",
+  "name": "mmm.page",
+  "title": "mmm.page",
+  "payoff": "Drag & drop websites for anything",
+  "shortDescription": "mmm.page allows users to create unique, drag-and-drop websites with ease. It's designed for anyone looking to build a personal corner on the internet, from link-in-bio pages to full portfolios and landing pages. Users can add text, images, GIFs, videos, and more to their pages, making it a versatile tool for creative expression. The platform encourages a messy, imperfect style, standing out in a sea of cookie-cutter website designs.",
+  "pros": [
+    "Highly customizable with drag-and-drop interface",
+    "Free tier available with essential features",
+    "Supports a wide range of content types"
+  ],
+  "cons": [
+    "Limited features without premium upgrade",
+    "May not suit traditional business needs",
+    "No API for developer integration"
+  ],
+  "alternatives": [
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]",
+    "Weebly [weebly.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Offers more professional templates and tools"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Features integrated e-commerce solutions"
+    },
+    {
+      "name": "Weebly",
+      "url": "weebly.com",
+      "reason": "Simpler interface for quick website setup"
+    }
+  ],
+  "tags": [
+    "website builder",
+    "drag-and-drop",
+    "creative platform",
+    "personal websites"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mmm.page/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mmm%20page&type=repositories",
+  "twitterUrl": "https://twitter.com/xhfloz",
+  "screenshot": "/screenshots/mmm_page.png",
+  "screenshot_640": "/screenshots/mmm_page_640.png",
+  "screenshot_400": "/screenshots/mmm_page_400.png",
+  "updatedAt": "2025-07-19T01:07:33.530Z"
+}

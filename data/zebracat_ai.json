@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zebracat.ai/",
+  "name": "Zebracat",
+  "title": "zebracat.ai",
+  "payoff": "Create AI Videos 10X Faster",
+  "shortDescription": "Zebracat enables users to transform written content into AI-powered videos quickly. It's designed for creators, marketers, and educators who need to produce engaging video content without manual editing. Users can generate videos with AI avatars, customizable scenes, and clone voices for consistent narration.",
+  "pros": [
+    "Fast AI-powered video generation",
+    "Customizable AI avatars and scenes",
+    "Voice cloning for consistent narration"
+  ],
+  "cons": [
+    "Limited free plan features",
+    "Potential privacy concerns with data handling",
+    "Dependence on AI might limit creative control"
+  ],
+  "alternatives": [
+    "Lumen5 [lumen5.com]",
+    "Animoto [animoto.com]",
+    "InVideo [invideo.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Offers similar AI video creation tools"
+    },
+    {
+      "name": "Animoto",
+      "url": "animoto.com",
+      "reason": "Easy-to-use video maker with templates"
+    },
+    {
+      "name": "InVideo",
+      "url": "invideo.io",
+      "reason": "Flexible video editing and AI features"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "AI",
+    "content creation",
+    "marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://zebracat.ai/",
+  "documentationUrl": "https://zebracat.ai/docs",
+  "githubUrl": "https://github.com/search?q=zebracat&type=repositories",
+  "twitterUrl": "https://www.twitter.com/Zebracat_AI",
+  "screenshot": "https://share.appsfor.us/screenshots/zebracat_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zebracat_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zebracat_ai_400.png",
+  "updatedAt": "2025-07-19T01:08:37.837Z"
+}

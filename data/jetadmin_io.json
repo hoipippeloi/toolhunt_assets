@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jetadmin.io/",
+  "name": "Jet Admin",
+  "title": "jetadmin.io",
+  "payoff": "Build Custom Business Apps",
+  "shortDescription": "Jet Admin enables users to build custom web applications without coding, utilizing AI for rapid development. It's designed for developers and non-technical users alike, facilitating data integration from various sources like SQL databases and APIs. Example use cases include creating customer portals, inventory trackers, and custom CRMs.",
+  "pros": [
+    "No-code app development",
+    "Integration with multiple data sources",
+    "AI-powered features for fast setup"
+  ],
+  "cons": [
+    "May require learning curve for non-tech users",
+    "Limited customization compared to coded solutions",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Airtable [airtable.com]",
+    "AppSheet [appsheet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers similar no-code app building features"
+    },
+    {
+      "name": "AppSheet",
+      "url": "appsheet.com",
+      "reason": "Focuses on mobile app development with no-code"
+    },
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Combines database with no-code app capabilities"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "app builder",
+    "AI",
+    "data integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://jetadmin.io/",
+  "documentationUrl": "https://docs.jetadmin.io/",
+  "githubUrl": "https://github.com/jet-admin/jet-bridge",
+  "twitterUrl": "https://twitter.com/Jet_Admin",
+  "screenshot": "https://share.appsfor.us/screenshots/jetadmin_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jetadmin_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jetadmin_io_400.png",
+  "updatedAt": "2025-07-19T01:09:00.322Z"
+}

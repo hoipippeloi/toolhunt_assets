@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nurovant.com/",
+  "name": "Nurovant AI",
+  "title": "nurovant.com",
+  "payoff": "Unlock learning with AI personalization",
+  "shortDescription": "Nurovant AI is designed to enhance the educational experience by providing AI-driven personalization for schools, educators, and students. It focuses on identifying and addressing individual student needs quickly, ensuring that no student falls behind. For example, it can detect which specific concepts a student struggles with, allowing for timely intervention and tailored learning paths.",
+  "pros": [
+    "Personalized learning paths for each student",
+    "Early detection of struggling students",
+    "Adaptive learning enhances engagement"
+  ],
+  "cons": [
+    "Limited to educational use",
+    "May require frequent updates",
+    "Potential privacy concerns with student data"
+  ],
+  "alternatives": [
+    "Knewton [knewton.com]",
+    "Schoology [schoology.com]",
+    "Blackboard [blackboard.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Khan Academy",
+      "url": "khanacademy.org",
+      "reason": "Free, comprehensive educational tool"
+    },
+    {
+      "name": "Coursera",
+      "url": "coursera.org",
+      "reason": "Wide range of courses and degrees"
+    },
+    {
+      "name": "Canvas",
+      "url": "instructure.com",
+      "reason": "Flexible learning management system"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "AI",
+    "Education",
+    "Adaptive Learning"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://nurovant.com/",
+  "documentationUrl": "https://docs.google.com/document/d/1Fc4e3NMp8gjUzcr7A1BhvKo0QZKwecrX4XlQGD4-k00/edit?usp=sharing",
+  "githubUrl": "https://github.com/search?q=nurovant%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/nurovant_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nurovant_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nurovant_com_400.png",
+  "updatedAt": "2025-07-19T01:09:26.384Z"
+}
