@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://trydome.io/",
-  "name": "trydome",
-  "title": "Dome- Full-Stack Cloud Built for SaaS | Accelerating a Faster, More Accessible Web",
-  "payoff": "",
-  "shortDescription": "Discover Dome, the ultimate full-stack cloud platform tailored for SaaS. Our mission is to build a faster, more accessible web, empowering businesses to innovate and grow effortlessly.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
-  "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "name": "Dome",
+  "title": "trydome.io",
+  "payoff": "Accelerating a Faster, More Accessible Web",
+  "shortDescription": "Dome is a cloud platform designed to streamline the development process for SaaS products. It allows developers to launch their entire stack instantly, integrating seamlessly with popular Git and CI tools. Ideal for developers, thinkers, and creators, Dome transforms ideas into products quickly, moving from concept to launch in minutes. This tool is perfect for rapid development cycles and supports a wide range of applications.",
+  "pros": [
+    "Rapid deployment of SaaS applications",
+    "Seamless integration with existing tools",
+    "Supports a broad developer community"
+  ],
+  "cons": [
+    "May not suit non-tech savvy users",
+    "Limited customization options",
+    "Potential dependency on the platform"
+  ],
+  "alternatives": [
+    "Heroku [heroku.com]",
+    "DigitalOcean App Platform [digitalocean.com]",
+    "AWS Amplify [aws.amazon.com/amplify]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Popular PaaS with easy scaling options"
+    },
+    {
+      "name": "Netlify",
+      "url": "netlify.com",
+      "reason": "Focuses on frontend and JAMstack deployment"
+    },
+    {
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Optimized for frontend frameworks like React"
+    }
+  ],
+  "tags": [
+    "cloud platform",
+    "SaaS",
+    "development",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Cloud Platform",
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://trydome.io/",
-  "documentationUrl": "https://docs.trydome.io/",
+  "documentationUrl": "https://trydome.io/docs",
   "githubUrl": "https://github.com/domeplatform",
   "twitterUrl": "https://twitter.com/trydomeio",
   "screenshot": "https://share.appsfor.us/screenshots/trydome_io.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/trydome_io_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/trydome_io_400.png",
-  "updatedAt": "2025-07-20T01:16:34.533Z"
+  "updatedAt": "2025-07-20T10:16:14.578Z"
 }

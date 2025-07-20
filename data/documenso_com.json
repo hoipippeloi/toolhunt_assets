@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://documenso.com/",
-  "name": "documenso",
-  "title": "Documenso - The Open Source DocuSign Alternative",
-  "payoff": "",
-  "shortDescription": "Sign everywhere with Documenso. Build workflows, create templates, and integrate seamlessly with tools you love—modern, secure, and customizable for any scale.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
-  "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "name": "Documenso",
+  "title": "documenso.com",
+  "payoff": "Compliant Signatures, Zero Friction",
+  "shortDescription": "Documenso offers an open-source alternative to DocuSign, providing a seamless and scalable electronic signature solution. It is designed for businesses of all sizes, enabling them to integrate signing capabilities directly into their systems. An example use case is a company automating contract signings to speed up their operational processes while ensuring legal compliance.",
+  "pros": [
+    "Open-source flexibility",
+    "Scalable for enterprise use",
+    "Easy integration with existing systems"
+  ],
+  "cons": [
+    "Limited customer support compared to paid products",
+    "Potential need for in-house technical expertise",
+    "Lesser-known brand may not inspire trust"
+  ],
+  "alternatives": [
+    "HelloSign [hellosign.com]",
+    "Adobe Sign [adobe.com]",
+    "SignNow [signnow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Offers a user-friendly interface and strong compliance."
+    },
+    {
+      "name": "Adobe Sign",
+      "url": "adobe.com",
+      "reason": "Widely recognized and integrates with Adobe products."
+    },
+    {
+      "name": "SignNow",
+      "url": "signnow.com",
+      "reason": "Provides advanced workflow features and mobile apps."
+    }
+  ],
+  "tags": [
+    "open source",
+    "e-signatures",
+    "document management",
+    "enterprise solution"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "E-Signatures",
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2023,
   "websiteUrl": "https://documenso.com/",
-  "documentationUrl": "https://docs.documenso.com/developers/public-api",
+  "documentationUrl": "https://documenso.com/docs",
   "githubUrl": "https://github.com/documenso/documenso",
   "twitterUrl": "https://x.com/documenso",
   "screenshot": "https://share.appsfor.us/screenshots/documenso_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/documenso_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/documenso_com_400.png",
-  "updatedAt": "2025-07-20T01:17:39.556Z"
+  "updatedAt": "2025-07-20T10:17:17.057Z"
 }

@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://front.com/",
-  "name": "front",
-  "title": "Front | Customer-first service — powered by AI, designed for humans",
-  "payoff": "",
-  "shortDescription": "Front is the modern CX platform for customer-first businesses. Deliver exceptional service at scale with automation and insights you can trust.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
-  "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "name": "Front",
+  "title": "front.com",
+  "payoff": "AI-powered customer-first service",
+  "shortDescription": "Front is an all-in-one support platform designed to enhance customer service by integrating every communication channel into a single inbox. It is tailored for teams that require collaborative tools to manage shared inboxes, providing personalized service at scale. Example use case includes businesses needing to streamline their customer support operations, improve response times, and leverage AI for real-time insights.",
+  "pros": [
+    "Unified communication channels",
+    "Real-time customer insights",
+    "AI and automation capabilities"
+  ],
+  "cons": [
+    "May be complex to set up",
+    "Potentially high cost for small teams",
+    "Dependence on internet connectivity"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]",
+    "Help Scout [helpscout.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Offers a broader set of integration options"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Focuses on streamlining customer conversations"
+    },
+    {
+      "name": "Help Scout",
+      "url": "helpscout.com",
+      "reason": "Emphasizes a simpler, more intuitive interface"
+    }
+  ],
+  "tags": [
+    "customer service",
+    "AI",
+    "collaboration",
+    "communication"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2013,
   "websiteUrl": "https://front.com/",
-  "documentationUrl": "https://help.front.com/",
-  "githubUrl": null,
+  "documentationUrl": "https://front.com/documentation",
+  "githubUrl": "https://github.com/search?q=front&type=repositories",
   "twitterUrl": null,
-  "screenshot": "https://share.appsfor.us/screenshots/front_com.png",
-  "screenshot_640": "https://share.appsfor.us/screenshots/front_com_640.png",
-  "screenshot_400": "https://share.appsfor.us/screenshots/front_com_400.png",
-  "updatedAt": "2025-07-20T03:43:03.531Z"
+  "screenshot": "/screenshots/front_com.png",
+  "screenshot_640": "/screenshots/front_com_640.png",
+  "screenshot_400": "/screenshots/front_com_400.png",
+  "updatedAt": "2025-07-20T10:17:38.088Z"
 }

@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://lottielab.com/",
-  "name": "lottielab",
-  "title": "Lottielab | Create & edit Lottie animations",
-  "payoff": "",
-  "shortDescription": "Create and ship animations to your products faster. Bring your websites and apps to life with the simplest editor for Lottie animations.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Lottielab",
+  "title": "lottielab.com",
+  "payoff": "Animate easily across platforms",
+  "shortDescription": "Lottielab is a tool designed for creating and editing Lottie animations, catering primarily to product teams. Users can import assets from popular design tools or start from scratch, making it versatile for various design needs. The platform is easy to learn yet packed with powerful features, making it the fastest way to animate. An example use case is a designer at a tech startup who uses Lottielab to quickly create animations for mobile apps, enhancing user engagement with visually appealing interfaces.",
+  "pros": [
+    "Easy to use with a gentle learning curve",
+    "Supports import from various design tools",
+    "Offers a collection of free templates"
+  ],
+  "cons": [
+    "May require basic understanding of animation",
+    "Limited to Lottie format outputs",
+    "No mentioned offline capabilities"
+  ],
+  "alternatives": [
+    "Haiku Animator [haikuforteams.com]",
+    "Rive [rive.app]",
+    "Bodymovin [aescripts.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Haiku Animator",
+      "url": "haikuforteams.com",
+      "reason": "Focuses on team collaboration"
+    },
+    {
+      "name": "Rive",
+      "url": "rive.app",
+      "reason": "Interactive animations for apps"
+    },
+    {
+      "name": "Bodymovin",
+      "url": "aescripts.com",
+      "reason": "Plugin for After Effects"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "animation",
+    "product management",
+    "cross-platform"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2020,
   "websiteUrl": "https://lottielab.com/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=lottielab&type=repositories",
   "twitterUrl": "https://twitter.com/LottielabHQ",
   "screenshot": "https://share.appsfor.us/screenshots/lottielab_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/lottielab_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/lottielab_com_400.png",
-  "updatedAt": "2025-07-20T01:17:03.624Z"
+  "updatedAt": "2025-07-20T10:16:48.775Z"
 }

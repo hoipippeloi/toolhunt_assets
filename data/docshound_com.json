@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://docshound.com/",
-  "name": "docshound",
-  "title": "DocsHound | Demo to Docs AI Platform",
-  "payoff": "",
-  "shortDescription": "Record your product once and let AI create your documentation, chatbot, and product insights. Transform demos into complete documentation in minutes.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "DocsHound",
+  "title": "docshound.com",
+  "payoff": "Automate support with AI",
+  "shortDescription": "DocsHound is an AI-driven platform that transforms product demos into comprehensive documentation, support, and insights. It caters to teams looking to automate and enhance customer support through visual AI technology. An example use case involves a software company using DocsHound to convert a product walkthrough into a detailed knowledge base, ready to assist customers and train AI agents.",
+  "pros": [
+    "Automates documentation from demos",
+    "Integrates advanced visual recognition",
+    "Creates self-organizing knowledge assets"
+  ],
+  "cons": [
+    "Dependent on quality of demos",
+    "Potential learning curve for new users",
+    "Limited to Chrome extension"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Help Scout [helpscout.com]",
+    "Intercom [intercom.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Offers comprehensive support tools"
+    },
+    {
+      "name": "Help Scout",
+      "url": "helpscout.com",
+      "reason": "Focuses on customer support and docs"
+    },
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Integrates chat and support features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "documentation",
+    "customer support",
+    "knowledge management"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "department": "Customer Service",
+  "function": "Knowledge Base",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://docshound.com/",
   "documentationUrl": "https://docs.docshound.com/",
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=docshound&type=repositories",
   "twitterUrl": "https://x.com/docshoundai",
   "screenshot": "https://share.appsfor.us/screenshots/docshound_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/docshound_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/docshound_com_400.png",
-  "updatedAt": "2025-07-20T01:15:57.124Z"
+  "updatedAt": "2025-07-20T10:15:28.883Z"
 }

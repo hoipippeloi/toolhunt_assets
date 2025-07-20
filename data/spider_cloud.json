@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://spider.cloud/",
-  "name": "spider",
-  "title": "Spider: The Web Crawler for AI",
-  "payoff": "",
-  "shortDescription": "Experience cutting-edge web crawling with unparalleled speeds, perfect for LLMs, Machine Learning, and Artificial Intelligence. The fastest and most efficient web scraper tailored for AI applications.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
-  "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "name": "Spider",
+  "title": "spider.cloud",
+  "payoff": "Web Crawler for AI and LLMs",
+  "shortDescription": "Spider is a high-performance web crawler designed specifically for AI projects and large language models (LLMs). Built using Rust, it offers unparalleled speed and scalability, capable of handling thousands of pages in seconds. It integrates seamlessly with major AI platforms, enhancing data collection and processing workflows. Ideal for developers needing rapid, large-scale data extraction for AI training or operational deployment.",
+  "pros": [
+    "High scalability and speed",
+    "Integration with AI platforms",
+    "Cost-effective cloud solutions"
+  ],
+  "cons": [
+    "Requires technical knowledge to deploy",
+    "Primarily focused on AI applications",
+    "Limited customer support options"
+  ],
+  "alternatives": [
+    "Scrapy [scrapy.org]",
+    "Octoparse [octoparse.com]",
+    "ParseHub [parsehub.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Scrapy",
+      "url": "scrapy.org",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "User-friendly interface for non-coders"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Supports complex data extraction"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "AI",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Web Scraping",
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://spider.cloud/",
-  "documentationUrl": "https://docs.llamaindex.ai/en/stable/examples/data_connectors/WebPageDemo/#using-spider-reader",
+  "documentationUrl": "https://github.com/spider-rs/spider",
   "githubUrl": "https://github.com/spider-rs/spider",
   "twitterUrl": "https://twitter.com/iammerrick/status/1787873425446572462",
   "screenshot": "https://share.appsfor.us/screenshots/spider_cloud.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/spider_cloud_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/spider_cloud_400.png",
-  "updatedAt": "2025-07-20T01:16:15.155Z"
+  "updatedAt": "2025-07-20T10:15:50.708Z"
 }
