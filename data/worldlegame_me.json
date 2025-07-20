@@ -1,26 +1,58 @@
 {
   "sourceUrl": "https://worldlegame.me/",
-  "name": "worldlegame",
-  "title": "Worldle Game - Wordle Geography",
-  "payoff": "",
-  "shortDescription": "Play Worldle Game Unlimited, Guess countries by shape in this geography Wordle-style challenge. Learn world maps & test your global knowledge!",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Worldle Game",
+  "title": "worldlegame.me",
+  "payoff": "Enhance geographical skills playfully",
+  "shortDescription": "Worldle Game is an interactive geography-based game designed to enhance knowledge of world maps and countries. Players guess the country from its map within six attempts. It's suitable for all ages, offering educational fun through bonus rounds that test deeper knowledge like capitals, flags, and landmarks.",
+  "pros": [
+    "Unlimited play without daily limits",
+    "No registration required to play",
+    "Adaptable to all screen sizes and devices"
+  ],
+  "cons": [
+    "Limited to geographical content",
+    "No multiplayer mode",
+    "Potential repetition of countries"
+  ],
+  "alternatives": [
+    "GeoGuessr [geoguessr.com]",
+    "Seterra [seterra.com]",
+    "Lizard Point [lizardpoint.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GeoGuessr",
+      "url": "geoguessr.com",
+      "reason": "Offers real-world imagery for guessing"
+    },
+    {
+      "name": "Seterra",
+      "url": "seterra.com",
+      "reason": "Includes diverse geography quizzes"
+    },
+    {
+      "name": "Lizard Point",
+      "url": "lizardpoint.com",
+      "reason": "Provides quizzes on geography topics"
+    }
+  ],
+  "tags": [
+    "educational game",
+    "geography learning",
+    "interactive game"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://worldlegame.me/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=worldle%20game&type=repositories",
   "twitterUrl": null,
   "screenshot": "https://share.appsfor.us/screenshots/worldlegame_me.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/worldlegame_me_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/worldlegame_me_400.png",
-  "updatedAt": "2025-07-19T18:19:47.238Z"
+  "updatedAt": "2025-07-20T12:26:56.306Z"
 }
