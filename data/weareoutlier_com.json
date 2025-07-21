@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://weareoutlier.com/",
+  "name": "Outlier",
+  "title": "weareoutlier.com",
+  "payoff": "Get Data Confident",
+  "shortDescription": "Outlier specializes in enhancing data capabilities for businesses. They consolidate data sources, implement automated reporting, and set up BI tools, acting as an extended data team. Ideal for companies looking to streamline data processes and gain actionable insights, such as improving day-to-day operations and supporting fundraising efforts.",
+  "pros": [
+    "Consolidates data for clear insights",
+    "Implements modern, automated reporting",
+    "Enhances product value with in-product analytics"
+  ],
+  "cons": [
+    "May be expensive for small businesses",
+    "Dependent on client's data maturity level",
+    "Limited to data-related services"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Domo [domo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive BI capabilities"
+    },
+    {
+      "name": "Domo",
+      "url": "domo.com",
+      "reason": "Integrates multiple data sources"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "business intelligence",
+    "data integration",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://weareoutlier.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=outlier&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/weareoutlier_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/weareoutlier_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/weareoutlier_com_400.png",
+  "updatedAt": "2025-07-21T03:41:59.352Z"
+}

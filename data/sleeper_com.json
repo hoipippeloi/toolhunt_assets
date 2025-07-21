@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sleeper.com/",
+  "name": "Sleeper",
+  "title": "sleeper.com",
+  "payoff": "Engage in diverse fantasy sports",
+  "shortDescription": "Sleeper is a versatile fantasy sports platform that caters to enthusiasts of football, basketball, and esports. Users can participate in various fantasy leagues, including NFL and NBA, and engage in different types of drafts such as mock, redraft, auction, and dynasty. The platform is designed for sports fans who enjoy managing and competing in fantasy sports leagues. An example use case is a group of friends creating a private league to compete throughout the NBA season.",
+  "pros": [
+    "Supports multiple sports types",
+    "Variety of league formats",
+    "Engaging user interface"
+  ],
+  "cons": [
+    "Limited to fantasy sports",
+    "No API for developers",
+    "May be complex for beginners"
+  ],
+  "alternatives": [
+    "ESPN Fantasy Sports [fantasy.espn.com]",
+    "Yahoo Fantasy Sports [sports.yahoo.com]",
+    "FanDuel [fanduel.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ESPN Fantasy Sports",
+      "url": "fantasy.espn.com",
+      "reason": "Offers a wide range of sports"
+    },
+    {
+      "name": "Yahoo Fantasy Sports",
+      "url": "sports.yahoo.com",
+      "reason": "Includes news and expert analysis"
+    },
+    {
+      "name": "FanDuel",
+      "url": "fanduel.com",
+      "reason": "Allows daily fantasy sports betting"
+    }
+  ],
+  "tags": [
+    "fantasy sports",
+    "gaming",
+    "entertainment",
+    "sports management"
+  ],
+  "apiUsed": false,
+  "department": "Entertainment",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://sleeper.com/",
+  "documentationUrl": "https://docs.sleeper.com/",
+  "githubUrl": "https://github.com/search?q=sleeper&type=repositories",
+  "twitterUrl": "https://x.com/SleeperHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/sleeper_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sleeper_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sleeper_com_400.png",
+  "updatedAt": "2025-07-21T03:43:40.952Z"
+}

@@ -1,53 +1,20 @@
 {
   "sourceUrl": "https://readme.so/",
-  "name": "readme.so",
+  "name": "readme",
   "title": "readme.so",
-  "payoff": "Create a README easily",
-  "shortDescription": "readme.so offers a streamlined editor designed to help developers quickly create comprehensive READMEs for their projects. It caters primarily to developers and content creators who need to document software projects effectively. An example use case would be a developer wanting to provide clear, structured information about how to install, use, and contribute to their open-source software.",
-  "pros": [
-    "User-friendly interface",
-    "Supports multiple languages",
-    "Quick customization options"
-  ],
-  "cons": [
-    "Limited to README files",
-    "No advanced formatting tools",
-    "Lacks integration with other tools"
-  ],
-  "alternatives": [
-    "Docusaurus [docusaurus.io]",
-    "GitBook [gitbook.com]",
-    "MkDocs [mkdocs.org]"
-  ],
-  "aiSuggestedAlternatives": [
-    {
-      "name": "Docusaurus",
-      "url": "docusaurus.io",
-      "reason": "Offers static site generation for docs"
-    },
-    {
-      "name": "GitBook",
-      "url": "gitbook.com",
-      "reason": "Combines docs with analytics"
-    },
-    {
-      "name": "MkDocs",
-      "url": "mkdocs.org",
-      "reason": "Simple, markdown-based static site generator"
-    }
-  ],
-  "tags": [
-    "documentation",
-    "content management",
-    "developer tools",
-    "project management"
-  ],
+  "payoff": "",
+  "shortDescription": "Use readme.so's markdown editor and templates to easily create a ReadMe for your projects",
+  "pros": [],
+  "cons": [],
+  "alternatives": [],
+  "aiSuggestedAlternatives": [],
+  "tags": [],
   "apiUsed": false,
-  "department": "Development",
-  "function": "Content Management",
-  "freeTier": true,
+  "department": "Uncategorized",
+  "function": "",
+  "freeTier": false,
   "openSource": true,
-  "releasedYear": 2021,
+  "releasedYear": 2025,
   "websiteUrl": "https://readme.so/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/octokatherine/readme.so/issues/new",
@@ -55,5 +22,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/readme_so.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/readme_so_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/readme_so_400.png",
-  "updatedAt": "2025-07-21T06:26:34.801Z"
+  "updatedAt": "2025-07-20T03:44:44.633Z"
 }

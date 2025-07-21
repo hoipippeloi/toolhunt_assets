@@ -3,21 +3,21 @@
   "name": "OWOX BI",
   "title": "owox.com",
   "payoff": "Empower Business with Data Insights",
-  "shortDescription": "OWOX BI is a self-service analytics platform designed to empower businesses by enabling easy access to data insights without the need for extensive data teams. It supports marketing, finance, and product teams by providing real-time data integration into tools like Google Sheets and dashboards. Users can ask questions in plain English and receive instant answers, facilitating faster decision-making and reducing reliance on IT staff.",
+  "shortDescription": "OWOX BI is a self-service analytics platform designed to empower businesses by enabling easy access to data insights without the need for extensive data teams. It is particularly useful for marketing, finance, and product teams, allowing users to generate reports and gain insights through simple queries or automated data flows. An example use case is a marketing team quickly accessing campaign performance data to adjust strategies in real-time.",
   "pros": [
-    "Real-time data integration",
-    "Supports plain English queries",
-    "Designed for non-technical users"
+    "Real-time data access and reporting",
+    "Supports non-technical user interaction",
+    "Integrates with existing tools like Google Sheets"
   ],
   "cons": [
-    "May require initial setup help",
-    "Potentially limited customizability",
-    "Dependent on external data sources"
+    "Potential complexity in initial setup",
+    "May require training for full feature use",
+    "Dependent on data quality and integration"
   ],
   "alternatives": [
     "Tableau [tableau.com]",
-    "Microsoft Power BI [powerbi.com]",
-    "Looker [looker.com]"
+    "Looker [looker.com]",
+    "Microsoft Power BI [powerbi.com]"
   ],
   "aiSuggestedAlternatives": [
     {
@@ -26,21 +26,21 @@
       "reason": "Popular for visual analytics"
     },
     {
-      "name": "Qlik Sense",
-      "url": "qlik.com",
-      "reason": "Flexible, scalable BI tool"
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in business intelligence"
     },
     {
-      "name": "Sisense",
-      "url": "sisense.com",
-      "reason": "Integrates with complex data"
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates well with MS products"
     }
   ],
   "tags": [
     "analytics",
     "data visualization",
     "self-service BI",
-    "real-time reporting"
+    "reporting"
   ],
   "apiUsed": true,
   "department": "Data & Analytics",
@@ -49,11 +49,11 @@
   "openSource": true,
   "releasedYear": 2010,
   "websiteUrl": "https://owox.com/",
-  "documentationUrl": "https://owox.com/documentation",
+  "documentationUrl": "https://owox.com/documentation/",
   "githubUrl": "https://github.com/OWOX/owox-data-marts",
   "twitterUrl": "https://www.owox.com/#",
   "screenshot": "https://share.appsfor.us/screenshots/owox_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/owox_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/owox_com_400.png",
-  "updatedAt": "2025-07-21T10:00:46.554Z"
+  "updatedAt": "2025-07-21T10:01:13.521Z"
 }
