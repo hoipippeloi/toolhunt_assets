@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://mercer.design/",
-  "name": "mercer",
-  "title": "Mercer: AI-Powered Tools for Fashion",
-  "payoff": "",
-  "shortDescription": "Your all-in-one platform for product design from concept to production. Mercer is the leading platform for independent designers, small fashion houses, and established fashion brands to unify development, production, and logistics into a single platform. Whether you're starting from inspiration photos, hand sketches, CADs, tech packs, or want to use AI to get started - you can design and collaborate on our web platform with unprecedented ease.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Mercer",
+  "title": "mercer.design",
+  "payoff": "AI Tools for Fashion Pros",
+  "shortDescription": "Mercer is an all-in-one platform designed for the fashion industry, catering to independent designers, small fashion houses, and established brands. It integrates development, production, and logistics into a single platform, streamlining the process from concept to production. Users can start from various inputs like photos, sketches, or AI suggestions, and utilize tools for collaboration and feedback within teams.",
+  "pros": [
+    "Integrates entire product design workflow",
+    "Features AI-driven design tools",
+    "Facilitates collaboration across teams"
+  ],
+  "cons": [
+    "Limited to fashion industry",
+    "No direct manufacturing for lower subscriptions",
+    "No product templates yet"
+  ],
+  "alternatives": [
+    "Adobe Illustrator [adobe.com]",
+    "CLO 3D [clo3d.com]",
+    "Tukatech [tukatech.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Illustrator",
+      "url": "adobe.com",
+      "reason": "Industry standard in graphic design"
+    },
+    {
+      "name": "CLO 3D",
+      "url": "clo3d.com",
+      "reason": "Specializes in 3D garment visualization"
+    },
+    {
+      "name": "Tukatech",
+      "url": "tukatech.com",
+      "reason": "Offers advanced CAD for apparel"
+    }
+  ],
+  "tags": [
+    "AI",
+    "fashion design",
+    "collaboration",
+    "product management"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
+  "department": "Design",
+  "function": "Design Tools",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://mercer.design/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=mercer&type=repositories",
   "twitterUrl": null,
   "screenshot": "https://share.appsfor.us/screenshots/mercer_design.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/mercer_design_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/mercer_design_400.png",
-  "updatedAt": "2025-07-19T03:21:02.644Z"
+  "updatedAt": "2025-07-21T06:24:38.811Z"
 }
