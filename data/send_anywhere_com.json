@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://send-anywhere.com/",
+  "name": "Send Anywhere",
+  "title": "send-anywhere.com",
+  "payoff": "Effortless file transfer solution",
+  "shortDescription": "Send Anywhere allows users to easily transfer files across various devices without the need for registrations or installations. It is designed for individuals and businesses needing quick, secure file sharing capabilities. Users can simply drop files onto the platform and share them instantly with a link.",
+  "pros": [
+    "No registration required",
+    "Instant file sharing with a link",
+    "Supports various file types and sizes"
+  ],
+  "cons": [
+    "Browser compatibility issues",
+    "Dependence on internet connection",
+    "Limited control over file storage"
+  ],
+  "alternatives": [
+    "WeTransfer [wetransfer.com]",
+    "Dropbox [dropbox.com]",
+    "Google Drive [drive.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WeTransfer",
+      "url": "wetransfer.com",
+      "reason": "Simpler interface, no sign-up for small files"
+    },
+    {
+      "name": "Dropbox",
+      "url": "dropbox.com",
+      "reason": "Offers cloud storage and file synchronization"
+    },
+    {
+      "name": "Google Drive",
+      "url": "drive.google.com",
+      "reason": "Integrated with Google Workspace tools"
+    }
+  ],
+  "tags": [
+    "file transfer",
+    "data sharing",
+    "secure file exchange",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "File Storage",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://send-anywhere.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=send%20anywhere&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/send_anywhere_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/send_anywhere_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/send_anywhere_com_400.png",
+  "updatedAt": "2025-07-21T06:23:34.751Z"
+}
