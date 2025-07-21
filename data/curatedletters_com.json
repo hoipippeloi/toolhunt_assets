@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://curatedletters.com/",
+  "name": "CuratedLetters",
+  "title": "curatedletters.com",
+  "payoff": "Automate newsletters, generate income",
+  "shortDescription": "CuratedLetters enables users to automate the creation and distribution of newsletters, focusing on community building and monetization. It's designed for community managers, content creators, and marketers who need to engage their audience without the manual overhead. Users can import content, plan releases, and monetize through ads effortlessly.",
+  "pros": [
+    "Automates newsletter creation and scheduling",
+    "Integrates content import and monetization features",
+    "No cost with unlimited sending capabilities"
+  ],
+  "cons": [
+    "Limited customization options for advanced users",
+    "Depends on third-party content sources",
+    "No clear differentiation from competitors"
+  ],
+  "alternatives": [
+    "Mailchimp [mailchimp.com]",
+    "Substack [substack.com]",
+    "Revue [getrevue.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mailchimp",
+      "url": "mailchimp.com",
+      "reason": "Offers extensive email marketing tools"
+    },
+    {
+      "name": "Substack",
+      "url": "substack.com",
+      "reason": "Focuses on monetized subscription newsletters"
+    },
+    {
+      "name": "Revue",
+      "url": "getrevue.co",
+      "reason": "Integrates deeply with Twitter for reach"
+    }
+  ],
+  "tags": [
+    "newsletter automation",
+    "content management",
+    "monetization",
+    "community building"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://curatedletters.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=curatedletters&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/curatedletters_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/curatedletters_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/curatedletters_com_400.png",
+  "updatedAt": "2025-07-21T03:42:22.858Z"
+}

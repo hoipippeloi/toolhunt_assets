@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://flows.sh/",
+  "name": "Flows",
+  "title": "flows.sh",
+  "payoff": "Build product adoption effectively",
+  "shortDescription": "Flows is a versatile platform designed to enhance product adoption through user onboarding, feature adoption, and product-led growth strategies. It enables companies to create in-app campaigns, convert free trials to paying customers, and drive key performance indicators without needing extensive engineering resources. An example use case is a SaaS company using Flows to automate their onboarding process, thereby improving user activation and retention.",
+  "pros": [
+    "Customizable adoption strategies",
+    "Easy to implement and use",
+    "Cost-effective solution for product marketing"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Limited by third-party integrations",
+    "Potentially steep learning curve for non-tech users"
+  ],
+  "alternatives": [
+    "Pendo [pendo.io]",
+    "WalkMe [walkme.com]",
+    "Userpilot [userpilot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pendo",
+      "url": "pendo.io",
+      "reason": "Offers in-depth user insights and guidance"
+    },
+    {
+      "name": "WalkMe",
+      "url": "walkme.com",
+      "reason": "Focuses on digital adoption platforms"
+    },
+    {
+      "name": "Userpilot",
+      "url": "userpilot.com",
+      "reason": "Customizable user onboarding and adoption"
+    }
+  ],
+  "tags": [
+    "user engagement",
+    "product management",
+    "SaaS",
+    "adoption platform"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://flows.sh/",
+  "documentationUrl": "https://flows.sh/docs",
+  "githubUrl": "https://github.com/RBND-studio/flows-sdk/tree/main/examples",
+  "twitterUrl": "https://x.com/flows_sh",
+  "screenshot": "https://share.appsfor.us/screenshots/flows_sh.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/flows_sh_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/flows_sh_400.png",
+  "updatedAt": "2025-07-21T03:42:48.320Z"
+}
