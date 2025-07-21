@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://opencut.app/",
+  "name": "OpenCut",
+  "title": "opencut.app",
+  "payoff": "Simple, powerful video editing",
+  "shortDescription": "OpenCut is a versatile video editing tool designed to cater to both novices and professionals. It provides a user-friendly interface that works seamlessly across various platforms, ensuring accessibility for all users. Ideal for quick edits, multimedia projects, or social media content creation, OpenCut simplifies the video editing process without compromising on power or functionality.",
+  "pros": [
+    "Works on any platform",
+    "User-friendly interface",
+    "Open source software"
+  ],
+  "cons": [
+    "Limited advanced features",
+    "No dedicated mobile app",
+    "Minimal integration with other tools"
+  ],
+  "alternatives": [
+    "Shotcut [shotcut.org]",
+    "DaVinci Resolve [blackmagicdesign.com]",
+    "Lightworks [lwks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Shotcut",
+      "url": "shotcut.org",
+      "reason": "Free, open source, supports many formats"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Professional features with free version"
+    },
+    {
+      "name": "Lightworks",
+      "url": "lwks.com",
+      "reason": "Professional video editing with free tier"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "open source",
+    "cross-platform",
+    "multimedia"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://opencut.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/OpenCut-app/OpenCut",
+  "twitterUrl": "https://x.com/OpenCutApp",
+  "screenshot": "https://share.appsfor.us/screenshots/opencut_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/opencut_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/opencut_app_400.png",
+  "updatedAt": "2025-07-21T08:22:56.924Z"
+}

@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://kan.bn/",
-  "name": "kan",
-  "title": "Kan.bn | The open source alternative to Trello",
-  "payoff": "",
-  "shortDescription": "",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
-  "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "name": "Kan.bn",
+  "title": "kan.bn",
+  "payoff": "Open source alternative to Trello",
+  "shortDescription": "Kan.bn is an open-source kanban application designed to organize work, track progress, and deliver results efficiently. It's a flexible tool that supports drag-and-drop task management, making it ideal for teams looking to collaborate effectively. Users can import their Trello boards to quickly transition to Kan.bn, utilize powerful filtering tools, and manage board visibility and editing permissions. An example use case would be a software development team using Kan.bn to manage their agile sprints.",
+  "pros": [
+    "Flexible and easy to use interface",
+    "No credit card required for starting",
+    "Ability to import from Trello"
+  ],
+  "cons": [
+    "Limited third-party integrations",
+    "Potentially less feature-rich than competitors",
+    "Dependence on community for updates"
+  ],
+  "alternatives": [
+    "Trello [trello.com]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Offers more robust project templates"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Features advanced automation options"
+    },
+    {
+      "name": "ClickUp",
+      "url": "clickup.com",
+      "reason": "Integrates deeply with other tools"
+    }
+  ],
+  "tags": [
+    "open source",
+    "project management",
+    "collaboration",
+    "task management"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2023,
   "websiteUrl": "https://kan.bn/",
-  "documentationUrl": "https://docs.kan.bn/",
+  "documentationUrl": "https://kan.bn/docs",
   "githubUrl": "https://github.com/kanbn/kan",
   "twitterUrl": null,
   "screenshot": "https://share.appsfor.us/screenshots/kan_bn.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/kan_bn_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/kan_bn_400.png",
-  "updatedAt": "2025-07-20T04:39:48.846Z"
+  "updatedAt": "2025-07-21T08:24:48.760Z"
 }

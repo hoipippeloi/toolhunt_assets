@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://talanoa.email/",
-  "name": "talanoa",
-  "title": "Talanoa - Inbox built for efficiency",
-  "payoff": "",
-  "shortDescription": "Talanoa - Inbox built for efficiency.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Talanoa",
+  "title": "talanoa.email",
+  "payoff": "Inbox built for efficiency",
+  "shortDescription": "Talanoa redefines email management by focusing on conversations rather than clutter. Designed for professionals overwhelmed by traditional email systems, it introduces smart features like kanban email tasks, sender grouping, and one-click unsubscribes. Ideal for users seeking a streamlined, secure, and efficient email experience, Talanoa turns your inbox into a task-oriented workspace, enhancing productivity and focus.",
+  "pros": [
+    "Smart features designed to simplify email management",
+    "Local storage ensures privacy and security",
+    "User-friendly interface with kanban and grouping options"
+  ],
+  "cons": [
+    "Limited to desktop platforms (macOS, Windows, Linux)",
+    "No cloud integration might limit accessibility",
+    "New on the market, might have fewer integrations"
+  ],
+  "alternatives": [
+    "Superhuman [superhuman.com]",
+    "Microsoft Outlook [outlook.com]",
+    "Gmail [gmail.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Superhuman",
+      "url": "superhuman.com",
+      "reason": "Focuses on speed and efficiency"
+    },
+    {
+      "name": "Microsoft Outlook",
+      "url": "outlook.com",
+      "reason": "Widely used with robust features"
+    },
+    {
+      "name": "Gmail",
+      "url": "gmail.com",
+      "reason": "Offers extensive integrations and AI features"
+    }
+  ],
+  "tags": [
+    "email tools",
+    "productivity",
+    "privacy",
+    "user interface"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "department": "Information Technology",
+  "function": "Email Tools",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2024,
   "websiteUrl": "https://talanoa.email/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=talanoa&type=repositories",
   "twitterUrl": "https://x.com/talanoa_",
   "screenshot": "https://share.appsfor.us/screenshots/talanoa_email.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/talanoa_email_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/talanoa_email_400.png",
-  "updatedAt": "2025-07-20T04:39:11.273Z"
+  "updatedAt": "2025-07-21T08:23:52.505Z"
 }

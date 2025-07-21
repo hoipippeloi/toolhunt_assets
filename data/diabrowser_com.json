@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://diabrowser.com/",
-  "name": "diabrowser",
-  "title": "Meet Dia – the AI Browser Where You Can Chat with Your Tabs",
-  "payoff": "",
-  "shortDescription": "Dia is the AI browser from The Browser Company. Chat with your tabs, write in your own voice, learn and plan faster, shop, and more — all with privacy that you control.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Dia",
+  "title": "diabrowser.com",
+  "payoff": "Chat with Your Tabs",
+  "shortDescription": "Dia is an AI-powered browser designed to enhance productivity across various tasks such as writing, learning, and planning. Users can interact with their tabs through conversational AI, making it easier to manage information and tasks. For example, while researching, Dia can summarize content, translate on demand, and create to-do lists instantly.",
+  "pros": [
+    "Enhanced productivity with AI features",
+    "Conversational interaction with browser tabs",
+    "Versatile tool for various tasks"
+  ],
+  "cons": [
+    "Dependent on AI accuracy",
+    "Potential privacy concerns",
+    "Limited by internet connectivity"
+  ],
+  "alternatives": [
+    "Brave Browser [brave.com]",
+    "Google Chrome [google.com/chrome]",
+    "Mozilla Firefox [mozilla.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Brave Browser",
+      "url": "brave.com",
+      "reason": "Focuses on privacy and ad-blocking"
+    },
+    {
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Widely used with extensive extensions"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "url": "mozilla.org",
+      "reason": "Open-source and customizable"
+    }
+  ],
+  "tags": [
+    "AI browser",
+    "productivity",
+    "information management",
+    "AI"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "department": "Information Technology",
+  "function": "Browsers",
+  "freeTier": true,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2023,
   "websiteUrl": "https://diabrowser.com/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=dia&type=repositories",
   "twitterUrl": "https://x.com/diabrowser",
   "screenshot": "https://share.appsfor.us/screenshots/diabrowser_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/diabrowser_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/diabrowser_com_400.png",
-  "updatedAt": "2025-07-20T04:39:31.683Z"
+  "updatedAt": "2025-07-21T08:24:24.968Z"
 }

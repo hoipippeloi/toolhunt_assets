@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://proton.me/",
-  "name": "proton",
-  "title": "Proton: Privacy by default | Proton",
-  "payoff": "",
-  "shortDescription": "Over 100 million people use Proton to stay private and secure online. Get a free Proton account and take back your privacy.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
-  "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
-  "openSource": false,
-  "releasedYear": 2025,
+  "name": "Proton",
+  "title": "proton.me",
+  "payoff": "Privacy by default",
+  "shortDescription": "Proton offers a suite of secure and privacy-focused tools including email, VPN, and cloud storage. Designed for individuals and businesses who prioritize data security, Proton ensures that user data remains private and protected. An example use case is a business using Proton Mail to secure their communications and Proton Drive to safely store sensitive documents.",
+  "pros": [
+    "End-to-end encryption across all products",
+    "Strong focus on privacy and security",
+    "Open-source software with transparent practices"
+  ],
+  "cons": [
+    "Potentially higher cost compared to less secure alternatives",
+    "Limited third-party integrations due to security focus",
+    "Complexity in setup and management for less tech-savvy users"
+  ],
+  "alternatives": [
+    "Tutanota [tutanota.com]",
+    "NordVPN [nordvpn.com]",
+    "Google Drive [google.com/drive]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tutanota",
+      "url": "tutanota.com",
+      "reason": "Similar privacy-focused email service"
+    },
+    {
+      "name": "NordVPN",
+      "url": "nordvpn.com",
+      "reason": "Comparable VPN service with strong security"
+    },
+    {
+      "name": "Nextcloud",
+      "url": "nextcloud.com",
+      "reason": "Open-source cloud storage alternative"
+    }
+  ],
+  "tags": [
+    "privacy",
+    "security",
+    "encrypted communication",
+    "data protection"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2014,
   "websiteUrl": "https://proton.me/",
-  "documentationUrl": null,
-  "githubUrl": null,
+  "documentationUrl": "https://proton.me/support",
+  "githubUrl": "https://github.com/search?q=proton&type=repositories",
   "twitterUrl": "https://x.com/intent/user?screen_name=ProtonPrivacy",
   "screenshot": "https://share.appsfor.us/screenshots/proton_me.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/proton_me_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/proton_me_400.png",
-  "updatedAt": "2025-07-20T04:40:01.664Z"
+  "updatedAt": "2025-07-21T08:25:10.845Z"
 }
