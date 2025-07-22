@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nextstepjs.com/",
+  "name": "NextStepjs",
+  "title": "nextstepjs.com",
+  "payoff": "Enhance user onboarding experience",
+  "shortDescription": "NextStepjs is a specialized library designed for Next.js and React applications to facilitate the creation of interactive, engaging product tours. It is ideal for developers looking to improve user onboarding processes within their web applications. An example use case would be a web service aiming to guide new users through its features effectively, using customizable tours to highlight key functionalities.",
+  "pros": [
+    "Customizable tour components",
+    "Supports multiple page navigation",
+    "Minimal bundle size for fast loading"
+  ],
+  "cons": [
+    "Limited to React-based projects",
+    "Requires understanding of React and Next.js",
+    "Potential module export issues"
+  ],
+  "alternatives": [
+    "Intro.js [introjs.com]",
+    "Shepherd [shepherdjs.dev]",
+    "TourMyApp [tourmyapp.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Intro.js",
+      "url": "introjs.com",
+      "reason": "Offers guided product tours"
+    },
+    {
+      "name": "Shepherd",
+      "url": "shepherdjs.dev",
+      "reason": "Flexible tour library for apps"
+    },
+    {
+      "name": "TourMyApp",
+      "url": "tourmyapp.com",
+      "reason": "Streamlines user onboarding"
+    }
+  ],
+  "tags": [
+    "user onboarding",
+    "product tours",
+    "React library",
+    "Next.js"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://nextstepjs.com/",
+  "documentationUrl": "https://nextstepjs.com/docs",
+  "githubUrl": "https://github.com/enszrlu/NextStep",
+  "twitterUrl": "https://x.com/AlexZDevs",
+  "screenshot": "https://share.appsfor.us/screenshots/nextstepjs_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nextstepjs_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nextstepjs_com_400.png",
+  "updatedAt": "2025-07-22T01:09:52.757Z"
+}

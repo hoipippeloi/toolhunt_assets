@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://potpie.ai/",
+  "name": "potpie",
+  "title": "potpie.ai",
+  "payoff": "AI agents for your codebase",
+  "shortDescription": "Potpie transforms your codebase into a smart, AI-driven environment. It allows developers to build custom AI agents that understand their specific codebase and automate complex engineering tasks. By installing the VS Code extension, users can easily create and manage these agents directly within their editor. An example use case is automating bug fixes or code refactoring, which enhances productivity and reduces manual effort.",
+  "pros": [
+    "Custom AI agents tailored to specific tasks",
+    "Seamless integration with VS Code",
+    "Open-source with a self-hosted option"
+  ],
+  "cons": [
+    "Requires familiarity with VS Code",
+    "May have a learning curve for building agents",
+    "Dependent on user's codebase complexity"
+  ],
+  "alternatives": [
+    "CrewAI [github.com]",
+    "LangChain [langchain.com]",
+    "Potpie AI [potpie.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer, enhances coding"
+    },
+    {
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "Code completion tool using AI"
+    },
+    {
+      "name": "Tabnine",
+      "url": "tabnine.com",
+      "reason": "AI code assistant for multiple IDEs"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "automation",
+    "software development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://potpie.ai/",
+  "documentationUrl": "https://github.com/potpie-ai/potpie",
+  "githubUrl": "https://github.com/potpie-ai/potpie",
+  "twitterUrl": "https://x.com/potpiedotai",
+  "screenshot": "https://share.appsfor.us/screenshots/potpie_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/potpie_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/potpie_ai_400.png",
+  "updatedAt": "2025-07-22T01:09:27.027Z"
+}

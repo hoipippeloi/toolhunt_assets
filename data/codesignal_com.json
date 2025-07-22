@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://codesignal.com/learn/course-paths",
+  "name": "CodeSignal",
+  "title": "codesignal.com",
+  "payoff": "Master skills through challenges",
+  "shortDescription": "CodeSignal offers an interactive learning platform designed for coders and developers. It provides a variety of coding challenges and educational content to help users enhance their programming skills. Ideal for both beginners and experienced programmers, users can engage in courses to prepare for technical interviews or improve their coding proficiency. An example use case is a software developer using CodeSignal to practice for upcoming job interviews.",
+  "pros": [
+    "Wide range of programming challenges",
+    "Courses tailored for interview prep",
+    "Interactive and user-friendly platform"
+  ],
+  "cons": [
+    "Primarily focused on coding skills",
+    "Subscription may be required for full access",
+    "Limited non-coding related content"
+  ],
+  "alternatives": [
+    "LeetCode [leetcode.com]",
+    "HackerRank [hackerrank.com]",
+    "InterviewBit [interviewbit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "LeetCode",
+      "url": "leetcode.com",
+      "reason": "Offers extensive coding challenges"
+    },
+    {
+      "name": "HackerRank",
+      "url": "hackerrank.com",
+      "reason": "Similar platform with job-specific courses"
+    },
+    {
+      "name": "InterviewBit",
+      "url": "interviewbit.com",
+      "reason": "Focuses on interview prep and coding"
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Coding Challenges",
+    "Technical Interview Prep",
+    "Educational Platform"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://codesignal.com/learn/course-paths",
+  "documentationUrl": "https://codesignal.com/docs",
+  "githubUrl": "https://github.com/search?q=codesignal&type=repositories",
+  "twitterUrl": "https://x.com/CodeSignalCom/",
+  "screenshot": "https://share.appsfor.us/screenshots/codesignal_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/codesignal_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/codesignal_com_400.png",
+  "updatedAt": "2025-07-22T01:11:07.100Z"
+}

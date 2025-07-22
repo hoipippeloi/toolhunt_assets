@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://campsite.com/",
+  "name": "Campsite",
+  "title": "campsite.com",
+  "payoff": "Focused team communication",
+  "shortDescription": "Campsite revolutionizes work communication for distributed teams by replacing chaotic chats with structured, focused posts. It's designed for teams seeking more organized and thoughtful discussions, allowing for better deep work. An example use case includes using Campsite to manage marketing strategies, where teams can summarize discussions, resolve issues, and set follow-up reminders all within the platform.",
+  "pros": [
+    "Organizes communication effectively",
+    "Facilitates deep, focused work",
+    "Automatically archives discussions"
+  ],
+  "cons": [
+    "May not replace real-time chat needs",
+    "Learning curve for new users",
+    "Dependent on user engagement for effectiveness"
+  ],
+  "alternatives": [
+    "Slack [slack.com]",
+    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]",
+    "Discord [discord.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Popular for real-time team chat"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Combines tasks and communication"
+    },
+    {
+      "name": "Twist",
+      "url": "twist.com",
+      "reason": "Focuses on async communication"
+    }
+  ],
+  "tags": [
+    "communication tool",
+    "team collaboration",
+    "async communication",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://campsite.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=campsite&type=repositories",
+  "twitterUrl": "https://x.com/benedictfritz",
+  "screenshot": "https://share.appsfor.us/screenshots/campsite_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/campsite_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/campsite_com_400.png",
+  "updatedAt": "2025-07-22T01:10:45.582Z"
+}

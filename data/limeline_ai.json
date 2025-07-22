@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://limeline.ai/",
+  "name": "Limeline",
+  "title": "limeline.ai",
+  "payoff": "AI-powered efficient meetings",
+  "shortDescription": "Limeline revolutionizes meeting management by utilizing AI to automate and conduct meetings. Targeted at professionals across various sectors like Sales, IT, and Education, it simplifies communication by creating AI agents that handle calls and gather information. An example use case is in sales, where Limeline can qualify and route calls, increasing efficiency and saving valuable time.",
+  "pros": [
+    "Automates routine communications",
+    "Provides real-time transcripts and summaries",
+    "Supports cross-platform usage including mobile"
+  ],
+  "cons": [
+    "May not fully replace human nuances in communication",
+    "Dependent on technology adoption among users",
+    "Potential privacy concerns with AI handling calls"
+  ],
+  "alternatives": [
+    "Zoom [zoom.us]",
+    "Microsoft Teams [microsoft.com/microsoft-teams]",
+    "Slack [slack.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zoom",
+      "url": "zoom.us",
+      "reason": "Popular for video and audio meetings"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com/microsoft-teams",
+      "reason": "Integrated with Office 365 suite"
+    },
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Offers robust chat and integration features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "communication",
+    "automation",
+    "meeting management"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://limeline.ai/",
+  "documentationUrl": "https://limeline.ai/docs",
+  "githubUrl": "https://github.com/search?q=limeline&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/limeline_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/limeline_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/limeline_ai_400.png",
+  "updatedAt": "2025-07-22T01:11:27.937Z"
+}
