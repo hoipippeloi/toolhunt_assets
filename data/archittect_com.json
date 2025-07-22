@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://archittect.com/",
-  "name": "archittect",
-  "title": "Archittect | Never write boilerplate code again",
-  "payoff": "",
-  "shortDescription": "Never write boilerplate code again, regardless of the programming language you use. Download Archittect's free VSCode extension.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Archittect",
+  "title": "archittect.com",
+  "payoff": "Never write boilerplate code again",
+  "shortDescription": "Archittect is designed to speed up software development by automating the creation of boilerplate code. It's ideal for developers and teams looking to reduce repetitive coding tasks. Users can generate and customize templates for future use, ensuring consistency and faster project delivery. An example use case is a tech startup using Archittect to quickly prototype new features without reinventing the structure each time.",
+  "pros": [
+    "Automates repetitive coding tasks",
+    "Integrates with popular development tools like VSCode",
+    "Allows sharing of complete projects within teams"
+  ],
+  "cons": [
+    "Dependent on the quality of pre-built templates",
+    "May not support all programming languages",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "JetBrains Meta Programming System [jetbrains.com/mps]",
+    "CodeSmith Tools [codesmithtools.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming and automation."
+    },
+    {
+      "name": "JetBrains MPS",
+      "url": "jetbrains.com/mps",
+      "reason": "Focuses on domain-specific languages."
+    },
+    {
+      "name": "CodeSmith Tools",
+      "url": "codesmithtools.com",
+      "reason": "Provides code generation templates."
+    }
+  ],
+  "tags": [
+    "code generation",
+    "software development",
+    "automation",
+    "productivity"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
+  "department": "Development",
+  "function": "Automation",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://archittect.com/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=archittect&type=repositories",
   "twitterUrl": "https://twitter.com/archittectApp",
   "screenshot": "https://share.appsfor.us/screenshots/archittect_com.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/archittect_com_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/archittect_com_400.png",
-  "updatedAt": "2025-07-20T03:44:17.619Z"
+  "updatedAt": "2025-07-22T03:27:11.644Z"
 }

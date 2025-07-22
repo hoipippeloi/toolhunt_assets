@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://vivid.lol/",
+  "name": "Vivid",
+  "title": "vivid.lol",
+  "payoff": "Sync designs with code seamlessly",
+  "shortDescription": "Vivid integrates directly with Figma to sync designs and generate UI code, enhancing developer productivity by automating the front-end coding process. It allows for easy edits and updates to designs that are directly reflected in the codebase. Ideal for teams looking to streamline their design to development workflow, Vivid serves as a bridge between designers and developers, ensuring that any design updates are automatically converted into clean, usable code.",
+  "pros": [
+    "Automates UI code generation from Figma",
+    "Syncs design changes directly with the codebase",
+    "Isolates design styles to focus on functionality"
+  ],
+  "cons": [
+    "Dependent on Figma for design inputs",
+    "May not support all programming languages",
+    "Limited customization options for generated code"
+  ],
+  "alternatives": [
+    "Framer [framer.com]",
+    "Anima [animaapp.com]",
+    "Zeplin [zeplin.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Framer",
+      "url": "framer.com",
+      "reason": "Offers interactive design and prototyping"
+    },
+    {
+      "name": "Anima",
+      "url": "animaapp.com",
+      "reason": "Converts design to code with more platform support"
+    },
+    {
+      "name": "Zeplin",
+      "url": "zeplin.io",
+      "reason": "Focuses on collaboration between designers and devs"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "UI/UX",
+    "code generation",
+    "Figma integration"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://vivid.lol/",
+  "documentationUrl": "https://docs.vivid.lol/",
+  "githubUrl": "https://github.com/search?q=vivid&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/vivid_lol.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/vivid_lol_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/vivid_lol_400.png",
+  "updatedAt": "2025-07-22T03:27:38.189Z"
+}

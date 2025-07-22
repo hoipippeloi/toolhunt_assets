@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://retainr.io/",
+  "name": "Retainr",
+  "title": "retainr.io",
+  "payoff": "Streamline client management effortlessly",
+  "shortDescription": "Retainr is a comprehensive client management software designed for freelancers and agencies. It integrates features like task automation, payment processing, and client onboarding into a single platform. Users can manage projects, automate workflows, and communicate with clients seamlessly. An example use case is a digital marketing agency using Retainr to streamline client interactions, manage projects, and automate invoice processing.",
+  "pros": [
+    "Unified client management dashboard",
+    "Automated invoicing and payment processing",
+    "Customizable white-label features"
+  ],
+  "cons": [
+    "May be complex for small teams",
+    "Potential learning curve for new users",
+    "Limited customization in certain areas"
+  ],
+  "alternatives": [
+    "HoneyBook [honeybook.com]",
+    "Dubsado [dubsado.com]",
+    "Bonsai [hellobonsai.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HoneyBook",
+      "url": "honeybook.com",
+      "reason": "Offers similar client management features"
+    },
+    {
+      "name": "Dubsado",
+      "url": "dubsado.com",
+      "reason": "Focuses on creative professionals and agencies"
+    },
+    {
+      "name": "Bonsai",
+      "url": "hellobonsai.com",
+      "reason": "Tailored for freelancers with integrated tools"
+    }
+  ],
+  "tags": [
+    "client management",
+    "freelance tools",
+    "agency software",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://retainr.io/",
+  "documentationUrl": "https://retainr.io/docs",
+  "githubUrl": "https://github.com/search?q=retainr&type=repositories",
+  "twitterUrl": "https://x.com/intent/tweet?text=@Retainr_io%20I%20have%20a%20feature%20suggestion%20for%20improving%20your%20platform.",
+  "screenshot": "https://share.appsfor.us/screenshots/retainr_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/retainr_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/retainr_io_400.png",
+  "updatedAt": "2025-07-22T03:28:24.492Z"
+}

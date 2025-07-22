@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://trymotherboard.com/",
+  "name": "Motherboard",
+  "title": "trymotherboard.com",
+  "payoff": "All dashboards in one place",
+  "shortDescription": "Motherboard consolidates all your key metrics into a single dashboard, eliminating the need to switch between multiple tabs and tools. It's designed for professionals and founders who need to track various metrics from websites like Stripe or YouTube Studio without any coding. Simply click to track values, and they auto-refresh in your dashboard.",
+  "pros": [
+    "Zero coding required",
+    "Automatically updates metrics",
+    "Works with any website"
+  ],
+  "cons": [
+    "No API for developers",
+    "Limited to browser-based tracking",
+    "Dependent on website structure"
+  ],
+  "alternatives": [
+    "Databox [databox.com]",
+    "Geckoboard [geckoboard.com]",
+    "Klipfolio [klipfolio.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Databox",
+      "url": "databox.com",
+      "reason": "Offers mobile access and integrations"
+    },
+    {
+      "name": "Geckoboard",
+      "url": "geckoboard.com",
+      "reason": "Focuses on real-time data dashboards"
+    },
+    {
+      "name": "Klipfolio",
+      "url": "klipfolio.com",
+      "reason": "Supports complex data sources"
+    }
+  ],
+  "tags": [
+    "dashboard",
+    "metrics tracking",
+    "productivity",
+    "no coding"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Site Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://trymotherboard.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=motherboard&type=repositories",
+  "twitterUrl": "https://x.com/wickedmishra",
+  "screenshot": "https://share.appsfor.us/screenshots/trymotherboard_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/trymotherboard_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/trymotherboard_com_400.png",
+  "updatedAt": "2025-07-22T03:26:40.155Z"
+}

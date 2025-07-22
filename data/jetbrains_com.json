@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://jetbrains.com/",
+  "name": "JetBrains",
+  "title": "jetbrains.com",
+  "payoff": "Essential tools for developers and teams",
+  "shortDescription": "JetBrains provides a suite of software development tools designed for individual developers, teams, and businesses. The tools support various programming languages and frameworks, enhancing productivity through intelligent code assistance, automated refactoring, and powerful debugging. Example use case: A software development team uses JetBrains IDEs to efficiently write, test, and deploy their code across different platforms.",
+  "pros": [
+    "Supports multiple programming languages",
+    "Integrates with modern development workflows",
+    "Offers both cloud and on-premises solutions"
+  ],
+  "cons": [
+    "Can be resource-intensive on older hardware",
+    "Subscription model may be expensive for some",
+    "Steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Visual Studio Code [code.visualstudio.com]",
+    "Sublime Text [sublimetext.com]",
+    "Atom [atom.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Visual Studio Code",
+      "url": "code.visualstudio.com",
+      "reason": "Lightweight, extensible, free IDE"
+    },
+    {
+      "name": "Eclipse",
+      "url": "eclipse.org",
+      "reason": "Open source and highly customizable"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "sublimetext.com",
+      "reason": "Fast and feature-rich text editor"
+    }
+  ],
+  "tags": [
+    "IDE",
+    "software development",
+    "team collaboration",
+    "project management"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2000,
+  "websiteUrl": "https://jetbrains.com/",
+  "documentationUrl": "https://www.jetbrains.com/help/",
+  "githubUrl": "https://github.com/search?q=jetbrains&type=repositories",
+  "twitterUrl": "https://twitter.com/jetbrains",
+  "screenshot": "https://share.appsfor.us/screenshots/jetbrains_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/jetbrains_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/jetbrains_com_400.png",
+  "updatedAt": "2025-07-22T03:27:58.427Z"
+}

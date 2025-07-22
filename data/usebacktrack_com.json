@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usebacktrack.com/",
+  "name": "Backtrack",
+  "title": "usebacktrack.com",
+  "payoff": "AI Lead Capture at Events",
+  "shortDescription": "Backtrack revolutionizes note-taking at events with its AI-driven tools. Designed for sales professionals at trade shows and meetings, it automates the creation of notes, summaries, and CRM entries. Users can record conversations, snap photos of business cards, and let Backtrack handle the rest, ensuring no critical information is lost and improving follow-up efficiency.",
+  "pros": [
+    "Automates data entry into CRMs",
+    "Captures and summarizes conversations",
+    "Integrates with most CRM systems"
+  ],
+  "cons": [
+    "Dependent on event environment quality",
+    "Potential privacy concerns with audio capture",
+    "Limited to users with CRM systems"
+  ],
+  "alternatives": [
+    "Evernote Business [evernote.com]",
+    "Microsoft Dynamics 365 [dynamics.microsoft.com]",
+    "Salesforce Sales Cloud [salesforce.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote Business",
+      "url": "evernote.com",
+      "reason": "Offers note-taking and organization"
+    },
+    {
+      "name": "Microsoft Dynamics 365",
+      "url": "dynamics.microsoft.com",
+      "reason": "CRM with extensive features"
+    },
+    {
+      "name": "Salesforce Sales Cloud",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM and analytics"
+    }
+  ],
+  "tags": [
+    "AI",
+    "CRM",
+    "note-taking",
+    "event management"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://usebacktrack.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=backtrack&type=repositories",
+  "twitterUrl": "https://www.twitter.com/usebacktrack",
+  "screenshot": "https://share.appsfor.us/screenshots/usebacktrack_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usebacktrack_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usebacktrack_com_400.png",
+  "updatedAt": "2025-07-22T03:26:20.424Z"
+}
