@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://everyonedraw.com/",
+  "name": "Everyone Draw",
+  "title": "everyonedraw.com",
+  "payoff": "Draw pixel art globally.",
+  "shortDescription": "Everyone Draw offers a unique platform where users can create pixel art collaboratively on an infinite canvas. Ideal for artists and creative individuals, this tool allows you to draw alone, with friends, or with strangers from around the world. You can start drawing immediately without any signup, making it accessible and easy to use. Whether you're creating characters, cities, or entire worlds, the possibilities are limitless.",
+  "pros": [
+    "No signup required to begin drawing",
+    "Infinite canvas for limitless creativity",
+    "Collaborative drawing with a global community"
+  ],
+  "cons": [
+    "Possible server issues affecting drawing",
+    "Public areas can lead to unwanted modifications",
+    "Limited moderation support for restoring drawings"
+  ],
+  "alternatives": [
+    "Pixilart [pixilart.com]",
+    "Piskel [piskelapp.com]",
+    "Lospec [lospec.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pixilart",
+      "url": "pixilart.com",
+      "reason": "Similar pixel art creation tool"
+    },
+    {
+      "name": "Piskel",
+      "url": "piskelapp.com",
+      "reason": "Free online editor for animated sprites"
+    },
+    {
+      "name": "Lospec",
+      "url": "lospec.com",
+      "reason": "Offers pixel art tools and community"
+    }
+  ],
+  "tags": [
+    "pixel art",
+    "collaborative drawing",
+    "creative community",
+    "art game"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://everyonedraw.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=everyone%20draw&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/everyonedraw_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/everyonedraw_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/everyonedraw_com_400.png",
+  "updatedAt": "2025-07-23T01:11:30.735Z"
+}

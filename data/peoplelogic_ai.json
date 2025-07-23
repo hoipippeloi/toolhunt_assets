@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://peoplelogic.ai/",
+  "name": "Peoplelogic",
+  "title": "peoplelogic.ai",
+  "payoff": "AI-driven Performance Intelligence",
+  "shortDescription": "Peoplelogic is a performance management tool designed to enhance productivity and strategic alignment within growing teams. It leverages AI to simplify goal management, facilitate effective 1:1 meetings, and optimize performance reviews. Ideal for managers aiming to foster a culture of feedback and recognition, it's particularly useful in streamlining communication and ensuring team alignment with organizational goals.",
+  "pros": [
+    "AI-driven insights for better decision making",
+    "Customizable performance management tools",
+    "Real-time tracking and feedback capabilities"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "May require training for optimal use",
+    "Dependence on digital proficiency of users"
+  ],
+  "alternatives": [
+    "Lattice [lattice.com]",
+    "15Five [15five.com]",
+    "Betterworks [betterworks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Lattice",
+      "url": "lattice.com",
+      "reason": "Similar focus on performance management"
+    },
+    {
+      "name": "15Five",
+      "url": "15five.com",
+      "reason": "Emphasizes feedback and OKRs"
+    },
+    {
+      "name": "Betterworks",
+      "url": "betterworks.com",
+      "reason": "Comprehensive performance tools"
+    }
+  ],
+  "tags": [
+    "performance management",
+    "AI",
+    "productivity",
+    "HR software"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "Performance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://peoplelogic.ai/",
+  "documentationUrl": "https://help.peoplelogic.ai/",
+  "githubUrl": "https://github.com/search?q=peoplelogic&type=repositories",
+  "twitterUrl": "https://twitter.com/peoplelogicai",
+  "screenshot": "https://share.appsfor.us/screenshots/peoplelogic_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/peoplelogic_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/peoplelogic_ai_400.png",
+  "updatedAt": "2025-07-23T01:13:24.839Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://holistics.io/dashboards-as-code/",
+  "name": "Holistics",
+  "title": "holistics.io",
+  "payoff": "Self-service BI Platform",
+  "shortDescription": "Holistics is a powerful business intelligence (BI) tool designed to empower data teams and business users alike. It allows users to build, manage, and deploy dashboards using code, enabling advanced analytics and data storytelling. Key features include dbt integration, dynamic data sources, and embedded analytics. Ideal for companies looking to streamline their data operations and enhance decision-making capabilities.",
+  "pros": [
+    "Supports code-based BI dashboard creation",
+    "Integrates with multiple data sources and dbt",
+    "Offers dynamic, user-specific data handling"
+  ],
+  "cons": [
+    "Requires coding knowledge for full utilization",
+    "May be complex for non-technical users",
+    "Potentially high learning curve for new adopters"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers extensive data modeling"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Strong in data integration"
+    }
+  ],
+  "tags": [
+    "BI",
+    "analytics",
+    "data visualization",
+    "dashboard"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://holistics.io/dashboards-as-code/",
+  "documentationUrl": "https://docs.holistics.io/",
+  "githubUrl": "https://github.com/search?q=holistics&type=repositories",
+  "twitterUrl": "https://twitter.com/holistics_bi",
+  "screenshot": "https://share.appsfor.us/screenshots/holistics_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/holistics_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/holistics_io_400.png",
+  "updatedAt": "2025-07-23T01:12:15.510Z"
+}

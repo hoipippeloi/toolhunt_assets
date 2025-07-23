@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://imggen.ai/",
+  "name": "ImgGen AI",
+  "title": "imggen.ai",
+  "payoff": "Free AI Photo Editor Online",
+  "shortDescription": "ImgGen AI simplifies photo editing with its AI-powered tools designed for creators, businesses, and freelancers. Users can effortlessly enhance image quality, remove backgrounds, and generate new visuals. An example use case is a freelancer using the tool to quickly edit product photos for an online store.",
+  "pros": [
+    "AI-powered editing tools",
+    "Fast and easy integration",
+    "Free to use with API support"
+  ],
+  "cons": [
+    "Limited advanced features",
+    "Potential privacy concerns",
+    "Dependence on internet connectivity"
+  ],
+  "alternatives": [
+    "Adobe Photoshop [adobe.com]",
+    "Canva [canva.com]",
+    "GIMP [gimp.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Photoshop",
+      "url": "adobe.com",
+      "reason": "Industry standard for photo editing"
+    },
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Simpler interface and templates"
+    },
+    {
+      "name": "Pixlr",
+      "url": "pixlr.com",
+      "reason": "Web-based, accessible editing"
+    }
+  ],
+  "tags": [
+    "AI",
+    "photo editing",
+    "image enhancement",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://imggen.ai/",
+  "documentationUrl": "https://imggen.ai/docs",
+  "githubUrl": "https://github.com/search?q=imggen%20ai&type=repositories",
+  "twitterUrl": "https://x.com/imggenai",
+  "screenshot": "https://share.appsfor.us/screenshots/imggen_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/imggen_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/imggen_ai_400.png",
+  "updatedAt": "2025-07-23T01:12:49.943Z"
+}

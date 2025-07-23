@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://augmentcode.com/",
+  "name": "Augment Code",
+  "title": "augmentcode.com",
+  "payoff": "AI coding platform for real software.",
+  "shortDescription": "Augment Code is an AI-driven coding platform designed to enhance software development efficiency. It integrates into popular IDEs like Visual Studio Code and JetBrains, offering features such as autonomous coding agents, codebase-aware autocomplete, and context-sensitive coding suggestions. Engineers can automate tasks like PRs and integrate with over 100 external tools, making it ideal for speeding up development cycles and improving code quality.",
+  "pros": [
+    "Integrates with major IDEs and tools",
+    "Autonomous agents for end-to-end task completion",
+    "Advanced context engine for relevant code suggestions"
+  ],
+  "cons": [
+    "May require learning curve for full utilization",
+    "Dependent on IDE and external tool compatibility",
+    "Potential privacy concerns with code access"
+  ],
+  "alternatives": [
+    "GitHub Copilot [copilot.github.com]",
+    "Kite [kite.com]",
+    "Tabnine [tabnine.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Copilot",
+      "url": "copilot.github.com",
+      "reason": "AI pair programmer from GitHub"
+    },
+    {
+      "name": "Kite",
+      "url": "kite.com",
+      "reason": "Code faster with AI-powered completions"
+    },
+    {
+      "name": "Tabnine",
+      "url": "tabnine.com",
+      "reason": "AI code completion tool"
+    }
+  ],
+  "tags": [
+    "AI",
+    "software development",
+    "IDE plugins",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Development",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://augmentcode.com/",
+  "documentationUrl": "https://docs.augmentcode.com/",
+  "githubUrl": "https://github.com/search?q=augment%20code&type=repositories",
+  "twitterUrl": "https://x.com/augmentcode",
+  "screenshot": "https://share.appsfor.us/screenshots/augmentcode_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/augmentcode_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/augmentcode_com_400.png",
+  "updatedAt": "2025-07-23T01:10:44.424Z"
+}

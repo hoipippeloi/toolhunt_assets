@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sherlockproject.xyz/",
+  "name": "Sherlock Project",
+  "title": "sherlockproject.xyz",
+  "payoff": "Hunt social media by username",
+  "shortDescription": "Sherlock Project is a tool designed for tracking down social media accounts across over 400 networks using just a username. It's ideal for researchers, marketers, and security analysts who need to gather social media presence data efficiently. Example use case: A security analyst could use Sherlock to track potential fraudulent accounts across multiple platforms quickly.",
+  "pros": [
+    "Supports over 400 social networks",
+    "Easy to install and use",
+    "Frequently updated to add new sites"
+  ],
+  "cons": [
+    "Requires knowledge of command line",
+    "No graphical user interface",
+    "Dependent on external site changes"
+  ],
+  "alternatives": [
+    "Namechk [namechk.com]",
+    "KnowEm [knowem.com]",
+    "Instant Username Search [instantusername.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Namechk",
+      "url": "namechk.com",
+      "reason": "Checks username availability across platforms"
+    },
+    {
+      "name": "KnowEm",
+      "url": "knowem.com",
+      "reason": "Offers broader digital footprint analysis"
+    },
+    {
+      "name": "Instant Username Search",
+      "url": "instantusername.com",
+      "reason": "Provides instant search results"
+    }
+  ],
+  "tags": [
+    "social media",
+    "username search",
+    "open source",
+    "security"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://sherlockproject.xyz/",
+  "documentationUrl": "https://github.com/sherlock-project/sherlock",
+  "githubUrl": "https://github.com/sherlock-project/sherlock",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sherlockproject_xyz.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sherlockproject_xyz_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sherlockproject_xyz_400.png",
+  "updatedAt": "2025-07-23T01:11:08.299Z"
+}
