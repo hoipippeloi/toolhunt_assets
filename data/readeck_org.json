@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://readeck.org/",
+  "name": "Readeck",
+  "title": "readeck.org",
+  "payoff": "Save the story, cut the clutter",
+  "shortDescription": "Readeck is a versatile content management tool designed for individuals who wish to organize web content effectively. It allows users to bookmark articles, photos, and videos for later access, making it ideal for researchers, students, and content curators. Users can archive, label, and search through their content, highlight important text, and even save video transcripts. An example use case could be a student collecting and organizing research materials for a thesis.",
+  "pros": [
+    "Organizes various content types",
+    "Features like highlighting and labeling",
+    "Exports content as e-books"
+  ],
+  "cons": [
+    "Depends on browser extension",
+    "Limited to web content",
+    "May not support all video transcripts"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Pocket [getpocket.com]",
+    "Instapaper [instapaper.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Offers extensive note-taking features"
+    },
+    {
+      "name": "Pocket",
+      "url": "getpocket.com",
+      "reason": "Specializes in saving articles for later"
+    },
+    {
+      "name": "Instapaper",
+      "url": "instapaper.com",
+      "reason": "Focuses on reading and organizing articles"
+    }
+  ],
+  "tags": [
+    "content management",
+    "bookmarking",
+    "productivity",
+    "e-books"
+  ],
+  "apiUsed": false,
+  "department": "Content",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://readeck.org/",
+  "documentationUrl": "https://readeck.org/documentation",
+  "githubUrl": "https://github.com/search?q=readeck&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/readeck_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/readeck_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/readeck_org_400.png",
+  "updatedAt": "2025-07-23T04:37:18.464Z"
+}
