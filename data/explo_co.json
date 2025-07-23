@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://explo.co/",
+  "name": "Explo",
+  "title": "explo.co",
+  "payoff": "Embed AI analytics easily",
+  "shortDescription": "Explo enables seamless integration of AI-powered analytics into various platforms, allowing businesses to share insightful data with their customers directly. Ideal for companies looking to enhance their products with customizable analytics, Explo supports all relational databases and offers flexible components for tailored user experiences. An example use case is a tech startup integrating Explo to provide real-time data analytics to its users, enhancing decision-making processes.",
+  "pros": [
+    "Supports all relational databases",
+    "Highly customizable components",
+    "Direct data embedding into applications"
+  ],
+  "cons": [
+    "May require technical knowledge to integrate",
+    "Potential dependency on Explo's platform stability",
+    "Limited to relational databases and warehouses"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Power BI [powerbi.com]",
+    "Looker [looker.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Offers extensive visualization capabilities"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Integrates well with Microsoft products"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Features robust data modeling language"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "data sharing",
+    "AI",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://explo.co/",
+  "documentationUrl": "https://explo.co/docs",
+  "githubUrl": "https://github.com/search?q=explo&type=repositories",
+  "twitterUrl": "https://twitter.com/tryexplo",
+  "screenshot": "https://share.appsfor.us/screenshots/explo_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/explo_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/explo_co_400.png",
+  "updatedAt": "2025-07-23T03:29:19.027Z"
+}

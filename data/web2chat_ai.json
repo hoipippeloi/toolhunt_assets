@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://web2chat.ai/",
+  "name": "Web2Chat",
+  "title": "web2chat.ai",
+  "payoff": "Enhance Customer Support with AI",
+  "shortDescription": "Web2Chat revolutionizes customer support for startups by integrating AI-powered live chat, a ticketing system, and a knowledge base. It's designed for small teams aiming to improve customer interaction and satisfaction. For example, a startup can use Web2Chat to manage customer inquiries efficiently, ensuring quick responses and high-quality support.",
+  "pros": [
+    "AI-powered chat for instant support",
+    "Comprehensive knowledge base integration",
+    "Multilingual support for global reach"
+  ],
+  "cons": [
+    "Potential complexity in initial setup",
+    "Dependence on AI accuracy",
+    "Limited customization in free tier"
+  ],
+  "alternatives": [
+    "Intercom [intercom.com]",
+    "Zendesk [zendesk.com]",
+    "Freshdesk [freshdesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Offers personalized communication"
+    },
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Widely used with strong integration"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Focus on streamlining customer conversations"
+    }
+  ],
+  "tags": [
+    "customer support",
+    "live chat",
+    "AI",
+    "ticketing system"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://web2chat.ai/",
+  "documentationUrl": "https://help.web2chat.ai/",
+  "githubUrl": "https://github.com/search?q=web2chat&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/web2chat_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/web2chat_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/web2chat_ai_400.png",
+  "updatedAt": "2025-07-23T03:29:42.925Z"
+}

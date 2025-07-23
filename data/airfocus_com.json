@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://airfocus.com/",
+  "name": "airfocus",
+  "title": "airfocus.com",
+  "payoff": "AI-powered product management software",
+  "shortDescription": "airfocus provides a strategic product management platform designed to enhance team alignment and decision-making. It allows users to create tailored roadmaps, manage feedback, and prioritize effectively to meet market demands. Ideal for product leaders and teams, airfocus integrates OKRs, workflows, and resource management to streamline product development. Example use case: A tech company uses airfocus to align its product strategy across multiple teams, ensuring cohesive and strategic product launches.",
+  "pros": [
+    "Customizable product roadmaps",
+    "Integrated OKRs and feedback management",
+    "High-level portfolio views for strategic alignment"
+  ],
+  "cons": [
+    "May require learning curve for new users",
+    "Potentially expensive for small teams",
+    "Limited integrations compared to competitors"
+  ],
+  "alternatives": [
+    "Productboard [productboard.com]",
+    "Aha! [aha.io]",
+    "Roadmunk [roadmunk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Productboard",
+      "url": "productboard.com",
+      "reason": "Focuses on product feedback and roadmapping"
+    },
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Offers extensive roadmap and strategy tools"
+    },
+    {
+      "name": "Roadmunk",
+      "url": "roadmunk.com",
+      "reason": "Specializes in visual roadmapping and planning"
+    }
+  ],
+  "tags": [
+    "product management",
+    "roadmapping",
+    "strategic planning",
+    "portfolio management"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://airfocus.com/",
+  "documentationUrl": "https://airfocus.com/api-docs",
+  "githubUrl": "https://github.com/search?q=airfocus&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/airfocus_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/airfocus_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/airfocus_com_400.png",
+  "updatedAt": "2025-07-23T03:31:21.635Z"
+}

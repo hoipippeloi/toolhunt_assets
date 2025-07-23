@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ciro.io/",
+  "name": "Ciro",
+  "title": "ciro.io",
+  "payoff": "Build the perfect prospect list",
+  "shortDescription": "Ciro is a powerful AI-driven tool designed to streamline the process of prospecting for sales and marketing professionals. By leveraging AI, Ciro allows users to quickly generate high-quality prospect lists tailored to specific criteria. Users can search a database of over 500 million contacts, enrich contact data, and integrate seamlessly with CRMs or export to CSV. This tool is ideal for businesses looking to enhance their lead generation efforts without the manual workload.",
+  "pros": [
+    "AI-driven prospect list creation",
+    "Integration with CRMs and export options",
+    "Access to a vast database of contacts"
+  ],
+  "cons": [
+    "Potential accuracy issues with AI-generated data",
+    "Dependence on third-party data providers",
+    "May not cover all niche markets"
+  ],
+  "alternatives": [
+    "ZoomInfo [zoominfo.com]",
+    "Leadfeeder [leadfeeder.com]",
+    "DiscoverOrg [discoverorg.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ZoomInfo",
+      "url": "zoominfo.com",
+      "reason": "Offers detailed B2B contact data"
+    },
+    {
+      "name": "Leadfeeder",
+      "url": "leadfeeder.com",
+      "reason": "Tracks website visitors as leads"
+    },
+    {
+      "name": "DiscoverOrg",
+      "url": "discoverorg.com",
+      "reason": "Provides deep company insights"
+    }
+  ],
+  "tags": [
+    "AI",
+    "sales automation",
+    "lead generation",
+    "data enrichment"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ciro.io/",
+  "documentationUrl": "https://ciro.io/documentation",
+  "githubUrl": "https://github.com/search?q=ciro&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/ciro_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ciro_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ciro_io_400.png",
+  "updatedAt": "2025-07-23T03:27:49.713Z"
+}

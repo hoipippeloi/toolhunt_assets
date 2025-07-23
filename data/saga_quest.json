@@ -1,20 +1,53 @@
 {
   "sourceUrl": "https://saga.quest/",
-  "name": "saga",
-  "title": "Saga | A Storytelling companion tool for the whole TTRPG group.",
-  "payoff": "",
-  "shortDescription": "Be the best storyteller at your ttrpg table. Saga is an app for GM's and players for DnD and tabletop roleplaying games.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Saga",
+  "title": "saga.quest",
+  "payoff": "Enhance TTRPG group storytelling",
+  "shortDescription": "Saga is a storytelling companion tool designed for tabletop role-playing game (TTRPG) groups. It facilitates collaborative storytelling by allowing all players to contribute to the narrative. An example use case is during a TTRPG session, where players and the game master (GM) use Saga to keep track of the story, make notes, and decide on the narrative direction together.",
+  "pros": [
+    "Encourages collaborative storytelling",
+    "Reduces the narrative burden on the GM",
+    "Enhances player engagement and creativity"
+  ],
+  "cons": [
+    "May require internet access",
+    "Dependent on player participation",
+    "Limited by the features currently developed"
+  ],
+  "alternatives": [
+    "D&D Beyond [dndbeyond.com]",
+    "Roll20 [roll20.net]",
+    "Fantasy Grounds [fantasygrounds.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "D&D Beyond",
+      "url": "dndbeyond.com",
+      "reason": "Comprehensive TTRPG toolset and resources"
+    },
+    {
+      "name": "Roll20",
+      "url": "roll20.net",
+      "reason": "Popular for online TTRPG sessions"
+    },
+    {
+      "name": "Fantasy Grounds",
+      "url": "fantasygrounds.com",
+      "reason": "Offers robust TTRPG game management"
+    }
+  ],
+  "tags": [
+    "TTRPG",
+    "storytelling",
+    "collaboration",
+    "game management"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
-  "freeTier": false,
+  "department": "Creative",
+  "function": "Notes",
+  "freeTier": true,
   "openSource": true,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://saga.quest/",
   "documentationUrl": null,
   "githubUrl": "https://github.com/StorytaleStudio/saga-features/issues/2",
@@ -22,5 +55,5 @@
   "screenshot": "https://share.appsfor.us/screenshots/saga_quest.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/saga_quest_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/saga_quest_400.png",
-  "updatedAt": "2025-07-20T03:43:46.591Z"
+  "updatedAt": "2025-07-23T03:28:15.213Z"
 }
