@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tabstack.co/",
+  "name": "TabStack",
+  "title": "tabstack.co",
+  "payoff": "Enhance web use with organized tabs.",
+  "shortDescription": "TabStack revolutionizes how users interact with their browsers by allowing them to organize bookmarks into groups, folders, and pages. It simplifies web browsing with features like saving all open tabs with a single click, making it ideal for research, heavy browsing, and project management. Users can streamline their web experience, reducing clutter and enhancing productivity.",
+  "pros": [
+    "Efficient tab management",
+    "One-click save for all tabs",
+    "Customizable bookmark organization"
+  ],
+  "cons": [
+    "Potential for high memory usage",
+    "May be complex for casual users",
+    "Limited to browser-based use"
+  ],
+  "alternatives": [
+    "OneTab [onetab.com]",
+    "Session Buddy [sessionbuddy.com]",
+    "Toby [gettoby.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OneTab",
+      "url": "onetab.com",
+      "reason": "Reduces tab clutter by converting into a list."
+    },
+    {
+      "name": "Session Buddy",
+      "url": "sessionbuddy.com",
+      "reason": "Manages browser sessions and bookmarks."
+    },
+    {
+      "name": "Toby",
+      "url": "gettoby.com",
+      "reason": "Organizes tabs into visual lists and boards."
+    }
+  ],
+  "tags": [
+    "productivity",
+    "browser extension",
+    "tab management",
+    "bookmark organization"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://tabstack.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=tabstack&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tabstack_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tabstack_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tabstack_co_400.png",
+  "updatedAt": "2025-07-24T04:36:27.161Z"
+}

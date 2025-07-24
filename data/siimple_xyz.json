@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://siimple.xyz/",
+  "name": "siimple CSS",
+  "title": "siimple.xyz",
+  "payoff": "Themeable CSS toolkit",
+  "shortDescription": "siimple CSS offers a minimalist toolkit for web developers focusing on simplicity and customizability. It provides essential UI elements, utility CSS classes, a flat color palette, and pure CSS icons, all customizable for various projects. Ideal for developers seeking a lightweight, easy-to-use CSS framework to speed up project styling without the overhead of larger frameworks.",
+  "pros": [
+    "Highly customizable UI elements",
+    "Lightweight and simple to use",
+    "Includes a collection of pure CSS icons"
+  ],
+  "cons": [
+    "Limited components compared to larger frameworks",
+    "May require CSS knowledge to fully utilize",
+    "Lacks extensive community support"
+  ],
+  "alternatives": [
+    "Bootstrap [getbootstrap.com]",
+    "Tailwind CSS [tailwindcss.com]",
+    "Bulma [bulma.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bootstrap",
+      "url": "getbootstrap.com",
+      "reason": "More components and larger community"
+    },
+    {
+      "name": "Tailwind CSS",
+      "url": "tailwindcss.com",
+      "reason": "Utility-first approach for styling"
+    },
+    {
+      "name": "Bulma",
+      "url": "bulma.io",
+      "reason": "Similar simplicity with flexbox layout"
+    }
+  ],
+  "tags": [
+    "CSS toolkit",
+    "web design",
+    "frontend development",
+    "theming"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://siimple.xyz/",
+  "documentationUrl": "https://siimple.xyz/docs",
+  "githubUrl": "https://github.com/jmjuanes/siimple",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/siimple_xyz.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/siimple_xyz_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/siimple_xyz_400.png",
+  "updatedAt": "2025-07-24T04:36:48.426Z"
+}
