@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://coze.com/",
+  "name": "Coze",
+  "title": "coze.com",
+  "payoff": "AI App Development Made Easy",
+  "shortDescription": "Coze is a cutting-edge platform designed to simplify AI app development. It allows users to create AI-driven applications without coding, utilizing ready-made WebSDKs and APIs. Ideal for developers and businesses looking to integrate AI into their apps, Coze offers tools like the Chat With All Models V2 for simultaneous interactions with multiple AI models. Example use: A startup could use Coze to quickly develop and deploy AI features in their customer service app.",
+  "pros": [
+    "No coding required for app development",
+    "Supports multiple AI models",
+    "Continuous updates and UI optimizations"
+  ],
+  "cons": [
+    "May require basic tech knowledge",
+    "Limited customization in free tier",
+    "Dependent on third-party APIs"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Mendix",
+      "url": "mendix.com",
+      "reason": "Offers low-code app development"
+    },
+    {
+      "name": "Microsoft Power Apps",
+      "url": "powerapps.microsoft.com",
+      "reason": "Integrates with Microsoft services"
+    },
+    {
+      "name": "OutSystems",
+      "url": "outsystems.com",
+      "reason": "Focuses on enterprise-grade apps"
+    }
+  ],
+  "tags": [
+    "AI",
+    "app development",
+    "no-code",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Code-Free",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://coze.com/",
+  "documentationUrl": "https://coze.com/docs",
+  "githubUrl": "https://github.com/search?q=coze&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/coze_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/coze_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/coze_com_400.png",
+  "updatedAt": "2025-07-24T01:13:58.195Z"
+}

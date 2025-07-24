@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://agents.appsmith.com/",
+  "name": "Appsmith",
+  "title": "agents.appsmith.com",
+  "payoff": "Automate work with AI agents",
+  "shortDescription": "Appsmith offers AI-powered agents to automate business processes, enhancing productivity and customer satisfaction. It allows users to deploy AI agents that can manage CRM updates, support ticket resolutions, and employee training without coding. Ideal for businesses looking to integrate AI into their systems seamlessly.",
+  "pros": [
+    "Quick and secure deployment",
+    "No coding required for setup",
+    "Integrates with existing tools like Gmail and Salesforce"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependence on existing data quality",
+    "Potential privacy concerns with data access"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Microsoft Power Automate [flow.microsoft.com]",
+    "Integromat [integromat.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers wider app integration"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple automation for personal use"
+    },
+    {
+      "name": "Workato",
+      "url": "workato.com",
+      "reason": "Strong enterprise focus"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "no-code",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://agents.appsmith.com/",
+  "documentationUrl": "https://docs.appsmith.com/",
+  "githubUrl": "https://github.com/search?q=appsmith&type=repositories",
+  "twitterUrl": "https://x.com/",
+  "screenshot": "https://share.appsfor.us/screenshots/agents_appsmith_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/agents_appsmith_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/agents_appsmith_com_400.png",
+  "updatedAt": "2025-07-24T01:10:33.530Z"
+}

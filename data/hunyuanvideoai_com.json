@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hunyuanvideoai.com/",
+  "name": "Hunyuan Video",
+  "title": "hunyuanvideoai.com",
+  "payoff": "AI Video Generator Online",
+  "shortDescription": "Hunyuan Video leverages advanced AI to generate high-quality videos from text descriptions. It's designed for content creators, marketers, and developers seeking to enhance their visual content with minimal effort. Users can input detailed scene descriptions and the AI crafts videos up to 720p resolution, ideal for social media platforms like TikTok and YouTube Shorts.",
+  "pros": [
+    "High-quality video output",
+    "Advanced text-to-video alignment",
+    "Open-source model with community support"
+  ],
+  "cons": [
+    "Limited to 720p resolution",
+    "May require technical knowledge to use effectively",
+    "Dependent on specific text inputs for best results"
+  ],
+  "alternatives": [
+    "Synthesia [synthesia.io]",
+    "Descript [descript.com]",
+    "Lumen5 [lumen5.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Synthesia",
+      "url": "synthesia.io",
+      "reason": "Offers AI video creation with avatars"
+    },
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Combines video editing and generation"
+    },
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Focuses on automated video creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video generation",
+    "open source",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://hunyuanvideoai.com/",
+  "documentationUrl": "https://github.com/hunyuanvideoai/hunyuan",
+  "githubUrl": "https://github.com/search?q=hunyuan%20video&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/hunyuanvideoai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hunyuanvideoai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hunyuanvideoai_com_400.png",
+  "updatedAt": "2025-07-24T01:11:41.856Z"
+}

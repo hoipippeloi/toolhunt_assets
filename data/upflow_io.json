@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://upflow.io/",
+  "name": "Upflow",
+  "title": "upflow.io",
+  "payoff": "Streamline Accounts Receivable",
+  "shortDescription": "Upflow is a software designed to help B2B finance teams manage and streamline their accounts receivable processes. It integrates with existing invoicing and accounting tools, enhancing cash collection strategies and improving customer payment experiences. An example use case is a company using Upflow to reduce days sales outstanding (DSO) by automating payment reminders and offering multiple payment options.",
+  "pros": [
+    "Reduces days sales outstanding",
+    "Integrates with existing accounting tools",
+    "Offers a seamless payment experience for customers"
+  ],
+  "cons": [
+    "Primarily suitable for B2B companies",
+    "May require training for optimal use",
+    "Dependent on quality of existing financial systems"
+  ],
+  "alternatives": [
+    "FreshBooks [freshbooks.com]",
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Offers invoicing and financial reporting"
+    },
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Widely used for overall financial management"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Strong in automating accounting tasks"
+    }
+  ],
+  "tags": [
+    "finance",
+    "accounts receivable",
+    "cash flow management",
+    "payment processing"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://upflow.io/",
+  "documentationUrl": "https://help.upflow.io/en/articles/2058594-upflow-privacy-policy",
+  "githubUrl": "https://github.com/search?q=upflow&type=repositories",
+  "twitterUrl": "https://twitter.com/upflowhq",
+  "screenshot": "https://share.appsfor.us/screenshots/upflow_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/upflow_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/upflow_io_400.png",
+  "updatedAt": "2025-07-24T01:13:22.060Z"
+}

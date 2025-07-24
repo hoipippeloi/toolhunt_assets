@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hellowattle.com/",
+  "name": "Wattle",
+  "title": "hellowattle.com",
+  "payoff": "Modern platform for home service pros",
+  "shortDescription": "Wattle is a business platform designed for home service professionals. It leverages AI to streamline operations such as booking, dispatch, and payments. Service industries like HVAC, plumbing, and electrical can benefit from its automation features, reducing manual scheduling and payment follow-ups. An example use case is an HVAC company using Wattle to automatically schedule technicians and instantly collect payments, enhancing operational efficiency.",
+  "pros": [
+    "AI-driven scheduling and dispatch",
+    "Automated payment collection",
+    "Integration with existing software"
+  ],
+  "cons": [
+    "May require training to use AI features",
+    "Potential dependency on platform for operations",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "ServiceTitan [servicetitan.com]",
+    "Housecall Pro [housecallpro.com]",
+    "Jobber [getjobber.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ServiceTitan",
+      "url": "servicetitan.com",
+      "reason": "Comprehensive service management suite"
+    },
+    {
+      "name": "Housecall Pro",
+      "url": "housecallpro.com",
+      "reason": "Strong mobile app and customer features"
+    },
+    {
+      "name": "Jobber",
+      "url": "getjobber.com",
+      "reason": "Well-suited for smaller operations"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "home services",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hellowattle.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=wattle&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/hellowattle_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hellowattle_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hellowattle_com_400.png",
+  "updatedAt": "2025-07-24T01:14:33.739Z"
+}

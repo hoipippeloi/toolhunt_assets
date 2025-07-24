@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datrics.ai/",
+  "name": "Datrics AI",
+  "title": "datrics.ai",
+  "payoff": "Instant AI-powered insights",
+  "shortDescription": "Datrics AI streamlines insurance claim processing using advanced AI technologies. It automates the creation of claims with supporting documentation, leveraging clinical terminologies like SNOMED, ICD-10, and RXNorm. The tool is designed for healthcare providers, insurers, and claims adjusters, facilitating quick claim validation and processing. An example use case involves insurers using the platform to match claims with policy allowances efficiently.",
+  "pros": [
+    "Automates complex claim processes",
+    "Supports multiple clinical terminologies",
+    "Offers both auto-approval and manual review options"
+  ],
+  "cons": [
+    "May require integration with existing systems",
+    "Potentially high learning curve for new users",
+    "Dependence on accurate data input"
+  ],
+  "alternatives": [
+    "ClaimVantage [claimvantage.com]",
+    "FINEOS [fineos.com]",
+    "Majesco [majesco.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ClaimVantage",
+      "url": "claimvantage.com",
+      "reason": "Specializes in insurance claim automation"
+    },
+    {
+      "name": "FINEOS",
+      "url": "fineos.com",
+      "reason": "Offers comprehensive insurance software"
+    },
+    {
+      "name": "Majesco",
+      "url": "majesco.com",
+      "reason": "Provides cloud insurance platform solutions"
+    }
+  ],
+  "tags": [
+    "AI",
+    "insurance",
+    "automation",
+    "healthcare"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://datrics.ai/",
+  "documentationUrl": "https://datrics.ai/documentation",
+  "githubUrl": "https://github.com/search?q=datrics%20ai&type=repositories",
+  "twitterUrl": "https://x.com/AiDatrics",
+  "screenshot": "https://share.appsfor.us/screenshots/datrics_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datrics_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datrics_ai_400.png",
+  "updatedAt": "2025-07-24T01:12:10.075Z"
+}
