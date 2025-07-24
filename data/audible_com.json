@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://audible.com/",
+  "name": "Audible",
+  "title": "audible.com",
+  "payoff": "Endloses Hören statt Scrollen",
+  "shortDescription": "Audible bietet eine umfangreiche Bibliothek an Hörbüchern, Hörspielen und Podcasts, die Nutzer über eine benutzerfreundliche App zugänglich machen können. Es richtet sich an Vielleser und Pendler, die ihre Zeit unterwegs oder bei der Hausarbeit nutzen möchten, um Geschichten zu erleben oder Wissen zu erweitern. Ein typischer Anwendungsfall ist das Hören eines Thrillers während einer langen Autofahrt.",
+  "pros": [
+    "Große Auswahl an Titeln",
+    "Offline-Hören möglich",
+    "30 Tage kostenlos testen"
+  ],
+  "cons": [
+    "Monatliche Kosten nach Testphase",
+    "Bindung an Amazon-Ökosystem",
+    "Keine Textversion der Inhalte"
+  ],
+  "alternatives": [
+    "Scribd [scribd.com]",
+    "Storytel [storytel.com]",
+    "Libro.fm [libro.fm]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Scribd",
+      "url": "scribd.com",
+      "reason": "Offers books, audiobooks, and magazines"
+    },
+    {
+      "name": "Storytel",
+      "url": "storytel.com",
+      "reason": "Unlimited access to audiobooks"
+    },
+    {
+      "name": "Libro.fm",
+      "url": "libro.fm",
+      "reason": "Supports local bookstores with purchases"
+    }
+  ],
+  "tags": [
+    "audio books",
+    "podcasts",
+    "streaming service",
+    "entertainment"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1995,
+  "websiteUrl": "https://audible.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=audible&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/audible_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/audible_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/audible_com_400.png",
+  "updatedAt": "2025-07-24T03:28:52.576Z"
+}

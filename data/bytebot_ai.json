@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bytebot.ai/",
+  "name": "Bytebot",
+  "title": "bytebot.ai",
+  "payoff": "Build Desktop Agents Easily",
+  "shortDescription": "Bytebot simplifies the development of desktop agents for developers. It serves as a containerized solution that streamlines the creation of applications with automation capabilities. Ideal for developers looking to enhance their coding workflow, automate browser actions, or integrate with design tools like Figma. An example use case includes automating repetitive tasks in a coding environment to boost productivity.",
+  "pros": [
+    "Containerized development environment",
+    "Supports multiple automation use cases",
+    "Quick setup and deployment"
+  ],
+  "cons": [
+    "Limited to desktop environments",
+    "May require technical knowledge to fully utilize",
+    "Lack of mobile support"
+  ],
+  "alternatives": [
+    "AutoIt [autoitscript.com]",
+    "Tasker [tasker.joaoapps.com]",
+    "Automate [llamalab.com/automate]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AutoIt",
+      "url": "autoitscript.com",
+      "reason": "Offers scripting for Windows automation"
+    },
+    {
+      "name": "Tasker",
+      "url": "tasker.joaoapps.com",
+      "reason": "Provides automation for Android devices"
+    },
+    {
+      "name": "Automate",
+      "url": "llamalab.com/automate",
+      "reason": "Visual automation app for Android"
+    }
+  ],
+  "tags": [
+    "automation",
+    "desktop software",
+    "developer tools",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://bytebot.ai/",
+  "documentationUrl": "https://docs.bytebot.ai/quickstart",
+  "githubUrl": "https://github.com/search?q=bytebot&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/bytebot_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bytebot_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bytebot_ai_400.png",
+  "updatedAt": "2025-07-24T03:27:45.525Z"
+}

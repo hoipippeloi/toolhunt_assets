@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://incorta.com/",
+  "name": "Incorta",
+  "title": "incorta.com",
+  "payoff": "Cut through data complexity fast",
+  "shortDescription": "Incorta is a unified data and analytics platform that simplifies data integration and analysis. It is designed for organizations that need to integrate data from systems like Oracle and SAP without the complexities of traditional ETL processes. An example use case is a company leveraging Incorta to reduce data preparation time and cost while accessing real-time insights from their Oracle ERP data.",
+  "pros": [
+    "Reduces data preparation time",
+    "Provides real-time data insights",
+    "Eliminates need for complex ETL"
+  ],
+  "cons": [
+    "Potential high initial setup cost",
+    "May require training for new users",
+    "Limited to no information on free tier availability"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Strong in data exploration"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integrated with Microsoft products"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "ETL",
+    "business intelligence",
+    "real-time analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://incorta.com/",
+  "documentationUrl": "https://docs.incorta.com",
+  "githubUrl": "https://github.com/search?q=incorta&type=repositories",
+  "twitterUrl": "https://twitter.com/incorta",
+  "screenshot": "https://share.appsfor.us/screenshots/incorta_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/incorta_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/incorta_com_400.png",
+  "updatedAt": "2025-07-24T03:26:32.135Z"
+}

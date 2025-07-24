@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://blogbuster.so/",
+  "name": "BlogBuster",
+  "title": "blogbuster.so",
+  "payoff": "Autopilot Traffic Machine for Blogs",
+  "shortDescription": "BlogBuster helps users automate the creation of SEO-optimized blog posts to enhance visibility and drive traffic. Ideal for marketers and founders, it simplifies content creation by generating articles that feel human and are ready to publish in minutes. Users can manage multiple projects, adapt content for different markets, and schedule posts for consistent publishing.",
+  "pros": [
+    "Automates SEO content creation",
+    "Built-in editor for personalization",
+    "Supports multiple industries and platforms"
+  ],
+  "cons": [
+    "May generate less creative content",
+    "Dependent on algorithms for SEO trends",
+    "Potential for similar content across users"
+  ],
+  "alternatives": [
+    "Contentful [contentful.com]",
+    "HubSpot CMS [hubspot.com]",
+    "WordPress [wordpress.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Contentful",
+      "url": "contentful.com",
+      "reason": "Offers robust CMS with API access"
+    },
+    {
+      "name": "HubSpot CMS",
+      "url": "hubspot.com",
+      "reason": "Integrates content with marketing tools"
+    },
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Popular, flexible open-source CMS"
+    }
+  ],
+  "tags": [
+    "content management",
+    "SEO",
+    "automation",
+    "blogging"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://blogbuster.so/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=blogbuster&type=repositories",
+  "twitterUrl": "https://x.com/JoschuaBuilds",
+  "screenshot": "https://share.appsfor.us/screenshots/blogbuster_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/blogbuster_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/blogbuster_so_400.png",
+  "updatedAt": "2025-07-24T03:26:59.548Z"
+}

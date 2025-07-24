@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sortabase.com/",
+  "name": "Sortabase",
+  "title": "sortabase.com",
+  "payoff": "Visual databases by communities",
+  "shortDescription": "Sortabase offers a platform for creating and managing visual, collaborative databases that are built and managed by communities. It allows users to engage with various topics ranging from technology to local activities, making it ideal for collaborative research and community-driven projects. An example use case is a community collectively managing a database of local activities in Toronto.",
+  "pros": [
+    "Community-driven content creation",
+    "Visual and collaborative interface",
+    "Diverse range of topics and databases"
+  ],
+  "cons": [
+    "May require data management knowledge",
+    "Dependent on community participation",
+    "Limited to the topics available on the platform"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Notion [notion.so]",
+    "Coda [coda.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Offers flexible database and collaboration tools"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Combines notes, tasks, and databases flexibly"
+    },
+    {
+      "name": "Coda",
+      "url": "coda.io",
+      "reason": "Blends doc and database functionalities"
+    }
+  ],
+  "tags": [
+    "collaborative tools",
+    "database management",
+    "community-driven",
+    "visual databases"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sortabase.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=sortabase&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sortabase_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sortabase_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sortabase_com_400.png",
+  "updatedAt": "2025-07-24T03:27:20.301Z"
+}
