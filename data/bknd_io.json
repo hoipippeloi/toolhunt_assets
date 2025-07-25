@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bknd.io/",
+  "name": "BKND",
+  "title": "bknd.io",
+  "payoff": "Run Firebase alternative anywhere",
+  "shortDescription": "BKND is a lightweight, feature-rich backend solution designed for modern developers. It integrates seamlessly with various frameworks like NextJS, Remix, and more, or can run standalone in environments like Bun, Node, and Deno. Ideal for projects requiring scalable backend services with features like data management, authentication, and media handling. Example use case: A startup developing a web app requiring robust backend services without the overhead of larger platforms.",
+  "pros": [
+    "Lightweight and scalable",
+    "Framework agnostic integration",
+    "Open source flexibility"
+  ],
+  "cons": [
+    "Limited third-party integrations",
+    "Newer in the market, less proven",
+    "Community support may be limited"
+  ],
+  "alternatives": [
+    "Firebase [firebase.google.com]",
+    "Parse [parseplatform.org]",
+    "Backendless [backendless.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Firebase",
+      "url": "firebase.google.com",
+      "reason": "Well-established, feature-rich platform"
+    },
+    {
+      "name": "Parse",
+      "url": "parseplatform.org",
+      "reason": "Open source with flexible backend options"
+    },
+    {
+      "name": "Backendless",
+      "url": "backendless.com",
+      "reason": "Offers real-time database and codeless options"
+    }
+  ],
+  "tags": [
+    "backend services",
+    "open source",
+    "scalability",
+    "authentication"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://bknd.io/",
+  "documentationUrl": "https://docs.bknd.io/",
+  "githubUrl": "https://github.com/bknd-io/bknd",
+  "twitterUrl": "https://twitter.com/bknd_io",
+  "screenshot": "https://share.appsfor.us/screenshots/bknd_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bknd_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bknd_io_400.png",
+  "updatedAt": "2025-07-25T04:36:41.608Z"
+}
