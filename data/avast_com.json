@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://avast.com/en-us",
+  "name": "Avast",
+  "title": "avast.com",
+  "payoff": "Free Antivirus & VPN",
+  "shortDescription": "Avast provides comprehensive digital security solutions for individuals and businesses. It offers antivirus protection, VPN services, and advanced security features to protect against malware, scams, and privacy threats. Ideal for users seeking robust online protection, Avast helps safeguard personal information and ensures secure internet browsing and transactions.",
+  "pros": [
+    "Comprehensive security features",
+    "Free versions available",
+    "User-friendly interface"
+  ],
+  "cons": [
+    "Can be resource-intensive",
+    "Ads in the free version",
+    "Privacy concerns with data collection"
+  ],
+  "alternatives": [
+    "Norton [norton.com]",
+    "McAfee [mcafee.com]",
+    "Kaspersky [kaspersky.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Norton",
+      "url": "norton.com",
+      "reason": "Offers comprehensive security solutions"
+    },
+    {
+      "name": "McAfee",
+      "url": "mcafee.com",
+      "reason": "Well-known for device security"
+    },
+    {
+      "name": "Bitdefender",
+      "url": "bitdefender.com",
+      "reason": "Strong focus on multi-layered protection"
+    }
+  ],
+  "tags": [
+    "antivirus",
+    "VPN",
+    "online security",
+    "privacy protection"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 1988,
+  "websiteUrl": "https://avast.com/en-us",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=avast&type=repositories",
+  "twitterUrl": "https://twitter.com/Avast",
+  "screenshot": "https://share.appsfor.us/screenshots/avast_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/avast_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/avast_com_400.png",
+  "updatedAt": "2025-07-25T03:29:37.830Z"
+}

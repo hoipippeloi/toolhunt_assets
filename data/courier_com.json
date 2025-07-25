@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://courier.com/",
+  "name": "Courier",
+  "title": "courier.com",
+  "payoff": "Multichannel Notification Platform",
+  "shortDescription": "Courier is a versatile notification platform designed for SaaS applications, enabling developers to integrate multi-channel messaging capabilities seamlessly. It supports over 50 integrations, allowing messages to be sent across various channels like email, SMS, and push notifications. Ideal for teams at companies like Twilio, it simplifies notification management while ensuring compliance with regulations like GDPR and CCPA.",
+  "pros": [
+    "Supports over 50 integrations",
+    "No code required for complex workflows",
+    "Compliance with GDPR and CCPA"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential over-reliance on third-party integrations",
+    "Cost implications for scaling"
+  ],
+  "alternatives": [
+    "SendGrid [sendgrid.com]",
+    "OneSignal [onesignal.com]",
+    "Pusher [pusher.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SendGrid",
+      "url": "sendgrid.com",
+      "reason": "Focuses on email notifications"
+    },
+    {
+      "name": "OneSignal",
+      "url": "onesignal.com",
+      "reason": "Broad push notification services"
+    },
+    {
+      "name": "Pusher",
+      "url": "pusher.com",
+      "reason": "Real-time messaging and notifications"
+    }
+  ],
+  "tags": [
+    "SaaS",
+    "notifications",
+    "multi-channel",
+    "compliance"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Messaging",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://courier.com/",
+  "documentationUrl": "https://courier.com/docs",
+  "githubUrl": "https://github.com/search?q=courier&type=repositories",
+  "twitterUrl": "https://x.com/trycourier",
+  "screenshot": "https://share.appsfor.us/screenshots/courier_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/courier_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/courier_com_400.png",
+  "updatedAt": "2025-07-25T03:26:50.452Z"
+}

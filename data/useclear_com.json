@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://useclear.com/",
+  "name": "Clear",
+  "title": "useclear.com",
+  "payoff": "Charming Lists for iPhone, Now Free!",
+  "shortDescription": "Clear is a minimalist list-making app designed for iPhone users who seek a clutter-free environment to organize their thoughts, plans, and goals. The app leverages intuitive gesture shortcuts, such as pinching to insert items or taking screenshots to share lists, making it both fun and effective. Users can personalize their experience with hundreds of collectibles, enhancing the app's visual appeal and user engagement. Ideal for individuals looking to streamline their daily tasks and enjoy a uniquely productive minimalism.",
+  "pros": [
+    "Intuitive gesture-based controls",
+    "Highly customizable with collectibles",
+    "Free to use with a simple, clean interface"
+  ],
+  "cons": [
+    "Limited to iOS devices only",
+    "Advanced features require a subscription",
+    "May be too simplistic for complex project management"
+  ],
+  "alternatives": [
+    "Todoist [todoist.com]",
+    "Microsoft To Do [todo.microsoft.com]",
+    "Any.do [any.do]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Todoist",
+      "url": "todoist.com",
+      "reason": "Offers more robust task management features"
+    },
+    {
+      "name": "Microsoft To Do",
+      "url": "todo.microsoft.com",
+      "reason": "Integrated with Office 365 suite"
+    },
+    {
+      "name": "Any.do",
+      "url": "any.do",
+      "reason": "Includes calendar and assistant features"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "task management",
+    "iOS apps",
+    "list making"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2012,
+  "websiteUrl": "https://useclear.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=clear&type=repositories",
+  "twitterUrl": "https://twitter.com/UseClear",
+  "screenshot": "https://share.appsfor.us/screenshots/useclear_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/useclear_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/useclear_com_400.png",
+  "updatedAt": "2025-07-25T03:27:55.682Z"
+}

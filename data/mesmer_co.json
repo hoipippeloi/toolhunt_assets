@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mesmer.co/",
+  "name": "Mesmer",
+  "title": "mesmer.co",
+  "payoff": "Lead with clarity, not meetings",
+  "shortDescription": "Mesmer serves as an AI chief of staff for CTOs, enhancing the management of product development by reducing reliance on meetings and increasing operational transparency. It integrates with tools like GitHub, GitLab, and Slack to monitor team activities and project progress in real-time, ensuring that leaders can make informed decisions swiftly and maintain team focus on shipping products.",
+  "pros": [
+    "Reduces the need for frequent meetings",
+    "Provides real-time updates and issue tracking",
+    "Supports a wide range of integration with popular tools"
+  ],
+  "cons": [
+    "May require adaptation for non-tech teams",
+    "Dependent on the quality of integrations",
+    "Potential privacy concerns with extensive monitoring"
+  ],
+  "alternatives": [
+    "Monday.com [monday.com]",
+    "Asana [asana.com]",
+    "Jira [atlassian.com/software/jira]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers visual project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task and workflow management"
+    },
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Popular in agile software development"
+    }
+  ],
+  "tags": [
+    "AI",
+    "product management",
+    "real-time tracking",
+    "team management"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://mesmer.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mesmer&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/mesmer_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mesmer_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mesmer_co_400.png",
+  "updatedAt": "2025-07-25T03:26:22.081Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://deadpan.io/scanboy/",
+  "name": "ScanBoy",
+  "title": "deadpan.io/scanboy",
+  "payoff": "Fast AI-powered document scanning",
+  "shortDescription": "ScanBoy is a high-speed document scanner designed to enhance productivity. It allows users to create high-quality PDFs with selectable text and utilizes AI to generate smart filenames, streamlining the document management process. Ideal for professionals and businesses frequently handling multiple documents, ScanBoy can significantly reduce the time spent on scanning and naming files, making it a valuable tool in any office environment.",
+  "pros": [
+    "Fast document scanning and processing",
+    "AI-powered filename generation",
+    "Selectable text via OCR"
+  ],
+  "cons": [
+    "Limited to document scanning",
+    "No advanced editing features",
+    "Potential privacy concerns with AI"
+  ],
+  "alternatives": [
+    "Adobe Scan [adobe.com/acrobat/mobile/scanner-app.html]",
+    "CamScanner [camscanner.com]",
+    "Scanbot [scanbot.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Scan",
+      "url": "adobe.com/acrobat/mobile/scanner-app.html",
+      "reason": "Offers cloud storage integration"
+    },
+    {
+      "name": "CamScanner",
+      "url": "camscanner.com",
+      "reason": "Features extensive editing tools"
+    },
+    {
+      "name": "Scanbot",
+      "url": "scanbot.io",
+      "reason": "Provides advanced data security"
+    }
+  ],
+  "tags": [
+    "document management",
+    "AI",
+    "productivity",
+    "scanning"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Documents",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://deadpan.io/scanboy/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=scanboy&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/deadpan_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/deadpan_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/deadpan_io_400.png",
+  "updatedAt": "2025-07-25T03:27:15.488Z"
+}

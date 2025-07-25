@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://craft.io/",
+  "name": "Craft.io",
+  "title": "craft.io",
+  "payoff": "Build great products with confidence",
+  "shortDescription": "Craft.io is a comprehensive product management platform designed to streamline the entire product lifecycle. It is tailored for product teams aiming to strategize, align, and execute their visions effectively. Users can collect feedback, prioritize features, and manage portfolios seamlessly. An example use case involves a product manager using Craft.io to create a roadmap linked to company OKRs, ensuring strategic alignment and clear communication across teams.",
+  "pros": [
+    "End-to-end product management",
+    "Built-in best practices for prioritization",
+    "Seamless integration with other dev tools"
+  ],
+  "cons": [
+    "May be complex for small teams",
+    "Potentially high learning curve",
+    "Could be expensive for startups"
+  ],
+  "alternatives": [
+    "Aha! [aha.io]",
+    "ProdPad [prodpad.com]",
+    "Jira [atlassian.com/software/jira]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Aha!",
+      "url": "aha.io",
+      "reason": "Offers similar product roadmapping features"
+    },
+    {
+      "name": "ProdPad",
+      "url": "prodpad.com",
+      "reason": "Focuses on product strategy and ideation"
+    },
+    {
+      "name": "Jira",
+      "url": "atlassian.com/software/jira",
+      "reason": "Widely used for project and issue tracking"
+    }
+  ],
+  "tags": [
+    "product management",
+    "roadmapping",
+    "feedback management",
+    "portfolio management"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://craft.io/",
+  "documentationUrl": "https://craft.io/documentation",
+  "githubUrl": "https://github.com/search?q=craft%20io&type=repositories",
+  "twitterUrl": "https://twitter.com/CreateWithCraft",
+  "screenshot": "https://share.appsfor.us/screenshots/craft_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/craft_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/craft_io_400.png",
+  "updatedAt": "2025-07-25T03:29:09.158Z"
+}
