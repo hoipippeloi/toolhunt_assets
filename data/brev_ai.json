@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://brev.ai/",
+  "name": "Brev AI Music Generator",
+  "title": "brev.ai",
+  "payoff": "Create music instantly online",
+  "shortDescription": "Brev AI Music Generator is an online tool that transforms text into professional-quality, royalty-free music. It's designed for musicians, content creators, and marketers who need quick and customizable music tracks. Users can generate music for videos, commercials, or personal projects without any sign-up or payment, making it accessible and user-friendly.",
+  "pros": [
+    "Instant music generation from text",
+    "No sign-up required for use",
+    "Royalty-free music suitable for commercial use"
+  ],
+  "cons": [
+    "Limited control over music composition",
+    "Dependence on internet connectivity",
+    "Potential quality variability"
+  ],
+  "alternatives": [
+    "AIVA [aiva.ai]",
+    "Amper Music [ampermusic.com]",
+    "Landr [landr.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AIVA",
+      "url": "aiva.ai",
+      "reason": "AI music composition for creators"
+    },
+    {
+      "name": "Amper Music",
+      "url": "ampermusic.com",
+      "reason": "AI tool for creating unique soundtracks"
+    },
+    {
+      "name": "Landr",
+      "url": "landr.com",
+      "reason": "Offers AI mastering and music tools"
+    }
+  ],
+  "tags": [
+    "AI music generation",
+    "content creation",
+    "royalty-free music",
+    "no sign-up"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://brev.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=brev%20ai%20music%20generator&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/brev_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/brev_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/brev_ai_400.png",
+  "updatedAt": "2025-07-25T01:09:55.164Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://riliz.co/",
+  "name": "Riliz",
+  "title": "riliz.co",
+  "payoff": "Platform for product releases",
+  "shortDescription": "Riliz is a minimal blogging and changelog platform designed for managing and announcing product releases, updates, and improvements. It allows users to start writing in minutes, use their own domain, and manage all content in one place. Ideal for small to medium-sized tech companies, Riliz simplifies the process of sharing updates with customers and stakeholders, enhancing communication and transparency.",
+  "pros": [
+    "Easy to get started",
+    "Supports custom domains",
+    "Consolidates blog and changelog"
+  ],
+  "cons": [
+    "Limited features currently",
+    "No API for developers",
+    "Lacks extensive integrations"
+  ],
+  "alternatives": [
+    "WordPress [wordpress.org]",
+    "Ghost [ghost.org]",
+    "Medium [medium.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WordPress",
+      "url": "wordpress.org",
+      "reason": "Extensive customization options"
+    },
+    {
+      "name": "Ghost",
+      "url": "ghost.org",
+      "reason": "Focus on professional publishing"
+    },
+    {
+      "name": "Medium",
+      "url": "medium.com",
+      "reason": "Large built-in audience"
+    }
+  ],
+  "tags": [
+    "blogging",
+    "changelog",
+    "product management",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://riliz.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=riliz&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/riliz_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/riliz_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/riliz_co_400.png",
+  "updatedAt": "2025-07-25T01:10:23.929Z"
+}

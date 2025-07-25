@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://genspark.ai/",
+  "name": "Genspark",
+  "title": "genspark.ai",
+  "payoff": "All-in-One AI Workspace",
+  "shortDescription": "Genspark is a comprehensive AI workspace designed to cater to developers, data scientists, and businesses. It integrates various AI tools and functionalities into a single platform, enabling users to streamline their AI development processes. An example use case is a tech startup using Genspark to develop and deploy AI models quickly, without the need for managing multiple software tools.",
+  "pros": [
+    "Integrates multiple AI tools",
+    "Streamlines AI development",
+    "Suitable for various user levels"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Jupyter [jupyter.org]",
+    "Google Colab [colab.research.google.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Jupyter",
+      "url": "jupyter.org",
+      "reason": "Interactive notebook for live code"
+    },
+    {
+      "name": "Google Colab",
+      "url": "colab.research.google.com",
+      "reason": "Free cloud service for AI research"
+    }
+  ],
+  "tags": [
+    "AI",
+    "development",
+    "data science",
+    "workspace"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://genspark.ai/",
+  "documentationUrl": "https://genspark.ai/docs",
+  "githubUrl": "https://github.com/search?q=genspark&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/genspark_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/genspark_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/genspark_ai_400.png",
+  "updatedAt": "2025-07-25T01:08:53.955Z"
+}

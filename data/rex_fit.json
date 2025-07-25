@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rex.fit/",
+  "name": "Re.fit",
+  "title": "rex.fit",
+  "payoff": "Automate nutrition tracking effortlessly",
+  "shortDescription": "Re.fit, branded as The Drop, is the first fully automated nutrition tracker using AI and computer vision. It's designed for individuals aiming to monitor their diet more effectively without manual inputs. Users can simply send a photo of their meal or text their intake to log it. This tool is ideal for those looking to manage weight, improve dietary habits, or maintain a healthy lifestyle through seamless integration with daily technology.",
+  "pros": [
+    "Fully automated meal logging",
+    "Personalized health and fitness recommendations",
+    "Integration with messaging apps for ease of use"
+  ],
+  "cons": [
+    "Potential privacy concerns with meal photos",
+    "Dependence on AI accuracy for nutritional data",
+    "Limited to dietary tracking without broader health metrics"
+  ],
+  "alternatives": [
+    "MyFitnessPal [myfitnesspal.com]",
+    "Cronometer [cronometer.com]",
+    "Lose It! [loseit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Popular for manual food logging"
+    },
+    {
+      "name": "Cronometer",
+      "url": "cronometer.com",
+      "reason": "Detailed nutrient analysis"
+    },
+    {
+      "name": "Lose It!",
+      "url": "loseit.com",
+      "reason": "Focus on weight loss tracking"
+    }
+  ],
+  "tags": [
+    "nutrition tracking",
+    "AI",
+    "health tech",
+    "fitness"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://rex.fit/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=re%20fit&type=repositories",
+  "twitterUrl": "https://twitter.com/rexfit_app",
+  "screenshot": "https://share.appsfor.us/screenshots/rex_fit.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rex_fit_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rex_fit_400.png",
+  "updatedAt": "2025-07-25T01:09:26.220Z"
+}

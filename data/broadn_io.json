@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://broadn.io/",
+  "name": "broadn",
+  "title": "broadn.io",
+  "payoff": "AI for manufacturing sales ops",
+  "shortDescription": "broadn streamlines manufacturing sales operations by automating the quoting and order processes directly from the inbox to the ERP system. It is designed for manufacturing teams that handle sales through email, particularly in sectors like electronics, automotive, and industrial components. An example use case is an automotive supplier using broadn to reduce manual errors and speed up order processing.",
+  "pros": [
+    "Automates quoting and order entry",
+    "Reduces manual errors significantly",
+    "Integrates with major platforms like SAP and Salesforce"
+  ],
+  "cons": [
+    "Limited to manufacturing industries",
+    "Dependent on email for sales",
+    "May require customization for specific needs"
+  ],
+  "alternatives": [
+    "Salesforce CPQ [salesforce.com/products/cpq-configure-price-quote]",
+    "QuoteWerks [quotewerks.com]",
+    "Configure One [configureone.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce CPQ",
+      "url": "salesforce.com/products/cpq-configure-price-quote",
+      "reason": "Offers advanced CPQ features for diverse industries"
+    },
+    {
+      "name": "Apttus",
+      "url": "apttus.com",
+      "reason": "Provides CPQ with strong contract management"
+    },
+    {
+      "name": "Zuora",
+      "url": "zuora.com",
+      "reason": "Focuses on subscription billing and management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "manufacturing",
+    "sales automation",
+    "ERP integration"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://broadn.io/",
+  "documentationUrl": "https://broadn.io/documentation",
+  "githubUrl": "https://github.com/search?q=broadn&type=repositories",
+  "twitterUrl": "https://x.com/agent_herbie",
+  "screenshot": "https://share.appsfor.us/screenshots/broadn_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/broadn_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/broadn_io_400.png",
+  "updatedAt": "2025-07-25T01:11:40.891Z"
+}

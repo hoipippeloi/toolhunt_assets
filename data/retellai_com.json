@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://retellai.com/",
+  "name": "Retell AI",
+  "title": "retellai.com",
+  "payoff": "Supercharge Call Operations with AI",
+  "shortDescription": "Retell AI revolutionizes call operations by integrating voice AI technology. It's designed for businesses looking to automate their call centers, enhance customer service, and improve operational efficiency. Example use case: A healthcare provider uses Retell AI to handle appointment bookings and patient inquiries, reducing the workload on human agents and improving response times.",
+  "pros": [
+    "Automates repetitive call tasks",
+    "Seamless integration with existing tech stacks",
+    "Scalable to enterprise needs"
+  ],
+  "cons": [
+    "Dependent on voice recognition accuracy",
+    "Potential privacy concerns with AI handling calls",
+    "May require technical expertise to set up"
+  ],
+  "alternatives": [
+    "Dialpad [dialpad.com]",
+    "Talkdesk [talkdesk.com]",
+    "Aircall [aircall.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialpad",
+      "url": "dialpad.com",
+      "reason": "Offers AI-driven call management"
+    },
+    {
+      "name": "Talkdesk",
+      "url": "talkdesk.com",
+      "reason": "Cloud-based call center software"
+    },
+    {
+      "name": "Aircall",
+      "url": "aircall.io",
+      "reason": "Streamlines call operations with integrations"
+    }
+  ],
+  "tags": [
+    "AI",
+    "voice agents",
+    "call center automation",
+    "customer service"
+  ],
+  "apiUsed": true,
+  "department": "Customer Service",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://retellai.com/",
+  "documentationUrl": "https://retellai.com/documentation",
+  "githubUrl": "https://github.com/search?q=retell%20ai&type=repositories",
+  "twitterUrl": "https://twitter.com/retellai",
+  "screenshot": "https://share.appsfor.us/screenshots/retellai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/retellai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/retellai_com_400.png",
+  "updatedAt": "2025-07-25T01:11:12.185Z"
+}
