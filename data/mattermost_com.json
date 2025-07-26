@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mattermost.com/",
+  "name": "Mattermost",
+  "title": "mattermost.com",
+  "payoff": "Secure collaboration for critical work",
+  "shortDescription": "Mattermost is a collaboration platform designed for mission-critical environments where security and reliability are paramount. It supports various industries including defense, public sector, and technology, providing tools like chat, integrations, and mobile support. A notable use case is the USAF, which improved mission information availability by 4x using Mattermost.",
+  "pros": [
+    "Highly secure and compliant",
+    "Flexible deployment options",
+    "Extensive integration capabilities"
+  ],
+  "cons": [
+    "Complex setup for full customization",
+    "May be overkill for non-critical use",
+    "Higher cost for enterprise features"
+  ],
+  "alternatives": [
+    "Slack [slack.com]",
+    "Microsoft Teams [microsoft.com]",
+    "Discord [discord.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Popular for diverse integrations and ease of use"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com",
+      "reason": "Integrated with Office 365 suite"
+    },
+    {
+      "name": "Rocket.Chat",
+      "url": "rocket.chat",
+      "reason": "Open source and highly customizable"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "security",
+    "mission-critical",
+    "communication"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Messaging",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://mattermost.com/",
+  "documentationUrl": "https://mattermost.com/documentation",
+  "githubUrl": "https://github.com/mattermost/",
+  "twitterUrl": "https://twitter.com/mattermost",
+  "screenshot": "https://share.appsfor.us/screenshots/mattermost_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mattermost_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mattermost_com_400.png",
+  "updatedAt": "2025-07-26T03:24:51.706Z"
+}

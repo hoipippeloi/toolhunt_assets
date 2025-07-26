@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://proactor.ai/",
+  "name": "Proactor AI",
+  "title": "proactor.ai",
+  "payoff": "Proactive AI for smart transcription",
+  "shortDescription": "Proactor AI is a proactive AI assistant designed to enhance productivity in various settings such as meetings, lectures, and calls. It listens actively, providing real-time advice, summaries, and action items without requiring manual input. Ideal for professionals and teams looking to streamline their workflow and make smarter decisions effortlessly. An example use case is during business meetings where Proactor AI can help capture key points and suggest actions on the fly.",
+  "pros": [
+    "Real-time proactive assistance",
+    "Seamless integration across devices",
+    "Smart memory and context awareness"
+  ],
+  "cons": [
+    "Dependent on internet connectivity",
+    "Limited to English language support",
+    "Mobile apps not yet available"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Sembly AI [sembly.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers real-time transcription and notes"
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "AI tool for meeting capture and analysis"
+    },
+    {
+      "name": "Sembly AI",
+      "url": "sembly.ai",
+      "reason": "Automates meeting summaries and tasks"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "transcription",
+    "real-time"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://proactor.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=proactor%20ai&type=repositories",
+  "twitterUrl": "https://x.com/Proactor_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/proactor_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/proactor_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/proactor_ai_400.png",
+  "updatedAt": "2025-07-26T03:25:15.553Z"
+}

@@ -1,26 +1,59 @@
 {
   "sourceUrl": "https://amie.so/",
-  "name": "amie",
-  "title": "Amie - AI Note Taker",
-  "payoff": "",
-  "shortDescription": "Turn meeting notes into automated workflows. Handle meetings, summaries, todos and emails (soon) with your AI personal assistant.",
-  "pros": [],
-  "cons": [],
-  "alternatives": [],
-  "aiSuggestedAlternatives": [],
-  "tags": [],
+  "name": "Amie",
+  "title": "amie.so",
+  "payoff": "AI Note Taker",
+  "shortDescription": "Amie is an AI-powered note-taking app designed to enhance meeting productivity by automatically recording and summarizing discussions. It integrates with popular communication platforms like Zoom and Slack, making it ideal for professionals who manage frequent meetings. Users can take private notes, which Amie uses to generate focused summaries, helping teams progress without redundant follow-ups.",
+  "pros": [
+    "Automatic recording and summarization",
+    "Integration with major communication platforms",
+    "Private note-taking enhances meeting focus"
+  ],
+  "cons": [
+    "Dependence on AI accuracy",
+    "Potential privacy concerns with automatic recordings",
+    "May not fully capture complex discussions"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Notiv [notiv.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers live transcription and sharing."
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Focuses on AI meeting assistance."
+    },
+    {
+      "name": "Notiv",
+      "url": "notiv.com",
+      "reason": "Converts conversations into actions."
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "note-taking",
+    "meeting management"
+  ],
   "apiUsed": false,
-  "department": "Uncategorized",
-  "function": "",
+  "department": "Operations",
+  "function": "Notes",
   "freeTier": false,
   "openSource": false,
-  "releasedYear": 2025,
+  "releasedYear": 2021,
   "websiteUrl": "https://amie.so/",
   "documentationUrl": null,
-  "githubUrl": null,
+  "githubUrl": "https://github.com/search?q=amie&type=repositories",
   "twitterUrl": "https://x.com/tryamie",
   "screenshot": "https://share.appsfor.us/screenshots/amie_so.png",
   "screenshot_640": "https://share.appsfor.us/screenshots/amie_so_640.png",
   "screenshot_400": "https://share.appsfor.us/screenshots/amie_so_400.png",
-  "updatedAt": "2025-07-20T03:43:24.613Z"
+  "updatedAt": "2025-07-26T03:23:19.808Z"
 }

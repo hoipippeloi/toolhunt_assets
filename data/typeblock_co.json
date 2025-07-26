@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://typeblock.co/",
+  "name": "Typeblock",
+  "title": "typeblock.co",
+  "payoff": "Build AI apps with no-code",
+  "shortDescription": "Typeblock enables users to create and deploy AI-driven applications without any coding skills. It's designed for entrepreneurs, agencies, and marketing teams, allowing them to build unique customer experiences quickly. An example use case is generating personalized cold emails for sales teams.",
+  "pros": [
+    "No coding required",
+    "Integrated with Stripe for monetization",
+    "Supports GPT-4 for AI tasks"
+  ],
+  "cons": [
+    "Limited to no-code functionalities",
+    "Dependent on third-party platforms like Stripe",
+    "May not suit complex custom development needs"
+  ],
+  "alternatives": [
+    "Bubble [bubble.io]",
+    "Webflow [webflow.com]",
+    "Adalo [adalo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform with broader integrations"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Focuses on responsive web design"
+    },
+    {
+      "name": "Adalo",
+      "url": "adalo.com",
+      "reason": "Specializes in mobile app development"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "AI",
+    "app development",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://typeblock.co/",
+  "documentationUrl": "https://typeblock.co/docs",
+  "githubUrl": "https://github.com/search?q=typeblock&type=repositories",
+  "twitterUrl": "https://twitter.com/ProductHunt",
+  "screenshot": "https://share.appsfor.us/screenshots/typeblock_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typeblock_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typeblock_co_400.png",
+  "updatedAt": "2025-07-26T03:22:55.936Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://clickhouse.com/",
+  "name": "ClickHouse",
+  "title": "clickhouse.com",
+  "payoff": "Fast Open-Source OLAP DBMS",
+  "shortDescription": "ClickHouse is an open-source, column-oriented database management system designed for online analytical processing (OLAP). It enables users to generate analytical reports using SQL queries in real time. Ideal for industries like finance, cybersecurity, and gaming, ClickHouse helps companies like Tesla and Lyft to manage large volumes of data efficiently, offering significant performance benefits and cost savings.",
+  "pros": [
+    "High performance on large datasets",
+    "Real-time query processing",
+    "Scalable and flexible deployment options"
+  ],
+  "cons": [
+    "Complexity in initial setup and tuning",
+    "Limited transactional support",
+    "Steep learning curve for new users"
+  ],
+  "alternatives": [
+    "Snowflake [snowflake.com]",
+    "BigQuery [cloud.google.com/bigquery]",
+    "Redshift [aws.amazon.com/redshift]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Snowflake",
+      "url": "snowflake.com",
+      "reason": "Offers cloud-based data warehousing"
+    },
+    {
+      "name": "BigQuery",
+      "url": "cloud.google.com/bigquery",
+      "reason": "Fully-managed and scalable database"
+    },
+    {
+      "name": "Redshift",
+      "url": "aws.amazon.com/redshift",
+      "reason": "Cloud-based and part of AWS ecosystem"
+    }
+  ],
+  "tags": [
+    "OLAP",
+    "database management",
+    "open source",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2016,
+  "websiteUrl": "https://clickhouse.com/",
+  "documentationUrl": "https://clickhouse.com/docs/en/",
+  "githubUrl": "https://github.com/ClickHouse/ClickHouse?utm_source=clickhouse&utm_medium=website&utm_campaign=website-nav",
+  "twitterUrl": "https://x.com/ClickhouseDB",
+  "screenshot": "https://share.appsfor.us/screenshots/clickhouse_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/clickhouse_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/clickhouse_com_400.png",
+  "updatedAt": "2025-07-26T03:24:26.348Z"
+}
