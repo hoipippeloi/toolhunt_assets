@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tobikodata.com/",
+  "name": "Tobiko",
+  "title": "tobikodata.com",
+  "payoff": "Data transformation, without the waste",
+  "shortDescription": "Tobiko is a next-generation data transformation and modeling platform designed to optimize SQL operations and reduce costs. It is ideal for enterprises looking to enhance their data pipelines with efficient, error-free SQL code validation and execution. An example use case is a company switching from traditional transformation tools to Tobiko to minimize data warehouse costs and improve pipeline reliability.",
+  "pros": [
+    "Reduces data warehouse costs with smart architecture",
+    "Provides column-level lineage for better data tracking",
+    "Enables syntax and compile-time error checks before running"
+  ],
+  "cons": [
+    "Requires full data access for cloud-only setups",
+    "May have a learning curve for users new to advanced data tools",
+    "Limited information on integration with non-SQL data sources"
+  ],
+  "alternatives": [
+    "dbt [getdbt.com]",
+    "Airflow [apache.org/projects/airflow]",
+    "Informatica [informatica.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "dbt",
+      "url": "getdbt.com",
+      "reason": "Popular for data build tooling, similar scope"
+    },
+    {
+      "name": "Apache Airflow",
+      "url": "apache.org/projects/airflow",
+      "reason": "Workflow automation and data engineering"
+    },
+    {
+      "name": "Informatica",
+      "url": "informatica.com",
+      "reason": "Comprehensive data integration platform"
+    }
+  ],
+  "tags": [
+    "data transformation",
+    "SQL optimization",
+    "cloud data management",
+    "cost reduction"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Databases",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tobikodata.com/",
+  "documentationUrl": "https://tobikodata.com/docs",
+  "githubUrl": "https://github.com/TobikoData",
+  "twitterUrl": "https://x.com/tobikodata",
+  "screenshot": "https://share.appsfor.us/screenshots/tobikodata_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tobikodata_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tobikodata_com_400.png",
+  "updatedAt": "2025-07-26T01:11:39.222Z"
+}

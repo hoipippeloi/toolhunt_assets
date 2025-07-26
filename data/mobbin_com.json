@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mobbin.com/",
+  "name": "Mobbin",
+  "title": "mobbin.com",
+  "payoff": "Real-world design inspiration",
+  "shortDescription": "Mobbin is a curated library of design inspiration from over 1,150 mobile and web apps. It features more than 500,000 screens and 267,400 flows, updated weekly. Designers can explore user journeys, download designs, and integrate with tools like Figma. Ideal for UI/UX designers seeking inspiration and practical examples to accelerate their creative process.",
+  "pros": [
+    "Extensive library of design screens",
+    "Integration with Figma",
+    "Regular updates with new content"
+  ],
+  "cons": [
+    "No API for developers",
+    "Limited to design inspiration",
+    "Subscription may be required for full access"
+  ],
+  "alternatives": [
+    "Dribbble [dribbble.com]",
+    "Behance [behance.net]",
+    "Pinterest [pinterest.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dribbble",
+      "url": "dribbble.com",
+      "reason": "Focuses on showcasing creative work"
+    },
+    {
+      "name": "Behance",
+      "url": "behance.net",
+      "reason": "Platform for portfolio and networking"
+    },
+    {
+      "name": "Pinterest",
+      "url": "pinterest.com",
+      "reason": "Broad source of visual inspiration"
+    }
+  ],
+  "tags": [
+    "UI/UX design",
+    "design inspiration",
+    "mobile apps",
+    "web apps"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://mobbin.com/",
+  "documentationUrl": "https://help.mobbin.com/",
+  "githubUrl": "https://github.com/search?q=mobbin&type=repositories",
+  "twitterUrl": "https://x.com/mobbin",
+  "screenshot": "https://share.appsfor.us/screenshots/mobbin_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mobbin_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mobbin_com_400.png",
+  "updatedAt": "2025-07-26T01:11:10.739Z"
+}

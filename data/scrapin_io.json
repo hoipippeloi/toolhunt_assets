@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://scrapin.io/",
+  "name": "ScrapIn",
+  "title": "scrapin.io",
+  "payoff": "Real-Time B2B Data for AI",
+  "shortDescription": "ScrapIn provides real-time, structured public data on professionals and organizations, tailored for AI product developers. It offers API access and bulk data delivery without rate limits, ensuring flexibility and scalability. Use cases include enriching profiles, fetching job listings, and tracking engagement signals, making it ideal for developers in need of reliable B2B data.",
+  "pros": [
+    "Real-time data access",
+    "Flexible data delivery options",
+    "Compliance with data protection laws"
+  ],
+  "cons": [
+    "Dependent on public data availability",
+    "Potential legal complexities",
+    "No free tier mentioned"
+  ],
+  "alternatives": [
+    "Import.io [import.io]",
+    "Diffbot [diffbot.com]",
+    "Octoparse [octoparse.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Import.io",
+      "url": "import.io",
+      "reason": "Offers similar web scraping services"
+    },
+    {
+      "name": "Diffbot",
+      "url": "diffbot.com",
+      "reason": "Focuses on AI-driven data extraction"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "User-friendly web scraping tool"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "B2B",
+    "real-time data"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://scrapin.io/",
+  "documentationUrl": "https://help.scrapin.io/en/",
+  "githubUrl": "https://github.com/search?q=scrapin&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/scrapin_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/scrapin_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/scrapin_io_400.png",
+  "updatedAt": "2025-07-26T01:10:03.769Z"
+}

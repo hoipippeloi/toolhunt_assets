@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://spreadsimple.com/",
+  "name": "SpreadSimple",
+  "title": "spreadsimple.com",
+  "payoff": "Turn Google Sheets into websites",
+  "shortDescription": "SpreadSimple leverages Google Sheets to create no-code websites quickly and efficiently. It's designed for users who want to manage online stores, directories, or listings without deep technical skills. Example use case: A restaurant owner uses SpreadSimple to manage menu updates and online orders directly from Google Sheets.",
+  "pros": [
+    "Rapid website deployment",
+    "No coding required",
+    "Seamless integration with Google Sheets"
+  ],
+  "cons": [
+    "Limited design customization",
+    "Dependent on Google Sheets",
+    "May not scale for large enterprises"
+  ],
+  "alternatives": [
+    "Webflow [webflow.com]",
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers more design flexibility"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Features extensive app market"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Great for aesthetic designs"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "website builder",
+    "Google Sheets integration",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://spreadsimple.com/",
+  "documentationUrl": "https://help.spreadsimple.com/en/",
+  "githubUrl": "https://github.com/search?q=spreadsimple&type=repositories",
+  "twitterUrl": "https://twitter.com/big_bnb/status/1287014241485164544",
+  "screenshot": "https://share.appsfor.us/screenshots/spreadsimple_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/spreadsimple_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/spreadsimple_com_400.png",
+  "updatedAt": "2025-07-26T01:08:16.724Z"
+}

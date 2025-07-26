@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hcompany.ai/",
+  "name": "H Company",
+  "title": "hcompany.ai",
+  "payoff": "Next generation AI teammates",
+  "shortDescription": "H Company is pioneering a new computing model where AI agents function as autonomous teammates. These agents can perform a variety of tasks such as filling out forms, booking trips, or even building websites. Designed for everyone from solo developers to large enterprise teams, H Company's flagship agent, Surfer H, showcases the future of Human-AI interaction with high accuracy and autonomous web interaction capabilities.",
+  "pros": [
+    "High accuracy in autonomous tasks",
+    "Versatile applications from personal to enterprise",
+    "Advanced AI capabilities for web interaction"
+  ],
+  "cons": [
+    "May require technical knowledge to deploy effectively",
+    "Limited information on integration with existing systems",
+    "Potential privacy concerns with autonomous agents"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Leading in enterprise automation tools"
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Robust AI-powered automation platform"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Pioneer in robotic process automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "web interaction",
+    "enterprise solutions"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hcompany.ai/",
+  "documentationUrl": "https://hcompany.ai/docs",
+  "githubUrl": "https://github.com/search?q=h%20company&type=repositories",
+  "twitterUrl": "https://x.com/hcompany_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/hcompany_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hcompany_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hcompany_ai_400.png",
+  "updatedAt": "2025-07-26T01:09:26.287Z"
+}

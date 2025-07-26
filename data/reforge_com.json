@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://reforge.com/artifacts",
+  "name": "Reforge",
+  "title": "reforge.com",
+  "payoff": "Expert training for product teams",
+  "shortDescription": "Reforge offers specialized training and tools for product teams to enhance their skills and grow using AI technology. It provides a range of courses, artifacts, and guides tailored to various aspects of product management and development. An example use case is a product manager utilizing Reforge to understand better and implement AI-driven growth strategies within their organization.",
+  "pros": [
+    "Specialized training for product teams",
+    "Focus on AI and growth strategies",
+    "Comprehensive resources including courses and guides"
+  ],
+  "cons": [
+    "May be too specialized for non-product roles",
+    "No clear pricing information available",
+    "Limited information on the website about tool specifics"
+  ],
+  "alternatives": [
+    "Product School [productschool.com]",
+    "Mind the Product [mindtheproduct.com]",
+    "Pragmatic Institute [pragmaticinstitute.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Product School",
+      "url": "productschool.com",
+      "reason": "Offers product management training"
+    },
+    {
+      "name": "Mind the Product",
+      "url": "mindtheproduct.com",
+      "reason": "Focuses on product management community"
+    },
+    {
+      "name": "Pragmatic Institute",
+      "url": "pragmaticinstitute.com",
+      "reason": "Provides comprehensive product training"
+    }
+  ],
+  "tags": [
+    "product management",
+    "training",
+    "AI",
+    "growth"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "E-Learning",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2015,
+  "websiteUrl": "https://reforge.com/artifacts",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=reforge&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/reforge_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/reforge_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/reforge_com_400.png",
+  "updatedAt": "2025-07-26T01:12:19.608Z"
+}
