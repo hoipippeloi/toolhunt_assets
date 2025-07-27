@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://checkr.com/",
+  "name": "Checkr",
+  "title": "checkr.com",
+  "payoff": "Fast, accurate background checks",
+  "shortDescription": "Checkr provides streamlined employee background screening services using AI technology. It's designed for companies looking to enhance their hiring process with quick and reliable background checks. Example use case includes HR departments in various industries using Checkr to ensure compliance and improve candidate experience by reducing hiring time and automating manual tasks.",
+  "pros": [
+    "AI-powered screenings for faster results",
+    "Integration with various HR systems",
+    "Mobile-optimized candidate experience"
+  ],
+  "cons": [
+    "Potential privacy concerns",
+    "Dependence on accurate data input",
+    "May not cover all international regions"
+  ],
+  "alternatives": [
+    "GoodHire [goodhire.com]",
+    "Sterling [sterlingcheck.com]",
+    "HireRight [hireright.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GoodHire",
+      "url": "goodhire.com",
+      "reason": "Offers tailored background checks"
+    },
+    {
+      "name": "Sterling",
+      "url": "sterlingcheck.com",
+      "reason": "Global reach and varied services"
+    },
+    {
+      "name": "HireRight",
+      "url": "hireright.com",
+      "reason": "Strong in compliance and verification"
+    }
+  ],
+  "tags": [
+    "background checks",
+    "AI",
+    "compliance",
+    "HR technology"
+  ],
+  "apiUsed": true,
+  "department": "Human Resources",
+  "function": "Authentication",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://checkr.com/",
+  "documentationUrl": "https://docs.checkr.com/",
+  "githubUrl": "https://github.com/search?q=checkr&type=repositories",
+  "twitterUrl": "https://twitter.com/checkr",
+  "screenshot": "https://share.appsfor.us/screenshots/checkr_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/checkr_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/checkr_com_400.png",
+  "updatedAt": "2025-07-27T03:44:07.618Z"
+}

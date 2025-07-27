@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://yoinkui.com/",
+  "name": "YoinkUI",
+  "title": "yoinkui.com",
+  "payoff": "Ship faster than ever.",
+  "shortDescription": "YoinkUI is a design tool that allows developers to quickly select, customize, and export UI components for their projects. Ideal for web developers and designers, YoinkUI simplifies the process of integrating complex UI elements. Users can easily select a component from any website, edit it to fit their needs in the YoinkUI editor, and export it for immediate use, streamlining the development workflow and reducing time to market.",
+  "pros": [
+    "Streamlines UI component integration",
+    "Customizable editor for component modification",
+    "Quick export options for faster deployment"
+  ],
+  "cons": [
+    "Limited to UI components only",
+    "May not support all web frameworks",
+    "Potential compatibility issues with existing code"
+  ],
+  "alternatives": [
+    "Figma [figma.com]",
+    "Adobe XD [adobe.com/products/xd.html]",
+    "Sketch [sketch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Offers extensive UI design features"
+    },
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com/products/xd.html",
+      "reason": "Integrates with other Adobe products"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular among Mac users for UI design"
+    }
+  ],
+  "tags": [
+    "UI Design",
+    "Web Development",
+    "Component Library",
+    "Rapid Prototyping"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://yoinkui.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=yoinkui&type=repositories",
+  "twitterUrl": "https://x.com/YoinkUI",
+  "screenshot": "https://share.appsfor.us/screenshots/yoinkui_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/yoinkui_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/yoinkui_com_400.png",
+  "updatedAt": "2025-07-27T03:45:49.799Z"
+}

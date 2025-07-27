@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getexistential.com/",
+  "name": "Existential",
+  "title": "getexistential.com",
+  "payoff": "Find your true calling",
+  "shortDescription": "Existential helps individuals discover their ideal career paths through an AI-powered tool. Users complete a discovery process, answering questions about their interests and skills. The tool then suggests potential careers and provides a detailed roadmap for achieving them, offering guidance at each step. Ideal for career changers or those seeking clarity on their professional journey.",
+  "pros": [
+    "Personalized career suggestions",
+    "Step-by-step career roadmap",
+    "AI-powered analysis for accuracy"
+  ],
+  "cons": [
+    "Limited to career advice",
+    "May not cover all career types",
+    "Dependent on user input accuracy"
+  ],
+  "alternatives": [
+    "PathSource [pathsource.com]",
+    "CareerExplorer [careerexplorer.com]",
+    "MyNextMove [mynextmove.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "PathSource",
+      "url": "pathsource.com",
+      "reason": "Offers video career advice"
+    },
+    {
+      "name": "CareerExplorer",
+      "url": "careerexplorer.com",
+      "reason": "In-depth career tests available"
+    },
+    {
+      "name": "MyNextMove",
+      "url": "mynextmove.org",
+      "reason": "Supported by the U.S. Department of Labor"
+    }
+  ],
+  "tags": [
+    "career development",
+    "AI",
+    "personal growth",
+    "career planning"
+  ],
+  "apiUsed": false,
+  "department": "Human Resources",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getexistential.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=existential&type=repositories",
+  "twitterUrl": "https://twitter.com/getexistential",
+  "screenshot": "https://share.appsfor.us/screenshots/getexistential_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getexistential_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getexistential_com_400.png",
+  "updatedAt": "2025-07-27T03:44:56.425Z"
+}

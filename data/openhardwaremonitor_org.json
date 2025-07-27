@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://openhardwaremonitor.org/",
+  "name": "Open Hardware Monitor",
+  "title": "openhardwaremonitor.org",
+  "payoff": "Monitor core temps, speeds, and voltages",
+  "shortDescription": "Open Hardware Monitor is a free, open-source software designed to monitor various hardware metrics such as temperature sensors, fan speeds, and voltages. It supports hardware monitoring chips on many motherboards and can read core temperature sensors of Intel and AMD processors, as well as sensors on ATI and Nvidia video cards. The tool is ideal for system administrators and enthusiasts who need to ensure their hardware is running within safe parameters.",
+  "pros": [
+    "Supports a wide range of hardware",
+    "No installation required on supported OS",
+    "Displays data in customizable formats"
+  ],
+  "cons": [
+    "Limited to hardware monitoring",
+    "No active development updates",
+    "Requires .NET Framework 4.5 or later"
+  ],
+  "alternatives": [
+    "HWMonitor [cpuid.com]",
+    "SpeedFan [almico.com]",
+    "AIDA64 [aida64.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HWMonitor",
+      "url": "cpuid.com",
+      "reason": "Provides detailed hardware information"
+    },
+    {
+      "name": "SpeedFan",
+      "url": "almico.com",
+      "reason": "Offers fan speed control"
+    },
+    {
+      "name": "AIDA64",
+      "url": "aida64.com",
+      "reason": "Extensive system diagnostics tool"
+    }
+  ],
+  "tags": [
+    "hardware monitoring",
+    "open source",
+    "system utilities",
+    "performance tracking"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "System Monitor",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2010,
+  "websiteUrl": "https://openhardwaremonitor.org/",
+  "documentationUrl": "http://openhardwaremonitor.org/documentation/",
+  "githubUrl": "https://github.com/search?q=open%20hardware%20monitor&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/openhardwaremonitor_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/openhardwaremonitor_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/openhardwaremonitor_org_400.png",
+  "updatedAt": "2025-07-27T03:44:31.097Z"
+}

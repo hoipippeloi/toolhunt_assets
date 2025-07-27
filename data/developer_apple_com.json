@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://developer.apple.com/icon-composer/",
+  "name": "Icon Composer",
+  "title": "developer.apple.com/icon-composer",
+  "payoff": "Design icons across Apple platforms",
+  "shortDescription": "Icon Composer is a tool designed for creating multi-layered icons for Apple devices including iPhone, iPad, Mac, and Apple Watch. It utilizes a new material called Liquid Glass to enhance icon design with properties like translucency and shadows. The tool integrates seamlessly with Xcode, allowing developers to directly import icons into their projects. Ideal for designers looking to maintain consistency across devices with minimal effort.",
+  "pros": [
+    "Multi-platform support for all Apple devices",
+    "Seamless integration with Xcode",
+    "Real-time preview with dynamic lighting effects"
+  ],
+  "cons": [
+    "Limited to Apple platforms only",
+    "Requires macOS Sequoia or later",
+    "No clear free tier available"
+  ],
+  "alternatives": [
+    "Adobe XD [adobe.com]",
+    "Sketch [sketch.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers broader design capabilities"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Focused on UI/UX for Mac users"
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Collaborative interface design tool"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "icon design",
+    "Apple software",
+    "Xcode integration"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://developer.apple.com/icon-composer/",
+  "documentationUrl": "https://developer.apple.com/documentation/iconcomposer",
+  "githubUrl": "https://github.com/search?q=icon%20composer&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/developer_apple_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/developer_apple_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/developer_apple_com_400.png",
+  "updatedAt": "2025-07-27T03:46:13.660Z"
+}

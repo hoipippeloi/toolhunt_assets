@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tability.io/",
+  "name": "Tability",
+  "title": "tability.io",
+  "payoff": "OKRs that don't suck!",
+  "shortDescription": "Tability is a goal-setting and tracking tool designed to streamline OKRs (Objectives and Key Results) for teams and organizations. It integrates with popular platforms like Microsoft Teams, Slack, and Jira to enhance accountability and focus. Users can benefit from features like one-click reporting, AI-driven OKR suggestions, and automated weekly check-ins. Ideal for managers needing to keep teams aligned and focused on essential goals.",
+  "pros": [
+    "Integrates with many popular tools",
+    "Automates reporting and data collection",
+    "AI assistance for writing better OKRs"
+  ],
+  "cons": [
+    "May require learning for OKR beginners",
+    "Dependent on external platforms for full functionality",
+    "Potential for notification overload"
+  ],
+  "alternatives": [
+    "Perdoo [perdoo.com]",
+    "Weekdone [weekdone.com]",
+    "Ally.io [ally.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Perdoo",
+      "url": "perdoo.com",
+      "reason": "Focuses on goal alignment and strategy execution"
+    },
+    {
+      "name": "Weekdone",
+      "url": "weekdone.com",
+      "reason": "Provides weekly planning and quarterly objectives"
+    },
+    {
+      "name": "Ally.io",
+      "url": "ally.io",
+      "reason": "Integrates OKRs with everyday work tools"
+    }
+  ],
+  "tags": [
+    "OKRs",
+    "goal management",
+    "productivity",
+    "team collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://tability.io/",
+  "documentationUrl": "https://docs.tability.io/legal/cookie-policy",
+  "githubUrl": "https://github.com/search?q=tability&type=repositories",
+  "twitterUrl": "https://twitter.com/tabilityio",
+  "screenshot": "https://share.appsfor.us/screenshots/tability_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tability_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tability_io_400.png",
+  "updatedAt": "2025-07-27T03:45:26.805Z"
+}
