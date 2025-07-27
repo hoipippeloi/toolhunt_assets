@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://helpix.ai/",
+  "name": "Helpix",
+  "title": "helpix.ai",
+  "payoff": "Stay available 24/7 for local businesses",
+  "shortDescription": "Helpix is an AI-powered tool designed to keep local businesses operational around the clock, even when the owner is unavailable. It automates responses to customer inquiries across various platforms like WhatsApp, Instagram, and email, ensuring that no opportunity is missed. Ideal for small business owners overwhelmed by multitasking, Helpix can handle sales, support, and bookings, turning passive interest into active sales without human intervention.",
+  "pros": [
+    "Automates responses to customer inquiries",
+    "Reduces workload by managing multiple channels",
+    "Increases sales opportunities by staying always available"
+  ],
+  "cons": [
+    "May not handle complex customer inquiries",
+    "Dependent on internet connectivity",
+    "Potential privacy concerns with customer data"
+  ],
+  "alternatives": [
+    "Zendesk [zendesk.com]",
+    "Intercom [intercom.com]",
+    "Freshdesk [freshdesk.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zendesk",
+      "url": "zendesk.com",
+      "reason": "Offers comprehensive customer service tools"
+    },
+    {
+      "name": "Intercom",
+      "url": "intercom.com",
+      "reason": "Focuses on personalized customer communications"
+    },
+    {
+      "name": "Freshdesk",
+      "url": "freshdesk.com",
+      "reason": "Integrates multiple support channels in one platform"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Customer Service",
+    "Automation",
+    "Local Business Support"
+  ],
+  "apiUsed": false,
+  "department": "Customer Service",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://helpix.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=helpix&type=repositories",
+  "twitterUrl": "https://twitter.com/mrareweb",
+  "screenshot": "https://share.appsfor.us/screenshots/helpix_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/helpix_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/helpix_ai_400.png",
+  "updatedAt": "2025-07-27T01:18:24.184Z"
+}

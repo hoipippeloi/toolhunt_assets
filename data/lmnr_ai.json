@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://lmnr.ai/",
+  "name": "Laminar",
+  "title": "lmnr.ai",
+  "payoff": "Build reliable AI products fast",
+  "shortDescription": "Laminar is an open-source platform designed for developers to trace and evaluate AI applications efficiently. It is particularly useful for teams building LLM-based features, offering real-time tracing and automated high-quality browser session recordings. An example use case includes deploying Laminar for continuous monitoring and debugging of AI workflows to enhance performance and reliability.",
+  "pros": [
+    "Real-time AI application tracing",
+    "Automated session recording and syncing",
+    "Fully open-source and easy to deploy"
+  ],
+  "cons": [
+    "Requires technical expertise to implement",
+    "Limited to AI and LLM applications",
+    "May not integrate with all existing systems"
+  ],
+  "alternatives": [
+    "Weights & Biases [wandb.com]",
+    "TensorBoard [tensorboard.dev]",
+    "Comet.ml [comet.ml]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Weights & Biases",
+      "url": "wandb.com",
+      "reason": "Offers detailed experiment tracking"
+    },
+    {
+      "name": "TensorBoard",
+      "url": "tensorboard.dev",
+      "reason": "Visualizes TensorFlow projects"
+    },
+    {
+      "name": "Comet.ml",
+      "url": "comet.ml",
+      "reason": "Provides ML experiment comparison"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "monitoring",
+    "development"
+  ],
+  "apiUsed": true,
+  "department": "Research & Development",
+  "function": "System Monitor",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://lmnr.ai/",
+  "documentationUrl": "https://docs.lmnr.ai",
+  "githubUrl": "https://github.com/lmnr-ai/lmnr",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/lmnr_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lmnr_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lmnr_ai_400.png",
+  "updatedAt": "2025-07-27T01:17:09.997Z"
+}

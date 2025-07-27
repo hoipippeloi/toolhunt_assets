@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cryptothegame.com/",
+  "name": "Crypto: The Game",
+  "title": "cryptothegame.com",
+  "payoff": "Interactive reality competition",
+  "shortDescription": "Crypto: The Game merges reality TV dynamics with blockchain technology, offering a fully interactive and live competition. It's designed for fans of reality shows and gaming, providing an immersive experience where participants control the narrative. Contestants compete in challenges and social maneuvering for a substantial prize, all in real-time.",
+  "pros": [
+    "Fully interactive and live competition",
+    "Incorporates blockchain technology",
+    "24/7 competition without interruption"
+  ],
+  "cons": [
+    "Highly niche audience",
+    "Requires continuous internet connectivity",
+    "Potential for high stress and drama"
+  ],
+  "alternatives": [
+    "Survivor [cbs.com/shows/survivor]",
+    "Big Brother [cbs.com/shows/big_brother]",
+    "The Circle [netflix.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Second Life",
+      "url": "secondlife.com",
+      "reason": "Virtual world with user-driven narrative"
+    },
+    {
+      "name": "Roblox",
+      "url": "roblox.com",
+      "reason": "Platform for creating and playing games"
+    },
+    {
+      "name": "Fortnite",
+      "url": "epicgames.com/fortnite",
+      "reason": "Popular interactive and immersive game"
+    }
+  ],
+  "tags": [
+    "reality competition",
+    "blockchain",
+    "interactive media",
+    "gaming"
+  ],
+  "apiUsed": false,
+  "department": "Entertainment",
+  "function": "Gaming",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://cryptothegame.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=crypto%20%20the%20game&type=repositories",
+  "twitterUrl": "https://x.com/Shahabs/status/1901810757475643709",
+  "screenshot": "https://share.appsfor.us/screenshots/cryptothegame_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cryptothegame_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cryptothegame_com_400.png",
+  "updatedAt": "2025-07-27T01:17:55.255Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getcohesiveai.com/",
+  "name": "Cohesive AI",
+  "title": "getcohesiveai.com",
+  "payoff": "Automate local business growth",
+  "shortDescription": "Cohesive AI is designed to automate lead generation and marketing for local businesses. It targets sectors like janitorial, landscaping, and HVAC, replacing costly lead gen agencies. The tool scrapes Google Maps for local business contacts, personalizes cold emails, and manages email campaigns. Ideal for businesses seeking to automate their outreach and streamline operations.",
+  "pros": [
+    "Fully automated lead generation",
+    "No long-term commitment required",
+    "Targets multiple industries"
+  ],
+  "cons": [
+    "Limited to local businesses",
+    "Dependent on Google Maps data accuracy",
+    "No clear free tier option"
+  ],
+  "alternatives": [
+    "HubSpot [hubspot.com]",
+    "Mailchimp [mailchimp.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "HubSpot",
+      "url": "hubspot.com",
+      "reason": "Offers comprehensive CRM and marketing tools"
+    },
+    {
+      "name": "Sendinblue",
+      "url": "sendinblue.com",
+      "reason": "Focuses on email marketing automation"
+    },
+    {
+      "name": "Pipedrive",
+      "url": "pipedrive.com",
+      "reason": "CRM tool with strong sales automation"
+    }
+  ],
+  "tags": [
+    "lead generation",
+    "marketing automation",
+    "email marketing",
+    "local business"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://getcohesiveai.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=cohesive%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/getcohesiveai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getcohesiveai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getcohesiveai_com_400.png",
+  "updatedAt": "2025-07-27T01:16:41.502Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://finstack.io/",
+  "name": "Finstack",
+  "title": "finstack.io",
+  "payoff": "Automated financial consolidation.",
+  "shortDescription": "Finstack is a financial consolidation platform designed to simplify and automate financial reporting and analysis for finance teams. It integrates data from various sources, automates intercompany eliminations and multi-currency conversions, and provides real-time insights. This tool is ideal for finance managers who need to streamline month-end closes and enhance strategic decision-making.",
+  "pros": [
+    "Real-time financial reporting",
+    "Automated data consolidation",
+    "Quick implementation"
+  ],
+  "cons": [
+    "Limited customization options",
+    "Dependent on data quality from sources",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Prophix [prophix.com]",
+    "Adaptive Insights [adaptiveinsights.com]",
+    "Vena Solutions [venasolutions.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Prophix",
+      "url": "prophix.com",
+      "reason": "Offers detailed budgeting tools."
+    },
+    {
+      "name": "Adaptive Insights",
+      "url": "adaptiveinsights.com",
+      "reason": "Strong in forecasting and planning."
+    },
+    {
+      "name": "Vena Solutions",
+      "url": "venasolutions.com",
+      "reason": "Excel-based interface for ease of use."
+    }
+  ],
+  "tags": [
+    "financial reporting",
+    "data consolidation",
+    "real-time insights",
+    "finance management"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://finstack.io/",
+  "documentationUrl": "https://www.finstack.io/docs",
+  "githubUrl": "https://github.com/search?q=finstack&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/finstack_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/finstack_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/finstack_io_400.png",
+  "updatedAt": "2025-07-27T01:15:48.835Z"
+}

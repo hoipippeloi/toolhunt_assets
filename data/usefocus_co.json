@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usefocus.co/",
+  "name": "Focus",
+  "title": "usefocus.co",
+  "payoff": "Align teams and manage goals efficiently",
+  "shortDescription": "Focus is a streamlined application designed for remote team management, focusing on goal setting, OKRs, and task management. It simplifies daily and weekly check-ins, reducing the need for excessive meetings and spreadsheets. Ideal for managers looking to enhance team productivity and engagement through structured objectives and key results. An example use case is a distributed team using Focus to set quarterly OKRs and track progress through automated updates.",
+  "pros": [
+    "Reduces need for frequent meetings",
+    "Integrates with Slack and Discord",
+    "Automates routine check-ins and updates"
+  ],
+  "cons": [
+    "May not suit non-remote teams as well",
+    "Limited customization options",
+    "Dependent on third-party integrations for full functionality"
+  ],
+  "alternatives": [
+    "Monday.com [monday.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Offers broader project management features"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task lists and collaborative work"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Utilizes a card-based task management system"
+    }
+  ],
+  "tags": [
+    "OKR management",
+    "task management",
+    "team collaboration",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Task Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://usefocus.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=focus&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/usefocus_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usefocus_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usefocus_co_400.png",
+  "updatedAt": "2025-07-27T01:16:19.205Z"
+}
