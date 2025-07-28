@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://bunny.com/",
+  "name": "Bunny",
+  "title": "bunny.com",
+  "payoff": "Optimized SaaS billing for B2B",
+  "shortDescription": "Bunny streamlines billing, quoting, and revenue operations for B2B SaaS companies. It integrates multiple functionalities like tenant provisioning, analytics, and revenue recognition into a single platform. This solution is ideal for businesses looking to simplify upgrades, renewals, and pricing adjustments. An example use case is a SaaS company using Bunny to manage complex pricing models efficiently, ensuring accurate billing and faster sales cycles.",
+  "pros": [
+    "Integrates billing with analytics and provisioning",
+    "Supports complex B2B SaaS deals",
+    "Facilitates easy upgrades and renewals"
+  ],
+  "cons": [
+    "May be complex for small businesses",
+    "Limited information on pricing",
+    "Potential over-reliance on a single platform"
+  ],
+  "alternatives": [
+    "Chargebee [chargebee.com]",
+    "Zuora [zuora.com]",
+    "Recurly [recurly.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Chargebee",
+      "url": "chargebee.com",
+      "reason": "Offers comprehensive billing solutions"
+    },
+    {
+      "name": "Zuora",
+      "url": "zuora.com",
+      "reason": "Focuses on subscription businesses"
+    },
+    {
+      "name": "Recurly",
+      "url": "recurly.com",
+      "reason": "Provides flexible subscription billing"
+    }
+  ],
+  "tags": [
+    "SaaS",
+    "billing",
+    "revenue operations",
+    "B2B"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://bunny.com/",
+  "documentationUrl": "https://bunny.com/documentation",
+  "githubUrl": "https://github.com/search?q=bunny&type=repositories",
+  "twitterUrl": "https://twitter.com/BunnyRevOps",
+  "screenshot": "https://share.appsfor.us/screenshots/bunny_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/bunny_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/bunny_com_400.png",
+  "updatedAt": "2025-07-28T01:16:52.990Z"
+}

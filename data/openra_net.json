@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://openra.net/",
+  "name": "OpenRA",
+  "title": "openra.net",
+  "payoff": "Rebuilt classics for the modern era",
+  "shortDescription": "OpenRA revitalizes classic strategy games like Red Alert, Command & Conquer, and Dune 2000 for modern computing environments. It offers enhanced graphics, updated gameplay mechanics, and full mod support. Ideal for nostalgic gamers and new players alike, OpenRA allows users to experience these classics with the benefits of contemporary technology. Users can engage in online multiplayer battles, create custom maps, or enjoy revamped single-player campaigns.",
+  "pros": [
+    "Supports modern gameplay features like fog of war",
+    "Cross-platform compatibility (Windows, macOS, Linux)",
+    "Extensive modding support and community involvement"
+  ],
+  "cons": [
+    "Requires original game files for some features",
+    "May have a learning curve for new players",
+    "Limited commercial support"
+  ],
+  "alternatives": [
+    "StarCraft II [starcraft2.com]",
+    "Age of Empires II: Definitive Edition [ageofempires.com]",
+    "Warcraft III: Reforged [playwarcraft3.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "StarCraft II",
+      "url": "starcraft2.com",
+      "reason": "Popular RTS with modern graphics and esports scene"
+    },
+    {
+      "name": "Age of Empires II: Definitive Edition",
+      "url": "ageofempires.com",
+      "reason": "Classic RTS with updated graphics and new content"
+    },
+    {
+      "name": "Warcraft III: Reforged",
+      "url": "playwarcraft3.com",
+      "reason": "Remastered version of the classic Warcraft III"
+    }
+  ],
+  "tags": [
+    "strategy games",
+    "game modding",
+    "open source",
+    "cross-platform"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2010,
+  "websiteUrl": "https://openra.net/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/OpenRA/OpenRA",
+  "twitterUrl": "https://twitter.com/openRA",
+  "screenshot": "https://share.appsfor.us/screenshots/openra_net.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/openra_net_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/openra_net_400.png",
+  "updatedAt": "2025-07-28T01:16:29.842Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://puzzle.io/",
+  "name": "Puzzle",
+  "title": "puzzle.io",
+  "payoff": "Modern Accounting for Startups",
+  "shortDescription": "Puzzle is an AI-native accounting software tailored for startups and tax preparation. It replaces traditional systems like QuickBooks, offering real-time financial insights and automated expense categorization. Users benefit from integrations with tools like Stripe and Brex, enhancing accuracy and saving time. Ideal for startups needing efficient financial management and compliance.",
+  "pros": [
+    "AI-driven accuracy and time savings",
+    "Seamless integrations with financial tools",
+    "Real-time financial insights and reporting"
+  ],
+  "cons": [
+    "May still require manual oversight",
+    "Potentially high learning curve for new users",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "QuickBooks [quickbooks.intuit.com]",
+    "Xero [xero.com]",
+    "FreshBooks [freshbooks.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "QuickBooks",
+      "url": "quickbooks.intuit.com",
+      "reason": "Well-established, comprehensive features"
+    },
+    {
+      "name": "Xero",
+      "url": "xero.com",
+      "reason": "Popular for cloud-based accounting"
+    },
+    {
+      "name": "FreshBooks",
+      "url": "freshbooks.com",
+      "reason": "Focuses on small business needs"
+    }
+  ],
+  "tags": [
+    "accounting",
+    "AI",
+    "startup",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Finance & Accounting",
+  "function": "Finance",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://puzzle.io/",
+  "documentationUrl": "https://help.puzzle.io/en/?_gl=1*1f51gfl*_ga*MTcwMDc3OTkuMTY5MDIyNjIzNw..*_ga_2NQ41EYFTG*MTcwMzYyNjM1MS4xNDIuMS4xNzAzNjI2NDA1LjAuMC4w",
+  "githubUrl": "https://github.com/search?q=puzzle&type=repositories",
+  "twitterUrl": "https://twitter.com/puzzlefin",
+  "screenshot": "https://share.appsfor.us/screenshots/puzzle_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/puzzle_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/puzzle_io_400.png",
+  "updatedAt": "2025-07-28T01:15:24.852Z"
+}

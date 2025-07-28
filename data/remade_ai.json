@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://remade.ai/",
+  "name": "Remade",
+  "title": "remade.ai",
+  "payoff": "AI-Native Canvas for Creative Workflows",
+  "shortDescription": "Remade is designed to enhance creative workflows by integrating AI technologies into a unified workspace. It allows users to generate consistent characters, edit images with precision, and expand content seamlessly across various platforms. Ideal for designers and creative teams, Remade facilitates real-time collaboration with up to 50 users, offering templates and full permission control to streamline project management and enhance productivity.",
+  "pros": [
+    "Supports real-time collaboration with extensive user control",
+    "Integrates various AI models for image, video, and language processing",
+    "Offers high-resolution image enhancements and style consistency"
+  ],
+  "cons": [
+    "May require a steep learning curve for new users",
+    "Potential high cost for full features",
+    "Limited information on integration with other tools"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Creative Cloud [adobe.com]",
+    "Figma [figma.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers easy-to-use design tools with templates."
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "url": "adobe.com",
+      "reason": "Comprehensive suite for professional creatives."
+    },
+    {
+      "name": "Figma",
+      "url": "figma.com",
+      "reason": "Popular for UI/UX design and collaboration."
+    }
+  ],
+  "tags": [
+    "AI",
+    "design tools",
+    "creative workflows",
+    "collaboration"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://remade.ai/",
+  "documentationUrl": "https://docs.remade.ai/canvas/quickstart",
+  "githubUrl": "https://github.com/Pheat-AI",
+  "twitterUrl": "https://x.com/Christos_antono",
+  "screenshot": "https://share.appsfor.us/screenshots/remade_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/remade_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/remade_ai_400.png",
+  "updatedAt": "2025-07-28T01:15:57.769Z"
+}

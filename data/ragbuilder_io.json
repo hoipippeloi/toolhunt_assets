@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ragbuilder.io/",
+  "name": "ragbuilder",
+  "title": "ragbuilder.io",
+  "payoff": "Build and manage your software easily",
+  "shortDescription": "Ragbuilder is a tool designed to simplify the process of software development and management. It caters to developers and project managers by providing an intuitive interface for building and maintaining software projects. An example use case is a small tech startup using Ragbuilder to streamline their development process, enabling quick adjustments and efficient project tracking.",
+  "pros": [
+    "Intuitive user interface",
+    "Efficient project tracking",
+    "Scalable to project size"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not support all programming languages",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Jira [atlassian.com]",
+    "Asana [asana.com]",
+    "Trello [trello.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jira",
+      "url": "atlassian.com",
+      "reason": "Offers comprehensive project tracking"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Focuses on task management and collaboration"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Provides a visual approach to project management"
+    }
+  ],
+  "tags": [
+    "software development",
+    "project management",
+    "user interface",
+    "tracking"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ragbuilder.io/",
+  "documentationUrl": "https://ragbuilder.io/docs",
+  "githubUrl": "https://github.com/search?q=ragbuilder&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/ragbuilder_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ragbuilder_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ragbuilder_io_400.png",
+  "updatedAt": "2025-07-28T01:15:00.101Z"
+}
