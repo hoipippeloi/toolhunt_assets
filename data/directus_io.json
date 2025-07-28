@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://directus.io/",
+  "name": "Directus",
+  "title": "directus.io",
+  "payoff": "Backend for Every Custom Build",
+  "shortDescription": "Directus is a headless CMS and backend service designed to manage and deliver content seamlessly across various platforms. It is ideal for developers, enterprises, and hobbyists looking to streamline their data management and API integration. Users can visually model data, connect to any database, and implement robust authentication policies. An example use case is building a backend for a mobile application where Directus manages user data and content delivery.",
+  "pros": [
+    "Flexible data modeling and API generation",
+    "No-code automation and customization options",
+    "Supports multiple databases and extensions"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Potentially overwhelming for small projects",
+    "Limited built-in third-party integrations"
+  ],
+  "alternatives": [
+    "Contentful [contentful.com]",
+    "Strapi [strapi.io]",
+    "Sanity [sanity.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Contentful",
+      "url": "contentful.com",
+      "reason": "Offers rich content management features"
+    },
+    {
+      "name": "Strapi",
+      "url": "strapi.io",
+      "reason": "Open-source with extensible plugins"
+    },
+    {
+      "name": "Sanity",
+      "url": "sanity.io",
+      "reason": "Real-time collaboration and custom schemas"
+    }
+  ],
+  "tags": [
+    "headless CMS",
+    "backend-as-a-service",
+    "API management",
+    "data automation"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://directus.io/",
+  "documentationUrl": "https://docs.directus.io",
+  "githubUrl": "https://github.com/directus/directus",
+  "twitterUrl": "https://x.com/directus",
+  "screenshot": "https://share.appsfor.us/screenshots/directus_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/directus_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/directus_io_400.png",
+  "updatedAt": "2025-07-28T03:43:14.621Z"
+}

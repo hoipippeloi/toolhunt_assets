@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kanba.co/",
+  "name": "Kanba",
+  "title": "kanba.co",
+  "payoff": "Manage projects with Kanban boards",
+  "shortDescription": "Kanba is an open-source project management tool designed to provide a calm and efficient workspace for builders and developers. It features simple yet powerful Kanban boards that help users stay organized and productive. Ideal for teams looking to streamline their workflow, Kanba allows for complete customization and control over project management processes, from task allocation to progress tracking.",
+  "pros": [
+    "Open-source flexibility",
+    "Unlimited projects and tasks",
+    "Complete customization options"
+  ],
+  "cons": [
+    "Limited integrations currently",
+    "Advanced features still in development",
+    "No mobile app available"
+  ],
+  "alternatives": [
+    "Trello [trello.com]",
+    "Asana [asana.com]",
+    "Monday.com [monday.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for visual project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive task and project tracking"
+    },
+    {
+      "name": "Monday.com",
+      "url": "monday.com",
+      "reason": "Extensive customization and automation"
+    }
+  ],
+  "tags": [
+    "project management",
+    "open source",
+    "Kanban",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2025,
+  "websiteUrl": "https://kanba.co/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/kanba-co/kanba",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/kanba_co.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kanba_co_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kanba_co_400.png",
+  "updatedAt": "2025-07-28T03:44:34.394Z"
+}

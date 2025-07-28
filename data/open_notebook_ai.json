@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://open-notebook.ai/",
+  "name": "Open Notebook",
+  "title": "open-notebook.ai",
+  "payoff": "AI-powered private note-taking",
+  "shortDescription": "Open Notebook is an open-source, AI-powered note-taking and research platform designed for researchers, students, and professionals. It allows users to transform notes into podcasts, summarize insights, and manage content with strong privacy controls. Ideal for those looking to enhance learning and control over their data.",
+  "pros": [
+    "Strong privacy controls",
+    "AI-powered note management",
+    "Supports various content types"
+  ],
+  "cons": [
+    "Limited user base",
+    "Dependent on community contributions",
+    "May require technical knowledge"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Microsoft OneNote [onenote.com]",
+    "Notion [notion.so]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Popular note-taking tool with rich features"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with integrated notes"
+    },
+    {
+      "name": "Zoho Notebook",
+      "url": "zoho.com/notebook",
+      "reason": "Free and versatile note-taking app"
+    }
+  ],
+  "tags": [
+    "AI",
+    "note-taking",
+    "open source",
+    "privacy"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://open-notebook.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/lfnovo/open-notebook",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/open_notebook_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/open_notebook_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/open_notebook_ai_400.png",
+  "updatedAt": "2025-07-28T03:44:07.299Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://usebubbles.com/",
+  "name": "Bubbles",
+  "title": "usebubbles.com",
+  "payoff": "AI Meeting Note Taker & Screen Recorder",
+  "shortDescription": "Bubbles is an AI-powered tool designed to enhance meeting efficiency by automatically taking notes and recording screens. It integrates with popular meeting platforms, allowing users to focus on discussions without manual note-taking. Example use case: A project team uses Bubbles to record meetings, automatically generate summaries, and track action items, reducing the need for follow-up meetings.",
+  "pros": [
+    "Seamless integration with existing workflows",
+    "Automatic generation of meeting summaries and action items",
+    "One-click browser extension for easy access"
+  ],
+  "cons": [
+    "Dependence on internet connectivity",
+    "Potential privacy concerns with automatic recording",
+    "Limited customization options for note-taking"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Scriby [scriby.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers live transcription and note-taking"
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Automates meeting capture and notes"
+    },
+    {
+      "name": "Scriby",
+      "url": "scriby.ai",
+      "reason": "Meeting transcription and task management"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "meeting notes",
+    "screen recording"
+  ],
+  "apiUsed": false,
+  "department": "Product Management",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://usebubbles.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=bubbles&type=repositories",
+  "twitterUrl": "https://twitter.com/usebubbles?wapp_id=bc18dd90-3943-4d9a-95de-459d06063675&utm_medium=landing&utm_source=www.usebubbles.com",
+  "screenshot": "https://share.appsfor.us/screenshots/usebubbles_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/usebubbles_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/usebubbles_com_400.png",
+  "updatedAt": "2025-07-28T03:43:41.667Z"
+}

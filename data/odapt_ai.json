@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://odapt.ai/",
+  "name": "Odapt",
+  "title": "odapt.ai",
+  "payoff": "Build internal software easily",
+  "shortDescription": "Odapt enables teams to connect all their apps and internal data sources to create custom tools using plain English. This tool is ideal for teams looking to streamline their internal software development without extensive coding knowledge. Users can integrate various applications, manage data seamlessly, and even add custom code for enhanced functionality, making it perfect for IT departments and development teams.",
+  "pros": [
+    "Easy integration with multiple apps",
+    "Minimal coding knowledge required",
+    "Customizable with additional code"
+  ],
+  "cons": [
+    "May require some technical oversight",
+    "Limited by the complexity of integrations",
+    "Dependent on external app compatibilities"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Focuses on workflow automation"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Advanced integration capabilities"
+    }
+  ],
+  "tags": [
+    "internal apps",
+    "integration",
+    "customization",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Internal Apps",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://odapt.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=odapt&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/odapt_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/odapt_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/odapt_ai_400.png",
+  "updatedAt": "2025-07-28T03:42:48.624Z"
+}
