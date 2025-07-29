@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://onesoil.ai/en",
+  "name": "OneSoil",
+  "title": "onesoil.ai",
+  "payoff": "Maximize field potential efficiently",
+  "shortDescription": "OneSoil is a precision agriculture app designed to help farmers monitor crops remotely, optimize yields, and reduce costs on seeds and fertilizers. By leveraging variable-rate technology, users can increase profit per hectare. Ideal for farmers looking to integrate digital solutions into their agricultural practices, OneSoil offers tools for efficient resource management and decision making.",
+  "pros": [
+    "Increases yield with precision agriculture",
+    "Reduces costs on seeds and fertilizers",
+    "Remote monitoring of crops"
+  ],
+  "cons": [
+    "Requires internet connectivity",
+    "May have a learning curve for non-tech savvy users",
+    "Dependent on accurate field data input"
+  ],
+  "alternatives": [
+    "Climate FieldView [climate.com]",
+    "FarmLogs [farmlogs.com]",
+    "Agworld [agworld.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Climate FieldView",
+      "url": "climate.com",
+      "reason": "Comprehensive farm management platform"
+    },
+    {
+      "name": "FarmLogs",
+      "url": "farmlogs.com",
+      "reason": "Focuses on farm planning and management"
+    },
+    {
+      "name": "Agworld",
+      "url": "agworld.com",
+      "reason": "Collaborative farm management software"
+    }
+  ],
+  "tags": [
+    "precision agriculture",
+    "farming app",
+    "crop monitoring",
+    "resource management"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Remote Control",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://onesoil.ai/en",
+  "documentationUrl": "https://docs.google.com/document/d/1Np-2SWN2sbADGoUO7rhDS2G7e9exLz58/edit",
+  "githubUrl": "https://github.com/search?q=onesoil&type=repositories",
+  "twitterUrl": "https://twitter.com/onesoilplatform",
+  "screenshot": "https://share.appsfor.us/screenshots/onesoil_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/onesoil_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/onesoil_ai_400.png",
+  "updatedAt": "2025-07-29T01:20:55.502Z"
+}

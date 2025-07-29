@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://scade.pro/",
+  "name": "Scade",
+  "title": "scade.pro",
+  "payoff": "Control and flexibility in AI",
+  "shortDescription": "Scade.pro offers a comprehensive AI platform that enables users to deploy AI agents and utilize over 1,500 AI models without technical skills. It's designed for content creators, marketers, and developers looking to automate and enhance their digital projects. Example use case: A marketer uses Scade to automatically generate engaging content for social media platforms.",
+  "pros": [
+    "Access to a wide range of AI tools",
+    "No technical skills required",
+    "Integration capabilities with web and mobile apps"
+  ],
+  "cons": [
+    "Potential complexity in managing multiple AI models",
+    "May require subscription for full features",
+    "Limited customization in certain AI applications"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepAI [deepai.org]",
+    "Hugging Face [huggingface.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Broad range of AI models and tools"
+    },
+    {
+      "name": "DeepAI",
+      "url": "deepai.org",
+      "reason": "Focus on deep learning and AI APIs"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "huggingface.co",
+      "reason": "Community-driven AI model hub"
+    }
+  ],
+  "tags": [
+    "AI",
+    "no-code",
+    "content generation",
+    "marketing automation"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://scade.pro/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=scade&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/scade_pro.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/scade_pro_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/scade_pro_400.png",
+  "updatedAt": "2025-07-29T01:20:33.052Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://querio.ai/",
+  "name": "Querio",
+  "title": "querio.ai",
+  "payoff": "Analyze data with AI effortlessly",
+  "shortDescription": "Querio is an AI-native Business Intelligence tool that allows users to connect directly to their databases and perform data queries, visualizations, and analyses without any coding. It is designed for business professionals who need to understand their data deeply and present it effectively. Users can ask questions in natural language, receive dynamic dashboards, and generate reports easily, making it ideal for teams looking to leverage data for real-time decisions.",
+  "pros": [
+    "No coding required to query and analyze data",
+    "Natural language processing for easy interaction",
+    "Direct integration with existing databases"
+  ],
+  "cons": [
+    "Limited customization options for advanced users",
+    "Dependent on the quality of data input",
+    "Potential privacy concerns with direct data access"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Powerful visualization capabilities"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Deep customization and integration"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.com",
+      "reason": "Strong in enterprise environments"
+    }
+  ],
+  "tags": [
+    "AI",
+    "Business Intelligence",
+    "Data Visualization",
+    "No-code"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://querio.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=querio&type=repositories",
+  "twitterUrl": "https://twitter.com/tryquerio",
+  "screenshot": "https://share.appsfor.us/screenshots/querio_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/querio_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/querio_ai_400.png",
+  "updatedAt": "2025-07-29T01:18:30.400Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rilldata.com/",
+  "name": "Rill",
+  "title": "rilldata.com",
+  "payoff": "Fast operational dashboards you'll use",
+  "shortDescription": "Rill specializes in creating fast, operational dashboards with an embedded in-memory database for instant data querying. It's designed for businesses of all sizes, enabling users to develop locally and deploy globally with Git workflows. An example use case is a company needing real-time data visualization and exploration without the complexities of traditional BI tools.",
+  "pros": [
+    "Embedded in-memory database for fast queries",
+    "Automatic visualization creation from metrics",
+    "Supports Git workflows for development and deployment"
+  ],
+  "cons": [
+    "May require technical knowledge to fully utilize",
+    "Limited information on pricing and plans",
+    "Potential learning curve for non-developers"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Power BI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers robust BI capabilities"
+    },
+    {
+      "name": "Power BI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "BI tools",
+    "data visualization",
+    "operational intelligence",
+    "dashboard"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://rilldata.com/",
+  "documentationUrl": "https://rilldata.com/docs",
+  "githubUrl": "https://github.com/sspaeti",
+  "twitterUrl": "https://twitter.com/nicoritschel/status/1686595084454961152",
+  "screenshot": "https://share.appsfor.us/screenshots/rilldata_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rilldata_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rilldata_com_400.png",
+  "updatedAt": "2025-07-29T01:21:24.889Z"
+}

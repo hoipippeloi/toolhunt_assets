@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://diaflow.io/",
+  "name": "Diaflow",
+  "title": "diaflow.io",
+  "payoff": "AI-native Data Automation",
+  "shortDescription": "Diaflow is an AI-native platform designed to automate business processes without the need for coding skills. It allows users to build intelligent, AI-driven workflows, tools, and agents tailored to specific business needs. An example use case is automating customer service operations, where Diaflow integrates with over 50 apps to streamline responses and manage queries efficiently.",
+  "pros": [
+    "500 free credits monthly",
+    "50+ app integrations",
+    "No-code workflow builder"
+  ],
+  "cons": [
+    "Limited community size",
+    "No clear pricing section",
+    "Requires familiarity with AI concepts"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Automate.io [automate.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Wide range of integrations"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focus on business automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "no-code",
+    "workflow"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://diaflow.io/",
+  "documentationUrl": "https://docs.diaflow.io/",
+  "githubUrl": "https://github.com/search?q=diaflow&type=repositories",
+  "twitterUrl": "https://x.com/diaflow_io",
+  "screenshot": "https://share.appsfor.us/screenshots/diaflow_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/diaflow_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/diaflow_io_400.png",
+  "updatedAt": "2025-07-29T01:18:55.594Z"
+}

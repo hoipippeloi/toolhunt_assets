@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://formcrafts.com/",
+  "name": "Formcrafts",
+  "title": "formcrafts.com",
+  "payoff": "Create Incredible Online Forms",
+  "shortDescription": "Formcrafts is an online form builder designed to simplify the creation of forms for various purposes, from customer feedback to booking and registration. It integrates seamlessly with services like Salesforce, Stripe, and Mailchimp, enabling users to automate data collection and processing. An example use case includes businesses using Formcrafts to generate leads by creating custom application forms that directly integrate with their CRM systems.",
+  "pros": [
+    "Integrates with multiple platforms like Salesforce and Stripe",
+    "Supports advanced features like conditional logic and dynamic dropdowns",
+    "Offers templates for various form types"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Limited customization options compared to some competitors",
+    "Pricing information not readily available"
+  ],
+  "alternatives": [
+    "Typeform [typeform.com]",
+    "JotForm [jotform.com]",
+    "Google Forms [google.com/forms]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Typeform",
+      "url": "typeform.com",
+      "reason": "Offers a more engaging user interface"
+    },
+    {
+      "name": "Google Forms",
+      "url": "google.com/forms",
+      "reason": "Free and integrates with Google Suite"
+    },
+    {
+      "name": "SurveyMonkey",
+      "url": "surveymonkey.com",
+      "reason": "Extensive survey features and analytics"
+    }
+  ],
+  "tags": [
+    "form builder",
+    "data collection",
+    "automation",
+    "integration"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Forms",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2013,
+  "websiteUrl": "https://formcrafts.com/",
+  "documentationUrl": "https://formcrafts.com/support",
+  "githubUrl": "https://github.com/search?q=formcrafts&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/formcrafts_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/formcrafts_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/formcrafts_com_400.png",
+  "updatedAt": "2025-07-29T01:19:18.535Z"
+}
