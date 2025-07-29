@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://revenuecat.com/",
+  "name": "RevenueCat",
+  "title": "revenuecat.com",
+  "payoff": "Simplify in-app subscriptions",
+  "shortDescription": "RevenueCat is a platform designed to help developers manage and grow their app's subscription business efficiently across iOS, Android, and the web. It automates tasks such as purchase implementation and receipt validation, freeing developers to focus on creating great app features. An example use case is a mobile game developer using RevenueCat to handle their in-game purchases and subscription management.",
+  "pros": [
+    "Cross-platform subscription management",
+    "Automates receipt validation and purchase implementation",
+    "Provides detailed analytics and A/B testing tools"
+  ],
+  "cons": [
+    "Dependent on third-party service continuity",
+    "Potential privacy concerns with data handling",
+    "May be overkill for very simple apps"
+  ],
+  "alternatives": [
+    "Chargebee [chargebee.com]",
+    "Paddle [paddle.com]",
+    "Zuora [zuora.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Chargebee",
+      "url": "chargebee.com",
+      "reason": "Offers broader billing solutions"
+    },
+    {
+      "name": "Paddle",
+      "url": "paddle.com",
+      "reason": "Combines payment, billing, and analytics"
+    },
+    {
+      "name": "Zuora",
+      "url": "zuora.com",
+      "reason": "Focuses on larger enterprise clients"
+    }
+  ],
+  "tags": [
+    "subscription management",
+    "in-app purchases",
+    "SaaS",
+    "analytics"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://revenuecat.com/",
+  "documentationUrl": "https://docs.revenuecat.com/",
+  "githubUrl": "https://github.com/RevenueCat",
+  "twitterUrl": "https://twitter.com/revenuecat",
+  "screenshot": "https://share.appsfor.us/screenshots/revenuecat_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/revenuecat_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/revenuecat_com_400.png",
+  "updatedAt": "2025-07-29T03:47:14.479Z"
+}

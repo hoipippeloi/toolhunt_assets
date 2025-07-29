@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sigmaos.com/",
+  "name": "SigmaOS",
+  "title": "sigmaos.com",
+  "payoff": "The new home for your internet",
+  "shortDescription": "SigmaOS is a revolutionary browser designed to enhance productivity and organization online. It introduces features like workspaces, vertical tabs, and split-screen to help users manage their internet use more efficiently. Ideal for professionals and students who juggle multiple tasks and websites, SigmaOS allows users to treat tabs as tasks, organize them into workspaces, and search content quickly. An example use case is a project manager organizing tabs related to different projects into separate workspaces for easy access.",
+  "pros": [
+    "Enhanced tab management with workspaces and vertical tabs",
+    "Integrated search and task features for increased productivity",
+    "Ad-free browsing and focus mode for minimal distractions"
+  ],
+  "cons": [
+    "Limited to Apple devices due to WebKit and SwiftUI",
+    "May have a learning curve due to unique features",
+    "Potential compatibility issues with some web extensions"
+  ],
+  "alternatives": [
+    "Google Chrome [google.com/chrome]",
+    "Mozilla Firefox [mozilla.org]",
+    "Microsoft Edge [microsoft.com/edge]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Google Chrome",
+      "url": "google.com/chrome",
+      "reason": "Popular browser with extensive extension support"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "url": "mozilla.org",
+      "reason": "Strong privacy features and customization"
+    },
+    {
+      "name": "Microsoft Edge",
+      "url": "microsoft.com/edge",
+      "reason": "Built on Chromium with unique features"
+    }
+  ],
+  "tags": [
+    "browser",
+    "productivity",
+    "task management",
+    "ad-free"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sigmaos.com/",
+  "documentationUrl": "https://docs.sigmaos.com/privacy-policy",
+  "githubUrl": "https://github.com/search?q=sigmaos&type=repositories",
+  "twitterUrl": "https://twitter.com/sigmaos_hq",
+  "screenshot": "https://share.appsfor.us/screenshots/sigmaos_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sigmaos_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sigmaos_com_400.png",
+  "updatedAt": "2025-07-29T03:48:27.604Z"
+}

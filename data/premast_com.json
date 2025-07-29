@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://premast.com/",
+  "name": "Premast",
+  "title": "premast.com",
+  "payoff": "Design presentations effortlessly",
+  "shortDescription": "Premast offers a suite of tools designed to help professionals create stunning presentations quickly and easily. With over 10,000 customizable templates and plugins for PowerPoint and Google Slides, users can enhance their presentations without any prior design experience. Ideal for teams demanding high-quality, consistent branding across presentations.",
+  "pros": [
+    "Extensive template library",
+    "Plugins for PowerPoint and Google Slides",
+    "No design experience required"
+  ],
+  "cons": [
+    "Limited to presentation design",
+    "May not support all presentation platforms",
+    "Potential learning curve for advanced features"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Visme [visme.co]",
+    "Slidebean [slidebean.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers a wide range of design tools"
+    },
+    {
+      "name": "Visme",
+      "url": "visme.co",
+      "reason": "Focuses on infographics and presentations"
+    },
+    {
+      "name": "Slidebean",
+      "url": "slidebean.com",
+      "reason": "Automates design for faster results"
+    }
+  ],
+  "tags": [
+    "presentation design",
+    "templates",
+    "plugins",
+    "customizable"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://premast.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=premast&type=repositories",
+  "twitterUrl": "https://twitter.com/Premast_co",
+  "screenshot": "https://share.appsfor.us/screenshots/premast_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/premast_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/premast_com_400.png",
+  "updatedAt": "2025-07-29T03:46:16.736Z"
+}

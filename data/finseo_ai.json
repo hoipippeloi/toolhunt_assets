@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://finseo.ai/",
+  "name": "Finseo",
+  "title": "finseo.ai",
+  "payoff": "Dominate Search Everywhere",
+  "shortDescription": "Finseo is an AI-powered SEO tool designed to enhance search optimization across traditional and AI platforms. It caters to businesses of all sizes, offering features like multi-platform rank tracking, AI-driven content creation, and comprehensive keyword intelligence. An example use case is a marketing team using Finseo to track brand mentions and optimize content to increase visibility and organic traffic.",
+  "pros": [
+    "Comprehensive multi-engine SEO tools",
+    "AI-driven content creation and optimization",
+    "Detailed analytics and performance tracking"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potentially high cost for small businesses",
+    "Limited customization options for advanced users"
+  ],
+  "alternatives": [
+    "Semrush [semrush.com]",
+    "Ubersuggest [ubersuggest.com]",
+    "Ahrefs [ahrefs.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Semrush",
+      "url": "semrush.com",
+      "reason": "Offers extensive SEO and marketing tools"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Strong backlink analysis and SEO insights"
+    },
+    {
+      "name": "Moz",
+      "url": "moz.com",
+      "reason": "Well-rounded SEO tool with unique features"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "AI",
+    "content optimization",
+    "keyword tracking"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Search",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://finseo.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=finseo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/finseo_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/finseo_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/finseo_ai_400.png",
+  "updatedAt": "2025-07-29T03:48:02.628Z"
+}

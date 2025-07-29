@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://appsmith.com/",
+  "name": "Appsmith",
+  "title": "appsmith.com",
+  "payoff": "Deliver AI-powered apps faster",
+  "shortDescription": "Appsmith is an open-source, low-code platform that enables developers to build custom AI applications quickly and efficiently. It caters to a wide range of users from startups to large enterprises, facilitating the creation of everything from admin panels to complex dashboards. An example use case is a company using Appsmith to develop a custom project management extension, saving significant costs and improving operational efficiency.",
+  "pros": [
+    "Open-source with community support",
+    "Integrates with various data sources and APIs",
+    "Flexible deployment options including self-hosting"
+  ],
+  "cons": [
+    "May require JavaScript knowledge for advanced customization",
+    "Limited design templates compared to some competitors",
+    "Community support might vary in responsiveness"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]",
+    "OutSystems [outsystems.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers similar low-code app dev tools"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "No-code platform with strong UI focus"
+    },
+    {
+      "name": "Mendix",
+      "url": "mendix.com",
+      "reason": "Enterprise-grade, high scalability options"
+    }
+  ],
+  "tags": [
+    "low-code",
+    "application development",
+    "open source",
+    "AI integration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Internal Apps",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2019,
+  "websiteUrl": "https://appsmith.com/",
+  "documentationUrl": "https://docs.appsmith.com/",
+  "githubUrl": "https://github.com/com",
+  "twitterUrl": "https://twitter.com/theappsmith?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "screenshot": "https://share.appsfor.us/screenshots/appsmith_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/appsmith_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/appsmith_com_400.png",
+  "updatedAt": "2025-07-29T03:46:46.093Z"
+}
