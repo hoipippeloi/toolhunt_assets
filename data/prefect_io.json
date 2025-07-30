@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://prefect.io/",
+  "name": "Prefect",
+  "title": "prefect.io",
+  "payoff": "Modern Workflow Orchestration",
+  "shortDescription": "Prefect is a Python-native workflow orchestration tool designed to improve the resilience of data platforms. It supports dynamic scaling, built-in observability, and flexible workflow design, making it ideal for data engineers and MLOps teams. Example use case: Cash App uses Prefect to orchestrate machine learning workflows for rapid fraud prevention.",
+  "pros": [
+    "Python-native with easy integration",
+    "Dynamic scaling and built-in observability",
+    "Flexible and adaptable to existing environments"
+  ],
+  "cons": [
+    "May require Python knowledge",
+    "Potentially complex for small projects",
+    "Limited to data-oriented workflows"
+  ],
+  "alternatives": [
+    "Airflow [airflow.apache.org]",
+    "Dagster [dagster.io]",
+    "Luigi [luigi.readthedocs.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apache Airflow",
+      "url": "airflow.apache.org",
+      "reason": "Popular for complex workflows"
+    },
+    {
+      "name": "Dagster",
+      "url": "dagster.io",
+      "reason": "Focus on development productivity"
+    },
+    {
+      "name": "Apache NiFi",
+      "url": "nifi.apache.org",
+      "reason": "Strong in data flow automation"
+    }
+  ],
+  "tags": [
+    "workflow orchestration",
+    "data engineering",
+    "Python",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://prefect.io/",
+  "documentationUrl": "https://docs.prefect.io/",
+  "githubUrl": "https://github.com/PrefectHQ/prefect",
+  "twitterUrl": "https://twitter.com/PrefectIO",
+  "screenshot": "https://share.appsfor.us/screenshots/prefect_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/prefect_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/prefect_io_400.png",
+  "updatedAt": "2025-07-30T01:14:40.675Z"
+}

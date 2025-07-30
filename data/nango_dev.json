@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nango.dev/",
+  "name": "Nango",
+  "title": "nango.dev",
+  "payoff": "Unlock many integrations easily",
+  "shortDescription": "Nango offers a comprehensive integration platform that enables developers to integrate their products with over 400 APIs. It provides full control over integrations, allowing for code-first, customizable solutions that are low maintenance. Ideal for businesses looking to enhance their software with multiple API integrations without the hassle of building each one in-house. Example use case: A tech company uses Nango to rapidly deploy customer-requested integrations, enhancing user satisfaction and retention.",
+  "pros": [
+    "Integrate with 400+ APIs",
+    "Code-first and fully customizable",
+    "Built-in support for all authorization types"
+  ],
+  "cons": [
+    "May require coding knowledge",
+    "Potential dependency on a third-party platform",
+    "Limited to APIs available in Nango's ecosystem"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "MuleSoft [mulesoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers no-code integration solutions"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to API integrations"
+    },
+    {
+      "name": "MuleSoft",
+      "url": "mulesoft.com",
+      "reason": "Enterprise-level integration services"
+    }
+  ],
+  "tags": [
+    "API integrations",
+    "developer tools",
+    "customization",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "APIs",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://nango.dev/",
+  "documentationUrl": "https://docs.nango.dev/",
+  "githubUrl": "https://github.com/NangoHQ/nango",
+  "twitterUrl": "https://twitter.com/NangoHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/nango_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nango_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nango_dev_400.png",
+  "updatedAt": "2025-07-30T01:12:04.051Z"
+}

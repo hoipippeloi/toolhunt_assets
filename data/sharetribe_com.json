@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sharetribe.com/",
+  "name": "Sharetribe",
+  "title": "sharetribe.com",
+  "payoff": "Launch marketplaces fast, no coding needed",
+  "shortDescription": "Sharetribe is designed for founders looking to create online marketplaces without the need for extensive coding. It supports various marketplace types such as rentals, services, and products. Founders can launch a site similar to Airbnb or Turo quickly, with features for managing listings, payments, and user interactions. Ideal for both startups and established businesses aiming to expand into the marketplace sector.",
+  "pros": [
+    "Quick marketplace setup without coding",
+    "Scalable to any size with custom code integration",
+    "Supports various marketplace types"
+  ],
+  "cons": [
+    "May require coding for advanced customization",
+    "Limited design templates",
+    "Potentially high cost at scale"
+  ],
+  "alternatives": [
+    "Magento [magento.com]",
+    "WooCommerce [woocommerce.com]",
+    "BigCommerce [bigcommerce.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Magento",
+      "url": "magento.com",
+      "reason": "Offers extensive customization"
+    },
+    {
+      "name": "WooCommerce",
+      "url": "woocommerce.com",
+      "reason": "Integrates with WordPress"
+    },
+    {
+      "name": "BigCommerce",
+      "url": "bigcommerce.com",
+      "reason": "Supports large-scale enterprises"
+    }
+  ],
+  "tags": [
+    "marketplace builder",
+    "no-code platform",
+    "SaaS",
+    "scalability"
+  ],
+  "apiUsed": true,
+  "department": "Product Management",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2011,
+  "websiteUrl": "https://sharetribe.com/",
+  "documentationUrl": "https://www.sharetribe.com/academy/",
+  "githubUrl": "https://github.com/search?q=sharetribe&type=repositories",
+  "twitterUrl": "https://twitter.com/Sharetribe",
+  "screenshot": "https://share.appsfor.us/screenshots/sharetribe_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sharetribe_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sharetribe_com_400.png",
+  "updatedAt": "2025-07-30T01:14:01.183Z"
+}

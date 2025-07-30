@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://nussknacker.io/",
+  "name": "Nussknacker",
+  "title": "nussknacker.io",
+  "payoff": "Real-Time ML Model Deployment",
+  "shortDescription": "Nussknacker is a platform designed for real-time data processing and ML model deployment. It serves software, data, and business teams, allowing them to collaborate effectively and leverage domain knowledge. An example use case includes telecom companies using Nussknacker for fraud detection and real-time decision making.",
+  "pros": [
+    "Supports both stream and batch processing",
+    "Integrates with Apache Kafka and Flink",
+    "Graphical tool for easy job definition"
+  ],
+  "cons": [
+    "Requires understanding of Apache Flink",
+    "Potentially steep learning curve for non-technical users",
+    "Limited information on scalability and performance"
+  ],
+  "alternatives": [
+    "Apache NiFi [nifi.apache.org]",
+    "ksqlDB [ksqldb.io]",
+    "Apache Flink [flink.apache.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apache NiFi",
+      "url": "nifi.apache.org",
+      "reason": "Offers customizable data flows"
+    },
+    {
+      "name": "ksqlDB",
+      "url": "ksqldb.io",
+      "reason": "Stream processing with SQL-like language"
+    },
+    {
+      "name": "Apache Flink",
+      "url": "flink.apache.org",
+      "reason": "Powerful stream processing framework"
+    }
+  ],
+  "tags": [
+    "data processing",
+    "ML deployment",
+    "real-time analytics",
+    "stream processing"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "AI & ML",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://nussknacker.io/",
+  "documentationUrl": "https://nussknacker.io/documentation",
+  "githubUrl": "https://github.com/TouK/nussknacker/",
+  "twitterUrl": "https://x.com/nussknacker_io",
+  "screenshot": "https://share.appsfor.us/screenshots/nussknacker_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/nussknacker_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/nussknacker_io_400.png",
+  "updatedAt": "2025-07-30T01:13:35.929Z"
+}

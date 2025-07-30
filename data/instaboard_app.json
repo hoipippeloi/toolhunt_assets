@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://instaboard.app/",
+  "name": "Instaboard",
+  "title": "instaboard.app",
+  "payoff": "Visual Collaborative Workspace",
+  "shortDescription": "Instaboard provides a visual workspace designed to enhance collaboration among teams. It integrates tasks, plans, and team communication in a single platform, allowing seamless connection across multiple boards. Ideal for project managers and teams who need to maintain a high level of organization and real-time collaboration. For example, a marketing team can use Instaboard to plan campaigns, track progress, and hold meetings within the connected boards.",
+  "pros": [
+    "Seamless integration of tasks and communication",
+    "Real-time updates and live collaboration features",
+    "Accessible from any device with real-time sync"
+  ],
+  "cons": [
+    "Potential complexity in navigation for new users",
+    "Dependence on internet connectivity",
+    "May not integrate with all third-party tools"
+  ],
+  "alternatives": [
+    "Miro [miro.com]",
+    "Trello [trello.com]",
+    "Asana [asana.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Miro",
+      "url": "miro.com",
+      "reason": "Offers extensive visual collaboration tools"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Popular for task and project management"
+    },
+    {
+      "name": "Asana",
+      "url": "asana.com",
+      "reason": "Comprehensive project and task management"
+    }
+  ],
+  "tags": [
+    "collaboration",
+    "project management",
+    "real-time",
+    "visual tools"
+  ],
+  "apiUsed": false,
+  "department": "Project Management Office",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://instaboard.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=instaboard&type=repositories",
+  "twitterUrl": "https://x.com/WeAreInstaboard",
+  "screenshot": "https://share.appsfor.us/screenshots/instaboard_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/instaboard_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/instaboard_app_400.png",
+  "updatedAt": "2025-07-30T01:12:43.879Z"
+}

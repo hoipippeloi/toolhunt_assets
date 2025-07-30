@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://brick.photos/",
+  "name": "Brick.Photos",
+  "title": "brick.photos",
+  "payoff": "Turn Pics into Brick Masterpieces",
+  "shortDescription": "Brick.Photos transforms your ordinary photos into stunning brick art and animated videos. Ideal for social media enthusiasts, gift-givers, and art lovers. Simply upload a photo, and our AI-powered platform converts it into a detailed brick artwork or video. Use it to create unique profile pictures, wall art, or personalized gifts that stand out. No design skills required!",
+  "pros": [
+    "High resolution output",
+    "No watermarks",
+    "Instant digital delivery"
+  ],
+  "cons": [
+    "Limited to brick-style transformations",
+    "No subscription service for continuous updates",
+    "No free tier available"
+  ],
+  "alternatives": [
+    "Canva [canva.com]",
+    "Adobe Spark [adobe.com/products/spark.html]",
+    "Pixlr [pixlr.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Canva",
+      "url": "canva.com",
+      "reason": "Offers broader design features"
+    },
+    {
+      "name": "Adobe Spark",
+      "url": "adobe.com/products/spark.html",
+      "reason": "Professional design and video tools"
+    },
+    {
+      "name": "Pixlr",
+      "url": "pixlr.com",
+      "reason": "Advanced photo editing online"
+    }
+  ],
+  "tags": [
+    "AI",
+    "photo editing",
+    "digital art",
+    "personalization"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://brick.photos/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=brick%20photos&type=repositories",
+  "twitterUrl": "https://twitter.com/mr_johnnybgoode",
+  "screenshot": "https://share.appsfor.us/screenshots/brick_photos.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/brick_photos_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/brick_photos_400.png",
+  "updatedAt": "2025-07-30T01:13:11.080Z"
+}
