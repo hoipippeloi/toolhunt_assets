@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fellow.app/features/ai-assistant",
+  "name": "Ask Fellow",
+  "title": "fellow.app",
+  "payoff": "Automate meeting related tasks",
+  "shortDescription": "Ask Fellow is an AI chat bot designed to streamline meeting management by attending meetings on your behalf. It caters to professionals who need to manage their time efficiently, allowing them to focus on other critical tasks. Users can query past meetings, follow up with clients, prepare for reviews, and discover patterns without needing to review recordings themselves.",
+  "pros": [
+    "Automates follow-up generation",
+    "Provides one-click meeting insights",
+    "Accessible meeting summaries and patterns"
+  ],
+  "cons": [
+    "Dependent on meeting recording quality",
+    "May miss nuanced human interactions",
+    "Potential privacy concerns"
+  ],
+  "alternatives": [
+    "Otter.ai [otter.ai]",
+    "Fireflies.ai [fireflies.ai]",
+    "Chorus.ai [chorus.ai]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Otter.ai",
+      "url": "otter.ai",
+      "reason": "Offers real-time transcription"
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "fireflies.ai",
+      "reason": "Focuses on CRM integration"
+    },
+    {
+      "name": "Chorus.ai",
+      "url": "chorus.ai",
+      "reason": "Targets sales team efficiency"
+    }
+  ],
+  "tags": [
+    "AI",
+    "meeting automation",
+    "productivity",
+    "data extraction"
+  ],
+  "apiUsed": false,
+  "department": "Executive Leadership",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://fellow.app/features/ai-assistant",
+  "documentationUrl": "https://help.fellow.app/en/",
+  "githubUrl": "https://github.com/search?q=ask%20fellow&type=repositories",
+  "twitterUrl": "https://twitter.com/fellowapp",
+  "screenshot": "https://share.appsfor.us/screenshots/fellow_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fellow_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fellow_app_400.png",
+  "updatedAt": "2025-07-30T03:33:04.108Z"
+}

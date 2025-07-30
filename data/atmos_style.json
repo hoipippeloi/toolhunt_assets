@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://atmos.style/",
+  "name": "Atmos",
+  "title": "atmos.style",
+  "payoff": "Create color palettes easily",
+  "shortDescription": "Atmos is a versatile tool designed for designers and creatives who need to generate color palettes quickly and effectively. It offers a range of features including a color wheel, shade generator, and palette templates, making it ideal for UI design, branding, and personal projects. Users can explore color combinations, find harmonious shades, and convert colors to different formats, streamlining the design process.",
+  "pros": [
+    "Intuitive color wheel and generator",
+    "Templates for quick palette creation",
+    "Free to use with essential features"
+  ],
+  "cons": [
+    "Limited advanced customization options",
+    "No integration with design software",
+    "May not suit complex design needs"
+  ],
+  "alternatives": [
+    "Adobe Color [color.adobe.com]",
+    "Coolors [coolors.co]",
+    "Color Hunt [colorhunt.co]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Color",
+      "url": "color.adobe.com",
+      "reason": "Advanced color theory tools"
+    },
+    {
+      "name": "Coolors",
+      "url": "coolors.co",
+      "reason": "Fast palette generation"
+    },
+    {
+      "name": "Color Hunt",
+      "url": "colorhunt.co",
+      "reason": "Community-driven palettes"
+    }
+  ],
+  "tags": [
+    "design tools",
+    "color palette",
+    "UI design",
+    "creativity"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://atmos.style/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=atmos&type=repositories",
+  "twitterUrl": "https://x.com/atmos_style",
+  "screenshot": "https://share.appsfor.us/screenshots/atmos_style.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/atmos_style_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/atmos_style_400.png",
+  "updatedAt": "2025-07-30T03:31:26.543Z"
+}

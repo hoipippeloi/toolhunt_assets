@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mindly-ai.com/",
+  "name": "Mindly",
+  "title": "mindly-ai.com",
+  "payoff": "Organize thoughts, empower your mind.",
+  "shortDescription": "Mindly helps users organize their thoughts and ideas by creating a digital second brain. It's designed for individuals looking to enhance their memory and organizational skills through a visual and interactive interface. Users can capture, connect, and explore notes, links, and files effortlessly. An example use case is a project manager organizing research and tasks to streamline project planning and execution.",
+  "pros": [
+    "Visual and interactive mind map interface",
+    "Data stored locally for privacy",
+    "No credit card required for starting"
+  ],
+  "cons": [
+    "Limited to local storage might restrict access",
+    "No clear API for developer integration",
+    "Lack of detailed pricing or premium features"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Notion [notion.so]",
+    "Roam Research [roamresearch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Popular for note-taking with sync features"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with database features"
+    },
+    {
+      "name": "Roam Research",
+      "url": "roamresearch.com",
+      "reason": "Bi-directional linking for complex thoughts"
+    }
+  ],
+  "tags": [
+    "note-taking",
+    "productivity",
+    "data privacy",
+    "mind mapping"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://mindly-ai.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mindly&type=repositories",
+  "twitterUrl": "https://x.com/mindly_ai?s=21",
+  "screenshot": "https://share.appsfor.us/screenshots/mindly_ai_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mindly_ai_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mindly_ai_com_400.png",
+  "updatedAt": "2025-07-30T03:33:27.078Z"
+}

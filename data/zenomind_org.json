@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://zenomind.org/",
+  "name": "ZenoMind",
+  "title": "zenomind.org",
+  "payoff": "Work Smarter Locally",
+  "shortDescription": "ZenoMind is a local AI agent designed to enhance productivity by executing complex tasks directly on your desktop. It integrates various functions such as text chat, image analysis, file management, and code editing, all processed locally without cloud dependency. Ideal for developers, researchers, and anyone interested in maintaining data privacy while leveraging AI capabilities. An example use case is a developer using ZenoMind to manage project files and code directly from their desktop.",
+  "pros": [
+    "Processes data locally for enhanced privacy",
+    "Supports multiple AI models",
+    "Essential functions are free"
+  ],
+  "cons": [
+    "Limited to desktop use",
+    "May require technical knowledge to set up",
+    "Dependent on local hardware capabilities"
+  ],
+  "alternatives": [
+    "OpenAI [openai.com]",
+    "DeepMind [deepmind.com]",
+    "IBM Watson [ibm.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "OpenAI",
+      "url": "openai.com",
+      "reason": "Offers advanced AI models"
+    },
+    {
+      "name": "DeepMind",
+      "url": "deepmind.com",
+      "reason": "Focus on AI research and applications"
+    },
+    {
+      "name": "IBM Watson",
+      "url": "ibm.com",
+      "reason": "Provides AI solutions for businesses"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "desktop software",
+    "data privacy"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Desktop Software",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://zenomind.org/",
+  "documentationUrl": "https://zenomind.org/docs",
+  "githubUrl": "https://github.com/search?q=zenomind&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/zenomind_org.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/zenomind_org_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/zenomind_org_400.png",
+  "updatedAt": "2025-07-30T03:31:55.200Z"
+}
