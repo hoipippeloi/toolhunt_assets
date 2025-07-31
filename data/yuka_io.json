@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://yuka.io/en/",
+  "name": "Yuka",
+  "title": "yuka.io",
+  "payoff": "Scan products for health insights",
+  "shortDescription": "Yuka is a mobile application designed to help users make healthier choices by scanning and analyzing product labels. It evaluates the quality of food and cosmetics, revealing any harmful ingredients such as endocrine disruptors or carcinogens. Ideal for health-conscious individuals, Yuka provides instant insights and recommendations for better alternatives, enhancing consumer awareness and promoting healthier lifestyles.",
+  "pros": [
+    "Instant product evaluations",
+    "100% independent from brand influence",
+    "Offers healthier alternatives"
+  ],
+  "cons": [
+    "Limited to scanned products' database",
+    "May not cover all global products",
+    "Dependent on accurate label information"
+  ],
+  "alternatives": [
+    "MyFitnessPal [myfitnesspal.com]",
+    "Think Dirty [thinkdirtyapp.com]",
+    "EWG's Healthy Living [ewg.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MyFitnessPal",
+      "url": "myfitnesspal.com",
+      "reason": "Tracks diet and exercise, offers food insights"
+    },
+    {
+      "name": "Think Dirty",
+      "url": "thinkdirtyapp.com",
+      "reason": "Analyzes cosmetic products for toxic ingredients"
+    },
+    {
+      "name": "EWG's Healthy Living",
+      "url": "ewg.org",
+      "reason": "Provides health ratings for various products"
+    }
+  ],
+  "tags": [
+    "health",
+    "mobile app",
+    "product scanning",
+    "consumer awareness"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://yuka.io/en/",
+  "documentationUrl": "https://help.yuka.io/l/en",
+  "githubUrl": "https://github.com/search?q=yuka&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/yuka_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/yuka_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/yuka_io_400.png",
+  "updatedAt": "2025-07-31T03:32:12.093Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://freshworks.com/crm/sales/",
+  "name": "Freshsales",
+  "title": "freshworks.com",
+  "payoff": "Boost sales with AI CRM",
+  "shortDescription": "Freshsales is an AI-powered sales CRM designed to enhance productivity and increase conversions. It's tailored for businesses aiming to streamline their sales process and improve customer engagement. Users can manage leads, automate tasks, and gain insights from AI-driven analytics. An example use case involves a sales team using Freshsales to track customer interactions and prioritize leads based on intent scores, significantly reducing time spent on manual tasks and focusing on high-value activities.",
+  "pros": [
+    "AI-driven insights for better lead management",
+    "Automation of repetitive tasks",
+    "Comprehensive customer 360° view"
+  ],
+  "cons": [
+    "Potential learning curve for new users",
+    "May require integration with other tools",
+    "Higher pricing tiers might be expensive for small businesses"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Market leader with extensive features"
+    },
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Free tier available, great for startups"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with broad customization"
+    }
+  ],
+  "tags": [
+    "CRM",
+    "sales automation",
+    "AI",
+    "customer management"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2010,
+  "websiteUrl": "https://freshworks.com/crm/sales/",
+  "documentationUrl": "https://freshworks.com/crm/sales",
+  "githubUrl": "https://github.com/search?q=freshsales&type=repositories",
+  "twitterUrl": "https://twitter.com/FreshworksInc",
+  "screenshot": "https://share.appsfor.us/screenshots/freshworks_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/freshworks_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/freshworks_com_400.png",
+  "updatedAt": "2025-07-31T03:30:21.555Z"
+}

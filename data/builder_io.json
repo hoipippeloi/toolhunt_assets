@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://builder.io/",
+  "name": "Builder.io",
+  "title": "builder.io",
+  "payoff": "Visual Development Platform",
+  "shortDescription": "Builder.io is a visual development platform that enables teams to build and scale web applications efficiently. It integrates seamlessly with various use cases and supports collaborative efforts for large-scale projects. Users can go from idea to production quickly with tools like AI-powered Figma to Storybook conversions and headless content optimization. An example use case is a design team generating production-ready web apps directly from Figma designs, enhancing workflow and reducing time to market.",
+  "pros": [
+    "Integrates with multiple use cases",
+    "Supports large team collaborations",
+    "Speeds up production from design to deployment"
+  ],
+  "cons": [
+    "May require learning for new users",
+    "Potentially high cost for enterprise scale",
+    "Dependent on third-party integrations"
+  ],
+  "alternatives": [
+    "Webflow [webflow.com]",
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers visual building with hosting"
+    },
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Provides easy drag-and-drop builder"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Great for aesthetic site designs"
+    }
+  ],
+  "tags": [
+    "visual builder",
+    "web development",
+    "design to code",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Visual Builder",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://builder.io/",
+  "documentationUrl": "https://www.builder.io/c/docs",
+  "githubUrl": "https://github.com/builderio/builder",
+  "twitterUrl": "https://twitter.com/builderio",
+  "screenshot": "https://share.appsfor.us/screenshots/builder_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/builder_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/builder_io_400.png",
+  "updatedAt": "2025-07-31T03:31:26.877Z"
+}

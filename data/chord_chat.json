@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://chord.chat/hn",
+  "name": "Chord",
+  "title": "chord.chat",
+  "payoff": "Collaborate with AI in one chat",
+  "shortDescription": "Chord integrates leading AI models and team collaboration into a single chat interface, eliminating the need to switch between apps or copy/paste links. Users can tag multiple AI models, import conversations as context, and engage up to 20 team members in a group chat. This tool is ideal for teams needing real-time AI integration for decision-making or creative processes.",
+  "pros": [
+    "Multiple AI models in one thread",
+    "Supports up to 20 users in one chat",
+    "Imports documents for contextual analysis"
+  ],
+  "cons": [
+    "Currently in private beta",
+    "Limited to chat interface",
+    "Dependent on external AI APIs"
+  ],
+  "alternatives": [
+    "Slack [slack.com]",
+    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]",
+    "Discord [discord.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Popular team collaboration tool"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "reason": "Integrates with Office 365 suite"
+    },
+    {
+      "name": "Discord",
+      "url": "discord.com",
+      "reason": "Supports large community chats"
+    }
+  ],
+  "tags": [
+    "chat",
+    "collaboration",
+    "AI integration",
+    "team communication"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://chord.chat/hn",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=chord&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/chord_chat.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/chord_chat_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/chord_chat_400.png",
+  "updatedAt": "2025-07-31T03:31:50.918Z"
+}
