@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://mindone.app/",
+  "name": "MindOne",
+  "title": "mindone.app",
+  "payoff": "Build transparent, local agents",
+  "shortDescription": "MindOne specializes in creating autonomous agents that operate locally on your machine, ensuring data privacy and reducing latency. It is designed for users who need efficient task automation without compromising control over their workflows. An example use case is compiling YC company information into a searchable database.",
+  "pros": [
+    "Local execution ensures data privacy",
+    "No network latency for faster results",
+    "Highly customizable agent workflows"
+  ],
+  "cons": [
+    "Limited to local machine capabilities",
+    "May require technical setup",
+    "No cloud-based scalability"
+  ],
+  "alternatives": [
+    "UiPath [uipath.com]",
+    "Automation Anywhere [automationanywhere.com]",
+    "Blue Prism [blueprism.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "UiPath",
+      "url": "uipath.com",
+      "reason": "Offers robust enterprise automation"
+    },
+    {
+      "name": "Automation Anywhere",
+      "url": "automationanywhere.com",
+      "reason": "Cloud-based with AI capabilities"
+    },
+    {
+      "name": "Blue Prism",
+      "url": "blueprism.com",
+      "reason": "Focuses on intelligent automation"
+    }
+  ],
+  "tags": [
+    "automation",
+    "data extraction",
+    "local processing",
+    "task automation"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://mindone.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=mindone&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/mindone_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/mindone_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/mindone_app_400.png",
+  "updatedAt": "2025-07-31T01:11:31.982Z"
+}

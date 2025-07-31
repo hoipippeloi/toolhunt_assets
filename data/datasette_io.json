@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://datasette.io/",
+  "name": "Datasette",
+  "title": "datasette.io",
+  "payoff": "Explore and publish data easily",
+  "shortDescription": "Datasette is a versatile tool designed for data exploration and publishing. It caters to a diverse audience including data journalists, scientists, and local governments. Users can import data from various sources like CSVs and JSON, and Datasette provides tools for analyzing and sharing this data as interactive websites and APIs. An example use case is exploring a dataset of 33,000 power plants worldwide.",
+  "pros": [
+    "Instant data publishing to various platforms",
+    "Automatic data pattern visualization",
+    "Rapid prototyping with JSON APIs"
+  ],
+  "cons": [
+    "Limited to data exploration and publishing",
+    "May require technical knowledge for advanced features",
+    "Dependent on external hosting for publishing"
+  ],
+  "alternatives": [
+    "Apache Superset [superset.apache.org]",
+    "Redash [redash.io]",
+    "Metabase [metabase.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Apache Superset",
+      "url": "superset.apache.org",
+      "reason": "Rich visualization and dashboarding"
+    },
+    {
+      "name": "Redash",
+      "url": "redash.io",
+      "reason": "Query editor and visualization tools"
+    },
+    {
+      "name": "Metabase",
+      "url": "metabase.com",
+      "reason": "User-friendly and scalable analytics"
+    }
+  ],
+  "tags": [
+    "data analysis",
+    "data visualization",
+    "open source",
+    "data publishing"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Data Storage",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://datasette.io/",
+  "documentationUrl": "https://docs.datasette.io/en/stable/",
+  "githubUrl": "https://github.com/simonw/datasette/blob/main/LICENSE",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/datasette_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/datasette_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/datasette_io_400.png",
+  "updatedAt": "2025-07-31T01:13:32.828Z"
+}

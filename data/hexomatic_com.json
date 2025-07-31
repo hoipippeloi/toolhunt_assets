@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://hexomatic.com/",
+  "name": "Hexomatic",
+  "title": "hexomatic.com",
+  "payoff": "Automate web scraping easily",
+  "shortDescription": "Hexomatic is a no-code platform designed to simplify web scraping and workflow automation. It serves businesses of all sizes, enabling users to extract data from websites and automate tasks without coding skills. Users can create custom workflows, integrate AI for data processing, and automate repetitive tasks, saving over 100 hours a month. An example use case is automating data extraction from e-commerce sites for market analysis.",
+  "pros": [
+    "No coding required for setup",
+    "Integrates AI and machine learning",
+    "Supports automation of complex tasks"
+  ],
+  "cons": [
+    "Limited customization for advanced users",
+    "Dependent on website changes",
+    "Potential scalability issues"
+  ],
+  "alternatives": [
+    "Import.io [import.io]",
+    "ParseHub [parsehub.com]",
+    "Octoparse [octoparse.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Import.io",
+      "url": "import.io",
+      "reason": "Offers similar web scraping capabilities"
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Focuses on complex data extraction"
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "Automates data scraping without coding"
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "workflow automation",
+    "no-code",
+    "AI integration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://hexomatic.com/",
+  "documentationUrl": "https://hexomatic.com/documentation",
+  "githubUrl": "https://github.com/search?q=hexomatic&type=repositories",
+  "twitterUrl": "https://twitter.com/hexactinc",
+  "screenshot": "https://share.appsfor.us/screenshots/hexomatic_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/hexomatic_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/hexomatic_com_400.png",
+  "updatedAt": "2025-07-31T01:11:58.473Z"
+}

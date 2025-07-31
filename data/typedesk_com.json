@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://typedesk.com/",
+  "name": "typedesk",
+  "title": "typedesk.com",
+  "payoff": "Your shortcut to productivity",
+  "shortDescription": "typedesk is an advanced text expander and keyboard automation app designed for Mac and Windows users. It helps to quickly create personalized documents and maintain consistent communication across various platforms. Ideal for departments like Customer Support, HR, and Legal, it enhances productivity by reducing repetitive typing. Example use case: A legal professional can add frequently used legal definitions to documents with just a few keystrokes.",
+  "pros": [
+    "Reduces repetitive typing",
+    "Compatible with 1,000+ apps and websites",
+    "Supports team-wide consistent communication"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Potential learning curve for non-tech users",
+    "Dependence on app compatibility"
+  ],
+  "alternatives": [
+    "PhraseExpress [phraseexpress.com]",
+    "TextExpander [textexpander.com]",
+    "TextBlaze [blaze.today]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "PhraseExpress",
+      "url": "phraseexpress.com",
+      "reason": "Offers similar text expansion features."
+    },
+    {
+      "name": "TextExpander",
+      "url": "textexpander.com",
+      "reason": "Popular for its robust expansion capabilities."
+    },
+    {
+      "name": "TextBlaze",
+      "url": "blaze.today",
+      "reason": "Provides dynamic snippets and templates."
+    }
+  ],
+  "tags": [
+    "text expander",
+    "keyboard automation",
+    "productivity",
+    "document automation"
+  ],
+  "apiUsed": false,
+  "department": "Customer Service",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://typedesk.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=typedesk&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/typedesk_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/typedesk_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/typedesk_com_400.png",
+  "updatedAt": "2025-07-31T01:12:26.784Z"
+}

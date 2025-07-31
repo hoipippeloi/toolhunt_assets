@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://flexclip.com/",
+  "name": "FlexClip",
+  "title": "flexclip.com",
+  "payoff": "Create stunning videos easily",
+  "shortDescription": "FlexClip is an online video editing platform designed for both beginners and professionals. It offers a wide range of features including AI-driven tools, video templates, and collaborative options, making it ideal for creating promotional, educational, or personal videos. Users can start from scratch or use one of the 6000+ templates to quickly produce high-quality videos.",
+  "pros": [
+    "Extensive template library",
+    "Advanced AI video editing tools",
+    "High-quality video exports up to 4K"
+  ],
+  "cons": [
+    "May require a learning curve for new users",
+    "Limited customization in free tier",
+    "Potential privacy concerns with cloud storage"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "DaVinci Resolve [blackmagicdesign.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Pro",
+      "url": "adobe.com",
+      "reason": "Industry-standard video editing software"
+    },
+    {
+      "name": "Final Cut Pro",
+      "url": "apple.com",
+      "reason": "Popular among Mac users for video editing"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "url": "blackmagicdesign.com",
+      "reason": "Strong color correction and audio post-production"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "AI video creation",
+    "collaboration",
+    "content creation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Content Management",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://flexclip.com/",
+  "documentationUrl": "https://flexclip.com/learn",
+  "githubUrl": "https://github.com/search?q=flexclip&type=repositories",
+  "twitterUrl": "https://twitter.com/flexclipapp",
+  "screenshot": "https://share.appsfor.us/screenshots/flexclip_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/flexclip_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/flexclip_com_400.png",
+  "updatedAt": "2025-07-31T01:11:07.163Z"
+}
