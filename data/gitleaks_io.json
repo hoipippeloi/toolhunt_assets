@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gitleaks.io/",
+  "name": "Gitleaks",
+  "title": "gitleaks.io",
+  "payoff": "Open Source Secret Scanning",
+  "shortDescription": "Gitleaks is an open-source tool designed for scanning secrets in git repositories, files, and directories. It's widely trusted by security professionals, enterprises, and developers for its robust capabilities in detecting sensitive information. An example use case is using Gitleaks to scan pull requests and commits in GitHub repositories to ensure no secrets are exposed.",
+  "pros": [
+    "Over 20 million Docker downloads",
+    "Supports scanning across multiple platforms",
+    "No server uploads for privacy"
+  ],
+  "cons": [
+    "Requires manual setup for integration",
+    "Limited to git repositories and files",
+    "Long URLs in playground feature"
+  ],
+  "alternatives": [
+    "GitGuardian [gitguardian.com]",
+    "SonarQube [sonarqube.org]",
+    "Snyk [snyk.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitGuardian",
+      "url": "gitguardian.com",
+      "reason": "Scans for secrets and credentials"
+    },
+    {
+      "name": "SonarQube",
+      "url": "sonarqube.org",
+      "reason": "Offers comprehensive code quality checks"
+    },
+    {
+      "name": "Snyk",
+      "url": "snyk.io",
+      "reason": "Focuses on open source security"
+    }
+  ],
+  "tags": [
+    "open source",
+    "security",
+    "secret scanning",
+    "git"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Security",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2017,
+  "websiteUrl": "https://gitleaks.io/",
+  "documentationUrl": "https://github.com/zricethezav/gitleaks",
+  "githubUrl": "https://github.com/gitleaks/gitleaks",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/gitleaks_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gitleaks_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gitleaks_io_400.png",
+  "updatedAt": "2025-08-01T03:55:07.786Z"
+}

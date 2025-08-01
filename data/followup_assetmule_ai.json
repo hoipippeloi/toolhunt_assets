@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://followup.assetmule.ai/",
+  "name": "FollowUp",
+  "title": "assetmule.ai",
+  "payoff": "Turn sales calls into assets",
+  "shortDescription": "FollowUp transforms sales call transcripts into personalized follow-up assets. It's designed for B2B SaaS sales reps who aim to provide tailored follow-ups rather than generic PDFs or decks. An example use case is a sales rep using FollowUp to instantly create a personalized one-pager from a call, enhancing the sales process and enabling faster deal closures.",
+  "pros": [
+    "Instantly creates personalized follow-up assets",
+    "Enables sales champions to share tailored content",
+    "Tracks engagement to optimize follow-up timing"
+  ],
+  "cons": [
+    "Limited to one asset per day on the free plan",
+    "Full tracking features are only in the paid plan",
+    "Currently no API for developer integration"
+  ],
+  "alternatives": [
+    "Outreach [outreach.io]",
+    "SalesLoft [salesloft.com]",
+    "HubSpot Sales Hub [hubspot.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Outreach",
+      "url": "outreach.io",
+      "reason": "Offers comprehensive sales engagement"
+    },
+    {
+      "name": "SalesLoft",
+      "url": "salesloft.com",
+      "reason": "Provides sales engagement and insights"
+    },
+    {
+      "name": "HubSpot Sales Hub",
+      "url": "hubspot.com",
+      "reason": "Integrates sales with broader CRM features"
+    }
+  ],
+  "tags": [
+    "sales enablement",
+    "AI",
+    "personalization",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Sales Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://followup.assetmule.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=followup&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/followup_assetmule_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/followup_assetmule_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/followup_assetmule_ai_400.png",
+  "updatedAt": "2025-08-01T03:53:08.668Z"
+}

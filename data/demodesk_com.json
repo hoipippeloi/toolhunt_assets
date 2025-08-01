@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://demodesk.com/",
+  "name": "Demodesk",
+  "title": "demodesk.com",
+  "payoff": "Revenue Growth with AI Sales Agents",
+  "shortDescription": "Demodesk leverages AI to enhance sales processes by automating administrative tasks and providing real-time coaching. It's designed for sales teams looking to increase efficiency and revenue. For instance, AI agents handle note-taking and CRM updates during sales calls, allowing reps to focus on the conversation.",
+  "pros": [
+    "Automates routine sales tasks",
+    "Provides real-time coaching and feedback",
+    "Enhances CRM and data management"
+  ],
+  "cons": [
+    "Dependence on AI accuracy",
+    "Potential privacy concerns",
+    "Limited to sales applications"
+  ],
+  "alternatives": [
+    "Salesforce [salesforce.com]",
+    "HubSpot CRM [hubspot.com]",
+    "Zoho CRM [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Salesforce",
+      "url": "salesforce.com",
+      "reason": "Comprehensive CRM with extensive features"
+    },
+    {
+      "name": "HubSpot CRM",
+      "url": "hubspot.com",
+      "reason": "Free tier available, strong marketing tools"
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "zoho.com",
+      "reason": "Affordable with broad integration options"
+    }
+  ],
+  "tags": [
+    "AI",
+    "sales automation",
+    "CRM",
+    "coaching"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://demodesk.com/",
+  "documentationUrl": "https://help.demodesk.com/",
+  "githubUrl": "https://github.com/search?q=demodesk&type=repositories",
+  "twitterUrl": "https://twitter.com/demodesk",
+  "screenshot": "https://share.appsfor.us/screenshots/demodesk_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/demodesk_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/demodesk_com_400.png",
+  "updatedAt": "2025-08-01T03:52:35.265Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://n8ncoder.com/",
+  "name": "n8nCoder",
+  "title": "n8ncoder.com",
+  "payoff": "Effortless Workflow Automation",
+  "shortDescription": "n8nCoder is an AI-powered tool designed to simplify the creation and management of n8n workflows. It assists users in building efficient automation systems by providing features like AI-driven node generation, template searching, and enhanced visualization tools. Ideal for developers and project managers looking to streamline their workflow processes without extensive manual coding. For example, a user can quickly find and implement a pre-existing workflow template, adjust its design, and integrate it seamlessly into their project.",
+  "pros": [
+    "AI-driven automation suggestions",
+    "Easy visualization and customization of workflows",
+    "No need for extensive manual coding"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Dependent on the n8n ecosystem",
+    "Limited to automation and workflow management"
+  ],
+  "alternatives": [
+    "Zapier [zapier.com]",
+    "Integromat [integromat.com]",
+    "Automate.io [automate.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Popular for easy integration across apps"
+    },
+    {
+      "name": "Integromat",
+      "url": "integromat.com",
+      "reason": "Visual approach to automation"
+    },
+    {
+      "name": "Automate.io",
+      "url": "automate.io",
+      "reason": "Focuses on business process automation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "automation",
+    "workflow management",
+    "SaaS"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://n8ncoder.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=n8ncoder&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/n8ncoder_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/n8ncoder_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/n8ncoder_com_400.png",
+  "updatedAt": "2025-08-01T03:53:38.985Z"
+}

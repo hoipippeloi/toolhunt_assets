@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://wetransfer.com/",
+  "name": "WeTransfer",
+  "title": "wetransfer.com",
+  "payoff": "Send Large Files Fast",
+  "shortDescription": "WeTransfer allows users to send large files securely and efficiently. It is designed for creative professionals and businesses needing to share large digital files. Users can send files up to 2GB for free or subscribe for larger capacities. Ideal for designers sending large graphics or firms sharing large documents.",
+  "pros": [
+    "High file size limits",
+    "User-friendly interface",
+    "Secure file sharing"
+  ],
+  "cons": [
+    "Limited free tier",
+    "No file editing features",
+    "Dependent on internet speed"
+  ],
+  "alternatives": [
+    "Dropbox [dropbox.com]",
+    "Google Drive [drive.google.com]",
+    "OneDrive [onedrive.live.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dropbox",
+      "url": "dropbox.com",
+      "reason": "Offers cloud storage and file syncing"
+    },
+    {
+      "name": "Google Drive",
+      "url": "drive.google.com",
+      "reason": "Integrated with Google Workspace"
+    },
+    {
+      "name": "OneDrive",
+      "url": "onedrive.live.com",
+      "reason": "Seamless integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "file transfer",
+    "data sharing",
+    "cloud storage"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "File Storage",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://wetransfer.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=wetransfer&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/wetransfer_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/wetransfer_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/wetransfer_com_400.png",
+  "updatedAt": "2025-08-01T03:52:01.946Z"
+}

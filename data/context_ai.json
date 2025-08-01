@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://context.ai/",
+  "name": "Context",
+  "title": "context.ai",
+  "payoff": "The AI Office Suite",
+  "shortDescription": "Context is an AI-powered office suite designed to streamline the workflow of professionals by integrating various data sources like chats, documents, and spreadsheets into a single workspace. It automatically formats, edits, and styles deliverables to match your company's branding, making it ideal for teams in corporate roles. An example use case is the automatic generation of presentation-ready deliverables from scattered inputs.",
+  "pros": [
+    "300+ integrations with various platforms",
+    "Automated data gathering and document formatting",
+    "Real-time issue detection and insight surfacing"
+  ],
+  "cons": [
+    "Potential privacy concerns with extensive data access",
+    "Dependence on AI may limit user control",
+    "Complexity in managing integrations"
+  ],
+  "alternatives": [
+    "Microsoft Office [office.com]",
+    "Google Workspace [workspace.google.com]",
+    "Zoho Office Suite [zoho.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Microsoft Office",
+      "url": "office.com",
+      "reason": "Comprehensive office suite with extensive features."
+    },
+    {
+      "name": "Google Workspace",
+      "url": "workspace.google.com",
+      "reason": "Cloud-based collaboration and productivity tools."
+    },
+    {
+      "name": "Zoho Office Suite",
+      "url": "zoho.com",
+      "reason": "Affordable, integrated office suite for businesses."
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "office suite",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Operations",
+  "function": "Content Management",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://context.ai/",
+  "documentationUrl": "https://context.ai/docs",
+  "githubUrl": "https://github.com/search?q=context&type=repositories",
+  "twitterUrl": "http://x.com/contextsuite",
+  "screenshot": "https://share.appsfor.us/screenshots/context_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/context_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/context_ai_400.png",
+  "updatedAt": "2025-08-01T03:54:46.483Z"
+}
