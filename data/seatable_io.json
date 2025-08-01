@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://seatable.io/",
+  "name": "SeaTable",
+  "title": "seatable.io",
+  "payoff": "Organize data, develop custom apps",
+  "shortDescription": "SeaTable is a versatile no-code platform that merges the simplicity of spreadsheets with the robustness of databases. It's designed for teams and individuals to manage data, automate workflows, and build custom applications without coding. Example use cases include project management with Gantt charts, HR process optimization, and marketing campaign analysis.",
+  "pros": [
+    "Easy to use with spreadsheet-like interface",
+    "Powerful automation and customization capabilities",
+    "Supports real-time collaboration"
+  ],
+  "cons": [
+    "May have a learning curve for complex features",
+    "Limited by the capabilities of no-code solutions",
+    "Potential scalability issues for very large datasets"
+  ],
+  "alternatives": [
+    "Airtable [airtable.com]",
+    "Smartsheet [smartsheet.com]",
+    "Microsoft PowerApps [powerapps.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Airtable",
+      "url": "airtable.com",
+      "reason": "Flexible no-code database with rich features"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Combines notes, tasks, databases, and wikis"
+    },
+    {
+      "name": "Coda",
+      "url": "coda.io",
+      "reason": "Doc that blends text, spreadsheets, and apps"
+    }
+  ],
+  "tags": [
+    "no-code",
+    "database management",
+    "project management",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Project Management",
+  "function": "Code-Free",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://seatable.io/",
+  "documentationUrl": "https://seatable.io/docs/",
+  "githubUrl": "https://github.com/seatable",
+  "twitterUrl": "https://x.com/SeaTableIO",
+  "screenshot": "https://share.appsfor.us/screenshots/seatable_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/seatable_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/seatable_io_400.png",
+  "updatedAt": "2025-08-01T01:21:11.316Z"
+}

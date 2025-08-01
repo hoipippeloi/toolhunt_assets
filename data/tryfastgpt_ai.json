@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tryfastgpt.ai/",
+  "name": "FastGPT",
+  "title": "tryfastgpt.ai",
+  "payoff": "Empower with Your Expertise",
+  "shortDescription": "FastGPT is a robust open-source AI knowledge base platform designed to facilitate the creation of complex LLM applications. It supports domain-specific AI chatbots, automates data preprocessing, and offers visual workflow orchestration. Users can integrate FastGPT with platforms like Discord and Slack, making it ideal for developers looking to enhance AI capabilities in their applications.",
+  "pros": [
+    "Open-source flexibility",
+    "Seamless API integration",
+    "Visual workflow design"
+  ],
+  "cons": [
+    "Potential steep learning curve",
+    "Dependence on community support",
+    "Limited documentation"
+  ],
+  "alternatives": [
+    "Dialogflow [dialogflow.com]",
+    "Microsoft Bot Framework [botframework.com]",
+    "Rasa [rasa.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Offers advanced NLP capabilities"
+    },
+    {
+      "name": "Microsoft Bot Framework",
+      "url": "botframework.com",
+      "reason": "Wide integration with Microsoft products"
+    },
+    {
+      "name": "Rasa",
+      "url": "rasa.com",
+      "reason": "Focuses on conversational AI"
+    }
+  ],
+  "tags": [
+    "AI",
+    "open source",
+    "workflow orchestration",
+    "API integration"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Knowledge Base",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tryfastgpt.ai/",
+  "documentationUrl": "https://tryfastgpt.ai/docs",
+  "githubUrl": "https://github.com/labring/FastGPT",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/tryfastgpt_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tryfastgpt_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tryfastgpt_ai_400.png",
+  "updatedAt": "2025-08-01T01:20:43.907Z"
+}

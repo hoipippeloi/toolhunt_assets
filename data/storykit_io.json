@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://storykit.io/",
+  "name": "Storykit",
+  "title": "storykit.io",
+  "payoff": "Make more video with less budget",
+  "shortDescription": "Storykit is a video automation platform designed to help organizations create professional videos effortlessly. It is ideal for teams in social media, sales, HR, or internal communications. Users can produce videos that align with their brand and are optimized for various platforms and languages without needing editing skills. An example use case is creating engaging corporate presentations with minimal effort.",
+  "pros": [
+    "Increases video production efficiently",
+    "No editing skills required",
+    "Supports multiple languages and platforms"
+  ],
+  "cons": [
+    "May lack advanced editing features",
+    "Dependent on quality of original content",
+    "Potential privacy concerns with automated processing"
+  ],
+  "alternatives": [
+    "Animoto [animoto.com]",
+    "Lumen5 [lumen5.com]",
+    "InVideo [invideo.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Animoto",
+      "url": "animoto.com",
+      "reason": "Offers user-friendly video editing"
+    },
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Focuses on social media video creation"
+    },
+    {
+      "name": "InVideo",
+      "url": "invideo.io",
+      "reason": "Provides extensive customization options"
+    }
+  ],
+  "tags": [
+    "video automation",
+    "content management",
+    "marketing tools",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Automation",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2018,
+  "websiteUrl": "https://storykit.io/",
+  "documentationUrl": "https://help.opera.com/en/latest/web-preferences/#cookies",
+  "githubUrl": "https://github.com/search?q=storykit&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/storykit_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/storykit_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/storykit_io_400.png",
+  "updatedAt": "2025-08-01T01:22:59.562Z"
+}

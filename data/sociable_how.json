@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://sociable.how/",
+  "name": "Sociable AI",
+  "title": "sociable.how",
+  "payoff": "Automate social media engagement",
+  "shortDescription": "Sociable AI leverages artificial intelligence to automate social media interactions, targeting brands and marketers. It simplifies community management by automating comments and direct messages on various platforms like Instagram, Facebook, and WhatsApp. An example use case is a brand using Sociable AI to maintain 24/7 engagement with customers, automatically responding to queries and capturing sales leads without human intervention.",
+  "pros": [
+    "24/7 automated social media engagement",
+    "Supports multiple platforms including Instagram and Facebook",
+    "Tracks engagement metrics to improve visibility"
+  ],
+  "cons": [
+    "Potential lack of personal touch in automated interactions",
+    "Dependence on AI might lead to context misunderstanding",
+    "May not handle complex customer service issues effectively"
+  ],
+  "alternatives": [
+    "Hootsuite [hootsuite.com]",
+    "Buffer [buffer.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Comprehensive social media management"
+    },
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Focus on scheduling and analytics"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Advanced listening and analytics features"
+    }
+  ],
+  "tags": [
+    "AI",
+    "social media",
+    "automation",
+    "community management"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://sociable.how/",
+  "documentationUrl": "https://sociable.how/documentation",
+  "githubUrl": "https://github.com/search?q=sociable%20ai&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/sociable_how.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/sociable_how_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/sociable_how_400.png",
+  "updatedAt": "2025-08-01T01:23:28.787Z"
+}

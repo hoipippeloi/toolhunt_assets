@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cello.so/",
+  "name": "Cello",
+  "title": "cello.so",
+  "payoff": "User-led growth for SaaS",
+  "shortDescription": "Cello is a referral platform designed specifically for B2B SaaS products. It allows businesses to integrate a referral system directly into their software, enabling users and affiliates to promote the product effortlessly. By embedding Cello, companies can turn their user base into a powerful marketing channel, enhancing user engagement and increasing conversions through trusted recommendations.",
+  "pros": [
+    "Easy integration with few lines of code",
+    "Supports both user and affiliate referrals",
+    "Enterprise-grade security and scalability"
+  ],
+  "cons": [
+    "Limited to B2B SaaS products",
+    "Potential complexity in managing referrals",
+    "Dependence on user participation for success"
+  ],
+  "alternatives": [
+    "ReferralCandy [referralcandy.com]",
+    "Ambassador [getambassador.com]",
+    "Tapfiliate [tapfiliate.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "ReferralCandy",
+      "url": "referralcandy.com",
+      "reason": "Popular for e-commerce referrals"
+    },
+    {
+      "name": "Ambassador",
+      "url": "getambassador.com",
+      "reason": "Focuses on brand ambassadors"
+    },
+    {
+      "name": "Tapfiliate",
+      "url": "tapfiliate.com",
+      "reason": "Customizable affiliate programs"
+    }
+  ],
+  "tags": [
+    "referral marketing",
+    "SaaS",
+    "user engagement",
+    "affiliate marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "User Engagement",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://cello.so/",
+  "documentationUrl": "https://cello.so/docs",
+  "githubUrl": "https://github.com/search?q=cello&type=repositories",
+  "twitterUrl": "https://twitter.com/cello_hq",
+  "screenshot": "https://share.appsfor.us/screenshots/cello_so.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cello_so_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cello_so_400.png",
+  "updatedAt": "2025-08-01T01:21:39.363Z"
+}
