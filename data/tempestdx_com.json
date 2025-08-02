@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://tempestdx.com/",
+  "name": "Tempest",
+  "title": "tempestdx.com",
+  "payoff": "Ships code fast with managed portal",
+  "shortDescription": "Tempest is a fully-managed developer portal designed to streamline the development process, reduce operational overhead, and ensure compliance with security standards. It is ideal for teams looking to deploy, manage, and ship quality code faster without the friction of managing infrastructure. Example use case: Software development teams can utilize Tempest to automate their deployment pipelines and manage their development workflows more efficiently.",
+  "pros": [
+    "Reduces operational overhead",
+    "Automates infrastructure management",
+    "Ensures compliance with security standards"
+  ],
+  "cons": [
+    "May be less customizable due to managed nature",
+    "Potential dependency on a single vendor",
+    "Could be expensive for smaller teams"
+  ],
+  "alternatives": [
+    "Backstage [backstage.io]",
+    "Portainer [portainer.io]",
+    "Kong [konghq.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Backstage",
+      "url": "backstage.io",
+      "reason": "Open platform for building developer portals"
+    },
+    {
+      "name": "Portainer",
+      "url": "portainer.io",
+      "reason": "Simplifies container management in DevOps"
+    },
+    {
+      "name": "Kong",
+      "url": "konghq.com",
+      "reason": "Offers API gateway for microservices"
+    }
+  ],
+  "tags": [
+    "developer tools",
+    "automation",
+    "security",
+    "compliance"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Internal Apps",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://tempestdx.com/",
+  "documentationUrl": "https://docs.tempestdx.com/contact-us",
+  "githubUrl": "https://github.com/tempestdx",
+  "twitterUrl": "https://tempestdx.com/company/privacypolicy",
+  "screenshot": "https://share.appsfor.us/screenshots/tempestdx_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/tempestdx_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/tempestdx_com_400.png",
+  "updatedAt": "2025-08-02T03:26:42.595Z"
+}

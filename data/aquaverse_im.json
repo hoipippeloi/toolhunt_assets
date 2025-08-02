@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://aquaverse.im/",
+  "name": "Aquarium",
+  "title": "aquaverse.im",
+  "payoff": "Buy and add fish to your aquarium!",
+  "shortDescription": "Aquarium is a unique platform that allows users to purchase virtual fish and add them to an online aquarium. It's designed for enthusiasts of virtual pets and those interested in interactive digital ecosystems. Users can sign in using Google, making it easily accessible. An example use case is a user looking to relax by managing a virtual aquarium, where they can see their collection grow and participate in a leaderboard.",
+  "pros": [
+    "Easy Google sign-in integration",
+    "Interactive digital pet ecosystem",
+    "Leaderboard for user engagement"
+  ],
+  "cons": [
+    "Limited to virtual fish",
+    "No mobile app available",
+    "Potential privacy concerns with Google sign-in"
+  ],
+  "alternatives": [
+    "Fish Tycoon [fishtycoon.com]",
+    "Marine Aquarium [serenescreen.com]",
+    "Insaniquarium [popcap.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Fish Tycoon",
+      "url": "fishtycoon.com",
+      "reason": "Similar virtual pet management game"
+    },
+    {
+      "name": "Marine Aquarium",
+      "url": "serenescreen.com",
+      "reason": "Offers a realistic aquarium simulation"
+    },
+    {
+      "name": "Insaniquarium",
+      "url": "popcap.com",
+      "reason": "Interactive fish care with strategic elements"
+    }
+  ],
+  "tags": [
+    "virtual pets",
+    "digital ecosystem",
+    "interactive entertainment",
+    "online gaming"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-commerce",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://aquaverse.im/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=aquarium&type=repositories",
+  "twitterUrl": "https://x.com/ilyamakes",
+  "screenshot": "https://share.appsfor.us/screenshots/aquaverse_im.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/aquaverse_im_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/aquaverse_im_400.png",
+  "updatedAt": "2025-08-02T03:25:52.099Z"
+}

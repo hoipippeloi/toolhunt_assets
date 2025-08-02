@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://totalwebtool.com/",
+  "name": "TotalWebTool",
+  "title": "totalwebtool.com",
+  "payoff": "Unveil website issues fast!",
+  "shortDescription": "TotalWebTool offers a comprehensive analysis of websites, targeting areas like SEO, security, UX, and more. It's designed for website owners who wish to optimize their site without multiple tools. Example use case: A business uses TotalWebTool to identify and fix SEO inefficiencies and security vulnerabilities quickly.",
+  "pros": [
+    "Comprehensive website analysis",
+    "Quick and easy to use",
+    "Supports multiple audit areas"
+  ],
+  "cons": [
+    "May not replace specialized tools",
+    "No API for developers",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "SEMrush [semrush.com]",
+    "WooRank [woorank.com]",
+    "Ahrefs [ahrefs.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SEMrush",
+      "url": "semrush.com",
+      "reason": "Offers broader SEO and marketing tools"
+    },
+    {
+      "name": "WooRank",
+      "url": "woorank.com",
+      "reason": "Focuses on real-time website analysis"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "ahrefs.com",
+      "reason": "Strong in backlink and SEO analysis"
+    }
+  ],
+  "tags": [
+    "SEO",
+    "website security",
+    "performance analysis",
+    "UX"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://totalwebtool.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=totalwebtool&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/totalwebtool_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/totalwebtool_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/totalwebtool_com_400.png",
+  "updatedAt": "2025-08-02T03:23:03.887Z"
+}

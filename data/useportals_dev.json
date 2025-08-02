@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://useportals.dev/",
+  "name": "Portals",
+  "title": "useportals.dev",
+  "payoff": "Work with your knowledge efficiently",
+  "shortDescription": "Portals is a knowledge management tool designed to help users process and organize information from various sources. It allows users to capture data, instruct AI in plain language, and search across a unified knowledge base. Ideal for professionals overwhelmed by data, Portals can transcribe meetings, parse documents, and integrate with other apps to maintain a single source of truth. Example use case: A project manager uses Portals to manage meeting notes and track project tasks.",
+  "pros": [
+    "Advanced AI integration for data handling",
+    "Customizable data objects for flexible use cases",
+    "Comprehensive search across multiple data types"
+  ],
+  "cons": [
+    "Potentially steep learning curve for new users",
+    "Limited information on security measures",
+    "Pricing might not be competitive for all users"
+  ],
+  "alternatives": [
+    "Notion [notion.so]",
+    "Evernote [evernote.com]",
+    "Confluence [atlassian.com/software/confluence]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Offers robust note-taking and organizing"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with integrated AI"
+    },
+    {
+      "name": "Confluence",
+      "url": "atlassian.com/software/confluence",
+      "reason": "Strong in team collaboration and documentation"
+    }
+  ],
+  "tags": [
+    "knowledge management",
+    "AI",
+    "data extraction",
+    "productivity"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Knowledge Base",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://useportals.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=portals&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/useportals_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/useportals_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/useportals_dev_400.png",
+  "updatedAt": "2025-08-02T03:26:18.915Z"
+}
