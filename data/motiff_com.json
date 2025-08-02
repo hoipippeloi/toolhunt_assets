@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://motiff.com/",
+  "name": "Motiff",
+  "title": "motiff.com",
+  "payoff": "Revolutionize UI Design with AI",
+  "shortDescription": "Motiff is an AI-powered interface design tool that transforms the way UIs are created. It integrates seamlessly into design workflows, particularly for designers and developers who use Figma. An example use case is a designer generating UI components directly from text descriptions, speeding up the prototyping process.",
+  "pros": [
+    "Generates UIs from text and images",
+    "Integrates with Figma for easy access",
+    "Offers context-based generation for relevancy"
+  ],
+  "cons": [
+    "Dependent on Figma's approval",
+    "May not fully replace human creativity",
+    "Limited to UI design tasks"
+  ],
+  "alternatives": [
+    "Adobe XD [adobe.com]",
+    "Sketch [sketch.com]",
+    "Axure RP [axure.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe XD",
+      "url": "adobe.com",
+      "reason": "Offers comprehensive UI/UX design tools"
+    },
+    {
+      "name": "Sketch",
+      "url": "sketch.com",
+      "reason": "Popular among macOS users for UI design"
+    },
+    {
+      "name": "Axure RP",
+      "url": "axure.com",
+      "reason": "Strong in prototyping and documentation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "UI design",
+    "plugin",
+    "interface"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://motiff.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=motiff&type=repositories",
+  "twitterUrl": "https://x.com/motiff_hq",
+  "screenshot": "https://share.appsfor.us/screenshots/motiff_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/motiff_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/motiff_com_400.png",
+  "updatedAt": "2025-08-02T01:08:20.291Z"
+}

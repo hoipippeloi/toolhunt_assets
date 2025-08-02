@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://url2tailwind.com/",
+  "name": "URL2Tailwind",
+  "title": "url2tailwind.com",
+  "payoff": "Convert URL to Tailwind CSS Fast",
+  "shortDescription": "URL2Tailwind transforms any website into modern Tailwind code with a simple click, eliminating hours of manual coding. Ideal for web developers and designers, this tool streamlines the conversion process, allowing users to focus on creative design aspects. Example use case: A developer wants to quickly prototype a website using Tailwind CSS by converting an existing site's design.",
+  "pros": [
+    "Saves time on manual coding",
+    "No installation required",
+    "Generates responsive designs"
+  ],
+  "cons": [
+    "Dependent on website structure",
+    "May not handle complex CSS perfectly",
+    "Limited to Tailwind CSS output"
+  ],
+  "alternatives": [
+    "Pinegrow [pinegrow.com]",
+    "Bootstrap Studio [bootstrapstudio.io]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Pinegrow",
+      "url": "pinegrow.com",
+      "reason": "Offers visual editing and supports multiple frameworks"
+    },
+    {
+      "name": "Bootstrap Studio",
+      "url": "bootstrapstudio.io",
+      "reason": "Visual editor for Bootstrap-based designs"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Combines design, animation, and CMS features"
+    }
+  ],
+  "tags": [
+    "web development",
+    "CSS tools",
+    "design automation",
+    "Tailwind CSS"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2024,
+  "websiteUrl": "https://url2tailwind.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=url2tailwind&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/url2tailwind_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/url2tailwind_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/url2tailwind_com_400.png",
+  "updatedAt": "2025-08-02T01:07:52.879Z"
+}

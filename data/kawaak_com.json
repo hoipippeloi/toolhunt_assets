@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://kawaak.com/en",
+  "name": "Kawaak",
+  "title": "kawaak.com",
+  "payoff": "Turn expertise into LinkedIn notoriety",
+  "shortDescription": "Kawaak helps professionals transform their expertise into engaging LinkedIn posts. It's designed for individuals looking to increase their visibility and influence on LinkedIn. Users can quickly generate posts from ideas or existing content, enhancing their professional brand without spending hours on content creation.",
+  "pros": [
+    "Easy to use and quick setup",
+    "AI-driven suggestions for better engagement",
+    "Features like post scheduling and direct source linking"
+  ],
+  "cons": [
+    "Limited to LinkedIn platform",
+    "May not fully capture personal voice",
+    "Potential over-reliance on AI suggestions"
+  ],
+  "alternatives": [
+    "Buffer [buffer.com]",
+    "Hootsuite [hootsuite.com]",
+    "Sprout Social [sproutsocial.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Buffer",
+      "url": "buffer.com",
+      "reason": "Offers broader social media management"
+    },
+    {
+      "name": "Hootsuite",
+      "url": "hootsuite.com",
+      "reason": "Comprehensive tools for social media"
+    },
+    {
+      "name": "Sprout Social",
+      "url": "sproutsocial.com",
+      "reason": "Advanced analytics and engagement tools"
+    }
+  ],
+  "tags": [
+    "social media",
+    "content creation",
+    "LinkedIn",
+    "AI"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Social Media",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://kawaak.com/en",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=kawaak&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/kawaak_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/kawaak_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/kawaak_com_400.png",
+  "updatedAt": "2025-08-02T01:09:41.853Z"
+}

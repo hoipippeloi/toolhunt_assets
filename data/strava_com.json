@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://strava.com/",
+  "name": "Strava",
+  "title": "strava.com",
+  "payoff": "Train, Track & Share Your Activities",
+  "shortDescription": "Strava is a fitness tracking app that caters to athletes and outdoor enthusiasts. It allows users to record and share their activities such as running, cycling, and hiking with a community of over 100 million people. Users can track their performance, compare with past activities, and explore new routes. Strava also offers features like real-time location sharing for safety.",
+  "pros": [
+    "Community-driven motivation",
+    "Detailed performance analytics",
+    "Extensive route and activity mapping"
+  ],
+  "cons": [
+    "Requires GPS device or smartphone",
+    "Subscription for full features",
+    "Privacy concerns with location sharing"
+  ],
+  "alternatives": [
+    "MapMyRun [mapmyrun.com]",
+    "Endomondo [endomondo.com]",
+    "Garmin Connect [garmin.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "MapMyRun",
+      "url": "mapmyrun.com",
+      "reason": "Offers route planning and social features."
+    },
+    {
+      "name": "Endomondo",
+      "url": "endomondo.com",
+      "reason": "Focuses on a wide range of activities."
+    },
+    {
+      "name": "Garmin Connect",
+      "url": "garmin.com",
+      "reason": "Integrates deeply with Garmin devices."
+    }
+  ],
+  "tags": [
+    "fitness tracking",
+    "activity sharing",
+    "performance analytics",
+    "community engagement"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "Mobile Apps",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2009,
+  "websiteUrl": "https://strava.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=strava&type=repositories",
+  "twitterUrl": "https://twitter.com/strava",
+  "screenshot": "https://share.appsfor.us/screenshots/strava_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/strava_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/strava_com_400.png",
+  "updatedAt": "2025-08-02T01:09:15.156Z"
+}

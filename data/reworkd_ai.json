@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://reworkd.ai/",
+  "name": "Reworkd",
+  "title": "reworkd.ai",
+  "payoff": "Extract web data effortlessly.",
+  "shortDescription": "Reworkd allows users to extract web data at scale without the need for coding or ongoing maintenance. This tool is ideal for businesses and developers who need to gather data from various web sources efficiently. An example use case would be a marketing firm using Reworkd to automate the collection of competitor data for analysis.",
+  "pros": [
+    "No coding required",
+    "Scalable data extraction",
+    "Minimal maintenance"
+  ],
+  "cons": [
+    "Potential data privacy concerns",
+    "Dependence on external web structures",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Import.io [import.io]",
+    "Octoparse [octoparse.com]",
+    "ParseHub [parsehub.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Import.io",
+      "url": "import.io",
+      "reason": "Offers similar web scraping capabilities."
+    },
+    {
+      "name": "Octoparse",
+      "url": "octoparse.com",
+      "reason": "Provides a visual operation pane."
+    },
+    {
+      "name": "ParseHub",
+      "url": "parsehub.com",
+      "reason": "Supports complex data extraction."
+    }
+  ],
+  "tags": [
+    "web scraping",
+    "data extraction",
+    "no-code",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Web Scraping",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://reworkd.ai/",
+  "documentationUrl": "https://reworkd.ai/docs",
+  "githubUrl": "https://github.com/reworkd",
+  "twitterUrl": "https://x.com/reworkdai",
+  "screenshot": "https://share.appsfor.us/screenshots/reworkd_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/reworkd_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/reworkd_ai_400.png",
+  "updatedAt": "2025-08-02T01:08:50.263Z"
+}

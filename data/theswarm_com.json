@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://theswarm.com/",
+  "name": "The Swarm",
+  "title": "theswarm.com",
+  "payoff": "Accelerate sales and recruiting",
+  "shortDescription": "The Swarm is a leading Go-To-Network platform that provides comprehensive relationship and people data to companies and investors. It helps in accelerating sales, recruiting, and fundraising by leveraging a vast dataset of profiles and companies. Users can map relationships, monitor job changes, and integrate this data into their CRMs, making it ideal for businesses looking to enhance their network insights.",
+  "pros": [
+    "Daily updated dataset of 580M profiles",
+    "Integrations with major platforms like Clay and HubSpot",
+    "Free Chrome Extension with valuable features"
+  ],
+  "cons": [
+    "Pricing may be prohibitive for smaller startups",
+    "Limited information on the effectiveness of relationship scoring",
+    "Dependence on third-party integrations for full functionality"
+  ],
+  "alternatives": [
+    "LinkedIn Sales Navigator [linkedin.com/sales]",
+    "ZoomInfo [zoominfo.com]",
+    "Clearbit [clearbit.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "LinkedIn Sales Navigator",
+      "url": "linkedin.com/sales",
+      "reason": "Offers detailed insights on contacts"
+    },
+    {
+      "name": "ZoomInfo",
+      "url": "zoominfo.com",
+      "reason": "Provides extensive company data"
+    },
+    {
+      "name": "Clearbit",
+      "url": "clearbit.com",
+      "reason": "Focuses on marketing and sales leads"
+    }
+  ],
+  "tags": [
+    "networking",
+    "data enrichment",
+    "relationship data",
+    "SaaS"
+  ],
+  "apiUsed": true,
+  "department": "Sales",
+  "function": "Customer Relations",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://theswarm.com/",
+  "documentationUrl": "https://theswarm.com/documentation",
+  "githubUrl": "https://github.com/search?q=the%20swarm&type=repositories",
+  "twitterUrl": "https://twitter.com/wearetheswarm",
+  "screenshot": "https://share.appsfor.us/screenshots/theswarm_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/theswarm_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/theswarm_com_400.png",
+  "updatedAt": "2025-08-02T01:07:31.353Z"
+}
