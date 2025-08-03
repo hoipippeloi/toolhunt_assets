@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://fixo.dev/",
+  "name": "FixO",
+  "title": "fixo.dev",
+  "payoff": "AI-powered PR fixes instantly",
+  "shortDescription": "FixO is an innovative open-source GitHub App designed to streamline the development process by transforming issues tagged with @fixodev into instant pull requests using AI technology. This tool is ideal for developers and project managers aiming to enhance efficiency in handling project issues. An example use case is when a developer opens an issue regarding algorithm optimization; FixO automatically suggests a pull request to improve it.",
+  "pros": [
+    "Automates pull request creation",
+    "Enhances project management efficiency",
+    "Open-source and easily integrable"
+  ],
+  "cons": [
+    "Limited to GitHub platform",
+    "Dependent on specific tagging",
+    "May not handle complex issues effectively"
+  ],
+  "alternatives": [
+    "GitHub Actions [github.com/features/actions]",
+    "GitLab CI/CD [gitlab.com]",
+    "Jenkins [jenkins.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "GitHub Actions",
+      "url": "github.com/features/actions",
+      "reason": "Offers custom automation workflows"
+    },
+    {
+      "name": "GitLab CI/CD",
+      "url": "gitlab.com",
+      "reason": "Provides comprehensive DevOps solution"
+    },
+    {
+      "name": "Jenkins",
+      "url": "jenkins.io",
+      "reason": "Extensible automation server"
+    }
+  ],
+  "tags": [
+    "GitHub",
+    "AI",
+    "open source",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2023,
+  "websiteUrl": "https://fixo.dev/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/epavanello/fixodev",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/fixo_dev.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/fixo_dev_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/fixo_dev_400.png",
+  "updatedAt": "2025-08-03T03:48:57.875Z"
+}

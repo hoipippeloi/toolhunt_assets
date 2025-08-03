@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://cedreo.com/",
+  "name": "Cedreo",
+  "title": "cedreo.com",
+  "payoff": "Design homes in 3D under 2 hours",
+  "shortDescription": "Cedreo is a 3D home design software tailored for home builders, remodelers, and interior designers. It enables users to create complete house plans, including terrain and interior designs, rapidly with photorealistic 3D visualizations. This tool is essential for professionals looking to streamline their pre-sales process, enhance collaboration among teams, and boost sales efficiency by presenting comprehensive project visuals to clients quickly.",
+  "pros": [
+    "Rapid 3D visualization capabilities",
+    "Enhanced pre-sales efficiency",
+    "Integrated collaboration tools"
+  ],
+  "cons": [
+    "Limited to home design use cases",
+    "Potential learning curve for new users",
+    "Dependence on software updates for new features"
+  ],
+  "alternatives": [
+    "SketchUp [sketchup.com]",
+    "AutoCAD Architecture [autodesk.com/products/autocad-architecture]",
+    "Chief Architect [chiefarchitect.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "SketchUp",
+      "url": "sketchup.com",
+      "reason": "Offers 3D modeling for various design needs"
+    },
+    {
+      "name": "AutoCAD Architecture",
+      "url": "autodesk.com/products/autocad-architecture",
+      "reason": "Advanced CAD features for professionals"
+    },
+    {
+      "name": "Chief Architect",
+      "url": "chiefarchitect.com",
+      "reason": "Specialized in residential design"
+    }
+  ],
+  "tags": [
+    "3D design",
+    "home design",
+    "visualization",
+    "architecture"
+  ],
+  "apiUsed": false,
+  "department": "Design",
+  "function": "Design Tools",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://cedreo.com/",
+  "documentationUrl": "https://help.cedreo.com/en",
+  "githubUrl": "https://github.com/search?q=cedreo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/cedreo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/cedreo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/cedreo_com_400.png",
+  "updatedAt": "2025-08-03T03:47:52.549Z"
+}

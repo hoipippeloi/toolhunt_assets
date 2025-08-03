@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://getnextstep.io/",
+  "name": "NextStep",
+  "title": "getnextstep.io",
+  "payoff": "Simple business process management",
+  "shortDescription": "NextStep is a business process management tool designed to simplify team workflows through structured, repeatable processes. It allows users to create SOPs, workflows, and checklists, enhancing efficiency with smart due-dates and automation. Ideal for businesses needing to streamline operations, such as customer onboarding or monthly reporting.",
+  "pros": [
+    "AI-assisted process creation",
+    "Real-time analytics and tracking",
+    "Unlimited guest participants"
+  ],
+  "cons": [
+    "Limited to process management",
+    "No clear offline capabilities",
+    "Potential learning curve for new users"
+  ],
+  "alternatives": [
+    "Asana [asana.com]",
+    "Monday.com [monday.com]",
+    "Smartsheet [smartsheet.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Process Street",
+      "url": "process.st",
+      "reason": "Offers similar process management features"
+    },
+    {
+      "name": "Kissflow",
+      "url": "kissflow.com",
+      "reason": "Focuses on workflow automation"
+    },
+    {
+      "name": "Trello",
+      "url": "trello.com",
+      "reason": "Provides flexible project boards"
+    }
+  ],
+  "tags": [
+    "process management",
+    "automation",
+    "workflow optimization",
+    "task tracking"
+  ],
+  "apiUsed": false,
+  "department": "Operations",
+  "function": "Project Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://getnextstep.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=nextstep&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/getnextstep_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/getnextstep_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/getnextstep_io_400.png",
+  "updatedAt": "2025-08-03T03:48:30.224Z"
+}

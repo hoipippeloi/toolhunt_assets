@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://conductor.build/",
+  "name": "Conductor",
+  "title": "conductor.build",
+  "payoff": "Manage multiple Claude Codes easily!",
+  "shortDescription": "Conductor is a tool designed to run multiple Claude Code agents simultaneously, providing each agent with an isolated workspace. It's ideal for developers and teams looking to streamline their coding processes and enhance productivity. Users can monitor the status of each agent, identify bottlenecks, and track changes seamlessly. The tool also automates git worktree management, making it easier for users to handle version control without manual intervention.",
+  "pros": [
+    "Facilitates parallel running of multiple agents",
+    "Automates git worktree management",
+    "Provides real-time monitoring and status updates"
+  ],
+  "cons": [
+    "May require initial setup and learning",
+    "Dependent on Claude Code compatibility",
+    "Potential for high resource usage"
+  ],
+  "alternatives": [
+    "Jenkins [jenkins.io]",
+    "GitLab CI/CD [gitlab.com]",
+    "CircleCI [circleci.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Jenkins",
+      "url": "jenkins.io",
+      "reason": "Offers extensive automation and CI/CD tools"
+    },
+    {
+      "name": "GitLab CI/CD",
+      "url": "gitlab.com",
+      "reason": "Integrated CI/CD with comprehensive DevOps platform"
+    },
+    {
+      "name": "CircleCI",
+      "url": "circleci.com",
+      "reason": "Efficient CI/CD with strong integration options"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "version control",
+    "parallel computing",
+    "development"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2023,
+  "websiteUrl": "https://conductor.build/",
+  "documentationUrl": "https://docs.conductor.build/privacy",
+  "githubUrl": "https://github.com/search?q=conductor&type=repositories",
+  "twitterUrl": "https://x.com/meltyinc",
+  "screenshot": "https://share.appsfor.us/screenshots/conductor_build.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/conductor_build_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/conductor_build_400.png",
+  "updatedAt": "2025-08-03T03:50:01.636Z"
+}

@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://limory.app/",
+  "name": "Limory",
+  "title": "limory.app",
+  "payoff": "Brings your photos to life",
+  "shortDescription": "Limory is an augmented reality tool designed to animate your static photos, making them interactive and engaging. Ideal for photographers, marketers, and event organizers, it allows users to create dynamic visual experiences. For instance, a wedding photographer can use Limory to create animated albums that bring wedding photos to life, enhancing the storytelling aspect of their presentations.",
+  "pros": [
+    "Enhances photo interactivity",
+    "Easy to use with step-by-step guidance",
+    "Versatile applications across different environments"
+  ],
+  "cons": [
+    "Limited to photo animations",
+    "May require high-performance devices",
+    "Potential privacy concerns with photo data"
+  ],
+  "alternatives": [
+    "Artivive [artivive.com]",
+    "HP Reveal [hpreveal.com]",
+    "Zappar [zappar.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Artivive",
+      "url": "artivive.com",
+      "reason": "Offers AR art experiences"
+    },
+    {
+      "name": "HP Reveal",
+      "url": "hpreveal.com",
+      "reason": "Focuses on AR for marketing"
+    },
+    {
+      "name": "Zappar",
+      "url": "zappar.com",
+      "reason": "Wide range of AR solutions"
+    }
+  ],
+  "tags": [
+    "augmented reality",
+    "photo animation",
+    "interactive media"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://limory.app/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=limory&type=repositories",
+  "twitterUrl": "https://twitter.com/limoryapp",
+  "screenshot": "https://share.appsfor.us/screenshots/limory_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/limory_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/limory_app_400.png",
+  "updatedAt": "2025-08-03T03:47:31.538Z"
+}
