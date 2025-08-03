@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://humy.ai/",
+  "name": "Humy",
+  "title": "humy.ai",
+  "payoff": "Revolutionize History Education with AI",
+  "shortDescription": "Humy.ai leverages artificial intelligence to transform the teaching and learning of history and social studies. Designed for educators and institutions, it allows users to interact with AI-powered historical figures, making learning more engaging and interactive. Educators can generate AI-graded assignments, create unique AI tutors, and develop comprehensive study materials quickly and efficiently.",
+  "pros": [
+    "Interactive AI-powered historical figures",
+    "Easy generation of educational materials",
+    "No technical skills required for operation"
+  ],
+  "cons": [
+    "Dependence on digital infrastructure",
+    "Potential privacy concerns with data handling",
+    "Limited to history and social studies"
+  ],
+  "alternatives": [
+    "Kahoot! [kahoot.com]",
+    "Quizlet [quizlet.com]",
+    "Edmodo [edmodo.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Kahoot!",
+      "url": "kahoot.com",
+      "reason": "Interactive learning through games and quizzes"
+    },
+    {
+      "name": "Quizlet",
+      "url": "quizlet.com",
+      "reason": "Offers study tools and interactive flashcards"
+    },
+    {
+      "name": "Edmodo",
+      "url": "edmodo.com",
+      "reason": "Provides a full educational suite with social learning"
+    }
+  ],
+  "tags": [
+    "AI",
+    "E-Learning",
+    "Educational Technology",
+    "Interactive Learning"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://humy.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=humy&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/humy_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/humy_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/humy_ai_400.png",
+  "updatedAt": "2025-08-03T01:18:36.630Z"
+}

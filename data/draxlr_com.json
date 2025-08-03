@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://draxlr.com/",
+  "name": "Draxlr",
+  "title": "draxlr.com",
+  "payoff": "Turn SQL Data into Decisions",
+  "shortDescription": "Draxlr enables users to build professional dashboards and setup alerts directly from their SQL databases without needing technical expertise. It supports a wide range of databases including PostgreSQL, MySQL, and Snowflake. Key features include AI-powered insights, automated alerts, and easy embedding of analytics. Ideal for non-technical users like managers or operations staff who need quick access to data-driven insights.",
+  "pros": [
+    "Supports multiple SQL databases",
+    "No technical expertise required",
+    "AI-powered insights and alerts"
+  ],
+  "cons": [
+    "Limited to SQL databases",
+    "May not support custom database configurations",
+    "Dependent on database performance"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "PowerBI [powerbi.microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Popular for visual analytics"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Offers robust BI capabilities"
+    },
+    {
+      "name": "PowerBI",
+      "url": "powerbi.microsoft.com",
+      "reason": "Integration with Microsoft products"
+    }
+  ],
+  "tags": [
+    "analytics",
+    "dashboard",
+    "SQL",
+    "data visualization"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://draxlr.com/",
+  "documentationUrl": "https://docs.draxlr.com/docs/introduction",
+  "githubUrl": "https://github.com/search?q=draxlr&type=repositories",
+  "twitterUrl": "https://www.gmx.com/",
+  "screenshot": "https://share.appsfor.us/screenshots/draxlr_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/draxlr_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/draxlr_com_400.png",
+  "updatedAt": "2025-08-03T01:20:25.040Z"
+}

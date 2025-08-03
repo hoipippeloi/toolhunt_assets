@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://ezsite.ai/",
+  "name": "EasySite",
+  "title": "ezsite.ai",
+  "payoff": "AI-driven website cloning",
+  "shortDescription": "EasySite revolutionizes website development by enabling users to clone any existing website with just a URL. Ideal for developers, marketers, and entrepreneurs, this tool simplifies the creation of functional websites and apps. Users can quickly replicate sites and customize them, making it perfect for rapid prototyping and testing different web designs.",
+  "pros": [
+    "Rapid website cloning",
+    "User-friendly AI interface",
+    "Supports multiple user contributions"
+  ],
+  "cons": [
+    "Potential copyright issues",
+    "Limited customization options",
+    "Dependence on source website stability"
+  ],
+  "alternatives": [
+    "Wix [wix.com]",
+    "Squarespace [squarespace.com]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Wix",
+      "url": "wix.com",
+      "reason": "Offers extensive design flexibility"
+    },
+    {
+      "name": "Squarespace",
+      "url": "squarespace.com",
+      "reason": "Focus on aesthetics and user-friendly design"
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Provides advanced design customization"
+    }
+  ],
+  "tags": [
+    "AI",
+    "website builder",
+    "cloning",
+    "prototyping"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Site Builder",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://ezsite.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=easysite&type=repositories",
+  "twitterUrl": "https://x.com/EasySite_AI",
+  "screenshot": "https://share.appsfor.us/screenshots/ezsite_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/ezsite_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/ezsite_ai_400.png",
+  "updatedAt": "2025-08-03T01:17:27.141Z"
+}

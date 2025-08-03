@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://masteriyo.com/",
+  "name": "Masteriyo",
+  "title": "masteriyo.com",
+  "payoff": "Create & Sell Online Courses",
+  "shortDescription": "Masteriyo is a powerful LMS plugin for WordPress, designed to help educators create and sell online courses with ease. It supports course creation, management, and sales, making it ideal for educators and trainers. Users can quickly set up courses, integrate quizzes, and offer downloadable materials, all within a user-friendly interface.",
+  "pros": [
+    "Easy and fast course creation",
+    "Customizable and extendible with add-ons",
+    "Supports integrations like Elementor"
+  ],
+  "cons": [
+    "Dependent on WordPress",
+    "May require additional plugins for full functionality",
+    "Limited to web-based platforms"
+  ],
+  "alternatives": [
+    "LearnDash [learndash.com]",
+    "Teachable [teachable.com]",
+    "Thinkific [thinkific.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "LearnDash",
+      "url": "learndash.com",
+      "reason": "Popular WordPress LMS with robust features"
+    },
+    {
+      "name": "Teachable",
+      "url": "teachable.com",
+      "reason": "Allows course creation without WordPress"
+    },
+    {
+      "name": "Thinkific",
+      "url": "thinkific.com",
+      "reason": "Offers extensive marketing tools"
+    }
+  ],
+  "tags": [
+    "LMS",
+    "eLearning",
+    "WordPress plugin",
+    "course management"
+  ],
+  "apiUsed": false,
+  "department": "Education",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://masteriyo.com/",
+  "documentationUrl": "https://masteriyo.com/documentation",
+  "githubUrl": "https://github.com/search?q=masteriyo&type=repositories",
+  "twitterUrl": "https://x.com/masteriyolms",
+  "screenshot": "https://share.appsfor.us/screenshots/masteriyo_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/masteriyo_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/masteriyo_com_400.png",
+  "updatedAt": "2025-08-03T01:19:32.004Z"
+}

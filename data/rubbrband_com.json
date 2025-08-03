@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rubbrband.com/",
+  "name": "Rubbrband",
+  "title": "rubbrband.com",
+  "payoff": "Instant storyboard generation from scripts",
+  "shortDescription": "Rubbrband transforms your scripts into professional storyboards instantly, allowing filmmakers to focus on creative decisions from the start. It parses scenes and generates cinematic sketches, maintaining style consistency. Ideal for directors and producers, it streamlines pre-production by offering tools for shot editing and sharing for collaborative projects.",
+  "pros": [
+    "Instant storyboard creation",
+    "Editable cinematic sketches",
+    "Collaborative sharing features"
+  ],
+  "cons": [
+    "Limited free tier usage",
+    "High cost for professional tier",
+    "May lack customization for advanced users"
+  ],
+  "alternatives": [
+    "Plot [plot.com]",
+    "Storyboard That [storyboardthat.com]",
+    "Boords [boords.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Plot",
+      "url": "plot.com",
+      "reason": "Offers storyboard creation with a focus on simplicity."
+    },
+    {
+      "name": "Storyboard That",
+      "url": "storyboardthat.com",
+      "reason": "Flexible templates and educational focus."
+    },
+    {
+      "name": "Boords",
+      "url": "boords.com",
+      "reason": "Features storyboard editing and animatics."
+    }
+  ],
+  "tags": [
+    "storyboarding",
+    "filmmaking",
+    "AI",
+    "visualization"
+  ],
+  "apiUsed": false,
+  "department": "Creative",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://rubbrband.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=rubbrband&type=repositories",
+  "twitterUrl": "https://twitter.com/rubbrbandHQ",
+  "screenshot": "https://share.appsfor.us/screenshots/rubbrband_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rubbrband_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rubbrband_com_400.png",
+  "updatedAt": "2025-08-03T01:19:00.399Z"
+}

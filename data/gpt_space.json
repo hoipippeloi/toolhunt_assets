@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gpt.space/",
+  "name": "GPT Workspace",
+  "title": "gpt.space",
+  "payoff": "Supercharge Google Workspace effortlessly",
+  "shortDescription": "GPT Workspace integrates AI capabilities into Google Workspace, enhancing tools like Google Docs, Sheets, Gmail, and Drive with advanced GPT and Gemini technologies. It's designed for professionals seeking efficiency in document handling, data analysis, and communication. Example use: A marketer uses GPT Workspace to quickly generate and personalize mass emails, ensuring clarity and professionalism.",
+  "pros": [
+    "Seamless integration with Google Workspace",
+    "No registration or credit card required for trial",
+    "Supports multiple languages for global use"
+  ],
+  "cons": [
+    "Limited to Google Workspace applications",
+    "May not offer advanced customization",
+    "Potential privacy concerns with AI-generated content"
+  ],
+  "alternatives": [
+    "Microsoft Power Automate [powerautomate.microsoft.com]",
+    "Zapier [zapier.com]",
+    "IFTTT [ifttt.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Zapier",
+      "url": "zapier.com",
+      "reason": "Offers wider app integration"
+    },
+    {
+      "name": "Microsoft Power Automate",
+      "url": "powerautomate.microsoft.com",
+      "reason": "Deep integration with Office 365"
+    },
+    {
+      "name": "IFTTT",
+      "url": "ifttt.com",
+      "reason": "Simple automation for everyday tasks"
+    }
+  ],
+  "tags": [
+    "AI",
+    "productivity",
+    "Google Workspace",
+    "automation"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Automation",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://gpt.space/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=gpt%20workspace&type=repositories",
+  "twitterUrl": "https://twitter.com/GPTWorkspace",
+  "screenshot": "https://share.appsfor.us/screenshots/gpt_space.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gpt_space_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gpt_space_400.png",
+  "updatedAt": "2025-08-03T01:20:01.261Z"
+}
