@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://coolify.io/",
+  "name": "Coolify",
+  "title": "coolify.io",
+  "payoff": "Self-hosting with superpowers.",
+  "shortDescription": "Coolify is an open-source platform designed as an alternative to Heroku, Netlify, and Vercel, enabling developers to deploy a variety of applications including static sites, databases, and services. It supports deployment to multiple server types via SSH, including personal servers and major cloud providers. Coolify integrates with Git, automates SSL certificate renewal, and offers extensive deployment automation capabilities, making it ideal for developers seeking control over their infrastructure.",
+  "pros": [
+    "Supports a wide range of programming languages and frameworks",
+    "Automates SSL certificate management and server tasks",
+    "Offers extensive Git and CI/CD integrations"
+  ],
+  "cons": [
+    "Kubernetes support is still pending",
+    "May require technical knowledge to setup and manage",
+    "Limited to Docker-compatible services"
+  ],
+  "alternatives": [
+    "Heroku [heroku.com]",
+    "Netlify [netlify.com]",
+    "Vercel [vercel.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Heroku",
+      "url": "heroku.com",
+      "reason": "Popular PaaS with similar deployment features."
+    },
+    {
+      "name": "Netlify",
+      "url": "netlify.com",
+      "reason": "Focuses on frontend projects and JAMstack."
+    },
+    {
+      "name": "Vercel",
+      "url": "vercel.com",
+      "reason": "Optimized for frontend frameworks like Next.js."
+    }
+  ],
+  "tags": [
+    "self-hosting",
+    "open source",
+    "deployment",
+    "automation"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Backend Services",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://coolify.io/",
+  "documentationUrl": "https://coolify.io/documentation",
+  "githubUrl": "https://github.com/sponsors/coollabsio",
+  "twitterUrl": "https://x.com/mrsmith9ja?utm_source=coolify.io",
+  "screenshot": "https://share.appsfor.us/screenshots/coolify_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/coolify_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/coolify_io_400.png",
+  "updatedAt": "2025-08-04T03:53:16.560Z"
+}

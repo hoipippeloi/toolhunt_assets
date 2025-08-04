@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://stagewise.io/",
+  "name": "stagewise",
+  "title": "stagewise.io",
+  "payoff": "Enhance frontend coding effortlessly",
+  "shortDescription": "stagewise is a frontend coding tool that operates within your browser, enhancing the development of app frontends through an intuitive interface. It allows developers to select elements and make changes directly, catering to both seasoned engineers and newcomers. Ideal for rapidly iterating on design and code, stagewise integrates with major frameworks like React and Vue, making it a versatile choice for diverse development environments.",
+  "pros": [
+    "Contextually aware AI suggestions",
+    "Seamless integration with major web frameworks",
+    "Real-time editing and instant feedback"
+  ],
+  "cons": [
+    "Limited to frontend development",
+    "May not support all minor frameworks",
+    "Dependent on browser performance"
+  ],
+  "alternatives": [
+    "Webflow [webflow.com]",
+    "Framer [framer.com]",
+    "Bubble [bubble.io]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers visual building with more design control"
+    },
+    {
+      "name": "Framer",
+      "url": "framer.com",
+      "reason": "Focuses on interactive design and prototyping"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Enables no-code web app development"
+    }
+  ],
+  "tags": [
+    "frontend development",
+    "AI integration",
+    "real-time editing",
+    "web frameworks"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://stagewise.io/",
+  "documentationUrl": "https://stagewise.io/docs",
+  "githubUrl": "https://github.com/stagewise-io/stagewise",
+  "twitterUrl": "https://x.com/stagewise_io",
+  "screenshot": "https://share.appsfor.us/screenshots/stagewise_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/stagewise_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/stagewise_io_400.png",
+  "updatedAt": "2025-08-04T03:53:51.180Z"
+}

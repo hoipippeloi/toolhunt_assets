@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://beamanalytics.io/",
+  "name": "Beam Analytics",
+  "title": "beamanalytics.io",
+  "payoff": "Generous free tier analytics",
+  "shortDescription": "Beam Analytics offers a privacy-focused, GDPR compliant alternative to Google Analytics. It's designed for businesses and developers who need detailed insights without complex integrations. Simply paste a code snippet to start tracking web traffic, user behavior, and custom events. Ideal for those prioritizing data privacy and affordability in web analytics.",
+  "pros": [
+    "Generous free tier up to 100k pageviews",
+    "Easy integration with a single code snippet",
+    "Privacy-focused and compliant with GDPR, CCPA"
+  ],
+  "cons": [
+    "Limited customization options",
+    "No advanced machine learning features",
+    "May not scale well for very large enterprises"
+  ],
+  "alternatives": [
+    "Matomo [matomo.org]",
+    "Plausible Analytics [plausible.io]",
+    "Fathom Analytics [usefathom.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Matomo",
+      "url": "matomo.org",
+      "reason": "Open-source, privacy-focused analytics"
+    },
+    {
+      "name": "Plausible Analytics",
+      "url": "plausible.io",
+      "reason": "Lightweight and open-source alternative"
+    },
+    {
+      "name": "Fathom Analytics",
+      "url": "usefathom.com",
+      "reason": "Simple, privacy-first analytics tool"
+    }
+  ],
+  "tags": [
+    "web analytics",
+    "GDPR compliance",
+    "user behavior tracking",
+    "privacy-preserving"
+  ],
+  "apiUsed": false,
+  "department": "Data & Analytics",
+  "function": "Site Analytics",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://beamanalytics.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=beam%20analytics&type=repositories",
+  "twitterUrl": "https://twitter.com/BeamAnalyticsIO",
+  "screenshot": "https://share.appsfor.us/screenshots/beamanalytics_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/beamanalytics_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/beamanalytics_io_400.png",
+  "updatedAt": "2025-08-04T03:51:57.539Z"
+}

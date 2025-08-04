@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://evervault.com/",
+  "name": "Evervault",
+  "title": "evervault.com",
+  "payoff": "Flexible Payments Security",
+  "shortDescription": "Evervault offers a robust solution for businesses seeking secure and flexible payment processing capabilities. It allows companies to tokenize cards, comply with PCI standards, and avoid gateway lock-in, enhancing both security and operational efficiency. Ideal for entities like booking aggregators, Evervault enables compliant sharing of card data with third parties, optimizing payment costs and acceptance rates through selective routing.",
+  "pros": [
+    "Highly flexible and compliant payment solutions",
+    "Developer-friendly with SDKs and REST API",
+    "Supports multiple payment processors and gateways"
+  ],
+  "cons": [
+    "May require technical expertise to integrate",
+    "Focused mainly on payment security, less on other areas",
+    "Potential dependency on third-party gateways"
+  ],
+  "alternatives": [
+    "Stripe [stripe.com]",
+    "Braintree [braintreepayments.com]",
+    "Adyen [adyen.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Stripe",
+      "url": "stripe.com",
+      "reason": "Offers extensive payment APIs and tools"
+    },
+    {
+      "name": "Braintree",
+      "url": "braintreepayments.com",
+      "reason": "Provides comprehensive payment solutions"
+    },
+    {
+      "name": "Adyen",
+      "url": "adyen.com",
+      "reason": "Global payment company with broad features"
+    }
+  ],
+  "tags": [
+    "payment security",
+    "PCI compliance",
+    "tokenization",
+    "encryption"
+  ],
+  "apiUsed": true,
+  "department": "Finance & Accounting",
+  "function": "Security",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2019,
+  "websiteUrl": "https://evervault.com/",
+  "documentationUrl": "https://evervault.com/docs",
+  "githubUrl": "https://github.com/search?q=evervault&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/evervault_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/evervault_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/evervault_com_400.png",
+  "updatedAt": "2025-08-04T03:52:28.518Z"
+}

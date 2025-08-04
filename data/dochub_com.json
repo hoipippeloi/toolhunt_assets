@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://dochub.com/",
+  "name": "DocHub",
+  "title": "dochub.com",
+  "payoff": "Simplify your document workflows",
+  "shortDescription": "DocHub is a versatile online tool designed for editing, signing, and sharing PDFs effortlessly. It caters to individuals and organizations looking to streamline document management without the need for physical paperwork. For example, a business can use DocHub to create fillable forms, collect data, and get documents signed electronically, enhancing efficiency and reducing turnaround times.",
+  "pros": [
+    "Intuitive PDF editing and e-signature features",
+    "Seamless integration with Google Workspace",
+    "Robust security measures including encryption and audit trails"
+  ],
+  "cons": [
+    "Limited customization options for advanced users",
+    "Dependence on internet connectivity",
+    "Potential privacy concerns with cloud-based storage"
+  ],
+  "alternatives": [
+    "Adobe Acrobat [adobe.com]",
+    "HelloSign [hellosign.com]",
+    "PDFfiller [pdffiller.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Acrobat",
+      "url": "adobe.com",
+      "reason": "Comprehensive PDF tool with advanced features"
+    },
+    {
+      "name": "HelloSign",
+      "url": "hellosign.com",
+      "reason": "Strong focus on e-signatures and integration"
+    },
+    {
+      "name": "PDFfiller",
+      "url": "pdffiller.com",
+      "reason": "Offers similar PDF editing and form tools"
+    }
+  ],
+  "tags": [
+    "document management",
+    "e-signatures",
+    "PDF editing",
+    "data collection"
+  ],
+  "apiUsed": true,
+  "department": "Legal & Compliance",
+  "function": "Documents",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2014,
+  "websiteUrl": "https://dochub.com/",
+  "documentationUrl": "https://support.dochub.com/hc/en-us",
+  "githubUrl": "https://github.com/search?q=dochub&type=repositories",
+  "twitterUrl": "https://twitter.com/dochub",
+  "screenshot": "https://share.appsfor.us/screenshots/dochub_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/dochub_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/dochub_com_400.png",
+  "updatedAt": "2025-08-04T03:52:52.578Z"
+}
