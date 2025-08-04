@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://pieces.app/",
+  "name": "Pieces",
+  "title": "pieces.app",
+  "payoff": "Long term memory for developers",
+  "shortDescription": "Pieces is designed to enhance the productivity of developers by automatically saving their work-related activities. It integrates seamlessly across various applications, capturing every code snippet, document, and chat without interrupting the workflow. Users can easily retrieve their work context, making it simpler to resume tasks. Ideal for developers who multitask across multiple platforms and need a reliable way to manage their work memories.",
+  "pros": [
+    "Automatically captures and saves work activities",
+    "Seamless integration with multiple applications",
+    "Secure and private, with optional cloud storage"
+  ],
+  "cons": [
+    "May have a learning curve for non-technical users",
+    "Dependent on device capabilities",
+    "Limited to developer-focused environments"
+  ],
+  "alternatives": [
+    "Evernote [evernote.com]",
+    "Notion [notion.so]",
+    "Roam Research [roamresearch.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Evernote",
+      "url": "evernote.com",
+      "reason": "Note-taking with rich media support"
+    },
+    {
+      "name": "Notion",
+      "url": "notion.so",
+      "reason": "Flexible workspace with embedded databases"
+    },
+    {
+      "name": "Roam Research",
+      "url": "roamresearch.com",
+      "reason": "Bi-directional linking for complex notes"
+    }
+  ],
+  "tags": [
+    "productivity",
+    "memory management",
+    "developer tools",
+    "data privacy"
+  ],
+  "apiUsed": false,
+  "department": "Research & Development",
+  "function": "Notes",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://pieces.app/",
+  "documentationUrl": "https://docs.pieces.app/products/meet-pieces/macos-installation-guide",
+  "githubUrl": "https://github.com/search?q=pieces&type=repositories",
+  "twitterUrl": "https://x.com/datadelaurier/status/1921299307996574130?s=46",
+  "screenshot": "https://share.appsfor.us/screenshots/pieces_app.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/pieces_app_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/pieces_app_400.png",
+  "updatedAt": "2025-08-04T01:18:03.712Z"
+}

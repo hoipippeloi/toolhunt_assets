@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://voicetype.io/",
+  "name": "VoiceType",
+  "title": "voicetype.io",
+  "payoff": "Write emails from short voice prompts",
+  "shortDescription": "VoiceType is a revolutionary tool designed to transform short voice prompts into full-fledged emails, catering to professionals who need to manage communications efficiently. Simply speak a few words about your intended message, and VoiceType crafts a complete email instantly. Ideal for busy professionals, this tool exemplifies how AI can streamline daily tasks like emailing clients or colleagues.",
+  "pros": [
+    "Instant email composition from voice prompts",
+    "No need for transcription or dictation",
+    "AI-powered contextual understanding"
+  ],
+  "cons": [
+    "Dependent on voice recognition accuracy",
+    "May not handle complex instructions well",
+    "Limited to email writing"
+  ],
+  "alternatives": [
+    "Dragon NaturallySpeaking [nuance.com]",
+    "Google Voice Typing [google.com]",
+    "Microsoft Dictate [microsoft.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Dragon NaturallySpeaking",
+      "url": "nuance.com",
+      "reason": "Advanced voice-to-text capabilities"
+    },
+    {
+      "name": "Google Voice Typing",
+      "url": "google.com",
+      "reason": "Integrated with Google Docs"
+    },
+    {
+      "name": "Microsoft Dictate",
+      "url": "microsoft.com",
+      "reason": "Seamless integration with Office apps"
+    }
+  ],
+  "tags": [
+    "AI",
+    "email tools",
+    "voice recognition",
+    "productivity"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "Email Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://voicetype.io/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=voicetype&type=repositories",
+  "twitterUrl": "https://twitter.com/VoiceTypeIO",
+  "screenshot": "https://share.appsfor.us/screenshots/voicetype_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/voicetype_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/voicetype_io_400.png",
+  "updatedAt": "2025-08-04T01:19:42.968Z"
+}

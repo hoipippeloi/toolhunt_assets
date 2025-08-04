@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://llamacoder.together.ai/",
+  "name": "Llama Coder",
+  "title": "llamacoder.together.ai",
+  "payoff": "Turn your idea into an app",
+  "shortDescription": "Llama Coder is an AI-driven code generator designed to help developers and non-developers alike transform their ideas into functional applications quickly. It simplifies the app development process by providing a user-friendly interface and AI-powered tools. An example use case is a startup wanting to prototype an app without extensive coding knowledge.",
+  "pros": [
+    "AI-driven code generation",
+    "User-friendly interface",
+    "Rapid prototyping capabilities"
+  ],
+  "cons": [
+    "Limited customization options",
+    "May not handle complex app requirements",
+    "Dependent on AI accuracy"
+  ],
+  "alternatives": [
+    "Retool [retool.com]",
+    "Bubble [bubble.io]",
+    "AppGyver [appgyver.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Retool",
+      "url": "retool.com",
+      "reason": "Offers visual programming for apps"
+    },
+    {
+      "name": "Bubble",
+      "url": "bubble.io",
+      "reason": "Allows building without code"
+    },
+    {
+      "name": "AppGyver",
+      "url": "appgyver.com",
+      "reason": "Focuses on low-code app creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "code generation",
+    "app development",
+    "prototyping"
+  ],
+  "apiUsed": true,
+  "department": "Development",
+  "function": "Code-Free",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://llamacoder.together.ai/",
+  "documentationUrl": "https://llamacoder.together.ai/docs",
+  "githubUrl": "https://github.com/nutlope/llamacoder",
+  "twitterUrl": "https://twitter.com/nutlope",
+  "screenshot": "https://share.appsfor.us/screenshots/llamacoder_together_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/llamacoder_together_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/llamacoder_together_ai_400.png",
+  "updatedAt": "2025-08-04T01:16:52.233Z"
+}

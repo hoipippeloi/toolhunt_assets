@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://layerpath.com/",
+  "name": "Layerpath",
+  "title": "layerpath.com",
+  "payoff": "Turn Clicks into Sales Signals",
+  "shortDescription": "Layerpath enhances the way businesses create interactive product demos. It's designed for revenue professionals and marketing teams looking to convert clicks into sales. Users can quickly generate product walkthroughs, engage customers with automated voiceovers, and utilize a brand kit for consistent branding. An example use case is a tech startup using Layerpath to demonstrate software features to potential clients, thereby increasing lead conversion.",
+  "pros": [
+    "Automates creation of product walkthroughs",
+    "Features like automated voiceovers and brand kits",
+    "Focuses on converting interactions to sales opportunities"
+  ],
+  "cons": [
+    "May require initial setup time",
+    "Potentially limited customization options",
+    "Dependent on web-based interface"
+  ],
+  "alternatives": [
+    "WalkMe [walkme.com]",
+    "Pendo [pendo.io]",
+    "Appcues [appcues.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "WalkMe",
+      "url": "walkme.com",
+      "reason": "Offers extensive user guidance features"
+    },
+    {
+      "name": "Pendo",
+      "url": "pendo.io",
+      "reason": "Provides in-depth analytics and user insights"
+    },
+    {
+      "name": "Appcues",
+      "url": "appcues.com",
+      "reason": "Focus on in-app onboarding and user flows"
+    }
+  ],
+  "tags": [
+    "product demos",
+    "user engagement",
+    "sales tools",
+    "marketing"
+  ],
+  "apiUsed": false,
+  "department": "Sales",
+  "function": "User Engagement",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://layerpath.com/",
+  "documentationUrl": "https://docs.layerpath.com/en",
+  "githubUrl": "https://github.com/search?q=layerpath&type=repositories",
+  "twitterUrl": "https://x.com/layerpath",
+  "screenshot": "https://share.appsfor.us/screenshots/layerpath_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/layerpath_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/layerpath_com_400.png",
+  "updatedAt": "2025-08-04T01:18:32.368Z"
+}
