@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://oxide.computer/",
+  "name": "Oxide Computer Company",
+  "title": "oxide.computer",
+  "payoff": "The cloud you own",
+  "shortDescription": "Oxide Computer Company revolutionizes on-premises cloud computing by integrating cloud software with rack-level hardware. Designed for businesses requiring robust on-prem solutions, it offers a self-service environment that accelerates developer velocity and provides elastic compute and storage. Ideal for companies facing slow provisioning and high licensing costs, Oxide enables rapid deployment and efficient scaling, making it perfect for starting new projects swiftly.",
+  "pros": [
+    "55% more power efficient with better cooling",
+    "Zero licenses or subscriptions required",
+    "Unboxed to provisioning in two hours"
+  ],
+  "cons": [
+    "Limited to on-premises deployment",
+    "Requires initial physical setup",
+    "May not suit small-scale needs"
+  ],
+  "alternatives": [
+    "AWS Outposts [aws.amazon.com/outposts]",
+    "Azure Stack [azure.microsoft.com/en-us/overview/azure-stack]",
+    "Google Anthos [cloud.google.com/anthos]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "AWS Outposts",
+      "url": "aws.amazon.com/outposts",
+      "reason": "Offers similar on-prem cloud solutions"
+    },
+    {
+      "name": "Azure Stack",
+      "url": "azure.microsoft.com/en-us/overview/azure-stack",
+      "reason": "Hybrid cloud platform from Microsoft"
+    },
+    {
+      "name": "Google Anthos",
+      "url": "cloud.google.com/anthos",
+      "reason": "Hybrid and multi-cloud platform"
+    }
+  ],
+  "tags": [
+    "cloud computing",
+    "data center",
+    "hardware",
+    "software integration"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Cloud Platform",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://oxide.computer/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/oxidecomputer",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/oxide_computer.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/oxide_computer_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/oxide_computer_400.png",
+  "updatedAt": "2025-08-05T03:46:05.841Z"
+}

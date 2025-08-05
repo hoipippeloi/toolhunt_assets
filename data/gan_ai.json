@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://gan.ai/",
+  "name": "Gan.AI",
+  "title": "gan.ai",
+  "payoff": "Create AI Videos Instantly",
+  "shortDescription": "Gan.AI enables rapid creation of AI-generated videos tailored for businesses. Users can type a script, choose an avatar, and instantly produce videos with synchronized lip-sync and voice cloning. Ideal for marketing and customer engagement, it's used by Fortune 500 companies to create personalized video content at scale, such as the San Antonio Spurs for fan engagement.",
+  "pros": [
+    "Quick AI-driven video creation",
+    "High customization of avatars and voices",
+    "Scalable video personalization for enterprises"
+  ],
+  "cons": [
+    "May require creative input for scripts",
+    "Dependent on AI accuracy for voice cloning",
+    "Potential privacy concerns with voice cloning"
+  ],
+  "alternatives": [
+    "Synthesia [synthesia.io]",
+    "Descript [descript.com]",
+    "Lumen5 [lumen5.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Synthesia",
+      "url": "synthesia.io",
+      "reason": "Offers AI video creation with avatars"
+    },
+    {
+      "name": "Descript",
+      "url": "descript.com",
+      "reason": "Combines video editing and AI tools"
+    },
+    {
+      "name": "Lumen5",
+      "url": "lumen5.com",
+      "reason": "Focuses on automated video creation"
+    }
+  ],
+  "tags": [
+    "AI",
+    "video creation",
+    "personalization",
+    "marketing"
+  ],
+  "apiUsed": true,
+  "department": "Marketing",
+  "function": "AI & ML",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://gan.ai/",
+  "documentationUrl": "https://gan.ai/docs",
+  "githubUrl": "https://github.com/search?q=gan%20ai&type=repositories",
+  "twitterUrl": "https://x.com/ganaiofficial?lang=en",
+  "screenshot": "https://share.appsfor.us/screenshots/gan_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/gan_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/gan_ai_400.png",
+  "updatedAt": "2025-08-05T03:43:55.049Z"
+}

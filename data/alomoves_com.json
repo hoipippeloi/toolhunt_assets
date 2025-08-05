@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://alomoves.com/",
+  "name": "Alo Moves",
+  "title": "alomoves.com",
+  "payoff": "Your At-Home Studio",
+  "shortDescription": "Alo Moves provides a comprehensive platform for wellness and fitness, offering a variety of classes including yoga, Pilates, HIIT, and meditation. Designed for individuals seeking to improve their physical and mental health, the service allows users to experience world-class instruction from the comfort of their home. Users can start with a free month for college students, making it accessible for a younger audience.",
+  "pros": [
+    "Wide variety of fitness classes",
+    "Accessible from home",
+    "Special discounts for students"
+  ],
+  "cons": [
+    "Requires internet connection",
+    "Subscription-based model",
+    "Limited to wellness and fitness"
+  ],
+  "alternatives": [
+    "Daily Burn [dailyburn.com]",
+    "Fitness Blender [fitnessblender.com]",
+    "Peloton [onepeloton.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Daily Burn",
+      "url": "dailyburn.com",
+      "reason": "Offers a variety of fitness classes online."
+    },
+    {
+      "name": "Fitness Blender",
+      "url": "fitnessblender.com",
+      "reason": "Free fitness videos with optional plans."
+    },
+    {
+      "name": "Peloton",
+      "url": "onepeloton.com",
+      "reason": "High-end fitness classes with equipment."
+    }
+  ],
+  "tags": [
+    "E-Learning",
+    "Fitness",
+    "Wellness",
+    "Subscription"
+  ],
+  "apiUsed": false,
+  "department": "Personal",
+  "function": "E-Learning",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2017,
+  "websiteUrl": "https://alomoves.com/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=alo%20moves&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/alomoves_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/alomoves_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/alomoves_com_400.png",
+  "updatedAt": "2025-08-05T03:44:28.646Z"
+}

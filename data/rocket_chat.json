@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rocket.chat/",
+  "name": "Rocket.Chat",
+  "title": "rocket.chat",
+  "payoff": "Secure CommsOS™ for critical operations",
+  "shortDescription": "Rocket.Chat is a communication platform designed for mission-critical operations, ensuring secure and reliable messaging, voice, and video communications. It is tailored for high-stakes environments such as government agencies, military operations, and other organizations requiring stringent security measures. Example use case includes deploying in air-gapped environments for military communications.",
+  "pros": [
+    "Supports high-security environments",
+    "Fully encrypted conversations",
+    "Adaptable to unique workflows"
+  ],
+  "cons": [
+    "Complex setup for maximum security",
+    "May require significant IT resources",
+    "Limited public pricing information"
+  ],
+  "alternatives": [
+    "Slack [slack.com]",
+    "Microsoft Teams [microsoft.com/en-us/microsoft-teams/group-chat-software]",
+    "Discord [discord.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Slack",
+      "url": "slack.com",
+      "reason": "Popular for diverse integrations"
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "reason": "Integrated with Office 365"
+    },
+    {
+      "name": "Discord",
+      "url": "discord.com",
+      "reason": "Favored for community building"
+    }
+  ],
+  "tags": [
+    "communication",
+    "secure messaging",
+    "collaboration",
+    "high-security"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2015,
+  "websiteUrl": "https://rocket.chat/",
+  "documentationUrl": "https://docs.rocket.chat/",
+  "githubUrl": "https://github.com/rocketchat/",
+  "twitterUrl": "https://twitter.com/RocketChat",
+  "screenshot": "https://share.appsfor.us/screenshots/rocket_chat.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/rocket_chat_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/rocket_chat_400.png",
+  "updatedAt": "2025-08-05T03:44:51.847Z"
+}

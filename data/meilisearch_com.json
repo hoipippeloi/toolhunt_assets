@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://meilisearch.com/",
+  "name": "Meilisearch",
+  "title": "meilisearch.com",
+  "payoff": "AI-powered search engine",
+  "shortDescription": "Meilisearch is an open-source, AI-enhanced search engine designed for quick integration into websites and applications. It offers lightning-fast search capabilities with responses in less than 50 milliseconds, making it ideal for developers and businesses aiming to improve user experience with efficient search functionalities. Example use case includes integrating Meilisearch into e-commerce platforms to enhance product search capabilities.",
+  "pros": [
+    "Lightning-fast search responses",
+    "Easy to integrate with existing systems",
+    "Open-source with a strong community support"
+  ],
+  "cons": [
+    "May require technical knowledge to deploy",
+    "Limited enterprise support compared to larger providers",
+    "Dependent on community contributions for improvements"
+  ],
+  "alternatives": [
+    "Elasticsearch [elastic.co]",
+    "Algolia [algolia.com]",
+    "Apache Solr [lucene.apache.org/solr/]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Elasticsearch",
+      "url": "elastic.co",
+      "reason": "Popular for scalable search solutions"
+    },
+    {
+      "name": "Algolia",
+      "url": "algolia.com",
+      "reason": "Offers hosted search APIs with analytics"
+    },
+    {
+      "name": "Apache Solr",
+      "url": "lucene.apache.org/solr/",
+      "reason": "Good for enterprise-level search needs"
+    }
+  ],
+  "tags": [
+    "search engine",
+    "AI",
+    "open source",
+    "data retrieval"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Search",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2018,
+  "websiteUrl": "https://meilisearch.com/",
+  "documentationUrl": "https://docs.meilisearch.com/",
+  "githubUrl": "https://github.com/meilisearch/meilisearch",
+  "twitterUrl": "https://twitter.com/meilisearch/",
+  "screenshot": "https://share.appsfor.us/screenshots/meilisearch_com.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/meilisearch_com_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/meilisearch_com_400.png",
+  "updatedAt": "2025-08-05T03:45:22.710Z"
+}

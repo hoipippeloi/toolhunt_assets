@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://neotoday.ai/",
+  "name": "Norton Neo",
+  "title": "neotoday.ai",
+  "payoff": "Your AI browser companion",
+  "shortDescription": "Norton Neo revolutionizes browsing by integrating AI directly into your web experience. Designed for digital professionals and everyday users alike, it offers a seamless way to navigate, search, and manage tabs without clutter. Imagine designing a website and having an AI assist you with code, design suggestions, and instant previews, all within the same browser window.",
+  "pros": [
+    "Integrated AI for enhanced browsing",
+    "Tab management reduces clutter",
+    "Built-in ad blocker for a cleaner experience"
+  ],
+  "cons": [
+    "Potential privacy concerns with AI integration",
+    "May be resource-intensive on some devices",
+    "Limited browser compatibility"
+  ],
+  "alternatives": [
+    "Brave Browser [brave.com]",
+    "Vivaldi [vivaldi.com]",
+    "Opera [opera.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Brave Browser",
+      "url": "brave.com",
+      "reason": "Focuses on privacy and ad-blocking"
+    },
+    {
+      "name": "Vivaldi",
+      "url": "vivaldi.com",
+      "reason": "Customizable user interface"
+    },
+    {
+      "name": "Opera",
+      "url": "opera.com",
+      "reason": "Integrated social media and VPN"
+    }
+  ],
+  "tags": [
+    "AI",
+    "browser",
+    "productivity",
+    "ad blocking"
+  ],
+  "apiUsed": false,
+  "department": "Information Technology",
+  "function": "Browsers",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2025,
+  "websiteUrl": "https://neotoday.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=norton%20neo&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/neotoday_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/neotoday_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/neotoday_ai_400.png",
+  "updatedAt": "2025-08-05T03:45:44.722Z"
+}
