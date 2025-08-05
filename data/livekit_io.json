@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://livekit.io/",
+  "name": "LiveKit",
+  "title": "livekit.io",
+  "payoff": "Voice AI platform for real-time agents",
+  "shortDescription": "LiveKit offers a robust platform for building, deploying, and scaling real-time voice agents. It is designed for both startups and large enterprises, providing an open-source, enterprise-grade solution. Users can integrate seamlessly with telephony systems and manage global communications with low latency. Example use case includes deploying voice agents for customer support in a multinational corporation.",
+  "pros": [
+    "Open source and enterprise-grade",
+    "Seamless integration with telephony systems",
+    "Scalable infrastructure with predictable costs"
+  ],
+  "cons": [
+    "May require technical expertise to deploy",
+    "Limited information on direct customer support",
+    "Potential complexity in initial setup for less tech-savvy users"
+  ],
+  "alternatives": [
+    "Twilio [twilio.com]",
+    "Dialogflow [dialogflow.com]",
+    "Vonage [vonage.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Twilio",
+      "url": "twilio.com",
+      "reason": "Offers comprehensive voice and SMS services"
+    },
+    {
+      "name": "Dialogflow",
+      "url": "dialogflow.com",
+      "reason": "Focuses on AI-driven chatbot interfaces"
+    },
+    {
+      "name": "Vonage",
+      "url": "vonage.com",
+      "reason": "Provides APIs for messaging, voice, and video"
+    }
+  ],
+  "tags": [
+    "Voice AI",
+    "Real-time communication",
+    "Open source",
+    "Scalability"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Chat & Calls",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://livekit.io/",
+  "documentationUrl": "https://livekit.io/docs",
+  "githubUrl": "https://github.com/livekit",
+  "twitterUrl": "https://twitter.com/livekit",
+  "screenshot": "https://share.appsfor.us/screenshots/livekit_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/livekit_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/livekit_io_400.png",
+  "updatedAt": "2025-08-05T01:13:05.093Z"
+}

@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://superflex.ai/",
+  "name": "Superflex",
+  "title": "superflex.ai",
+  "payoff": "Turn Figma to Code in Seconds",
+  "shortDescription": "Superflex streamlines the process of converting Figma designs into front-end code, catering to developers who frequently work with UI components. By directly integrating with Figma, the tool analyzes existing codebases to utilize UI components and adapt to the developer's coding style. This is ideal for developers looking to reduce time spent on manually coding UI elements from design files.",
+  "pros": [
+    "Direct integration with Figma",
+    "Utilizes existing UI components",
+    "Adapts to personal coding style"
+  ],
+  "cons": [
+    "Limited to front-end code generation",
+    "May require initial setup for component analysis",
+    "Dependent on the quality of Figma designs"
+  ],
+  "alternatives": [
+    "Anima [animaapp.com]",
+    "Builder.io [builder.io]",
+    "Webflow [webflow.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Anima",
+      "url": "animaapp.com",
+      "reason": "Converts design to code; supports multiple platforms."
+    },
+    {
+      "name": "Builder.io",
+      "url": "builder.io",
+      "reason": "Visual site building with dynamic binding to code."
+    },
+    {
+      "name": "Webflow",
+      "url": "webflow.com",
+      "reason": "Offers visual building and hosting solutions."
+    }
+  ],
+  "tags": [
+    "Figma",
+    "Front-end Development",
+    "Code Generation",
+    "AI"
+  ],
+  "apiUsed": false,
+  "department": "Development",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": true,
+  "releasedYear": 2021,
+  "websiteUrl": "https://superflex.ai/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/aquila-lab/superflex-vscode",
+  "twitterUrl": "https://x.com/superflex_ai",
+  "screenshot": "https://share.appsfor.us/screenshots/superflex_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/superflex_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/superflex_ai_400.png",
+  "updatedAt": "2025-08-05T01:12:38.019Z"
+}

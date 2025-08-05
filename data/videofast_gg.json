@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://videofast.gg/",
+  "name": "VideoFast",
+  "title": "videofast.gg",
+  "payoff": "Edit videos easily online",
+  "shortDescription": "VideoFast is an online video editing tool designed for users with no prior video editing experience. It simplifies the video production process, allowing users to create high-quality videos effortlessly. Users can add text, animations, and media from extensive libraries like Pexels and GIPHY, or upload their own. Ideal for marketers, educators, and content creators who need quick video edits without a steep learning curve.",
+  "pros": [
+    "User-friendly interface",
+    "Extensive media libraries",
+    "No prior editing experience required"
+  ],
+  "cons": [
+    "Limited advanced editing features",
+    "Dependent on internet connection",
+    "Potential privacy concerns with cloud-based editing"
+  ],
+  "alternatives": [
+    "Adobe Premiere Pro [adobe.com]",
+    "Final Cut Pro [apple.com]",
+    "Camtasia [techsmith.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Adobe Premiere Rush",
+      "url": "adobe.com",
+      "reason": "Offers mobile & desktop editing"
+    },
+    {
+      "name": "iMovie",
+      "url": "apple.com",
+      "reason": "Simple, free for iOS and macOS"
+    },
+    {
+      "name": "WeVideo",
+      "url": "wevideo.com",
+      "reason": "Cloud-based, collaborative features"
+    }
+  ],
+  "tags": [
+    "video editing",
+    "content creation",
+    "SaaS",
+    "multimedia"
+  ],
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": true,
+  "openSource": false,
+  "releasedYear": 2020,
+  "websiteUrl": "https://videofast.gg/",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=videofast&type=repositories",
+  "twitterUrl": "https://twitter.com/videofastgg",
+  "screenshot": "https://share.appsfor.us/screenshots/videofast_gg.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/videofast_gg_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/videofast_gg_400.png",
+  "updatedAt": "2025-08-05T01:14:12.794Z"
+}

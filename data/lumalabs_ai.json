@@ -1,59 +1,59 @@
 {
-  "sourceUrl": "https://lumalabs.ai/",
-  "name": "Luma AI",
-  "title": "lumalabs.ai",
-  "payoff": "AI Video Generation with Ray2",
-  "shortDescription": "Luma AI specializes in advanced AI-driven video and image generation, targeting creative professionals across various industries like media, entertainment, and advertising. Utilizing models like Ray2 and Dream Machine, users can create high-quality videos with precise control over camera motion and seamless transitions. An example use case includes filmmakers using Ray2 for generating realistic scenes quickly and cost-effectively.",
+  "sourceUrl": "https://lumalabs.ai/flythroughs",
+  "name": "Flythroughs",
+  "title": "lumalabs.ai/flythroughs",
+  "payoff": "Elevate listings with AI-powered Flythroughs",
+  "shortDescription": "Flythroughs by Luma AI allows users to create professional 3D flythrough videos using just an iPhone. This tool is designed for real estate agents, interior designers, and anyone looking to showcase their space effectively. Users can record a simple video and transform it into a cinematic experience, showcasing their listings in a compelling and immersive way.",
   "pros": [
-    "High-quality video generation",
-    "Efficient multimodal learning",
-    "Accessible via web and iOS"
+    "AI-driven enhancements from simple videos",
+    "No need for expensive or specialized equipment",
+    "Intuitive app interface simplifies creation"
   ],
   "cons": [
-    "Limited free tier options",
-    "Complex for beginners",
-    "High dependency on AI technology"
+    "Dependent on the quality of initial video recording",
+    "May require good lighting conditions to work best",
+    "Limited to mobile device capabilities"
   ],
   "alternatives": [
-    "Adobe Premiere Pro [adobe.com]",
-    "Final Cut Pro [apple.com]",
-    "DaVinci Resolve [blackmagicdesign.com]"
+    "Matterport [matterport.com]",
+    "Zillow 3D Home [zillow.com]",
+    "iStaging [istaging.com]"
   ],
   "aiSuggestedAlternatives": [
     {
-      "name": "Adobe Premiere Pro",
-      "url": "adobe.com",
-      "reason": "Industry standard in video editing"
+      "name": "Matterport",
+      "url": "matterport.com",
+      "reason": "Offers comprehensive 3D capture and virtual tours"
     },
     {
-      "name": "Final Cut Pro",
-      "url": "apple.com",
-      "reason": "Popular for Mac users, high performance"
+      "name": "Zillow 3D Home",
+      "url": "zillow.com",
+      "reason": "Integrates 3D home tours into listing platform"
     },
     {
-      "name": "DaVinci Resolve",
-      "url": "blackmagicdesign.com",
-      "reason": "Strong in color correction and audio"
+      "name": "iStaging",
+      "url": "istaging.com",
+      "reason": "Provides virtual staging and 3D tour capabilities"
     }
   ],
   "tags": [
     "AI",
-    "video generation",
-    "multimodal intelligence",
-    "creative tools"
+    "Real Estate",
+    "Video Editing",
+    "3D Modeling"
   ],
-  "apiUsed": true,
-  "department": "Creative",
-  "function": "AI & ML",
-  "freeTier": true,
+  "apiUsed": false,
+  "department": "Marketing",
+  "function": "Design Tools",
+  "freeTier": false,
   "openSource": false,
   "releasedYear": 2021,
-  "websiteUrl": "https://lumalabs.ai/",
-  "documentationUrl": "https://lumalabs.ai/docs",
-  "githubUrl": "https://github.com/search?q=luma%20ai&type=repositories",
-  "twitterUrl": "https://x.com/LumaLabsAI",
-  "screenshot": "/screenshots/lumalabs_ai.png",
-  "screenshot_640": "/screenshots/lumalabs_ai_640.png",
-  "screenshot_400": "/screenshots/lumalabs_ai_400.png",
-  "updatedAt": "2025-06-02T03:07:45.842Z"
+  "websiteUrl": "https://lumalabs.ai/flythroughs",
+  "documentationUrl": null,
+  "githubUrl": "https://github.com/search?q=flythroughs&type=repositories",
+  "twitterUrl": null,
+  "screenshot": "https://share.appsfor.us/screenshots/lumalabs_ai.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/lumalabs_ai_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/lumalabs_ai_400.png",
+  "updatedAt": "2025-08-05T01:14:43.098Z"
 }

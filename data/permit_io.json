@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://permit.io/",
+  "name": "Permit.io",
+  "title": "permit.io",
+  "payoff": "Zero-latency fine-grained authorization",
+  "shortDescription": "Permit.io offers a comprehensive authorization service for both human and machine identities, enabling teams across an organization, from developers to sales, to manage permissions securely. It supports various models like RBAC, ABAC, and ReBAC and integrates seamlessly with existing architectures. Example use case: A tech company uses Permit.io to streamline access controls and improve security protocols without coding.",
+  "pros": [
+    "Supports no-code policy editing",
+    "Integrates with OPA's Rego and AWS' Cedar",
+    "API, Terraform provider, and SDKs available"
+  ],
+  "cons": [
+    "May require initial learning curve",
+    "Dependent on third-party integrations",
+    "Potential over-complexity for smaller teams"
+  ],
+  "alternatives": [
+    "Auth0 [auth0.com]",
+    "Okta [okta.com]",
+    "Casbin [casbin.org]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Auth0",
+      "url": "auth0.com",
+      "reason": "Popular for customizable authentication"
+    },
+    {
+      "name": "Okta",
+      "url": "okta.com",
+      "reason": "Widely used for enterprise identity management"
+    },
+    {
+      "name": "Casbin",
+      "url": "casbin.org",
+      "reason": "Open-source authorization library"
+    }
+  ],
+  "tags": [
+    "authorization",
+    "security",
+    "no-code",
+    "API"
+  ],
+  "apiUsed": true,
+  "department": "Information Technology",
+  "function": "Authentication",
+  "freeTier": false,
+  "openSource": true,
+  "releasedYear": 2020,
+  "websiteUrl": "https://permit.io/",
+  "documentationUrl": "https://docs.permit.io/",
+  "githubUrl": "https://github.com/permitio",
+  "twitterUrl": "https://twitter.com/permit_io",
+  "screenshot": "https://share.appsfor.us/screenshots/permit_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/permit_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/permit_io_400.png",
+  "updatedAt": "2025-08-05T01:15:14.979Z"
+}

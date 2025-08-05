@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://airbook.io/",
+  "name": "Airbook",
+  "title": "airbook.io",
+  "payoff": "GTM Data Platform for Analytics",
+  "shortDescription": "Airbook is a GTM data platform designed for analytics and operations. It centralizes data from various sources, allowing users to analyze with AI or SQL and push results to their tools. Ideal for teams looking to explore revenue drivers and act on insights. For example, marketing teams can analyze campaign effectiveness and optimize strategies based on real-time data.",
+  "pros": [
+    "Complete data workflow in one platform",
+    "Effortless, direct connections to data sources",
+    "AI-powered analytics for instant insights"
+  ],
+  "cons": [
+    "May be complex for beginners",
+    "Potential high cost for enterprise scale",
+    "Limited customization options"
+  ],
+  "alternatives": [
+    "Tableau [tableau.com]",
+    "Looker [looker.com]",
+    "Microsoft Power BI [powerbi.com]"
+  ],
+  "aiSuggestedAlternatives": [
+    {
+      "name": "Tableau",
+      "url": "tableau.com",
+      "reason": "Visual analytics for business intelligence"
+    },
+    {
+      "name": "Looker",
+      "url": "looker.com",
+      "reason": "Business intelligence and big data analytics"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "url": "powerbi.com",
+      "reason": "Comprehensive business analytics tool"
+    }
+  ],
+  "tags": [
+    "data analytics",
+    "operations",
+    "AI",
+    "collaboration"
+  ],
+  "apiUsed": true,
+  "department": "Data & Analytics",
+  "function": "Analytics",
+  "freeTier": false,
+  "openSource": false,
+  "releasedYear": 2021,
+  "websiteUrl": "https://airbook.io/",
+  "documentationUrl": "https://airbook.io/docs",
+  "githubUrl": "https://github.com/search?q=airbook&type=repositories",
+  "twitterUrl": "https://x.com/airbookhq",
+  "screenshot": "https://share.appsfor.us/screenshots/airbook_io.png",
+  "screenshot_640": "https://share.appsfor.us/screenshots/airbook_io_640.png",
+  "screenshot_400": "https://share.appsfor.us/screenshots/airbook_io_400.png",
+  "updatedAt": "2025-08-05T01:13:47.720Z"
+}
